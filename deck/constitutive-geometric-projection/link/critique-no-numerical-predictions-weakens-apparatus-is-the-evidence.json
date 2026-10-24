@@ -1,0 +1,28 @@
+{
+  "record": "link",
+  "id": "5c88aba4-25db-44f5-9ac5-c06f8b32dc98",
+  "from": "0742fad8-24d7-484f-be5c-54bc950c040f",
+  "to": "ac34623f-5d25-433e-bf07-e3e145dc1df9",
+  "relation": "weakens",
+  "strength": null,
+  "rationale": "Without a measured value or an equation, no observation could tell the apparatus apart from a description chosen to fit.",
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "acd4544a-53eb-48cf-8453-2018602493db",
+        "locator": "comment by Terry Samuels, 2026-06-24",
+        "quote": "means their system cannot be tested, verified, or falsified by any real-world lab experiment"
+      }
+    ]
+  }
+}

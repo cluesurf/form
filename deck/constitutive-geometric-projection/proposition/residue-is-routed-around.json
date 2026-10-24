@@ -1,0 +1,45 @@
+{
+  "record": "proposition",
+  "id": "846671da-2da1-4403-b0c6-131fe12f39a1",
+  "kind": "empirical",
+  "epistemic_status": "hypothesized",
+  "title": "Every encounter with the residue is routed around, none absorbs it",
+  "statements": [
+    {
+      "id": "96ab88bf-6b77-4287-b419-f5839a4db0f2",
+      "text": "In a record of results from mathematics and engineering, from incompleteness to the uncertainty principle, each encounter with genealogical residue was routed around and opened a productive field, and none absorbed the residue.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "96ab88bf-6b77-4287-b419-f5839a4db0f2",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "5477313c-6926-4fda-9e1d-cc7dd832698c",
+        "locator": "abstract",
+        "quote": "every concession that encounters genealogical residue routes around it productively, and none absorbs it"
+      }
+    ]
+  }
+}

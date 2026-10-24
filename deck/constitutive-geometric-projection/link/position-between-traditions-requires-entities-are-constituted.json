@@ -1,0 +1,28 @@
+{
+  "record": "link",
+  "id": "5b13fdc7-f6b2-4548-9ccd-cc29df2a948e",
+  "from": "3f7e56d6-5d30-43b0-b683-dac2abefdb61",
+  "to": "dd83771b-6bdd-4ddd-84e0-fe649c5e206b",
+  "relation": "requires",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "acd4544a-53eb-48cf-8453-2018602493db",
+        "locator": "section \"Lineage\"",
+        "quote": "Constitutive Geometric Projection is its own position, located at coordinates none of the named traditions occupy."
+      }
+    ]
+  }
+}

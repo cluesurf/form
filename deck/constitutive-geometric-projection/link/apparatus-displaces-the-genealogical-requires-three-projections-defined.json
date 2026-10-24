@@ -1,0 +1,28 @@
+{
+  "record": "link",
+  "id": "6fdfe273-2cd3-4124-bb80-73bb0f32e53b",
+  "from": "9fc28cda-50fe-45d9-a8db-0c175e0cc909",
+  "to": "428fb4e0-e6b2-4194-a18d-cac4d53d8b12",
+  "relation": "requires",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "5477313c-6926-4fda-9e1d-cc7dd832698c",
+        "locator": "abstract",
+        "quote": "operates on a dyad of structural and functional projections while displacing a third: the genealogical projection, which carries perspectival, situated, origin-tracing content"
+      }
+    ]
+  }
+}

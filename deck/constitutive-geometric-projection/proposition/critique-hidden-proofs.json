@@ -1,0 +1,45 @@
+{
+  "record": "proposition",
+  "id": "7d579374-1b3f-4ef8-b779-2bffbbacdd5a",
+  "kind": "empirical",
+  "epistemic_status": "inferred",
+  "title": "Critique: the proofs are withheld from public view",
+  "statements": [
+    {
+      "id": "a1e37908-bbf3-4cb5-a207-ba090aeb612d",
+      "text": "The mathematics behind the operators and witnesses is not published, so readers are asked to trust a private archive instead of open or peer-reviewed proofs. Comment by Terry Samuels on the position's announcement post.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "a1e37908-bbf3-4cb5-a207-ba090aeb612d",
+  "status": "active",
+  "voice": "critique",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "acd4544a-53eb-48cf-8453-2018602493db",
+        "locator": "comment by Terry Samuels, 2026-06-24",
+        "quote": "They are asking the scientific community to trust an invisible \"archive\" rather than publishing open-source math or peer-reviewed proofs."
+      }
+    ]
+  }
+}

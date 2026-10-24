@@ -1,0 +1,45 @@
+{
+  "record": "proposition",
+  "id": "ac34623f-5d25-433e-bf07-e3e145dc1df9",
+  "kind": "philosophical",
+  "epistemic_status": "hypothesized",
+  "title": "The apparatus is the evidence for the position",
+  "statements": [
+    {
+      "id": "db46c9da-02a0-41b5-b39e-5badd04332a4",
+      "text": "The position was found by deriving the operator and witness apparatus and reading its structure, not stipulated. The program holds that the apparatus, derived and probed independently, has the structure the position predicts, which is what evidence for a structural metaphysics looks like.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "db46c9da-02a0-41b5-b39e-5badd04332a4",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "acd4544a-53eb-48cf-8453-2018602493db",
+        "locator": "section \"The derivation sequence\"",
+        "quote": "The apparatus is the evidence."
+      }
+    ]
+  }
+}

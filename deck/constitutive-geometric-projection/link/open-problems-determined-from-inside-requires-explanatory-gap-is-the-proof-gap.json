@@ -1,0 +1,28 @@
+{
+  "record": "link",
+  "id": "3492b285-046e-4f36-8c2d-2ca5eaf0ee43",
+  "from": "f2bf4bc5-b9a1-488b-acfa-95996884a7b6",
+  "to": "88ef34a6-2caa-4ad8-aa17-41d729ac7155",
+  "relation": "requires",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "870e0a2e-0297-4d7f-97ab-94b4c8bd49cc",
+        "locator": "section 2.5",
+        "quote": "The Riemann Hypothesis may determine yes under the genealogical projection while the structural-functional proof-boundary persists."
+      }
+    ]
+  }
+}

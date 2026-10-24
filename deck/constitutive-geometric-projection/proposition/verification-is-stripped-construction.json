@@ -1,0 +1,45 @@
+{
+  "record": "proposition",
+  "id": "f2783126-8247-478e-8253-2144899d1bf0",
+  "kind": "mathematical",
+  "epistemic_status": "hypothesized",
+  "title": "Verification is construction with its genealogy stripped",
+  "statements": [
+    {
+      "id": "51aab736-a83d-46fd-a739-e5525d8d72d7",
+      "text": "Construction carries structure, function and genealogy. Verification carries the first two and receives a certificate with its search history erased, so P versus NP compares an object with the process that made it after that process was removed.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "51aab736-a83d-46fd-a739-e5525d8d72d7",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "4ff78c23-2df8-4714-926b-7091b570d193",
+        "locator": "body",
+        "quote": "Verification IS construction with its genealogy stripped."
+      }
+    ]
+  }
+}

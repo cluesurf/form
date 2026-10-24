@@ -1,0 +1,33 @@
+{
+  "record": "link",
+  "id": "a17cbeb1-26ea-488c-a075-fa5161bbe823",
+  "from": "710eab38-1e12-4848-953e-dca36325c148",
+  "to": "3b4eae01-5a6a-4f15-8892-5eb6b4ec09f5",
+  "relation": "requires",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "ddf8889c-952e-456d-a979-59021b7e5a9c",
+        "locator": "section on the person",
+        "quote": "All three. Simultaneously. Every human. Without exception."
+      },
+      {
+        "source": "ddf8889c-952e-456d-a979-59021b7e5a9c",
+        "locator": "section on the person",
+        "quote": "Impairment degrades access to the conditions. It does not degrade the conditions."
+      }
+    ]
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "record": "proposition",
+  "id": "018012ed-805b-4d0f-8467-f0050f84ccc3",
+  "kind": "philosophical",
+  "epistemic_status": "hypothesized",
+  "title": "The structure is known through projection, and is real",
+  "statements": [
+    {
+      "id": "48e41939-1bc8-4892-ac7e-8bff675992b2",
+      "text": "Projection maps higher-dimensional structure to lower-dimensional views, each complete from its witness position. Against Humean projectivism and perspectival relativism, the structure is mind-independent: the projections reveal structure the activity has rather than put it there.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "48e41939-1bc8-4892-ac7e-8bff675992b2",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "acd4544a-53eb-48cf-8453-2018602493db",
+        "locator": "section \"The projective commitment\"",
+        "quote": "Constitutive Geometric Projection is realist."
+      },
+      {
+        "source": "acd4544a-53eb-48cf-8453-2018602493db",
+        "locator": "section \"The projective commitment\"",
+        "quote": "The structure is mind-independent. The projections are the witness-regimes through which mind reads what is."
+      }
+    ]
+  }
+}

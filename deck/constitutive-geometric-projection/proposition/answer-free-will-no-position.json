@@ -1,0 +1,45 @@
+{
+  "record": "proposition",
+  "id": "cfe1c520-052c-4cf9-a2d1-03f8840c7748",
+  "kind": "philosophical",
+  "epistemic_status": "inferred",
+  "title": "Answer: takes no position on free will, agency as owned consequence",
+  "statements": [
+    {
+      "id": "be75927c-9b66-402a-9782-7cdb68bdf257",
+      "text": "The posts read here take no position on free will. The nearest notion of agency is the functional condition: what an entity does changes what it is, and the consequences belong to it.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "be75927c-9b66-402a-9782-7cdb68bdf257",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "4e87abde-d67e-4f3c-a6c4-0f43930f8197",
+        "locator": "section \"Three Conditions\"",
+        "quote": "What the entity does changes what the entity is."
+      }
+    ]
+  }
+}

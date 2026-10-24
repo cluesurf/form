@@ -1,0 +1,45 @@
+{
+  "record": "proposition",
+  "id": "33fc545e-16da-4ba1-8300-642956c5bd1d",
+  "kind": "philosophical",
+  "epistemic_status": "inferred",
+  "title": "The troubles of $\\Phi$ are symptoms of one defect",
+  "statements": [
+    {
+      "id": "a8acaf81-45c2-44f9-bff1-f4c765942daa",
+      "text": "The many candidate measures of $\\Phi$, the grid of logic gates that outscores a brain, and the unfolding of recurrent networks into feedforward ones are predicted appearances of the bridge-debt, not separate technical problems that later work can fix.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "a8acaf81-45c2-44f9-bff1-f4c765942daa",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "e24b7824-6f92-4138-9f9b-c9791d01e4e0",
+        "locator": "section on Phi",
+        "quote": "Φ is the attempted payment of a bridge-debt."
+      }
+    ]
+  }
+}

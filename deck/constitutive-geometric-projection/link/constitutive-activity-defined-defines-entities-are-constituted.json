@@ -1,0 +1,28 @@
+{
+  "record": "link",
+  "id": "845ca898-5458-4a40-9842-fd0c121e30c6",
+  "from": "f5065c95-590c-4a3f-b13a-a4d13482a391",
+  "to": "dd83771b-6bdd-4ddd-84e0-fe649c5e206b",
+  "relation": "defines",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "acd4544a-53eb-48cf-8453-2018602493db",
+        "locator": "section \"What is\"",
+        "quote": "There exists constitutive activity. Constitutive activity is what makes entities entities."
+      }
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "record": "link",
+  "id": "686c0d10-4509-4b86-ae79-1c861700f617",
+  "from": "cfe1c520-052c-4cf9-a2d1-03f8840c7748",
+  "to": "43fc6225-2526-4555-8128-80b38e2fbaf4",
+  "relation": "answers",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "4e87abde-d67e-4f3c-a6c4-0f43930f8197",
+        "locator": "section \"Three Conditions\"",
+        "quote": "What the entity does changes what the entity is."
+      }
+    ]
+  }
+}

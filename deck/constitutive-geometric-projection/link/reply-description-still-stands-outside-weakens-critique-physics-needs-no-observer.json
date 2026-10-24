@@ -1,0 +1,28 @@
+{
+  "record": "link",
+  "id": "0c2a5a70-7db1-4b16-b269-d8fe44721f9a",
+  "from": "7d8f5993-248d-417e-b6a9-845443b29e01",
+  "to": "3f8ab9ad-14e4-47bd-be85-c037ffa3e405",
+  "relation": "weakens",
+  "strength": null,
+  "rationale": "Defining measurement without an observer still describes the atom in terms applied from outside it, which is the claim at issue.",
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "6862f0b5-da1c-4000-936c-eae3db45fda1",
+        "locator": "reply by MetaCortex Dynamics, 2026-05-23",
+        "quote": "It does NOT remove the descriptive apparatus from the description."
+      }
+    ]
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "record": "proposition",
+  "id": "948d6a36-f2f0-40d8-af86-57393148779e",
+  "kind": "philosophical",
+  "epistemic_status": "hypothesized",
+  "title": "Answer: entities and identity emerge, and so do laws",
+  "statements": [
+    {
+      "id": "d985ad15-2f94-4006-9c8c-ae926eea6cca",
+      "text": "Entities and their identity emerge whenever constitutive activity satisfies the three projections at once. Physical laws are also derived: they are the observer's compression of what objects do from inside.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "d985ad15-2f94-4006-9c8c-ae926eea6cca",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "acd4544a-53eb-48cf-8453-2018602493db",
+        "locator": "section \"What is\"",
+        "quote": "Identity is what emerges from this satisfaction."
+      },
+      {
+        "source": "6862f0b5-da1c-4000-936c-eae3db45fda1",
+        "locator": "conclusion",
+        "quote": "Objects do not obey laws. Laws are what objects' self-operations look like from outside."
+      }
+    ]
+  }
+}

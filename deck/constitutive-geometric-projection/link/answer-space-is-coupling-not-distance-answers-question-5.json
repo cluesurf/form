@@ -1,0 +1,33 @@
+{
+  "record": "link",
+  "id": "0e9b190a-b059-4892-adb6-85226b1738b6",
+  "from": "1b2b6286-37c2-4894-a26b-3aef120dd489",
+  "to": "74e87691-55c5-45d4-bcbe-85fb62e5912d",
+  "relation": "answers",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "4e87abde-d67e-4f3c-a6c4-0f43930f8197",
+        "locator": "section \"Three Conditions\"",
+        "quote": "□S covers the spatial (what shape does it hold?)."
+      },
+      {
+        "source": "6862f0b5-da1c-4000-936c-eae3db45fda1",
+        "locator": "section 4",
+        "quote": "NEAR is the degree of coupling, NOT-SAME distance."
+      }
+    ]
+  }
+}

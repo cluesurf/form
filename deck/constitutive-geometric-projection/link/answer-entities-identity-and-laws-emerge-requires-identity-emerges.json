@@ -1,0 +1,33 @@
+{
+  "record": "link",
+  "id": "8f8ab117-f72f-4857-bff8-bdebf2e1aa75",
+  "from": "948d6a36-f2f0-40d8-af86-57393148779e",
+  "to": "05c0fc25-2c5a-4fac-a9d2-59faa5d26321",
+  "relation": "requires",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "acd4544a-53eb-48cf-8453-2018602493db",
+        "locator": "section \"What is\"",
+        "quote": "Identity is what emerges from this satisfaction."
+      },
+      {
+        "source": "6862f0b5-da1c-4000-936c-eae3db45fda1",
+        "locator": "conclusion",
+        "quote": "Objects do not obey laws. Laws are what objects' self-operations look like from outside."
+      }
+    ]
+  }
+}

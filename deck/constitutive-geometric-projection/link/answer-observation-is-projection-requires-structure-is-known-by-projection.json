@@ -1,0 +1,38 @@
+{
+  "record": "link",
+  "id": "a8fe444c-e779-4890-8210-5552517f2f37",
+  "from": "bf9506bc-fed6-41e0-9cfc-f3bc70433c92",
+  "to": "018012ed-805b-4d0f-8467-f0050f84ccc3",
+  "relation": "requires",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "acd4544a-53eb-48cf-8453-2018602493db",
+        "locator": "section \"The projective commitment\"",
+        "quote": "The structure is mind-independent. The projections are the witness-regimes through which mind reads what is."
+      },
+      {
+        "source": "6862f0b5-da1c-4000-936c-eae3db45fda1",
+        "locator": "abstract",
+        "quote": "Every term in physics presupposes an observer."
+      },
+      {
+        "source": "da15d87d-421d-4ece-91b6-291c85b9c24c",
+        "locator": "body",
+        "quote": "It derives from a specific contact surface between observer and system."
+      }
+    ]
+  }
+}

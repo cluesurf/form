@@ -1,0 +1,33 @@
+{
+  "record": "link",
+  "id": "bc24dfbc-29d4-4106-bd93-1ec5c49c2883",
+  "from": "e0a1c837-8f8d-4f47-b79f-f2bb4627e94f",
+  "to": "82bcd45e-c07b-4776-960b-251e46d7f6fb",
+  "relation": "supports",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "5477313c-6926-4fda-9e1d-cc7dd832698c",
+        "locator": "introduction",
+        "quote": "Cognitive traditions that did not perform the Hellenistic displacement do not produce the hard problem in the same form."
+      },
+      {
+        "source": "5477313c-6926-4fda-9e1d-cc7dd832698c",
+        "locator": "introduction",
+        "quote": "The residue covaries with the apparatus."
+      }
+    ]
+  }
+}

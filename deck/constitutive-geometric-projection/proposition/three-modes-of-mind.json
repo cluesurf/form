@@ -1,0 +1,45 @@
+{
+  "record": "proposition",
+  "id": "e06d9e81-c0d0-44c4-ae17-f65d86e69264",
+  "kind": "empirical",
+  "epistemic_status": "hypothesized",
+  "title": "A complete mind cycles through explore, consolidate and persist",
+  "statements": [
+    {
+      "id": "93d00f89-216c-46c8-8153-4d673ac5809d",
+      "text": "The octopus explores through parallel autonomous probes, the cetacean consolidates shared knowledge across a group, and the human persists knowledge in external form. A complete mind, biological or artificial, needs all three as phases of one cycle.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "93d00f89-216c-46c8-8153-4d673ac5809d",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "fd93b17d-7d84-4d5d-aed3-2720b21dbc58",
+        "locator": "abstract",
+        "quote": "every complete mind requires three cognitive modes: octopus (explore), cetacean (consolidate), human (persist)"
+      }
+    ]
+  }
+}

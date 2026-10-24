@@ -1,0 +1,28 @@
+{
+  "record": "link",
+  "id": "0326b3d1-db45-4f12-84b1-04d78758b8cf",
+  "from": "348eba39-768c-4b7f-9f60-5e2b973e24e7",
+  "to": "5dd44bf8-69ad-4cea-a49f-95b16327075a",
+  "relation": "requires",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "4e87abde-d67e-4f3c-a6c4-0f43930f8197",
+        "locator": "section \"The Verdict\"",
+        "quote": "more behavioral resemblance does not imply more consciousness"
+      }
+    ]
+  }
+}

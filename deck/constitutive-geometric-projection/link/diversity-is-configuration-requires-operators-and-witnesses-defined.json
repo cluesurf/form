@@ -1,0 +1,33 @@
+{
+  "record": "link",
+  "id": "c44fb08a-9124-48ef-9db3-fa10ba47ee30",
+  "from": "6de7c6b5-ddb5-42a9-bfbf-d1547d38e70e",
+  "to": "e585e065-e69a-4ab8-ac11-7ca6b619cddd",
+  "relation": "requires",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "fd93b17d-7d84-4d5d-aed3-2720b21dbc58",
+        "locator": "abstract",
+        "quote": "cognitive diversity across species is not variation in intelligence but variation in"
+      },
+      {
+        "source": "fd93b17d-7d84-4d5d-aed3-2720b21dbc58",
+        "locator": "section 2.5",
+        "quote": "Two entities with the same admissibility configuration are cognitively isomorphic regardless of substrate, phylogeny, or behavioral repertoire."
+      }
+    ]
+  }
+}

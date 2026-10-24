@@ -1,0 +1,45 @@
+{
+  "record": "proposition",
+  "id": "0742fad8-24d7-484f-be5c-54bc950c040f",
+  "kind": "philosophical",
+  "epistemic_status": "inferred",
+  "title": "Critique: the position makes no numerical predictions",
+  "statements": [
+    {
+      "id": "886adc61-f1f4-4b47-9ea6-9912af2a87b0",
+      "text": "The operators are qualitative words with no unit or scale, and the position gives no equation or measured value, so no laboratory experiment could test or falsify it. Comment by Terry Samuels, who sets it against a numerical framework of his own.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "886adc61-f1f4-4b47-9ea6-9912af2a87b0",
+  "status": "active",
+  "voice": "critique",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "acd4544a-53eb-48cf-8453-2018602493db",
+        "locator": "comment by Terry Samuels, 2026-06-24",
+        "quote": "means their system cannot be tested, verified, or falsified by any real-world lab experiment"
+      }
+    ]
+  }
+}

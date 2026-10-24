@@ -1,0 +1,50 @@
+{
+  "record": "proposition",
+  "id": "4e1054e2-1341-467d-9630-e85686f32dc8",
+  "kind": "philosophical",
+  "epistemic_status": "hypothesized",
+  "title": "The three projections are one irreducible structure",
+  "statements": [
+    {
+      "id": "834d3c5e-31ac-49be-9024-39ddad29299d",
+      "text": "An entity exists if and only if all three projections hold at once of the same constitutive activity. Stripping any one leaves no entity, so there is no partial entity: the projections are three readings of one structure, not three separable conditions.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "834d3c5e-31ac-49be-9024-39ddad29299d",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "acd4544a-53eb-48cf-8453-2018602493db",
+        "locator": "section \"The constitutive commitment\"",
+        "quote": "An entity exists if and only if all three projections are satisfied simultaneously of the same constitutive activity."
+      },
+      {
+        "source": "acd4544a-53eb-48cf-8453-2018602493db",
+        "locator": "section \"The irreducibility of the three projections\"",
+        "quote": "There is no partial entity under Constitutive Geometric Projection."
+      }
+    ]
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "record": "proposition",
+  "id": "f17de01c-6924-4f36-823a-b0d080fdd0df",
+  "kind": "philosophical",
+  "epistemic_status": "hypothesized",
+  "title": "The structure of constitutive activity is geometric",
+  "statements": [
+    {
+      "id": "c2cf7cef-6df5-4749-9442-77ddba21bdbb",
+      "text": "The relations among the projections are dimensional rather than logical, so they cannot be conjoined as independent propositions. Geometric means structural-dimensional in an abstract sense, not a shape in three-dimensional space, and not a Platonist mathematical object that activity instantiates.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "c2cf7cef-6df5-4749-9442-77ddba21bdbb",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "acd4544a-53eb-48cf-8453-2018602493db",
+        "locator": "section \"The geometric commitment\"",
+        "quote": "The second commitment is that the structure of constitutive activity is geometric, not propositional."
+      },
+      {
+        "source": "acd4544a-53eb-48cf-8453-2018602493db",
+        "locator": "section \"The geometric commitment\"",
+        "quote": "Geometric here does not mean spatial in the literal three-dimensional sense."
+      }
+    ]
+  }
+}

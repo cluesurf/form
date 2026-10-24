@@ -1,0 +1,28 @@
+{
+  "record": "link",
+  "id": "475310f3-49eb-4041-a2d4-0085165557c9",
+  "from": "82bcd45e-c07b-4776-960b-251e46d7f6fb",
+  "to": "9fc28cda-50fe-45d9-a8db-0c175e0cc909",
+  "relation": "requires",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "5477313c-6926-4fda-9e1d-cc7dd832698c",
+        "locator": "abstract",
+        "quote": "The three legs jointly establish the conclusion: the hard problem is a Hellenistic apparatus artifact."
+      }
+    ]
+  }
+}

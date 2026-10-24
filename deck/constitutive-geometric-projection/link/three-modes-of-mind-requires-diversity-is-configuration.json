@@ -1,0 +1,28 @@
+{
+  "record": "link",
+  "id": "6df754fe-8602-4605-9a3a-008f74869d1b",
+  "from": "e06d9e81-c0d0-44c4-ae17-f65d86e69264",
+  "to": "6de7c6b5-ddb5-42a9-bfbf-d1547d38e70e",
+  "relation": "requires",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "fd93b17d-7d84-4d5d-aed3-2720b21dbc58",
+        "locator": "abstract",
+        "quote": "every complete mind requires three cognitive modes: octopus (explore), cetacean (consolidate), human (persist)"
+      }
+    ]
+  }
+}

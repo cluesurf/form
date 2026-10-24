@@ -1,0 +1,45 @@
+{
+  "record": "proposition",
+  "id": "eb9f81a8-f737-4ea3-ba24-3ef57a865ee2",
+  "kind": "normative",
+  "epistemic_status": "normative",
+  "title": "Governing AI does not wait on the consciousness question",
+  "statements": [
+    {
+      "id": "a156661d-4ef4-42df-9d1e-c2874786e1f9",
+      "text": "Whether a system maintains its values under transformation, derives its state from authorized prior states and bears consequences for its behavior can be answered now. Those questions, not consciousness, are what governance of AI systems needs.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "a156661d-4ef4-42df-9d1e-c2874786e1f9",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "4e87abde-d67e-4f3c-a6c4-0f43930f8197",
+        "locator": "section on governance",
+        "quote": "Consciousness is orthogonal to governance."
+      }
+    ]
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "record": "proposition",
+  "id": "047a00e1-20d8-47f5-97cb-2a16a22d9380",
+  "kind": "philosophical",
+  "epistemic_status": "hypothesized",
+  "title": "Sleep, anesthesia and coma are modes of consciousness",
+  "statements": [
+    {
+      "id": "3ec7381d-e281-4b35-ac2f-2c0bd86f1303",
+      "text": "Everything between waking and death is a mode of one continuing constitutive activity. Sleep is maintenance, anesthesia suppresses awareness, and coma reduces constitution. Awareness is one mode of consciousness, not consciousness itself, so levels of consciousness become modes.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "3ec7381d-e281-4b35-ac2f-2c0bd86f1303",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "a3865f92-b82a-473e-9dc8-8a3a6c6496e2",
+        "locator": "section \"What Remains\"",
+        "quote": "Sleep is maintenance mode. Anesthesia is suppressed-awareness mode. Coma is reduced-constitution mode."
+      },
+      {
+        "source": "a3865f92-b82a-473e-9dc8-8a3a6c6496e2",
+        "locator": "section \"The Spectrum Is Folk\"",
+        "quote": "Awareness is not consciousness. Awareness is one mode of consciousness."
+      }
+    ]
+  }
+}

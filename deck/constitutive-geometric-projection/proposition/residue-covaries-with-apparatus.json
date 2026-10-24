@@ -1,0 +1,50 @@
+{
+  "record": "proposition",
+  "id": "e0a1c837-8f8d-4f47-b79f-f2bb4627e94f",
+  "kind": "empirical",
+  "epistemic_status": "hypothesized",
+  "title": "The hard problem appears only where the apparatus was inherited",
+  "statements": [
+    {
+      "id": "85454024-493e-406f-8149-a948443a3aab",
+      "text": "Traditions that did not make the Hellenistic displacement do not produce the hard problem in the same form, while traditions that received the apparatus by transmission do. The residue tracks the apparatus, unlike a boundary set by reality such as the speed of light.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "85454024-493e-406f-8149-a948443a3aab",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "5477313c-6926-4fda-9e1d-cc7dd832698c",
+        "locator": "introduction",
+        "quote": "Cognitive traditions that did not perform the Hellenistic displacement do not produce the hard problem in the same form."
+      },
+      {
+        "source": "5477313c-6926-4fda-9e1d-cc7dd832698c",
+        "locator": "introduction",
+        "quote": "The residue covaries with the apparatus."
+      }
+    ]
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "record": "proposition",
+  "id": "9fc28cda-50fe-45d9-a8db-0c175e0cc909",
+  "kind": "philosophical",
+  "epistemic_status": "hypothesized",
+  "title": "Modern inquiry works on two projections and displaces the third",
+  "statements": [
+    {
+      "id": "3ff86aa3-680f-4247-b359-06269a169116",
+      "text": "The cognitive apparatus inherited from Hellenistic universal inquiry, and made explicit by Bacon, Galileo and Descartes, works with the structural and functional projections and displaces the genealogical one, which carries perspectival, situated and origin-tracing content.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "3ff86aa3-680f-4247-b359-06269a169116",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "5477313c-6926-4fda-9e1d-cc7dd832698c",
+        "locator": "abstract",
+        "quote": "operates on a dyad of structural and functional projections while displacing a third: the genealogical projection, which carries perspectival, situated, origin-tracing content"
+      }
+    ]
+  }
+}

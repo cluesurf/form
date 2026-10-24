@@ -1,0 +1,55 @@
+{
+  "record": "proposition",
+  "id": "bf9506bc-fed6-41e0-9cfc-f3bc70433c92",
+  "kind": "philosophical",
+  "epistemic_status": "hypothesized",
+  "title": "Answer: observation is projection from a witness position",
+  "statements": [
+    {
+      "id": "934bfa94-0234-4f56-bfbc-f31c4c1ddba4",
+      "text": "Observation reads a mind-independent structure through a projection from one witness position, and the measured quantities of physics are such projections of what objects do. Probability and entropy are admissible only when indexed to the boundary where observer and system meet.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "934bfa94-0234-4f56-bfbc-f31c4c1ddba4",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "acd4544a-53eb-48cf-8453-2018602493db",
+        "locator": "section \"The projective commitment\"",
+        "quote": "The structure is mind-independent. The projections are the witness-regimes through which mind reads what is."
+      },
+      {
+        "source": "6862f0b5-da1c-4000-936c-eae3db45fda1",
+        "locator": "abstract",
+        "quote": "Every term in physics presupposes an observer."
+      },
+      {
+        "source": "da15d87d-421d-4ece-91b6-291c85b9c24c",
+        "locator": "body",
+        "quote": "It derives from a specific contact surface between observer and system."
+      }
+    ]
+  }
+}

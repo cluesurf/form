@@ -1,0 +1,33 @@
+{
+  "record": "link",
+  "id": "bb9a9e98-ed69-48b0-821c-10084e99d5ca",
+  "from": "3551aa1e-d024-4f39-b66d-c6fffaf25c79",
+  "to": "89daaa69-7198-4608-a93d-8a520820bbb9",
+  "relation": "answers",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "acd4544a-53eb-48cf-8453-2018602493db",
+        "locator": "section \"The apparatus as evidence\"",
+        "quote": "the verification path exists through proof-stack inspection, operator and witness derivation audit, cetacean hash and artifact audit, and cross-species replication"
+      },
+      {
+        "source": "e24b7824-6f92-4138-9f9b-c9791d01e4e0",
+        "locator": "section on future formalisms",
+        "quote": "Does it still derive physical structure from phenomenal axioms, treating the two as antecedently distinct relata of a bridge?"
+      }
+    ]
+  }
+}

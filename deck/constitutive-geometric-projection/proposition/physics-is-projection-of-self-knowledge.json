@@ -1,0 +1,50 @@
+{
+  "record": "proposition",
+  "id": "da3f7642-61e3-4ef0-8629-5a53337c2581",
+  "kind": "philosophical",
+  "epistemic_status": "hypothesized",
+  "title": "Observer physics is a projection of object self-knowledge",
+  "statements": [
+    {
+      "id": "a167d57d-da69-4c4d-9b8f-311e12a88dcd",
+      "text": "Every term of physics names an observer measuring something an object does. The conjecture is that each such term is the image under a projection $\\Pi$ of an operator the object has from inside, so laws are what objects' self-operations look like from outside.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "a167d57d-da69-4c4d-9b8f-311e12a88dcd",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "6862f0b5-da1c-4000-936c-eae3db45fda1",
+        "locator": "introduction",
+        "quote": "Physics is Π of object self-knowledge."
+      },
+      {
+        "source": "6862f0b5-da1c-4000-936c-eae3db45fda1",
+        "locator": "conclusion",
+        "quote": "Objects do not obey laws. Laws are what objects' self-operations look like from outside."
+      }
+    ]
+  }
+}

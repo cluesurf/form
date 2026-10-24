@@ -1,0 +1,50 @@
+{
+  "record": "proposition",
+  "id": "277b65a8-2bb2-4018-8a75-a6ab67938ebb",
+  "kind": "philosophical",
+  "epistemic_status": "hypothesized",
+  "title": "Answer: experience is the entity's own being, neither added nor derived",
+  "statements": [
+    {
+      "id": "f54b228d-1a2f-408f-a331-422c3cf305cd",
+      "text": "Experience is one event described from the vantage of the system that is the event, and consciousness is what being the entity is. It is not a property derived from the physical, nor a second basic stuff beside it.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "f54b228d-1a2f-408f-a331-422c3cf305cd",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "e24b7824-6f92-4138-9f9b-c9791d01e4e0",
+        "locator": "section on deflections",
+        "quote": "Phenomenology is preserved as one description of one event, viewed at the vantage of the system that is the event."
+      },
+      {
+        "source": "a3865f92-b82a-473e-9dc8-8a3a6c6496e2",
+        "locator": "section \"What Remains\"",
+        "quote": "Consciousness is what being-the-entity is."
+      }
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "record": "link",
+  "id": "c69e6cac-1306-47ec-9a41-56beef913fb5",
+  "from": "b0bafeac-08fc-4b1b-a691-67c948ffa34b",
+  "to": "6de7c6b5-ddb5-42a9-bfbf-d1547d38e70e",
+  "relation": "requires",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "fd93b17d-7d84-4d5d-aed3-2720b21dbc58",
+        "locator": "abstract",
+        "quote": "the admissibility ladder is a lattice, not a staircase"
+      }
+    ]
+  }
+}

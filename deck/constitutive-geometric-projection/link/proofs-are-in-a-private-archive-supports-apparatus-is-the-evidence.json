@@ -1,0 +1,28 @@
+{
+  "record": "link",
+  "id": "5ffd6f84-a233-441b-811c-8f981b6721e5",
+  "from": "5721ac0a-9a67-486f-9193-99b1b68ca826",
+  "to": "ac34623f-5d25-433e-bf07-e3e145dc1df9",
+  "relation": "supports",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "acd4544a-53eb-48cf-8453-2018602493db",
+        "locator": "section \"The derivation sequence\"",
+        "quote": "The proofs reside in the MetaCortex archive and are externally exposable by lemma import."
+      }
+    ]
+  }
+}

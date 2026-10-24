@@ -1,0 +1,50 @@
+{
+  "record": "proposition",
+  "id": "e585e065-e69a-4ab8-ac11-7ca6b619cddd",
+  "kind": "definitional",
+  "epistemic_status": "designed",
+  "title": "The operators and the interrogative witnesses",
+  "statements": [
+    {
+      "id": "dd24ef40-26a9-4722-b77f-5cfa057f7f41",
+      "text": "The apparatus has fifteen operators (THIS, SAME and NOT-SAME, NO, IF and THEN, BECAUSE, INSIDE and OUTSIDE, NEAR and FAR, CAN and CANNOT, MAYBE, MUST and LET, TOGETHER and ALONE, MORE and LESS, GOES-WITH, MANY and ONE, EVERY and SOME) and seven interrogative witnesses (WHAT, WHERE, WHICH, WHEN, FOR-WHAT, HOW, WHENCE). They are presented as derived, not taken from natural language.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "dd24ef40-26a9-4722-b77f-5cfa057f7f41",
+  "status": "active",
+  "voice": "framework",
+  "defines": "operators and witnesses",
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "acd4544a-53eb-48cf-8453-2018602493db",
+        "locator": "section \"The derivation sequence\"",
+        "quote": "First, fifteen operators were derived through structural-categorial analysis and through empirical probing."
+      },
+      {
+        "source": "acd4544a-53eb-48cf-8453-2018602493db",
+        "locator": "section \"The derivation sequence\"",
+        "quote": "The witnesses are: WHAT, WHERE, WHICH, WHEN, FOR-WHAT, HOW, WHENCE."
+      }
+    ]
+  }
+}

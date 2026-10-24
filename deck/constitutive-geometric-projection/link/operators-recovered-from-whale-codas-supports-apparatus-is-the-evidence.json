@@ -1,0 +1,33 @@
+{
+  "record": "link",
+  "id": "6c666e47-4a1a-4206-ba70-fdea2e7842b7",
+  "from": "4bfc8d91-70d5-4948-862a-711743cca13e",
+  "to": "ac34623f-5d25-433e-bf07-e3e145dc1df9",
+  "relation": "supports",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "acd4544a-53eb-48cf-8453-2018602493db",
+        "locator": "section \"The derivation sequence\"",
+        "quote": "Operator-activation patterns were recovered from sperm whale codas."
+      },
+      {
+        "source": "acd4544a-53eb-48cf-8453-2018602493db",
+        "locator": "section \"The derivation sequence\"",
+        "quote": "public replication is pending"
+      }
+    ]
+  }
+}

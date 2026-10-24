@@ -1,0 +1,45 @@
+{
+  "record": "proposition",
+  "id": "015a9d48-e4ba-42ba-b4ee-ff77687dc44b",
+  "kind": "philosophical",
+  "epistemic_status": "hypothesized",
+  "title": "Answer: intelligence is not one scale, minds differ by configuration",
+  "statements": [
+    {
+      "id": "9faa9e8f-45bd-4af1-81f4-35a36412b78d",
+      "text": "The framework does not treat intelligence as a quantity. What varies across minds is which operators are active, which witnesses are lit and how history is transmitted, on one shared geometric structure.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "9faa9e8f-45bd-4af1-81f4-35a36412b78d",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "fd93b17d-7d84-4d5d-aed3-2720b21dbc58",
+        "locator": "abstract",
+        "quote": "cognitive diversity across species is not variation in intelligence but variation in"
+      }
+    ]
+  }
+}

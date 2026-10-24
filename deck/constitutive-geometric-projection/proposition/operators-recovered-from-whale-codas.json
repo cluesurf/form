@@ -1,0 +1,50 @@
+{
+  "record": "proposition",
+  "id": "4bfc8d91-70d5-4948-862a-711743cca13e",
+  "kind": "empirical",
+  "epistemic_status": "hypothesized",
+  "title": "Operator patterns were recovered from sperm whale codas",
+  "statements": [
+    {
+      "id": "ec5fc084-2076-4085-b74a-e5ffce7ad8b1",
+      "text": "The program reports that operator-activation patterns were recovered from sperm whale codas and that frame-referent decomposition recovered echolocation sequence structure, with results committed by SHA-256 hash. Public replication is pending.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "ec5fc084-2076-4085-b74a-e5ffce7ad8b1",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "acd4544a-53eb-48cf-8453-2018602493db",
+        "locator": "section \"The derivation sequence\"",
+        "quote": "Operator-activation patterns were recovered from sperm whale codas."
+      },
+      {
+        "source": "acd4544a-53eb-48cf-8453-2018602493db",
+        "locator": "section \"The derivation sequence\"",
+        "quote": "public replication is pending"
+      }
+    ]
+  }
+}

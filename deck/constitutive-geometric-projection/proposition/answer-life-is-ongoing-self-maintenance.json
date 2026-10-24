@@ -1,0 +1,50 @@
+{
+  "record": "proposition",
+  "id": "12bd2578-d4ac-4fc4-8822-07b1d93038f2",
+  "kind": "philosophical",
+  "epistemic_status": "inferred",
+  "title": "Answer: no separate account of life, death is the end of constitution",
+  "statements": [
+    {
+      "id": "29f806ce-6d5d-41a0-81d0-466a2fd1181c",
+      "text": "The posts read here give no separate definition of life. A living entity is described as self-maintaining, and death is the point where its constitutive activity stops, which is also where its consciousness ends.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "29f806ce-6d5d-41a0-81d0-466a2fd1181c",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "a3865f92-b82a-473e-9dc8-8a3a6c6496e2",
+        "locator": "section \"What Sleep Actually Is\"",
+        "quote": "The entity is alive. The entity is self-maintaining."
+      },
+      {
+        "source": "a3865f92-b82a-473e-9dc8-8a3a6c6496e2",
+        "locator": "section \"The Spectrum Is Folk\"",
+        "quote": "If no self-maintenance continues, the entity has ceased. That is death, not deep unconsciousness."
+      }
+    ]
+  }
+}

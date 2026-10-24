@@ -1,0 +1,45 @@
+{
+  "record": "proposition",
+  "id": "6b062f07-3300-4e73-b34c-47325608d6eb",
+  "kind": "mathematical",
+  "epistemic_status": "hypothesized",
+  "title": "A first-person walk of the sun derives the structure of fusion",
+  "statements": [
+    {
+      "id": "8e256535-eb71-400f-949c-35755002a80e",
+      "text": "Walking the sun from inside with operators alone, and no observer terms such as mass or energy, derives the products of stellar fusion and its mass-deficit ratio, up to one coupling parameter the sun cannot derive about itself.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "8e256535-eb71-400f-949c-35755002a80e",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "6862f0b5-da1c-4000-936c-eae3db45fda1",
+        "locator": "closing statement",
+        "quote": "first-person fold-accounting derives the complete structure of stellar fusion, including the projection-invariant mass-deficit ratio, modulo one self-opaque coupling parameter"
+      }
+    ]
+  }
+}

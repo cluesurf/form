@@ -1,0 +1,33 @@
+{
+  "record": "link",
+  "id": "b1825cc3-484c-4ebf-ae1c-78130d6d9812",
+  "from": "a8129ef5-5676-469a-987f-4c16f0d050a0",
+  "to": "047aa9aa-5e60-4846-a40b-1e81e3d90ac7",
+  "relation": "requires",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "a3865f92-b82a-473e-9dc8-8a3a6c6496e2",
+        "locator": "section \"What Remains\"",
+        "quote": "\"Unconscious\" means: the entity does not exist."
+      },
+      {
+        "source": "a3865f92-b82a-473e-9dc8-8a3a6c6496e2",
+        "locator": "section \"The Dissolution Cascade\"",
+        "quote": "Absence of self-observation is not absence of consciousness."
+      }
+    ]
+  }
+}

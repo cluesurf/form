@@ -1,0 +1,50 @@
+{
+  "record": "proposition",
+  "id": "6fe76ee5-770e-46f8-8987-e9acaad76f68",
+  "kind": "philosophical",
+  "epistemic_status": "inferred",
+  "title": "Integrated information theory is bridge-debted",
+  "statements": [
+    {
+      "id": "dfd3ba62-f375-4481-b2aa-0a5b6f60da94",
+      "text": "IIT derives physical postulates from phenomenal axioms and so presupposes a phenomenal-physical distinction it never witnesses on its own terms. Its foundational question is therefore not yet admissible, which is a different claim from calling it false.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "dfd3ba62-f375-4481-b2aa-0a5b6f60da94",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "e24b7824-6f92-4138-9f9b-c9791d01e4e0",
+        "locator": "opening section",
+        "quote": "IIT is bridge-debted by construction."
+      },
+      {
+        "source": "e24b7824-6f92-4138-9f9b-c9791d01e4e0",
+        "locator": "opening section",
+        "quote": "It is not the claim that IIT is false."
+      }
+    ]
+  }
+}

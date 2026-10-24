@@ -1,0 +1,45 @@
+{
+  "record": "proposition",
+  "id": "5e144ce9-f9b4-422c-91a7-ecc4b426400a",
+  "kind": "philosophical",
+  "epistemic_status": "hypothesized",
+  "title": "A rock is the minimal projection",
+  "statements": [
+    {
+      "id": "581e3f77-9f37-4209-b8da-5882c7dabeaa",
+      "text": "A rock has a geological history, a form and physical effects, so it exists under the projection, with few operators active, no self-interrogating witness and no transmission of its history.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "581e3f77-9f37-4209-b8da-5882c7dabeaa",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "fd93b17d-7d84-4d5d-aed3-2720b21dbc58",
+        "locator": "section 3.1",
+        "quote": "The rock is the minimal projection."
+      }
+    ]
+  }
+}

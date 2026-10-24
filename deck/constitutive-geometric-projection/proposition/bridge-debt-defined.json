@@ -1,0 +1,45 @@
+{
+  "record": "proposition",
+  "id": "eded4cef-eb8a-4455-82d9-29bf6750dc0f",
+  "kind": "definitional",
+  "epistemic_status": "designed",
+  "title": "Bridge-debt",
+  "statements": [
+    {
+      "id": "62722ae7-68e9-4365-9c54-0def6e7bdacd",
+      "text": "A theory is bridge-debted when it requires two domains to be distinct, asks for a relation spanning them, and provides no witness for their separation that is independent of the bridge it then demands.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "62722ae7-68e9-4365-9c54-0def6e7bdacd",
+  "status": "active",
+  "voice": "framework",
+  "defines": "bridge-debt",
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "e24b7824-6f92-4138-9f9b-c9791d01e4e0",
+        "locator": "opening section",
+        "quote": "provides no witness for the separation that is independent of the bridge it then demands"
+      }
+    ]
+  }
+}

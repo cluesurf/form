@@ -1,0 +1,33 @@
+{
+  "record": "link",
+  "id": "1917d9dd-c9ad-4879-a3dc-320989a97235",
+  "from": "da3f7642-61e3-4ef0-8629-5a53337c2581",
+  "to": "018012ed-805b-4d0f-8467-f0050f84ccc3",
+  "relation": "requires",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "6862f0b5-da1c-4000-936c-eae3db45fda1",
+        "locator": "introduction",
+        "quote": "Physics is Π of object self-knowledge."
+      },
+      {
+        "source": "6862f0b5-da1c-4000-936c-eae3db45fda1",
+        "locator": "conclusion",
+        "quote": "Objects do not obey laws. Laws are what objects' self-operations look like from outside."
+      }
+    ]
+  }
+}

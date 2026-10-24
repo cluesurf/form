@@ -1,0 +1,28 @@
+{
+  "record": "link",
+  "id": "44c4e969-429f-4ebb-895d-58ce39c3e2b3",
+  "from": "8abfbd42-f3ca-4004-bc59-c2799801e3ae",
+  "to": "018012ed-805b-4d0f-8467-f0050f84ccc3",
+  "relation": "requires",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "da15d87d-421d-4ece-91b6-291c85b9c24c",
+        "locator": "body",
+        "quote": "It derives from a specific contact surface between observer and system."
+      }
+    ]
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "record": "link",
+  "id": "83153739-e6b2-4477-9aa2-fcda46492cfc",
+  "from": "6de7c6b5-ddb5-42a9-bfbf-d1547d38e70e",
+  "to": "3f7e56d6-5d30-43b0-b683-dac2abefdb61",
+  "relation": "is_in_tension_with",
+  "strength": null,
+  "rationale": "Cognitive sameness regardless of substrate sits uneasily with the stated refusal of strong substrate-neutrality.",
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "fd93b17d-7d84-4d5d-aed3-2720b21dbc58",
+        "locator": "abstract",
+        "quote": "cognitive diversity across species is not variation in intelligence but variation in"
+      },
+      {
+        "source": "fd93b17d-7d84-4d5d-aed3-2720b21dbc58",
+        "locator": "section 2.5",
+        "quote": "Two entities with the same admissibility configuration are cognitively isomorphic regardless of substrate, phylogeny, or behavioral repertoire."
+      }
+    ]
+  }
+}

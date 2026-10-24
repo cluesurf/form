@@ -1,0 +1,28 @@
+{
+  "record": "link",
+  "id": "f90111d4-a52d-4bea-bcdd-e5abf55bdfd3",
+  "from": "5dd44bf8-69ad-4cea-a49f-95b16327075a",
+  "to": "3b4eae01-5a6a-4f15-8892-5eb6b4ec09f5",
+  "relation": "requires",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "ddf8889c-952e-456d-a979-59021b7e5a9c",
+        "locator": "opening section",
+        "quote": "A test that measures performance cannot detect constitution."
+      }
+    ]
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "record": "proposition",
+  "id": "7d8f5993-248d-417e-b6a9-845443b29e01",
+  "kind": "philosophical",
+  "epistemic_status": "inferred",
+  "title": "Reply: removing the observer leaves the descriptive apparatus",
+  "statements": [
+    {
+      "id": "f162f52d-785e-42fb-ba9c-499a0e7c9d9e",
+      "text": "MetaCortex Dynamics agrees that no conscious observer is needed for the absorption, but holds that every term in the description is still applied from outside the atom, which is the displacement the post diagnoses.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "f162f52d-785e-42fb-ba9c-499a0e7c9d9e",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "6862f0b5-da1c-4000-936c-eae3db45fda1",
+        "locator": "reply by MetaCortex Dynamics, 2026-05-23",
+        "quote": "It does NOT remove the descriptive apparatus from the description."
+      }
+    ]
+  }
+}

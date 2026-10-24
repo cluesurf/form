@@ -1,0 +1,45 @@
+{
+  "record": "proposition",
+  "id": "f5065c95-590c-4a3f-b13a-a4d13482a391",
+  "kind": "definitional",
+  "epistemic_status": "designed",
+  "title": "Constitutive activity",
+  "statements": [
+    {
+      "id": "e1b0a8bb-5394-46fa-a59b-bd4c03935766",
+      "text": "Constitutive activity is what makes entities entities. The position asserts that it exists and makes it the foundational term: entities are what such activity constitutes.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "e1b0a8bb-5394-46fa-a59b-bd4c03935766",
+  "status": "active",
+  "voice": "framework",
+  "defines": "constitutive activity",
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "acd4544a-53eb-48cf-8453-2018602493db",
+        "locator": "section \"What is\"",
+        "quote": "There exists constitutive activity. Constitutive activity is what makes entities entities."
+      }
+    ]
+  }
+}

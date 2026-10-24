@@ -1,0 +1,55 @@
+{
+  "record": "proposition",
+  "id": "428fb4e0-e6b2-4194-a18d-cac4d53d8b12",
+  "kind": "definitional",
+  "epistemic_status": "designed",
+  "title": "The genealogical, structural and functional projections",
+  "statements": [
+    {
+      "id": "32696481-3d0e-4147-bf09-fa8c4c62ac29",
+      "text": "The genealogical projection is that an entity has the specific causal history that produced its specific activity. The structural projection is that it holds together as one entity across time. The functional projection is that the activity is what the entity is being, not something it has or does in addition. Each is read through its own witness regime.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "32696481-3d0e-4147-bf09-fa8c4c62ac29",
+  "status": "active",
+  "voice": "framework",
+  "defines": "genealogical, structural and functional projection",
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "acd4544a-53eb-48cf-8453-2018602493db",
+        "locator": "section \"What is\"",
+        "quote": "Genealogical projection: an entity has the specific causal history that produced its specific activity."
+      },
+      {
+        "source": "acd4544a-53eb-48cf-8453-2018602493db",
+        "locator": "section \"What is\"",
+        "quote": "Structural projection: an entity holds together as one entity across time."
+      },
+      {
+        "source": "acd4544a-53eb-48cf-8453-2018602493db",
+        "locator": "section \"What is\"",
+        "quote": "Functional projection: the activity is what the entity is being."
+      }
+    ]
+  }
+}

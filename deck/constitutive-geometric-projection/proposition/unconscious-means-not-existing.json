@@ -1,0 +1,50 @@
+{
+  "record": "proposition",
+  "id": "a8129ef5-5676-469a-987f-4c16f0d050a0",
+  "kind": "philosophical",
+  "epistemic_status": "hypothesized",
+  "title": "Unconscious, in the only coherent sense, means not existing",
+  "statements": [
+    {
+      "id": "2d0262ad-dba2-4745-a6b7-875936a30052",
+      "text": "If consciousness toggled off in sleep, the alarm clock would create it each morning, which is absurd. So the word names no state of an existing entity. Processing without self-observation is still conscious activity the entity is not watching.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "2d0262ad-dba2-4745-a6b7-875936a30052",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "a3865f92-b82a-473e-9dc8-8a3a6c6496e2",
+        "locator": "section \"What Remains\"",
+        "quote": "\"Unconscious\" means: the entity does not exist."
+      },
+      {
+        "source": "a3865f92-b82a-473e-9dc8-8a3a6c6496e2",
+        "locator": "section \"The Dissolution Cascade\"",
+        "quote": "Absence of self-observation is not absence of consciousness."
+      }
+    ]
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "record": "proposition",
+  "id": "6de7c6b5-ddb5-42a9-bfbf-d1547d38e70e",
+  "kind": "philosophical",
+  "epistemic_status": "hypothesized",
+  "title": "Minds differ by configuration, not by amount of intelligence",
+  "statements": [
+    {
+      "id": "23b413fb-b2a5-484e-9a69-7208e01aefa0",
+      "text": "Cognitive architectures are classified by which operators are active, which witnesses are lit and how genealogical continuity is transmitted. Two entities with the same configuration are cognitively the same whatever their substrate.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "23b413fb-b2a5-484e-9a69-7208e01aefa0",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "fd93b17d-7d84-4d5d-aed3-2720b21dbc58",
+        "locator": "abstract",
+        "quote": "cognitive diversity across species is not variation in intelligence but variation in"
+      },
+      {
+        "source": "fd93b17d-7d84-4d5d-aed3-2720b21dbc58",
+        "locator": "section 2.5",
+        "quote": "Two entities with the same admissibility configuration are cognitively isomorphic regardless of substrate, phylogeny, or behavioral repertoire."
+      }
+    ]
+  }
+}

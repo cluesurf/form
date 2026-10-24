@@ -1,0 +1,50 @@
+{
+  "record": "proposition",
+  "id": "789effc8-0c05-458f-9b1c-0ae264744574",
+  "kind": "philosophical",
+  "epistemic_status": "hypothesized",
+  "title": "Answer: time enters as genealogy and persistence",
+  "statements": [
+    {
+      "id": "8cc76242-8d71-457b-9302-61a8167eaa7a",
+      "text": "Time enters through the genealogical condition, where a thing came from, and through the structural one, holding together across an interval. The posts read here give no further theory of time.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "8cc76242-8d71-457b-9302-61a8167eaa7a",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "4e87abde-d67e-4f3c-a6c4-0f43930f8197",
+        "locator": "section \"Three Conditions\"",
+        "quote": "□G covers the temporal (where did this come from?)."
+      },
+      {
+        "source": "acd4544a-53eb-48cf-8453-2018602493db",
+        "locator": "section \"What is\"",
+        "quote": "Structural projection: an entity holds together as one entity across time."
+      }
+    ]
+  }
+}

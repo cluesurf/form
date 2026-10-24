@@ -1,0 +1,28 @@
+{
+  "record": "link",
+  "id": "ddfc575a-9d21-4804-86b0-4d0c3cebc505",
+  "from": "33fc545e-16da-4ba1-8300-642956c5bd1d",
+  "to": "6fe76ee5-770e-46f8-8987-e9acaad76f68",
+  "relation": "requires",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "e24b7824-6f92-4138-9f9b-c9791d01e4e0",
+        "locator": "section on Phi",
+        "quote": "Φ is the attempted payment of a bridge-debt."
+      }
+    ]
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "record": "proposition",
+  "id": "5721ac0a-9a67-486f-9193-99b1b68ca826",
+  "kind": "empirical",
+  "epistemic_status": "inferred",
+  "title": "The closure and completeness proofs are kept in a private archive",
+  "statements": [
+    {
+      "id": "81a2ed51-81ee-487e-885a-c69618c5df66",
+      "text": "The proofs of closure and completeness for the operators and witnesses are not published. By the program's account they reside in the MetaCortex archive and can be exposed by lemma import.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "81a2ed51-81ee-487e-885a-c69618c5df66",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "acd4544a-53eb-48cf-8453-2018602493db",
+        "locator": "section \"The derivation sequence\"",
+        "quote": "The proofs reside in the MetaCortex archive and are externally exposable by lemma import."
+      }
+    ]
+  }
+}

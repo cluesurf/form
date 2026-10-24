@@ -1,0 +1,28 @@
+{
+  "record": "link",
+  "id": "a1871bc9-ed19-4917-9dd8-d16c47b62c01",
+  "from": "dfbec8b2-4b9c-402c-94be-0ffe89e9e186",
+  "to": "0630b3b4-dc5e-41ca-80ab-459c28ba6989",
+  "relation": "requires",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "e24b7824-6f92-4138-9f9b-c9791d01e4e0",
+        "locator": "section on physics",
+        "quote": "the thermodynamic and the information-theoretic are one physical event under two descriptions"
+      }
+    ]
+  }
+}

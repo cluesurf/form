@@ -1,0 +1,45 @@
+{
+  "record": "proposition",
+  "id": "0e6b6f33-ccd0-49f2-bd33-82722b06e361",
+  "kind": "philosophical",
+  "epistemic_status": "hypothesized",
+  "title": "Admissibility under a witness regime replaces truth at the foundation",
+  "statements": [
+    {
+      "id": "e04ac4cd-efe8-4e23-a1eb-b77727474738",
+      "text": "What replaces a bridge-law theory is a structural specification: the conditions a system must meet to be a coherent locus of experience. At the foundational level a theory is judged admissible when its required distinctions are witnessed before it demands an explanation.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "e04ac4cd-efe8-4e23-a1eb-b77727474738",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "e24b7824-6f92-4138-9f9b-c9791d01e4e0",
+        "locator": "section on replacement",
+        "quote": "Replace truth and falsity, at the foundational level, with admissibility under a witness regime."
+      }
+    ]
+  }
+}

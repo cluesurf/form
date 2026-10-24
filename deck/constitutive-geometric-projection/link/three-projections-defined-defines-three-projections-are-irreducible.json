@@ -1,0 +1,38 @@
+{
+  "record": "link",
+  "id": "672bbc75-7122-47bc-971e-5e28c7eb6ef4",
+  "from": "428fb4e0-e6b2-4194-a18d-cac4d53d8b12",
+  "to": "4e1054e2-1341-467d-9630-e85686f32dc8",
+  "relation": "defines",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "acd4544a-53eb-48cf-8453-2018602493db",
+        "locator": "section \"What is\"",
+        "quote": "Genealogical projection: an entity has the specific causal history that produced its specific activity."
+      },
+      {
+        "source": "acd4544a-53eb-48cf-8453-2018602493db",
+        "locator": "section \"What is\"",
+        "quote": "Structural projection: an entity holds together as one entity across time."
+      },
+      {
+        "source": "acd4544a-53eb-48cf-8453-2018602493db",
+        "locator": "section \"What is\"",
+        "quote": "Functional projection: the activity is what the entity is being."
+      }
+    ]
+  }
+}

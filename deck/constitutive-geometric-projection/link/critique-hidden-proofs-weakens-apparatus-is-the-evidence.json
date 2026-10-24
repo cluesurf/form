@@ -1,0 +1,28 @@
+{
+  "record": "link",
+  "id": "00d29bd7-b224-449d-aa2c-074387bf5d95",
+  "from": "7d579374-1b3f-4ef8-b779-2bffbbacdd5a",
+  "to": "ac34623f-5d25-433e-bf07-e3e145dc1df9",
+  "relation": "weakens",
+  "strength": null,
+  "rationale": "Evidence that sits in a private archive cannot be checked by others, so it cannot yet carry the weight the position puts on it.",
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "acd4544a-53eb-48cf-8453-2018602493db",
+        "locator": "comment by Terry Samuels, 2026-06-24",
+        "quote": "They are asking the scientific community to trust an invisible \"archive\" rather than publishing open-source math or peer-reviewed proofs."
+      }
+    ]
+  }
+}

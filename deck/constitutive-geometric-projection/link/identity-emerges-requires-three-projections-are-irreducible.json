@@ -1,0 +1,28 @@
+{
+  "record": "link",
+  "id": "d4ee7f45-6da2-4f1c-a643-5bb085d171ed",
+  "from": "05c0fc25-2c5a-4fac-a9d2-59faa5d26321",
+  "to": "4e1054e2-1341-467d-9630-e85686f32dc8",
+  "relation": "requires",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "acd4544a-53eb-48cf-8453-2018602493db",
+        "locator": "section \"What is\"",
+        "quote": "Identity is what emerges from this satisfaction."
+      }
+    ]
+  }
+}

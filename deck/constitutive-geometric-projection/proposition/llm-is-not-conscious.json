@@ -1,0 +1,50 @@
+{
+  "record": "proposition",
+  "id": "55dbade2-22b0-4dfa-83a2-78a8f2649814",
+  "kind": "philosophical",
+  "epistemic_status": "inferred",
+  "title": "A large language model is not conscious under the conditions",
+  "statements": [
+    {
+      "id": "a93b00f0-4fdf-4bdd-a459-9dc494bb5ae9",
+      "text": "The entity under test is the projected speaker, not the weights or the runtime. It has no genealogical continuity, since each conversation starts fresh, no structure independent of its prompt, and no consequences that return to it. So under the three conditions it is not conscious.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "a93b00f0-4fdf-4bdd-a459-9dc494bb5ae9",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "4e87abde-d67e-4f3c-a6c4-0f43930f8197",
+        "locator": "section \"The Test\"",
+        "quote": "Each conversation is a fresh instantiation."
+      },
+      {
+        "source": "4e87abde-d67e-4f3c-a6c4-0f43930f8197",
+        "locator": "section \"The Verdict\"",
+        "quote": "Under the stated conditions, the LLM is not conscious."
+      }
+    ]
+  }
+}

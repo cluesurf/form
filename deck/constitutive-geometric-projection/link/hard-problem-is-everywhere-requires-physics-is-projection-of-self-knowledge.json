@@ -1,0 +1,28 @@
+{
+  "record": "link",
+  "id": "8d056e96-a01c-445b-b1b7-a8eceea20f19",
+  "from": "364c3ed3-7df5-4106-8fbd-4b19a8c9337b",
+  "to": "da3f7642-61e3-4ef0-8629-5a53337c2581",
+  "relation": "requires",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "6862f0b5-da1c-4000-936c-eae3db45fda1",
+        "locator": "conclusion",
+        "quote": "the hard problem is everywhere. Every physical system has a first/third gap."
+      }
+    ]
+  }
+}

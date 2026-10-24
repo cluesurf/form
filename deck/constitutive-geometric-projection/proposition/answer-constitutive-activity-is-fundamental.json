@@ -1,0 +1,45 @@
+{
+  "record": "proposition",
+  "id": "c2eeae81-fd06-42cf-b0d3-abc667eb0d8c",
+  "kind": "philosophical",
+  "epistemic_status": "hypothesized",
+  "title": "Answer: constitutive activity is what fundamentally is",
+  "statements": [
+    {
+      "id": "e8afde5f-f064-44fb-9dcb-1bdd26297021",
+      "text": "What fundamentally exists is constitutive activity, with a geometric structure that the activity has rather than instantiates. Substances, Forms and pure flux are all rejected as the basic category.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "e8afde5f-f064-44fb-9dcb-1bdd26297021",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "acd4544a-53eb-48cf-8453-2018602493db",
+        "locator": "section \"What is\"",
+        "quote": "There exists constitutive activity. Constitutive activity is what makes entities entities."
+      }
+    ]
+  }
+}

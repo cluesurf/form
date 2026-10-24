@@ -1,0 +1,45 @@
+{
+  "record": "proposition",
+  "id": "b0bafeac-08fc-4b1b-a691-67c948ffa34b",
+  "kind": "philosophical",
+  "epistemic_status": "hypothesized",
+  "title": "Minds form a lattice, not a ladder",
+  "statements": [
+    {
+      "id": "7123851f-a8ef-4014-b43c-8029129dc3a4",
+      "text": "The configurations of mind form a lattice with several stable configurations at the same level of activation, not a ranking from simple to complex.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "7123851f-a8ef-4014-b43c-8029129dc3a4",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "fd93b17d-7d84-4d5d-aed3-2720b21dbc58",
+        "locator": "abstract",
+        "quote": "the admissibility ladder is a lattice, not a staircase"
+      }
+    ]
+  }
+}

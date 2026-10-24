@@ -1,0 +1,50 @@
+{
+  "record": "proposition",
+  "id": "3ff9b454-dabb-4841-8e49-7e130f1ae400",
+  "kind": "definitional",
+  "epistemic_status": "designed",
+  "title": "When a genealogical determination is admissible",
+  "statements": [
+    {
+      "id": "cac5a92d-2459-4dbb-a297-9c9a666f089f",
+      "text": "A genealogical determination is admissible only if it states its projection, speaks from the object's own state space, names an invariant available from inside it, explains why structural-functional derivation cannot reach it, and contradicts nothing already established about the object.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "cac5a92d-2459-4dbb-a297-9c9a666f089f",
+  "status": "active",
+  "voice": "framework",
+  "defines": "genealogical admissibility",
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "870e0a2e-0297-4d7f-97ab-94b4c8bd49cc",
+        "locator": "section 2.6",
+        "quote": "A genealogical determination is admissible if and only if it satisfies five conditions."
+      },
+      {
+        "source": "870e0a2e-0297-4d7f-97ab-94b4c8bd49cc",
+        "locator": "section 2.6",
+        "quote": "No known zero of the zeta function contradicts the critical-line determination."
+      }
+    ]
+  }
+}

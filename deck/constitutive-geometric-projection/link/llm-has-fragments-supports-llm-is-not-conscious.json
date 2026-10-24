@@ -1,0 +1,28 @@
+{
+  "record": "link",
+  "id": "9a4f47f1-581b-47b9-b69b-4ef0e0c661e2",
+  "from": "b48a7d73-70e4-48a5-9912-8133fe8daffd",
+  "to": "55dbade2-22b0-4dfa-83a2-78a8f2649814",
+  "relation": "supports",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "fd93b17d-7d84-4d5d-aed3-2720b21dbc58",
+        "locator": "section on AI",
+        "quote": "An LLM has strong GOES-WITH (associative pattern completion) but weak CAN/CANNOT"
+      }
+    ]
+  }
+}

@@ -22,14 +22,17 @@ pages, and each quote is checked against its source on every run.
   hypothesized, designed, simulated).
 - **standing**: the repository's own verdict. `open` for every claim
   that holds or is untested, `rejected` for every negative result,
-  broken claim and refuted prediction, and for every published label
-  the audit withdrew, with the observation that failed it. Nothing here
-  is `supported` yet.
+  broken claim and refuted prediction, with the observation that failed
+  it. These are the dead ends. Nothing here is `supported` yet.
 - **voice: critique**: an objection the program met or found in its own
   audits, linked `weakens` to the claims it targets. A claim an
   objection still stands against has `status: "disputed"`.
 - **status: retracted**: a passage of a published paper that claimed
-  more than its code supports, with the audit's regrading.
+  more than its code supports, withdrawn by the program's own audit.
+  It is a correction to the paper's wording, not a dead end: it
+  carries no standing, its `conditions` give the audit's regrading,
+  and a `weakens` link from the audit's observation says what the
+  code does.
 - Experiments are `procedure` records: `completed` when a result rests
   on them, `designed` for the rest of the registry.
 

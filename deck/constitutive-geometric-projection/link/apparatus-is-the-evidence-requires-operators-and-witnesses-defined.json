@@ -1,0 +1,28 @@
+{
+  "record": "link",
+  "id": "41753393-b207-46d7-b512-845d3975f254",
+  "from": "ac34623f-5d25-433e-bf07-e3e145dc1df9",
+  "to": "e585e065-e69a-4ab8-ac11-7ca6b619cddd",
+  "relation": "requires",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "acd4544a-53eb-48cf-8453-2018602493db",
+        "locator": "section \"The derivation sequence\"",
+        "quote": "The apparatus is the evidence."
+      }
+    ]
+  }
+}

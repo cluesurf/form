@@ -1,0 +1,33 @@
+{
+  "record": "link",
+  "id": "4d1ca1b1-8e4a-4ca8-b42e-be14747548d4",
+  "from": "4e1054e2-1341-467d-9630-e85686f32dc8",
+  "to": "f17de01c-6924-4f36-823a-b0d080fdd0df",
+  "relation": "requires",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "acd4544a-53eb-48cf-8453-2018602493db",
+        "locator": "section \"The constitutive commitment\"",
+        "quote": "An entity exists if and only if all three projections are satisfied simultaneously of the same constitutive activity."
+      },
+      {
+        "source": "acd4544a-53eb-48cf-8453-2018602493db",
+        "locator": "section \"The irreducibility of the three projections\"",
+        "quote": "There is no partial entity under Constitutive Geometric Projection."
+      }
+    ]
+  }
+}

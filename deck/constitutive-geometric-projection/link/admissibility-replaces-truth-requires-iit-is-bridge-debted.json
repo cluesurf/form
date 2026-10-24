@@ -1,0 +1,28 @@
+{
+  "record": "link",
+  "id": "dd7f84cd-37a8-42d0-8b4a-ace596dc7866",
+  "from": "0e6b6f33-ccd0-49f2-bd33-82722b06e361",
+  "to": "6fe76ee5-770e-46f8-8987-e9acaad76f68",
+  "relation": "requires",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "e24b7824-6f92-4138-9f9b-c9791d01e4e0",
+        "locator": "section on replacement",
+        "quote": "Replace truth and falsity, at the foundational level, with admissibility under a witness regime."
+      }
+    ]
+  }
+}

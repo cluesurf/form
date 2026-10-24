@@ -1,0 +1,33 @@
+{
+  "record": "link",
+  "id": "b677454b-76a5-428e-b97e-6484f41168e0",
+  "from": "b1b30cee-3640-401f-95d1-368be173fc60",
+  "to": "fa149d96-d797-483c-a560-6a297c01c9b1",
+  "relation": "answers",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "acd4544a-53eb-48cf-8453-2018602493db",
+        "locator": "section \"The position in full\"",
+        "quote": "Humans, animals, and the kind of integrated biological systems that satisfy the three conditions."
+      },
+      {
+        "source": "4e87abde-d67e-4f3c-a6c4-0f43930f8197",
+        "locator": "section \"The Verdict\"",
+        "quote": "Under the stated conditions, the LLM is not conscious."
+      }
+    ]
+  }
+}

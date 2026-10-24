@@ -1,0 +1,45 @@
+{
+  "record": "proposition",
+  "id": "82bcd45e-c07b-4776-960b-251e46d7f6fb",
+  "kind": "philosophical",
+  "epistemic_status": "hypothesized",
+  "title": "The hard problem is an artifact of the apparatus",
+  "statements": [
+    {
+      "id": "092ebc87-180c-4485-af49-85c2bd5fa86e",
+      "text": "The explanatory gap between physical description and experience is the residue of the displaced genealogical projection. It is produced by the way of looking, not by the way things are.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "092ebc87-180c-4485-af49-85c2bd5fa86e",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "5477313c-6926-4fda-9e1d-cc7dd832698c",
+        "locator": "abstract",
+        "quote": "The three legs jointly establish the conclusion: the hard problem is a Hellenistic apparatus artifact."
+      }
+    ]
+  }
+}

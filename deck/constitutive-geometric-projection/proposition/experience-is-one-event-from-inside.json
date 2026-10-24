@@ -1,0 +1,45 @@
+{
+  "record": "proposition",
+  "id": "ee51ea80-7e00-4675-b7fd-7130d691a273",
+  "kind": "philosophical",
+  "epistemic_status": "hypothesized",
+  "title": "Experience is one event described from the vantage of the system that is it",
+  "statements": [
+    {
+      "id": "a45b94a9-d66f-4554-bbaf-fa2e515272e8",
+      "text": "The diagnosis denies that the phenomenal and the physical are two things. Unlike illusionism, it keeps phenomenology, as one description of one event seen from the system that is the event.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "a45b94a9-d66f-4554-bbaf-fa2e515272e8",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "e24b7824-6f92-4138-9f9b-c9791d01e4e0",
+        "locator": "section on deflections",
+        "quote": "Phenomenology is preserved as one description of one event, viewed at the vantage of the system that is the event."
+      }
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "record": "link",
+  "id": "bee677cd-9ba0-4879-8db8-f721900cfed3",
+  "from": "6b062f07-3300-4e73-b34c-47325608d6eb",
+  "to": "da3f7642-61e3-4ef0-8629-5a53337c2581",
+  "relation": "supports",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "6862f0b5-da1c-4000-936c-eae3db45fda1",
+        "locator": "closing statement",
+        "quote": "first-person fold-accounting derives the complete structure of stellar fusion, including the projection-invariant mass-deficit ratio, modulo one self-opaque coupling parameter"
+      }
+    ]
+  }
+}

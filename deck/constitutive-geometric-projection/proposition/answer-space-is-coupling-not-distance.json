@@ -1,0 +1,50 @@
+{
+  "record": "proposition",
+  "id": "1b2b6286-37c2-4894-a26b-3aef120dd489",
+  "kind": "philosophical",
+  "epistemic_status": "hypothesized",
+  "title": "Answer: space is structure and coupling, not a container",
+  "statements": [
+    {
+      "id": "902c5b68-cc5b-4248-9ad0-d8d414f98484",
+      "text": "The structural condition covers the spatial, the shape a thing holds. The geometry of constitutive structure is abstract, not literal three-dimensional space, and from inside an object nearness is the degree of coupling, while distance is an observer's measurement.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "902c5b68-cc5b-4248-9ad0-d8d414f98484",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "4e87abde-d67e-4f3c-a6c4-0f43930f8197",
+        "locator": "section \"Three Conditions\"",
+        "quote": "□S covers the spatial (what shape does it hold?)."
+      },
+      {
+        "source": "6862f0b5-da1c-4000-936c-eae3db45fda1",
+        "locator": "section 4",
+        "quote": "NEAR is the degree of coupling, NOT-SAME distance."
+      }
+    ]
+  }
+}

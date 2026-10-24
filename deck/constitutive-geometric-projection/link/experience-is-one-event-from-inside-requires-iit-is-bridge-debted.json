@@ -1,0 +1,28 @@
+{
+  "record": "link",
+  "id": "f41581a6-0a4a-43cf-a57c-a5fd66017b15",
+  "from": "ee51ea80-7e00-4675-b7fd-7130d691a273",
+  "to": "6fe76ee5-770e-46f8-8987-e9acaad76f68",
+  "relation": "requires",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "e24b7824-6f92-4138-9f9b-c9791d01e4e0",
+        "locator": "section on deflections",
+        "quote": "Phenomenology is preserved as one description of one event, viewed at the vantage of the system that is the event."
+      }
+    ]
+  }
+}
