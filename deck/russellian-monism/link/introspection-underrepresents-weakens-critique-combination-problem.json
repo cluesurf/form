@@ -1,0 +1,33 @@
+{
+  "record": "link",
+  "id": "b0c9c7e7-a445-413b-b7a8-2c1755dfc4ee",
+  "from": "8010c7b1-f1b5-4706-89d8-fc971e2c4ca9",
+  "to": "45d1e61b-0800-41c7-80d1-c24f1f39fb7e",
+  "relation": "weakens",
+  "strength": null,
+  "rationale": "If introspection hides the composition of experience, the apparent simplicity of experience is no evidence against its being composed of quiddities.",
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "ef130a02-df8c-4de4-84ba-9d2696d02e3a",
+        "locator": "p. 31",
+        "quote": "it is in fact composed of a complex microphenomenal array that is normally not introspectively discerned"
+      },
+      {
+        "source": "0840dcc2-1282-4a87-bda3-061465634bb0",
+        "locator": "section 3.2",
+        "quote": "However, that response is only partial."
+      }
+    ]
+  }
+}

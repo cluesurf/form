@@ -1,0 +1,50 @@
+{
+  "record": "proposition",
+  "id": "96405a89-cffb-4d8a-9826-04e879798c6a",
+  "kind": "empirical",
+  "epistemic_status": "inferred",
+  "title": "Critique: infants feel pain but likely lack higher-order thoughts",
+  "statements": [
+    {
+      "id": "ee0a3917-d556-491e-a678-c809341236ed",
+      "text": "Frontal activity is low in newborns and endogenous attention matures late, so infants likely lack higher-order thoughts, yet there is no reason to think their pain is less intense than adult pain. Calling such pains unconscious makes the claim trivial.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "ee0a3917-d556-491e-a678-c809341236ed",
+  "status": "active",
+  "voice": "critique",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "713a83e8-8bc5-4221-ad04-794d08e956c6",
+        "locator": "p. 485",
+        "quote": "low frontal activity in newborns may well indicate lack of higher-order thoughts about genuine sensory experiences"
+      },
+      {
+        "source": "57902ad8-c0c3-4f75-acdd-0280d7e6ce4d",
+        "locator": "p. 536",
+        "quote": "Evidence against both higher-order thought and unconscious states puts Rosenthal in a vise"
+      }
+    ]
+  }
+}

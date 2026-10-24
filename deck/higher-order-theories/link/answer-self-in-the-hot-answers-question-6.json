@@ -1,0 +1,28 @@
+{
+  "record": "link",
+  "id": "3a6a449e-4193-4b20-b102-b55225c5006c",
+  "from": "86d175c3-b229-442a-8447-256f255cfb36",
+  "to": "40dc81c7-5c68-457a-b6c2-e77c0207606e",
+  "relation": "answers",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "e999fb33-eac9-4867-98e3-a949d396882b",
+        "locator": "p. 508",
+        "quote": "we defined higher-order representations as mental states that ‘‘represent oneself as being in particular perceptual states’’"
+      }
+    ]
+  }
+}

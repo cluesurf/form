@@ -1,0 +1,43 @@
+{
+  "record": "link",
+  "id": "877a5afb-fb28-4268-b469-71825e90a045",
+  "from": "3b5ff816-62bc-4465-bb77-c63025ec1afc",
+  "to": "c454005f-2909-4026-8733-b59a4cfe06f4",
+  "relation": "supports",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "a2015889-f423-459b-82c6-02b65f2f0614",
+        "locator": "chapter I",
+        "quote": "Physics, in itself, is exceedingly abstract"
+      },
+      {
+        "source": "a2015889-f423-459b-82c6-02b65f2f0614",
+        "locator": "chapter XXV, p. 264",
+        "quote": "The gulf between percepts and physics is not a gulf as regards intrinsic quality, for we know nothing of the intrinsic quality of the physical world"
+      },
+      {
+        "source": "a2015889-f423-459b-82c6-02b65f2f0614",
+        "locator": "chapter XXXVIII, p. 402",
+        "quote": "Percepts are the only part of the physical world that we know otherwise than abstractly."
+      },
+      {
+        "source": "a2015889-f423-459b-82c6-02b65f2f0614",
+        "locator": "chapter XXXVIII, p. 402",
+        "quote": "physical and mental is superficial and unreal"
+      }
+    ]
+  }
+}

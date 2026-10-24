@@ -1,0 +1,28 @@
+{
+  "record": "link",
+  "id": "4b0524f8-3385-4875-beb1-1a3a56dbdb94",
+  "from": "fdc274c9-9fdc-4b7e-9181-1311b5597b0a",
+  "to": "034b5424-ff11-472e-b2a6-7f19ad94c866",
+  "relation": "supports",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "717ca9a8-d351-4583-a4ba-5ed3b5f7e20c",
+        "locator": "p. 198",
+        "quote": "So if mental states are all conscious, no informative, non-trivial explanation of such consciousness is possible."
+      }
+    ]
+  }
+}

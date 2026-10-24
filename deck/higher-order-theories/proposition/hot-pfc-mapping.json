@@ -1,0 +1,50 @@
+{
+  "record": "proposition",
+  "id": "c3b214c4-93cf-48f2-bb6a-a0c5a5d6ef23",
+  "kind": "empirical",
+  "epistemic_status": "hypothesized",
+  "title": "Higher-order representations depend on prefrontal and parietal cortex",
+  "statements": [
+    {
+      "id": "fe753e73-8d45-4e7b-99d0-40e79bfcbf5a",
+      "text": "First-order perceptual representations depend on activity in early sensory regions, and higher-order representations depend mainly on activity in prefrontal and parietal cortex. The higher-order view by itself does not fix this anatomy, but Lau and Rosenthal adopt it as its neural interpretation.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "fe753e73-8d45-4e7b-99d0-40e79bfcbf5a",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "f431a5c3-19c2-4095-ae55-723cadcafced",
+        "locator": "p. 365",
+        "quote": "higher-order representations depend on neural activity mainly in prefrontal"
+      },
+      {
+        "source": "f431a5c3-19c2-4095-ae55-723cadcafced",
+        "locator": "p. 366",
+        "quote": "By itself, the higher-order view does not specify this neuroanatomical detail"
+      }
+    ]
+  }
+}

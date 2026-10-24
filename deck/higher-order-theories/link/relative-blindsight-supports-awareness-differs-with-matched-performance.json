@@ -1,0 +1,33 @@
+{
+  "record": "link",
+  "id": "11d449e8-7e45-4f77-be18-eec8cfe201e3",
+  "from": "43ae07ff-a976-4346-af6d-dbce47f09d7c",
+  "to": "d72d05a3-61ac-4188-bee9-1576b95b8673",
+  "relation": "supports",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "f431a5c3-19c2-4095-ae55-723cadcafced",
+        "locator": "p. 367",
+        "quote": "This higher level of awareness was associated with activity in dorsolateral prefrontal cortex"
+      },
+      {
+        "source": "258e1af4-6bb2-4d43-8731-8425d2afe27a",
+        "locator": "p. 1426",
+        "quote": "The only difference functional MRI revealed between cases with and without conscious awareness was activation in mid-dorsolateral prefrontal cortex (PFC)."
+      }
+    ]
+  }
+}

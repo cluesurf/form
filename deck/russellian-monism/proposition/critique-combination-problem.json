@@ -1,0 +1,60 @@
+{
+  "record": "proposition",
+  "id": "45d1e61b-0800-41c7-80d1-c24f1f39fb7e",
+  "kind": "philosophical",
+  "epistemic_status": "hypothesized",
+  "title": "Critique: the combination problem",
+  "statements": [
+    {
+      "id": "8385d8c4-de5a-445e-88b4-6c9796ae415f",
+      "text": "Experience is unified, bounded and differentiated, with a single subject, and it is hard to see how many microphysical systems with their own (proto)phenomenal properties could add up to it, rather than to a jagged collection of phenomenal spikes. It can be put as a conceivability argument: micro quiddities seem possible without any macro experience. Chalmers calls it the most serious problem for the view, and many regard it as unsolved.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "8385d8c4-de5a-445e-88b4-6c9796ae415f",
+  "status": "active",
+  "voice": "critique",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "8cb2ad1d-84ad-4f31-ba9e-8b7a5701fdf4",
+        "locator": "section 11, p. 39",
+        "quote": "Should one not expect something more like a disunified, jagged collection of phenomenal spikes?"
+      },
+      {
+        "source": "8cb2ad1d-84ad-4f31-ba9e-8b7a5701fdf4",
+        "locator": "section 11, p. 40",
+        "quote": "I think it is easily the most serious problem for the type-F monist view"
+      },
+      {
+        "source": "1ab5eb5e-c154-4917-8542-f888eb892710",
+        "locator": "section 6, p. 21",
+        "quote": "One way to pose the combination problem is in the form of a conceivability argument."
+      },
+      {
+        "source": "0840dcc2-1282-4a87-bda3-061465634bb0",
+        "locator": "section 3.2",
+        "quote": "many regard the combination problem for Russellian monism as unsolved and serious"
+      }
+    ]
+  }
+}

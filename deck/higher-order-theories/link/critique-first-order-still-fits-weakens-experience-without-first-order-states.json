@@ -1,0 +1,28 @@
+{
+  "record": "link",
+  "id": "50bd77d1-6f17-45a1-ba43-48b4f9e001f7",
+  "from": "d83952f0-ebe6-4f01-9dd2-d88b48964163",
+  "to": "67e1d7b7-5f15-4d6d-925f-4d496a43aba3",
+  "relation": "weakens",
+  "strength": null,
+  "rationale": "Hallucinations after early visual damage fit first-order theories that rely on higher visual areas, so they do not favor the higher-order view.",
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b48434c0-4be9-4d28-acde-93140c2dec33",
+        "locator": "p. 507",
+        "quote": "are still compatible with available experimental data derived from the human brain"
+      }
+    ]
+  }
+}

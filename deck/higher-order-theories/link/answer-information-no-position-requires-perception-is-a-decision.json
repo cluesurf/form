@@ -1,0 +1,28 @@
+{
+  "record": "link",
+  "id": "4fc73d76-4c62-49c5-9389-b219f478e041",
+  "from": "2b8bea08-7429-4aa2-a828-a236c1c53a23",
+  "to": "8a4e43ca-d61a-4a25-b586-64ff88c0e849",
+  "relation": "requires",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "f431a5c3-19c2-4095-ae55-723cadcafced",
+        "locator": "box 1, p. 368",
+        "quote": "the brain must ‘decide’ whether a certain amount of neural activity represents a reliable signal or merely baseline fluctuation"
+      }
+    ]
+  }
+}

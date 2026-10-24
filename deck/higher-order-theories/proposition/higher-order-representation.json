@@ -1,0 +1,50 @@
+{
+  "record": "proposition",
+  "id": "8c137b74-de06-421c-8e1c-44dfe52c3710",
+  "kind": "definitional",
+  "epistemic_status": "designed",
+  "title": "Higher-order representation",
+  "statements": [
+    {
+      "id": "e4a8c3ca-b4e2-49cf-8ce3-019254d9537d",
+      "text": "A higher-order representation is a mental state that represents oneself as being in a particular first-order mental state, such as a perception. It need not itself be conscious. Variants differ on whether it is thought-like, perception-like, part of the state itself, dispositional, or a decision about the reliability of a perceptual signal.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "e4a8c3ca-b4e2-49cf-8ce3-019254d9537d",
+  "status": "active",
+  "voice": "framework",
+  "defines": "higher-order representation",
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "f431a5c3-19c2-4095-ae55-723cadcafced",
+        "locator": "p. 365",
+        "quote": "Conscious awareness crucially depends on higher-order representations, specifically mental states that represent oneself as being in the relevant first-order mental states."
+      },
+      {
+        "source": "e999fb33-eac9-4867-98e3-a949d396882b",
+        "locator": "p. 508",
+        "quote": "and emphasized that such higher-order representations need not be themselves conscious"
+      }
+    ]
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "record": "proposition",
+  "id": "17751015-70a7-4b9d-9318-69e049b4ca01",
+  "kind": "philosophical",
+  "epistemic_status": "hypothesized",
+  "title": "Critique: the anti-physicalist arguments return against the quiddities",
+  "statements": [
+    {
+      "id": "ddf7cecb-df15-4826-b575-3abed7b12d4a",
+      "text": "The arguments that motivate the view seem to apply to it again. Mary could learn every protophenomenal truth in her room as easily as every structural one and still not know what seeing red is like, and an array of phenomenal particles without phenomenal redness seems as conceivable as an array of ordinary particles without it. In reply, protophenomenal truths may not be expressible in the colorless language of science.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "ddf7cecb-df15-4826-b575-3abed7b12d4a",
+  "status": "active",
+  "voice": "critique",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "0840dcc2-1282-4a87-bda3-061465634bb0",
+        "locator": "section 3.2",
+        "quote": "while still in the black-and-white room Mary can come to know all the protophenomenal truths just as easily as she can come to know all the structural truths"
+      },
+      {
+        "source": "ef130a02-df8c-4de4-84ba-9d2696d02e3a",
+        "locator": "p. 30",
+        "quote": "Any such array of fundamental particles without phenomenal redness would seem as readily conceivable as any arrangement of conventionally characterized fundamental physical particles without phenomenal redness."
+      },
+      {
+        "source": "0840dcc2-1282-4a87-bda3-061465634bb0",
+        "locator": "section 3.2",
+        "quote": "perhaps some protophenomenal truths cannot be fully conveyed in such colorless language"
+      }
+    ]
+  }
+}

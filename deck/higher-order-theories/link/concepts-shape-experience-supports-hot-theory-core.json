@@ -1,0 +1,33 @@
+{
+  "record": "link",
+  "id": "682c7fa6-862c-49f9-8166-f245a6d56f12",
+  "from": "700c590b-e0dd-4887-b86c-23d6fd27cc1d",
+  "to": "70a0ccae-834c-4772-af1b-dae917635552",
+  "relation": "supports",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "cb5dc26e-c464-4e1b-8d1e-55c642597389",
+        "locator": "sect. 13.3, online p. 7",
+        "quote": "A vivid example is the way learning new words for qualitative properties sometimes results in one's experiences coming to be conscious in respect of those very qualities."
+      },
+      {
+        "source": "cb5dc26e-c464-4e1b-8d1e-55c642597389",
+        "locator": "sect. 13.3, online p. 7",
+        "quote": "The way we are conscious of our qualitative experiences varies with the fineness of grain with which our HOTs represent those experiences."
+      }
+    ]
+  }
+}

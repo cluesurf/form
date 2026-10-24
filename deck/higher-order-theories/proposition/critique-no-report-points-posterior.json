@@ -1,0 +1,45 @@
+{
+  "record": "proposition",
+  "id": "44686659-d2a1-45fd-8703-b4bba2fbcd05",
+  "kind": "empirical",
+  "epistemic_status": "inferred",
+  "title": "Critique: no-report paradigms place the correlates in posterior cortex",
+  "statements": [
+    {
+      "id": "52464a73-4f80-469b-989b-0f95fb7a7b53",
+      "text": "With task-irrelevant stimuli and no-report paradigms, the neural correlates of conscious percepts sit in posterior cortex, and frontal activity tracks task relevance and report.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "52464a73-4f80-469b-989b-0f95fb7a7b53",
+  "status": "active",
+  "voice": "critique",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "a1697eea-28ca-4cc3-8433-6a8d91e90936",
+        "locator": "bioRxiv preprint, p. 10",
+        "quote": "‘No-report’ paradigms have also pointed to posterior regions as the NCC, while frontal cortex activation is correlated with reporting"
+      }
+    ]
+  }
+}

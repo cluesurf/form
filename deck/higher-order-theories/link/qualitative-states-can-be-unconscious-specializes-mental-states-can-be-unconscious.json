@@ -1,0 +1,33 @@
+{
+  "record": "link",
+  "id": "ecdbb72c-cbce-43c7-9d1d-dc4e6a27df2b",
+  "from": "b176c087-5796-4b0d-8b7b-d9b074bfdf14",
+  "to": "034b5424-ff11-472e-b2a6-7f19ad94c866",
+  "relation": "specializes",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "cb5dc26e-c464-4e1b-8d1e-55c642597389",
+        "locator": "sect. 13.4, online p. 7",
+        "quote": "But being conscious and having qualitative character are distinct properties."
+      },
+      {
+        "source": "e1ce439a-e67d-43bc-85d0-d94947d89a40",
+        "locator": "p. 432",
+        "quote": "But mental states that occur consciously can also occur without being conscious"
+      }
+    ]
+  }
+}

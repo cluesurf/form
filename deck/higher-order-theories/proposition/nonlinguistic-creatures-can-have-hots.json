@@ -1,0 +1,50 @@
+{
+  "record": "proposition",
+  "id": "1380fc78-c643-40a9-b1ef-d67fc9134006",
+  "kind": "empirical",
+  "epistemic_status": "hypothesized",
+  "title": "Creatures that cannot report may still have higher-order thoughts",
+  "statements": [
+    {
+      "id": "64a160a9-a265-4f78-9b19-fb6e7e63acda",
+      "text": "Reportability fixes which states count as conscious in creatures that can speak, but what matters is the higher-order thought, not the report. Infants and many mammals can think, so whether they have the needed higher-order thoughts is open to finding out.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "64a160a9-a265-4f78-9b19-fb6e7e63acda",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "717ca9a8-d351-4583-a4ba-5ed3b5f7e20c",
+        "locator": "p. 206",
+        "quote": "So if a creature were unable to express any of its higher-order thoughts, that would not imply that it had none."
+      },
+      {
+        "source": "cb5dc26e-c464-4e1b-8d1e-55c642597389",
+        "locator": "sect. 13.3, online p. 6",
+        "quote": "it is open to find out whether they have at least some HOTs of the requisite kind"
+      }
+    ]
+  }
+}

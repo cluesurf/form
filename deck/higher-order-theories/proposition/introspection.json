@@ -1,0 +1,50 @@
+{
+  "record": "proposition",
+  "id": "64f4cc15-aec7-4838-9899-7f3d018f4794",
+  "kind": "definitional",
+  "epistemic_status": "designed",
+  "title": "Introspection is a conscious higher-order thought",
+  "statements": [
+    {
+      "id": "d543255e-f57d-4ee9-8553-d32bca5708f9",
+      "text": "Introspection is the attentive, deliberately focused consciousness of a mental state. It occurs when the higher-order thought about the state is itself conscious, which needs a third-order thought. Ordinary consciousness of a state is the second-order thought without the third.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "d543255e-f57d-4ee9-8553-d32bca5708f9",
+  "status": "active",
+  "voice": "framework",
+  "defines": "introspection",
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "717ca9a8-d351-4583-a4ba-5ed3b5f7e20c",
+        "locator": "p. 199",
+        "quote": "Introspective consciousness is the special case in which that second-order thought is also conscious."
+      },
+      {
+        "source": "436fabd9-5340-4918-9c1c-02ddbcd28a4e",
+        "locator": "p. 337",
+        "quote": "Having a conscious mental state without introspectively focusing on it is having the second-order thought without the third-order thought."
+      }
+    ]
+  }
+}

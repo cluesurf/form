@@ -1,0 +1,50 @@
+{
+  "record": "proposition",
+  "id": "f52bc83a-129b-4b43-b2ae-66b0791d6ce9",
+  "kind": "philosophical",
+  "epistemic_status": "hypothesized",
+  "title": "Answer: no shared position, Chalmers keeps spacetime and Eddington derives it",
+  "statements": [
+    {
+      "id": "29774446-bd0e-4b94-9b59-2d648d790ef5",
+      "text": "The view takes no shared position on time. Chalmers places the fundamental entities in a spacetime manifold. Eddington held that mind-stuff is not spread in space and time, which belong to the scheme of physics derived from it.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "29774446-bd0e-4b94-9b59-2d648d790ef5",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "8cb2ad1d-84ad-4f31-ba9e-8b7a5701fdf4",
+        "locator": "section 11, p. 37",
+        "quote": "standing in causal relations within a spacetime manifold"
+      },
+      {
+        "source": "f1983fa1-bead-4fab-9f81-10414b26dc8f",
+        "locator": "chapter XIII, p. 277",
+        "quote": "The mind-stuff is not spread in space and time"
+      }
+    ]
+  }
+}

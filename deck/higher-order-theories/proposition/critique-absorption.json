@@ -1,0 +1,50 @@
+{
+  "record": "proposition",
+  "id": "d0f0f526-e42c-4ace-ac9c-77a4b1ef90a8",
+  "kind": "empirical",
+  "epistemic_status": "inferred",
+  "title": "Critique: absorbed experience would count as unconscious",
+  "statements": [
+    {
+      "id": "d0ec6855-62ef-483d-bd66-db3e665d1c9a",
+      "text": "In absorption, such as watching a gripping movie, tasks are so engaging that they seem to exclude higher-order metacognitive thinking, and frontal regions for introspection and self-related processing deactivate. The higher-order view would then wrongly count the most engaging sensory moments as unconscious.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "d0ec6855-62ef-483d-bd66-db3e665d1c9a",
+  "status": "active",
+  "voice": "critique",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b48434c0-4be9-4d28-acde-93140c2dec33",
+        "locator": "p. 507",
+        "quote": "Under Lau and Rosenthal’s proposal, these most engaging sensory moments will most likely be deemed ‘unconscious’ given their apparent lack of high order thought content."
+      },
+      {
+        "source": "b48434c0-4be9-4d28-acde-93140c2dec33",
+        "locator": "p. 507",
+        "quote": "frontal brain regions specialized for introspection and self-related processing actually reduce their activity under highly demanding sensory tasks"
+      }
+    ]
+  }
+}

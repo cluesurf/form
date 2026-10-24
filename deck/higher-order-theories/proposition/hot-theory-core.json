@@ -1,0 +1,50 @@
+{
+  "record": "proposition",
+  "id": "70a0ccae-834c-4772-af1b-dae917635552",
+  "kind": "philosophical",
+  "epistemic_status": "hypothesized",
+  "title": "A state is conscious when a suitable higher-order thought accompanies it",
+  "statements": [
+    {
+      "id": "f7d02cf3-a30d-4d79-b5e6-815cf7220924",
+      "text": "A mental state is conscious, nonintrospectively, just in case one has a roughly contemporaneous higher-order thought to the effect that one is in that very state. The explanation is that the mental state causes that higher-order thought to occur.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "f7d02cf3-a30d-4d79-b5e6-815cf7220924",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "717ca9a8-d351-4583-a4ba-5ed3b5f7e20c",
+        "locator": "p. 199",
+        "quote": "a mental state is conscious - nonintrospectively conscious - just in case one has a roughly contemporaneous thought to the effect that one is in that very mental state"
+      },
+      {
+        "source": "436fabd9-5340-4918-9c1c-02ddbcd28a4e",
+        "locator": "p. 336",
+        "quote": "Since a mental state is conscious if it is accompanied by a suitable higher-order thought, we can explain a mental state's being conscious by hypothesizing that the mental state itself causes that higher-order thought to occur."
+      }
+    ]
+  }
+}

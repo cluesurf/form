@@ -1,0 +1,45 @@
+{
+  "record": "proposition",
+  "id": "fdc274c9-9fdc-4b7e-9181-1311b5597b0a",
+  "kind": "philosophical",
+  "epistemic_status": "inferred",
+  "title": "If all mental states were conscious, consciousness could not be explained",
+  "statements": [
+    {
+      "id": "f1f1589c-7916-46d3-892e-f92dfe23ca47",
+      "text": "If every mental state were conscious, an explanation of consciousness in mental terms would be circular, and one in nonmental terms would rest on a defective account of mind. So the Cartesian view makes any informative explanation of consciousness impossible.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "f1f1589c-7916-46d3-892e-f92dfe23ca47",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "717ca9a8-d351-4583-a4ba-5ed3b5f7e20c",
+        "locator": "p. 198",
+        "quote": "So if mental states are all conscious, no informative, non-trivial explanation of such consciousness is possible."
+      }
+    ]
+  }
+}

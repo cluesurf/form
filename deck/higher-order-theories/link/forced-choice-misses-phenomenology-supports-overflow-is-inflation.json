@@ -1,0 +1,33 @@
+{
+  "record": "link",
+  "id": "3c96dedc-79c5-44ac-b061-b3c0e5fa8fdc",
+  "from": "4773ca77-ae8b-4038-8c80-13c623aa19f0",
+  "to": "718f4b17-c655-45a3-9d43-55b132d6c400",
+  "relation": "supports",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "56f3a45f-2327-4535-9d18-f415d97155bc",
+        "locator": "p. 513",
+        "quote": "While phenomenology may overflow forced-choice reports, the later can also overestimate the former, as in the case of blindsight."
+      },
+      {
+        "source": "56f3a45f-2327-4535-9d18-f415d97155bc",
+        "locator": "p. 514",
+        "quote": "We have been doing just this by employing metacognitive measures"
+      }
+    ]
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "record": "proposition",
+  "id": "eb41fb52-93d1-470e-b561-ef2f129cfd44",
+  "kind": "philosophical",
+  "epistemic_status": "hypothesized",
+  "title": "Critique: emergentist forms lose the integration of consciousness",
+  "statements": [
+    {
+      "id": "5f387880-7c04-43fa-bbf6-17b882aa43d4",
+      "text": "If macro experience emerges from quiddities by causal laws that physics does not entail, those laws are like the psychophysical laws of interactionist dualism, and the charge against dualism applies again. If high-level intrinsic properties are not constituted by low-level ones while the low level is causally closed, they are epiphenomenal all over again.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "5f387880-7c04-43fa-bbf6-17b882aa43d4",
+  "status": "active",
+  "voice": "critique",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "0840dcc2-1282-4a87-bda3-061465634bb0",
+        "locator": "section 4.2",
+        "quote": "on the causal-emergence construal, that charge would apply equally to Russellian monism"
+      },
+      {
+        "source": "8cb2ad1d-84ad-4f31-ba9e-8b7a5701fdf4",
+        "locator": "section 11, p. 40",
+        "quote": "the high-level intrinsic properties will be epiphenomenal all over again"
+      }
+    ]
+  }
+}

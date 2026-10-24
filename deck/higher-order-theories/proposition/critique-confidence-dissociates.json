@@ -1,0 +1,50 @@
+{
+  "record": "proposition",
+  "id": "f7848778-d7a5-4a31-b6cc-32c24e6aac0e",
+  "kind": "empirical",
+  "epistemic_status": "inferred",
+  "title": "Critique: seeing and confidence in seeing vary independently",
+  "statements": [
+    {
+      "id": "580aed33-f36a-49dc-b11e-ad48b70488b3",
+      "text": "In exclusion experiments subjects see a flashed word or part of it with low confidence and no higher-order state that would lead to a report, and signal detection models show that seeing and confidence in having seen vary independently.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "580aed33-f36a-49dc-b11e-ad48b70488b3",
+  "status": "active",
+  "voice": "critique",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "57902ad8-c0c3-4f75-acdd-0280d7e6ce4d",
+        "locator": "p. 537",
+        "quote": "This provides another piece of empirical evidence against the higher-order point of view."
+      },
+      {
+        "source": "57902ad8-c0c3-4f75-acdd-0280d7e6ce4d",
+        "locator": "p. 537",
+        "quote": "consciously seeing the stimulus and confidence that one has seen it can vary independently"
+      }
+    ]
+  }
+}

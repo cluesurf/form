@@ -1,0 +1,38 @@
+{
+  "record": "link",
+  "id": "4cec92fc-81dc-4073-8f21-6b4c6b74b1c5",
+  "from": "23299e70-ac5e-422e-86fc-bf08c55086d3",
+  "to": "edf992c0-7c75-4ecc-94a5-ff484e75d3cb",
+  "relation": "requires",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "8cb2ad1d-84ad-4f31-ba9e-8b7a5701fdf4",
+        "locator": "section 11, p. 36",
+        "quote": "Phenomenal properties seem to be intrinsic properties that are hard to fit in with the structural/dynamic character of physical theory"
+      },
+      {
+        "source": "8cb2ad1d-84ad-4f31-ba9e-8b7a5701fdf4",
+        "locator": "section 11, p. 37",
+        "quote": "might solve both these problems at once"
+      },
+      {
+        "source": "0840dcc2-1282-4a87-bda3-061465634bb0",
+        "locator": "section 3.1",
+        "quote": "these two problems seem made for each other"
+      }
+    ]
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "record": "proposition",
+  "id": "7b6b15b2-afd8-4139-81d7-966b25b6726c",
+  "kind": "philosophical",
+  "epistemic_status": "hypothesized",
+  "title": "Answer: the information physics gives is structural and leaves intrinsic nature open",
+  "statements": [
+    {
+      "id": "dcbdf222-384e-4220-b89f-a3c3eb3dcceb",
+      "text": "The view makes no claim that information is basic. The information physics supplies is structural, about what entities do, and it leaves open what they are. Newman’s problem adds that a purely formal description is near vacuous unless it includes a non-formal notion.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "dcbdf222-384e-4220-b89f-a3c3eb3dcceb",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "a2015889-f423-459b-82c6-02b65f2f0614",
+        "locator": "chapter XXVI, p. 270",
+        "quote": "physics leaves open all kinds of possibilities as to the intrinsic character of the world to which its equations apply"
+      },
+      {
+        "source": "97ef8875-4a4c-407d-b109-57ec5eabfbac",
+        "locator": "section (i), PDF p. 2",
+        "quote": "The essence of the problem is that any purely formal description of the physical world is near vacuous."
+      }
+    ]
+  }
+}

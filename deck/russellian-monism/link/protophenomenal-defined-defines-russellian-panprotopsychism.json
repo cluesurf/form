@@ -1,0 +1,28 @@
+{
+  "record": "link",
+  "id": "80bdacd1-2f19-427f-b6ab-c03d68ccbbca",
+  "from": "ddf8f6f2-942a-4a3e-97d4-71ae5010e887",
+  "to": "33de90f8-be7d-40fc-ba97-1f7f97e40d12",
+  "relation": "defines",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "1ab5eb5e-c154-4917-8542-f888eb892710",
+        "locator": "section 4, p. 15",
+        "quote": "protophenomenal properties are special properties that are not phenomenal (there is nothing it is like to have a single protophenomenal property) but that can collectively constitute phenomenal properties"
+      }
+    ]
+  }
+}

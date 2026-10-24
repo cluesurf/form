@@ -1,0 +1,44 @@
+{
+  "record": "observation",
+  "id": "2cdbca09-dd75-46b6-b528-262d87568d58",
+  "kind": "documentary_record",
+  "epistemic_status": "observed",
+  "description": "Brickner's patient A., described after a bilateral frontal lobectomy, toured a neurological institute with neurologists who noticed nothing unusual for over an hour (as reported by Boly and colleagues). Odegaard, Knight and Lau read the published brain image as showing large parts of right prefrontal cortex intact.",
+  "method": "document_review",
+  "status": "reported",
+  "source": "a1697eea-28ca-4cc3-8433-6a8d91e90936",
+  "procedure": null,
+  "variable": null,
+  "value": null,
+  "unit": null,
+  "uncertainty": null,
+  "sample_size": null,
+  "replication_count": null,
+  "quality": null,
+  "limitations": "A 1952 single case, read through two later papers that disagree on how complete the lesion was.",
+  "conflicts_of_interest": null,
+  "observed_at": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "a1697eea-28ca-4cc3-8433-6a8d91e90936",
+        "locator": "bioRxiv preprint, p. 6",
+        "quote": "none of them noticed anything unusual until their attention was especially called to A. after the passage of more than an hour"
+      },
+      {
+        "source": "4679e6b4-65c8-4b98-983a-d96388c5a75f",
+        "locator": "bioRxiv preprint, p. 3",
+        "quote": "simple visual inspection of the patient’s brain image reveals that massive portions of right PFC remain intact"
+      }
+    ]
+  }
+}

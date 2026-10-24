@@ -1,0 +1,50 @@
+{
+  "record": "proposition",
+  "id": "07c8bece-28f2-4d25-bacc-d284f16f5e8a",
+  "kind": "definitional",
+  "epistemic_status": "designed",
+  "title": "Russellian monism",
+  "statements": [
+    {
+      "id": "11f22553-09ad-4018-acb6-8ddab273dca9",
+      "text": "Russellian monism is the view that a single set of properties underlies both consciousness and the most basic entities of physics. All conscious experience is grounded in structure plus quiddities, but not in structure alone.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "11f22553-09ad-4018-acb6-8ddab273dca9",
+  "status": "active",
+  "voice": "framework",
+  "defines": "russellian monism",
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "0840dcc2-1282-4a87-bda3-061465634bb0",
+        "locator": "opening section",
+        "quote": "a single set of properties underlies both consciousness and the most basic entities posited by physics"
+      },
+      {
+        "source": "1ab5eb5e-c154-4917-8542-f888eb892710",
+        "locator": "section 5, p. 17",
+        "quote": "According to Russellian monism, all conscious experience is grounded in structure plus quiddities, but not in structure alone."
+      }
+    ]
+  }
+}

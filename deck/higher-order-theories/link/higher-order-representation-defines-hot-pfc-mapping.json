@@ -1,0 +1,33 @@
+{
+  "record": "link",
+  "id": "7e100120-9746-494c-8e40-8de676b74b28",
+  "from": "8c137b74-de06-421c-8e1c-44dfe52c3710",
+  "to": "c3b214c4-93cf-48f2-bb6a-a0c5a5d6ef23",
+  "relation": "defines",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "f431a5c3-19c2-4095-ae55-723cadcafced",
+        "locator": "p. 365",
+        "quote": "Conscious awareness crucially depends on higher-order representations, specifically mental states that represent oneself as being in the relevant first-order mental states."
+      },
+      {
+        "source": "e999fb33-eac9-4867-98e3-a949d396882b",
+        "locator": "p. 508",
+        "quote": "and emphasized that such higher-order representations need not be themselves conscious"
+      }
+    ]
+  }
+}

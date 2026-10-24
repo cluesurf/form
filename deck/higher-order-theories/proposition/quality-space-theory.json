@@ -1,0 +1,50 @@
+{
+  "record": "proposition",
+  "id": "efb02e2e-c54f-49fd-ae18-5ccc8d2286c6",
+  "kind": "philosophical",
+  "epistemic_status": "hypothesized",
+  "title": "Mental qualities are fixed by a quality space, independent of consciousness",
+  "statements": [
+    {
+      "id": "b2936d1e-df9a-4284-a96e-761e7ec17e17",
+      "text": "A mental quality such as red is fixed by how the state resembles and differs from other color qualities, in the way perceptible red resembles and differs from other perceptible colors, set by which colors can be told apart. This quality space theory uses no higher-order states and explains qualities whether or not they are conscious.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "b2936d1e-df9a-4284-a96e-761e7ec17e17",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "cb5dc26e-c464-4e1b-8d1e-55c642597389",
+        "locator": "sect. 13.4, online p. 8",
+        "quote": "We can understand a state's having the mental quality red, for example, in terms of that state's resembling and differing from other mental qualities of colour in just the ways that perceptible red resembles and differs from other perceptible physical colours"
+      },
+      {
+        "source": "e1ce439a-e67d-43bc-85d0-d94947d89a40",
+        "locator": "p. 435",
+        "quote": "That quality-space theory involves no higher-order states, since it explains mental qualities independently of whether they're conscious."
+      }
+    ]
+  }
+}

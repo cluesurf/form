@@ -1,0 +1,50 @@
+{
+  "record": "proposition",
+  "id": "6f879e60-2dbe-4bce-896f-0873fb0b3aa0",
+  "kind": "philosophical",
+  "epistemic_status": "inferred",
+  "title": "Russell: nothing in physics shows the physical world to differ in character from the mental",
+  "statements": [
+    {
+      "id": "50d54644-05b9-4044-9fe6-1b5b62dbd134",
+      "text": "Because physical knowledge is so abstract, physics leaves open what the intrinsic character of the world is. Nothing in physics proves that the physical world is radically different in character from the mental world.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "50d54644-05b9-4044-9fe6-1b5b62dbd134",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "a2015889-f423-459b-82c6-02b65f2f0614",
+        "locator": "chapter XXVI, p. 270",
+        "quote": "physics leaves open all kinds of possibilities as to the intrinsic character of the world to which its equations apply"
+      },
+      {
+        "source": "a2015889-f423-459b-82c6-02b65f2f0614",
+        "locator": "chapter XXVI, p. 270",
+        "quote": "There is nothing in physics to prove that the physical world is radically different in character from the mental world."
+      }
+    ]
+  }
+}

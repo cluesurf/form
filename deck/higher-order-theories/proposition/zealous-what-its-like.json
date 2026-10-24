@@ -1,0 +1,50 @@
+{
+  "record": "proposition",
+  "id": "6a15f157-cfe6-4b6c-8ffa-ea6972da9fda",
+  "kind": "philosophical",
+  "epistemic_status": "inferred",
+  "title": "Only a zealous reading of what it's like makes trouble",
+  "statements": [
+    {
+      "id": "3efd2adc-1182-41b1-b6ca-f12645da0e87",
+      "text": "On a moderate reading, what it is like is how things subjectively seem to a subject. Only a zealous reading, on which it is a monadic property a state has even when the subject is wholly unaware of it, makes empty higher-order states a problem, and that reading is a technical sense with little to support it.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "3efd2adc-1182-41b1-b6ca-f12645da0e87",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "6aad053a-dfdc-469b-bc80-3402cd358262",
+        "locator": "p. 439",
+        "quote": "And it is solely what-it's-like-ness zealously construed that causes the alleged troubles for the HO approach."
+      },
+      {
+        "source": "6aad053a-dfdc-469b-bc80-3402cd358262",
+        "locator": "p. 441",
+        "quote": "Consciousness is a matter of mental appearances, and the moderate HO reading of the what-it's-like phrase captures this idea."
+      }
+    ]
+  }
+}

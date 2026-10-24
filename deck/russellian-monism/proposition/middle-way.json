@@ -1,0 +1,50 @@
+{
+  "record": "proposition",
+  "id": "6380ec7c-1980-48fc-9124-b53118c23a17",
+  "kind": "philosophical",
+  "epistemic_status": "inferred",
+  "title": "A middle way that keeps the virtues of physicalism and dualism",
+  "statements": [
+    {
+      "id": "abbe2284-a670-4e16-abcd-598bb2aba268",
+      "text": "Russellian monism is offered as a middle way between physicalism and dualism. It agrees with the dualist that the dispositional properties of physics cannot alone explain consciousness, and with the physicalist that consciousness belongs to the causally closed physical world, so it claims the virtues of both without their main drawbacks.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "abbe2284-a670-4e16-abcd-598bb2aba268",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "5ab944d1-fcca-4b30-bf01-c9434a0de026",
+        "locator": "introduction, p. 1",
+        "quote": "Russellian monism is a new, or rather a rediscovered, approach to the problem of consciousness, which offers a middle way between the more conventional options of physicalism and dualism."
+      },
+      {
+        "source": "0840dcc2-1282-4a87-bda3-061465634bb0",
+        "locator": "section 3.1",
+        "quote": "Russellian monism combines theoretical virtues of traditional dualism with those of traditional physicalism, while avoiding their main drawbacks"
+      }
+    ]
+  }
+}

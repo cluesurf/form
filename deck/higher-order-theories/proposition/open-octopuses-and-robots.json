@@ -1,0 +1,45 @@
+{
+  "record": "proposition",
+  "id": "c5662c06-b1b3-4d69-b204-9d61fc6bcdf5",
+  "kind": "empirical",
+  "epistemic_status": "hypothesized",
+  "title": "Open: which creatures and machines have higher-order representations",
+  "statements": [
+    {
+      "id": "f869a84e-d1de-4e8c-a20c-5c9d04be45f3",
+      "text": "If the higher-order view is right, which creatures are aware is open: whether animals without a prefrontal cortex, such as octopuses, have higher-order representations, and whether robots built with the right higher-order and first-order mechanisms would.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "f869a84e-d1de-4e8c-a20c-5c9d04be45f3",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "f431a5c3-19c2-4095-ae55-723cadcafced",
+        "locator": "box 4, p. 371",
+        "quote": "What about robots programmed with the right kind of higher-order and first-order mechanisms?"
+      }
+    ]
+  }
+}

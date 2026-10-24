@@ -1,0 +1,28 @@
+{
+  "record": "link",
+  "id": "d0ac4b15-5483-4071-9bb3-10172863a0aa",
+  "from": "2d6ef483-d82b-44a7-b224-d6aaf9d75f18",
+  "to": "10692f74-9d20-4f3e-8637-2bfbb46a9908",
+  "relation": "supports",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "a1697eea-28ca-4cc3-8433-6a8d91e90936",
+        "locator": "bioRxiv preprint, p. 8",
+        "quote": "In contrast, electrical stimulation of the posterior cortex reliably induces discrete changes in the contents of consciousness"
+      }
+    ]
+  }
+}

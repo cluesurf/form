@@ -1,0 +1,33 @@
+{
+  "record": "link",
+  "id": "21410026-d60c-472d-93ae-daa084305afa",
+  "from": "b634b5ff-f466-4608-b857-2ca6ecea5431",
+  "to": "44686659-d2a1-45fd-8703-b4bba2fbcd05",
+  "relation": "weakens",
+  "strength": null,
+  "rationale": "Prefrontal activity tied to awareness appears without report demands when more sensitive methods are used.",
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "4679e6b4-65c8-4b98-983a-d96388c5a75f",
+        "locator": "bioRxiv preprint, p. 15",
+        "quote": "even unreported stimulus features could be robustly decoded to a similar degree as attended and reported features"
+      },
+      {
+        "source": "4679e6b4-65c8-4b98-983a-d96388c5a75f",
+        "locator": "bioRxiv preprint, p. 16",
+        "quote": "PFC activity in conscious perception had already survived such tests, well before their recent advocacy"
+      }
+    ]
+  }
+}

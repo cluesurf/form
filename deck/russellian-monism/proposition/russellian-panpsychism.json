@@ -1,0 +1,50 @@
+{
+  "record": "proposition",
+  "id": "e5398fa8-06e1-4dfe-8b33-b21a9462902a",
+  "kind": "philosophical",
+  "epistemic_status": "hypothesized",
+  "title": "Russellian panpsychism: the quiddities are themselves phenomenal",
+  "statements": [
+    {
+      "id": "285566ab-f1ba-4d0a-8c73-1294b3daee45",
+      "text": "On Russellian panpsychism the quiddities are phenomenal properties, usually microphenomenal properties of microphysical entities, which may differ greatly from familiar experiences such as pain or seeing red. Some take them to be properties of the whole cosmos instead.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "285566ab-f1ba-4d0a-8c73-1294b3daee45",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "0840dcc2-1282-4a87-bda3-061465634bb0",
+        "locator": "section 1.2",
+        "quote": "The result is a variety of Russellian monism known as Russellian panpsychism"
+      },
+      {
+        "source": "0840dcc2-1282-4a87-bda3-061465634bb0",
+        "locator": "section 1.2",
+        "quote": "More often, Russellian panpsychists construe quiddities as microphenomenal properties, that is, as phenomenal properties of microphysical entities."
+      }
+    ]
+  }
+}

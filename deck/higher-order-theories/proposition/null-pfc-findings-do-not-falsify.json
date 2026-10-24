@@ -1,0 +1,50 @@
+{
+  "record": "proposition",
+  "id": "23a219e4-f63f-4d06-b666-9a72eca5f5e8",
+  "kind": "empirical",
+  "epistemic_status": "inferred",
+  "title": "A few prefrontal null findings do not falsify prefrontal theories",
+  "statements": [
+    {
+      "id": "8cc57138-3b93-4cad-8d57-6f29983ffcd1",
+      "text": "Null findings for prefrontal cortex come from methods with limited sensitivity, from misread lesion cases and from conflating objective task performance with subjective experience. Taking all methods into account, the role of prefrontal cortex in conscious perception holds up.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "8cc57138-3b93-4cad-8d57-6f29983ffcd1",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "4679e6b4-65c8-4b98-983a-d96388c5a75f",
+        "locator": "abstract, bioRxiv preprint, p. 1",
+        "quote": "These claims are incompatible with empirical findings, unless one focuses only on studies using methods with limited sensitivity."
+      },
+      {
+        "source": "4679e6b4-65c8-4b98-983a-d96388c5a75f",
+        "locator": "bioRxiv preprint, p. 16",
+        "quote": "individual null findings obtained with one measure, even if true, may not generalize to other measures"
+      }
+    ]
+  }
+}

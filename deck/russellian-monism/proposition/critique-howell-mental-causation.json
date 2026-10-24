@@ -1,0 +1,60 @@
+{
+  "record": "proposition",
+  "id": "b735e233-b21a-4bca-8a48-f443c90f7c04",
+  "kind": "philosophical",
+  "epistemic_status": "hypothesized",
+  "title": "Critique: phenomenality is along for the causal ride",
+  "statements": [
+    {
+      "id": "cdda5b73-c20f-45c4-bbe7-068bace58698",
+      "text": "Howell argues that the view faces the same problems with mental causation as dualism. If phenomenal redness grounds negative charge in one world and phenomenal greenness grounds it in another, what grounds the causal profile is distinct from what grounds the phenomenal character, so quiddities may be causes but not in virtue of their phenomenality. The problem rises from micro to macro unless there are emergent causal powers, and it applies equally to protophenomenal forms.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "cdda5b73-c20f-45c4-bbe7-068bace58698",
+  "status": "active",
+  "voice": "critique",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b07250a2-bbc1-4137-94ed-260fd1738eb7",
+        "locator": "abstract",
+        "quote": "The best it can hope for is that phenomenal properties are causally relevant, but not in virtue of their phenomenality."
+      },
+      {
+        "source": "b07250a2-bbc1-4137-94ed-260fd1738eb7",
+        "locator": "section IV",
+        "quote": "It thus appears that these properties do not, after all, cause things in virtue of their phenomenal character."
+      },
+      {
+        "source": "b07250a2-bbc1-4137-94ed-260fd1738eb7",
+        "locator": "section VII",
+        "quote": "phenomenality is again just along for the causal ride"
+      },
+      {
+        "source": "b07250a2-bbc1-4137-94ed-260fd1738eb7",
+        "locator": "section IX",
+        "quote": "This leaves us once again with epiphenomenal qualia, only in a very surprising place."
+      }
+    ]
+  }
+}

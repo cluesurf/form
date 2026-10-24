@@ -1,0 +1,33 @@
+{
+  "record": "link",
+  "id": "a09b726c-243a-47a3-a706-b2261d3d59c8",
+  "from": "32f484c7-75ba-4562-ae8c-3515a4259264",
+  "to": "fa149d96-d797-483c-a560-6a297c01c9b1",
+  "relation": "answers",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "cb5dc26e-c464-4e1b-8d1e-55c642597389",
+        "locator": "sect. 13.3, online p. 6",
+        "quote": "it is open to find out whether they have at least some HOTs of the requisite kind"
+      },
+      {
+        "source": "cb5dc26e-c464-4e1b-8d1e-55c642597389",
+        "locator": "note 6, online p. 16",
+        "quote": "So there may well be creatures none of whose mental states are conscious, even when they are fully awake."
+      }
+    ]
+  }
+}

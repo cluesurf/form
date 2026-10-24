@@ -1,0 +1,28 @@
+{
+  "record": "link",
+  "id": "3dac3dc0-915f-440a-829d-6a2b491d049d",
+  "from": "6d1ddfa3-136b-4df4-9491-184b3b6dfe2a",
+  "to": "455dff7d-b66c-449d-b2d7-52521b99cba5",
+  "relation": "answers",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "436fabd9-5340-4918-9c1c-02ddbcd28a4e",
+        "locator": "p. 338",
+        "quote": "On the present account, conscious mental states are mental states that cause the occurrence of higher-order thoughts that one is in those mental states."
+      }
+    ]
+  }
+}

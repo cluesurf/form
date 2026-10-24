@@ -1,0 +1,45 @@
+{
+  "record": "proposition",
+  "id": "d4f19f8b-a3f0-4a1b-85e4-f15126174fc4",
+  "kind": "empirical",
+  "epistemic_status": "simulated",
+  "title": "The asymmetry of the awareness state reproduces global ignition",
+  "statements": [
+    {
+      "id": "4c4d04cc-e7da-47bf-a7a0-cc89c9322b6d",
+      "text": "In simulations, deciding that content is present produces more summed prediction error across the perceptual layers than deciding it is absent, which offers a computational account of the global ignition seen in imaging studies of awareness reports.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "4c4d04cc-e7da-47bf-a7a0-cc89c9322b6d",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "86ca1f15-7480-45fb-bf39-03972dcaa7d6",
+        "locator": "abstract, arXiv p. 1",
+        "quote": "Via simulations I show that this asymmetry provides a natural account of observations of “global ignition” in brain imaging studies of awareness reports."
+      }
+    ]
+  }
+}

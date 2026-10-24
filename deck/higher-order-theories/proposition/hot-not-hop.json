@@ -1,0 +1,50 @@
+{
+  "record": "proposition",
+  "id": "1515c830-a8d9-4033-a1f1-7833457a7b2b",
+  "kind": "philosophical",
+  "epistemic_status": "inferred",
+  "title": "Higher-order awareness is thought, not inner sense",
+  "statements": [
+    {
+      "id": "06935cc7-dcdb-4f20-b7be-8b35c6cc8921",
+      "text": "Sensing always involves mental qualities, but the higher-order awareness of conscious states has no mental qualities of its own, only those of the states it is about. So that awareness is not a higher-order perception, as inner sense theories hold, but a higher-order thought.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "06935cc7-dcdb-4f20-b7be-8b35c6cc8921",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "cb5dc26e-c464-4e1b-8d1e-55c642597389",
+        "locator": "sect. 13.2, online p. 4",
+        "quote": "So that higher-order consciousness cannot be a matter of sensing or perceiving the first-order states."
+      },
+      {
+        "source": "717ca9a8-d351-4583-a4ba-5ed3b5f7e20c",
+        "locator": "p. 198",
+        "quote": "no such sense actually exists"
+      }
+    ]
+  }
+}

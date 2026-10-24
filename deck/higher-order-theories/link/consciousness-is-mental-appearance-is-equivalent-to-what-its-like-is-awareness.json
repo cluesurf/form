@@ -1,0 +1,33 @@
+{
+  "record": "link",
+  "id": "d3de4e84-5abc-4729-a278-6ceb63e1477c",
+  "from": "132c71de-c669-46e1-852a-8beeb49716ef",
+  "to": "6945356c-2120-40c7-8b0d-422a01262b93",
+  "relation": "is_equivalent_to",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "258e1af4-6bb2-4d43-8731-8425d2afe27a",
+        "locator": "p. 1430",
+        "quote": "Consciousness is the way our mental lives appear to us; it is mental appearance."
+      },
+      {
+        "source": "e1ce439a-e67d-43bc-85d0-d94947d89a40",
+        "locator": "p. 432",
+        "quote": "A theory of consciousness explains conscious subjectivity, not the underlying mental reality that's responsible for these appearances."
+      }
+    ]
+  }
+}

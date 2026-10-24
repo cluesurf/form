@@ -1,0 +1,45 @@
+{
+  "record": "proposition",
+  "id": "5fa353cc-65f8-48cd-badf-6aaa6f47f0f2",
+  "kind": "philosophical",
+  "epistemic_status": "inferred",
+  "title": "Answer: no position on free will, consciousness does not decide",
+  "statements": [
+    {
+      "id": "d42c1571-fded-4c5f-8fbf-e854f70a94ee",
+      "text": "The theory takes no position on free will. On agency it holds that decisions form before one is conscious of them, so a decision being conscious plays no role in what is decided.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "d42c1571-fded-4c5f-8fbf-e854f70a94ee",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "cb5dc26e-c464-4e1b-8d1e-55c642597389",
+        "locator": "sect. 13.4, online p. 8",
+        "quote": "so consciousness cannot play a role in determining what we decide even when our decisions are conscious"
+      }
+    ]
+  }
+}

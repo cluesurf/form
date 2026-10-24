@@ -1,0 +1,55 @@
+{
+  "record": "proposition",
+  "id": "decd12fa-e516-4a3e-8088-781723efa440",
+  "kind": "philosophical",
+  "epistemic_status": "inferred",
+  "title": "The conceivability and knowledge arguments refute only a structural physicalism",
+  "statements": [
+    {
+      "id": "8530aad2-486a-4791-8ec9-cd89c4720016",
+      "text": "At most, the conceivability and knowledge arguments show that structure alone does not fix consciousness. A zombie world that seems conceivable is only a structural duplicate of this one, misdescribed as a physical duplicate, and Mary in her black and white room learns only the structural part of the truth, missing the quiddistic part.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "8530aad2-486a-4791-8ec9-cd89c4720016",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "0840dcc2-1282-4a87-bda3-061465634bb0",
+        "locator": "section 3.1",
+        "quote": "If such a world initially appears conceivable, this is because we mistake a zombie world for a structural zombie world"
+      },
+      {
+        "source": "8cb2ad1d-84ad-4f31-ba9e-8b7a5701fdf4",
+        "locator": "section 11, p. 38",
+        "quote": "we misdescribe the conceived world as physically identical to ours, when in fact it is just structurally identical"
+      },
+      {
+        "source": "0840dcc2-1282-4a87-bda3-061465634bb0",
+        "locator": "section 3.1",
+        "quote": "Russellian physicalism, on which the class of physical truths includes not only structural truths but quiddistic truths as well, is not threatened"
+      }
+    ]
+  }
+}

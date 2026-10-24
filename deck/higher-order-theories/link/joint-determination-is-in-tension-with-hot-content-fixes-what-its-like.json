@@ -1,0 +1,33 @@
+{
+  "record": "link",
+  "id": "fcdfdc75-9990-482e-aa0e-514b1377b058",
+  "from": "8a90b75e-47bb-4a85-840d-72b0169cb6c3",
+  "to": "c64bc83f-4eee-4ac4-abf8-0289086634b0",
+  "relation": "is_in_tension_with",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "86ca1f15-7480-45fb-bf39-03972dcaa7d6",
+        "locator": "arXiv p. 9",
+        "quote": "However, while inference on higher-order states is, on this view, necessary for awareness, it may not be sufficient."
+      },
+      {
+        "source": "86ca1f15-7480-45fb-bf39-03972dcaa7d6",
+        "locator": "arXiv p. 9",
+        "quote": "a variant of the “joint determination” view advocated by Lau and Brown"
+      }
+    ]
+  }
+}

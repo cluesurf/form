@@ -1,0 +1,50 @@
+{
+  "record": "proposition",
+  "id": "c590fe10-0ecf-43ce-b3f1-074311a2f6d8",
+  "kind": "empirical",
+  "epistemic_status": "inferred",
+  "title": "Critique: patients stay conscious after extensive frontal damage",
+  "statements": [
+    {
+      "id": "510c1ba2-7371-4b91-a709-078294c5f178",
+      "text": "Well-documented patients stayed conscious after bilateral frontal lobectomy, near-total frontal resection, psychosurgery or a spike through both frontal lobes, and frontal regions may modulate the neural correlates of consciousness rather than contribute to them, so frontal cortex is not necessary for consciousness.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "510c1ba2-7371-4b91-a709-078294c5f178",
+  "status": "active",
+  "voice": "critique",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "a1697eea-28ca-4cc3-8433-6a8d91e90936",
+        "locator": "bioRxiv preprint, p. 13",
+        "quote": "At a minimum, reports of conscious patients after bilateral frontal lobectomy demonstrate that the frontal cortex is not necessary for consciousness."
+      },
+      {
+        "source": "a1697eea-28ca-4cc3-8433-6a8d91e90936",
+        "locator": "bioRxiv preprint, p. 7",
+        "quote": "suggesting that these frontal regions may modulate the NCC rather than contributing directly to them (Kozuch, 2014)"
+      }
+    ]
+  }
+}

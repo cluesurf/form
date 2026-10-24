@@ -1,0 +1,28 @@
+{
+  "record": "link",
+  "id": "61172190-be4f-4e18-9829-1c05d0102a1a",
+  "from": "c64bc83f-4eee-4ac4-abf8-0289086634b0",
+  "to": "6945356c-2120-40c7-8b0d-422a01262b93",
+  "relation": "requires",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "cb5dc26e-c464-4e1b-8d1e-55c642597389",
+        "locator": "sect. 13.6, online p. 11",
+        "quote": "If one has a sensation of red and a distinct HOT that one has a sensation of green, the sensation of red may nonetheless be detectable by various priming effects. But what it will be like for one is that one has a sensation of green."
+      }
+    ]
+  }
+}

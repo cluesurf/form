@@ -1,0 +1,45 @@
+{
+  "record": "proposition",
+  "id": "af14484c-2259-44e1-9ad3-68ddf05fbfef",
+  "kind": "philosophical",
+  "epistemic_status": "inferred",
+  "title": "Answer: takes no position on space",
+  "statements": [
+    {
+      "id": "3675559e-c5c7-4e6b-ae67-37a9c0fd2e12",
+      "text": "The theory takes no position on space. Its only spatial claim is about where in the brain higher-order representations run, prefrontal and parietal cortex, and that mapping is an added interpretation the view itself does not fix.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "3675559e-c5c7-4e6b-ae67-37a9c0fd2e12",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "f431a5c3-19c2-4095-ae55-723cadcafced",
+        "locator": "p. 366",
+        "quote": "By itself, the higher-order view does not specify this neuroanatomical detail"
+      }
+    ]
+  }
+}

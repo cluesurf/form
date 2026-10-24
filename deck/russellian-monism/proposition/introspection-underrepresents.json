@@ -1,0 +1,50 @@
+{
+  "record": "proposition",
+  "id": "8010c7b1-f1b5-4706-89d8-fc971e2c4ca9",
+  "kind": "philosophical",
+  "epistemic_status": "hypothesized",
+  "title": "Introspection may fail to show the composition of experience",
+  "statements": [
+    {
+      "id": "9dbc0d36-16a2-48f6-b785-6e11539c95fb",
+      "text": "In reply to combination worries, introspection may fail to represent features experience has: an experience of red that seems simple may be composed of a complex microphenomenal array not normally discerned, as a taste that seems simple is built from sweet, sour, salty, bitter and umami. The reply shows only that introspection does not rule constitution out, not how it works.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "9dbc0d36-16a2-48f6-b785-6e11539c95fb",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "ef130a02-df8c-4de4-84ba-9d2696d02e3a",
+        "locator": "p. 31",
+        "quote": "it is in fact composed of a complex microphenomenal array that is normally not introspectively discerned"
+      },
+      {
+        "source": "0840dcc2-1282-4a87-bda3-061465634bb0",
+        "locator": "section 3.2",
+        "quote": "However, that response is only partial."
+      }
+    ]
+  }
+}

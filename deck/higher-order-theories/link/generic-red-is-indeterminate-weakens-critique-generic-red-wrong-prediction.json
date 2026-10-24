@@ -1,0 +1,28 @@
+{
+  "record": "link",
+  "id": "b768e1d4-d25f-4b06-8bb0-d0d5abc464ff",
+  "from": "c5396d67-9006-424b-b03d-4f4be01f3a86",
+  "to": "5c15de0f-36c9-4306-8e30-3ce1fd04e946",
+  "relation": "weakens",
+  "strength": null,
+  "rationale": "The claim is about indeterminacy across shades, not an experience of red with no shade, so the objection misreads it.",
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "258e1af4-6bb2-4d43-8731-8425d2afe27a",
+        "locator": "p. 1431",
+        "quote": "The claim is not that a conscious experience of red might not represent the shade as red at all, but that it might represent it in a way that is indeterminate with respect to a range of specific shades of red."
+      }
+    ]
+  }
+}

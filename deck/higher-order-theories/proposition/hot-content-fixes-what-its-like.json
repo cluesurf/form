@@ -1,0 +1,45 @@
+{
+  "record": "proposition",
+  "id": "c64bc83f-4eee-4ac4-abf8-0289086634b0",
+  "kind": "philosophical",
+  "epistemic_status": "hypothesized",
+  "title": "The higher-order content fixes what it is like",
+  "statements": [
+    {
+      "id": "bc03e8c3-2320-4697-bfb4-95e96c8dbc62",
+      "text": "When the higher-order thought and its target diverge, what it is like for one follows the higher-order thought. With a sensation of red and a higher-order thought that one has a sensation of green, what it is like is seeing green, while the red sensation still shows up in priming.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "bc03e8c3-2320-4697-bfb4-95e96c8dbc62",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "cb5dc26e-c464-4e1b-8d1e-55c642597389",
+        "locator": "sect. 13.6, online p. 11",
+        "quote": "If one has a sensation of red and a distinct HOT that one has a sensation of green, the sensation of red may nonetheless be detectable by various priming effects. But what it will be like for one is that one has a sensation of green."
+      }
+    ]
+  }
+}

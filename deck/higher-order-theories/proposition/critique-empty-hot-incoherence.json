@@ -1,0 +1,50 @@
+{
+  "record": "proposition",
+  "id": "02d06292-a2fd-4c0f-a01a-8f6d6c39afd3",
+  "kind": "philosophical",
+  "epistemic_status": "inferred",
+  "title": "Critique: an empty higher-order thought makes the theory incoherent",
+  "statements": [
+    {
+      "id": "5f3dd8fb-b4cd-4600-a0c4-91decc6a7df9",
+      "text": "If a lone, unconscious higher-order thought with no target at time t suffices for a conscious episode at t, then by the necessary condition that episode must be the object of a simultaneous higher-order thought, and there is none unless the thought is about itself, which turns the view into a same-order theory.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "5f3dd8fb-b4cd-4600-a0c4-91decc6a7df9",
+  "status": "active",
+  "voice": "critique",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "e299694a-26d6-4dfd-8c33-3abeea515593",
+        "locator": "p. 425",
+        "quote": "Thus, the sufficient condition and the necessary condition are incompatible in a situation in which there is only one non-self-referential higher order representation."
+      },
+      {
+        "source": "7dcb9063-add4-40ae-a22f-48c4241f1125",
+        "locator": "p. 443",
+        "quote": "I described an incoherence in one form of the higher order thought (HOT) theory"
+      }
+    ]
+  }
+}

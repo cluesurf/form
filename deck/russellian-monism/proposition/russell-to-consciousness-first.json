@@ -1,0 +1,50 @@
+{
+  "record": "proposition",
+  "id": "d2aaf557-bef3-4c83-b4aa-2998cd5bb3ed",
+  "kind": "philosophical",
+  "epistemic_status": "inferred",
+  "title": "Goff: Russell turns the mind-body problem around",
+  "statements": [
+    {
+      "id": "64afa6f9-ed38-41d3-a083-27eee96dc862",
+      "text": "On Goff’s reading of Russell, the only window onto the nature of matter is attention to one’s own mind. The problem then turns around: a great deal is known about consciousness, and the open question is how matter fits around it.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "64afa6f9-ed38-41d3-a083-27eee96dc862",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "aae1c42d-9a74-4efb-af0d-6bde20ebf41b",
+        "locator": "PDF p. 5",
+        "quote": "According to Russell the only ‘window’ one has onto the nature of matter is provided by attention to one’s own mind."
+      },
+      {
+        "source": "aae1c42d-9a74-4efb-af0d-6bde20ebf41b",
+        "locator": "PDF p. 7",
+        "quote": "Russellian wisdom tells us we know a lot about consciousness, but face a challenge seeing how matter fits around it."
+      }
+    ]
+  }
+}

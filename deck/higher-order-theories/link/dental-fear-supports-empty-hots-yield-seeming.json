@@ -1,0 +1,33 @@
+{
+  "record": "link",
+  "id": "d3aa40b3-0524-465d-be91-0bfcf5667ef6",
+  "from": "4201700b-26a5-42cc-b2ea-ec4b630e7feb",
+  "to": "4c5f1c41-3dcf-4213-95b4-23df5bfaa522",
+  "relation": "supports",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "e1ce439a-e67d-43bc-85d0-d94947d89a40",
+        "locator": "p. 436",
+        "quote": "Dental drilling sometimes leads patients to report feeling pain even though no relevant nerve exists."
+      },
+      {
+        "source": "cb5dc26e-c464-4e1b-8d1e-55c642597389",
+        "locator": "sect. 13.2, online p. 4",
+        "quote": "Dental patients are sometimes conscious of themselves as being in pain even though the relevant"
+      }
+    ]
+  }
+}

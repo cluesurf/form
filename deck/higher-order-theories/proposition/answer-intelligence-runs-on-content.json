@@ -1,0 +1,50 @@
+{
+  "record": "proposition",
+  "id": "9bd2d3ac-ddc9-42c9-95e2-b0eba522a61c",
+  "kind": "philosophical",
+  "epistemic_status": "hypothesized",
+  "title": "Answer: intelligence runs on content and does not need consciousness",
+  "statements": [
+    {
+      "id": "81b0e4de-7fe9-499b-8a01-9d8c438e41b9",
+      "text": "Reasoning, planning and executive control depend on the intentional content of states, which they have whether or not they are conscious, so intelligent processing can go on without consciousness and consciousness adds little to it.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "81b0e4de-7fe9-499b-8a01-9d8c438e41b9",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "258e1af4-6bb2-4d43-8731-8425d2afe27a",
+        "locator": "p. 1434",
+        "quote": "it is unclear why the states’ being conscious would in any way enhance those processes"
+      },
+      {
+        "source": "cb5dc26e-c464-4e1b-8d1e-55c642597389",
+        "locator": "sect. 13.4, online p. 8",
+        "quote": "their rationality is itself largely independent of their being conscious"
+      }
+    ]
+  }
+}

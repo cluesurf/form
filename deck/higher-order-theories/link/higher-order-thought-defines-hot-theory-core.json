@@ -1,0 +1,38 @@
+{
+  "record": "link",
+  "id": "86a761fe-a57b-47b4-b22e-84ca12c72dcc",
+  "from": "1d5cd935-9669-43e5-8c47-bbea8ff46266",
+  "to": "70a0ccae-834c-4772-af1b-dae917635552",
+  "relation": "defines",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "436fabd9-5340-4918-9c1c-02ddbcd28a4e",
+        "locator": "p. 335",
+        "quote": "it is natural to identify a mental state's being conscious with one's having a roughly contemporaneous thought that one is in that mental state"
+      },
+      {
+        "source": "436fabd9-5340-4918-9c1c-02ddbcd28a4e",
+        "locator": "p. 335",
+        "quote": "we can stipulate that the contemporaneous thought one has is not mediated"
+      },
+      {
+        "source": "cb5dc26e-c464-4e1b-8d1e-55c642597389",
+        "locator": "sect. 13.6, online p. 12",
+        "quote": "the state's mental attitude is always assertoric; doubting does not make one conscious of anything"
+      }
+    ]
+  }
+}

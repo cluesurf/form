@@ -1,0 +1,33 @@
+{
+  "record": "link",
+  "id": "b6e60d02-8afc-4237-bfd2-04c6ad2d6a0b",
+  "from": "129bd18a-03be-40c1-af41-e43d9d223949",
+  "to": "455dff7d-b66c-449d-b2d7-52521b99cba5",
+  "relation": "answers",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "8cb2ad1d-84ad-4f31-ba9e-8b7a5701fdf4",
+        "locator": "section 11, p. 37",
+        "quote": "Physics as we know it emerges from the relations between these entities, whereas consciousness as we know it emerges from their intrinsic nature."
+      },
+      {
+        "source": "0840dcc2-1282-4a87-bda3-061465634bb0",
+        "locator": "section 4.2",
+        "quote": "some claim that macrophenomenal properties emerge from quiddities, or from quiddities and structure"
+      }
+    ]
+  }
+}

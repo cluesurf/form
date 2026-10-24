@@ -1,0 +1,38 @@
+{
+  "record": "link",
+  "id": "68b3e292-bf89-4d6c-b08f-775569c55a7d",
+  "from": "755e79b4-47e3-4150-a4d6-dd89bc1358bb",
+  "to": "1f3050ed-426a-49e5-bb67-920e61558c18",
+  "relation": "is_equivalent_to",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "6a34d14f-8d85-4b22-8f91-d4d500600ce8",
+        "locator": "p. 2",
+        "quote": "If the visual system plays the role of the generator, and our perceptual experience reflects the judgment of the discriminator"
+      },
+      {
+        "source": "6a34d14f-8d85-4b22-8f91-d4d500600ce8",
+        "locator": "p. 3",
+        "quote": "The discriminator can be understood as a higher-order representation that represents beliefs (real vs. imagined) about lower-level perceptual representations."
+      },
+      {
+        "source": "6a34d14f-8d85-4b22-8f91-d4d500600ce8",
+        "locator": "p. 4",
+        "quote": "The discriminator corresponds to a reality monitoring mechanism that has been frequently attributed to the median anterior prefrontal cortex"
+      }
+    ]
+  }
+}

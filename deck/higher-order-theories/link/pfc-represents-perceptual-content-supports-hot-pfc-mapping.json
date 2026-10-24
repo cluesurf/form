@@ -1,0 +1,28 @@
+{
+  "record": "link",
+  "id": "530ee597-0c9b-4758-9077-39111903959e",
+  "from": "cdeb1e92-578e-42a6-9d05-0fc9b6ceb64b",
+  "to": "c3b214c4-93cf-48f2-bb6a-a0c5a5d6ef23",
+  "relation": "supports",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "4679e6b4-65c8-4b98-983a-d96388c5a75f",
+        "locator": "bioRxiv preprint, p. 11",
+        "quote": "But importantly, the claim that PFC activity does not reflect specific perceptual content is also empirically false."
+      }
+    ]
+  }
+}

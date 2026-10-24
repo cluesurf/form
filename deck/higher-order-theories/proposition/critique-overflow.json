@@ -1,0 +1,45 @@
+{
+  "record": "proposition",
+  "id": "331a588c-8225-43ab-8b40-d31c2d44fd9f",
+  "kind": "empirical",
+  "epistemic_status": "inferred",
+  "title": "Critique: phenomenal consciousness overflows cognitive access",
+  "statements": [
+    {
+      "id": "0f63e2f5-d5ae-4dda-b04e-6a6588673a7f",
+      "text": "Partial report experiments suggest that subjects experience more items than they can access and report, so the neural basis of phenomenal consciousness does not include the machinery of cognitive access, against views that make access or higher-order awareness constitutive.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "0f63e2f5-d5ae-4dda-b04e-6a6588673a7f",
+  "status": "active",
+  "voice": "critique",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "713a83e8-8bc5-4221-ad04-794d08e956c6",
+        "locator": "abstract, p. 481",
+        "quote": "data that show that in a certain sense phenomenal consciousness overflows cognitive accessibility"
+      }
+    ]
+  }
+}

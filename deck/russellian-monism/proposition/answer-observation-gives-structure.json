@@ -1,0 +1,50 @@
+{
+  "record": "proposition",
+  "id": "845fda31-c384-4ca1-ad16-e65ab984f42a",
+  "kind": "philosophical",
+  "epistemic_status": "hypothesized",
+  "title": "Answer: measurement yields structure, and only one’s own experience shows the intrinsic",
+  "statements": [
+    {
+      "id": "1c0248bc-b8c5-42a6-b0b4-5abf3985ad62",
+      "text": "Measurement yields pointer readings, which reveal structure and not intrinsic nature. The one place where the intrinsic character of physical events is known is one’s own experience, the percepts in one’s own brain. The view takes no position on the quantum measurement problem.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "1c0248bc-b8c5-42a6-b0b4-5abf3985ad62",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "f1983fa1-bead-4fab-9f81-10414b26dc8f",
+        "locator": "chapter XII, p. 259",
+        "quote": "The physical atom is, like everything else in physics, a schedule of pointer readings."
+      },
+      {
+        "source": "a2015889-f423-459b-82c6-02b65f2f0614",
+        "locator": "chapter XXXVIII, p. 402",
+        "quote": "Percepts are the only part of the physical world that we know otherwise than abstractly."
+      }
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "record": "link",
+  "id": "dae5ff4e-aa5c-4b06-95a3-eaee84b75e3d",
+  "from": "9c411fbe-7788-4138-bd20-c748de1982a4",
+  "to": "70a0ccae-834c-4772-af1b-dae917635552",
+  "relation": "requires",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "436fabd9-5340-4918-9c1c-02ddbcd28a4e",
+        "locator": "p. 339",
+        "quote": "The present explanation, moreover, has precise empirical consequences that one could reasonably hope to test."
+      }
+    ]
+  }
+}

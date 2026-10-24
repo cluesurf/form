@@ -1,0 +1,33 @@
+{
+  "record": "link",
+  "id": "a63c9253-0225-4460-888b-35cf772162ad",
+  "from": "8a4e43ca-d61a-4a25-b586-64ff88c0e849",
+  "to": "1f3050ed-426a-49e5-bb67-920e61558c18",
+  "relation": "supports",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "f431a5c3-19c2-4095-ae55-723cadcafced",
+        "locator": "box 1, p. 368",
+        "quote": "these decision mechanisms are integral to the perceptual process itself"
+      },
+      {
+        "source": "4679e6b4-65c8-4b98-983a-d96388c5a75f",
+        "locator": "bioRxiv preprint, p. 12",
+        "quote": "it is unclear how early sensory activity on its own can lead to conscious percepts; decisional mechanisms are needed"
+      }
+    ]
+  }
+}

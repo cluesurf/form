@@ -1,0 +1,50 @@
+{
+  "record": "proposition",
+  "id": "5c15de0f-36c9-4306-8e30-3ce1fd04e946",
+  "kind": "empirical",
+  "epistemic_status": "inferred",
+  "title": "Critique: which experiences are possible is settled in the visual system",
+  "statements": [
+    {
+      "id": "16a4ae76-c0db-4654-835c-848214527c44",
+      "text": "Whether an experience of red with no specific shade, or of red and green all over, is possible is a question for the visual system, for example its opponent processes. The higher-order theory, having dropped first-order states from experience, would have to settle it by examining thoughts.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "16a4ae76-c0db-4654-835c-848214527c44",
+  "status": "active",
+  "voice": "critique",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "7dcb9063-add4-40ae-a22f-48c4241f1125",
+        "locator": "p. 445",
+        "quote": "The less obvious problem is that the HOT theory makes the wrong prediction for how to answer the question."
+      },
+      {
+        "source": "7dcb9063-add4-40ae-a22f-48c4241f1125",
+        "locator": "p. 445",
+        "quote": "it is obvious that the real scientific issue is to be resolved via examining the visual system itself"
+      }
+    ]
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "record": "proposition",
+  "id": "7696cd34-b953-466f-b689-879805fafc06",
+  "kind": "empirical",
+  "epistemic_status": "hypothesized",
+  "title": "Answer: vary awareness while matching task performance",
+  "statements": [
+    {
+      "id": "9fc4dcab-365d-4a08-adfe-d4404f5ba930",
+      "text": "The view is checked in experiments that hold task performance fixed while awareness differs, using masking, TMS, lesions and blindsight, and by asking whether prefrontal activity tracks the difference. Such matching is hard, which is why decisive evidence is still emerging.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "9fc4dcab-365d-4a08-adfe-d4404f5ba930",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "f431a5c3-19c2-4095-ae55-723cadcafced",
+        "locator": "p. 371",
+        "quote": "We focused on cases in which awareness differed despite matched task performance because these cases most crucially distinguish the higher-order view from its alternatives."
+      }
+    ]
+  }
+}

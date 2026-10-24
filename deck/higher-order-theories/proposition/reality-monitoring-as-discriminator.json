@@ -1,0 +1,55 @@
+{
+  "record": "proposition",
+  "id": "755e79b4-47e3-4150-a4d6-dd89bc1358bb",
+  "kind": "empirical",
+  "epistemic_status": "hypothesized",
+  "title": "A discriminator that tells real from imagined signals is a higher-order state",
+  "statements": [
+    {
+      "id": "6f208a68-f032-4f85-9c5a-bf9007953e8a",
+      "text": "In a generative adversarial picture of the brain, a discriminator judges whether perceptual content is real or generated. If conscious experience is content the discriminator endorses as real, the discriminator is a higher-order representation, attributed to anterior prefrontal cortex, and its failure would let imagined content pass as real.",
+      "language": "en",
+      "scope": "Gershman's allied model, which cites Lau's perceptual reality monitoring as a parallel.",
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "6f208a68-f032-4f85-9c5a-bf9007953e8a",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "6a34d14f-8d85-4b22-8f91-d4d500600ce8",
+        "locator": "p. 2",
+        "quote": "If the visual system plays the role of the generator, and our perceptual experience reflects the judgment of the discriminator"
+      },
+      {
+        "source": "6a34d14f-8d85-4b22-8f91-d4d500600ce8",
+        "locator": "p. 3",
+        "quote": "The discriminator can be understood as a higher-order representation that represents beliefs (real vs. imagined) about lower-level perceptual representations."
+      },
+      {
+        "source": "6a34d14f-8d85-4b22-8f91-d4d500600ce8",
+        "locator": "p. 4",
+        "quote": "The discriminator corresponds to a reality monitoring mechanism that has been frequently attributed to the median anterior prefrontal cortex"
+      }
+    ]
+  }
+}

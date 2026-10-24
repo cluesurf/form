@@ -1,0 +1,28 @@
+{
+  "record": "link",
+  "id": "7da5a5f3-ba62-4ffb-bfc6-6abb3931d2a6",
+  "from": "73d95144-97a6-4074-9de9-a2633d750b55",
+  "to": "ee1a7b48-222e-4948-bfb7-6a444630034f",
+  "relation": "requires",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "e1ce439a-e67d-43bc-85d0-d94947d89a40",
+        "locator": "p. 431",
+        "quote": "Higher-order theories exploit this, arguing that a state is conscious only if one is subjectively aware of oneself as being in that state."
+      }
+    ]
+  }
+}

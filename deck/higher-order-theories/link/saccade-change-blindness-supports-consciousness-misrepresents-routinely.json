@@ -1,0 +1,28 @@
+{
+  "record": "link",
+  "id": "e9f6ff01-f5b7-4c41-bce2-a99438e55497",
+  "from": "0b0cf64c-ea63-48fa-983a-9eea8e815ab9",
+  "to": "5a2feedd-077c-430d-a956-5ee61ed59ec4",
+  "relation": "supports",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "258e1af4-6bb2-4d43-8731-8425d2afe27a",
+        "locator": "p. 1431",
+        "quote": "Participants often were not consciously aware of changes in salient visual features"
+      }
+    ]
+  }
+}

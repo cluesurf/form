@@ -1,0 +1,50 @@
+{
+  "record": "proposition",
+  "id": "4d55e625-ab94-4337-976d-379cf22d4084",
+  "kind": "definitional",
+  "epistemic_status": "designed",
+  "title": "Absolutely and comparatively intrinsic properties",
+  "statements": [
+    {
+      "id": "c299ef8f-c9bc-49b8-b86f-3db010a277b4",
+      "text": "A property is absolutely intrinsic to a thing when it is intrinsic and not necessitated by purely extrinsic properties of the thing’s parts. A comparatively intrinsic property, such as a sphere’s shape, is intrinsic but necessitated by such extrinsic properties.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "c299ef8f-c9bc-49b8-b86f-3db010a277b4",
+  "status": "active",
+  "voice": "framework",
+  "defines": "absolutely intrinsic property",
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "ef130a02-df8c-4de4-84ba-9d2696d02e3a",
+        "locator": "p. 12",
+        "quote": "P is an absolutely intrinsic property of X just in case P is an intrinsic property of X, and P is not necessitated by purely extrinsic properties of parts of X."
+      },
+      {
+        "source": "0840dcc2-1282-4a87-bda3-061465634bb0",
+        "locator": "section 1.1",
+        "quote": "relatively intrinsic properties are intrinsic properties that are nothing over and above extrinsic properties"
+      }
+    ]
+  }
+}

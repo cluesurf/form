@@ -1,0 +1,50 @@
+{
+  "record": "proposition",
+  "id": "c42ea504-0f47-4474-9a3a-71c7750a2cbc",
+  "kind": "definitional",
+  "epistemic_status": "designed",
+  "title": "Type-F monism",
+  "statements": [
+    {
+      "id": "74d9d23b-9b18-42b7-9ef2-9e1b266ca33d",
+      "text": "Type-F monism is Chalmers’s name for the view that consciousness is constituted by the intrinsic properties of fundamental physical entities, the categorical bases of fundamental physical dispositions. Phenomenal or protophenomenal properties sit at the fundamental level and in a sense underlie physical reality.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "74d9d23b-9b18-42b7-9ef2-9e1b266ca33d",
+  "status": "active",
+  "voice": "framework",
+  "defines": "type-f monism",
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "8cb2ad1d-84ad-4f31-ba9e-8b7a5701fdf4",
+        "locator": "section 11, p. 36",
+        "quote": "Type-F monism is the view that consciousness is constituted by the intrinsic properties of fundamental physical entities: that is, by the categorical bases of fundamental physical dispositions."
+      },
+      {
+        "source": "8cb2ad1d-84ad-4f31-ba9e-8b7a5701fdf4",
+        "locator": "section 11, p. 36",
+        "quote": "This view takes its cue from Bertrand Russell’s discussion of physics in The Analysis of Matter."
+      }
+    ]
+  }
+}

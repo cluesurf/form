@@ -1,0 +1,50 @@
+{
+  "record": "proposition",
+  "id": "47ab9b61-92ed-45ef-9a36-7ec2be0b3129",
+  "kind": "empirical",
+  "epistemic_status": "hypothesized",
+  "title": "Prediction: prefrontal activity for decisions that nothing was seen",
+  "statements": [
+    {
+      "id": "13ee2acc-e369-4116-9679-e385678f0647",
+      "text": "The model predicts that awareness reports, but not discrimination performance, depend on higher-order states, so silencing them could yield a kind of blindsight. It also predicts prefrontal involvement when a subject actively decides a stimulus was absent, where global workspace theory predicts prefrontal quiet.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": "Prefrontal cortex stays quiet on trials where subjects actively report that no stimulus was present, or silencing the putative awareness states leaves awareness reports unchanged.",
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "13ee2acc-e369-4116-9679-e385678f0647",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "86ca1f15-7480-45fb-bf39-03972dcaa7d6",
+        "locator": "arXiv p. 8",
+        "quote": "Thus it may be possible to silence or otherwise inactivate the neural substrates of an awareness state without affecting performance"
+      },
+      {
+        "source": "86ca1f15-7480-45fb-bf39-03972dcaa7d6",
+        "locator": "arXiv p. 10",
+        "quote": "HOSS predicts prefrontal involvement for active decisions about stimulus absence, whereas GWS predicts that PFC remains quiescent on such trials"
+      }
+    ]
+  }
+}

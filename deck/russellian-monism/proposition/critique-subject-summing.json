@@ -1,0 +1,45 @@
+{
+  "record": "proposition",
+  "id": "6c350cd3-2a15-420e-85b2-67fad55f0af4",
+  "kind": "philosophical",
+  "epistemic_status": "hypothesized",
+  "title": "Critique: subjects do not seem to sum to a subject",
+  "statements": [
+    {
+      "id": "b17eb1d2-2e83-4619-bd1a-cf9dc48f4833",
+      "text": "Constitutive Russellian panpsychism needs many microsubjects to combine into a single macrosubject. But, following William James, for any group of subjects and any further subject, it seems possible for the group to exist without the further subject.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "b17eb1d2-2e83-4619-bd1a-cf9dc48f4833",
+  "status": "active",
+  "voice": "critique",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "0840dcc2-1282-4a87-bda3-061465634bb0",
+        "locator": "section 3.2",
+        "quote": "given any group of subjects and any further subject, it seems possible for the group to exist without that further subject existing"
+      }
+    ]
+  }
+}

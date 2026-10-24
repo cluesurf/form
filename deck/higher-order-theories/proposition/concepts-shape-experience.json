@@ -1,0 +1,50 @@
+{
+  "record": "proposition",
+  "id": "700c590b-e0dd-4887-b86c-23d6fd27cc1d",
+  "kind": "empirical",
+  "epistemic_status": "inferred",
+  "title": "Learning words for qualities changes how experiences are conscious",
+  "statements": [
+    {
+      "id": "d4218f01-8a0f-485a-9a74-a13d10f467bc",
+      "text": "Learning words for the tastes of wines or the sounds of instruments can make experiences conscious in respect of qualities that were indistinguishable before. The theory explains this by the concepts in the higher-order thought, whose grain fixes the grain of conscious experience.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "d4218f01-8a0f-485a-9a74-a13d10f467bc",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "cb5dc26e-c464-4e1b-8d1e-55c642597389",
+        "locator": "sect. 13.3, online p. 7",
+        "quote": "A vivid example is the way learning new words for qualitative properties sometimes results in one's experiences coming to be conscious in respect of those very qualities."
+      },
+      {
+        "source": "cb5dc26e-c464-4e1b-8d1e-55c642597389",
+        "locator": "sect. 13.3, online p. 7",
+        "quote": "The way we are conscious of our qualitative experiences varies with the fineness of grain with which our HOTs represent those experiences."
+      }
+    ]
+  }
+}

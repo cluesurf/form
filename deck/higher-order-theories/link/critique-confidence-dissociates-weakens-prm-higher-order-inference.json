@@ -1,0 +1,33 @@
+{
+  "record": "link",
+  "id": "8a362b8b-db19-43c8-a738-fc5ff4c9a332",
+  "from": "f7848778-d7a5-4a31-b6cc-32c24e6aac0e",
+  "to": "1f3050ed-426a-49e5-bb67-920e61558c18",
+  "relation": "weakens",
+  "strength": null,
+  "rationale": "If seeing and confidence in having seen vary independently, a higher-order judgment of reliability cannot be what makes seeing conscious.",
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "57902ad8-c0c3-4f75-acdd-0280d7e6ce4d",
+        "locator": "p. 537",
+        "quote": "This provides another piece of empirical evidence against the higher-order point of view."
+      },
+      {
+        "source": "57902ad8-c0c3-4f75-acdd-0280d7e6ce4d",
+        "locator": "p. 537",
+        "quote": "consciously seeing the stimulus and confidence that one has seen it can vary independently"
+      }
+    ]
+  }
+}

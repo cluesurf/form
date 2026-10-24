@@ -1,0 +1,33 @@
+{
+  "record": "link",
+  "id": "7cf8a53e-ca5d-4621-9788-74b58ae2f260",
+  "from": "b4e2e1e5-b333-4dd2-a1a9-4302df515656",
+  "to": "6c350cd3-2a15-420e-85b2-67fad55f0af4",
+  "relation": "requires",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "0840dcc2-1282-4a87-bda3-061465634bb0",
+        "locator": "section 3.2",
+        "quote": "given any group of subjects and any further subject, it seems possible for the group to exist without that further subject existing"
+      },
+      {
+        "source": "224300bf-b397-4e61-811b-a5b89109178d",
+        "locator": "section II, PDF p. 14",
+        "quote": "Panpsychism entails that o-subjects are fundamental."
+      }
+    ]
+  }
+}

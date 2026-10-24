@@ -1,0 +1,55 @@
+{
+  "record": "proposition",
+  "id": "f8090003-6976-457b-8f15-8340f720734c",
+  "kind": "philosophical",
+  "epistemic_status": "hypothesized",
+  "title": "Russell: percepts are physical events in the percipient’s brain",
+  "statements": [
+    {
+      "id": "ce9e7d1a-616f-4d26-9e63-80e391a60cdb",
+      "text": "Percepts are part of the matter of the percipient’s brain. They are not known to have any intrinsic character that physical events cannot have, so there is no ground for excluding them from the physical world, and several reasons for including them.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "ce9e7d1a-616f-4d26-9e63-80e391a60cdb",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "a2015889-f423-459b-82c6-02b65f2f0614",
+        "locator": "chapter XXXVII, p. 382",
+        "quote": "these percepts are really part of the matter of the percipient’s brain"
+      },
+      {
+        "source": "a2015889-f423-459b-82c6-02b65f2f0614",
+        "locator": "chapter XXXVII, p. 384",
+        "quote": "are not known to have any intrinsic character which physical events cannot have"
+      },
+      {
+        "source": "a2015889-f423-459b-82c6-02b65f2f0614",
+        "locator": "chapter XXXVII, p. 384",
+        "quote": "I conclude, then, that there is no good ground for excluding percepts from the physical world, but several strong reasons for including them."
+      }
+    ]
+  }
+}

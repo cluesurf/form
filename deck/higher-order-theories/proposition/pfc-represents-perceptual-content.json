@@ -1,0 +1,45 @@
+{
+  "record": "proposition",
+  "id": "cdeb1e92-578e-42a6-9d05-0fc9b6ceb64b",
+  "kind": "empirical",
+  "epistemic_status": "inferred",
+  "title": "Prefrontal activity carries specific perceptual content",
+  "statements": [
+    {
+      "id": "e6db7e69-109a-444d-96c3-126a0308d989",
+      "text": "Multivariate fMRI decoding and single-unit recordings in monkeys show that prefrontal activity reflects specific perceptual content and decisions. Univariate fMRI is too insensitive to show it, and the impression otherwise comes from a selective reading of that literature.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "e6db7e69-109a-444d-96c3-126a0308d989",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "4679e6b4-65c8-4b98-983a-d96388c5a75f",
+        "locator": "bioRxiv preprint, p. 11",
+        "quote": "But importantly, the claim that PFC activity does not reflect specific perceptual content is also empirically false."
+      }
+    ]
+  }
+}

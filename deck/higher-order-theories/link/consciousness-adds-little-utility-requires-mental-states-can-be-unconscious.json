@@ -1,0 +1,38 @@
+{
+  "record": "link",
+  "id": "2f34d03d-860c-4062-ab20-271c0f390624",
+  "from": "33d48b8b-e793-4ee3-86e8-1e85c27423c7",
+  "to": "034b5424-ff11-472e-b2a6-7f19ad94c866",
+  "relation": "requires",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "258e1af4-6bb2-4d43-8731-8425d2afe27a",
+        "locator": "abstract, p. 1424",
+        "quote": "it is unlikely that there is much, if any, utility to mental states’ being conscious over and above the utility those states have when they are not conscious"
+      },
+      {
+        "source": "258e1af4-6bb2-4d43-8731-8425d2afe27a",
+        "locator": "p. 1434",
+        "quote": "Rationality and inference depend entirely on rational connections among the contents of cognitive and volitional states"
+      },
+      {
+        "source": "258e1af4-6bb2-4d43-8731-8425d2afe27a",
+        "locator": "p. 1435",
+        "quote": "Consciousness is not needed for the social utility of letting others know about our thoughts."
+      }
+    ]
+  }
+}

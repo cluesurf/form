@@ -1,0 +1,39 @@
+{
+  "record": "observation",
+  "id": "5511728d-1277-4588-8ce3-5ef14626f9a8",
+  "kind": "observation",
+  "epistemic_status": "observed",
+  "description": "Rare Charles Bonnet patients with damage to primary visual cortex are cognitively intact and experience vivid visual hallucinations (case reports, as cited by Lau and Rosenthal).",
+  "method": "document_review",
+  "status": "reported",
+  "source": "f431a5c3-19c2-4095-ae55-723cadcafced",
+  "procedure": null,
+  "variable": null,
+  "value": null,
+  "unit": null,
+  "uncertainty": null,
+  "sample_size": null,
+  "replication_count": null,
+  "quality": null,
+  "limitations": "Case reports. The damage does not include the whole visual cortex, and Malach reads the cases as fitting first-order theories that rely on higher visual areas.",
+  "conflicts_of_interest": null,
+  "observed_at": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "f431a5c3-19c2-4095-ae55-723cadcafced",
+        "locator": "p. 371",
+        "quote": "These patients are cognitively cogent but experience vivid visual hallucinations."
+      }
+    ]
+  }
+}

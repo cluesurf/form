@@ -1,0 +1,50 @@
+{
+  "record": "proposition",
+  "id": "4c2fb1bb-a368-446f-b1a7-21de6eaa5189",
+  "kind": "philosophical",
+  "epistemic_status": "inferred",
+  "title": "Pereboom: protophenomenalism is the physicalist Russellian monist’s best hope",
+  "statements": [
+    {
+      "id": "31ccd253-f71f-49cd-be4f-9f3b35c33ce1",
+      "text": "Known candidates for absolutely intrinsic physical properties, such as prime matter, categorical solidity and primitive colors, leave the conceivability of the physical without the phenomenal undiminished. Properties not yet conceived, as on Chalmers’s protophenomenalism, are the physicalist version’s best hope, and physics may come to conceive them.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "31ccd253-f71f-49cd-be4f-9f3b35c33ce1",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "ef130a02-df8c-4de4-84ba-9d2696d02e3a",
+        "locator": "p. 26",
+        "quote": "would seem to render protophenomenalism the physicalist Russellian Monist’s best hope"
+      },
+      {
+        "source": "ef130a02-df8c-4de4-84ba-9d2696d02e3a",
+        "locator": "p. 26",
+        "quote": "More optimistically, as physics develops, we may come to conceive them."
+      }
+    ]
+  }
+}

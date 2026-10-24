@@ -1,0 +1,45 @@
+{
+  "record": "proposition",
+  "id": "935a2b64-5344-488b-92a0-4fd513bd3285",
+  "kind": "empirical",
+  "epistemic_status": "hypothesized",
+  "title": "Open: dreams with low prefrontal activity",
+  "statements": [
+    {
+      "id": "86668122-e164-452a-a8fa-0e948e033b4b",
+      "text": "Prefrontal cortex seems to show low activity in REM sleep, when dreams are most likely. This may tell against variants that tie more awareness to more prefrontal activity, or dreams may not involve conscious experience at the time despite being recalled consciously.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "86668122-e164-452a-a8fa-0e948e033b4b",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "f431a5c3-19c2-4095-ae55-723cadcafced",
+        "locator": "box 4, p. 371",
+        "quote": "Or is it perhaps that dreams do not actually involve conscious experiences, despite our recalling them consciously?"
+      }
+    ]
+  }
+}

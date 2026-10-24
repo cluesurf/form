@@ -1,0 +1,55 @@
+{
+  "record": "proposition",
+  "id": "23299e70-ac5e-422e-86fc-bf08c55086d3",
+  "kind": "philosophical",
+  "epistemic_status": "inferred",
+  "title": "One answer to two problems: the nature of matter and the place of consciousness",
+  "statements": [
+    {
+      "id": "11dfd7c9-02a8-4be8-8253-56062203f828",
+      "text": "Two problems seem made for each other: what the intrinsic properties of fundamental physical systems are, and how phenomenal properties, which seem intrinsic and hard to fit into the structural character of physics, belong in the physical world. Russell’s insight was that both might be solved at once, if the intrinsic properties of the physical world are phenomenal or protophenomenal.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "11dfd7c9-02a8-4be8-8253-56062203f828",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "8cb2ad1d-84ad-4f31-ba9e-8b7a5701fdf4",
+        "locator": "section 11, p. 36",
+        "quote": "Phenomenal properties seem to be intrinsic properties that are hard to fit in with the structural/dynamic character of physical theory"
+      },
+      {
+        "source": "8cb2ad1d-84ad-4f31-ba9e-8b7a5701fdf4",
+        "locator": "section 11, p. 37",
+        "quote": "might solve both these problems at once"
+      },
+      {
+        "source": "0840dcc2-1282-4a87-bda3-061465634bb0",
+        "locator": "section 3.1",
+        "quote": "these two problems seem made for each other"
+      }
+    ]
+  }
+}

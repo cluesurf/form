@@ -1,0 +1,45 @@
+{
+  "record": "proposition",
+  "id": "17d49cfa-10ff-4d93-94a6-b8fbecfd8400",
+  "kind": "philosophical",
+  "epistemic_status": "hypothesized",
+  "title": "Critique: phenomenal micropsychism needs brute laws",
+  "statements": [
+    {
+      "id": "3e1d01cd-2803-4da2-9d73-5df3b0b6d514",
+      "text": "Pereboom argues that phenomenal micropsychism would need brute laws linking microphenomenal intrinsic properties with the microphysical properties they underlie, which gives no explanatory light on the properties of microphysics. This favors the protophenomenal form.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "3e1d01cd-2803-4da2-9d73-5df3b0b6d514",
+  "status": "active",
+  "voice": "critique",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "ef130a02-df8c-4de4-84ba-9d2696d02e3a",
+        "locator": "p. 32",
+        "quote": "the envisioned phenomenal micropsychism would need to posit brute laws linking microphenomenal absolutely intrinsic properties with the conventional microphysical properties that they underlie"
+      }
+    ]
+  }
+}

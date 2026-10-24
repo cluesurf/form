@@ -1,0 +1,33 @@
+{
+  "record": "link",
+  "id": "04b4a5c9-4254-44e7-aa15-c02219a3267e",
+  "from": "9fd918f7-222c-4f7f-8d9a-da2ed340e869",
+  "to": "f8090003-6976-457b-8f15-8340f720734c",
+  "relation": "requires",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "a2015889-f423-459b-82c6-02b65f2f0614",
+        "locator": "chapter XXXVII, p. 382",
+        "quote": "these percepts are really part of the matter of the percipient’s brain"
+      },
+      {
+        "source": "f1983fa1-bead-4fab-9f81-10414b26dc8f",
+        "locator": "chapter XIII, p. 277",
+        "quote": "The mind-stuff is not spread in space and time"
+      }
+    ]
+  }
+}

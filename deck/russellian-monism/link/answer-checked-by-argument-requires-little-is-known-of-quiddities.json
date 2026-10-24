@@ -1,0 +1,33 @@
+{
+  "record": "link",
+  "id": "9b9affd5-5a85-48f1-8222-50438d8522c1",
+  "from": "a98f1706-6983-4f78-a7a6-664ed7093ce2",
+  "to": "4f7c5b82-9063-493b-b2a8-658748ac4719",
+  "relation": "requires",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "8cb2ad1d-84ad-4f31-ba9e-8b7a5701fdf4",
+        "locator": "section 11, p. 39",
+        "quote": "Perhaps we can do this indirectly, by some sort of theoretical inference from the character of phenomenal properties to their underlying constituents"
+      },
+      {
+        "source": "ef130a02-df8c-4de4-84ba-9d2696d02e3a",
+        "locator": "p. 26",
+        "quote": "More optimistically, as physics develops, we may come to conceive them."
+      }
+    ]
+  }
+}

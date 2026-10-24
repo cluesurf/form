@@ -1,0 +1,45 @@
+{
+  "record": "proposition",
+  "id": "6dc2babe-a83f-47a1-bd22-34967d39c93c",
+  "kind": "philosophical",
+  "epistemic_status": "inferred",
+  "title": "A disposition to have a higher-order thought is not enough",
+  "statements": [
+    {
+      "id": "1f4ca5b4-383c-4892-b47c-3f8498f5f512",
+      "text": "Against Carruthers' dispositional variant, being disposed to have a thought about a state does not make one conscious of it, so only an occurrent higher-order thought satisfies the transitivity principle.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "1f4ca5b4-383c-4892-b47c-3f8498f5f512",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "cb5dc26e-c464-4e1b-8d1e-55c642597389",
+        "locator": "sect. 13.5, online p. 10",
+        "quote": "justice to TP, since being disposed to have a thought about something does not make one conscious of that thing."
+      }
+    ]
+  }
+}

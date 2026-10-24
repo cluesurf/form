@@ -1,0 +1,33 @@
+{
+  "record": "link",
+  "id": "bdbadfe4-52e4-419f-a521-3d2622ad98d6",
+  "from": "10692f74-9d20-4f3e-8637-2bfbb46a9908",
+  "to": "c3b214c4-93cf-48f2-bb6a-a0c5a5d6ef23",
+  "relation": "weakens",
+  "strength": null,
+  "rationale": "If stimulating frontal cortex changes no experience while posterior stimulation changes content, frontal cortex does not seem to specify conscious content.",
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "a1697eea-28ca-4cc3-8433-6a8d91e90936",
+        "locator": "bioRxiv preprint, p. 8",
+        "quote": "It was recognized long ago that electrical stimulation of most of the frontal cortex has no consequence on experience"
+      },
+      {
+        "source": "a1697eea-28ca-4cc3-8433-6a8d91e90936",
+        "locator": "bioRxiv preprint, p. 8",
+        "quote": "stimulation studies show consistent evidence for many conscious contents being specified by the posterior cortex, while the evidence is much less clear for the frontal cortex"
+      }
+    ]
+  }
+}

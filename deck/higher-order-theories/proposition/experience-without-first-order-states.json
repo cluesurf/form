@@ -1,0 +1,50 @@
+{
+  "record": "proposition",
+  "id": "67e1d7b7-5f15-4d6d-925f-4d496a43aba3",
+  "kind": "empirical",
+  "epistemic_status": "hypothesized",
+  "title": "Hallucinations suggest experience can come from higher-order activity",
+  "statements": [
+    {
+      "id": "a83e4c79-2dee-430c-8fcb-b801babcfe5e",
+      "text": "Prefrontal stimulation, dopaminergic drugs and schizophrenia can yield visual hallucinations, and rare Charles Bonnet cases with damaged primary visual cortex have vivid ones. If experience can exist without first-order representations, its qualitative character might depend entirely on higher-order ones.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "a83e4c79-2dee-430c-8fcb-b801babcfe5e",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "f431a5c3-19c2-4095-ae55-723cadcafced",
+        "locator": "p. 370",
+        "quote": "Thus conscious visual awareness, albeit hallucinatory, evidently can result from activity in prefrontal cortex."
+      },
+      {
+        "source": "f431a5c3-19c2-4095-ae55-723cadcafced",
+        "locator": "p. 371",
+        "quote": "If conscious experience can exist in the absence of first-order representations, the qualitative character of conscious awareness might depend entirely on higher-order representations."
+      }
+    ]
+  }
+}

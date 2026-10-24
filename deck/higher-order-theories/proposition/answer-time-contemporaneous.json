@@ -1,0 +1,50 @@
+{
+  "record": "proposition",
+  "id": "da6afa9f-387b-4580-bc4a-b72e7d8c2f60",
+  "kind": "empirical",
+  "epistemic_status": "hypothesized",
+  "title": "Answer: the higher-order thought is roughly contemporaneous, and onsets are judged",
+  "statements": [
+    {
+      "id": "2ac487b7-ce1a-49b9-999c-4822e272d893",
+      "text": "The theory gives no account of time. It requires the higher-order thought to be roughly contemporaneous with its target as a typical condition, and the empirical program holds that when something seems to begin is set by higher-order judgment, so awareness can lag the processes it is about.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "2ac487b7-ce1a-49b9-999c-4822e272d893",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "717ca9a8-d351-4583-a4ba-5ed3b5f7e20c",
+        "locator": "p. 198",
+        "quote": "a mental state's being conscious is its being accompanied by a roughly simultaneous higher-order thought about that very mental state"
+      },
+      {
+        "source": "f431a5c3-19c2-4095-ae55-723cadcafced",
+        "locator": "box 1, p. 368",
+        "quote": "Thus, the phenomenon is likely to depend on higher-order mechanisms"
+      }
+    ]
+  }
+}

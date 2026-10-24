@@ -1,0 +1,28 @@
+{
+  "record": "link",
+  "id": "4de2650f-a846-4da9-83d1-248bc487cab1",
+  "from": "5511728d-1277-4588-8ce3-5ef14626f9a8",
+  "to": "67e1d7b7-5f15-4d6d-925f-4d496a43aba3",
+  "relation": "supports",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "f431a5c3-19c2-4095-ae55-723cadcafced",
+        "locator": "p. 371",
+        "quote": "These patients are cognitively cogent but experience vivid visual hallucinations."
+      }
+    ]
+  }
+}

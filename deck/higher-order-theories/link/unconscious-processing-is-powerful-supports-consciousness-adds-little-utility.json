@@ -1,0 +1,33 @@
+{
+  "record": "link",
+  "id": "25b92032-fc4b-44cc-8c61-0fd33ad686f0",
+  "from": "f38a5baa-c5a3-4926-ad4c-cae4aaf6d964",
+  "to": "33d48b8b-e793-4ee3-86e8-1e85c27423c7",
+  "relation": "supports",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "f431a5c3-19c2-4095-ae55-723cadcafced",
+        "locator": "p. 368",
+        "quote": "recent studies have shown that unconscious information can facilitate or at least influence higher cognitive functions such as task preparation"
+      },
+      {
+        "source": "f431a5c3-19c2-4095-ae55-723cadcafced",
+        "locator": "p. 368",
+        "quote": "These findings suggest that awareness might not have 'special' utility"
+      }
+    ]
+  }
+}

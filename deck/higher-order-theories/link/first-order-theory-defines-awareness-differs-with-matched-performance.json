@@ -1,0 +1,28 @@
+{
+  "record": "link",
+  "id": "9d23f792-68df-4331-8903-271a555de5e4",
+  "from": "546e7e2f-56ff-4869-920b-eec79ad1fbba",
+  "to": "d72d05a3-61ac-4188-bee9-1576b95b8673",
+  "relation": "defines",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "f431a5c3-19c2-4095-ae55-723cadcafced",
+        "locator": "p. 365",
+        "quote": "which hold that a mental state being conscious is determined solely by the neural or representational character of the perceptual state"
+      }
+    ]
+  }
+}

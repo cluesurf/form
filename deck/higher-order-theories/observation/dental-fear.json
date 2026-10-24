@@ -1,0 +1,44 @@
+{
+  "record": "observation",
+  "id": "4201700b-26a5-42cc-b2ea-ec4b630e7feb",
+  "kind": "observation",
+  "epistemic_status": "observed",
+  "description": "Dental patients sometimes report feeling pain from drilling when the relevant nerve is anesthetized or dead. Once the effect is explained and drilling resumes, they feel only fear and vibration, but still remember the earlier experience as pain (clinical reports, as described by Rosenthal).",
+  "method": "document_review",
+  "status": "reported",
+  "source": "e1ce439a-e67d-43bc-85d0-d94947d89a40",
+  "procedure": null,
+  "variable": null,
+  "value": null,
+  "unit": null,
+  "uncertainty": null,
+  "sample_size": null,
+  "replication_count": null,
+  "quality": null,
+  "limitations": "Described by Rosenthal from clinical lore without a cited study. Block reads it as real pain by another route.",
+  "conflicts_of_interest": null,
+  "observed_at": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "e1ce439a-e67d-43bc-85d0-d94947d89a40",
+        "locator": "p. 436",
+        "quote": "Dental drilling sometimes leads patients to report feeling pain even though no relevant nerve exists."
+      },
+      {
+        "source": "cb5dc26e-c464-4e1b-8d1e-55c642597389",
+        "locator": "sect. 13.2, online p. 4",
+        "quote": "Dental patients are sometimes conscious of themselves as being in pain even though the relevant"
+      }
+    ]
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "record": "link",
+  "id": "3e5d7cee-5941-4cd6-a3c8-3bc2fca2f8a3",
+  "from": "f8090003-6976-457b-8f15-8340f720734c",
+  "to": "edf992c0-7c75-4ecc-94a5-ff484e75d3cb",
+  "relation": "supports",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "a2015889-f423-459b-82c6-02b65f2f0614",
+        "locator": "chapter XXXVII, p. 382",
+        "quote": "these percepts are really part of the matter of the percipient’s brain"
+      },
+      {
+        "source": "a2015889-f423-459b-82c6-02b65f2f0614",
+        "locator": "chapter XXXVII, p. 384",
+        "quote": "are not known to have any intrinsic character which physical events cannot have"
+      },
+      {
+        "source": "a2015889-f423-459b-82c6-02b65f2f0614",
+        "locator": "chapter XXXVII, p. 384",
+        "quote": "I conclude, then, that there is no good ground for excluding percepts from the physical world, but several strong reasons for including them."
+      }
+    ]
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "record": "link",
+  "id": "5ca2c879-8570-42f7-9b65-ab254133e430",
+  "from": "c42ea504-0f47-4474-9a3a-71c7750a2cbc",
+  "to": "07c8bece-28f2-4d25-bacc-d284f16f5e8a",
+  "relation": "specializes",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "8cb2ad1d-84ad-4f31-ba9e-8b7a5701fdf4",
+        "locator": "section 11, p. 36",
+        "quote": "Type-F monism is the view that consciousness is constituted by the intrinsic properties of fundamental physical entities: that is, by the categorical bases of fundamental physical dispositions."
+      },
+      {
+        "source": "8cb2ad1d-84ad-4f31-ba9e-8b7a5701fdf4",
+        "locator": "section 11, p. 36",
+        "quote": "This view takes its cue from Bertrand Russell’s discussion of physics in The Analysis of Matter."
+      }
+    ]
+  }
+}

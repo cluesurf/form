@@ -1,0 +1,45 @@
+{
+  "record": "proposition",
+  "id": "d83952f0-ebe6-4f01-9dd2-d88b48964163",
+  "kind": "empirical",
+  "epistemic_status": "inferred",
+  "title": "Critique: first-order theories still fit the data",
+  "statements": [
+    {
+      "id": "3e358cde-70f3-4675-8f10-1be1c820295c",
+      "text": "Studies cited for the higher-order view, such as hallucinations after loss of early visual cortex, fit first-order theories that tie visual experience to high-level visual areas, so local first-order theories remain compatible with the human data.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "3e358cde-70f3-4675-8f10-1be1c820295c",
+  "status": "active",
+  "voice": "critique",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b48434c0-4be9-4d28-acde-93140c2dec33",
+        "locator": "p. 507",
+        "quote": "are still compatible with available experimental data derived from the human brain"
+      }
+    ]
+  }
+}

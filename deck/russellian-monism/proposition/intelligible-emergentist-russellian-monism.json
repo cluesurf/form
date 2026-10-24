@@ -1,0 +1,50 @@
+{
+  "record": "proposition",
+  "id": "a0a6dfdd-04ff-4b57-b0e4-2f698c49236a",
+  "kind": "philosophical",
+  "epistemic_status": "hypothesized",
+  "title": "Goff: intelligible emergentist Russellian monism",
+  "statements": [
+    {
+      "id": "3fc4144e-ffdc-4295-9a9e-4f069fc76435",
+      "text": "Goff defends a form in which micro-(proto)phenomenal facts and macro phenomenal facts are both fundamental, so the relation between them is intelligible causation rather than constitution. It treats the macro-physical as nothing over and above the macro-phenomenal, which removes causal competition at the level of brains, though it would struggle if the micro level is causally closed.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "3fc4144e-ffdc-4295-9a9e-4f069fc76435",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "224300bf-b397-4e61-811b-a5b89109178d",
+        "locator": "introduction, PDF p. 1",
+        "quote": "intelligible emergentist Russellian monism, which remains attractive despite not possessing all the virtues Chalmers attributes to the constitutive view"
+      },
+      {
+        "source": "224300bf-b397-4e61-811b-a5b89109178d",
+        "locator": "section III",
+        "quote": "the emergentist Russellian monist takes the macro-physical to be nothing over and above the macro-phenomenal"
+      }
+    ]
+  }
+}

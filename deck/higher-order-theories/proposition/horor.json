@@ -1,0 +1,55 @@
+{
+  "record": "proposition",
+  "id": "549e5bc2-dc47-45b7-b2f5-4dd66af00aad",
+  "kind": "philosophical",
+  "epistemic_status": "hypothesized",
+  "title": "HOROR: the higher-order representation is itself the phenomenal state",
+  "statements": [
+    {
+      "id": "7f5100d8-4e05-4130-84df-4d8c3400c061",
+      "text": "On the variant Richard Brown calls the higher-order representation of a representation (HOROR) theory, the higher-order state is the state responsible for there being something it is like for the subject, so an empty higher-order state still yields experience. A conscious state in the sense of how things seem is then the one the subject represents herself as being in.",
+      "language": "en",
+      "scope": "Stated here through Weisberg 2011, where the option is laid out, and Fleming 2020, which cites Brown's HOROR paper. Brown's own paper is not among the sources read.",
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "7f5100d8-4e05-4130-84df-4d8c3400c061",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "6aad053a-dfdc-469b-bc80-3402cd358262",
+        "locator": "p. 442",
+        "quote": "Perhaps, the thing to say is that the HO state itself is the conscious state."
+      },
+      {
+        "source": "6aad053a-dfdc-469b-bc80-3402cd358262",
+        "locator": "p. 442",
+        "quote": "the HO state is the state responsible for there being something it's like for the subject"
+      },
+      {
+        "source": "86ca1f15-7480-45fb-bf39-03972dcaa7d6",
+        "locator": "references, arXiv p. 12",
+        "quote": "The HOROR Theory of Phenomenal Consciousness"
+      }
+    ]
+  }
+}

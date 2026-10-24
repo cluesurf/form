@@ -1,0 +1,50 @@
+{
+  "record": "proposition",
+  "id": "8a4e43ca-d61a-4a25-b586-64ff88c0e849",
+  "kind": "empirical",
+  "epistemic_status": "hypothesized",
+  "title": "Deciding signal from noise is part of perception itself",
+  "statements": [
+    {
+      "id": "ebf3b431-a888-4815-b40b-628cc50f5a03",
+      "text": "Neural activity is always noisy, so the brain must decide whether activity reflects a reliable signal or baseline fluctuation. These decision mechanisms are part of the perceptual process, not a step after it, and prefrontal neurons that read out sensory signals contribute to the percept.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "ebf3b431-a888-4815-b40b-628cc50f5a03",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "f431a5c3-19c2-4095-ae55-723cadcafced",
+        "locator": "box 1, p. 368",
+        "quote": "these decision mechanisms are integral to the perceptual process itself"
+      },
+      {
+        "source": "4679e6b4-65c8-4b98-983a-d96388c5a75f",
+        "locator": "bioRxiv preprint, p. 12",
+        "quote": "it is unclear how early sensory activity on its own can lead to conscious percepts; decisional mechanisms are needed"
+      }
+    ]
+  }
+}

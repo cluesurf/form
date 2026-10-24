@@ -1,0 +1,33 @@
+{
+  "record": "link",
+  "id": "649afe33-4b04-4d27-a190-accc4bcaee6f",
+  "from": "96405a89-cffb-4d8a-9826-04e879798c6a",
+  "to": "70a0ccae-834c-4772-af1b-dae917635552",
+  "relation": "weakens",
+  "strength": null,
+  "rationale": "If infants feel pain but lack higher-order thoughts, a higher-order thought is not needed for conscious pain.",
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "713a83e8-8bc5-4221-ad04-794d08e956c6",
+        "locator": "p. 485",
+        "quote": "low frontal activity in newborns may well indicate lack of higher-order thoughts about genuine sensory experiences"
+      },
+      {
+        "source": "57902ad8-c0c3-4f75-acdd-0280d7e6ce4d",
+        "locator": "p. 536",
+        "quote": "Evidence against both higher-order thought and unconscious states puts Rosenthal in a vise"
+      }
+    ]
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "record": "proposition",
+  "id": "2b8bea08-7429-4aa2-a828-a236c1c53a23",
+  "kind": "philosophical",
+  "epistemic_status": "inferred",
+  "title": "Answer: no account of information, signal reliability in the empirical program",
+  "statements": [
+    {
+      "id": "8736bcb9-f53f-4463-b717-8a363ab9a37e",
+      "text": "The theory gives no account of information. The empirical program uses signal detection: the brain must decide whether neural activity is a reliable signal or baseline noise, and awareness tracks that higher-order decision.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "8736bcb9-f53f-4463-b717-8a363ab9a37e",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "f431a5c3-19c2-4095-ae55-723cadcafced",
+        "locator": "box 1, p. 368",
+        "quote": "the brain must ‘decide’ whether a certain amount of neural activity represents a reliable signal or merely baseline fluctuation"
+      }
+    ]
+  }
+}

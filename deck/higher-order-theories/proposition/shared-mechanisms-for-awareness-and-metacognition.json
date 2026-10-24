@@ -1,0 +1,50 @@
+{
+  "record": "proposition",
+  "id": "761de81f-f808-4215-8c2e-7e4f6f29527d",
+  "kind": "empirical",
+  "epistemic_status": "hypothesized",
+  "title": "Awareness and metacognitive reports share mechanisms",
+  "statements": [
+    {
+      "id": "a183ecfc-ec02-4ca0-aafb-d1b96eb3598d",
+      "text": "The joint statement of the higher-order approach by Brown, Lau and LeDoux, as cited by Fleming, holds that conscious awareness and metacognitive reports depend on shared mechanisms in the human brain, and higher-order inference may run without strategic cognitive access such as working memory.",
+      "language": "en",
+      "scope": "Cited through Fleming 2020. The Brown, Lau and LeDoux paper is not among the sources read.",
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "a183ecfc-ec02-4ca0-aafb-d1b96eb3598d",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "86ca1f15-7480-45fb-bf39-03972dcaa7d6",
+        "locator": "arXiv p. 9",
+        "quote": "A stronger reading of the model is that conscious awareness and metacognitive reports depend on shared mechanisms in the human brain"
+      },
+      {
+        "source": "86ca1f15-7480-45fb-bf39-03972dcaa7d6",
+        "locator": "arXiv p. 9",
+        "quote": "making it compatible with higher-order representational accounts of phenomenal consciousness"
+      }
+    ]
+  }
+}

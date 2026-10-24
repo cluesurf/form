@@ -1,0 +1,55 @@
+{
+  "record": "proposition",
+  "id": "1d5cd935-9669-43e5-8c47-bbea8ff46266",
+  "kind": "definitional",
+  "epistemic_status": "designed",
+  "title": "Higher-order thought",
+  "statements": [
+    {
+      "id": "4879d9b6-5f48-4402-8bfb-a429cc895bfd",
+      "text": "A higher-order thought (HOT) is a roughly contemporaneous thought to the effect that one is oneself in a particular mental state. It has an assertoric attitude, since doubting or wondering makes one aware of nothing, and it does not seem to rest on inference or perceptual input.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "4879d9b6-5f48-4402-8bfb-a429cc895bfd",
+  "status": "active",
+  "voice": "framework",
+  "defines": "higher-order thought",
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "436fabd9-5340-4918-9c1c-02ddbcd28a4e",
+        "locator": "p. 335",
+        "quote": "it is natural to identify a mental state's being conscious with one's having a roughly contemporaneous thought that one is in that mental state"
+      },
+      {
+        "source": "436fabd9-5340-4918-9c1c-02ddbcd28a4e",
+        "locator": "p. 335",
+        "quote": "we can stipulate that the contemporaneous thought one has is not mediated"
+      },
+      {
+        "source": "cb5dc26e-c464-4e1b-8d1e-55c642597389",
+        "locator": "sect. 13.6, online p. 12",
+        "quote": "the state's mental attitude is always assertoric; doubting does not make one conscious of anything"
+      }
+    ]
+  }
+}

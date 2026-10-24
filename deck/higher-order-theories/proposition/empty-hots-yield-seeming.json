@@ -1,0 +1,50 @@
+{
+  "record": "proposition",
+  "id": "4c5f1c41-3dcf-4213-95b4-23df5bfaa522",
+  "kind": "philosophical",
+  "epistemic_status": "hypothesized",
+  "title": "An empty higher-order thought makes a state seem to occur",
+  "statements": [
+    {
+      "id": "617ab1f4-f883-4102-a606-97f4cf559483",
+      "text": "A higher-order thought with no actual target suffices for a state to seem subjectively to occur, not for it actually to occur. Such cases are presumably rare and pathological, and testable, since the causal role of a higher-order thought differs from that of the state it is about.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "617ab1f4-f883-4102-a606-97f4cf559483",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "e1ce439a-e67d-43bc-85d0-d94947d89a40",
+        "locator": "p. 433",
+        "quote": "The theory says that a HOT suffices only for a mental episode to seem subjectively to occur, not also for that episode actually to occur."
+      },
+      {
+        "source": "436fabd9-5340-4918-9c1c-02ddbcd28a4e",
+        "locator": "p. 338",
+        "quote": "It is reasonable to suppose that such false higher-order thoughts would be both rare and pathological."
+      }
+    ]
+  }
+}

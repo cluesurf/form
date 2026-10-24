@@ -1,0 +1,50 @@
+{
+  "record": "proposition",
+  "id": "8a90b75e-47bb-4a85-840d-72b0169cb6c3",
+  "kind": "philosophical",
+  "epistemic_status": "hypothesized",
+  "title": "Higher-order states may be necessary but not sufficient",
+  "statements": [
+    {
+      "id": "5b0eee22-a736-4b80-a995-7f65c04e9650",
+      "text": "On the joint determination view, inference on higher-order states is necessary for awareness but not sufficient, and first-order states contribute to the content of experience. How much each level contributes is an empirical question.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "5b0eee22-a736-4b80-a995-7f65c04e9650",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "86ca1f15-7480-45fb-bf39-03972dcaa7d6",
+        "locator": "arXiv p. 9",
+        "quote": "However, while inference on higher-order states is, on this view, necessary for awareness, it may not be sufficient."
+      },
+      {
+        "source": "86ca1f15-7480-45fb-bf39-03972dcaa7d6",
+        "locator": "arXiv p. 9",
+        "quote": "a variant of the “joint determination” view advocated by Lau and Brown"
+      }
+    ]
+  }
+}

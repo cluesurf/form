@@ -1,0 +1,50 @@
+{
+  "record": "proposition",
+  "id": "06ef4d46-a3d4-4b67-8b9a-a37f61a38e8a",
+  "kind": "empirical",
+  "epistemic_status": "hypothesized",
+  "title": "An adversarial test of higher-order against first-order theories, outcome not reported",
+  "statements": [
+    {
+      "id": "d9bcfb33-331c-42f4-9bb5-c9818d5bc6c4",
+      "text": "Templeton World Charity Foundation project 0567, led by Biyu Jade He with David Chalmers and Ned Block and running from December 2020 to December 2023, set out to test HOROR and perceptual reality monitoring against recurrent processing theory. First-order theories predict a visual cortex basis for consciousness and higher-order theories a prefrontal one. The project page lists no published outcome.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "d9bcfb33-331c-42f4-9bb5-c9818d5bc6c4",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "9723c5e3-0a17-4c49-bd89-af925a71413d",
+        "locator": "project 0567 page",
+        "quote": null
+      },
+      {
+        "source": "4679e6b4-65c8-4b98-983a-d96388c5a75f",
+        "locator": "bioRxiv preprint, p. 2",
+        "quote": "while the Local Recurrency theory predicts that PFC activity is not critical for perceptual consciousness"
+      }
+    ]
+  }
+}

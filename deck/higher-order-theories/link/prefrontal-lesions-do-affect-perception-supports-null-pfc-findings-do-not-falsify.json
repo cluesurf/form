@@ -1,0 +1,33 @@
+{
+  "record": "link",
+  "id": "ec5fc44a-b907-47dd-9cdd-5d6c498dfddb",
+  "from": "e947a69f-5d84-4cfc-a409-4de380af9c24",
+  "to": "23a219e4-f63f-4d06-b666-9a72eca5f5e8",
+  "relation": "supports",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "f431a5c3-19c2-4095-ae55-723cadcafced",
+        "locator": "box 2, p. 369",
+        "quote": "and the patient was generally unresponsive to external stimuli, as if conscious awareness was completely abolished"
+      },
+      {
+        "source": "4679e6b4-65c8-4b98-983a-d96388c5a75f",
+        "locator": "bioRxiv preprint, p. 4",
+        "quote": "there are in fact cases where large, near-complete bilateral lesions to the dorsal and ventral lateral PFC fully abolish normal conscious interaction with the external world"
+      }
+    ]
+  }
+}

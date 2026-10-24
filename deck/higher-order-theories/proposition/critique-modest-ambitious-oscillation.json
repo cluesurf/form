@@ -1,0 +1,45 @@
+{
+  "record": "proposition",
+  "id": "a2986982-b8c6-480f-b73b-bc4fb91316aa",
+  "kind": "philosophical",
+  "epistemic_status": "inferred",
+  "title": "Critique: the approach oscillates between a modest and an ambitious version",
+  "statements": [
+    {
+      "id": "cc212660-b37a-46b8-84cc-ee4e4606b3da",
+      "text": "A modest higher-order theory explains one sense of the word conscious and allows phenomenal consciousness without higher-order states. The ambitious version claims to explain what it is like. Block holds that an unnoticed shift between the two gives the approach its appeal.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "cc212660-b37a-46b8-84cc-ee4e4606b3da",
+  "status": "active",
+  "voice": "critique",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "e299694a-26d6-4dfd-8c33-3abeea515593",
+        "locator": "p. 422",
+        "quote": "I believe that it is an unnoticed oscillation between the relatively innocuous modest version and the controversial ambitious version that fuels the fire of the higher order approach."
+      }
+    ]
+  }
+}

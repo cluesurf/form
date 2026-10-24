@@ -1,0 +1,50 @@
+{
+  "record": "proposition",
+  "id": "6c4dc126-d118-450d-a972-58f6a55396ae",
+  "kind": "philosophical",
+  "epistemic_status": "inferred",
+  "title": "The theory is neutral on materialism but fits it",
+  "statements": [
+    {
+      "id": "b8f91027-019a-4621-aaac-f7d2e6dea17f",
+      "text": "The higher-order thought account does not imply a materialist or naturalist theory of mind and is compatible even with substance dualism. It fits materialism, since the causal pattern from a state to a higher-order thought can be due to neural connections.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "b8f91027-019a-4621-aaac-f7d2e6dea17f",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "436fabd9-5340-4918-9c1c-02ddbcd28a4e",
+        "locator": "p. 339",
+        "quote": "By itself, the present account of consciousness does not imply a materialist or naturalist theory of mind."
+      },
+      {
+        "source": "436fabd9-5340-4918-9c1c-02ddbcd28a4e",
+        "locator": "p. 339",
+        "quote": "But it does square nicely with materialist views."
+      }
+    ]
+  }
+}

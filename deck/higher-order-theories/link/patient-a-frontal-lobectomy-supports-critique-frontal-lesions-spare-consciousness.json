@@ -1,0 +1,33 @@
+{
+  "record": "link",
+  "id": "9db98105-8fbe-469f-aaeb-c9053cf6f53d",
+  "from": "2cdbca09-dd75-46b6-b528-262d87568d58",
+  "to": "c590fe10-0ecf-43ce-b3f1-074311a2f6d8",
+  "relation": "supports",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "a1697eea-28ca-4cc3-8433-6a8d91e90936",
+        "locator": "bioRxiv preprint, p. 6",
+        "quote": "none of them noticed anything unusual until their attention was especially called to A. after the passage of more than an hour"
+      },
+      {
+        "source": "4679e6b4-65c8-4b98-983a-d96388c5a75f",
+        "locator": "bioRxiv preprint, p. 3",
+        "quote": "simple visual inspection of the patient’s brain image reveals that massive portions of right PFC remain intact"
+      }
+    ]
+  }
+}

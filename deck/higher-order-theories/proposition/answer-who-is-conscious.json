@@ -1,0 +1,50 @@
+{
+  "record": "proposition",
+  "id": "32f484c7-75ba-4562-ae8c-3515a4259264",
+  "kind": "empirical",
+  "epistemic_status": "hypothesized",
+  "title": "Answer: any creature with suitable higher-order states, open beyond humans",
+  "statements": [
+    {
+      "id": "b2d671b6-3f67-40e3-893e-fc5b186804b7",
+      "text": "Whatever has suitable higher-order representations of its own states has conscious states. Humans do. Infants, mammals, animals without a prefrontal cortex and robots are open questions, and an awake creature might have no conscious states at all.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "b2d671b6-3f67-40e3-893e-fc5b186804b7",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "cb5dc26e-c464-4e1b-8d1e-55c642597389",
+        "locator": "sect. 13.3, online p. 6",
+        "quote": "it is open to find out whether they have at least some HOTs of the requisite kind"
+      },
+      {
+        "source": "cb5dc26e-c464-4e1b-8d1e-55c642597389",
+        "locator": "note 6, online p. 16",
+        "quote": "So there may well be creatures none of whose mental states are conscious, even when they are fully awake."
+      }
+    ]
+  }
+}

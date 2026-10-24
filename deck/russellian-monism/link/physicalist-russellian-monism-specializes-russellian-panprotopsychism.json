@@ -1,0 +1,38 @@
+{
+  "record": "link",
+  "id": "5d437aec-0b6f-45a3-bd6c-77253f1887ca",
+  "from": "d3d47521-4500-4d28-9fe9-1eab7e730f8b",
+  "to": "33de90f8-be7d-40fc-ba97-1f7f97e40d12",
+  "relation": "specializes",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "ef130a02-df8c-4de4-84ba-9d2696d02e3a",
+        "locator": "p. 2",
+        "quote": "the most basic properties contemporary physics reveals are all dispositional, and thus it leaves us ignorant of the categorical properties needed to explain them"
+      },
+      {
+        "source": "ef130a02-df8c-4de4-84ba-9d2696d02e3a",
+        "locator": "p. 12",
+        "quote": "the properties that contemporary physics reveals to us are all extrinsic or only comparatively intrinsic, and thus there must be presently unknown absolutely intrinsic properties that accompany them"
+      },
+      {
+        "source": "ef130a02-df8c-4de4-84ba-9d2696d02e3a",
+        "locator": "p. 3",
+        "quote": "close enough in kind to our paradigmatic physical properties to count as physical"
+      }
+    ]
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "record": "link",
+  "id": "48a094af-943d-4fae-917e-2e9394bb2042",
+  "from": "e5398fa8-06e1-4dfe-8b33-b21a9462902a",
+  "to": "edf992c0-7c75-4ecc-94a5-ff484e75d3cb",
+  "relation": "specializes",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "0840dcc2-1282-4a87-bda3-061465634bb0",
+        "locator": "section 1.2",
+        "quote": "The result is a variety of Russellian monism known as Russellian panpsychism"
+      },
+      {
+        "source": "0840dcc2-1282-4a87-bda3-061465634bb0",
+        "locator": "section 1.2",
+        "quote": "More often, Russellian panpsychists construe quiddities as microphenomenal properties, that is, as phenomenal properties of microphysical entities."
+      }
+    ]
+  }
+}

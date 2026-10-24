@@ -1,0 +1,106 @@
+{
+  "format": "form.surf/1",
+  "id": "5dbf1e2b-9243-452f-a302-52cd42a6196c",
+  "name": "higher-order-theories",
+  "title": "Higher-Order Theories of Consciousness",
+  "role": "model",
+  "summary": "A mental state is conscious when one is aware of being in it, through a higher-order representation of that state. David Rosenthal's higher-order thought theory, Hakwan Lau's perceptual reality monitoring and Richard Brown's HOROR variant tie that awareness to prefrontal monitoring of first-order perceptual states.",
+  "framework": {
+    "originators": [
+      "David Rosenthal",
+      "Hakwan Lau",
+      "Richard Brown"
+    ],
+    "aliases": [
+      "higher-order thought theory",
+      "HOT theory",
+      "higher-order view",
+      "higher-order approach to consciousness",
+      "perceptual reality monitoring",
+      "PRM",
+      "higher-order statistical inference view",
+      "HOROR theory",
+      "higher-order representation of a representation"
+    ],
+    "homepage": "https://davidrosenthal.org/",
+    "publication": {
+      "venue": [
+        "peer_reviewed",
+        "book"
+      ],
+      "peer_review": "yes",
+      "replication": "partial"
+    }
+  },
+  "community_written": true,
+  "curators": [
+    {
+      "name": "Lance Pollard",
+      "github": "lancejpollard"
+    }
+  ],
+  "license": "CC-BY-4.0",
+  "atlas": {
+    "scope": [
+      "70a0ccae-834c-4772-af1b-dae917635552",
+      "4edc4664-147e-48b3-8dc8-504eb7f3d14b",
+      "700c590b-e0dd-4887-b86c-23d6fd27cc1d",
+      "d72d05a3-61ac-4188-bee9-1576b95b8673",
+      "dc323e6c-4053-43c2-9a57-b10fd7f8646b",
+      "251c814b-1172-40e6-8799-c27ce8ca2443",
+      "33d48b8b-e793-4ee3-86e8-1e85c27423c7",
+      "d4f19f8b-a3f0-4a1b-85e4-f15126174fc4"
+    ],
+    "limits": [
+      "efb02e2e-c54f-49fd-ae18-5ccc8d2286c6",
+      "9712e182-a728-479a-b528-abfe95c5064b",
+      "c5662c06-b1b3-4d69-b204-9d61fc6bcdf5",
+      "935a2b64-5344-488b-92a0-4fd513bd3285",
+      "06ef4d46-a3d4-4b67-8b9a-a37f61a38e8a",
+      "dcb31bf6-646e-4290-8d2a-7e2adca93bef"
+    ],
+    "issues": [
+      "02d06292-a2fd-4c0f-a01a-8f6d6c39afd3",
+      "1bcb0b9b-2ba5-499c-a703-246715e24230",
+      "a2986982-b8c6-480f-b73b-bc4fb91316aa",
+      "25b1c080-e4dd-4a61-9c93-2048a5e488ba",
+      "5c15de0f-36c9-4306-8e30-3ce1fd04e946",
+      "331a588c-8225-43ab-8b40-d31c2d44fd9f",
+      "96405a89-cffb-4d8a-9826-04e879798c6a",
+      "9bab18e0-3c16-4e30-87f1-01aa10154299",
+      "f7848778-d7a5-4a31-b6cc-32c24e6aac0e",
+      "d0f0f526-e42c-4ace-ac9c-77a4b1ef90a8",
+      "d83952f0-ebe6-4f01-9dd2-d88b48964163",
+      "c590fe10-0ecf-43ce-b3f1-074311a2f6d8",
+      "10692f74-9d20-4f3e-8637-2bfbb46a9908",
+      "44686659-d2a1-45fd-8703-b4bba2fbcd05"
+    ],
+    "dead_ends": [
+      "1515c830-a8d9-4033-a1f1-7833457a7b2b",
+      "6dc2babe-a83f-47a1-bd22-34967d39c93c"
+    ]
+  },
+  "draws_from": [],
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "f431a5c3-19c2-4095-ae55-723cadcafced",
+        "locator": "abstract, p. 365",
+        "quote": null
+      },
+      {
+        "source": "cb5dc26e-c464-4e1b-8d1e-55c642597389",
+        "locator": "sect. 13.1, online p. 2",
+        "quote": null
+      }
+    ]
+  }
+}

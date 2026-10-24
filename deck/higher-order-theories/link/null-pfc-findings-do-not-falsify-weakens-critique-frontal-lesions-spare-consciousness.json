@@ -1,0 +1,33 @@
+{
+  "record": "link",
+  "id": "95aded9f-fc21-499d-9512-fe752d73feaa",
+  "from": "23a219e4-f63f-4d06-b666-9a72eca5f5e8",
+  "to": "c590fe10-0ecf-43ce-b3f1-074311a2f6d8",
+  "relation": "weakens",
+  "strength": null,
+  "rationale": "Null findings from insensitive methods and misread lesion cases do not show that prefrontal cortex plays no role.",
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "4679e6b4-65c8-4b98-983a-d96388c5a75f",
+        "locator": "abstract, bioRxiv preprint, p. 1",
+        "quote": "These claims are incompatible with empirical findings, unless one focuses only on studies using methods with limited sensitivity."
+      },
+      {
+        "source": "4679e6b4-65c8-4b98-983a-d96388c5a75f",
+        "locator": "bioRxiv preprint, p. 16",
+        "quote": "individual null findings obtained with one measure, even if true, may not generalize to other measures"
+      }
+    ]
+  }
+}

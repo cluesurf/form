@@ -1,0 +1,33 @@
+{
+  "record": "link",
+  "id": "5b002078-7f3d-4fda-9fbd-2de450ff63ce",
+  "from": "d2aaf557-bef3-4c83-b4aa-2998cd5bb3ed",
+  "to": "3b5ff816-62bc-4465-bb77-c63025ec1afc",
+  "relation": "requires",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "aae1c42d-9a74-4efb-af0d-6bde20ebf41b",
+        "locator": "PDF p. 5",
+        "quote": "According to Russell the only ‘window’ one has onto the nature of matter is provided by attention to one’s own mind."
+      },
+      {
+        "source": "aae1c42d-9a74-4efb-af0d-6bde20ebf41b",
+        "locator": "PDF p. 7",
+        "quote": "Russellian wisdom tells us we know a lot about consciousness, but face a challenge seeing how matter fits around it."
+      }
+    ]
+  }
+}

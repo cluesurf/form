@@ -1,0 +1,33 @@
+{
+  "record": "link",
+  "id": "eb9923a9-e5cf-4bec-ad44-7371eccdf7a9",
+  "from": "c590fe10-0ecf-43ce-b3f1-074311a2f6d8",
+  "to": "c3b214c4-93cf-48f2-bb6a-a0c5a5d6ef23",
+  "relation": "contradicts",
+  "strength": null,
+  "rationale": "If people stay conscious without frontal cortex, frontal activity cannot be needed for conscious states.",
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "a1697eea-28ca-4cc3-8433-6a8d91e90936",
+        "locator": "bioRxiv preprint, p. 13",
+        "quote": "At a minimum, reports of conscious patients after bilateral frontal lobectomy demonstrate that the frontal cortex is not necessary for consciousness."
+      },
+      {
+        "source": "a1697eea-28ca-4cc3-8433-6a8d91e90936",
+        "locator": "bioRxiv preprint, p. 7",
+        "quote": "suggesting that these frontal regions may modulate the NCC rather than contributing directly to them (Kozuch, 2014)"
+      }
+    ]
+  }
+}

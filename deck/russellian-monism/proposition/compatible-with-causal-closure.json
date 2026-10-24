@@ -1,0 +1,50 @@
+{
+  "record": "proposition",
+  "id": "5ab10143-1d7c-45eb-86af-7d9ec6485a32",
+  "kind": "philosophical",
+  "epistemic_status": "inferred",
+  "title": "Consciousness takes part in physical causation without breaking causal closure",
+  "statements": [
+    {
+      "id": "c9dd6866-0222-469e-97d5-ed97b61cb14d",
+      "text": "The view keeps the structure of physics as it is and supplements it with an intrinsic nature, so it is compatible with the causal closure of the microphysical and with existing physical laws. Physics emerges from the relations among the fundamental entities and consciousness from their intrinsic nature, and (proto)phenomenal properties are the categorical basis of all physical causation.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "c9dd6866-0222-469e-97d5-ed97b61cb14d",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "8cb2ad1d-84ad-4f31-ba9e-8b7a5701fdf4",
+        "locator": "section 11, p. 37",
+        "quote": "this view is perfectly compatible with the causal closure of the microphysical, and indeed with existing physical laws"
+      },
+      {
+        "source": "8cb2ad1d-84ad-4f31-ba9e-8b7a5701fdf4",
+        "locator": "section 11, p. 37",
+        "quote": "(proto)phenomenal properties serve as the ultimate categorical basis of all physical causation"
+      }
+    ]
+  }
+}

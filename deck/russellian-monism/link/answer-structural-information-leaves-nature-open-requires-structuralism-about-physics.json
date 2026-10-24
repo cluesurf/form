@@ -1,0 +1,33 @@
+{
+  "record": "link",
+  "id": "803ae6d7-3650-4949-91f8-92c9f88024f2",
+  "from": "7b6b15b2-afd8-4139-81d7-966b25b6726c",
+  "to": "c454005f-2909-4026-8733-b59a4cfe06f4",
+  "relation": "requires",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "a2015889-f423-459b-82c6-02b65f2f0614",
+        "locator": "chapter XXVI, p. 270",
+        "quote": "physics leaves open all kinds of possibilities as to the intrinsic character of the world to which its equations apply"
+      },
+      {
+        "source": "97ef8875-4a4c-407d-b109-57ec5eabfbac",
+        "locator": "section (i), PDF p. 2",
+        "quote": "The essence of the problem is that any purely formal description of the physical world is near vacuous."
+      }
+    ]
+  }
+}

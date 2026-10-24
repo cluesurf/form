@@ -1,0 +1,28 @@
+{
+  "record": "link",
+  "id": "83e79b2e-3dfb-4b61-83ef-b6b7d5220743",
+  "from": "44686659-d2a1-45fd-8703-b4bba2fbcd05",
+  "to": "5bc86991-b1b2-4c5e-a214-49d06dcefd11",
+  "relation": "weakens",
+  "strength": null,
+  "rationale": "If frontal activity disappears when report is removed, it tracks report rather than awareness.",
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "a1697eea-28ca-4cc3-8433-6a8d91e90936",
+        "locator": "bioRxiv preprint, p. 10",
+        "quote": "‘No-report’ paradigms have also pointed to posterior regions as the NCC, while frontal cortex activation is correlated with reporting"
+      }
+    ]
+  }
+}

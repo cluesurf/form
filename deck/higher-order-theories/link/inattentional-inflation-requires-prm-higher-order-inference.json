@@ -1,0 +1,33 @@
+{
+  "record": "link",
+  "id": "6cb1fff6-3622-477d-a69c-c9fb47ce935f",
+  "from": "dc323e6c-4053-43c2-9a57-b10fd7f8646b",
+  "to": "1f3050ed-426a-49e5-bb67-920e61558c18",
+  "relation": "requires",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "f431a5c3-19c2-4095-ae55-723cadcafced",
+        "locator": "figure 2, p. 369",
+        "quote": "On the higher-order view, one possibility is that under the lack of attention the higher-order system might mistake noisy early input as reliable signal"
+      },
+      {
+        "source": "6a34d14f-8d85-4b22-8f91-d4d500600ce8",
+        "locator": "p. 3",
+        "quote": "then we would have an explanation for why we feel that we see more than we do"
+      }
+    ]
+  }
+}

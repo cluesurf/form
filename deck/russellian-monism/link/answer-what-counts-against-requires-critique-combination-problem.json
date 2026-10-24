@@ -1,0 +1,33 @@
+{
+  "record": "link",
+  "id": "b07b837b-b1cb-4af9-9f97-8a7b69b09822",
+  "from": "3d2d564e-b45d-433d-b5c9-9493fd568f5a",
+  "to": "45d1e61b-0800-41c7-80d1-c24f1f39fb7e",
+  "relation": "requires",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "8cb2ad1d-84ad-4f31-ba9e-8b7a5701fdf4",
+        "locator": "section 11, p. 39",
+        "quote": "Like epiphenomenalism, the view appears to be compatible with all our evidence, and there is no direct evidence against it."
+      },
+      {
+        "source": "1ab5eb5e-c154-4917-8542-f888eb892710",
+        "locator": "section 6, p. 25",
+        "quote": "If one of these problems can be solved or proved unsolvable, that will constitute significant progress on the mind–body problem."
+      }
+    ]
+  }
+}

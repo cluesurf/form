@@ -1,0 +1,50 @@
+{
+  "record": "proposition",
+  "id": "d3215027-dfa4-4acc-8b80-29682da717e6",
+  "kind": "philosophical",
+  "epistemic_status": "hypothesized",
+  "title": "The intrinsicness principle from Leibniz and Kant",
+  "statements": [
+    {
+      "id": "92359569-00c3-4d77-a499-170af6f7f610",
+      "text": "Any mind-independently real substantial entity must have at least one substantival absolutely intrinsic property. A real thing cannot consist only of properties such as being next to, existing at the same time as, and being one of several. Pereboom traces the principle to Leibniz and Kant.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "92359569-00c3-4d77-a499-170af6f7f610",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "ef130a02-df8c-4de4-84ba-9d2696d02e3a",
+        "locator": "p. 19",
+        "quote": "Any mind-independently real substantial entity must have at least one substantival absolutely intrinsic property"
+      },
+      {
+        "source": "0840dcc2-1282-4a87-bda3-061465634bb0",
+        "locator": "section 2.1",
+        "quote": "Leibniz might be the first Russellian monist."
+      }
+    ]
+  }
+}

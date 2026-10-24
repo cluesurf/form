@@ -1,0 +1,50 @@
+{
+  "record": "proposition",
+  "id": "5a2feedd-077c-430d-a956-5ee61ed59ec4",
+  "kind": "empirical",
+  "epistemic_status": "inferred",
+  "title": "Consciousness routinely misrepresents mental states",
+  "statements": [
+    {
+      "id": "42342591-979e-48c9-9dd7-b4f78f1c5b19",
+      "text": "Inattentively, people are conscious of colors as generic light blue or dark red while their visual states carry specific shades, which attention reveals. So the higher-order awareness routinely misdescribes the states it is about, in a harmless way.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "42342591-979e-48c9-9dd7-b4f78f1c5b19",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "258e1af4-6bb2-4d43-8731-8425d2afe27a",
+        "locator": "p. 1431",
+        "quote": "Can consciousness fail to represent those states accurately? Not only is that possible; it occurs routinely."
+      },
+      {
+        "source": "258e1af4-6bb2-4d43-8731-8425d2afe27a",
+        "locator": "p. 1431",
+        "quote": "Mental qualities occur in more finely differentiated ways than consciousness typically reveals."
+      }
+    ]
+  }
+}

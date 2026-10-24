@@ -1,0 +1,45 @@
+{
+  "record": "proposition",
+  "id": "65c77c6d-95f6-4074-941e-91cd71116b5a",
+  "kind": "philosophical",
+  "epistemic_status": "hypothesized",
+  "title": "Alter and Coleman: a framework, not a verdict on whether consciousness is fundamental",
+  "statements": [
+    {
+      "id": "29a9e5e3-27de-4086-ba2b-96261894665f",
+      "text": "Russellian monism does not set out to settle whether consciousness is a fundamental component of the universe. It offers a framework in which that question and others can be addressed, one that neither traditional physicalism nor traditional dualism provides.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "29a9e5e3-27de-4086-ba2b-96261894665f",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "0840dcc2-1282-4a87-bda3-061465634bb0",
+        "locator": "section 3.2",
+        "quote": "Russellian monism does not purport to settle whether consciousness is a fundamental component of the universe."
+      }
+    ]
+  }
+}

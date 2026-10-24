@@ -1,0 +1,50 @@
+{
+  "record": "proposition",
+  "id": "4a73ffcc-ae88-4742-9bb4-820c60e245df",
+  "kind": "philosophical",
+  "epistemic_status": "inferred",
+  "title": "Seeming independence of inference is not an ad hoc condition",
+  "statements": [
+    {
+      "id": "c149b71e-ff1f-4c0c-aedf-76c6f405404d",
+      "text": "The theory does not restrict the causal origin of a higher-order thought. It requires only that the thought seem subjectively independent of inference, which captures the felt immediacy of awareness of conscious states. Same time and same mind are typical, not part of the theory.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "c149b71e-ff1f-4c0c-aedf-76c6f405404d",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "e1ce439a-e67d-43bc-85d0-d94947d89a40",
+        "locator": "p. 436",
+        "quote": "That's not ad hoc, and there's no provision about causal origin."
+      },
+      {
+        "source": "e1ce439a-e67d-43bc-85d0-d94947d89a40",
+        "locator": "p. 436",
+        "quote": "It's reasonable to assume that these conditions are typically satisfied, but they aren't part of the theory."
+      }
+    ]
+  }
+}

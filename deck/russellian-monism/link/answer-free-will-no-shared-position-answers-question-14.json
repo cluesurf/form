@@ -1,0 +1,33 @@
+{
+  "record": "link",
+  "id": "26be2842-7fb5-4513-ae85-67d11443f355",
+  "from": "402dcf3c-d7c0-41a7-9000-8e1776ce238d",
+  "to": "43fc6225-2526-4555-8128-80b38e2fbaf4",
+  "relation": "answers",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "f1983fa1-bead-4fab-9f81-10414b26dc8f",
+        "locator": "chapter XIV, p. 311",
+        "quote": "the decision between the possible behaviours is what we call volition"
+      },
+      {
+        "source": "0840dcc2-1282-4a87-bda3-061465634bb0",
+        "locator": "section 3.1",
+        "quote": "Consciousness —or at least the components of consciousness —is thus integrated into physical causation."
+      }
+    ]
+  }
+}

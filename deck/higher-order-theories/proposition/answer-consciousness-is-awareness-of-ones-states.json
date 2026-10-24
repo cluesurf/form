@@ -1,0 +1,45 @@
+{
+  "record": "proposition",
+  "id": "73d95144-97a6-4074-9de9-a2633d750b55",
+  "kind": "philosophical",
+  "epistemic_status": "hypothesized",
+  "title": "Answer: a state is conscious when one is aware of being in it",
+  "statements": [
+    {
+      "id": "3e6dc143-7b82-4d54-a014-51239bea04dd",
+      "text": "Consciousness, in the sense of a state being conscious, is one's being aware of being in that state in a suitably immediate way, through a higher-order representation of it.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "3e6dc143-7b82-4d54-a014-51239bea04dd",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "e1ce439a-e67d-43bc-85d0-d94947d89a40",
+        "locator": "p. 431",
+        "quote": "Higher-order theories exploit this, arguing that a state is conscious only if one is subjectively aware of oneself as being in that state."
+      }
+    ]
+  }
+}

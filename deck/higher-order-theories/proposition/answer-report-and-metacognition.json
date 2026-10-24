@@ -1,0 +1,50 @@
+{
+  "record": "proposition",
+  "id": "5795e90e-18ef-4801-83cd-96bfc60dc570",
+  "kind": "empirical",
+  "epistemic_status": "hypothesized",
+  "title": "Answer: report, subjective ratings and metacognition, against matched performance",
+  "statements": [
+    {
+      "id": "06f9102b-621d-4ac0-a074-9fd8ddd4d204",
+      "text": "Consciousness is observed through sincere report, which expresses the higher-order thought, and through subjective ratings and confidence, compared on each trial with task performance. Subjective and objective measures dissociate, and only the subjective ones bear directly on awareness.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "06f9102b-621d-4ac0-a074-9fd8ddd4d204",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "4679e6b4-65c8-4b98-983a-d96388c5a75f",
+        "locator": "bioRxiv preprint, p. 7",
+        "quote": "the distinction between subjective and objective measures is central to the scientific study of consciousness"
+      },
+      {
+        "source": "f431a5c3-19c2-4095-ae55-723cadcafced",
+        "locator": "glossary, p. 365",
+        "quote": "The purpose of these ratings is to indicate whether a relevant stimulus property has been consciously perceived"
+      }
+    ]
+  }
+}

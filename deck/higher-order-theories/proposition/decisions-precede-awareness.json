@@ -1,0 +1,50 @@
+{
+  "record": "proposition",
+  "id": "77a413e6-2317-4dea-adf3-0211fd24de8b",
+  "kind": "empirical",
+  "epistemic_status": "inferred",
+  "title": "Decisions form before one is conscious of them",
+  "statements": [
+    {
+      "id": "f71fab3f-74ac-4822-9619-fe11aa3e5fc9",
+      "text": "Experimental evidence that people become conscious of decisions only after the decisions have formed shows that consciousness plays no role in fixing what is decided, and is best explained if the awareness of a decision is a distinct higher-order state.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "f71fab3f-74ac-4822-9619-fe11aa3e5fc9",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "cb5dc26e-c464-4e1b-8d1e-55c642597389",
+        "locator": "sect. 13.4, online p. 8",
+        "quote": "so consciousness cannot play a role in determining what we decide even when our decisions are conscious"
+      },
+      {
+        "source": "cb5dc26e-c464-4e1b-8d1e-55c642597389",
+        "locator": "sect. 13.6, online p. 11",
+        "quote": "We can best explain that on the hypothesis that our consciousness of our decisions is due to distinct higher-order states."
+      }
+    ]
+  }
+}

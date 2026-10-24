@@ -1,0 +1,45 @@
+{
+  "record": "proposition",
+  "id": "32499c8c-8401-4dc9-956e-eaaf62eaad16",
+  "kind": "philosophical",
+  "epistemic_status": "hypothesized",
+  "title": "The higher-order thought ties a conscious state to oneself",
+  "statements": [
+    {
+      "id": "18cc4481-e830-4d35-ad56-c66185e9eea4",
+      "text": "A higher-order thought is a thought that one is oneself in a given state. Because it is about oneself as well as the state, it carries the sense that a conscious state is more tightly one's own than a state that is not conscious.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "18cc4481-e830-4d35-ad56-c66185e9eea4",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "717ca9a8-d351-4583-a4ba-5ed3b5f7e20c",
+        "locator": "p. 220",
+        "quote": "Because such higher-order thoughts are both about oneself and the mental state one is in, they carry with them the sense that the tie between one's mental state and oneself is stronger when the state is conscious than when it is not."
+      }
+    ]
+  }
+}

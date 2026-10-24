@@ -1,0 +1,28 @@
+{
+  "record": "link",
+  "id": "ee6045cb-84b7-4150-978a-fa2fba1d626e",
+  "from": "7696cd34-b953-466f-b689-879805fafc06",
+  "to": "d72d05a3-61ac-4188-bee9-1576b95b8673",
+  "relation": "requires",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "f431a5c3-19c2-4095-ae55-723cadcafced",
+        "locator": "p. 371",
+        "quote": "We focused on cases in which awareness differed despite matched task performance because these cases most crucially distinguish the higher-order view from its alternatives."
+      }
+    ]
+  }
+}

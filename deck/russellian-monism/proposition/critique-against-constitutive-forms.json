@@ -1,0 +1,55 @@
+{
+  "record": "proposition",
+  "id": "48737b63-d25d-44fb-8c7f-dc8b36294528",
+  "kind": "philosophical",
+  "epistemic_status": "hypothesized",
+  "title": "Critique: constitutive Russellian monism is implausible, perhaps incoherent",
+  "statements": [
+    {
+      "id": "3131ea4c-006a-4df2-ae57-be92b2bd189f",
+      "text": "Goff explicates constitution in Sider’s framework of fundamentality and argues that constitutive Russellian monism then turns out implausible and perhaps incoherent. Panpsychism makes macro subjects fundamental, so they cannot be constituted by micro goings on, and for all constitutive forms the a priori entailment the view needs would make macro phenomenal truths fundamental, which the view denies.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "3131ea4c-006a-4df2-ae57-be92b2bd189f",
+  "status": "active",
+  "voice": "critique",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "224300bf-b397-4e61-811b-a5b89109178d",
+        "locator": "introduction, PDF p. 1",
+        "quote": "constitutive Russellian monism turns out not to be not very plausible, and perhaps incoherent"
+      },
+      {
+        "source": "224300bf-b397-4e61-811b-a5b89109178d",
+        "locator": "section II, PDF p. 14",
+        "quote": "Panpsychism entails that o-subjects are fundamental."
+      },
+      {
+        "source": "224300bf-b397-4e61-811b-a5b89109178d",
+        "locator": "section II, PDF p. 17",
+        "quote": "6. Therefore, constitutive Russellian monism is false."
+      }
+    ]
+  }
+}

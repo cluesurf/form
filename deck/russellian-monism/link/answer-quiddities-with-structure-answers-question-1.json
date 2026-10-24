@@ -1,0 +1,33 @@
+{
+  "record": "link",
+  "id": "ba26d444-3b59-4669-b4d7-a0383f3baf69",
+  "from": "da437c7c-b3c4-41ca-9532-7f20186266c3",
+  "to": "ec8744b8-35ca-438f-b48c-63eb48570bc6",
+  "relation": "answers",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "8cb2ad1d-84ad-4f31-ba9e-8b7a5701fdf4",
+        "locator": "section 11, p. 37",
+        "quote": "nature consists of entities with intrinsic (proto)phenomenal qualities standing in causal relations within a spacetime manifold"
+      },
+      {
+        "source": "f1983fa1-bead-4fab-9f81-10414b26dc8f",
+        "locator": "chapter XIII, p. 276",
+        "quote": "but we may think of its nature as not altogether foreign to the feelings in our consciousness"
+      }
+    ]
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "record": "proposition",
+  "id": "3421f4cb-f9c1-4cbc-9041-f7bd90c66d5b",
+  "kind": "philosophical",
+  "epistemic_status": "inferred",
+  "title": "No state one is wholly unaware of is conscious",
+  "statements": [
+    {
+      "id": "4d2463f5-dbb9-4efc-843f-d6350dee1cfd",
+      "text": "No mental state is conscious if the one who is in it is in no way aware of being in it. Higher-order theories take this common-sense observation, also used in experimental work on nonconscious perception, as their starting point.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "4d2463f5-dbb9-4efc-843f-d6350dee1cfd",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "f431a5c3-19c2-4095-ae55-723cadcafced",
+        "locator": "p. 365",
+        "quote": "The basic motivation is that no mental state is conscious if one is wholly unaware of being in such a mental state."
+      },
+      {
+        "source": "258e1af4-6bb2-4d43-8731-8425d2afe27a",
+        "locator": "p. 1425",
+        "quote": "No mental state is conscious if the individual that is in that state is in no way aware of it."
+      }
+    ]
+  }
+}

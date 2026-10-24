@@ -1,0 +1,28 @@
+{
+  "record": "link",
+  "id": "f1e19b26-df69-4cef-bf60-1e3df51725aa",
+  "from": "cc77c8cd-dd6f-48b8-aed9-f48739245e7c",
+  "to": "e947a69f-5d84-4cfc-a409-4de380af9c24",
+  "relation": "supports",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "4679e6b4-65c8-4b98-983a-d96388c5a75f",
+        "locator": "bioRxiv preprint, p. 6",
+        "quote": "This observed effect was not due to an impairment of general ability for introspection, as it was specific to perception but not memory"
+      }
+    ]
+  }
+}

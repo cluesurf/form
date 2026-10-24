@@ -1,0 +1,45 @@
+{
+  "record": "proposition",
+  "id": "fa23513f-ed21-41ab-a888-29923ca60981",
+  "kind": "philosophical",
+  "epistemic_status": "hypothesized",
+  "title": "Critique: the structural and nonstructural distinction may not hold up",
+  "statements": [
+    {
+      "id": "9e0d695c-11cb-4842-b81b-25acf6a7b0cb",
+      "text": "Shape is intrinsic yet physics describes it, so structure cannot simply be the relational or the extrinsic. Some argue that the distinction between structural and nonstructural properties cannot be drawn the way the view requires, and others that the dispositional and categorical distinction does not apply to physical properties as the view implies.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "9e0d695c-11cb-4842-b81b-25acf6a7b0cb",
+  "status": "active",
+  "voice": "critique",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "0840dcc2-1282-4a87-bda3-061465634bb0",
+        "locator": "section 3.2",
+        "quote": "Some argue that this distinction cannot be explicated in the way that Russellian monism requires."
+      }
+    ]
+  }
+}

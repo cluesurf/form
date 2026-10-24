@@ -1,0 +1,38 @@
+{
+  "record": "link",
+  "id": "05358cf6-1bbc-4205-9d2b-bebbfce26031",
+  "from": "decd12fa-e516-4a3e-8088-781723efa440",
+  "to": "cb9d368d-c0b5-4324-85a2-805ab816949b",
+  "relation": "requires",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "0840dcc2-1282-4a87-bda3-061465634bb0",
+        "locator": "section 3.1",
+        "quote": "If such a world initially appears conceivable, this is because we mistake a zombie world for a structural zombie world"
+      },
+      {
+        "source": "8cb2ad1d-84ad-4f31-ba9e-8b7a5701fdf4",
+        "locator": "section 11, p. 38",
+        "quote": "we misdescribe the conceived world as physically identical to ours, when in fact it is just structurally identical"
+      },
+      {
+        "source": "0840dcc2-1282-4a87-bda3-061465634bb0",
+        "locator": "section 3.1",
+        "quote": "Russellian physicalism, on which the class of physical truths includes not only structural truths but quiddistic truths as well, is not threatened"
+      }
+    ]
+  }
+}

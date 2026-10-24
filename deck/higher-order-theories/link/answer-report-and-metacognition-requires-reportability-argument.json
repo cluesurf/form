@@ -1,0 +1,33 @@
+{
+  "record": "link",
+  "id": "b9e5b2c0-cc25-4bd2-a781-430144d18aee",
+  "from": "5795e90e-18ef-4801-83cd-96bfc60dc570",
+  "to": "4edc4664-147e-48b3-8dc8-504eb7f3d14b",
+  "relation": "requires",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "4679e6b4-65c8-4b98-983a-d96388c5a75f",
+        "locator": "bioRxiv preprint, p. 7",
+        "quote": "the distinction between subjective and objective measures is central to the scientific study of consciousness"
+      },
+      {
+        "source": "f431a5c3-19c2-4095-ae55-723cadcafced",
+        "locator": "glossary, p. 365",
+        "quote": "The purpose of these ratings is to indicate whether a relevant stimulus property has been consciously perceived"
+      }
+    ]
+  }
+}

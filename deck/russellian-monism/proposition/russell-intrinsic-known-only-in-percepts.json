@@ -1,0 +1,60 @@
+{
+  "record": "proposition",
+  "id": "3b5ff816-62bc-4465-bb77-c63025ec1afc",
+  "kind": "philosophical",
+  "epistemic_status": "hypothesized",
+  "title": "Russell: percepts are the one part of the physical world known otherwise than abstractly",
+  "statements": [
+    {
+      "id": "02455ecd-ddb7-4747-be8a-6240e13c4720",
+      "text": "Physics, Russell held, is exceedingly abstract. The intrinsic quality of the physical world is unknown, so the gap between percepts and physics is a gap in what is known, not a known difference in quality. Percepts are the only part of the physical world known otherwise than abstractly, and the distinction between physical and mental is, philosophically, superficial.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "02455ecd-ddb7-4747-be8a-6240e13c4720",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "a2015889-f423-459b-82c6-02b65f2f0614",
+        "locator": "chapter I",
+        "quote": "Physics, in itself, is exceedingly abstract"
+      },
+      {
+        "source": "a2015889-f423-459b-82c6-02b65f2f0614",
+        "locator": "chapter XXV, p. 264",
+        "quote": "The gulf between percepts and physics is not a gulf as regards intrinsic quality, for we know nothing of the intrinsic quality of the physical world"
+      },
+      {
+        "source": "a2015889-f423-459b-82c6-02b65f2f0614",
+        "locator": "chapter XXXVIII, p. 402",
+        "quote": "Percepts are the only part of the physical world that we know otherwise than abstractly."
+      },
+      {
+        "source": "a2015889-f423-459b-82c6-02b65f2f0614",
+        "locator": "chapter XXXVIII, p. 402",
+        "quote": "physical and mental is superficial and unreal"
+      }
+    ]
+  }
+}

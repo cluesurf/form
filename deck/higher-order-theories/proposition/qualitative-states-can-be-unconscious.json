@@ -1,0 +1,50 @@
+{
+  "record": "proposition",
+  "id": "b176c087-5796-4b0d-8b7b-d9b074bfdf14",
+  "kind": "philosophical",
+  "epistemic_status": "inferred",
+  "title": "Qualitative states occur without being conscious",
+  "statements": [
+    {
+      "id": "fe9bc7dc-2ea5-4d2e-b041-a75a8876b987",
+      "text": "Being conscious and having qualitative character are distinct properties. Sensations occur without being conscious, as in subliminal perception and blindsight, where priming effects vary with the qualities of states the subject denies having.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "fe9bc7dc-2ea5-4d2e-b041-a75a8876b987",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "cb5dc26e-c464-4e1b-8d1e-55c642597389",
+        "locator": "sect. 13.4, online p. 7",
+        "quote": "But being conscious and having qualitative character are distinct properties."
+      },
+      {
+        "source": "e1ce439a-e67d-43bc-85d0-d94947d89a40",
+        "locator": "p. 432",
+        "quote": "But mental states that occur consciously can also occur without being conscious"
+      }
+    ]
+  }
+}

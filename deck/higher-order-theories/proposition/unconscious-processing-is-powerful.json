@@ -1,0 +1,50 @@
+{
+  "record": "proposition",
+  "id": "f38a5baa-c5a3-4926-ad4c-cae4aaf6d964",
+  "kind": "empirical",
+  "epistemic_status": "inferred",
+  "title": "Unconscious information can drive higher cognition",
+  "statements": [
+    {
+      "id": "d0239e11-11ed-4bb5-b757-aab08b6d28de",
+      "text": "Unconscious information can influence task preparation, motivation, goal pursuit, learning, arithmetic, response inhibition and error detection. This suggests awareness has no special immediate utility for behavior, which fits the higher-order view better than views that tie awareness to performance.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "d0239e11-11ed-4bb5-b757-aab08b6d28de",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "f431a5c3-19c2-4095-ae55-723cadcafced",
+        "locator": "p. 368",
+        "quote": "recent studies have shown that unconscious information can facilitate or at least influence higher cognitive functions such as task preparation"
+      },
+      {
+        "source": "f431a5c3-19c2-4095-ae55-723cadcafced",
+        "locator": "p. 368",
+        "quote": "These findings suggest that awareness might not have 'special' utility"
+      }
+    ]
+  }
+}

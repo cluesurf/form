@@ -1,0 +1,28 @@
+{
+  "record": "link",
+  "id": "aa671f3a-c7a3-4d5e-9e5c-6a6d422f49b5",
+  "from": "feea67e5-9e91-47c6-af85-fbe4be9d40db",
+  "to": "07c8bece-28f2-4d25-bacc-d284f16f5e8a",
+  "relation": "requires",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "0840dcc2-1282-4a87-bda3-061465634bb0",
+        "locator": "opening section",
+        "quote": "a single set of properties underlies both consciousness and the most basic entities posited by physics"
+      }
+    ]
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "record": "proposition",
+  "id": "e947a69f-5d84-4cfc-a409-4de380af9c24",
+  "kind": "empirical",
+  "epistemic_status": "inferred",
+  "title": "Prefrontal damage does affect conscious perception",
+  "statements": [
+    {
+      "id": "5933d559-cc8a-4bbf-b649-5d39ecfd84ae",
+      "text": "The claim that prefrontal damage leaves visual awareness intact rests on partial or unilateral lesions, which the other hemisphere can compensate for. Large bilateral lateral prefrontal lesions leave patients unresponsive, and smaller lesions impair subjective reports more than task performance.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "5933d559-cc8a-4bbf-b649-5d39ecfd84ae",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "f431a5c3-19c2-4095-ae55-723cadcafced",
+        "locator": "box 2, p. 369",
+        "quote": "and the patient was generally unresponsive to external stimuli, as if conscious awareness was completely abolished"
+      },
+      {
+        "source": "4679e6b4-65c8-4b98-983a-d96388c5a75f",
+        "locator": "bioRxiv preprint, p. 4",
+        "quote": "there are in fact cases where large, near-complete bilateral lesions to the dorsal and ventral lateral PFC fully abolish normal conscious interaction with the external world"
+      }
+    ]
+  }
+}

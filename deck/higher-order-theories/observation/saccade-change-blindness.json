@@ -1,0 +1,39 @@
+{
+  "record": "observation",
+  "id": "0b0cf64c-ea63-48fa-983a-9eea8e815ab9",
+  "kind": "experimental_result",
+  "epistemic_status": "observed",
+  "description": "Displays switched during saccades, when no retinal signal reaches visual cortex, often went unnoticed, including a switch between red and green at the center of a display (Grimes 1996, as reported by Rosenthal).",
+  "method": "experiment",
+  "status": "reported",
+  "source": "258e1af4-6bb2-4d43-8731-8425d2afe27a",
+  "procedure": null,
+  "variable": null,
+  "value": null,
+  "unit": null,
+  "uncertainty": null,
+  "sample_size": null,
+  "replication_count": null,
+  "quality": null,
+  "limitations": "Reported secondhand. The original study is not among the sources read. Block disputes that subjects keep seeing the old color.",
+  "conflicts_of_interest": null,
+  "observed_at": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "258e1af4-6bb2-4d43-8731-8425d2afe27a",
+        "locator": "p. 1431",
+        "quote": "Participants often were not consciously aware of changes in salient visual features"
+      }
+    ]
+  }
+}

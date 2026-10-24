@@ -1,0 +1,33 @@
+{
+  "record": "link",
+  "id": "638d0947-fe75-43d6-86aa-027b999dce74",
+  "from": "2409bc18-7d74-42c0-a6cf-8ba4833c8ec8",
+  "to": "70a0ccae-834c-4772-af1b-dae917635552",
+  "relation": "requires",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "cb5dc26e-c464-4e1b-8d1e-55c642597389",
+        "locator": "sect. 13.3, online p. 6",
+        "quote": "HOTs are themselves mental states, and no HOT is conscious unless one has a third-order thought about it."
+      },
+      {
+        "source": "436fabd9-5340-4918-9c1c-02ddbcd28a4e",
+        "locator": "p. 336",
+        "quote": "So the present account correctly predicts that we would seldom be aware of our second-order thoughts"
+      }
+    ]
+  }
+}

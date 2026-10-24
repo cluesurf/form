@@ -1,0 +1,50 @@
+{
+  "record": "proposition",
+  "id": "10692f74-9d20-4f3e-8637-2bfbb46a9908",
+  "kind": "empirical",
+  "epistemic_status": "inferred",
+  "title": "Critique: stimulating frontal cortex rarely changes experience",
+  "statements": [
+    {
+      "id": "de6db5f5-b6cb-4239-b424-3c8725165e76",
+      "text": "Electrical stimulation of most of the frontal cortex has no effect on experience, while stimulation of posterior cortex reliably induces specific contents such as phosphenes, touch, motion or disrupted face perception.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "de6db5f5-b6cb-4239-b424-3c8725165e76",
+  "status": "active",
+  "voice": "critique",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "a1697eea-28ca-4cc3-8433-6a8d91e90936",
+        "locator": "bioRxiv preprint, p. 8",
+        "quote": "It was recognized long ago that electrical stimulation of most of the frontal cortex has no consequence on experience"
+      },
+      {
+        "source": "a1697eea-28ca-4cc3-8433-6a8d91e90936",
+        "locator": "bioRxiv preprint, p. 8",
+        "quote": "stimulation studies show consistent evidence for many conscious contents being specified by the posterior cortex, while the evidence is much less clear for the frontal cortex"
+      }
+    ]
+  }
+}

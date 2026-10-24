@@ -1,0 +1,45 @@
+{
+  "record": "proposition",
+  "id": "88f27177-c631-48ed-981e-61ff1b2d0a49",
+  "kind": "philosophical",
+  "epistemic_status": "hypothesized",
+  "title": "Critique: a necessitarian Russellian monism is coherent but unmotivated",
+  "statements": [
+    {
+      "id": "6d9117b8-46db-42a7-92ce-cb2bb48e5110",
+      "text": "If the phenomenal aspect of a quiddity metaphysically necessitates its causal profile, Howell grants that the exclusion argument fails. But accepting necessities that hold despite conceivability concedes what type-B physicalists and property dualists need, so a necessitarian version loses the reason for adopting the view.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "6d9117b8-46db-42a7-92ce-cb2bb48e5110",
+  "status": "active",
+  "voice": "critique",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b07250a2-bbc1-4137-94ed-260fd1738eb7",
+        "locator": "section VIII",
+        "quote": "Given this, necessitarian Russellian Monism might be conceptually coherent, but it is unmotivated."
+      }
+    ]
+  }
+}

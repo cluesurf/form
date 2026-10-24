@@ -1,0 +1,60 @@
+{
+  "record": "proposition",
+  "id": "58b9c572-07ee-4866-ab72-e58311535f97",
+  "kind": "philosophical",
+  "epistemic_status": "hypothesized",
+  "title": "Eddington: the stuff of the world is mind-stuff",
+  "statements": [
+    {
+      "id": "18c77ade-3c27-4dac-80f3-1d628356321b",
+      "text": "Put crudely, the stuff of the world is mind-stuff. Its nature is not altogether foreign to the feelings of consciousness, it is not spread in space and time, and only here and there does it rise to the level of consciousness. Mind is the first and most direct thing in experience, and all else is remote inference.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "18c77ade-3c27-4dac-80f3-1d628356321b",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "f1983fa1-bead-4fab-9f81-10414b26dc8f",
+        "locator": "chapter XIII, p. 276",
+        "quote": "but we may think of its nature as not altogether foreign to the feelings in our consciousness"
+      },
+      {
+        "source": "f1983fa1-bead-4fab-9f81-10414b26dc8f",
+        "locator": "chapter XIII, p. 277",
+        "quote": "The mind-stuff is not spread in space and time"
+      },
+      {
+        "source": "f1983fa1-bead-4fab-9f81-10414b26dc8f",
+        "locator": "chapter XIII, p. 277",
+        "quote": "Only here and there does it rise to the level of consciousness"
+      },
+      {
+        "source": "f1983fa1-bead-4fab-9f81-10414b26dc8f",
+        "locator": "chapter XIII, p. 281",
+        "quote": "But no one can deny that mind is the first and most direct thing in our experience, and all else is remote inference"
+      }
+    ]
+  }
+}

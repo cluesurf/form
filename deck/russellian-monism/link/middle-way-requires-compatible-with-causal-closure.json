@@ -1,0 +1,33 @@
+{
+  "record": "link",
+  "id": "8c32e1d9-907d-4477-a238-dc9a3de6cb91",
+  "from": "6380ec7c-1980-48fc-9124-b53118c23a17",
+  "to": "5ab10143-1d7c-45eb-86af-7d9ec6485a32",
+  "relation": "requires",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "5ab944d1-fcca-4b30-bf01-c9434a0de026",
+        "locator": "introduction, p. 1",
+        "quote": "Russellian monism is a new, or rather a rediscovered, approach to the problem of consciousness, which offers a middle way between the more conventional options of physicalism and dualism."
+      },
+      {
+        "source": "0840dcc2-1282-4a87-bda3-061465634bb0",
+        "locator": "section 3.1",
+        "quote": "Russellian monism combines theoretical virtues of traditional dualism with those of traditional physicalism, while avoiding their main drawbacks"
+      }
+    ]
+  }
+}

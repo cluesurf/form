@@ -1,0 +1,50 @@
+{
+  "record": "proposition",
+  "id": "e0ef7e12-0225-4a19-83ed-b371ae01f5d0",
+  "kind": "philosophical",
+  "epistemic_status": "hypothesized",
+  "title": "Answer: experience is how one is aware of one's states",
+  "statements": [
+    {
+      "id": "26cad64c-c3e8-48ac-90d1-970d161a7820",
+      "text": "Experience, in the sense of there being something it is like, is how one's mental life appears to one, fixed by the content of the higher-order awareness. Mental qualities themselves are not experience and occur without being conscious.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "26cad64c-c3e8-48ac-90d1-970d161a7820",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "e1ce439a-e67d-43bc-85d0-d94947d89a40",
+        "locator": "p. 431",
+        "quote": "A state’s being conscious is a matter of mental appearance"
+      },
+      {
+        "source": "436fabd9-5340-4918-9c1c-02ddbcd28a4e",
+        "locator": "p. 341",
+        "quote": "Knowing what it is like to be in a state is knowing what it is like to be aware of being in that state."
+      }
+    ]
+  }
+}

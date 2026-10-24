@@ -1,0 +1,28 @@
+{
+  "record": "link",
+  "id": "c42a6c9d-f699-4625-a568-100ba30af9f5",
+  "from": "2cdbca09-dd75-46b6-b528-262d87568d58",
+  "to": "c590fe10-0ecf-43ce-b3f1-074311a2f6d8",
+  "relation": "weakens",
+  "strength": null,
+  "rationale": "Large parts of right prefrontal cortex appear intact in the published brain image, so the case does not show consciousness without prefrontal cortex.",
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "4679e6b4-65c8-4b98-983a-d96388c5a75f",
+        "locator": "bioRxiv preprint, p. 3",
+        "quote": "simple visual inspection of the patient’s brain image reveals that massive portions of right PFC remain intact"
+      }
+    ]
+  }
+}

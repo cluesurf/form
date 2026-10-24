@@ -1,0 +1,45 @@
+{
+  "record": "proposition",
+  "id": "bc248617-45e5-4506-9b0d-dbd077d03ab5",
+  "kind": "empirical",
+  "epistemic_status": "hypothesized",
+  "title": "Awareness of when something happens is set by higher-order mechanisms",
+  "statements": [
+    {
+      "id": "cb96b3ad-39a9-4659-ae86-5367e4a9a867",
+      "text": "Awareness of an intention to move lags the motor preparation signal, which models explain by a high criterion on a ramping signal. Attention makes attended objects seem to appear earlier, with no early sensory signature found, so perceived onset likely depends on higher-order mechanisms.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "cb96b3ad-39a9-4659-ae86-5367e4a9a867",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "f431a5c3-19c2-4095-ae55-723cadcafced",
+        "locator": "box 1, p. 368",
+        "quote": "Thus, the phenomenon is likely to depend on higher-order mechanisms"
+      }
+    ]
+  }
+}

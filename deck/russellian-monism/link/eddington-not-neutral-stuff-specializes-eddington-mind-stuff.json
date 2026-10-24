@@ -1,0 +1,28 @@
+{
+  "record": "link",
+  "id": "91aebdc0-fb7a-48c0-b4e6-aed332c950d1",
+  "from": "e615a15b-3778-4d32-b7dd-dc277c5ea20e",
+  "to": "58b9c572-07ee-4866-ab72-e58311535f97",
+  "relation": "specializes",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "f1983fa1-bead-4fab-9f81-10414b26dc8f",
+        "locator": "chapter XIII, p. 280",
+        "quote": "neutral stuff seems to be the wrong kind of amendment"
+      }
+    ]
+  }
+}

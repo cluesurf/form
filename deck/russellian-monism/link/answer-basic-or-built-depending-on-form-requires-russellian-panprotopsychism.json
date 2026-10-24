@@ -1,0 +1,28 @@
+{
+  "record": "link",
+  "id": "d84db2ca-29d7-4615-a3a7-36f3b5a01029",
+  "from": "5948139b-a36b-40ff-b33f-3f512428a5ff",
+  "to": "33de90f8-be7d-40fc-ba97-1f7f97e40d12",
+  "relation": "requires",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "0840dcc2-1282-4a87-bda3-061465634bb0",
+        "locator": "section 3.2",
+        "quote": "On Russellian panpsychism consciousness is a fundamental component of the universe, whereas on Russellian panprotopsychism it is not."
+      }
+    ]
+  }
+}

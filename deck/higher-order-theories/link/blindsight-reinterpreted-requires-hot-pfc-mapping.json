@@ -1,0 +1,28 @@
+{
+  "record": "link",
+  "id": "a279bcb8-711c-4d84-b7d3-2d9e99953c8f",
+  "from": "251c814b-1172-40e6-8799-c27ce8ca2443",
+  "to": "c3b214c4-93cf-48f2-bb6a-a0c5a5d6ef23",
+  "relation": "requires",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "f431a5c3-19c2-4095-ae55-723cadcafced",
+        "locator": "p. 370",
+        "quote": "the lack of conscious awareness in blindsight could be associated with reduced activity in the prefrontal cortex"
+      }
+    ]
+  }
+}

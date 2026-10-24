@@ -1,0 +1,33 @@
+{
+  "record": "link",
+  "id": "39e02789-0080-4d04-a77c-022a129d6825",
+  "from": "d0f0f526-e42c-4ace-ac9c-77a4b1ef90a8",
+  "to": "70a0ccae-834c-4772-af1b-dae917635552",
+  "relation": "weakens",
+  "strength": null,
+  "rationale": "If absorbed experience lacks higher-order thought content, the theory counts the most vivid experiences as unconscious.",
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b48434c0-4be9-4d28-acde-93140c2dec33",
+        "locator": "p. 507",
+        "quote": "Under Lau and Rosenthal’s proposal, these most engaging sensory moments will most likely be deemed ‘unconscious’ given their apparent lack of high order thought content."
+      },
+      {
+        "source": "b48434c0-4be9-4d28-acde-93140c2dec33",
+        "locator": "p. 507",
+        "quote": "frontal brain regions specialized for introspection and self-related processing actually reduce their activity under highly demanding sensory tasks"
+      }
+    ]
+  }
+}

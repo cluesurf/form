@@ -1,0 +1,33 @@
+{
+  "record": "link",
+  "id": "8974dc47-c75c-4fa8-89af-902f5c267f39",
+  "from": "ee1a7b48-222e-4948-bfb7-6a444630034f",
+  "to": "3f5cd289-54c4-441d-a69e-79473631f89b",
+  "relation": "requires",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "cb5dc26e-c464-4e1b-8d1e-55c642597389",
+        "locator": "sect. 13.1, online p. 2",
+        "quote": "a state is conscious if one is conscious of that state in some suitable way. I shall call this the transitivity principle (TP)"
+      },
+      {
+        "source": "cb5dc26e-c464-4e1b-8d1e-55c642597389",
+        "locator": "sect. 13.1, online p. 3",
+        "quote": "since those states need not themselves be conscious, there is no circularity in explaining state consciousness by appeal to those states"
+      }
+    ]
+  }
+}

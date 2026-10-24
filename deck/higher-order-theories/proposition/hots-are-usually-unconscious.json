@@ -1,0 +1,50 @@
+{
+  "record": "proposition",
+  "id": "2409bc18-7d74-42c0-a6cf-8ba4833c8ec8",
+  "kind": "philosophical",
+  "epistemic_status": "inferred",
+  "title": "Higher-order thoughts are seldom conscious",
+  "statements": [
+    {
+      "id": "f14ac55a-b149-4478-9dfe-6b8dc97d7648",
+      "text": "A higher-order thought is conscious only if a third-order thought is about it, which seldom happens. So the theory predicts that people are seldom aware of the higher-order thoughts that make their states conscious, which matches experience, and no regress arises.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "f14ac55a-b149-4478-9dfe-6b8dc97d7648",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "cb5dc26e-c464-4e1b-8d1e-55c642597389",
+        "locator": "sect. 13.3, online p. 6",
+        "quote": "HOTs are themselves mental states, and no HOT is conscious unless one has a third-order thought about it."
+      },
+      {
+        "source": "436fabd9-5340-4918-9c1c-02ddbcd28a4e",
+        "locator": "p. 336",
+        "quote": "So the present account correctly predicts that we would seldom be aware of our second-order thoughts"
+      }
+    ]
+  }
+}

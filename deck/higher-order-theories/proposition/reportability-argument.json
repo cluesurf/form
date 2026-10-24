@@ -1,0 +1,50 @@
+{
+  "record": "proposition",
+  "id": "4edc4664-147e-48b3-8dc8-504eb7f3d14b",
+  "kind": "philosophical",
+  "epistemic_status": "inferred",
+  "title": "Reports express higher-order thoughts, so reportable states are conscious",
+  "statements": [
+    {
+      "id": "a2d9700f-f9fa-42cf-b624-e94cc1fd179c",
+      "text": "Every sincere speech act expresses a thought with its content, so a report that one is in a mental state expresses the thought that one is in it. This is why the ability to report a state is the standard test, in common sense and in psychology, for its being conscious.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "a2d9700f-f9fa-42cf-b624-e94cc1fd179c",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "cb5dc26e-c464-4e1b-8d1e-55c642597389",
+        "locator": "sect. 13.3, online p. 6",
+        "quote": "So a report that one is in some mental state always expresses a corresponding thought that one is in that state."
+      },
+      {
+        "source": "f431a5c3-19c2-4095-ae55-723cadcafced",
+        "locator": "glossary, p. 365",
+        "quote": "Because a verbal report expresses a thought about the reported state, higher-order-thought theory provides an explanation of the widely accepted correlation between conscious awareness and reportability"
+      }
+    ]
+  }
+}

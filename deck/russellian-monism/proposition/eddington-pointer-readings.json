@@ -1,0 +1,55 @@
+{
+  "record": "proposition",
+  "id": "22edb6a9-23d0-427f-87ee-9bcb20d42e28",
+  "kind": "philosophical",
+  "epistemic_status": "hypothesized",
+  "title": "Eddington: physics is a schedule of pointer readings",
+  "statements": [
+    {
+      "id": "581448d3-1428-4053-8303-3c52384ca792",
+      "text": "Science has nothing to say about the intrinsic nature of the atom. The atom of physics, like everything else in physics, is a schedule of pointer readings, which exact science studies and connects with other pointer readings, attached to an unknown background.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "581448d3-1428-4053-8303-3c52384ca792",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "f1983fa1-bead-4fab-9f81-10414b26dc8f",
+        "locator": "chapter XII, p. 259",
+        "quote": "But now we realise that science has nothing to say as to the intrinsic nature of the atom."
+      },
+      {
+        "source": "f1983fa1-bead-4fab-9f81-10414b26dc8f",
+        "locator": "chapter XII, p. 259",
+        "quote": "The physical atom is, like everything else in physics, a schedule of pointer readings."
+      },
+      {
+        "source": "f1983fa1-bead-4fab-9f81-10414b26dc8f",
+        "locator": "chapter XII, p. 254",
+        "quote": "a set of pointer readings, which exact science can study and connect with other pointer readings"
+      }
+    ]
+  }
+}

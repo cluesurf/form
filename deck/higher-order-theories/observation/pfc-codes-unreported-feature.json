@@ -1,0 +1,39 @@
+{
+  "record": "observation",
+  "id": "8c7af90b-aea3-455d-9e53-94a8ef9d317d",
+  "kind": "experimental_result",
+  "epistemic_status": "observed",
+  "description": "In monkeys reporting either the motion or the color of moving dots, multi-unit activity in the frontal eye field carried the unreported feature almost as well as the reported one (Mante et al. 2013, as reported by Odegaard, Knight and Lau).",
+  "method": "instrument",
+  "status": "reported",
+  "source": "4679e6b4-65c8-4b98-983a-d96388c5a75f",
+  "procedure": null,
+  "variable": null,
+  "value": null,
+  "unit": null,
+  "uncertainty": null,
+  "sample_size": null,
+  "replication_count": null,
+  "quality": null,
+  "limitations": "Reported secondhand. The original study is not among the sources read. Trained animals switching between tasks may prepare both reports, which Odegaard and colleagues argue is unlikely.",
+  "conflicts_of_interest": null,
+  "observed_at": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "4679e6b4-65c8-4b98-983a-d96388c5a75f",
+        "locator": "bioRxiv preprint, p. 14",
+        "quote": "PFC multi-unit activity was found to reflect an unreported feature of a stimulus, even when the animal had to report on a different, orthogonal stimulus feature"
+      }
+    ]
+  }
+}

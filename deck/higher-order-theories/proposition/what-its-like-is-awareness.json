@@ -1,0 +1,50 @@
+{
+  "record": "proposition",
+  "id": "6945356c-2120-40c7-8b0d-422a01262b93",
+  "kind": "philosophical",
+  "epistemic_status": "hypothesized",
+  "title": "What it is like is what it is like to be aware of the state",
+  "statements": [
+    {
+      "id": "f65e620d-5257-484f-9e7e-7cc2812ae847",
+      "text": "There being something it is like for one to be in a state is its seeming subjectively that one is in that state. A state that is not conscious has nothing it is like to be in it, in the relevant sense, though it can still have qualitative character.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "f65e620d-5257-484f-9e7e-7cc2812ae847",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "436fabd9-5340-4918-9c1c-02ddbcd28a4e",
+        "locator": "p. 341",
+        "quote": "Knowing what it is like to be in a state is knowing what it is like to be aware of being in that state."
+      },
+      {
+        "source": "e1ce439a-e67d-43bc-85d0-d94947d89a40",
+        "locator": "p. 433",
+        "quote": "there being something it's like for one to be in a state is simply its seeming subjectively that one is in that state"
+      }
+    ]
+  }
+}

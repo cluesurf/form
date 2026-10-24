@@ -1,0 +1,50 @@
+{
+  "record": "proposition",
+  "id": "ee1a7b48-222e-4948-bfb7-6a444630034f",
+  "kind": "definitional",
+  "epistemic_status": "designed",
+  "title": "The transitivity principle",
+  "statements": [
+    {
+      "id": "c8574142-f340-49a4-be07-a7e74c40cf87",
+      "text": "A mental state is conscious if one is conscious of that state in some suitable way. All higher-order theories hold this principle and differ in how one is conscious of one's conscious states. It is not circular, because the states by which one is conscious of something need not themselves be conscious.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "c8574142-f340-49a4-be07-a7e74c40cf87",
+  "status": "active",
+  "voice": "framework",
+  "defines": "transitivity principle",
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "cb5dc26e-c464-4e1b-8d1e-55c642597389",
+        "locator": "sect. 13.1, online p. 2",
+        "quote": "a state is conscious if one is conscious of that state in some suitable way. I shall call this the transitivity principle (TP)"
+      },
+      {
+        "source": "cb5dc26e-c464-4e1b-8d1e-55c642597389",
+        "locator": "sect. 13.1, online p. 3",
+        "quote": "since those states need not themselves be conscious, there is no circularity in explaining state consciousness by appeal to those states"
+      }
+    ]
+  }
+}

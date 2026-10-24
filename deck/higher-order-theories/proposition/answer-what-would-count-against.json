@@ -1,0 +1,50 @@
+{
+  "record": "proposition",
+  "id": "cf0af7f6-5447-4f82-a7ed-203d7da0ff95",
+  "kind": "empirical",
+  "epistemic_status": "hypothesized",
+  "title": "Answer: awareness fixed by early sensory activity alone",
+  "statements": [
+    {
+      "id": "89030a5a-1ceb-457e-9d14-1731c27a6ac7",
+      "text": "Against the view would count awareness that changes with matched performance and no prefrontal change, prefrontal disruption that leaves subjective reports and metacognition intact, or qualitative character predicted entirely by early sensory activity when first-order and higher-order states mismatch. Lau and Rosenthal call their arguments not conclusive.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "89030a5a-1ceb-457e-9d14-1731c27a6ac7",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "f431a5c3-19c2-4095-ae55-723cadcafced",
+        "locator": "p. 371",
+        "quote": "Our arguments are therefore not conclusive, and future experiments might challenge our conclusions"
+      },
+      {
+        "source": "f431a5c3-19c2-4095-ae55-723cadcafced",
+        "locator": "box 3, p. 370",
+        "quote": "whether the qualitative character of conscious perception can be predicted entirely from prefrontal activity, early sensory activity alone, or both"
+      }
+    ]
+  }
+}

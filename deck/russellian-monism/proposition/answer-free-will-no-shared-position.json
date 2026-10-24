@@ -1,0 +1,50 @@
+{
+  "record": "proposition",
+  "id": "402dcf3c-d7c0-41a7-9000-8e1776ce238d",
+  "kind": "philosophical",
+  "epistemic_status": "hypothesized",
+  "title": "Answer: no shared position, though Eddington tied volition to quantum indeterminacy",
+  "statements": [
+    {
+      "id": "0525c01b-bd78-43ad-bd5b-6c04eddfd02a",
+      "text": "The view takes no shared position on free will. It aims to give consciousness a causal role, which Howell disputes. Eddington held that the decision among the behaviors that quantum theory leaves open is what is called volition.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "0525c01b-bd78-43ad-bd5b-6c04eddfd02a",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "f1983fa1-bead-4fab-9f81-10414b26dc8f",
+        "locator": "chapter XIV, p. 311",
+        "quote": "the decision between the possible behaviours is what we call volition"
+      },
+      {
+        "source": "0840dcc2-1282-4a87-bda3-061465634bb0",
+        "locator": "section 3.1",
+        "quote": "Consciousness —or at least the components of consciousness —is thus integrated into physical causation."
+      }
+    ]
+  }
+}

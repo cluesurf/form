@@ -1,0 +1,33 @@
+{
+  "record": "link",
+  "id": "223481f1-c08c-48bc-8193-7382cfe2c242",
+  "from": "cf0af7f6-5447-4f82-a7ed-203d7da0ff95",
+  "to": "1742bbfe-92c2-4298-aa13-2df7e20acb32",
+  "relation": "answers",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "f431a5c3-19c2-4095-ae55-723cadcafced",
+        "locator": "p. 371",
+        "quote": "Our arguments are therefore not conclusive, and future experiments might challenge our conclusions"
+      },
+      {
+        "source": "f431a5c3-19c2-4095-ae55-723cadcafced",
+        "locator": "box 3, p. 370",
+        "quote": "whether the qualitative character of conscious perception can be predicted entirely from prefrontal activity, early sensory activity alone, or both"
+      }
+    ]
+  }
+}

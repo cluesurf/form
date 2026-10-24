@@ -1,0 +1,33 @@
+{
+  "record": "link",
+  "id": "26976510-4eb2-4d39-95bd-37b32ed4b7d7",
+  "from": "4edc4664-147e-48b3-8dc8-504eb7f3d14b",
+  "to": "70a0ccae-834c-4772-af1b-dae917635552",
+  "relation": "supports",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "cb5dc26e-c464-4e1b-8d1e-55c642597389",
+        "locator": "sect. 13.3, online p. 6",
+        "quote": "So a report that one is in some mental state always expresses a corresponding thought that one is in that state."
+      },
+      {
+        "source": "f431a5c3-19c2-4095-ae55-723cadcafced",
+        "locator": "glossary, p. 365",
+        "quote": "Because a verbal report expresses a thought about the reported state, higher-order-thought theory provides an explanation of the widely accepted correlation between conscious awareness and reportability"
+      }
+    ]
+  }
+}

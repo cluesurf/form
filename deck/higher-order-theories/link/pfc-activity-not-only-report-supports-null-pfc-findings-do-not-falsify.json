@@ -1,0 +1,33 @@
+{
+  "record": "link",
+  "id": "146dee36-9c8a-48e5-bdaa-3a1dbdbaf7e4",
+  "from": "b634b5ff-f466-4608-b857-2ca6ecea5431",
+  "to": "23a219e4-f63f-4d06-b666-9a72eca5f5e8",
+  "relation": "supports",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "4679e6b4-65c8-4b98-983a-d96388c5a75f",
+        "locator": "bioRxiv preprint, p. 15",
+        "quote": "even unreported stimulus features could be robustly decoded to a similar degree as attended and reported features"
+      },
+      {
+        "source": "4679e6b4-65c8-4b98-983a-d96388c5a75f",
+        "locator": "bioRxiv preprint, p. 16",
+        "quote": "PFC activity in conscious perception had already survived such tests, well before their recent advocacy"
+      }
+    ]
+  }
+}

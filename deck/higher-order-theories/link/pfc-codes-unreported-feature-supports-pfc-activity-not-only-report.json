@@ -1,0 +1,28 @@
+{
+  "record": "link",
+  "id": "cd749021-c4da-4a95-8818-16fbdbff0955",
+  "from": "8c7af90b-aea3-455d-9e53-94a8ef9d317d",
+  "to": "b634b5ff-f466-4608-b857-2ca6ecea5431",
+  "relation": "supports",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "4679e6b4-65c8-4b98-983a-d96388c5a75f",
+        "locator": "bioRxiv preprint, p. 14",
+        "quote": "PFC multi-unit activity was found to reflect an unreported feature of a stimulus, even when the animal had to report on a different, orthogonal stimulus feature"
+      }
+    ]
+  }
+}
