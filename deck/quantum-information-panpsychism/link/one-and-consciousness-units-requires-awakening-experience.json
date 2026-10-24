@@ -1,0 +1,28 @@
+{
+  "record": "link",
+  "id": "2f32664e-1737-4c37-9d57-6009a788ed45",
+  "from": "3e7f0e85-bbc5-40ad-a978-0d985f15263b",
+  "to": "78c00c31-a463-4591-b4cf-214fcd6c45b1",
+  "relation": "requires",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "6fe53ccc-970a-4952-8f73-fed7c748e93b",
+        "locator": "section 'One and the Consciousness Units'",
+        "quote": "This is a highly speculative model at this point"
+      }
+    ]
+  }
+}

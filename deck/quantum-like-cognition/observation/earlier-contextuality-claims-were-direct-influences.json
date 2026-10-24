@@ -1,0 +1,39 @@
+{
+  "record": "observation",
+  "id": "7af17370-240d-462a-ad5a-836747b28052",
+  "kind": "counterexample",
+  "epistemic_status": "inferred",
+  "description": "A Contextuality-by-Default reanalysis of numerous earlier attempts to show contextuality in human judgments, among them one coauthored by Khrennikov, found all their context dependence accounted for by direct influences, with no true contextuality.",
+  "method": "derived",
+  "status": "reported",
+  "source": "55af0d8a-1e82-498b-9121-344f28606464",
+  "procedure": null,
+  "variable": null,
+  "value": null,
+  "unit": null,
+  "uncertainty": null,
+  "sample_size": null,
+  "replication_count": null,
+  "quality": null,
+  "limitations": null,
+  "conflicts_of_interest": null,
+  "observed_at": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "55af0d8a-1e82-498b-9121-344f28606464",
+        "locator": "abstract",
+        "quote": "The CbD analysis of numerous previous attempts to demonstrate contextuality in human judgments shows that all context-dependence in them can be accounted for by direct influences, with no true contextuality present"
+      }
+    ]
+  }
+}

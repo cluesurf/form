@@ -16,7 +16,7 @@ which stay in their own folders with their own evidence and standing.
   observation in one model to a claim in another.
 - **Narrower and broader**: `specializes` or `generalizes` between models.
 
-The nine questions every model answers are in `question/`, and each same
+The fifteen questions every model answers are in `question/`, and each same
 idea that answers one links to it with `answers`.
 
 A pattern carries no standing. Each model keeps its own verdict on its

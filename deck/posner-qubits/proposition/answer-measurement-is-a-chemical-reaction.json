@@ -1,0 +1,45 @@
+{
+  "record": "proposition",
+  "id": "3cf2aa94-d8b1-46aa-8956-a9b39f19cd56",
+  "kind": "philosophical",
+  "epistemic_status": "hypothesized",
+  "title": "Answer: in the brain, measurement is a chemical reaction",
+  "statements": [
+    {
+      "id": "38d610d1-244e-4063-8374-b156923fbc64",
+      "text": "Measurement needs no observer: chemical reactions perform it, when an enzyme breaks a symmetric bond or when two Posner molecules bind and melt, projecting the nuclear spins and releasing calcium.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "38d610d1-244e-4063-8374-b156923fbc64",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "031558db-d715-456e-b580-d47a6b3bc323",
+        "locator": "abstract",
+        "quote": "Quantum measurements can occur when a pair of Posner molecules chemically bind and subsequently melt"
+      }
+    ]
+  }
+}

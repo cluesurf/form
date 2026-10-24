@@ -1,0 +1,55 @@
+{
+  "record": "proposition",
+  "id": "6c41e2ac-c202-4712-92d0-2f10f4dcfa45",
+  "kind": "empirical",
+  "epistemic_status": "inferred",
+  "title": "The work is self-distributed, not peer reviewed, with language models credited as co-authors",
+  "statements": [
+    {
+      "id": "19933cbf-11cc-4626-bbb6-0c20ac2b1cac",
+      "text": "The program is deposited by its authors on Zenodo, Academia.edu and Substack, and none of it has passed peer review. Many of its papers credit language models as co-authors or verifiers, such as Claude on the helical solar system paper and Copilot on Kolesnikov's papers, and posts paste a model's replies directly.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "19933cbf-11cc-4626-bbb6-0c20ac2b1cac",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "9a98bbfd-4256-4642-9ad8-0796ebf838e6",
+        "locator": "author line of the February 15, 2026 draft",
+        "quote": "Brent Borgers1 and Claude (Anthropic)2"
+      },
+      {
+        "source": "cbb2d197-77f6-4b5f-b592-c3c5600990b1",
+        "locator": "byline",
+        "quote": "by Maxim Kolesnikov, in collaboration with Copilot AI"
+      },
+      {
+        "source": "9c49427f-6ca3-4233-9e57-24d9635dbdea",
+        "locator": "introduction",
+        "quote": "We Paste Claude’s response directly underneath"
+      }
+    ]
+  }
+}

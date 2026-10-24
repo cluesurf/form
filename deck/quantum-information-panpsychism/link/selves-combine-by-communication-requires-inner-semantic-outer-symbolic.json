@@ -1,0 +1,28 @@
+{
+  "record": "link",
+  "id": "10eb13b1-6d7a-4eb5-83f7-b6b5f92f2fb9",
+  "from": "d549bc21-01d9-4e4c-898a-46b5575b3f1e",
+  "to": "f3f9bb18-0b31-4936-842d-12be090c03b1",
+  "relation": "requires",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "6fe53ccc-970a-4952-8f73-fed7c748e93b",
+        "locator": "section 'The Properties of the Consciousness Units'",
+        "quote": "A CU is a self, and so is any coherent combination of CUs."
+      }
+    ]
+  }
+}

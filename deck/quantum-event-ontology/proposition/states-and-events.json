@@ -1,0 +1,50 @@
+{
+  "record": "proposition",
+  "id": "516fac38-6c55-470f-b7c2-375ba98b191e",
+  "kind": "philosophical",
+  "epistemic_status": "hypothesized",
+  "title": "Quantum ontology: systems in states that produce events",
+  "statements": [
+    {
+      "id": "eed3f229-95db-4027-b634-e80b3217d2aa",
+      "text": "The quantum axioms give an ontology of objects, which are systems in states, and the events they produce in other objects. A state is a disposition to produce events, and events, each tied to a projector, are the actual entities accessible in the third person.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "eed3f229-95db-4027-b634-e80b3217d2aa",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "d5b85533-f9ce-4956-9ca1-9102da7a2b10",
+        "locator": "abstract, p. 1",
+        "quote": "the ontology that arises from its axioms of objects, systems in certain states, and the events they produce in other objects"
+      },
+      {
+        "source": "d5b85533-f9ce-4956-9ca1-9102da7a2b10",
+        "locator": "p. 8",
+        "quote": "Events are the actual entities"
+      }
+    ]
+  }
+}

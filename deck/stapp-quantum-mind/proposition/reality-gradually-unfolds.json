@@ -1,0 +1,45 @@
+{
+  "record": "proposition",
+  "id": "b584de32-8907-4ac1-95ab-d327d04c44c2",
+  "kind": "philosophical",
+  "epistemic_status": "hypothesized",
+  "title": "Reality gradually unfolds in response to choices",
+  "statements": [
+    {
+      "id": "f5583245-5bd3-4f16-be33-ef5ec0cfdbcd",
+      "text": "Classical determinism lays all of history out in a four-dimensional spacetime with no place for becoming. Quantum theory grants freedom to the experimenter to choose the question and partial freedom to nature to answer, so reality gradually unfolds in response to choices not fixed by the prior physical state.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "f5583245-5bd3-4f16-be33-ef5ec0cfdbcd",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "cf0e8d1a-00df-4de4-82b8-3266e56aa4a9",
+        "locator": "section 'Nonlocality and Relativity'",
+        "quote": "lead to a picture of a reality that gradually unfolds in response to choices that are not necessarily fixed by the prior physical part of reality alone"
+      }
+    ]
+  }
+}

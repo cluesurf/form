@@ -1,0 +1,28 @@
+{
+  "record": "link",
+  "id": "fc62872e-b4a7-4fd1-8410-628a03d604a3",
+  "from": "31fb3902-c693-4868-82d1-8dc22612fd1c",
+  "to": "a8b2c351-453f-49c2-8c1c-972ccdf744a1",
+  "relation": "requires",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "f0c60d5f-9d43-4f34-b442-f38b3ffcf271",
+        "locator": "p. 2",
+        "quote": "so integrated information, if it exists at all, must be encoded by a physically integrated substrate"
+      }
+    ]
+  }
+}

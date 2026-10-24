@@ -1,0 +1,28 @@
+{
+  "record": "link",
+  "id": "ea931990-5b24-4990-87cf-88c14b3d54a3",
+  "from": "99d8f863-8e8e-49e6-8e2a-c324749ab68b",
+  "to": "acdc26a8-15be-42a2-8166-ecc63df15698",
+  "relation": "requires",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "de10839f-7550-4565-a920-4405a14753fe",
+        "locator": "abstract",
+        "quote": "three distinguishable but interlocked causal processes, one micro-local, one stochastic, and the third experiential"
+      }
+    ]
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "record": "proposition",
+  "id": "d7b3a15b-a5f6-4f1e-b1e4-10066ad0aace",
+  "kind": "definitional",
+  "epistemic_status": "designed",
+  "title": "A context is represented by a complex probability amplitude",
+  "statements": [
+    {
+      "id": "e7a4736d-ea4c-4beb-be30-792a234bb52b",
+      "text": "A context is a complex of mental, social, biological, economic or political conditions, and the quantum-like model represents each context by a complex probability amplitude.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "e7a4736d-ea4c-4beb-be30-792a234bb52b",
+  "status": "active",
+  "voice": "framework",
+  "defines": "context",
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "cc0bfb59-e0b4-48fe-a6c9-5a461cf9b0d6",
+        "locator": "abstract",
+        "quote": "We present a quantum-like (QL) model in that contexts (complexes of e.g. mental, social, biological, economic or even political conditions) are represented by complex probability amplitudes"
+      }
+    ]
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "record": "proposition",
+  "id": "ef10c06c-70e9-4e0f-8983-f246691b4b6d",
+  "kind": "mathematical",
+  "epistemic_status": "inferred",
+  "title": "Rapid repeated questions hold a state in place",
+  "statements": [
+    {
+      "id": "5507a893-e24e-4966-9707-2f6cdfbc02ec",
+      "text": "If the same question $P$ is posed at intervals $\\Delta t$ short on the scale of leakage out of the yes subspace, the effective Hamiltonian becomes $PHP$: evolution within the subspace proceeds, but leakage out of it is blocked. This is the quantum Zeno effect.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "5507a893-e24e-4966-9707-2f6cdfbc02ec",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "7761ff84-c434-4367-8566-43c9037d7b81",
+        "locator": "section 3, p. 4",
+        "quote": "This replacement of the full Hamiltonian H by PHP is the usual quantum Zeno effect."
+      }
+    ]
+  }
+}

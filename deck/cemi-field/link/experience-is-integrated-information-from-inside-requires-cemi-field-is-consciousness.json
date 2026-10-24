@@ -1,0 +1,33 @@
+{
+  "record": "link",
+  "id": "3890ffcb-8334-4285-be4f-8e66e2ff2189",
+  "from": "92355263-ca4b-4625-ab76-6aa9f01be09b",
+  "to": "2137b295-e763-4cb4-9b86-359debc6ab36",
+  "relation": "requires",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "f0c60d5f-9d43-4f34-b442-f38b3ffcf271",
+        "locator": "p. 10",
+        "quote": "Consciousness is what physically integrated information feels like, from the frame of the photons encoding that information."
+      },
+      {
+        "source": "f0c60d5f-9d43-4f34-b442-f38b3ffcf271",
+        "locator": "p. 11",
+        "quote": "is what an a EM field perturbation in the brain that correlates with the sensory input of middle C feels like, from the inside"
+      }
+    ]
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "record": "proposition",
+  "id": "77cdb14b-3a36-45d8-867f-3d629acf317e",
+  "kind": "mathematical",
+  "epistemic_status": "inferred",
+  "title": "Consciousness-based collapse needs a proliferation of collapse operators",
+  "statements": [
+    {
+      "id": "eccc8513-b6a2-4db4-9289-f5062b941eee",
+      "text": "With Kelvin McQueen and Ian Durham: in a Lindblad-type collapse model, if too few collapse operators govern collapse, collapse rates cannot in general depend only on qualitative differences between conscious states. Avoiding this needs many commuting operators, even for a two-node system, and any Wigner-style collapse theory that tells experiences apart by rich internal organization faces the same growth.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "eccc8513-b6a2-4db4-9289-f5062b941eee",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "908df994-b271-436e-b69b-ce503baf9e29",
+        "locator": "abstract",
+        "quote": "if collapse is governed by too few collapse operators, collapse rates cannot in general be made to depend solely on qualitative differences between conscious states"
+      }
+    ]
+  }
+}

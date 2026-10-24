@@ -1,0 +1,45 @@
+{
+  "record": "proposition",
+  "id": "767016c8-7310-4813-8a41-0be1e1acadb2",
+  "kind": "philosophical",
+  "epistemic_status": "inferred",
+  "title": "Classical physics reduces a person to an automaton",
+  "statements": [
+    {
+      "id": "15e94d6e-53d8-4b64-8e2e-916bfaa1376e",
+      "text": "The mechanical conception that follows from classical physics reduces each person to an automaton, against the intuition that thoughts guide actions. The dominant approaches keep the classical concepts and explain the intuition away.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "15e94d6e-53d8-4b64-8e2e-916bfaa1376e",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "de10839f-7550-4565-a920-4405a14753fe",
+        "locator": "abstract",
+        "quote": "the former reduces each of us to an automaton, while the latter allows our thoughts to guide our actions"
+      }
+    ]
+  }
+}

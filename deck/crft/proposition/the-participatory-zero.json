@@ -1,0 +1,45 @@
+{
+  "record": "proposition",
+  "id": "5fe39ef0-d55f-4e01-96a5-3c5bf149d64b",
+  "kind": "definitional",
+  "epistemic_status": "designed",
+  "title": "The participatory zero is measurable readiness, not absence",
+  "statements": [
+    {
+      "id": "579d1a64-4c73-471c-bd9f-edbdc22cdef6",
+      "text": "Kolesnikov defines the participatory zero $\\mathcal{P}_0$ as an integral of an activation function, a participatory potential and the gradient of a structure, over the region near threshold: a phase-integrated volume of readiness that precedes activation, so that withheld interaction is measurable.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "579d1a64-4c73-471c-bd9f-edbdc22cdef6",
+  "status": "active",
+  "voice": "framework",
+  "defines": "participatory zero",
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "cbb2d197-77f6-4b5f-b592-c3c5600990b1",
+        "locator": "abstract",
+        "quote": "this model defines it as a phase-integrated volume of readiness that precedes activation"
+      }
+    ]
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "record": "proposition",
+  "id": "ce0eb81f-c754-4281-b0ca-25082cd720bc",
+  "kind": "empirical",
+  "epistemic_status": "hypothesized",
+  "title": "The periodic table closes at Z = 172 as 43 FCC cells",
+  "statements": [
+    {
+      "id": "f6ea76cf-c421-445d-9263-9de3645e250d",
+      "text": "An integer index $\\mathrm{Ind}(PuP) = 86$ fixes the 86 states of each of two mirrored halves of the periodic system, and the 172 states assemble into exactly 43 face-centered cubic unit cells of 4 nodes. The table therefore ends at $Z = 172$ as a crystallographic closure, not an arbitrary limit.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "f6ea76cf-c421-445d-9263-9de3645e250d",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b7e66c99-c045-4653-80a9-b9240e5d386a",
+        "locator": "appendix, theorem thm:fcc_closure",
+        "quote": "The end of the periodic table at $Z=172$ is therefore not an arbitrary limit, but the strict crystallographic closure requirement of the macroscopic vacuum lattice."
+      },
+      {
+        "source": "b7e66c99-c045-4653-80a9-b9240e5d386a",
+        "locator": "abstract",
+        "quote": "is not a numerological coincidence but the strict shadow of a single integer topological invariant"
+      }
+    ]
+  }
+}

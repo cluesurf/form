@@ -1,0 +1,45 @@
+{
+  "record": "proposition",
+  "id": "9f636e3e-8936-49f5-b850-197728ab9bae",
+  "kind": "philosophical",
+  "epistemic_status": "hypothesized",
+  "title": "Answer: distinction, and the algebra of operators built on it",
+  "statements": [
+    {
+      "id": "5d7f5e02-89c6-437e-96f7-5e01c0f7b3ef",
+      "text": "What comes first is the act of distinction and the algebra it generates: marks, their imaginary values, iterants and noncommutative operator algebras, from which calculus and the structures of physics are derived rather than assumed.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "5d7f5e02-89c6-437e-96f7-5e01c0f7b3ef",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "9f4bc49b-c4dd-497f-a872-aa4fbfe7546f",
+        "locator": "abstract",
+        "quote": "Rather, they both originate from a pre-quantum operator algebra"
+      }
+    ]
+  }
+}

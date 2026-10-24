@@ -1,0 +1,28 @@
+{
+  "record": "link",
+  "id": "a2a65df0-6d11-4931-97b3-0cdb82b8a240",
+  "from": "b95a559f-9a16-46cc-bbfb-6ab059ed706a",
+  "to": "86831928-de7f-4589-89bf-ef983fecfb12",
+  "relation": "requires",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b7e66c99-c045-4653-80a9-b9240e5d386a",
+        "locator": "section on emergent gravitation",
+        "quote": null
+      }
+    ]
+  }
+}

@@ -1,0 +1,76 @@
+{
+  "format": "form.surf/1",
+  "id": "e56917b0-91dd-44e5-9e69-903b252c2c3c",
+  "name": "invariant-set-theory",
+  "title": "Invariant set theory",
+  "role": "model",
+  "summary": "Tim Palmer's invariant set theory: the universe is a deterministic system evolving on a measure-zero fractal invariant set in its state space, whose geometry is the primitive law. Quantum mechanics is the singular limit of a finite theory, Bell violation follows without nonlocality, gravity is not quantized, and consciousness is awareness of nearby counterfactual worlds.",
+  "framework": {
+    "originators": [
+      "Tim N. Palmer"
+    ],
+    "aliases": [
+      "IST",
+      "Invariant Set Postulate",
+      "Cosmological Invariant Set Postulate",
+      "superdeterminism",
+      "gravitational theory of the quantum"
+    ],
+    "homepage": "https://arxiv.org/a/palmer_t_1",
+    "publication": {
+      "venue": [
+        "peer_reviewed",
+        "preprint"
+      ],
+      "peer_review": "yes",
+      "replication": "none"
+    }
+  },
+  "community_written": true,
+  "curators": [
+    {
+      "name": "Lance Pollard",
+      "github": "lancejpollard"
+    }
+  ],
+  "license": "CC-BY-4.0",
+  "atlas": {
+    "scope": [
+      "594e5057-8be3-4455-a819-6e1dbf2d1d34",
+      "7c8c80f9-bebc-4c30-92c6-e742f18de37a",
+      "fadd177c-a18b-423a-ae0c-9a8e4b9332e0",
+      "aed9422a-c4c3-4468-984c-12cc7539cbf8",
+      "27205063-3aa7-4f7a-84e2-ca670ce7040c",
+      "58e937ca-d574-49ff-b582-00303ebbf3b7",
+      "09a4c649-3c16-4449-a2f2-ab1c0746df41",
+      "4e722d6e-6ae8-49a8-8fa9-c134ce562f7d"
+    ],
+    "limits": [
+      "18a1b194-b3e9-4a58-925a-953886f516cd",
+      "6e0b1c31-cba8-491a-9cc7-7e6aefb54566"
+    ],
+    "issues": [
+      "f57a6c0a-366e-4c14-b364-3b0b367583b4",
+      "18a1b194-b3e9-4a58-925a-953886f516cd"
+    ],
+    "dead_ends": []
+  },
+  "draws_from": [],
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "877f7168-e7bf-461e-93d2-3e518d9e7e57",
+        "locator": "abstract",
+        "quote": null
+      }
+    ]
+  }
+}

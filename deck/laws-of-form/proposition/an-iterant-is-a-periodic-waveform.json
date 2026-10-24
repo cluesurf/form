@@ -1,0 +1,45 @@
+{
+  "record": "proposition",
+  "id": "4917eecb-ff8e-4476-a005-f570b45ddeda",
+  "kind": "definitional",
+  "epistemic_status": "designed",
+  "title": "An iterant is a periodic time series seen from a point of view",
+  "statements": [
+    {
+      "id": "69609b4d-148f-4b75-a47f-4de2c9c6166d",
+      "text": "An iterant $[a, b]$ is a periodic time series or waveform, the pair read as two points of view on the waveform, a first or b first, and iterants contain the seeds of special relativity and of matrix algebra.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "69609b4d-148f-4b75-a47f-4de2c9c6166d",
+  "status": "active",
+  "voice": "framework",
+  "defines": "iterant",
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "4419471d-b712-483e-86d2-e19f49d434dc",
+        "locator": "section 3",
+        "quote": "The primitive idea behind an iterant is a periodic time series or waveform"
+      }
+    ]
+  }
+}

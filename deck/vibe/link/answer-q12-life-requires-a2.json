@@ -1,0 +1,38 @@
+{
+  "record": "link",
+  "id": "bdb961cc-691a-48df-be79-b9e3d8cd1fd9",
+  "from": "c3af74f5-e47b-4575-b5a9-749270a15d46",
+  "to": "701c617a-622b-4d2f-8068-f60c9937cc6a",
+  "relation": "requires",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b6adbe30-93bb-4693-b6eb-c8836233f979",
+        "locator": "opening",
+        "quote": "Living things are nested."
+      },
+      {
+        "source": "202a25d6-5b2f-478e-9e68-e4292a77daf0",
+        "locator": "What a self is",
+        "quote": "a self is a crowd that acts as one: it holds together, it repairs itself, and it answers the world as a unit."
+      },
+      {
+        "source": "b6adbe30-93bb-4693-b6eb-c8836233f979",
+        "locator": "opening",
+        "quote": "Whether each level is also someone is an open question."
+      }
+    ]
+  }
+}

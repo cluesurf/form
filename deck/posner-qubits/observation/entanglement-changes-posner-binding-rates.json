@@ -1,0 +1,39 @@
+{
+  "record": "observation",
+  "id": "74bf67a0-0459-4838-b252-80dae0e98df6",
+  "kind": "simulation_result",
+  "epistemic_status": "simulated",
+  "description": "In a quantum information analysis of the Posner model, Halpern and Crosson showed that entanglement can change molecular binding rates, raising a binding probability from 33.6% to 100% in one example.",
+  "method": "simulation",
+  "status": "reported",
+  "source": "3509085a-6f95-4409-bdbe-7915858930e2",
+  "procedure": null,
+  "variable": null,
+  "value": null,
+  "unit": null,
+  "uncertainty": null,
+  "sample_size": null,
+  "replication_count": null,
+  "quality": null,
+  "limitations": "Assumes Fisher's premises hold. A theoretical example, not a measurement.",
+  "conflicts_of_interest": null,
+  "observed_at": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "3509085a-6f95-4409-bdbe-7915858930e2",
+        "locator": "abstract",
+        "quote": "we show that entanglement can affect molecular-binding rates, boosting a binding probability from 33.6% to 100% in an example"
+      }
+    ]
+  }
+}

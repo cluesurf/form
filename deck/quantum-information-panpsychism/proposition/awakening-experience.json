@@ -1,0 +1,50 @@
+{
+  "record": "proposition",
+  "id": "78c00c31-a463-4591-b4cf-214fcd6c45b1",
+  "kind": "empirical",
+  "epistemic_status": "observed",
+  "title": "The framework comes from a 1990 awakening experience",
+  "statements": [
+    {
+      "id": "e2fbf5a3-ce51-4fa8-9be6-efa29f538142",
+      "text": "Faggin reports an awakening experience in December 1990, in which he experienced himself as both the world and the observer of the world, and he presents his framework as grounded in it.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "e2fbf5a3-ce51-4fa8-9be6-efa29f538142",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "6fe53ccc-970a-4952-8f73-fed7c748e93b",
+        "locator": "section 'Awakening'",
+        "quote": "In December 1990, while I was with my family at Lake Tahoe"
+      },
+      {
+        "source": "6fe53ccc-970a-4952-8f73-fed7c748e93b",
+        "locator": "section 'The Properties of the Consciousness Units'",
+        "quote": "I experienced myself as both the world and the observer of the world"
+      }
+    ]
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "record": "proposition",
+  "id": "e706f705-5fbd-4054-a32d-5e566bc2ab3c",
+  "kind": "empirical",
+  "epistemic_status": "hypothesized",
+  "title": "Answer: the elements are a binary register of a vacuum finite-state machine",
+  "statements": [
+    {
+      "id": "fc8f762e-d3e4-4b87-af61-330b8a2b6804",
+      "text": "IT3-WavePixel models the vacuum as a 16-bit finite-state machine with three registers: the nuclear charge $Z$ as a hardware address, the neutron number as error-correcting padding, and a 172-bit electron occupation mask. Decays, electron capture and the Auger effect become exact register transitions.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "fc8f762e-d3e4-4b87-af61-330b8a2b6804",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "73f02c91-243c-4ed0-b6e2-280e63eb19ab",
+        "locator": "abstract",
+        "quote": "transitioning the physical vacuum into a 16-bit computational finite-state machine (FSM)"
+      },
+      {
+        "source": "68958145-1acc-4738-a9f7-bf0fbaab774d",
+        "locator": "section \"THE VERDICT\"",
+        "quote": "The Periodic Table is a binary register."
+      }
+    ]
+  }
+}

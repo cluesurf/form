@@ -1,0 +1,50 @@
+{
+  "record": "proposition",
+  "id": "0574c42c-38aa-4236-96d4-2acb8834ddc9",
+  "kind": "empirical",
+  "epistemic_status": "hypothesized",
+  "title": "A sampling design could test a holding-time modulation in neutron storage",
+  "statements": [
+    {
+      "id": "18399b3a-4841-47e7-8843-035144da323d",
+      "text": "The joint 2026 paper does not claim to resolve the neutron lifetime anomaly. It models coherent mixing with a sterile sector that would modulate storage lifetimes with holding time, finds current data cannot test the modulation, sets no limit, and gives a sampling design that could.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "18399b3a-4841-47e7-8843-035144da323d",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "30f464e4-b45e-48ec-a29f-6e96d5f84fd6",
+        "locator": "abstract",
+        "quote": "We do not claim to resolve this anomaly."
+      },
+      {
+        "source": "30f464e4-b45e-48ec-a29f-6e96d5f84fd6",
+        "locator": "abstract",
+        "quote": "We therefore set no limit. Instead, we give a sampling design that could test the modulation."
+      }
+    ]
+  }
+}

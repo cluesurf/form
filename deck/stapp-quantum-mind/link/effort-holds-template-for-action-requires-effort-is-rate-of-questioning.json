@@ -1,0 +1,33 @@
+{
+  "record": "link",
+  "id": "d4376cee-8d7a-43be-b7a0-410f6c078b2d",
+  "from": "1a7a7343-2305-40bc-adb5-5f02ced03398",
+  "to": "0a8d6d8b-e3d4-4a61-a06a-914a922d4670",
+  "relation": "requires",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "48d99b3a-05f4-48db-85b1-7c28c2d28b6e",
+        "locator": "section 4",
+        "quote": "A template for action for some action X is a pattern of physical (brain) activity which if held in place for a sufficiently long time will tend to cause the action X to occur."
+      },
+      {
+        "source": "6b47a095-e7f3-48db-b614-55f901cb24bb",
+        "locator": "p. 12",
+        "quote": "that person can, by mental effort, quantum dynamically cause his brain/body to behave in a way that follows a pre-programmed trajectory"
+      }
+    ]
+  }
+}

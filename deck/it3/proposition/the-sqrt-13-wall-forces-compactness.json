@@ -1,0 +1,45 @@
+{
+  "record": "proposition",
+  "id": "7a9e6d6c-7da2-464f-9bd2-8c731d44ca6a",
+  "kind": "mathematical",
+  "epistemic_status": "hypothesized",
+  "title": "The √13 wall forces the lattice to close and cuts off the ultraviolet",
+  "statements": [
+    {
+      "id": "1feef94b-d170-4c26-8262-90284f354f44",
+      "text": "Because $\\sqrt{13} \\notin K$, the lattice over $K$ cannot contain vectors whose lengths need the primes 7, 11 or 13. The capacity paper states this as a theorem: the cascade terminates at the Kummer wall, which forces the tiling to close, makes the fibre $T^3$ compact and resolves the ultraviolet catastrophe.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "1feef94b-d170-4c26-8262-90284f354f44",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b7e66c99-c045-4653-80a9-b9240e5d386a",
+        "locator": "theorem thm:wall13",
+        "quote": "This forces the tiling to close, providing the strict algebraic mechanism for why the fibre $T^3$ must be compact."
+      }
+    ]
+  }
+}

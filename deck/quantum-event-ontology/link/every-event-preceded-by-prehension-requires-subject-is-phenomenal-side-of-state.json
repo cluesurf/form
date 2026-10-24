@@ -1,0 +1,28 @@
+{
+  "record": "link",
+  "id": "84ce4afb-592d-488d-87c3-e5452ab745cf",
+  "from": "d5574cff-2141-4d86-84d0-712a9a101931",
+  "to": "7c0bfe97-5d1f-4e95-a4b9-b753932db99f",
+  "relation": "requires",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "c2ffb9d7-7445-4825-9bd5-b4647158960b",
+        "locator": "p. 16",
+        "quote": "Every time an event occurs, it is preceded by the prehension of a proto-subject."
+      }
+    ]
+  }
+}

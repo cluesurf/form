@@ -1,0 +1,45 @@
+{
+  "record": "proposition",
+  "id": "9aa4d24d-628d-47ad-93d8-6b3e41cdb789",
+  "kind": "empirical",
+  "epistemic_status": "hypothesized",
+  "title": "The brain is a hybrid digital and field computer",
+  "statements": [
+    {
+      "id": "1a92e3da-2e3d-4111-a68b-e2b1b0f65091",
+      "text": "The brain computes digitally, nonconsciously and in parallel through its neuronal and synaptic network, and also through its endogenous electromagnetic field, where conscious computation takes place.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "1a92e3da-2e3d-4111-a68b-e2b1b0f65091",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "7d5f59a4-e449-4246-9889-42a0de2c7159",
+        "locator": "abstract, p. 1",
+        "quote": "proposes that the human brain functions as a hybrid digital-EM field computer"
+      }
+    ]
+  }
+}

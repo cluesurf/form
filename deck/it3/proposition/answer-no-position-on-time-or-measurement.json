@@ -1,0 +1,50 @@
+{
+  "record": "proposition",
+  "id": "35c1b771-cea3-4eeb-b3fa-5b8daacf0126",
+  "kind": "philosophical",
+  "epistemic_status": "inferred",
+  "title": "Answer: the papers read give no account of time or of measurement",
+  "statements": [
+    {
+      "id": "0505df98-8f0e-448b-b61f-45896fe3ca46",
+      "text": "The papers read state no account of what time is or of what measurement or observation is. Time appears only as the compactified spacetime base $S^4$ and the steps of the finite-state machine.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "0505df98-8f0e-448b-b61f-45896fe3ca46",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "3575a97a-c0ca-422e-94de-f36e347457dc",
+        "locator": "definition def:M",
+        "quote": "is the one-point compactification of the spacetime"
+      },
+      {
+        "source": "73f02c91-243c-4ed0-b6e2-280e63eb19ab",
+        "locator": "abstract",
+        "quote": null
+      }
+    ]
+  }
+}

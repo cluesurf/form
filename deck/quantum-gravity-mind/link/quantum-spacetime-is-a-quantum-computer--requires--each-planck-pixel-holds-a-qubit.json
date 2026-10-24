@@ -1,0 +1,28 @@
+{
+  "record": "link",
+  "id": "a929986f-06d7-42a2-9dec-a3e94d7a0abd",
+  "from": "ea300a29-9f71-44f3-8d04-690fcde16d32",
+  "to": "b2465416-73c6-45a9-a345-6bec100d2178",
+  "relation": "requires",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b0dbd870-d0e9-4edd-ad9d-f561b18ea043",
+        "locator": "abstract",
+        "quote": "We assume that space-time at the Planck scale is discrete, quantised in Planck units and \"qubitsed\" (each pixel of Planck area encodes one qubit), that is, quantum spacetime can be viewed as a quantum computer"
+      }
+    ]
+  }
+}

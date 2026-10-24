@@ -1,0 +1,45 @@
+{
+  "record": "proposition",
+  "id": "fd904be6-c18f-4d35-9f26-a15a305bc9ce",
+  "kind": "empirical",
+  "epistemic_status": "hypothesized",
+  "title": "Lithium-6 and lithium-7 should have different behavioral effects",
+  "statements": [
+    {
+      "id": "3108ff8d-1684-44af-9f05-5c64e8cba0c3",
+      "text": "If lithium acts through Posner molecules, the behavioral response to lithium should depend on the isotope, since lithium-6 and lithium-7 carry different nuclear spins.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": "A careful replication finds no difference between lithium-6 and lithium-7 in behavior.",
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "3108ff8d-1684-44af-9f05-5c64e8cba0c3",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "031558db-d715-456e-b580-d47a6b3bc323",
+        "locator": "page 7",
+        "quote": "If this is indeed the mechanism, one might expect a lithium isotope dependence on the behavioral response"
+      }
+    ]
+  }
+}

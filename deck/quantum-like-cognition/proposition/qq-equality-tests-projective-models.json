@@ -1,0 +1,50 @@
+{
+  "record": "proposition",
+  "id": "f173b092-2d67-46c9-a89b-86e5ee712b0a",
+  "kind": "mathematical",
+  "epistemic_status": "inferred",
+  "title": "The QQ-equality tests whether order effects are projective",
+  "statements": [
+    {
+      "id": "ba5a57f9-4c6f-49c3-ae7e-51789d012d81",
+      "text": "Projective models of question order satisfy the Wang-Busemeyer QQ-equality $p(A_y B_n) + p(A_n B_y) - p(B_y A_n) - p(B_n A_y) = 0$, while models with positive operator valued measures can violate it, so the equality tests whether a projective model applies.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "ba5a57f9-4c6f-49c3-ae7e-51789d012d81",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "aff11e62-8655-4962-8076-0d50a507f98c",
+        "locator": "abstract",
+        "quote": "We found that, for such observables, the QQ-equality can be violated"
+      },
+      {
+        "source": "0035706c-b4e2-4f8f-9dfd-90139acf6466",
+        "locator": "page 19",
+        "quote": "The QQ-equality (as well as RRE) can be used as the complimentary test to determine whether QOE can be portrayed with the projective measurements"
+      }
+    ]
+  }
+}

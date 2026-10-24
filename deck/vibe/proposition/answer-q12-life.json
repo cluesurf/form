@@ -1,0 +1,60 @@
+{
+  "record": "proposition",
+  "id": "c3af74f5-e47b-4575-b5a9-749270a15d46",
+  "kind": "philosophical",
+  "epistemic_status": "hypothesized",
+  "title": "Answer: life is open, and a living thing is read as a tower of selves",
+  "statements": [
+    {
+      "id": "b84f8c7b-62c3-4c7c-89d1-2848fa760e5e",
+      "text": "Vibe has no separate account of what life is, and the question is open. Everything experiences, so life is not where experience begins. Living things are read as nested selves: cells make tissues, tissues organs and organs a body, and each level can pass the test for a self, a crowd of vibes that holds together, repairs itself and answers the world as a unit. Whether each level is also someone is open, and selves made of selves are partial in the ledger, measured only on older rules.",
+      "language": "en",
+      "scope": "open. The tower of selves is measured only on older rules, not on the working rule",
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "b84f8c7b-62c3-4c7c-89d1-2848fa760e5e",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": {
+    "value": "open",
+    "reason": "vibe's own answer to the questionnaire",
+    "basis": [],
+    "proposal": null
+  },
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b6adbe30-93bb-4693-b6eb-c8836233f979",
+        "locator": "opening",
+        "quote": "Living things are nested."
+      },
+      {
+        "source": "202a25d6-5b2f-478e-9e68-e4292a77daf0",
+        "locator": "What a self is",
+        "quote": "a self is a crowd that acts as one: it holds together, it repairs itself, and it answers the world as a unit."
+      },
+      {
+        "source": "b6adbe30-93bb-4693-b6eb-c8836233f979",
+        "locator": "opening",
+        "quote": "Whether each level is also someone is an open question."
+      }
+    ]
+  }
+}

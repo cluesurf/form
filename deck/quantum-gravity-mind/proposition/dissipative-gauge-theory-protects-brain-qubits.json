@@ -1,0 +1,45 @@
+{
+  "record": "proposition",
+  "id": "23035957-bac7-4b3d-a72a-15f9c8a65990",
+  "kind": "empirical",
+  "epistemic_status": "hypothesized",
+  "title": "A dissipative gauge theory of the brain protects tubulin qubits",
+  "statements": [
+    {
+      "id": "b41b3c5a-8ce0-4dd1-9f80-30222cc9baae",
+      "text": "Brain processes can be described by a classical, dissipative, non-abelian $SU(2)$ gauge theory whose hidden quantum vacuum, near absolute zero, preserves coherence, so tubulin qubits can be processed there without decoherence.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "b41b3c5a-8ce0-4dd1-9f80-30222cc9baae",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "66f6d6e0-fd9b-4e6e-8f1a-7485cd5ccf94",
+        "locator": "abstract",
+        "quote": "Then tubuline-qubits can be processed in the quantum vacuum of the classical field theory of the brain, where decoherence is avoided due to the extremely low temperature"
+      }
+    ]
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "record": "proposition",
+  "id": "a17c075b-be9a-4915-b266-e0856f79049f",
+  "kind": "empirical",
+  "epistemic_status": "hypothesized",
+  "title": "Mental observables show interference of probabilities",
+  "statements": [
+    {
+      "id": "b31172fc-b04b-4e21-8e6a-8d0a204b0747",
+      "text": "Quantum-like behavior of cognition shows as interference of probabilities for mental observables, measured by a nonzero coefficient of interference that can be found from statistical data, and the model predicts hyperbolic as well as trigonometric interference.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": "A zero interference coefficient in the data from the proposed recognition experiments.",
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "b31172fc-b04b-4e21-8e6a-8d0a204b0747",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "cc0bfb59-e0b4-48fe-a6c9-5a461cf9b0d6",
+        "locator": "section 1",
+        "quote": "Cognitive QL-behavior is characterized by a nonzero coefficient of interference"
+      }
+    ]
+  }
+}

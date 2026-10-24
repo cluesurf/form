@@ -1,0 +1,45 @@
+{
+  "record": "proposition",
+  "id": "99d8f863-8e8e-49e6-8e2a-c324749ab68b",
+  "kind": "philosophical",
+  "epistemic_status": "inferred",
+  "title": "Three interlocked causal processes",
+  "statements": [
+    {
+      "id": "94e535e8-54e9-4b04-a76d-03754441c5f4",
+      "text": "Mind and brain dynamics has three distinguishable but interlocked causal processes: one micro-local (the Schrodinger evolution), one stochastic (nature's answers) and one experiential (the choice of question).",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "94e535e8-54e9-4b04-a76d-03754441c5f4",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "de10839f-7550-4565-a920-4405a14753fe",
+        "locator": "abstract",
+        "quote": "three distinguishable but interlocked causal processes, one micro-local, one stochastic, and the third experiential"
+      }
+    ]
+  }
+}

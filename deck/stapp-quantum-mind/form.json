@@ -1,0 +1,80 @@
+{
+  "format": "form.surf/1",
+  "id": "0738bfd5-ec45-43b1-8cd3-a44eac04d95e",
+  "name": "stapp-quantum-mind",
+  "title": "Quantum interactive dualism (Stapp)",
+  "role": "model",
+  "summary": "Henry Stapp's reading of von Neumann's quantum theory: no physical law fixes which question is put to nature (Process 1), that choice is where mind enters brain dynamics, and by posing the same question rapidly, through the quantum Zeno effect, mental effort holds a brain pattern in place, so attention and will are causally efficacious.",
+  "framework": {
+    "originators": [
+      "Henry P. Stapp"
+    ],
+    "aliases": [
+      "quantum interactive dualism",
+      "von Neumann-Wigner theory of mind",
+      "Stapp model",
+      "quantum Zeno model of attention"
+    ],
+    "homepage": null,
+    "publication": {
+      "venue": [
+        "preprint",
+        "peer_reviewed",
+        "book"
+      ],
+      "peer_review": "partial",
+      "replication": "none"
+    }
+  },
+  "community_written": true,
+  "curators": [
+    {
+      "name": "Lance Pollard",
+      "github": "lancejpollard"
+    }
+  ],
+  "license": "CC-BY-4.0",
+  "atlas": {
+    "scope": [
+      "95564fbf-0916-4c9f-9036-b67a3d23cbd3",
+      "1a7a7343-2305-40bc-adb5-5f02ced03398",
+      "6bb8b5c5-5f72-4dca-9f2c-c6fc4d2908ee",
+      "eb5e8b48-b41b-43f5-ad68-ee6cb32e1b86",
+      "0a2d50e3-2139-46ea-beef-dc4c690bdb26"
+    ],
+    "limits": [
+      "f93085ff-cb3b-4cb0-bdfc-dec570c59ff5",
+      "123bfaff-fc5e-4d0c-a387-97fb8251dd44",
+      "63e397e9-1ac1-4238-8e9e-bab65b6b231e"
+    ],
+    "issues": [
+      "f99f1a35-d100-42a5-b2b8-1e54d357ce9b",
+      "dd67d04d-6abe-4a43-810e-6de35d18772d",
+      "fe8d4c88-7ddb-400d-b8ba-7f9494cee1e7"
+    ],
+    "dead_ends": []
+  },
+  "draws_from": [],
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "de10839f-7550-4565-a920-4405a14753fe",
+        "locator": "abstract",
+        "quote": null
+      },
+      {
+        "source": "7761ff84-c434-4367-8566-43c9037d7b81",
+        "locator": "abstract",
+        "quote": null
+      }
+    ]
+  }
+}

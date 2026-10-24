@@ -1,0 +1,50 @@
+{
+  "record": "proposition",
+  "id": "de94c76b-55f4-41bd-abd5-d8c3b55e83d9",
+  "kind": "empirical",
+  "epistemic_status": "hypothesized",
+  "title": "The framework has zero free parameters",
+  "statements": [
+    {
+      "id": "909772db-e64b-453b-883f-31ed92314faa",
+      "text": "The papers state that IT3 predicts the neutrino, baryon and electroweak mass spectra exactly with no free parameters, all constants emerging from metric invariants of the field $K$ under a fixed winding.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "909772db-e64b-453b-883f-31ed92314faa",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "2d2347e1-31ea-4d06-95ff-b77fe8597d20",
+        "locator": "abstract",
+        "quote": "We present the exact, parameter-free prediction of the complete three-generation neutrino, baryon, and electroweak mass spectra"
+      },
+      {
+        "source": "68958145-1acc-4738-a9f7-bf0fbaab774d",
+        "locator": "section \"THE VERDICT\"",
+        "quote": null
+      }
+    ]
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "record": "proposition",
+  "id": "58365d46-e746-41c9-9ab8-fbce5b93339e",
+  "kind": "philosophical",
+  "epistemic_status": "hypothesized",
+  "title": "States are ontic and quantum uncertainty is epistemic",
+  "statements": [
+    {
+      "id": "5feefc17-7570-4d3e-91a5-6777cc68d604",
+      "text": "In invariant set theory the states of physical reality are points on the invariant set, so states are ontic, and quantum uncertainty is uncertainty about which trajectory obtains. Hidden variables label trajectories on the set.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "5feefc17-7570-4d3e-91a5-6777cc68d604",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "bf5ea4cf-57e5-4d17-8a1a-6ecb67eba71c",
+        "locator": "section I",
+        "quote": "states are ontic in IST and quantum uncertainty epistemic"
+      }
+    ]
+  }
+}

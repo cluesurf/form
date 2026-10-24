@@ -1,0 +1,45 @@
+{
+  "record": "proposition",
+  "id": "58c5f8d6-101f-475b-9ffc-a83d9be0e7ee",
+  "kind": "philosophical",
+  "epistemic_status": "hypothesized",
+  "title": "Answer: yes, choice in quantum openness, not randomness",
+  "statements": [
+    {
+      "id": "e838848b-ea2e-4807-a3d2-07d040d72535",
+      "text": "There is free will. The causal openness of quantum systems lets self-conscious beings choose between lines of conduct, and freedom is choice guided by impulses and values, not random action.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "e838848b-ea2e-4807-a3d2-07d040d72535",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "e32b75c5-a1e2-4316-9779-76770e23ad7c",
+        "locator": "p. 18",
+        "quote": "To be free is not to act randomly, but to choose between different lines of conduct"
+      }
+    ]
+  }
+}

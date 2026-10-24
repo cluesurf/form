@@ -1,0 +1,33 @@
+{
+  "record": "link",
+  "id": "95050dbb-de5b-407a-bf3c-b09561c6eb98",
+  "from": "5f5b559b-e83d-4dce-ada4-f178e1d0fabc",
+  "to": "09af6c8e-3b02-41c8-b72e-35e081303ee3",
+  "relation": "defines",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "d5b85533-f9ce-4956-9ca1-9102da7a2b10",
+        "locator": "p. 4",
+        "quote": "We call regularism [19] that position, shared by others like Wittgenstein and Hawking."
+      },
+      {
+        "source": "d5b85533-f9ce-4956-9ca1-9102da7a2b10",
+        "locator": "p. 5",
+        "quote": "without asserting that nature is exhausted by the physical description"
+      }
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "record": "link",
+  "id": "53308265-feb2-4618-bfa9-34ce963ab320",
+  "from": "730398f4-42e0-4e72-b5ae-949d04fda158",
+  "to": "35a9a961-16c5-484a-84e3-e71cb918449c",
+  "relation": "requires",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "a43021a7-a976-4f6f-98d5-0c34e5517469",
+        "locator": "abstract",
+        "quote": "This algebra is elementary and foundational, and it is related to generalisations of boolean logic and to aspects of foundations based in diagrams and distinctions"
+      }
+    ]
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "record": "proposition",
+  "id": "0cbbe8c9-e214-456e-b0d7-35f1d361b234",
+  "kind": "empirical",
+  "epistemic_status": "hypothesized",
+  "title": "Natural selection split the brain into two streams",
+  "statements": [
+    {
+      "id": "79c68a2e-2d3f-4a28-b573-4b6e968c7aa8",
+      "text": "Field effects on neurons help some circuits and harm others, so selection raised field sensitivity in some and lowered it in others. The brain evolved a field-sensitive conscious stream of synchronously firing neurons and a field-insensitive nonconscious stream of asynchronously firing neurons.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "79c68a2e-2d3f-4a28-b573-4b6e968c7aa8",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "fc9f06f8-1b53-49f8-8b2a-73cdb3aae6a3",
+        "locator": "p. 299",
+        "quote": "the theory of natural selection predicts that the brain would evolve into an EM field-insensitive stream associated with asynchronously firing and non-conscious activities, and an EM field-sensitive stream associated with synchronously firing neurons"
+      }
+    ]
+  }
+}

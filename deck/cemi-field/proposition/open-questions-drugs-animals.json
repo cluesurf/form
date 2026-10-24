@@ -1,0 +1,45 @@
+{
+  "record": "proposition",
+  "id": "6708c86c-27eb-481d-a54a-8cb5fae6f24c",
+  "kind": "empirical",
+  "epistemic_status": "hypothesized",
+  "title": "Open: synchrony needed, anesthetics, animals",
+  "statements": [
+    {
+      "id": "4fc5fe0b-5d1b-4027-93a0-321010205d08",
+      "text": "The degree and extent of synchrony needed to encode a conscious thought, the action of drugs and anesthetics on the field, and whether fields are causally active in animal brains are not yet answered.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "4fc5fe0b-5d1b-4027-93a0-321010205d08",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "f0c60d5f-9d43-4f34-b442-f38b3ffcf271",
+        "locator": "p. 11",
+        "quote": "the influence of drugs or anaesthetics on the cemi field or whether cemi fields are causally active in animal brains"
+      }
+    ]
+  }
+}

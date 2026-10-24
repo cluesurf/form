@@ -1,0 +1,28 @@
+{
+  "record": "link",
+  "id": "f181991f-5cd7-4f48-8de2-e744641493d9",
+  "from": "0962adab-d8d9-45a3-b866-238668b19698",
+  "to": "c74f2436-d854-4156-aa4a-9e2068676133",
+  "relation": "contradicts",
+  "strength": null,
+  "rationale": "An upper bound of 37 minutes on entanglement under idealized conditions is far below the estimated day or more of coherence.",
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b2b2a5b2-baa4-432f-bc93-3ac4906cf361",
+        "locator": "abstract",
+        "quote": "derive an upper bound of 37 min on the entanglement lifetime under idealized physiological conditions. We argue that the spin relaxation in Ca9 (PO4 )6 is likely to be much faster than this estimate"
+      }
+    ]
+  }
+}

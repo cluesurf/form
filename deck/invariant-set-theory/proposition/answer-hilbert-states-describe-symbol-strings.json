@@ -1,0 +1,45 @@
+{
+  "record": "proposition",
+  "id": "d579c3b5-8264-453a-8f39-eeb4b96b826f",
+  "kind": "philosophical",
+  "epistemic_status": "hypothesized",
+  "title": "Answer: quantum states are statistics of symbolic labels on trajectories",
+  "statements": [
+    {
+      "id": "de632022-d798-4e8d-b871-f9a6a2041891",
+      "text": "The papers give no general account of information. In invariant set theory, Hilbert states are not fundamental but statistical descriptions of strings of symbolic labels given to state-space trajectories, bit strings of finite length $p$.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "de632022-d798-4e8d-b871-f9a6a2041891",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "478fe2c6-b5e1-40b0-8272-63eec047745e",
+        "locator": "section 7",
+        "quote": "are merely statistical descriptions of strings of symbolic labels given to state-space trajectories"
+      }
+    ]
+  }
+}

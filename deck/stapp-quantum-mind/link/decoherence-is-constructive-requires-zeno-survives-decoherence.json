@@ -1,0 +1,28 @@
+{
+  "record": "link",
+  "id": "fa206492-a052-424e-b012-8f1caa90778c",
+  "from": "b75191b6-9fc4-4131-89ad-dedbc6f571cd",
+  "to": "6bb8b5c5-5f72-4dca-9f2c-c6fc4d2908ee",
+  "relation": "requires",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "d5e75a9b-eeee-4570-ae38-4ff19bafea42",
+        "locator": "abstract",
+        "quote": "environmental decoherence plays an essential and constructive role in a quantum mechanical theory of brain process"
+      }
+    ]
+  }
+}

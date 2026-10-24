@@ -1,0 +1,50 @@
+{
+  "record": "proposition",
+  "id": "0f2aa6e2-761f-4621-931b-71828fae374a",
+  "kind": "mathematical",
+  "epistemic_status": "inferred",
+  "title": "The volume of the 9D ball is a rational multiple of a 1D spectral trace",
+  "statements": [
+    {
+      "id": "0fba558d-1a8a-4fee-ac3f-1c283645d1b1",
+      "text": "The inverse-square spectral trace of the Laplace operator on a circle and the volume of the nine-dimensional unit ball share the factor $\\pi^4$, giving the exact rational identity $V_9 = \\frac{64}{21} \\mathrm{Tr}(\\Delta^{-2}) = \\frac{32 \\pi^4}{945}$.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "0fba558d-1a8a-4fee-ac3f-1c283645d1b1",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b127a652-fa46-4945-8c8a-39e1fc03a904",
+        "locator": "abstract",
+        "quote": "It establishes an exact holographic identity linking discrete trace-class spectral invariants of a one-dimensional Laplace operator on a circle to the continuous geometric volume of a nine-dimensional Euclidean unit ball"
+      },
+      {
+        "source": "216c998d-6151-4a78-9cdf-d7f2265316c6",
+        "locator": "section \"The Kamerton and the 1D-9D Unification\"",
+        "quote": null
+      }
+    ]
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "record": "proposition",
+  "id": "0962adab-d8d9-45a3-b866-238668b19698",
+  "kind": "empirical",
+  "epistemic_status": "inferred",
+  "title": "Posner entanglement lasts at most 37 minutes, likely far less",
+  "statements": [
+    {
+      "id": "e840220e-5af1-4de1-9cd4-0eb932814909",
+      "text": "Spin dynamics of entangled Posner molecules under dipolar and scalar couplings give an upper bound of 37 minutes on the entanglement lifetime under idealized physiological conditions, and spin relaxation in real Posners is likely much faster.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "e840220e-5af1-4de1-9cd4-0eb932814909",
+  "status": "active",
+  "voice": "critique",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b2b2a5b2-baa4-432f-bc93-3ac4906cf361",
+        "locator": "abstract",
+        "quote": "derive an upper bound of 37 min on the entanglement lifetime under idealized physiological conditions. We argue that the spin relaxation in Ca9 (PO4 )6 is likely to be much faster than this estimate"
+      }
+    ]
+  }
+}

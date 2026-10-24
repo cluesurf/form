@@ -1,0 +1,28 @@
+{
+  "record": "link",
+  "id": "eb87cb13-d442-4292-a703-dc9e396600d3",
+  "from": "23035957-bac7-4b3d-a72a-15f9c8a65990",
+  "to": "069e8703-7827-4c8b-aeec-a2a3cc16bfb3",
+  "relation": "is_in_tension_with",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "66f6d6e0-fd9b-4e6e-8f1a-7485cd5ccf94",
+        "locator": "abstract",
+        "quote": "Then tubuline-qubits can be processed in the quantum vacuum of the classical field theory of the brain, where decoherence is avoided due to the extremely low temperature"
+      }
+    ]
+  }
+}

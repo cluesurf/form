@@ -1,0 +1,28 @@
+{
+  "record": "link",
+  "id": "5537a399-661a-4ef1-9299-5b8ecff0f1ca",
+  "from": "26335682-027c-4da0-b823-655bafba982a",
+  "to": "d535502d-f272-4568-8246-1d64e1991079",
+  "relation": "requires",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "de10839f-7550-4565-a920-4405a14753fe",
+        "locator": "section 'Free Will and Causation'",
+        "quote": "by making our thoughts part of the causal structure of the body/brain/mind system"
+      }
+    ]
+  }
+}

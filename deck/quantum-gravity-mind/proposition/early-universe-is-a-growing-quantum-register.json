@@ -1,0 +1,45 @@
+{
+  "record": "proposition",
+  "id": "be9e9226-a67e-4504-8951-b74922993759",
+  "kind": "empirical",
+  "epistemic_status": "hypothesized",
+  "title": "The early universe is a quantum register that grows with time",
+  "statements": [
+    {
+      "id": "e536b461-ce66-4acb-8784-0a3e86f2983e",
+      "text": "The early inflationary universe is a quantum gravity register whose qubits are pixels of area of quantum de Sitter horizons, a register that grows at each Planck time step.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "e536b461-ce66-4acb-8784-0a3e86f2983e",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "8f1c2708-df79-42bc-9be8-181d745ce4a3",
+        "locator": "abstract",
+        "quote": "We consider a quantum gravity register that is a particular quantum memory register which grows with time, and whose qubits are pixels of area of quantum de Sitter horizons"
+      }
+    ]
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "record": "proposition",
+  "id": "42df6eee-5946-4b85-8968-cfcbf164bc44",
+  "kind": "philosophical",
+  "epistemic_status": "inferred",
+  "title": "The link from the √13 wall to compactness is an open conjecture",
+  "statements": [
+    {
+      "id": "8659e021-eecc-40a3-bcd5-41ee46ec3f9f",
+      "text": "The Yang-Mills paper separates the cases: compactness of the manifold, not the arithmetic of $K$, gives the discrete spectrum, and the chain from the $\\sqrt{13}$ wall to a finite lattice to a compact manifold is a flagged conjecture, not a lemma. The cascade is a structural resonance, not a derivation.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "8659e021-eecc-40a3-bcd5-41ee46ec3f9f",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "3575a97a-c0ca-422e-94de-f36e347457dc",
+        "locator": "summary of results",
+        "quote": "the cascade is a structural resonance, not a derivation"
+      }
+    ]
+  }
+}

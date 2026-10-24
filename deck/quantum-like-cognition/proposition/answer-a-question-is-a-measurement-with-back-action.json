@@ -1,0 +1,45 @@
+{
+  "record": "proposition",
+  "id": "b5220365-3940-42a4-8f78-1596a58c0a13",
+  "kind": "philosophical",
+  "epistemic_status": "hypothesized",
+  "title": "Answer: a question asked is a measurement that updates the mental state",
+  "statements": [
+    {
+      "id": "024907aa-d025-40c9-8556-3a349945a094",
+      "text": "A cognitive task such as a question asked to a person is a measurement, characterized by its outcome probabilities and by the state update its back action causes.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "024907aa-d025-40c9-8556-3a349945a094",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "0035706c-b4e2-4f8f-9dfd-90139acf6466",
+        "locator": "section 1",
+        "quote": "Cognitive tasks, e.g., questions asked to humans, are realized as measurements"
+      }
+    ]
+  }
+}

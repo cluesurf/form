@@ -1,0 +1,57 @@
+{
+  "record": "proposition",
+  "id": "43e45f59-77b6-4b07-a577-818dd4f571ab",
+  "kind": "empirical",
+  "epistemic_status": "hypothesized",
+  "title": "Nearly identical repeated measurements show time correlations",
+  "statements": [
+    {
+      "id": "b19e8bb8-5f92-460c-876f-d123627283cd",
+      "text": "In a superdeterministic theory, a time sequence of nearly identical initial states gives similar outcomes, so measurements on states prepared as identically as possible, with devices as small and cool as possible and in time steps as short as possible, would show time correlations the Born rule does not allow.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": "Measurements in that regime that follow the Born rule with no time correlations count against the hypothesis, though the authors note the obvious test may not be the right one.",
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "b19e8bb8-5f92-460c-876f-d123627283cd",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": {
+    "resolution_criterion": "An experiment repeating measurements on states prepared as nearly identically as possible, with small, cold detectors at short time increments, finds time correlations in the outcomes that quantum mechanics does not predict.",
+    "resolver": "specified_source",
+    "locked_at": "2019-12-13",
+    "outcome": null,
+    "resolved_at": null,
+    "observation": null
+  },
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "e718dee2-59d9-48cd-b779-e13a7d897b3a",
+        "locator": "section 6",
+        "quote": "one should make measurements on states prepared as identically as possible with devices as small and cool as possible in time-increments as small as possible"
+      },
+      {
+        "source": "e718dee2-59d9-48cd-b779-e13a7d897b3a",
+        "locator": "section 6",
+        "quote": "rather than fulfilling the Born-rule, such an experiment would reveal time-correlations in the measurement outcomes"
+      }
+    ]
+  }
+}

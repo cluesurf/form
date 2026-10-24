@@ -1,0 +1,50 @@
+{
+  "record": "proposition",
+  "id": "eb5e8b48-b41b-43f5-ad68-ee6cb32e1b86",
+  "kind": "philosophical",
+  "epistemic_status": "inferred",
+  "title": "Causal closure of the physical fails in quantum theory",
+  "statements": [
+    {
+      "id": "537dbca9-6c19-41b5-8914-4c8f97dad120",
+      "text": "Because the observer's choice of question is not determined by the physical state, the causal closure of the physical is not maintained in basic physics, and mind-body supervenience is not entailed by it. The difficulties of physicalism dissolve when the classical idea of the physical is replaced by the quantum one.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "537dbca9-6c19-41b5-8914-4c8f97dad120",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "48d99b3a-05f4-48db-85b1-7c28c2d28b6e",
+        "locator": "p. 5",
+        "quote": "the principle of the causal closure of the physical domain is not maintained in contemporary basic physical theory"
+      },
+      {
+        "source": "48d99b3a-05f4-48db-85b1-7c28c2d28b6e",
+        "locator": "abstract",
+        "quote": "dissolve when the classical idea of the physical is replaced by its quantum successor"
+      }
+    ]
+  }
+}

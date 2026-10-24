@@ -1,0 +1,28 @@
+{
+  "record": "link",
+  "id": "a03ab860-28ba-4931-9cde-4065c74ee9e0",
+  "from": "7030ae47-de5b-4390-a0cd-0c9c9aaa1ead",
+  "to": "ec8744b8-35ca-438f-b48c-63eb48570bc6",
+  "relation": "answers",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b0dbd870-d0e9-4edd-ad9d-f561b18ea043",
+        "locator": "section 1",
+        "quote": "The quantum memory plus the quantum network form a quantum computer"
+      }
+    ]
+  }
+}

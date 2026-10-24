@@ -1,0 +1,45 @@
+{
+  "record": "proposition",
+  "id": "0c5613fd-6e04-4ce1-a7f9-f693dc9719ac",
+  "kind": "mathematical",
+  "epistemic_status": "inferred",
+  "title": "The quaternion group follows from marks and their square roots",
+  "statements": [
+    {
+      "id": "0662fd84-54c3-4d65-8e1b-b6a361e30395",
+      "text": "The Q-Calculus, a 16-valued extension of Laws of Form built from mark operators on 4-tuples, contains eight operators that form a group isomorphic to the non-commutative quaternion group, and represents them as braids.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "0662fd84-54c3-4d65-8e1b-b6a361e30395",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "c69802b7-5f50-4200-be31-ec52aed240cb",
+        "locator": "abstract",
+        "quote": "prove that the set of eight operators in Q is isomorphic to the quaternion group, which is non-commutative"
+      }
+    ]
+  }
+}

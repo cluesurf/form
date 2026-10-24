@@ -1,0 +1,50 @@
+{
+  "record": "proposition",
+  "id": "6433a8d1-70a8-4753-8e04-0c9601138767",
+  "kind": "philosophical",
+  "epistemic_status": "hypothesized",
+  "title": "Answer: the geometry of the invariant set is the most primitive law",
+  "statements": [
+    {
+      "id": "7a85575f-12cf-4411-962b-56574a72166d",
+      "text": "What is fundamental is the geometry of the invariant set $I_U$, not a set of differential evolution equations in spacetime. The laws of physics at the most basic level describe that geometry, and states that do not lie on the set are inconsistent with them.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "7a85575f-12cf-4411-962b-56574a72166d",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "877f7168-e7bf-461e-93d2-3e518d9e7e57",
+        "locator": "abstract",
+        "quote": "the geometry of $I_U$, and not a set of differential evolution equations in space-time $\\mathcal M_U$, provides the most primitive description of the laws of physics"
+      },
+      {
+        "source": "bf5ea4cf-57e5-4d17-8a1a-6ecb67eba71c",
+        "locator": "section I",
+        "quote": "The essential assumption of IST is that the laws of physics at the most basic level describe the geometry of this invariant set."
+      }
+    ]
+  }
+}

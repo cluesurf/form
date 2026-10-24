@@ -1,0 +1,28 @@
+{
+  "record": "link",
+  "id": "24d11d4c-2414-414d-90c8-ad055123ee95",
+  "from": "913fb35b-0aca-4b1a-bcf6-fa6422f19626",
+  "to": "9d28d0f9-f0fa-47a2-b36e-4dc1cf0d8654",
+  "relation": "defines",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "f0c60d5f-9d43-4f34-b442-f38b3ffcf271",
+        "locator": "p. 2",
+        "quote": "conscious neuronal information (the sender) is that information encoded in the brain that correlates with the information encoded in the subjective reports (the receiver) of a conscious observer"
+      }
+    ]
+  }
+}

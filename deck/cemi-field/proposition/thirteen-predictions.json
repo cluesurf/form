@@ -1,0 +1,50 @@
+{
+  "record": "proposition",
+  "id": "fd975754-177d-4fdc-9135-852e56283134",
+  "kind": "empirical",
+  "epistemic_status": "hypothesized",
+  "title": "The listed predictions and their status",
+  "statements": [
+    {
+      "id": "f64d640e-f22e-4f63-b55d-2c0791cc7104",
+      "text": "The theory lists predictions: synchrony correlates with conscious states, conscious stimuli carry field changes strong enough to move motor neurons, agents that disrupt field-neuron coupling cause unconsciousness, the field is insulated from ordinary outside fields, and complexity of thought tracks field complexity. McFadden counts the first eight as supported and the rest as untested.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "f64d640e-f22e-4f63-b55d-2c0791cc7104",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "fc9f06f8-1b53-49f8-8b2a-73cdb3aae6a3",
+        "locator": "p. 299",
+        "quote": "Synchronous neuronal firing will correlate with conscious neuronal states."
+      },
+      {
+        "source": "fc9f06f8-1b53-49f8-8b2a-73cdb3aae6a3",
+        "locator": "p. 300",
+        "quote": "Predictions 8–13 remain to be tested."
+      }
+    ]
+  }
+}

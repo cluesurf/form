@@ -1,0 +1,45 @@
+{
+  "record": "proposition",
+  "id": "0e651323-88ec-4d13-856a-ba97c41832ed",
+  "kind": "philosophical",
+  "epistemic_status": "hypothesized",
+  "title": "A thought is posing a question, then registering the answer",
+  "statements": [
+    {
+      "id": "c4abd101-7c0a-44f1-9066-dffb35ef2419",
+      "text": "Each thought is an effort to attend to something, which is posing a question, followed by registration of the answer, so a stream of consciousness is a sequence of similar thoughts each tending to recreate its likeness.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "c4abd101-7c0a-44f1-9066-dffb35ef2419",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "7761ff84-c434-4367-8566-43c9037d7b81",
+        "locator": "section 2, p. 3",
+        "quote": "Each thought involves an effort to attend to something— i.e., to pose a question—followed by a registration of the answer."
+      }
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "record": "link",
+  "id": "fd38307b-2907-43c7-8f71-967eb291f98f",
+  "from": "836c4a57-213e-414d-aba2-da790ffa4142",
+  "to": "c831600e-bc9d-4c67-88ac-8eff8795f1e3",
+  "relation": "requires",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "d5b85533-f9ce-4956-9ca1-9102da7a2b10",
+        "locator": "abstract, p. 1",
+        "quote": "where an exponential number of emergent properties and states arise"
+      }
+    ]
+  }
+}

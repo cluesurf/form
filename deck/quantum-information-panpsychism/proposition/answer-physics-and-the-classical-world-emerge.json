@@ -1,0 +1,45 @@
+{
+  "record": "proposition",
+  "id": "dceaac36-ce56-4e3f-b800-f28ba1ed5994",
+  "kind": "philosophical",
+  "epistemic_status": "hypothesized",
+  "title": "Answer: the physical and classical worlds emerge",
+  "statements": [
+    {
+      "id": "dd60546c-00fc-427d-9909-276eaa79703e",
+      "text": "The physical world emerges from an underlying quantum algorithm, and classical physics supervenes on quantum physics. In Faggin’s picture the universe emerges from the quantum vacuum made of consciousness units.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "dd60546c-00fc-427d-9909-276eaa79703e",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "4a842576-1434-482e-9bd8-b970f99a257b",
+        "locator": "section 1, p. 3",
+        "quote": "the physical world emerges from an underlying algorithm"
+      }
+    ]
+  }
+}

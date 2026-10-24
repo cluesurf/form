@@ -1,0 +1,28 @@
+{
+  "record": "link",
+  "id": "7d0c070b-0818-473b-b779-99a4e25f924a",
+  "from": "1441b5fe-424c-4f22-8a85-2a0748d3c1d2",
+  "to": "1adc0f33-e9b7-4c2f-ab39-df92eac1c139",
+  "relation": "answers",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "7761ff84-c434-4367-8566-43c9037d7b81",
+        "locator": "section 2, p. 3",
+        "quote": "each such event has a characteristic experiential “feel”"
+      }
+    ]
+  }
+}

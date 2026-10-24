@@ -1,0 +1,28 @@
+{
+  "record": "link",
+  "id": "6f9520dd-85b6-4f42-8b61-f29a3184e312",
+  "from": "f93085ff-cb3b-4cb0-bdfc-dec570c59ff5",
+  "to": "0a8d6d8b-e3d4-4a61-a06a-914a922d4670",
+  "relation": "requires",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "7761ff84-c434-4367-8566-43c9037d7b81",
+        "locator": "section 4, p. 5",
+        "quote": "This effect is to keep the brain activity focussed on a question for longer than it would stay focussed in the classical theory."
+      }
+    ]
+  }
+}

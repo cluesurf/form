@@ -1,0 +1,28 @@
+{
+  "record": "link",
+  "id": "9a129b50-997e-4045-9278-a86e6bb08bf6",
+  "from": "6fc37faa-8205-49e7-8877-ea54c021c0f7",
+  "to": "1b9840d3-789c-49c2-b67f-3213b6cf34ef",
+  "relation": "requires",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "9f4bc49b-c4dd-497f-a872-aa4fbfe7546f",
+        "locator": "abstract",
+        "quote": "What this suggests is that neither the Schrödinger equation nor the quantum wave function are fundamental structures"
+      }
+    ]
+  }
+}

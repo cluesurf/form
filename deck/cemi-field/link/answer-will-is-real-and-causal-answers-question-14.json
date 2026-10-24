@@ -1,0 +1,28 @@
+{
+  "record": "link",
+  "id": "e57d5193-7de1-4615-8181-0d2dcdbe2be9",
+  "from": "63d98b51-5de9-40b1-8332-9f052f175c5a",
+  "to": "43fc6225-2526-4555-8128-80b38e2fbaf4",
+  "relation": "answers",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "fc9f06f8-1b53-49f8-8b2a-73cdb3aae6a3",
+        "locator": "abstract, p. 291",
+        "quote": "though this EM field-driven will is not free, in the sense of being acausal, it nevertheless corresponds to the very real experience of our conscious mind being in control of our voluntary actions"
+      }
+    ]
+  }
+}

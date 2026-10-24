@@ -1,0 +1,45 @@
+{
+  "record": "proposition",
+  "id": "0855bc84-ae33-4e1b-9970-d53a5342fd7c",
+  "kind": "mathematical",
+  "epistemic_status": "inferred",
+  "title": "The Mereon boundary is the three-dimensional shadow of the 600-cell",
+  "statements": [
+    {
+      "id": "425752d1-da36-4bf7-8550-5eb1ccaa5ac4",
+      "text": "Every vertex direction of the 120-face Mereon boundary is the stereographic image of an element of the binary icosahedral group, matched vertex by vertex, so that boundary is the $H_3$ shadow of the $H_4$-symmetric 600-cell, and $E_6$, $E_7$ and $E_8$ are realized geometrically.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "425752d1-da36-4bf7-8550-5eb1ccaa5ac4",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "f588ef52-b78d-45f2-8849-d2dd74fb214e",
+        "locator": "abstract",
+        "quote": "The M120p is thus the H3 shadow of the H4 -symmetric 600-cell"
+      }
+    ]
+  }
+}

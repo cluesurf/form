@@ -1,0 +1,45 @@
+{
+  "record": "proposition",
+  "id": "35a9a961-16c5-484a-84e3-e71cb918449c",
+  "kind": "definitional",
+  "epistemic_status": "designed",
+  "title": "Laws of Form rests on a single distinction",
+  "statements": [
+    {
+      "id": "808a1d49-62be-44ab-926c-f1facea14b63",
+      "text": "Spencer-Brown's Laws of Form and its Primary Algebra rest on the idea of distinction: dividing a space into two regions, one marked and one unmarked.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "808a1d49-62be-44ab-926c-f1facea14b63",
+  "status": "active",
+  "voice": "framework",
+  "defines": "distinction",
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "60e6cb4b-f52f-42ff-bc1f-86cebdc90756",
+        "locator": "section 2.A",
+        "quote": "is based on the idea of distinction, represented by the dividing of a space into two regions, one marked, the second unmarked"
+      }
+    ]
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "record": "proposition",
+  "id": "f3fad67b-c838-4eb2-a5c4-2037a0adfa19",
+  "kind": "philosophical",
+  "epistemic_status": "hypothesized",
+  "title": "Answer: real intelligence is comprehension, computers have only mechanical intelligence",
+  "statements": [
+    {
+      "id": "82fb859f-f11c-4b94-b9d6-86e180f41ac3",
+      "text": "Real intelligence rests on comprehension, which comes only from consciousness, and contains mechanical intelligence as a special case. Computers have only mechanical intelligence.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "82fb859f-f11c-4b94-b9d6-86e180f41ac3",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "6fe53ccc-970a-4952-8f73-fed7c748e93b",
+        "locator": "section 'Computers Cannot Be Conscious'",
+        "quote": "We have real intelligence based on comprehension"
+      }
+    ]
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "record": "proposition",
+  "id": "dc83995f-5343-4892-9945-aa34706c2b23",
+  "kind": "philosophical",
+  "epistemic_status": "hypothesized",
+  "title": "Answer: space is derived from the event tree, and mental space is a tree",
+  "statements": [
+    {
+      "id": "5247f57a-6da8-47c9-b55f-6e8c0a5aae51",
+      "text": "Physical space is not basic but derived from the tree of events an observer collects, and mental space is an ultrametric m-adic tree rather than a real continuum.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "5247f57a-6da8-47c9-b55f-6e8c0a5aae51",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "76c9fdfa-1e59-484e-9f0e-240675c8d9f8",
+        "locator": "section 1.3",
+        "quote": "This is the important foundational advantage of DHT: space-time is not considered as the basic concept"
+      }
+    ]
+  }
+}

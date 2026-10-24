@@ -1,0 +1,28 @@
+{
+  "record": "link",
+  "id": "2f982b8b-9200-46bf-b5c6-82ee036cc4a6",
+  "from": "63c2b7bb-f20a-4a14-a1ea-4fe2609ee7a8",
+  "to": "2137b295-e763-4cb4-9b86-359debc6ab36",
+  "relation": "requires",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "f0c60d5f-9d43-4f34-b442-f38b3ffcf271",
+        "locator": "p. 5",
+        "quote": "it is scientific dualism based on the physical difference between matter and energy, rather than a metaphysical distinction between matter and spirit"
+      }
+    ]
+  }
+}

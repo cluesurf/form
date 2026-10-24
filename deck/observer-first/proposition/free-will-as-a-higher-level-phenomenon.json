@@ -1,0 +1,50 @@
+{
+  "record": "proposition",
+  "id": "f8bbd716-c84b-40f4-a35e-db4f63094a01",
+  "kind": "philosophical",
+  "epistemic_status": "hypothesized",
+  "title": "Answer: lawlike chances leave room for free will as a higher-level phenomenon",
+  "statements": [
+    {
+      "id": "422acf11-66b5-424b-95a6-d4bf33fadc82",
+      "text": "Determinism or lawlike probabilistic behavior of self states is not a restriction on free will as a higher-level phenomenon. With Marius Krumm, Müller proposes computational sourcehood: predicting a process must typically involve an almost exact representation of it, so the process itself is the source of its actions.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "422acf11-66b5-424b-95a6-d4bf33fadc82",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "9000a5bd-f121-420b-8890-4c02d4c528be",
+        "locator": "section VI, footnote 30",
+        "quote": "not be seen as a restriction on the possibility of free will as a higher-level phenomenon"
+      },
+      {
+        "source": "7b67ee2c-1812-46a4-8bba-4c3b2a8c6d9e",
+        "locator": "abstract",
+        "quote": "We argue that this can be understood as saying that the process itself is the source of its actions"
+      }
+    ]
+  }
+}

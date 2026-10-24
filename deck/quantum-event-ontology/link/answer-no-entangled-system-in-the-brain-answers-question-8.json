@@ -1,0 +1,28 @@
+{
+  "record": "link",
+  "id": "bab926d2-879e-49c9-90e9-8a7dd8d9ea51",
+  "from": "874f94ae-c141-4802-aa0d-ea012969d7c3",
+  "to": "1742bbfe-92c2-4298-aa13-2df7e20acb32",
+  "relation": "answers",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "d5b85533-f9ce-4956-9ca1-9102da7a2b10",
+        "locator": "p. 16",
+        "quote": "What we must seek is a system of many microparticles capable of sustaining a quantum level of activity in a warm and humid medium such as the brain"
+      }
+    ]
+  }
+}

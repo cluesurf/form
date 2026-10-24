@@ -1,0 +1,28 @@
+{
+  "record": "link",
+  "id": "097129a6-41c8-46e9-8ab2-7819ad6db12c",
+  "from": "885abcc2-3f10-4601-8c1d-398d1b893e34",
+  "to": "74e87691-55c5-45d4-bcbe-85fb62e5912d",
+  "relation": "answers",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b0dbd870-d0e9-4edd-ad9d-f561b18ea043",
+        "locator": "section 1",
+        "quote": "In our model, quantum space-time is discrete, quantised in Planck units, and each pixel of Planck area, encodes a qubit"
+      }
+    ]
+  }
+}

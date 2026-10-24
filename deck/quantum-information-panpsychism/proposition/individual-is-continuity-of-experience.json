@@ -1,0 +1,50 @@
+{
+  "record": "proposition",
+  "id": "d09cb38c-e8bc-4bb4-ac7b-0ab08ffa9ac7",
+  "kind": "philosophical",
+  "epistemic_status": "hypothesized",
+  "title": "An individual is defined by the continuity of its experience",
+  "statements": [
+    {
+      "id": "ed1914f8-b3c4-4d24-9d9f-37f6b00b2bcd",
+      "text": "An individual is defined by the continuity of its experience. In a thought experiment where the quantum state of a person is teleported onto isomorphic matter elsewhere, the result is the same individual, with the same thoughts and memories.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "ed1914f8-b3c4-4d24-9d9f-37f6b00b2bcd",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "4a842576-1434-482e-9bd8-b970f99a257b",
+        "locator": "section 6, p. 16",
+        "quote": "It is reasonable to say that an individual is defined by the continuity of its experience."
+      },
+      {
+        "source": "4a842576-1434-482e-9bd8-b970f99a257b",
+        "locator": "section 6, p. 17",
+        "quote": "The resulting individual would be the same as the original one, including his thoughts and memory."
+      }
+    ]
+  }
+}

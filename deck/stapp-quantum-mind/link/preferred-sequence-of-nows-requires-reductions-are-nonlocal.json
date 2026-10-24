@@ -1,0 +1,33 @@
+{
+  "record": "link",
+  "id": "210b4e54-37ea-440f-a932-b6497ebc47ef",
+  "from": "19453687-cacb-4c37-8721-c95576c2d6de",
+  "to": "d0a7ecd1-74c5-49a2-8d8f-70a80d215f13",
+  "relation": "requires",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "cf0e8d1a-00df-4de4-82b8-3266e56aa4a9",
+        "locator": "section 'Reconciliation with Relativity'",
+        "quote": "the theory does conflict with a metaphysical idea spawned by the theory of relativity, namely the idea that there is no dynamically preferred sequence of instantaneous “nows”"
+      },
+      {
+        "source": "cf0e8d1a-00df-4de4-82b8-3266e56aa4a9",
+        "locator": "section 'Reconciliation with Relativity'",
+        "quote": "It is natural to assume that these empirically specified surfaces are the same as the objective preferred surfaces “now” of von Neumann quantum theory."
+      }
+    ]
+  }
+}

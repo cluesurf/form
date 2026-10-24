@@ -1,0 +1,28 @@
+{
+  "record": "link",
+  "id": "ea294575-82e9-4dbc-9e23-87b924e6d4de",
+  "from": "7048992e-4d29-451d-beeb-dcac74d9c390",
+  "to": "d984b6a8-2362-43f8-9d35-280e4aa245b5",
+  "relation": "supports",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "fc9f06f8-1b53-49f8-8b2a-73cdb3aae6a3",
+        "locator": "p. 298",
+        "quote": "a single climbing fibre originating from the inferior olive was found to suppress the firing of around 100 Purkinje cells through ephaptic coupling"
+      }
+    ]
+  }
+}

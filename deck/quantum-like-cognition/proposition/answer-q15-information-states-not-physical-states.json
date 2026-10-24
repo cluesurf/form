@@ -1,0 +1,45 @@
+{
+  "record": "proposition",
+  "id": "09a9ce02-f7e1-4fd4-acf5-d51f08a2f9be",
+  "kind": "philosophical",
+  "epistemic_status": "hypothesized",
+  "title": "Answer (information): information states, as distinct from physical states",
+  "statements": [
+    {
+      "id": "6740ecab-7a66-44c2-986a-d9256601a044",
+      "text": "The states of the quantum-like model are information states, not electrochemical states, and the wave function records incomplete information about a context.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "6740ecab-7a66-44c2-986a-d9256601a044",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "a501abcc-30a5-4d3b-8a77-2977ba8a01bc",
+        "locator": "section 1",
+        "quote": "so the states are not physical (electrochemical) states, but the information states"
+      }
+    ]
+  }
+}

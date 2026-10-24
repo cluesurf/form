@@ -1,0 +1,28 @@
+{
+  "record": "link",
+  "id": "4cb88eea-beb9-44e2-a20d-db03b89c7bca",
+  "from": "8a2d5482-dcc9-43e6-a322-7a8325c43d39",
+  "to": "0962adab-d8d9-45a3-b866-238668b19698",
+  "relation": "supports",
+  "strength": 0.6,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b2b2a5b2-baa4-432f-bc93-3ac4906cf361",
+        "locator": "abstract",
+        "quote": "Here, we consider the coherent and incoherent spin dynamics of Ca9 (PO4 )6 arising from dipolar and scalar spin-spin interactions"
+      }
+    ]
+  }
+}

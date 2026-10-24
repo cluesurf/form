@@ -1,0 +1,50 @@
+{
+  "record": "proposition",
+  "id": "63648571-14be-474f-9a1e-a6994fcc3181",
+  "kind": "philosophical",
+  "epistemic_status": "hypothesized",
+  "title": "Physics supervenes on quantum information, which supervenes on consciousness",
+  "statements": [
+    {
+      "id": "4e6f9482-26c4-4290-a51f-eb54100908f1",
+      "text": "Classical physics supervenes on quantum physics, quantum physics on quantum information, and quantum information on consciousness. The physical world emerges from an underlying algorithm whose information is quantum.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "4e6f9482-26c4-4290-a51f-eb54100908f1",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "4a842576-1434-482e-9bd8-b970f99a257b",
+        "locator": "abstract, p. 1",
+        "quote": "with classical physics supervening on quantum physics, quantum physics supervening on quantum information, and quantum information supervening on consciousness"
+      },
+      {
+        "source": "4a842576-1434-482e-9bd8-b970f99a257b",
+        "locator": "section 1, p. 3",
+        "quote": "the physical world emerges from an underlying algorithm, and the kind of information that is processed beneath is quantum"
+      }
+    ]
+  }
+}

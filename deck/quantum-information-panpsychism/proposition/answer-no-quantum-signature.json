@@ -1,0 +1,45 @@
+{
+  "record": "proposition",
+  "id": "e931c6d5-61e5-4440-bbb6-62ddc50e191b",
+  "kind": "empirical",
+  "epistemic_status": "hypothesized",
+  "title": "Answer: experience with no quantum signature, or a conscious computer",
+  "statements": [
+    {
+      "id": "bf63afce-9186-4a70-87bd-a2a69bb42d0d",
+      "text": "The theory would be in trouble if experience showed no complementarity or nonlocality where predicted, if memory-recall tests found no bounded quantum dimension, or if a computer were shown to be conscious.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "bf63afce-9186-4a70-87bd-a2a69bb42d0d",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "4a842576-1434-482e-9bd8-b970f99a257b",
+        "locator": "abstract, p. 2",
+        "quote": "including the evaluation of the number of qubits involved, the existence of complementary observables, and violations of local-realism bounds"
+      }
+    ]
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "record": "proposition",
+  "id": "38480af3-38b0-48d0-8c0a-f91374ae3e3e",
+  "kind": "empirical",
+  "epistemic_status": "inferred",
+  "title": "Human decision making can show true contextuality",
+  "statements": [
+    {
+      "id": "ad4ecae1-213e-4a57-b193-37599d95e2b0",
+      "text": "Responses to the same question in different contexts can be more dissimilar random variables than the change in their distributions warrants, so true contextuality, separated from direct influences, exists in simple human decisions.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "ad4ecae1-213e-4a57-b193-37599d95e2b0",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": {
+    "value": "supported",
+    "reason": "A series of crowdsourcing experiments analyzed with Contextuality-by-Default found contextual systems in simple choices.",
+    "basis": [
+      "69d09276-29a2-447c-a28d-c25d6a7b3aa9"
+    ],
+    "proposal": null
+  },
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "55af0d8a-1e82-498b-9121-344f28606464",
+        "locator": "abstract",
+        "quote": "In this paper we present a series of crowdsourcing experiments that exhibit true contextuality in simple decision making"
+      }
+    ]
+  }
+}

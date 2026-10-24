@@ -1,0 +1,28 @@
+{
+  "record": "link",
+  "id": "4de4895b-f557-4a3b-939b-9e46e81dcf15",
+  "from": "4af3ba96-5d0e-4d0e-b275-5acc9c1a9c07",
+  "to": "e000f324-a5ee-4a69-9018-bf5890cb7f0e",
+  "relation": "weakens",
+  "strength": null,
+  "rationale": "The gauge structures are shown in an abstract algebra, and the step to physics on a space with topology, needed for connectivity, is not yet made.",
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "e8996e04-109b-450c-9140-ec017b0df0b9",
+        "locator": "page 40",
+        "quote": "it will be important to go from the abstract algebra context in which this paper is framed to the question of physics on a noncommutative"
+      }
+    ]
+  }
+}

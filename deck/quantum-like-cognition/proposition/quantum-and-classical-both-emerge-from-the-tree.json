@@ -1,0 +1,45 @@
+{
+  "record": "proposition",
+  "id": "c1c1f07f-feaa-4fcd-8b83-1ae3e23d7ced",
+  "kind": "philosophical",
+  "epistemic_status": "hypothesized",
+  "title": "Neither quantum nor classical: both paradigms emerge from the tree",
+  "statements": [
+    {
+      "id": "b2161b94-9f5a-47a8-9249-f31c7ab7a22a",
+      "text": "Dendrogramic Holographic Theory belongs to neither the quantum nor the classical paradigm, and both emerge from the p-adic relational tree with no assumption beyond Leibniz's principle.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "b2161b94-9f5a-47a8-9249-f31c7ab7a22a",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "76c9fdfa-1e59-484e-9f0e-240675c8d9f8",
+        "locator": "section 1.2",
+        "quote": "DHT does not fall within the confines of either the quantum or classical paradigms"
+      }
+    ]
+  }
+}

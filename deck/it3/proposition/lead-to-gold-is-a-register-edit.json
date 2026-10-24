@@ -1,0 +1,45 @@
+{
+  "record": "proposition",
+  "id": "722463da-4d83-4529-827e-4bf6fa7b8df3",
+  "kind": "empirical",
+  "epistemic_status": "hypothesized",
+  "title": "The lead-to-gold conversion at CERN is a register edit",
+  "statements": [
+    {
+      "id": "281e974f-1e08-4393-ae7e-34a2ef5fe6dc",
+      "text": "The conversion of lead to gold recorded at CERN is not random nucleon knockout but an edit of the hardware address from $Z = 82$ to $Z = 79$, after which the atom sheds three electrons to neutralize and drops neutrons as padding.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "281e974f-1e08-4393-ae7e-34a2ef5fe6dc",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "68958145-1acc-4738-a9f7-bf0fbaab774d",
+        "locator": "section 3",
+        "quote": "We see a strict 16-bit hardware address edit"
+      }
+    ]
+  }
+}

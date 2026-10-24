@@ -1,0 +1,50 @@
+{
+  "record": "proposition",
+  "id": "1c35242d-3268-472b-a04c-826893502ff0",
+  "kind": "mathematical",
+  "epistemic_status": "inferred",
+  "title": "Critique: non-quantum measurement rules satisfy all the assumptions",
+  "statements": [
+    {
+      "id": "937a7349-f4e2-4b15-bded-d391e2d1ea13",
+      "text": "Adrian Kent gives explicit non-quantum measurement and state-update rules that satisfy all the assumptions of the derivation, and concludes that quantum mechanics can consistently be extended by rules other than POVMs. Masanes, Galley and Müller reply that these alternatives break the pure-state postulate and the finite dimension of mixed states.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "937a7349-f4e2-4b15-bded-d391e2d1ea13",
+  "status": "active",
+  "voice": "critique",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "49622fd3-2296-401e-a282-a055216442de",
+        "locator": "abstract",
+        "quote": "We refute their conclusion, giving explicit examples of non-quantum measurement and state update rules that satisfy all their assumptions."
+      },
+      {
+        "source": "b6cf5216-b04e-42df-a16b-3c118de5d807",
+        "locator": "abstract",
+        "quote": null
+      }
+    ]
+  }
+}

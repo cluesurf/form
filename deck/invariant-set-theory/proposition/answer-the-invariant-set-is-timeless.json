@@ -1,0 +1,50 @@
+{
+  "record": "proposition",
+  "id": "4725589e-ecf3-4590-ab76-521d3b96a43b",
+  "kind": "philosophical",
+  "epistemic_status": "hypothesized",
+  "title": "Answer: the fractal geometry is a timeless expression of the dynamical law",
+  "statements": [
+    {
+      "id": "7691052a-9b5c-44e2-8192-f94cf0d12573",
+      "text": "The fractal geometry of the invariant set can be read as a timeless, algebraic expression of the dynamical law, and evolution in time is motion along its trajectories. The universe is quasi-cyclic, a sequence of aeons in the manner of Penrose's conformal cyclic cosmology.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "7691052a-9b5c-44e2-8192-f94cf0d12573",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "bf5ea4cf-57e5-4d17-8a1a-6ecb67eba71c",
+        "locator": "section I",
+        "quote": "The fractal geometry can be thought of as providing a ‘timeless’ algebraic expression for the dynamical law."
+      },
+      {
+        "source": "478fe2c6-b5e1-40b0-8272-63eec047745e",
+        "locator": "section 6",
+        "quote": null
+      }
+    ]
+  }
+}

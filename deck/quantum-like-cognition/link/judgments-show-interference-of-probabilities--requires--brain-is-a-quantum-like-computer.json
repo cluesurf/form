@@ -1,0 +1,28 @@
+{
+  "record": "link",
+  "id": "fe583cc1-1e78-45a7-a2d4-d30a7d019867",
+  "from": "a17c075b-be9a-4915-b266-e0856f79049f",
+  "to": "088717cd-dd6e-477f-a554-ec67aa630311",
+  "relation": "requires",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "cc0bfb59-e0b4-48fe-a6c9-5a461cf9b0d6",
+        "locator": "section 1",
+        "quote": "Cognitive QL-behavior is characterized by a nonzero coefficient of interference"
+      }
+    ]
+  }
+}

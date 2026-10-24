@@ -1,0 +1,28 @@
+{
+  "record": "link",
+  "id": "b4d4b4ed-f569-40c6-9ee5-63db3e03f9d2",
+  "from": "9d09eabf-b1f4-4000-91cf-eed6cca6f5e8",
+  "to": "9b7ac78c-65f1-41f8-a639-a5d3129219bc",
+  "relation": "requires",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "1ed046f6-dc22-480b-9682-42fc2ac8c495",
+        "locator": "abstract",
+        "quote": "undergoes decoherence at the end of inflation. This fact seems to be responsible for the rather low entropy of our universe"
+      }
+    ]
+  }
+}

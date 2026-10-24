@@ -1,0 +1,45 @@
+{
+  "record": "proposition",
+  "id": "6fc37faa-8205-49e7-8877-ea54c021c0f7",
+  "kind": "mathematical",
+  "epistemic_status": "hypothesized",
+  "title": "Neither the Schrödinger equation nor the wave function is fundamental",
+  "statements": [
+    {
+      "id": "8e27b071-a93f-40f6-a894-a0a816fc0246",
+      "text": "An operator mechanics built on noncommutative Poisson, symplectic and differential structures serves as a pre-quantum algebra from which both the classical Koopman-von Neumann and the quantum wave functions follow, with no a priori Hilbert space.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "8e27b071-a93f-40f6-a894-a0a816fc0246",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "9f4bc49b-c4dd-497f-a872-aa4fbfe7546f",
+        "locator": "abstract",
+        "quote": "What this suggests is that neither the Schrödinger equation nor the quantum wave function are fundamental structures"
+      }
+    ]
+  }
+}

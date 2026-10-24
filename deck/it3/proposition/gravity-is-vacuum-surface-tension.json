@@ -1,0 +1,50 @@
+{
+  "record": "proposition",
+  "id": "b95a559f-9a16-46cc-bbfb-6ab059ed706a",
+  "kind": "empirical",
+  "epistemic_status": "hypothesized",
+  "title": "Answer: gravity is the surface tension of the vacuum crystal, with no graviton",
+  "statements": [
+    {
+      "id": "a2b27fd0-dd79-4006-806b-618dd67c6efb",
+      "text": "Gravity is not a fundamental force carried by a spin-2 graviton. It is an emergent surface tension of the discrete vacuum: boundary defect areas grow sub-additively, $A \\propto M^{2/3}$, so the vacuum merges defects to minimize stress, which yields the inverse-square law.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "a2b27fd0-dd79-4006-806b-618dd67c6efb",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b7e66c99-c045-4653-80a9-b9240e5d386a",
+        "locator": "section on emergent gravitation",
+        "quote": "Gravitational attraction is the strict mathematical consequence of the sub-additive geometry of topological boundary tension."
+      },
+      {
+        "source": "68958145-1acc-4738-a9f7-bf0fbaab774d",
+        "locator": "opening",
+        "quote": "Gravity is simply the emergent surface tension of a discrete vacuum crystal"
+      }
+    ]
+  }
+}

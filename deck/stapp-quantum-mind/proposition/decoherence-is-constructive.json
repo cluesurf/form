@@ -1,0 +1,45 @@
+{
+  "record": "proposition",
+  "id": "b75191b6-9fc4-4131-89ad-dedbc6f571cd",
+  "kind": "philosophical",
+  "epistemic_status": "inferred",
+  "title": "Decoherence plays a constructive role in the theory",
+  "statements": [
+    {
+      "id": "e3399a36-f9b2-4d2f-93d9-111608115cf7",
+      "text": "Environmental decoherence has an essential and constructive role: the theory presumes that it reduces the brain's state to a mixture of essentially classical states, on which mental effort then acts.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "e3399a36-f9b2-4d2f-93d9-111608115cf7",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "d5e75a9b-eeee-4570-ae38-4ff19bafea42",
+        "locator": "abstract",
+        "quote": "environmental decoherence plays an essential and constructive role in a quantum mechanical theory of brain process"
+      }
+    ]
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "record": "proposition",
+  "id": "bbe0e043-48d3-4700-8471-34d669b13e17",
+  "kind": "empirical",
+  "epistemic_status": "hypothesized",
+  "title": "A bond-breaking enzyme performs a projective measurement",
+  "statements": [
+    {
+      "id": "54fa5171-af5f-41e4-ac8c-e837f371aee2",
+      "text": "A bond-breaking enzymatic reaction on a symmetric planar molecule implements a projective measurement onto zero quasi-angular momentum.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "54fa5171-af5f-41e4-ac8c-e837f371aee2",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "2d913a63-3172-4638-913a-6d51211985cc",
+        "locator": "page 4",
+        "quote": "A bond-breaking enzymatic chemical reaction on a symmetric planar molecule implements a projective measurement onto zero quasi-angular momentum"
+      }
+    ]
+  }
+}

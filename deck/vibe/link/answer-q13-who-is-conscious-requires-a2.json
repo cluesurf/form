@@ -1,0 +1,38 @@
+{
+  "record": "link",
+  "id": "7bf6ec4e-1649-475d-ac0b-9f8217e71cf3",
+  "from": "2154a54f-711d-4237-8de6-152bd44491ad",
+  "to": "701c617a-622b-4d2f-8068-f60c9937cc6a",
+  "relation": "requires",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "7d868dbb-9fb1-455b-8d46-8cf0dce8e24e",
+        "locator": "The goal",
+        "quote": "Everything is experiencing pain, peace or pleasure"
+      },
+      {
+        "source": "202a25d6-5b2f-478e-9e68-e4292a77daf0",
+        "locator": "opening",
+        "quote": "A body and a rock are both piles of atoms, and only one of them is someone."
+      },
+      {
+        "source": "202a25d6-5b2f-478e-9e68-e4292a77daf0",
+        "locator": "opening",
+        "quote": "What makes a region one self is an open question."
+      }
+    ]
+  }
+}

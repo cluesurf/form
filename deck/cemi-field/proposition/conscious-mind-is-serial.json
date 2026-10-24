@@ -1,0 +1,50 @@
+{
+  "record": "proposition",
+  "id": "fefe15ff-71a8-478d-9a50-ee0cd26a8586",
+  "kind": "empirical",
+  "epistemic_status": "inferred",
+  "title": "One field makes the conscious mind serial",
+  "statements": [
+    {
+      "id": "a85a89ea-7e78-44bf-8e50-a5a558f0ce15",
+      "text": "The brain has one electromagnetic field, so two thoughts in it interfere like two stones thrown into one pond. The brain divides into a parallel nonconscious neuronal processor and a serial conscious field processor that does one thing at a time.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "a85a89ea-7e78-44bf-8e50-a5a558f0ce15",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "f0c60d5f-9d43-4f34-b442-f38b3ffcf271",
+        "locator": "p. 7",
+        "quote": "two thoughts emerging within a brain’s global EM field will always interfere with one another"
+      },
+      {
+        "source": "f0c60d5f-9d43-4f34-b442-f38b3ffcf271",
+        "locator": "p. 7",
+        "quote": "a conscious EM field-based serial processor that can only do one thing at a time"
+      }
+    ]
+  }
+}

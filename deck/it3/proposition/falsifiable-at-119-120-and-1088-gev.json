@@ -1,0 +1,52 @@
+{
+  "record": "proposition",
+  "id": "d26d787e-ba70-4e71-98ce-4f4726262e3f",
+  "kind": "empirical",
+  "epistemic_status": "hypothesized",
+  "title": "Answer: falsifiable at elements 119 and 120, at 1088 GeV, and at Z = 171 and 172",
+  "statements": [
+    {
+      "id": "79caf5ab-a650-4bdb-8fcd-c69b7ca7ea55",
+      "text": "The capacity paper names its falsifiers: selection rules for the alpha-decay chains of elements 119 and 120 (JINR, HIAF), a resonance at 1088 GeV at the High-Luminosity LHC, and a terminal $s$-doublet at $Z = 171, 172$ in simulation.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "79caf5ab-a650-4bdb-8fcd-c69b7ca7ea55",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": {
+    "resolution_criterion": "The High-Luminosity LHC observes a resonance at 1088 GeV.",
+    "resolver": "specified_source",
+    "locked_at": "2026-09-21",
+    "outcome": null,
+    "resolved_at": null,
+    "observation": null
+  },
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b7e66c99-c045-4653-80a9-b9240e5d386a",
+        "locator": "conclusion",
+        "quote": "The framework is falsifiable at $Z=119,120$ (JINR/HIAF), at $1088$ GeV (HL-LHC), and in silico at $Z=171,172$ (terminal $s$-doublet)."
+      }
+    ]
+  }
+}

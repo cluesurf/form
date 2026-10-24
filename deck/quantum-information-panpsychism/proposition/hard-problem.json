@@ -1,0 +1,45 @@
+{
+  "record": "proposition",
+  "id": "64dccd7f-76e8-4242-b613-1d28703cadd7",
+  "kind": "definitional",
+  "epistemic_status": "designed",
+  "title": "The hard problem",
+  "statements": [
+    {
+      "id": "f9277458-bf95-45e7-a754-0f54fca60e5c",
+      "text": "The hard problem is explaining why the performance of functions is accompanied by experience, the gap between functioning and experience that a mechanistic explanation cannot close.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "f9277458-bf95-45e7-a754-0f54fca60e5c",
+  "status": "active",
+  "voice": "framework",
+  "defines": "hard problem",
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "4a842576-1434-482e-9bd8-b970f99a257b",
+        "locator": "section 1, p. 2",
+        "quote": "There is an explanation gap between the function and the experience."
+      }
+    ]
+  }
+}

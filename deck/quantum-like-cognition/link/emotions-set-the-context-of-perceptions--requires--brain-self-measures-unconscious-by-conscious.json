@@ -1,0 +1,28 @@
+{
+  "record": "link",
+  "id": "0fbc10e3-c735-4918-9955-3a578e170a55",
+  "from": "d10f05cf-8ce2-4515-aae4-bca5cdada9ad",
+  "to": "47aa29c7-78ea-448a-a648-8ba40307cfc5",
+  "relation": "requires",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "a501abcc-30a5-4d3b-8a77-2977ba8a01bc",
+        "locator": "abstract",
+        "quote": "Emotional coloring is coupled to quantum contextuality: emotional observables determine contexts. Such contextualization reduces degeneration of unconscious states"
+      }
+    ]
+  }
+}

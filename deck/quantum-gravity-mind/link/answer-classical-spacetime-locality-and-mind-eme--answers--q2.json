@@ -1,0 +1,28 @@
+{
+  "record": "link",
+  "id": "aa5350a2-82fd-49fc-b7b1-dff2f073eb9b",
+  "from": "5279479d-83e1-433a-8189-ea131b4824fe",
+  "to": "455dff7d-b66c-449d-b2d7-52521b99cba5",
+  "relation": "answers",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "a4247e95-9810-41fd-9e50-8518a55f5cea",
+        "locator": "abstract",
+        "quote": "Micro-causality and locality can be restored in the subset U of Q whose elements are unentangled qubits which we interpret as the states of quantum spacetime"
+      }
+    ]
+  }
+}

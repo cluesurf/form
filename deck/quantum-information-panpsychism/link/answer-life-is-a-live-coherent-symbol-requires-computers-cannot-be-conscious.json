@@ -1,0 +1,28 @@
+{
+  "record": "link",
+  "id": "725a97fd-f0d5-4579-afd3-4abacc90fdd3",
+  "from": "9b335843-6285-45f3-bc4f-570fc6e975f7",
+  "to": "f51382dc-35be-43d9-ae86-3a461a4db911",
+  "relation": "requires",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "6fe53ccc-970a-4952-8f73-fed7c748e93b",
+        "locator": "section 'Computers Cannot Be Conscious'",
+        "quote": "A living organism behaves like a giant “macromolecule” that is constantly re-created and changed by matter flowing into and out of it."
+      }
+    ]
+  }
+}

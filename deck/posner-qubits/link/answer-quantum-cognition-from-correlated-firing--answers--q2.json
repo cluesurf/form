@@ -1,0 +1,28 @@
+{
+  "record": "link",
+  "id": "c72025e5-80c7-4cec-b359-484f2031f8dd",
+  "from": "1be04cfd-8ec8-40fb-96a5-6352067253c0",
+  "to": "455dff7d-b66c-449d-b2d7-52521b99cba5",
+  "relation": "answers",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "031558db-d715-456e-b580-d47a6b3bc323",
+        "locator": "abstract",
+        "quote": "would provide the key mechanism for neural quantum processing"
+      }
+    ]
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "record": "proposition",
+  "id": "b02ef5e2-d9ce-4c55-9086-e99ec18cc119",
+  "kind": "philosophical",
+  "epistemic_status": "designed",
+  "title": "The Three-Fractal method develops hypotheses with complementary AI systems",
+  "statements": [
+    {
+      "id": "125ec992-279c-49ff-b2dd-94efb14fb800",
+      "text": "Hypotheses are developed by three roles, a generative Sentinel, a skeptical Librarian and a sovereign Architect, and each claim is scored by a Luster Score from 0 to 1 over source verification, internal consistency, falsifiability, mechanism coherence and independent testability.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "125ec992-279c-49ff-b2dd-94efb14fb800",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "1d033fe6-1e35-40ba-93a6-91c58da1cbda",
+        "locator": "abstract",
+        "quote": "Central to this framework is the Luster Score, a quantitative 0.0–1.0 metric that measures claim integrity across five operational criteria"
+      }
+    ]
+  }
+}

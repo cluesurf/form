@@ -1,0 +1,38 @@
+{
+  "record": "link",
+  "id": "2b9805b4-28a0-4650-af29-dec40437ce05",
+  "from": "660b53f6-ac32-4a14-93d5-f736e8ca434f",
+  "to": "af2bc4e4-a1a9-4f67-860c-1460f09cd55c",
+  "relation": "answers",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "7d868dbb-9fb1-455b-8d46-8cf0dce8e24e",
+        "locator": "The model, term by term: tone",
+        "quote": "The whole state is tones"
+      },
+      {
+        "source": "7d868dbb-9fb1-455b-8d46-8cf0dce8e24e",
+        "locator": "The model, term by term: take",
+        "quote": "a value is read and written, never carried, so the stream is a permutation and runs backward exactly"
+      },
+      {
+        "source": "7d868dbb-9fb1-455b-8d46-8cf0dce8e24e",
+        "locator": "Where it stands: Landauer's principle",
+        "quote": "erasing a trit puts exactly ln 3 into the box, 0.462 nats of it invisible to the husk coarse map"
+      }
+    ]
+  }
+}

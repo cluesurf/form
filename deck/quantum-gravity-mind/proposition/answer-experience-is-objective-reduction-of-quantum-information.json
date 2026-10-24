@@ -1,0 +1,45 @@
+{
+  "record": "proposition",
+  "id": "80ecf761-cb3f-4e06-ac33-579b966355d9",
+  "kind": "philosophical",
+  "epistemic_status": "hypothesized",
+  "title": "Answer: experience is the objective reduction of organized quantum information",
+  "statements": [
+    {
+      "id": "68e4daf0-dbe4-4088-a2b0-0b05709e3f4b",
+      "text": "A conscious experience is the objective reduction of a superposed quantum computational state, in a brain or in the early universe, and since information is its source by organizational invariance, it has a cosmic origin rather than being derived from the brain.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "68e4daf0-dbe4-4088-a2b0-0b05709e3f4b",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "7906bb27-7024-4cb3-ba97-eaea4cd63f4c",
+        "locator": "section 7",
+        "quote": "This self-reduction can be interpreted as a primordial conscious experience"
+      }
+    ]
+  }
+}

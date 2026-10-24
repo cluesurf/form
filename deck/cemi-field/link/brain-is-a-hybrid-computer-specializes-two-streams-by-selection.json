@@ -1,0 +1,28 @@
+{
+  "record": "link",
+  "id": "5b457b9b-958e-435d-be51-706fb0ee021e",
+  "from": "9aa4d24d-628d-47ad-93d8-6b3e41cdb789",
+  "to": "0cbbe8c9-e214-456e-b0d7-35f1d361b234",
+  "relation": "specializes",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "7d5f59a4-e449-4246-9889-42a0de2c7159",
+        "locator": "abstract, p. 1",
+        "quote": "proposes that the human brain functions as a hybrid digital-EM field computer"
+      }
+    ]
+  }
+}

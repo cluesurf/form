@@ -1,0 +1,45 @@
+{
+  "record": "proposition",
+  "id": "1a8d2363-7dca-4176-b966-17f0330a8d9f",
+  "kind": "mathematical",
+  "epistemic_status": "hypothesized",
+  "title": "The Yang-Mills mass gap on R4 is ill-posed and automatic on a compact manifold",
+  "statements": [
+    {
+      "id": "0cb2c854-d635-4be3-abbb-be5e0620e475",
+      "text": "On non-compact $\\mathbb{R}^4$, satisfying the Osterwalder-Schrader axioms and producing a mass gap $\\Delta > 0$ are mutually exclusive within the standard constructive apparatus, shown by four methods. On the compact constructible manifold $M_{\\mathrm{tot}} = S^4 \\times T^3$ over $K$ the gap follows from spectral geometry.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "0cb2c854-d635-4be3-abbb-be5e0620e475",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "3575a97a-c0ca-422e-94de-f36e347457dc",
+        "locator": "abstract",
+        "quote": "is topologically ill-posed"
+      }
+    ]
+  }
+}

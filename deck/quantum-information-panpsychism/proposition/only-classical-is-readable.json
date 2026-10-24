@@ -1,0 +1,45 @@
+{
+  "record": "proposition",
+  "id": "d956b557-691d-40c5-8251-f538ea0008bb",
+  "kind": "mathematical",
+  "epistemic_status": "inferred",
+  "title": "Only classical information can be read without disturbance",
+  "statements": [
+    {
+      "id": "4f5ccfa8-baa8-4c06-98e0-333e4c81e7b4",
+      "text": "Sharing information is equivalent to cloning it, and cloning is equivalent to reading it without disturbance. It has been proved that classical information theory is the only theory in which any information can be extracted without disturbance.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "4f5ccfa8-baa8-4c06-98e0-333e4c81e7b4",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "4a842576-1434-482e-9bd8-b970f99a257b",
+        "locator": "section 1, p. 5",
+        "quote": "Recently it has been proved that the only theory where any information can be extracted without disturbance is classical information theory"
+      }
+    ]
+  }
+}

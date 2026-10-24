@@ -1,0 +1,45 @@
+{
+  "record": "proposition",
+  "id": "6ba509fb-bd4b-4489-b7ba-e5962ebcdc78",
+  "kind": "philosophical",
+  "epistemic_status": "hypothesized",
+  "title": "Quantum-like randomness comes from incomplete information",
+  "statements": [
+    {
+      "id": "d6d8371b-99d1-4286-86f6-cb19b45a4448",
+      "text": "In the quantum-like model, quantum randomness is not irreducible randomness but a consequence of obtaining incomplete information about a system, in the spirit of Einstein's reading of the wave function.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "d6d8371b-99d1-4286-86f6-cb19b45a4448",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "cc0bfb59-e0b4-48fe-a6c9-5a461cf9b0d6",
+        "locator": "abstract",
+        "quote": "In our model quantum randomness appears not as irreducible randomness (as it is commonly accepted in conventional quantum mechanics, e.g., by von Neumann and Dirac), but as a consequence of obtaining incomplete information about a system"
+      }
+    ]
+  }
+}

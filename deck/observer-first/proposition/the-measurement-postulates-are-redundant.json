@@ -1,0 +1,50 @@
+{
+  "record": "proposition",
+  "id": "49cb1723-e89c-410e-b925-280c80f49966",
+  "kind": "mathematical",
+  "epistemic_status": "inferred",
+  "title": "The quantum measurement postulates follow from the other postulates",
+  "statements": [
+    {
+      "id": "c9a1abf9-0a9f-491b-ba98-a7594d90cb92",
+      "text": "With Lluís Masanes and Thomas Galley: the structure of quantum measurements, the Born rule and the state-update rule can be deduced from unitary quantum mechanics plus the assumption that ensembles on finite-dimensional Hilbert spaces have finitely many parameters, using the fact that how a system is split into subsystems is the observer's choice.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "c9a1abf9-0a9f-491b-ba98-a7594d90cb92",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "1a7e5174-919e-41dd-84a2-41e9bb6f144f",
+        "locator": "abstract",
+        "quote": "can be deduced from the other quantum postulates, often referred to as \"unitary quantum mechanics\""
+      },
+      {
+        "source": "b6cf5216-b04e-42df-a16b-3c118de5d807",
+        "locator": "abstract",
+        "quote": null
+      }
+    ]
+  }
+}

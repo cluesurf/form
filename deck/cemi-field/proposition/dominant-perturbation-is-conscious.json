@@ -1,0 +1,45 @@
+{
+  "record": "proposition",
+  "id": "4bfcfdfc-c601-4bd6-96df-47d55fcda039",
+  "kind": "empirical",
+  "epistemic_status": "hypothesized",
+  "title": "A physical threshold separates conscious from nonconscious",
+  "statements": [
+    {
+      "id": "3bcd1d08-fbf2-48eb-88cb-f4a78fd765f4",
+      "text": "The dominant conscious content is the information carried by the strongest field perturbation able to modulate neural firing. This measurable physical parameter, rather than an arbitrary threshold of complexity or access, separates conscious from nonconscious brain information.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "3bcd1d08-fbf2-48eb-88cb-f4a78fd765f4",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "f0c60d5f-9d43-4f34-b442-f38b3ffcf271",
+        "locator": "p. 6",
+        "quote": "the cemi field relies on a measurable physical parameter—the strength of EM field perturbations that are capable of modulating neural firing—to differentiate between conscious and non-conscious brain information"
+      }
+    ]
+  }
+}

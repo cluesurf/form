@@ -1,0 +1,50 @@
+{
+  "record": "proposition",
+  "id": "ec385fbb-bdf5-44db-a15a-1a25ac714177",
+  "kind": "definitional",
+  "epistemic_status": "designed",
+  "title": "Answer: conscious information is what correlates with report",
+  "statements": [
+    {
+      "id": "532021ac-5579-4c3f-9f2c-0dcfc0bc534e",
+      "text": "Following Dehaene, subjective reports are the data a science of consciousness studies. Conscious brain information is the information that correlates with those reports, and EEG and MEG, which measure the brain field, already serve to detect consciousness.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "532021ac-5579-4c3f-9f2c-0dcfc0bc534e",
+  "status": "active",
+  "voice": "framework",
+  "defines": "observation of consciousness",
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "f0c60d5f-9d43-4f34-b442-f38b3ffcf271",
+        "locator": "p. 2",
+        "quote": "subjective reports are the key phenomena that a cognitive neuroscience of consciousness purport to study"
+      },
+      {
+        "source": "2321ad9b-1f3b-4811-88be-b449bc24f696",
+        "locator": "p. 11",
+        "quote": "are routinely used to detect signs of consciousness in anaesthesia"
+      }
+    ]
+  }
+}

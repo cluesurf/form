@@ -1,0 +1,45 @@
+{
+  "record": "proposition",
+  "id": "ce81d861-4e70-4469-bc7b-551a2e37588a",
+  "kind": "empirical",
+  "epistemic_status": "hypothesized",
+  "title": "A Planck-scale wormhole between slices is space-time entanglement",
+  "statements": [
+    {
+      "id": "6bbfe05e-b207-4716-9bb1-e0b63e73c672",
+      "text": "Quantum fluctuations of the metric connect a Planck pixel on one time slice to a pixel on the previous slice by a tiny wormhole, and by the quantum holographic principle that geometric connection is space-time entanglement.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "6bbfe05e-b207-4716-9bb1-e0b63e73c672",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "921ba477-9bdd-4743-bd88-93d6f630d69f",
+        "locator": "abstract",
+        "quote": "By the quantum holographic principle, such a geometrical connection is space-time entanglement"
+      }
+    ]
+  }
+}

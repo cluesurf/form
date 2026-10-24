@@ -1,0 +1,28 @@
+{
+  "record": "link",
+  "id": "1ae26cf1-0402-48c9-80ac-0b501e203ba7",
+  "from": "f060e61f-71ec-4ddb-ab7f-9912e29d6593",
+  "to": "89daaa69-7198-4608-a93d-8a520820bbb9",
+  "relation": "answers",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "cc0bfb59-e0b4-48fe-a6c9-5a461cf9b0d6",
+        "locator": "section 1",
+        "quote": "This coefficient can be found on the basis of statistical data"
+      }
+    ]
+  }
+}

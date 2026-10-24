@@ -1,0 +1,28 @@
+{
+  "record": "link",
+  "id": "d8d994cf-824f-4943-bfcc-03e1a4bc999e",
+  "from": "f0082b2d-aa45-49c7-a333-6184e52b6ca2",
+  "to": "7645b291-acbb-4bb4-820a-da21c254ee0b",
+  "relation": "requires",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "d5b85533-f9ce-4956-9ca1-9102da7a2b10",
+        "locator": "p. 15",
+        "quote": "gives a satisfactory answer to the palette problem"
+      }
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "record": "link",
+  "id": "bcacb912-2a7c-49eb-be18-1750ea1c1a95",
+  "from": "0f76a43f-1c12-44d0-bcd6-872221e629b0",
+  "to": "0f2aa6e2-761f-4621-931b-71828fae374a",
+  "relation": "requires",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "216c998d-6151-4a78-9cdf-d7f2265316c6",
+        "locator": "section \"The Illusion of the Passive Stage\"",
+        "quote": null
+      }
+    ]
+  }
+}

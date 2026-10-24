@@ -1,0 +1,38 @@
+{
+  "record": "link",
+  "id": "bc00ad5c-e7ac-4424-8ff2-b02c94694cff",
+  "from": "b691addc-6af2-458d-bc1a-27dbf15bf5dd",
+  "to": "3e791c75-5131-48c7-b552-2a4bb9feff6c",
+  "relation": "requires",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "ea8887b3-680b-486b-8ac6-ee1812adb581",
+        "locator": "The hard problem moves to the base",
+        "quote": "What the model can owe is the structure of experience: which vibes make one self, how unified it is, what it keeps, how it chooses."
+      },
+      {
+        "source": "d256279f-196b-4be6-a8ef-47554d1d19b0",
+        "locator": "What is open: the engine is a model",
+        "quote": "The deliberation engine exhibits the structure of choice. It does not derive a self from the base rule."
+      },
+      {
+        "source": "7d868dbb-9fb1-455b-8d46-8cf0dce8e24e",
+        "locator": "The goal",
+        "quote": "the proofs that these grids host universal computation"
+      }
+    ]
+  }
+}

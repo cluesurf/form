@@ -1,0 +1,28 @@
+{
+  "record": "link",
+  "id": "3e2ff605-16c7-41cc-a965-ea39895fef83",
+  "from": "6ba509fb-bd4b-4489-b7ba-e5962ebcdc78",
+  "to": "12c4b9f0-ee4c-45ef-996f-daf8c9a1fbde",
+  "relation": "requires",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "cc0bfb59-e0b4-48fe-a6c9-5a461cf9b0d6",
+        "locator": "abstract",
+        "quote": "In our model quantum randomness appears not as irreducible randomness (as it is commonly accepted in conventional quantum mechanics, e.g., by von Neumann and Dirac), but as a consequence of obtaining incomplete information about a system"
+      }
+    ]
+  }
+}

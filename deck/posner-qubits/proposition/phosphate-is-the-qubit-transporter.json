@@ -1,0 +1,50 @@
+{
+  "record": "proposition",
+  "id": "e7ea6ec2-1de3-40a9-b0df-d51f40e195d1",
+  "kind": "empirical",
+  "epistemic_status": "hypothesized",
+  "title": "The phosphate ion transports the qubit",
+  "statements": [
+    {
+      "id": "d4e57d74-09e7-4937-a60d-bd32337d2397",
+      "text": "The solvated phosphate ion is the only possible qubit transporter: it keeps phosphorus spin coherence for about a second while diffusing across a cell.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "d4e57d74-09e7-4937-a60d-bd32337d2397",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "031558db-d715-456e-b580-d47a6b3bc323",
+        "locator": "abstract",
+        "quote": "while the phosphate ion is the only possible qubit-transporter"
+      },
+      {
+        "source": "031558db-d715-456e-b580-d47a6b3bc323",
+        "locator": "page 2",
+        "quote": "The solvated phosphate ion can nevertheless serve as an effective qubit transporter"
+      }
+    ]
+  }
+}

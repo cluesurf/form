@@ -1,0 +1,45 @@
+{
+  "record": "proposition",
+  "id": "715d6b20-9b73-4e0f-a8e7-0b0ea6790952",
+  "kind": "empirical",
+  "epistemic_status": "hypothesized",
+  "title": "The macroscopic cosmos is quantized: the solar system solves Diophantine equations",
+  "statements": [
+    {
+      "id": "6a764845-5ecb-4836-9f20-465d35189644",
+      "text": "The macroscopic vacuum does not compute continuous differential equations but resolves discrete Diophantine equations over $K$, so the architecture of the solar system is quantized, which continuous Euclidean and Newton-Kepler metrics cannot resolve.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "6a764845-5ecb-4836-9f20-465d35189644",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "330b64e6-d310-42b6-990e-aeb329aa077e",
+        "locator": "abstract",
+        "quote": "the macroscopic vacuum does not compute continuous differential equations; rather, it resolves discrete Diophantine equations over the constructible Logvinovich field"
+      }
+    ]
+  }
+}

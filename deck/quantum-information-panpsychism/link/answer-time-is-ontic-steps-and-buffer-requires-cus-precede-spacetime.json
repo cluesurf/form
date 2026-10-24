@@ -1,0 +1,33 @@
+{
+  "record": "link",
+  "id": "a39d3431-257e-4a8b-8579-8896e7376529",
+  "from": "964b9365-09d0-47c8-94e1-87b498d10f09",
+  "to": "b3ef8207-3e73-4e17-a23b-726f146ad0d8",
+  "relation": "requires",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "4a842576-1434-482e-9bd8-b970f99a257b",
+        "locator": "section 5, p. 12",
+        "quote": "The quantum memory intrinsic in the ontic evolution instead works well as a short-term buffer to build up a fuller experience"
+      },
+      {
+        "source": "6fe53ccc-970a-4952-8f73-fed7c748e93b",
+        "locator": "section 'The Scientific Study of Inner Reality'",
+        "quote": "we must then explain the concepts of space, time, matter, and energy—so far held to be fundamental—with new primitive concepts"
+      }
+    ]
+  }
+}

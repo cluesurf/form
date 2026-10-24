@@ -1,0 +1,28 @@
+{
+  "record": "link",
+  "id": "ef14dabb-940e-4768-b02e-5f54f266de19",
+  "from": "3cf2aa94-d8b1-46aa-8956-a9b39f19cd56",
+  "to": "1db1bbe9-0f32-4e1f-8237-c8fe26bf268f",
+  "relation": "answers",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "031558db-d715-456e-b580-d47a6b3bc323",
+        "locator": "abstract",
+        "quote": "Quantum measurements can occur when a pair of Posner molecules chemically bind and subsequently melt"
+      }
+    ]
+  }
+}

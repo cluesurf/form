@@ -1,0 +1,28 @@
+{
+  "record": "link",
+  "id": "7d3967d6-fc62-4504-bd37-958cedb7d2c5",
+  "from": "42df6eee-5946-4b85-8968-cfcbf164bc44",
+  "to": "7a9e6d6c-7da2-464f-9bd2-8c731d44ca6a",
+  "relation": "is_in_tension_with",
+  "strength": null,
+  "rationale": "The Yang-Mills paper treats the step from the wall to compactness as an open conjecture, while the later capacity paper states it as a proved theorem.",
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "3575a97a-c0ca-422e-94de-f36e347457dc",
+        "locator": "summary of results",
+        "quote": null
+      }
+    ]
+  }
+}

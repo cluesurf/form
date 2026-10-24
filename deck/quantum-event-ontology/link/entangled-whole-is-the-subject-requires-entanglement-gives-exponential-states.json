@@ -1,0 +1,28 @@
+{
+  "record": "link",
+  "id": "923ced59-c19a-42e6-90b0-a8105e164bbf",
+  "from": "da6c2cb9-0e5e-4157-ba3c-53d90bb1662b",
+  "to": "c831600e-bc9d-4c67-88ac-8eff8795f1e3",
+  "relation": "requires",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "c2ffb9d7-7445-4825-9bd5-b4647158960b",
+        "locator": "p. 19",
+        "quote": "the subject summing problem admits the same solution as the other combination problems due to the quantum ontology"
+      }
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "record": "link",
+  "id": "76dca23d-dc09-4d21-9dbe-fcb972d79bba",
+  "from": "ed195988-aaa4-41f3-a27c-d36b5810e798",
+  "to": "fd904be6-c18f-4d35-9f26-a15a305bc9ce",
+  "relation": "weakens",
+  "strength": null,
+  "rationale": "If both isotopes destroy the spin coherence almost completely, the isotope difference the prediction rests on is marginal.",
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "d47c10b1-d3d8-4227-9d75-4bc8f3744fae",
+        "locator": "Conclusion",
+        "quote": "For lithium-doped Posner molecules our results do not support the hypothesis that different lithium ions differently influence phosphorus nuclear coherence or concurrence"
+      }
+    ]
+  }
+}

@@ -1,0 +1,60 @@
+{
+  "record": "proposition",
+  "id": "660b53f6-ac32-4a14-93d5-f736e8ca434f",
+  "kind": "philosophical",
+  "epistemic_status": "hypothesized",
+  "title": "Answer: information is open, and the state of the world is its tones",
+  "statements": [
+    {
+      "id": "52d3ad3f-5a6c-4e26-8146-1b0be5cc4f3e",
+      "text": "Vibe has no settled account of what information is, and the question is open. What its base fixes is that the whole state is tones, each one trit, and that every value is read and written, never carried, so the rule is a permutation that runs backward exactly and no fine detail of the state is ever lost, only hidden from the coarse view. Erasing a trit on a mesh line puts exactly $\\ln 3$ into the box, part of it invisible to the coarse map of the husk.",
+      "language": "en",
+      "scope": "open. The ledger rows for information and computation are partial or stand-ins",
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "52d3ad3f-5a6c-4e26-8146-1b0be5cc4f3e",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": {
+    "value": "open",
+    "reason": "vibe's own answer to the questionnaire",
+    "basis": [],
+    "proposal": null
+  },
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "7d868dbb-9fb1-455b-8d46-8cf0dce8e24e",
+        "locator": "The model, term by term: tone",
+        "quote": "The whole state is tones"
+      },
+      {
+        "source": "7d868dbb-9fb1-455b-8d46-8cf0dce8e24e",
+        "locator": "The model, term by term: take",
+        "quote": "a value is read and written, never carried, so the stream is a permutation and runs backward exactly"
+      },
+      {
+        "source": "7d868dbb-9fb1-455b-8d46-8cf0dce8e24e",
+        "locator": "Where it stands: Landauer's principle",
+        "quote": "erasing a trit puts exactly ln 3 into the box, 0.462 nats of it invisible to the husk coarse map"
+      }
+    ]
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "record": "proposition",
+  "id": "267f2b6b-22ab-46e4-8f0c-c63be6a1c53b",
+  "kind": "empirical",
+  "epistemic_status": "hypothesized",
+  "title": "Answer: complementarity, nonlocality and qubit counts in experience",
+  "statements": [
+    {
+      "id": "b11add57-32f5-437e-98ce-fa9fcc28dd9a",
+      "text": "The theory is checked by looking for complementarity and Bell-type nonlocality in conscious experience, by memory-recall experiments that estimate the number of qubits involved, and by simulating a conscious process of about a dozen qubits.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "b11add57-32f5-437e-98ce-fa9fcc28dd9a",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "4a842576-1434-482e-9bd8-b970f99a257b",
+        "locator": "section 7, p. 18",
+        "quote": "In principle quantumness could be established through experimental demonstration of one of the two main nonclassical features of quantum theory: nonlocality and complementarity."
+      }
+    ]
+  }
+}

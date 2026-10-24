@@ -1,0 +1,45 @@
+{
+  "record": "proposition",
+  "id": "4e593cee-9b7f-428f-b51d-b5c64b2ac325",
+  "kind": "definitional",
+  "epistemic_status": "designed",
+  "title": "Self-consciousness",
+  "statements": [
+    {
+      "id": "b093c616-91e3-46b4-9a61-62f4f16e453d",
+      "text": "Self-consciousness is the capacity to view oneself as a subject of experience.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "b093c616-91e3-46b4-9a61-62f4f16e453d",
+  "status": "active",
+  "voice": "framework",
+  "defines": "self-consciousness",
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "e32b75c5-a1e2-4316-9779-76770e23ad7c",
+        "locator": "abstract, p. 1",
+        "quote": "Here, we analyze self-consciousness as the capacity to view oneself as a subject of experience."
+      }
+    ]
+  }
+}

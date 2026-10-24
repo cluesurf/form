@@ -1,0 +1,50 @@
+{
+  "record": "proposition",
+  "id": "080f095a-9d6b-412e-ae3f-c15feb94e3df",
+  "kind": "philosophical",
+  "epistemic_status": "hypothesized",
+  "title": "Start from the first person, not the world",
+  "statements": [
+    {
+      "id": "86e6ac9c-3a50-4c2b-8428-21af8146af43",
+      "text": "The foundational question of physics should be what an observer will experience next, not what is the case in the world. A theory built on the first-person perspective is to be explored as an alternative to one built on the third-person world.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "86e6ac9c-3a50-4c2b-8428-21af8146af43",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "30a7661d-a92b-4619-a5b7-344796891205",
+        "locator": "abstract",
+        "quote": "to start with the first-person (the observer) rather than the third-person perspective (the world)"
+      },
+      {
+        "source": "9000a5bd-f121-420b-8890-4c02d4c528be",
+        "locator": "section VIII",
+        "quote": "which declares the first-person perspective fundamental"
+      }
+    ]
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "record": "proposition",
+  "id": "570f6306-0c0f-4603-a9f2-3b4587133463",
+  "kind": "mathematical",
+  "epistemic_status": "inferred",
+  "title": "The growing network saturates the bounds on computation",
+  "statements": [
+    {
+      "id": "d6fbcd5e-4a4b-426e-93b3-24c7954586c0",
+      "text": "The exactly solvable quantum growing network saturates the bound on the speed of computation, the bound on clock precision and the holographic bound.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "d6fbcd5e-4a4b-426e-93b3-24c7954586c0",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "8f1c2708-df79-42bc-9be8-181d745ce4a3",
+        "locator": "abstract",
+        "quote": "We also show that the bound on the speed of computation, the bound on clock precision, and the holographic bound, are saturated by the QGN"
+      }
+    ]
+  }
+}

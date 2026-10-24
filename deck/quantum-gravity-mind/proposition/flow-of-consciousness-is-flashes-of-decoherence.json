@@ -1,0 +1,45 @@
+{
+  "record": "proposition",
+  "id": "68c093a1-9032-47a2-9862-6a176ae37e65",
+  "kind": "empirical",
+  "epistemic_status": "hypothesized",
+  "title": "The flow of consciousness is frequent flashes of decoherence",
+  "statements": [
+    {
+      "id": "97adf879-30b3-46a2-b3c6-5b2cab1871c3",
+      "text": "The quantum mode prepares the classical mode, which comes into play by flashes of decoherence so frequent that humans have the impression of a flow of consciousness.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "97adf879-30b3-46a2-b3c6-5b2cab1871c3",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "7a402f8b-3b1f-45e0-b6bd-6942c2daab7a",
+        "locator": "section 1",
+        "quote": "which occur so often that humans get the impression of a “flow of consciousness”"
+      }
+    ]
+  }
+}

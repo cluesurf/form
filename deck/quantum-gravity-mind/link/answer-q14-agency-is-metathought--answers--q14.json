@@ -1,0 +1,28 @@
+{
+  "record": "link",
+  "id": "12672909-6f03-42b2-a58d-a664bcf72238",
+  "from": "0e7b0250-167d-443f-8bb7-fba20f709b54",
+  "to": "43fc6225-2526-4555-8128-80b38e2fbaf4",
+  "relation": "answers",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "7a402f8b-3b1f-45e0-b6bd-6942c2daab7a",
+        "locator": "section 1",
+        "quote": "The third mode, which is non-algorithmic, concerns metathought (intuition, intention and control)"
+      }
+    ]
+  }
+}

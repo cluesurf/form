@@ -1,0 +1,45 @@
+{
+  "record": "proposition",
+  "id": "2bebf675-9b58-4528-acd6-2a0a993384e9",
+  "kind": "philosophical",
+  "epistemic_status": "inferred",
+  "title": "Sen's hidden-variable model bears no relation to invariant set theory",
+  "statements": [
+    {
+      "id": "3269866b-55aa-4bb8-aa8b-944239af79d2",
+      "text": "Hance, Hossenfelder and Palmer reply that Sen's model lets experimenters control aspects of the hidden variables, which has no counterpart in invariant set theory, and drops its number-theoretic constraints on counterfactuals. His conclusions therefore do not apply to it.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "3269866b-55aa-4bb8-aa8b-944239af79d2",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "bf5ea4cf-57e5-4d17-8a1a-6ecb67eba71c",
+        "locator": "abstract",
+        "quote": "the hidden-variable model of quantum physics he uses to critique Invariant Set Theory bares no relation to Invariant Set Theory"
+      }
+    ]
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "record": "proposition",
+  "id": "031b806b-b250-47b9-8dd9-ee392e357996",
+  "kind": "philosophical",
+  "epistemic_status": "hypothesized",
+  "title": "Answer: every consciousness unit and every coherent combination, not stones or computers",
+  "statements": [
+    {
+      "id": "90300c87-e092-4133-b20d-a35915690192",
+      "text": "Every consciousness unit is a self, and so is every coherent combination of them. In the physical world only living organisms are known to host a unified self, while a stone or a computer is a juxtaposition of selves with no unified consciousness.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "90300c87-e092-4133-b20d-a35915690192",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "6fe53ccc-970a-4952-8f73-fed7c748e93b",
+        "locator": "section 'The Properties of the Consciousness Units'",
+        "quote": "A CU is a self, and so is any coherent combination of CUs."
+      },
+      {
+        "source": "6fe53ccc-970a-4952-8f73-fed7c748e93b",
+        "locator": "section 'Computers Cannot Be Conscious'",
+        "quote": "Only living organisms, as far as we know at present, possess the special material organization"
+      }
+    ]
+  }
+}

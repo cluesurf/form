@@ -1,0 +1,45 @@
+{
+  "record": "proposition",
+  "id": "bac2cf2a-6bff-4843-9b34-a74807c779f8",
+  "kind": "philosophical",
+  "epistemic_status": "hypothesized",
+  "title": "Answer: experience is basic, the mental pole of each event",
+  "statements": [
+    {
+      "id": "062cddba-7864-4f99-a3da-74be3446ceb5",
+      "text": "Experience is basic, not derived: it is the mental pole of each quantum event, the knowing that chooses a question and registers the answer, and it is not reducible to the physical line of causation.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "062cddba-7864-4f99-a3da-74be3446ceb5",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "de10839f-7550-4565-a920-4405a14753fe",
+        "locator": "section on the Heisenberg Choice",
+        "quote": "These two causal strands, one physical and one mental, join to form the physical and mental poles of a succeeding quantum event."
+      }
+    ]
+  }
+}

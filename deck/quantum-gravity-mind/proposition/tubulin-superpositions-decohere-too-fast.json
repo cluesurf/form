@@ -1,0 +1,45 @@
+{
+  "record": "proposition",
+  "id": "069e8703-7827-4c8b-aeec-a2a3cc16bfb3",
+  "kind": "empirical",
+  "epistemic_status": "inferred",
+  "title": "Tubulin superpositions decohere far too fast for the brain",
+  "statements": [
+    {
+      "id": "67872b0f-3bed-4619-81d2-51b8e53dac48",
+      "text": "Tegmark estimated the decoherence time of tubulin superpositions in the brain at less than $10^{-12}$ seconds, much too short against the millisecond scale of microtubule processes, an objection Zizzi takes up for the brain half of her picture.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "67872b0f-3bed-4619-81d2-51b8e53dac48",
+  "status": "active",
+  "voice": "critique",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "66f6d6e0-fd9b-4e6e-8f1a-7485cd5ccf94",
+        "locator": "section 1",
+        "quote": "Influential criticism of the possibility that quantum states can in fact survive long enough in the thermal environment of the brain has been raised by Tegmark"
+      }
+    ]
+  }
+}

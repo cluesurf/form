@@ -1,0 +1,45 @@
+{
+  "record": "proposition",
+  "id": "890fc38e-656f-4888-b8eb-7429fdf6a11e",
+  "kind": "mathematical",
+  "epistemic_status": "hypothesized",
+  "title": "The Mereon circuit is a topological eigenform",
+  "statements": [
+    {
+      "id": "18514eec-a2fd-4ae4-a9aa-d4bcf1d69c6f",
+      "text": "An eigenform is a fixed point of a recursive process, and the closed circuit from the Mereon System to the trefoil, the Poincaré homology sphere, the binary icosahedral group and the 600-cell back to the Mereon System is a topological eigenform: the system generates the structure whose properties regenerate the system.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "18514eec-a2fd-4ae4-a9aa-d4bcf1d69c6f",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "f588ef52-b78d-45f2-8849-d2dd74fb214e",
+        "locator": "page 3",
+        "quote": "An eigenform [20] is a fixed point of a recursive process: the system generates the structure whose properties regenerate the system"
+      }
+    ]
+  }
+}

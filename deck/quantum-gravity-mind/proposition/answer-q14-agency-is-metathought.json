@@ -1,0 +1,45 @@
+{
+  "record": "proposition",
+  "id": "0e7b0250-167d-443f-8bb7-fba20f709b54",
+  "kind": "philosophical",
+  "epistemic_status": "hypothesized",
+  "title": "Answer (agency): intention and control belong to non-algorithmic metathought",
+  "statements": [
+    {
+      "id": "45d6d3e9-65d0-4087-80ad-1fbe3cf1403d",
+      "text": "Intuition, intention and control belong to metathought, a Turing non-computable mode that controls ordinary thought, which a machine with only an object language cannot acquire.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "45d6d3e9-65d0-4087-80ad-1fbe3cf1403d",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "7a402f8b-3b1f-45e0-b6bd-6942c2daab7a",
+        "locator": "section 1",
+        "quote": "The third mode, which is non-algorithmic, concerns metathought (intuition, intention and control)"
+      }
+    ]
+  }
+}
