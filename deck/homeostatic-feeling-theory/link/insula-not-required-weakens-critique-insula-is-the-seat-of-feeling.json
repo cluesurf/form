@@ -1,0 +1,33 @@
+{
+  "record": "link",
+  "id": "69d846f6-3757-4508-9fde-81f02a3560f9",
+  "from": "09d655aa-f490-4059-8ef0-1065d8b7f684",
+  "to": "74b5a510-4c25-40f1-9332-ba44a1369fd4",
+  "relation": "weakens",
+  "strength": null,
+  "rationale": "Patients with both insulae destroyed remained sentient and self-aware.",
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "09ebe377-94c3-4761-9135-972135ed0c02",
+        "locator": "abstract, p. 1",
+        "quote": "The results suggest that the insular cortex, ACC and mPFC are not required for most aspects of SA."
+      },
+      {
+        "source": "09ebe377-94c3-4761-9135-972135ed0c02",
+        "locator": "discussion, p. 14",
+        "quote": "Thus the hypothesis that the insular cortex is essential for SA"
+      }
+    ]
+  }
+}

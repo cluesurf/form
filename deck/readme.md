@@ -24,7 +24,7 @@ visible. Standing comes from evidence or derivation, never a vote.
 | [`matter-as-machine/`](matter-as-machine/) | Matter as Machine | the author of matterasmachine.com |
 | [`orch-or/`](orch-or/) | Orchestrated Objective Reduction (Orch OR) | Roger Penrose, Stuart Hameroff |
 | [`predictive-processing/`](predictive-processing/) | Predictive Processing | Anil Seth |
-| [`present-state/`](present-state/) | Present-State Theory | Aneil Mallavarapu, Chris Percy |
+| [`present-state/`](present-state/) | Present State | Aneil Mallavarapu, Chris Percy |
 | [`qualia-formalism/`](qualia-formalism/) | Qualia Formalism | Qualia Research Institute |
 | [`quantum-observers/`](quantum-observers/) | Quantum Observers | Chris Fields |
 | [`vibe/`](vibe/) | Vibe Theory | Lance Pollard |
