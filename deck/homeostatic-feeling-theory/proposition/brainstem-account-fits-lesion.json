@@ -1,0 +1,50 @@
+{
+  "record": "proposition",
+  "id": "cfc091e3-ebd5-4eb3-844b-0ddeccd5a690",
+  "kind": "empirical",
+  "epistemic_status": "inferred",
+  "title": "The brainstem account of primordial feelings fits the lesion evidence",
+  "statements": [
+    {
+      "id": "5b6cd0c9-8393-4b40-af81-af44e8bca9c9",
+      "text": "The hypothesis that brainstem nuclei generate the primordial feelings of core self-awareness fits a patient with spared brainstem and preserved self-awareness, the long link between brainstem tegmentum damage and impaired consciousness, and core self-awareness in children born without a cortex.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "5b6cd0c9-8393-4b40-af81-af44e8bca9c9",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "09ebe377-94c3-4761-9135-972135ed0c02",
+        "locator": "discussion, p. 15",
+        "quote": "entirely compatible with our findings (as R does not have brainstem damage)"
+      },
+      {
+        "source": "09ebe377-94c3-4761-9135-972135ed0c02",
+        "locator": "discussion, p. 15",
+        "quote": "children who are missing their cortex due to hydranencephaly"
+      }
+    ]
+  }
+}

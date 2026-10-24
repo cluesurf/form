@@ -1,0 +1,44 @@
+{
+  "record": "observation",
+  "id": "ecf905f9-6688-491e-9f1e-4f80228ec869",
+  "kind": "experimental_result",
+  "epistemic_status": "observed",
+  "description": "Patient R, a 57-year-old man with herpes simplex encephalitis damage to the insula, anterior cingulate and medial prefrontal cortex on both sides, with brainstem, thalamus and posterior cortex largely spared, passed mirror and photo self-recognition, showed normal agency on tickle and judgment tasks, and held a stable self-concept, despite severe amnesia.",
+  "method": "experiment",
+  "status": "reported",
+  "source": "09ebe377-94c3-4761-9135-972135ed0c02",
+  "procedure": null,
+  "variable": null,
+  "value": null,
+  "unit": null,
+  "uncertainty": null,
+  "sample_size": 1,
+  "replication_count": null,
+  "quality": null,
+  "limitations": "A single patient tested decades after injury, so recovery of function cannot be excluded. Small abnormal islands of insula and cingulate tissue remain. Self-recognition fell to 50 percent with cropped face photos, and he was unaware of his loss of smell.",
+  "conflicts_of_interest": null,
+  "observed_at": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "09ebe377-94c3-4761-9135-972135ed0c02",
+        "locator": "abstract, p. 1",
+        "quote": "In spite of severe amnesia, which partially affected his"
+      },
+      {
+        "source": "09ebe377-94c3-4761-9135-972135ed0c02",
+        "locator": "discussion, p. 11",
+        "quote": "R is a conscious, self-aware, and sentient human being despite the widespread destruction of cortical regions"
+      }
+    ]
+  }
+}

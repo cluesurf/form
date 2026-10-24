@@ -1,0 +1,28 @@
+{
+  "record": "link",
+  "id": "df9d3b89-7963-4c31-ba34-04a38a4a78fd",
+  "from": "e2e22cd0-08fa-47cc-b055-2df9b34489f6",
+  "to": "7e45b792-69a6-4f73-a167-90a327c47cc9",
+  "relation": "requires",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "50c6cd60-7c34-401d-94cf-b40bb3c0b0c0",
+        "locator": "p. 23",
+        "quote": "it may be the case of this most challenging and profound problem actually being solved through the discovery of sufficiently powerful bridging principles"
+      }
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "record": "link",
+  "id": "ec8dc563-38f6-41d7-8722-0c67cdba63ef",
+  "from": "e7faf380-4450-4bf4-a619-47d9f2384703",
+  "to": "c548aed6-43a5-4b04-a9be-59d69f7774b5",
+  "relation": "supports",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "22bc1ba8-61ef-4a70-8ef8-b4d71f556c38",
+        "locator": "p. 8",
+        "quote": "Standage et al. (2020) observed that deeper sedation correlated with higher mean disjointedness, lower mean promiscuity, and lower mean cohesion strength"
+      }
+    ]
+  }
+}

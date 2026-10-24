@@ -1,0 +1,45 @@
+{
+  "record": "proposition",
+  "id": "fe2e7823-98d5-405a-9169-f6e1ec97f6bb",
+  "kind": "empirical",
+  "epistemic_status": "inferred",
+  "title": "Experiential blindness: sensation without sight",
+  "statements": [
+    {
+      "id": "57a73575-1893-447b-89b8-f37a654f06ed",
+      "text": "Experiential blindness is blindness despite something like normal visual sensation, from a lack of sensorimotor understanding. Noë finds it in adults whose congenital cataracts were removed and in people wearing inverting lenses, and takes it as evidence for the enactive approach.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "57a73575-1893-447b-89b8-f37a654f06ed",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "200872f4-0dc2-41db-803b-d7c44e919676",
+        "locator": "sect. 2, p. 3",
+        "quote": "because it is blindness despite the presence of something like normal visual sensation"
+      }
+    ]
+  }
+}

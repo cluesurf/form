@@ -1,0 +1,33 @@
+{
+  "record": "link",
+  "id": "2220dd30-e506-4542-8262-511da81969a3",
+  "from": "6d33cfcf-4179-4de8-951d-ccc4875854c5",
+  "to": "7cc3ca29-4012-40fa-8f51-d243e4c0fd7d",
+  "relation": "defines",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "50c6cd60-7c34-401d-94cf-b40bb3c0b0c0",
+        "locator": "p. 14",
+        "quote": "IWMT proposes a mechanism by which complexes of integrated information and global workspaces may emerge as metastable synchronous complexes of effective connectivity, or selforganizing harmonic modes (SOHMs)."
+      },
+      {
+        "source": "80b510af-b00e-42dc-b44a-9f53f168d6c3",
+        "locator": "p. 15",
+        "quote": "SOHMs represent a generalization of Selen Atasoy’s “connectome harmonics” approach to modelling neuroimaging data"
+      }
+    ]
+  }
+}

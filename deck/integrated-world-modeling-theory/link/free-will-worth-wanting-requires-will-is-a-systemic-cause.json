@@ -1,0 +1,38 @@
+{
+  "record": "link",
+  "id": "aa2a46b7-bc94-4915-9d8f-1d49fcd62846",
+  "from": "f2ac3af0-8cb2-41d5-bcf7-5dcd17a79b1d",
+  "to": "21e82526-9a3a-49d6-9198-a7b843ebaca8",
+  "relation": "requires",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "8699e341-cc2b-4813-84ce-48b789cbb6e6",
+        "locator": "p. 45",
+        "quote": "Perhaps in some cases, but probably not with respect to the"
+      },
+      {
+        "source": "15af77df-1de9-4757-9dd0-0188e8b1e289",
+        "locator": "section 4.3",
+        "quote": "debates regarding the ontological status of free will may not be definitively resolved in this manuscript"
+      },
+      {
+        "source": "8699e341-cc2b-4813-84ce-48b789cbb6e6",
+        "locator": "p. 45",
+        "quote": "Agency may usually be more like the relationship between conductor and an orchestra, where conductors are neither omnipotent nor mere epiphenomena."
+      }
+    ]
+  }
+}

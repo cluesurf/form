@@ -1,0 +1,28 @@
+{
+  "record": "link",
+  "id": "838cd348-2c04-4ed7-8305-86c2cce43a11",
+  "from": "4bf329d1-3737-4c2e-86ce-1c921f201c8b",
+  "to": "d81d5e6c-62b5-4255-a75c-ff74ffa9863c",
+  "relation": "requires",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "ff0acdf5-af27-4677-8f54-177d0de16944",
+        "locator": "4(b) the unique features of the vagus nerve system",
+        "quote": "Thus, the NTS serves as the first central hub for self-representation"
+      }
+    ]
+  }
+}

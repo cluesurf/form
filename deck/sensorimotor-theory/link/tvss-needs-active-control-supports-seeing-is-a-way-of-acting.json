@@ -1,0 +1,28 @@
+{
+  "record": "link",
+  "id": "df9dde28-7b70-4cdd-b616-2bd1ad595403",
+  "from": "a6e27ff0-100f-4269-84d1-c847bc3010fe",
+  "to": "e8c9d52a-cc6f-4c8b-a7b9-de976a38af05",
+  "relation": "supports",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "beab3628-e147-41bc-ac7c-a91b1887dd3f",
+        "locator": "sect. 5.14, p. 958",
+        "quote": "It was only when the observer was allowed to actively manipulate the camera that identification became possible"
+      }
+    ]
+  }
+}

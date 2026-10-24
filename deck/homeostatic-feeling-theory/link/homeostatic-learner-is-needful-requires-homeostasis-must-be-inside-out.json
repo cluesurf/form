@@ -1,0 +1,33 @@
+{
+  "record": "link",
+  "id": "2438bd78-1f5f-4a50-8bb8-d69bb8aecb1f",
+  "from": "aade0c29-4405-4fd2-af90-6ac1e687d072",
+  "to": "68a5c879-67c8-4520-bbfc-13f5e38b1de7",
+  "relation": "requires",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "76277d40-79d6-4151-8abb-15f4c02b739a",
+        "locator": "section 3, p. 2",
+        "quote": "it depends on the objects that it classifies for its continued integrity and functionality"
+      },
+      {
+        "source": "76277d40-79d6-4151-8abb-15f4c02b739a",
+        "locator": "section 3, p. 2",
+        "quote": "How would my own functionality be affected by taking or leaving this object?"
+      }
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "record": "link",
+  "id": "2f0d5f96-2fa5-4f6a-84b4-d8343984baf1",
+  "from": "4b671793-30ed-4ae2-af9a-d6c98a682a92",
+  "to": "7a863cef-ae6a-4c28-956e-73a40a2ca6f4",
+  "relation": "requires",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "beab3628-e147-41bc-ac7c-a91b1887dd3f",
+        "locator": "sect. 3.2, p. 945",
+        "quote": "is that the mastery of laws of sensorimotor contingency be exercised now"
+      }
+    ]
+  }
+}

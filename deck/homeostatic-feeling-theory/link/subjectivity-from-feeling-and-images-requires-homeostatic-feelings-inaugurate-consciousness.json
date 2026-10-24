@@ -1,0 +1,33 @@
+{
+  "record": "link",
+  "id": "2f74e919-fd53-4957-a3b7-68fc9645d13a",
+  "from": "88046b31-23d9-44f8-8699-bd612948d327",
+  "to": "9a3aecf3-7b12-46fe-a302-20d99f34cc64",
+  "relation": "requires",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "bffa9175-d8c1-47f1-8482-8bb416dc0078",
+        "locator": "section 2",
+        "quote": "This literally constitutes a subjective perspective, where the ‘subject’ is the felt/experienced organism."
+      },
+      {
+        "source": "bffa9175-d8c1-47f1-8482-8bb416dc0078",
+        "locator": "section 2",
+        "quote": "In all likelihood, this is the biological origin of the self process."
+      }
+    ]
+  }
+}

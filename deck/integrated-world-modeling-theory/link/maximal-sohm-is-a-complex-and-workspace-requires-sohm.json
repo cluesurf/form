@@ -1,0 +1,33 @@
+{
+  "record": "link",
+  "id": "f9854eb4-6673-4f00-a585-e9190640fb1c",
+  "from": "ad66259d-ce19-40ec-854b-c6269e4ada80",
+  "to": "6d33cfcf-4179-4de8-951d-ccc4875854c5",
+  "relation": "requires",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "50c6cd60-7c34-401d-94cf-b40bb3c0b0c0",
+        "locator": "p. 16",
+        "quote": "Maximal SOHMs may be coextensive with both maxima of integrated information (i.e., MICS) and global workspaces."
+      },
+      {
+        "source": "50c6cd60-7c34-401d-94cf-b40bb3c0b0c0",
+        "locator": "p. 15",
+        "quote": "the largest SOHM of a system would generate a joint posterior (or estimate derived thereof) over all smaller SOHMs contained within its scope"
+      }
+    ]
+  }
+}

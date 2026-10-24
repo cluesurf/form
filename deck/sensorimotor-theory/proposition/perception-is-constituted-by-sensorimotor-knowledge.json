@@ -1,0 +1,55 @@
+{
+  "record": "proposition",
+  "id": "f0259a64-d1b1-481d-b814-402d566f4e0e",
+  "kind": "philosophical",
+  "epistemic_status": "hypothesized",
+  "title": "The enactive approach: perceiving is constituted by sensorimotor knowledge",
+  "statements": [
+    {
+      "id": "c6ad32ae-42e7-4840-952c-f1c4eb83fe80",
+      "text": "Perceiving is a way of acting, something done rather than something that happens in the perceiver. The ability to perceive not only depends on but is constituted by possession of sensorimotor knowledge, and all perception is touch-like in this way.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "c6ad32ae-42e7-4840-952c-f1c4eb83fe80",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "200872f4-0dc2-41db-803b-d7c44e919676",
+        "locator": "sect. 1, p. 1",
+        "quote": "The main idea of this book is that perceiving is a way of acting."
+      },
+      {
+        "source": "200872f4-0dc2-41db-803b-d7c44e919676",
+        "locator": "sect. 1, p. 2",
+        "quote": "our ability to perceive not only depends on, but is constituted by, our possession of this sort of sensorimotor knowledge"
+      },
+      {
+        "source": "aa7ae3a1-8be1-42a1-a890-62c311531c59",
+        "locator": "ISBN 9780262140881",
+        "quote": null
+      }
+    ]
+  }
+}

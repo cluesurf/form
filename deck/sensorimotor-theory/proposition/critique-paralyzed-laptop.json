@@ -1,0 +1,45 @@
+{
+  "record": "proposition",
+  "id": "2412279d-585f-4c11-a4da-1eab27e1bacd",
+  "kind": "philosophical",
+  "epistemic_status": "inferred",
+  "title": "Critique: a laptop could share the contingencies of a blind paralyzed person",
+  "statements": [
+    {
+      "id": "02384dc4-cd6a-4d03-bdcf-f2f1cbcd46e8",
+      "text": "For a person both nearly blind and nearly paralyzed, visual sensorimotor contingencies are so reduced that they could be programmed into a laptop. The theory would then credit the laptop with that person’s experience, yet the person has experience and the laptop has none.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "02384dc4-cd6a-4d03-bdcf-f2f1cbcd46e8",
+  "status": "active",
+  "voice": "critique",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "17c2866c-1b2b-412b-93b2-193a0bd33f84",
+        "locator": "p. 978",
+        "quote": "O&N’s thesis would commit them to the claim that the laptop has experiences like those of the legally blind paralytic I mentioned."
+      }
+    ]
+  }
+}

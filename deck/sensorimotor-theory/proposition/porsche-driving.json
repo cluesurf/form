@@ -1,0 +1,45 @@
+{
+  "record": "proposition",
+  "id": "ef14167a-1eee-45c2-9153-cba9d0ae2f02",
+  "kind": "philosophical",
+  "epistemic_status": "hypothesized",
+  "title": "What it is like to drive a Porsche is mastery of its contingencies",
+  "statements": [
+    {
+      "id": "a6a8029c-a80f-487e-a590-69b12b745c06",
+      "text": "There is no momentary Porsche-driving sensation. What it is like to drive a Porsche is constituted by the ways the car responds to the driver and by the driver’s skillful mastery of these contingencies, and the raw feel of red is to be understood the same way.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "a6a8029c-a80f-487e-a590-69b12b745c06",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "beab3628-e147-41bc-ac7c-a91b1887dd3f",
+        "locator": "sect. 6.4, p. 961",
+        "quote": "What it is like to drive a Porsche is constituted by all these sensorimotor contingencies and by one’s skillful mastery of them"
+      }
+    ]
+  }
+}

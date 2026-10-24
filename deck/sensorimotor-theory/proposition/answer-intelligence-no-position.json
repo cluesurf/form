@@ -1,0 +1,45 @@
+{
+  "record": "proposition",
+  "id": "c79b15fa-d28d-4134-b7e0-bbb6256d8049",
+  "kind": "philosophical",
+  "epistemic_status": "inferred",
+  "title": "Answer: takes no position on intelligence",
+  "statements": [
+    {
+      "id": "5a7cd581-97e8-4209-830c-9f830b7eb66f",
+      "text": "The theory takes no position on what intelligence is. It requires only that awareness draw on capacities for thought, planning and action guidance.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "5a7cd581-97e8-4209-830c-9f830b7eb66f",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "beab3628-e147-41bc-ac7c-a91b1887dd3f",
+        "locator": "sect. 2.6, p. 944",
+        "quote": "it must make use of this exercise for the purposes of thought and planning"
+      }
+    ]
+  }
+}

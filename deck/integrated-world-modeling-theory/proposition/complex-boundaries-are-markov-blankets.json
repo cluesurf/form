@@ -1,0 +1,50 @@
+{
+  "record": "proposition",
+  "id": "ae13ef85-5dd2-4d81-be44-2c0099b78153",
+  "kind": "philosophical",
+  "epistemic_status": "inferred",
+  "title": "The boundaries of IIT's complexes are Markov blankets",
+  "statements": [
+    {
+      "id": "e16565dd-4d05-4039-8b74-2d84ff0e821e",
+      "text": "The boundaries of IIT's maximal complexes are also Markov blankets. Complexes of integrated information are Markov-blanket-bound networks of effective connectivity with high marginal likelihood and capacity for self-evidencing, which ties IIT's intrinsic information to information about the outside world.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "e16565dd-4d05-4039-8b74-2d84ff0e821e",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "50c6cd60-7c34-401d-94cf-b40bb3c0b0c0",
+        "locator": "p. 9",
+        "quote": "With respect to IIT, the boundaries of maximal complexes (entailing maximally irreducible cause-effect structures) would also constitute MBs."
+      },
+      {
+        "source": "8d07ed5d-834a-43e4-a171-b416b2039125",
+        "locator": "p. 3",
+        "quote": "complexes of integrated information (as irreducible self-cause-effect power) are also Markov-blanket-bound networks of effective connectivity"
+      }
+    ]
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "record": "link",
+  "id": "d8aa709d-cc0b-40d4-9103-9ab334a0676a",
+  "from": "fdb0c8d3-2644-4b88-8b70-6f5c1c544668",
+  "to": "668881bc-499d-480c-8a15-50a1f49501f2",
+  "relation": "explains",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "50c6cd60-7c34-401d-94cf-b40bb3c0b0c0",
+        "locator": "abstract, p. 2",
+        "quote": "with alpha frequencies generating basic awareness, and cross-frequency phase-coupling within theta frequencies for access consciousness and volitional control"
+      },
+      {
+        "source": "50c6cd60-7c34-401d-94cf-b40bb3c0b0c0",
+        "locator": "p. 16",
+        "quote": "Nesting of these alpha rhythms within theta frequencies may further allow for coupling with the frontal lobes and hippocampal complex"
+      }
+    ]
+  }
+}

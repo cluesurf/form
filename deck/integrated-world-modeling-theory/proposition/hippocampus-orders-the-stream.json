@@ -1,0 +1,50 @@
+{
+  "record": "proposition",
+  "id": "3beae321-8e43-4b9b-99ab-8136a44e2f2c",
+  "kind": "empirical",
+  "epistemic_status": "hypothesized",
+  "title": "The hippocampal and entorhinal system orders experience in space and time",
+  "statements": [
+    {
+      "id": "ebd36362-8205-4860-b9a9-404ab3eaabbc",
+      "text": "Samples from cortical latent spaces become a coherent stream when they are orchestrated along the spatiotemporal trajectories of the entorhinal and hippocampal system, which affords episodic memory, imagination and planning. Safron and colleagues extend this to all cognition as navigation through spatialized representations.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "ebd36362-8205-4860-b9a9-404ab3eaabbc",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "8d07ed5d-834a-43e4-a171-b416b2039125",
+        "locator": "p. 5",
+        "quote": "If these samples are sequentially orchestrated according to spatiotemporal trajectories of the entorhinal/hippocampal system [56], this may generate a coherent stream of experience."
+      },
+      {
+        "source": "d91197e3-f013-4585-a3f6-daf659bdd833",
+        "locator": "p. 2",
+        "quote": "We propose that all cognition and goal-oriented behavior (broadly construed to include mental actions) is based on navigation through spatialized (re-)representations"
+      }
+    ]
+  }
+}

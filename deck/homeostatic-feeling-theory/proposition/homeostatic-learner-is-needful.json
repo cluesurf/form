@@ -1,0 +1,50 @@
+{
+  "record": "proposition",
+  "id": "aade0c29-4405-4fd2-af90-6ac1e687d072",
+  "kind": "empirical",
+  "epistemic_status": "designed",
+  "title": "A homeostatic learner depends on what it classifies",
+  "statements": [
+    {
+      "id": "6c58c262-f8ed-431b-9f7e-914714f0820c",
+      "text": "In the homeostatic network, the objects a classifier recognizes act on its own learning rate, some excitatory and some inhibitory. After classifying an object, the learner simulates both taking and rejecting it and chooses the one that better preserves its functioning, so misperception destabilizes it.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "6c58c262-f8ed-431b-9f7e-914714f0820c",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "76277d40-79d6-4151-8abb-15f4c02b739a",
+        "locator": "section 3, p. 2",
+        "quote": "it depends on the objects that it classifies for its continued integrity and functionality"
+      },
+      {
+        "source": "76277d40-79d6-4151-8abb-15f4c02b739a",
+        "locator": "section 3, p. 2",
+        "quote": "How would my own functionality be affected by taking or leaving this object?"
+      }
+    ]
+  }
+}

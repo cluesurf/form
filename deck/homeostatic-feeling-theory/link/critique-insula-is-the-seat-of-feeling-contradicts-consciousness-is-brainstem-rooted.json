@@ -1,0 +1,33 @@
+{
+  "record": "link",
+  "id": "c0b6bfc7-7987-41cf-be30-3be9f7e136b0",
+  "from": "74b5a510-4c25-40f1-9332-ba44a1369fd4",
+  "to": "5a91500b-7405-4c75-8730-cbd18924aab2",
+  "relation": "contradicts",
+  "strength": null,
+  "rationale": "If the insula is the critical substrate of interoceptive awareness, feeling is cortical rather than rooted in the brainstem.",
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "09ebe377-94c3-4761-9135-972135ed0c02",
+        "locator": "introduction, p. 2",
+        "quote": "The insular cortex has been proposed as the critical substrate underlying SA in humans, necessary for interoceptive awareness"
+      },
+      {
+        "source": "ff0acdf5-af27-4677-8f54-177d0de16944",
+        "locator": "4(b) the unique features of the vagus nerve system",
+        "quote": "prevailing views that attribute consciousness to the activity of higher-order cortical regions, notably the insula"
+      }
+    ]
+  }
+}

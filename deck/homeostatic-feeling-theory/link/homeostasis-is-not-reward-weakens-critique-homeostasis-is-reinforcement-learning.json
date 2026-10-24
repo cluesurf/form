@@ -1,0 +1,33 @@
+{
+  "record": "link",
+  "id": "61157008-42b9-433e-ba82-4e375c90eeef",
+  "from": "9dd54a85-dfc2-47af-9245-3d206b4844e4",
+  "to": "0c19e45c-cfa3-4f7a-8ba6-93d9ee9142ea",
+  "relation": "weakens",
+  "strength": null,
+  "rationale": "The target is internal well-being that controls the capacity to decide, not an arbitrary external reward.",
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "76277d40-79d6-4151-8abb-15f4c02b739a",
+        "locator": "discussion, p. 5",
+        "quote": "The object of the game is simply to keep playing the game."
+      },
+      {
+        "source": "76277d40-79d6-4151-8abb-15f4c02b739a",
+        "locator": "discussion, p. 5",
+        "quote": "we argue that they should not be identified as the same"
+      }
+    ]
+  }
+}

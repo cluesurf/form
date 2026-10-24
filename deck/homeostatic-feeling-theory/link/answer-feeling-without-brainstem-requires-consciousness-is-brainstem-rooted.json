@@ -1,0 +1,28 @@
+{
+  "record": "link",
+  "id": "d9a3897d-ea63-4696-a502-00fab04a392b",
+  "from": "1ef09f0b-1b72-4a9b-8701-48b26732e8e2",
+  "to": "5a91500b-7405-4c75-8730-cbd18924aab2",
+  "relation": "requires",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "09ebe377-94c3-4761-9135-972135ed0c02",
+        "locator": "introduction, p. 2",
+        "quote": "if these structures are not critical, R should show largely preserved SA"
+      }
+    ]
+  }
+}

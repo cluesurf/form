@@ -1,0 +1,50 @@
+{
+  "record": "proposition",
+  "id": "cb3eb7f3-03df-4514-8c36-c32165d7ec58",
+  "kind": "philosophical",
+  "epistemic_status": "inferred",
+  "title": "Critique: the theory is a kind of behaviorism",
+  "statements": [
+    {
+      "id": "4415e6bf-e417-42e9-a5fb-6a2823bf0747",
+      "text": "Ned Block argues that a major strand of the view is a nonstandard behaviorism, since sensorimotor contingencies are input-output relations, while experience is a matter of what mediates between input and output.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "4415e6bf-e417-42e9-a5fb-6a2823bf0747",
+  "status": "active",
+  "voice": "critique",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "17c2866c-1b2b-412b-93b2-193a0bd33f84",
+        "locator": "p. 977",
+        "quote": "A major strand of O’Regan & Noë’s view turns out to be a type of behaviorism"
+      },
+      {
+        "source": "17c2866c-1b2b-412b-93b2-193a0bd33f84",
+        "locator": "p. 977",
+        "quote": "experience is a matter of what mediates between input and output, not input-output relations all by themselves"
+      }
+    ]
+  }
+}

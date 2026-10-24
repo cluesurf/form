@@ -1,0 +1,50 @@
+{
+  "record": "proposition",
+  "id": "b4b880f9-b917-4fb0-83c0-d8161ea0c121",
+  "kind": "philosophical",
+  "epistemic_status": "hypothesized",
+  "title": "There is no explanatory gap",
+  "statements": [
+    {
+      "id": "6199863f-944d-4992-8e0e-69f6d755f372",
+      "text": "There is no explanatory gap because nothing answers to the theorist’s notion of qualia. What needs a neural explanation is the basis of the component skills drawn on in perceiving, not a unitary felt quality.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "6199863f-944d-4992-8e0e-69f6d755f372",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "beab3628-e147-41bc-ac7c-a91b1887dd3f",
+        "locator": "sect. 6.8, p. 962",
+        "quote": "there is no explanatory gap because there is nothing answering to the theorist’s notion of qualia"
+      },
+      {
+        "source": "beab3628-e147-41bc-ac7c-a91b1887dd3f",
+        "locator": "sect. 6.8, p. 962",
+        "quote": "What does need to be explained is the physical (neural) basis of the various component skills"
+      }
+    ]
+  }
+}

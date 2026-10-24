@@ -1,0 +1,55 @@
+{
+  "record": "proposition",
+  "id": "f2ac3af0-8cb2-41d5-bcf7-5dcd17a79b1d",
+  "kind": "philosophical",
+  "epistemic_status": "inferred",
+  "title": "The free will worth wanting survives Libet",
+  "statements": [
+    {
+      "id": "80dd1503-a64a-4bee-99fb-2a87bc21825a",
+      "text": "Reports that the urge to act follows predictive motor activity can be explained by effective connectivity with a largely unconscious inner network. Free will may be an illusion in some cases but not for the varieties worth wanting, since most actions unfold within conscious planning, and agency is like a conductor with an orchestra, neither omnipotent nor epiphenomenal.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "80dd1503-a64a-4bee-99fb-2a87bc21825a",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "8699e341-cc2b-4813-84ce-48b789cbb6e6",
+        "locator": "p. 45",
+        "quote": "Perhaps in some cases, but probably not with respect to the"
+      },
+      {
+        "source": "15af77df-1de9-4757-9dd0-0188e8b1e289",
+        "locator": "section 4.3",
+        "quote": "debates regarding the ontological status of free will may not be definitively resolved in this manuscript"
+      },
+      {
+        "source": "8699e341-cc2b-4813-84ce-48b789cbb6e6",
+        "locator": "p. 45",
+        "quote": "Agency may usually be more like the relationship between conductor and an orchestra, where conductors are neither omnipotent nor mere epiphenomena."
+      }
+    ]
+  }
+}

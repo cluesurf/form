@@ -1,0 +1,33 @@
+{
+  "record": "link",
+  "id": "1070dcf8-9649-4bb2-b246-f1356dfbca24",
+  "from": "64337ff3-6ba9-4661-a2e5-296dea8a3a6b",
+  "to": "0ee322b1-6fe7-4ec5-ab18-9b9a5773916a",
+  "relation": "requires",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "696097b2-3865-4f12-a2da-befbbbaa9278",
+        "locator": "R5, p. 1015",
+        "quote": "providing that the person had at some time previously had some kind of control over her visual input"
+      },
+      {
+        "source": "0110ec01-78ff-40a3-acaa-8bc345947fe4",
+        "locator": "p. 147",
+        "quote": "sensorimotor view predicts deference and an intermodal change in qualitative expression of somatosensory cortex in this case"
+      }
+    ]
+  }
+}

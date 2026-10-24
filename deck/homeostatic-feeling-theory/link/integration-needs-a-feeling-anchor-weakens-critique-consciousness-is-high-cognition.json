@@ -1,0 +1,28 @@
+{
+  "record": "link",
+  "id": "e9b88641-81b6-456b-908a-af71fa0c67bd",
+  "from": "ac9b06d0-c6b9-47b6-805c-679d1a07f3ed",
+  "to": "ada235ba-27dc-4b79-816d-e604b0fee57e",
+  "relation": "weakens",
+  "strength": null,
+  "rationale": "Integration describes the structure of rich states but supplies no subject without a feeling anchor.",
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "ff0acdf5-af27-4677-8f54-177d0de16944",
+        "locator": "section 6, contrast with other theories of consciousness",
+        "quote": "we believe that even highly integrated systems require a unifying representational anchor"
+      }
+    ]
+  }
+}

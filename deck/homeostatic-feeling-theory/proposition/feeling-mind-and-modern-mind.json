@@ -1,0 +1,50 @@
+{
+  "record": "proposition",
+  "id": "ba84d7c1-a1bb-45e9-9b41-890651ba31ff",
+  "kind": "definitional",
+  "epistemic_status": "designed",
+  "title": "The feeling mind and the modern mind",
+  "statements": [
+    {
+      "id": "af7e86ca-8339-4253-8b3c-44068f58855e",
+      "text": "The conscious mind has a homeostatic component, the feeling mind, which continuously represents the state of life inside the organism, and a modern mind of later evolutionary vintage, made of exteroception, proprioception, reflection and their linguistic translation.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "af7e86ca-8339-4253-8b3c-44068f58855e",
+  "status": "active",
+  "voice": "framework",
+  "defines": "feeling mind",
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "ff0acdf5-af27-4677-8f54-177d0de16944",
+        "locator": "section 1, introduction",
+        "quote": "The homoeostatic component of the conscious mind constitutes a feeling mind."
+      },
+      {
+        "source": "ff0acdf5-af27-4677-8f54-177d0de16944",
+        "locator": "section 1, introduction",
+        "quote": "we have proposed to call this latter process the modern mind because of its later evolutionary vintage"
+      }
+    ]
+  }
+}

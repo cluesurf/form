@@ -1,0 +1,33 @@
+{
+  "record": "link",
+  "id": "68fe7c53-36cb-41fc-a238-c8a170ac08a7",
+  "from": "9dd54a85-dfc2-47af-9245-3d206b4844e4",
+  "to": "aade0c29-4405-4fd2-af90-6ac1e687d072",
+  "relation": "requires",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "76277d40-79d6-4151-8abb-15f4c02b739a",
+        "locator": "discussion, p. 5",
+        "quote": "The object of the game is simply to keep playing the game."
+      },
+      {
+        "source": "76277d40-79d6-4151-8abb-15f4c02b739a",
+        "locator": "discussion, p. 5",
+        "quote": "we argue that they should not be identified as the same"
+      }
+    ]
+  }
+}

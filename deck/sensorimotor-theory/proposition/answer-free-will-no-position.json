@@ -1,0 +1,45 @@
+{
+  "record": "proposition",
+  "id": "cbea29a4-a60c-408e-a361-5b4e7ec01a05",
+  "kind": "philosophical",
+  "epistemic_status": "inferred",
+  "title": "Answer: takes no position on free will",
+  "statements": [
+    {
+      "id": "b719bd42-f160-43c3-877d-c3728040dcf4",
+      "text": "The theory takes no position on free will. Voluntary control appears in O’Regan’s later work only as a fact used to explain the locus and presence of experience.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "b719bd42-f160-43c3-877d-c3728040dcf4",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "f1b28b4d-1f61-46c5-b98a-5f7d08f2b520",
+        "locator": "abstract, p. 1",
+        "quote": "can be identified with the degree to which we can voluntarily control what we are doing"
+      }
+    ]
+  }
+}

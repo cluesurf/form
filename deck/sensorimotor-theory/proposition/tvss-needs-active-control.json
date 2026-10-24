@@ -1,0 +1,45 @@
+{
+  "record": "proposition",
+  "id": "a6e27ff0-100f-4269-84d1-c847bc3010fe",
+  "kind": "empirical",
+  "epistemic_status": "observed",
+  "title": "Tactile visual substitution worked only when users moved the camera",
+  "statements": [
+    {
+      "id": "24f90e19-9f7d-4995-9ce8-65702bce2998",
+      "text": "Blind users of a tactile visual substitution system could not identify objects in front of a fixed camera. Identification, and the experience of objects as located outside the body, came only when they could manipulate the camera themselves.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "24f90e19-9f7d-4995-9ce8-65702bce2998",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "beab3628-e147-41bc-ac7c-a91b1887dd3f",
+        "locator": "sect. 5.14, p. 958",
+        "quote": "It was only when the observer was allowed to actively manipulate the camera that identification became possible"
+      }
+    ]
+  }
+}

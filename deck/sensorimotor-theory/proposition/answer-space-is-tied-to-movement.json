@@ -1,0 +1,45 @@
+{
+  "record": "proposition",
+  "id": "a082055a-fd36-403d-b012-09ba9fc4784b",
+  "kind": "philosophical",
+  "epistemic_status": "hypothesized",
+  "title": "Answer: perceived space is tied to the laws of sensorimotor contingency",
+  "statements": [
+    {
+      "id": "b06f47ca-1704-4d12-a73f-b0060a3c7154",
+      "text": "The theory gives no account of physical space. A perceiver’s conception of space is tied to the laws of sensorimotor contingency, in the spirit of Poincaré’s view that to localize an object is to represent the movements needed to reach it.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "b06f47ca-1704-4d12-a73f-b0060a3c7154",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "beab3628-e147-41bc-ac7c-a91b1887dd3f",
+        "locator": "sect. 2.2, p. 942",
+        "quote": "the observer’s conception of space in general will also have strong links to the laws of sensorimotor contingency"
+      }
+    ]
+  }
+}

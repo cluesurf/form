@@ -1,0 +1,45 @@
+{
+  "record": "proposition",
+  "id": "8d10af60-1b70-4b52-a832-4b70d91c54b5",
+  "kind": "definitional",
+  "epistemic_status": "designed",
+  "title": "Cortical dominance and cortical deference",
+  "statements": [
+    {
+      "id": "6dd147cc-add9-485d-b615-3787b7e5d7b5",
+      "text": "When input is rerouted to a nonstandard cortical target, cortical dominance means the qualitative expression of the area stays the same, as when stroking the face is felt in a phantom arm. Cortical deference means the area takes on the character of its new source of input.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "6dd147cc-add9-485d-b615-3787b7e5d7b5",
+  "status": "active",
+  "voice": "framework",
+  "defines": "cortical deference",
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "0110ec01-78ff-40a3-acaa-8bc345947fe4",
+        "locator": "abstract, p. 131",
+        "quote": "cortical activity ‘defers’ to the nonstandard sources of input"
+      }
+    ]
+  }
+}

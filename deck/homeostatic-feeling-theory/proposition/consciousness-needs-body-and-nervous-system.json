@@ -1,0 +1,50 @@
+{
+  "record": "proposition",
+  "id": "07808012-1a8e-475e-b656-2731f32276fa",
+  "kind": "philosophical",
+  "epistemic_status": "hypothesized",
+  "title": "Consciousness arises with the nervous system, not from it alone",
+  "statements": [
+    {
+      "id": "8e5efe22-2924-4ba5-b7ad-ffa940a0ab19",
+      "text": "Consciousness arises in organisms with nervous systems but not from the nervous system alone. It results from the comingling of the body's visceral interior with its nervous system, a partnership between the interoceptive sector and the non-neural interior that runs the life process.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "8e5efe22-2924-4ba5-b7ad-ffa940a0ab19",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "bffa9175-d8c1-47f1-8482-8bb416dc0078",
+        "locator": "section 2",
+        "quote": "consciousness arises in organisms endowed with nervous systems but not from the nervous system alone"
+      },
+      {
+        "source": "bffa9175-d8c1-47f1-8482-8bb416dc0078",
+        "locator": "section 2",
+        "quote": "Consciousness is the result of a co-mingling between a body's visceral interior and its nervous system."
+      }
+    ]
+  }
+}

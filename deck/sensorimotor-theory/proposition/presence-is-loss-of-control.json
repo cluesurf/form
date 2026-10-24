@@ -1,0 +1,45 @@
+{
+  "record": "proposition",
+  "id": "d50cb30c-3c51-4bec-ab58-1e1a6452123a",
+  "kind": "philosophical",
+  "epistemic_status": "hypothesized",
+  "title": "Perceptual presence is the way sensory events can take over control",
+  "statements": [
+    {
+      "id": "3fd14e11-2528-40e1-b9be-b1ae2a64a6df",
+      "text": "How present an experience seems, its imposingness, can be identified with the degree and way in which sensory events, through innate attention-grabbing mechanisms, make the perceiver lose control of the exploratory activity that experiencing consists in.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "3fd14e11-2528-40e1-b9be-b1ae2a64a6df",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "f1b28b4d-1f61-46c5-b98a-5f7d08f2b520",
+        "locator": "p. 2",
+        "quote": "can be identified with the degree and way in which sensory events can make us lose control of the exploratory activity that constitutes experiencing"
+      }
+    ]
+  }
+}

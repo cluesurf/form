@@ -1,0 +1,45 @@
+{
+  "record": "proposition",
+  "id": "869f0040-2987-4a00-aac0-afab66197e7d",
+  "kind": "philosophical",
+  "epistemic_status": "hypothesized",
+  "title": "Skepticism about phenomenal consciousness as Block and Chalmers define it",
+  "statements": [
+    {
+      "id": "9e444ce8-6140-42ef-96c3-da5bcfcd54c4",
+      "text": "The authors are skeptics about phenomenal consciousness understood as an intrinsically qualitative, non-functional state distinct from awareness, as in the distinctions drawn by Block and Chalmers.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "9e444ce8-6140-42ef-96c3-da5bcfcd54c4",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "beab3628-e147-41bc-ac7c-a91b1887dd3f",
+        "locator": "sect. 7.1, p. 963",
+        "quote": "We are skeptics about phenomenal consciousness understood the way Block and Chalmers understand it."
+      }
+    ]
+  }
+}

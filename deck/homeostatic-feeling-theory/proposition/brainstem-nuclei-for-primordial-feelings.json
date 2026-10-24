@@ -1,0 +1,55 @@
+{
+  "record": "proposition",
+  "id": "688b253e-3d17-4b9a-b9ec-88e0d34da6c2",
+  "kind": "empirical",
+  "epistemic_status": "hypothesized",
+  "title": "Specific brainstem nuclei generate primordial feelings",
+  "statements": [
+    {
+      "id": "0c7b68f4-4ac4-45b5-9075-71c41832329b",
+      "text": "A set of brainstem nuclei, the nucleus tractus solitarius, the parabrachial nucleus and the nuclei of the periaqueductal gray, is the proposed basis for the primordial feelings of the living body. These are not the nuclei of the ascending reticular activating system, which serve wakefulness and attention.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "0c7b68f4-4ac4-45b5-9075-71c41832329b",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "09ebe377-94c3-4761-9135-972135ed0c02",
+        "locator": "introduction, p. 2",
+        "quote": "a specific set of nuclei in the brainstem, including the nucleus tractus solitarius, parabrachial nucleus, and the nuclei that compose the periacquaductal gray, has been hypothesized as the neural basis for the"
+      },
+      {
+        "source": "09ebe377-94c3-4761-9135-972135ed0c02",
+        "locator": "introduction, p. 2",
+        "quote": "these nuclei are not those belonging to the ascending reticular activating system"
+      },
+      {
+        "source": "143e5438-a525-48d8-87ba-f9c7ea20db78",
+        "locator": "cited in Philippi et al. 2012",
+        "quote": null
+      }
+    ]
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "record": "link",
+  "id": "f02b3f30-4ad7-4f30-ab3c-12d497c0afd8",
+  "from": "117d48f1-f7ff-4835-be7b-9570f3b98304",
+  "to": "f1b11df4-790c-4e9c-85f7-fae6dbe37942",
+  "relation": "specializes",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "50c6cd60-7c34-401d-94cf-b40bb3c0b0c0",
+        "locator": "p. 7",
+        "quote": "In addition to space, time, and cause, IWMT adds embodied autonomous selfhood as a precondition for integrated world modeling."
+      },
+      {
+        "source": "50c6cd60-7c34-401d-94cf-b40bb3c0b0c0",
+        "locator": "p. 7",
+        "quote": "workspace dynamics must be grounded in models of autonomous embodiment"
+      }
+    ]
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "record": "link",
+  "id": "c1af54ca-75bd-4dca-97b7-a58317f14b9f",
+  "from": "90527939-edab-4383-9215-62facc05866e",
+  "to": "a0635d26-f2d8-4806-8316-ba4b57825f6c",
+  "relation": "requires",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "0c9451e4-1b48-4f2a-854e-0e6e812392cc",
+        "locator": "abstract, p. 461",
+        "quote": "created by the immediate availability of the information in this external store"
+      },
+      {
+        "source": "beab3628-e147-41bc-ac7c-a91b1887dd3f",
+        "locator": "sect. 4.2, p. 947",
+        "quote": "you will always have the impression of consciously seeing everything, since everything you check on, you see"
+      }
+    ]
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "record": "proposition",
+  "id": "9257883d-bba7-435d-a137-0660f22c2b0f",
+  "kind": "philosophical",
+  "epistemic_status": "inferred",
+  "title": "Cellular intelligence produces no explicit images",
+  "statements": [
+    {
+      "id": "a431ff0d-b769-45b9-b8a8-b20a65fbbc1f",
+      "text": "Nothing in the cellular account of intelligent life produces the explicit representations or images that feeling and consciousness need, so cellular sensing is not sentience.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "a431ff0d-b769-45b9-b8a8-b20a65fbbc1f",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "bffa9175-d8c1-47f1-8482-8bb416dc0078",
+        "locator": "section 1",
+        "quote": "might produce the explicit representation/images that we regard as essential for the processes of feeling and consciousness"
+      }
+    ]
+  }
+}

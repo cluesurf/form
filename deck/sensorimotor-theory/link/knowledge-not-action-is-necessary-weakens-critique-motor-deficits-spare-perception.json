@@ -1,0 +1,33 @@
+{
+  "record": "link",
+  "id": "f27a6a7f-5a83-4c68-99b7-95bbac3b473f",
+  "from": "f4a96970-fe47-4ca6-bd44-6b5c021eb52c",
+  "to": "c7250e3a-7780-47dc-a7ac-dd17b6988285",
+  "relation": "weakens",
+  "strength": null,
+  "rationale": "Earlier control over input is enough for a paralyzed person to see.",
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "696097b2-3865-4f12-a2da-befbbbaa9278",
+        "locator": "R5, p. 1015",
+        "quote": "It is not our claim that action is necessary for experiencing."
+      },
+      {
+        "source": "696097b2-3865-4f12-a2da-befbbbaa9278",
+        "locator": "R5, p. 1015",
+        "quote": "providing that the person had at some time previously had some kind of control over her visual input"
+      }
+    ]
+  }
+}

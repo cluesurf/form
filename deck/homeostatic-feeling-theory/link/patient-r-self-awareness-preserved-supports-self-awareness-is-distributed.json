@@ -1,0 +1,33 @@
+{
+  "record": "link",
+  "id": "9630fa79-dcf4-43c6-9251-dff2bd933ad3",
+  "from": "ecf905f9-6688-491e-9f1e-4f80228ec869",
+  "to": "67dbec24-22a0-44ab-b8ec-3a402ce3d04e",
+  "relation": "supports",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "09ebe377-94c3-4761-9135-972135ed0c02",
+        "locator": "abstract, p. 1",
+        "quote": "In spite of severe amnesia, which partially affected his"
+      },
+      {
+        "source": "09ebe377-94c3-4761-9135-972135ed0c02",
+        "locator": "discussion, p. 11",
+        "quote": "R is a conscious, self-aware, and sentient human being despite the widespread destruction of cortical regions"
+      }
+    ]
+  }
+}

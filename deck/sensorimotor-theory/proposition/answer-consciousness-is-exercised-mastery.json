@@ -1,0 +1,45 @@
+{
+  "record": "proposition",
+  "id": "b7e33079-39eb-44e6-8963-339b29671e28",
+  "kind": "philosophical",
+  "epistemic_status": "hypothesized",
+  "title": "Answer: consciousness of a feature is mastery exercised and used in thought",
+  "statements": [
+    {
+      "id": "4c89845e-cfdb-46d9-9bdc-e19ab92f9f87",
+      "text": "To be conscious of a feature is to exercise practical knowledge of the relevant sensorimotor contingencies and to integrate that exercise into planning, reasoning and speech. Consciousness in general is the higher-order capacity to do so.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "4c89845e-cfdb-46d9-9bdc-e19ab92f9f87",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "beab3628-e147-41bc-ac7c-a91b1887dd3f",
+        "locator": "sect. 6.9, p. 963",
+        "quote": "To be aware of a feature is to exercise one’s practical knowledge of the relevant sensorimotor contingencies."
+      }
+    ]
+  }
+}

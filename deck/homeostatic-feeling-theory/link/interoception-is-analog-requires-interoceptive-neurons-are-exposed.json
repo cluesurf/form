@@ -1,0 +1,33 @@
+{
+  "record": "link",
+  "id": "806eb81a-7b99-4722-bdaf-11f38e412222",
+  "from": "931503c6-8254-4f1c-b87c-bb66db950a28",
+  "to": "95b17338-6785-4a4a-8a4c-2f98c660201b",
+  "relation": "requires",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "ff0acdf5-af27-4677-8f54-177d0de16944",
+        "locator": "abstract",
+        "quote": "While interoception relies mainly on analogue-like processing, the other systems favour digital-like signalling."
+      },
+      {
+        "source": "ff0acdf5-af27-4677-8f54-177d0de16944",
+        "locator": "section 3",
+        "quote": "The slow and continuous integration of information over time in the interoceptive system depends on analogue signalling."
+      }
+    ]
+  }
+}

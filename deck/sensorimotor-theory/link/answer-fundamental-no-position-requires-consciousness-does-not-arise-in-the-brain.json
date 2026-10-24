@@ -1,0 +1,28 @@
+{
+  "record": "link",
+  "id": "2836efd2-4183-4b0f-a752-879ac49341f9",
+  "from": "ba414600-c203-4eaa-92c3-34b608dbe17d",
+  "to": "64f693b2-1a78-478a-a23f-7093ab3be5d8",
+  "relation": "requires",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "beab3628-e147-41bc-ac7c-a91b1887dd3f",
+        "locator": "sect. 9, p. 970",
+        "quote": "Visual consciousness is not a special kind of brain state, or a special quality of informational states of the brain."
+      }
+    ]
+  }
+}

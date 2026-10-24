@@ -1,0 +1,28 @@
+{
+  "record": "link",
+  "id": "5cb00fd2-fab1-4288-b6f7-9ba5906b5ea9",
+  "from": "f75c9e6e-246a-4c8b-8355-26d6ee89ae64",
+  "to": "22824dc0-f658-4713-ba74-748beb69f5de",
+  "relation": "specializes",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "beab3628-e147-41bc-ac7c-a91b1887dd3f",
+        "locator": "sect. 2.3, p. 943",
+        "quote": "can thus be considered to be a fundamental, underlying aspect of visual sensation"
+      }
+    ]
+  }
+}

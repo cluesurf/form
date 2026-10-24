@@ -1,0 +1,50 @@
+{
+  "record": "proposition",
+  "id": "95b17338-6785-4a4a-8a4c-2f98c660201b",
+  "kind": "empirical",
+  "epistemic_status": "observed",
+  "title": "Interoceptive axons are unmyelinated or lightly myelinated",
+  "statements": [
+    {
+      "id": "b4af99eb-4d18-460c-bf1e-e7cffeeb0be6",
+      "text": "Interoceptive neurons are of an old evolutionary vintage. Their axons are poorly myelinated or not myelinated, so they are poorly insulated, slow, and open to molecules in their surround. In mammals around 80 percent of vagal fibers are unmyelinated.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "b4af99eb-4d18-460c-bf1e-e7cffeeb0be6",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "bffa9175-d8c1-47f1-8482-8bb416dc0078",
+        "locator": "section 3",
+        "quote": "their axons are poorly myelinated or not myelinated at all, which means that they are poorly insulated"
+      },
+      {
+        "source": "ff0acdf5-af27-4677-8f54-177d0de16944",
+        "locator": "4(b) the unique features of the vagus nerve system",
+        "quote": "In mammals, around 80% of vagal fibres are unmyelinated"
+      }
+    ]
+  }
+}

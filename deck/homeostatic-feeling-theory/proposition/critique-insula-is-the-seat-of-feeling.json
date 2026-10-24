@@ -1,0 +1,50 @@
+{
+  "record": "proposition",
+  "id": "74b5a510-4c25-40f1-9332-ba44a1369fd4",
+  "kind": "empirical",
+  "epistemic_status": "hypothesized",
+  "title": "Critique: the insula is the substrate of feeling and self-awareness",
+  "statements": [
+    {
+      "id": "3174a73f-bf7e-4f66-912b-3ae22dea8430",
+      "text": "A rival view holds that the insular cortex, especially the anterior insula, is the critical substrate of interoceptive awareness and of the sentient self, and more broadly that consciousness is the work of higher cortical regions.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "3174a73f-bf7e-4f66-912b-3ae22dea8430",
+  "status": "active",
+  "voice": "critique",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "09ebe377-94c3-4761-9135-972135ed0c02",
+        "locator": "introduction, p. 2",
+        "quote": "The insular cortex has been proposed as the critical substrate underlying SA in humans, necessary for interoceptive awareness"
+      },
+      {
+        "source": "ff0acdf5-af27-4677-8f54-177d0de16944",
+        "locator": "4(b) the unique features of the vagus nerve system",
+        "quote": "prevailing views that attribute consciousness to the activity of higher-order cortical regions, notably the insula"
+      }
+    ]
+  }
+}

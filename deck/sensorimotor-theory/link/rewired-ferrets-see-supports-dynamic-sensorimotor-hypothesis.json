@@ -1,0 +1,28 @@
+{
+  "record": "link",
+  "id": "56afea0f-2d52-407b-b850-bd31b7a46b49",
+  "from": "ea93ee72-69f8-48b0-9ae4-d2313816ec2e",
+  "to": "0ee322b1-6fe7-4ec5-ab18-9b9a5773916a",
+  "relation": "supports",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "0110ec01-78ff-40a3-acaa-8bc345947fe4",
+        "locator": "p. 138",
+        "quote": "the rewired ferrets respond as though they perceive the stimuli to be visual rather than auditory"
+      }
+    ]
+  }
+}

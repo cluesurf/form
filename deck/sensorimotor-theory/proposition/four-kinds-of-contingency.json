@@ -1,0 +1,45 @@
+{
+  "record": "proposition",
+  "id": "5c3bd032-253c-4c2d-b90a-6f5ce6110bd2",
+  "kind": "definitional",
+  "epistemic_status": "designed",
+  "title": "Four kinds of sensorimotor contingency",
+  "statements": [
+    {
+      "id": "28600c8e-b697-4875-9f4d-5df777b51505",
+      "text": "Buhrmann, Di Paolo and Barandiaran split the notion into four operational kinds: the sensorimotor environment (open-loop motor-induced sensory variation), the sensorimotor habitat (closed-loop trajectories), sensorimotor coordination (reliable patterns with a functional role) and sensorimotor strategy (the normative organization of coordinations).",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "28600c8e-b697-4875-9f4d-5df777b51505",
+  "status": "active",
+  "voice": "framework",
+  "defines": "sensorimotor habitat",
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "26e2e655-0597-4521-8140-da32a02604a6",
+        "locator": "abstract, p. 1",
+        "quote": "We introduce four distinct kinds of SMCs, which we define operationally."
+      }
+    ]
+  }
+}

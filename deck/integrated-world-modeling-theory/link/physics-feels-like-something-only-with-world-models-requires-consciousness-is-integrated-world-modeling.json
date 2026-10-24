@@ -1,0 +1,28 @@
+{
+  "record": "link",
+  "id": "1b921cdf-279c-4001-8e51-87386789baa3",
+  "from": "584334fe-185c-430c-b467-80af9cd890d4",
+  "to": "2f3ec308-18a3-429a-b246-eab69e08b8ad",
+  "relation": "requires",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "50c6cd60-7c34-401d-94cf-b40bb3c0b0c0",
+        "locator": "p. 10",
+        "quote": "if (and only if) physical processes support the generation of integrated system–world models with spatial, temporal, and causal coherence"
+      }
+    ]
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "record": "proposition",
+  "id": "637cc611-2c4a-4ad6-be99-a64f734a005e",
+  "kind": "empirical",
+  "epistemic_status": "inferred",
+  "title": "Answer: no account of measurement, observed through lesions and physiology",
+  "statements": [
+    {
+      "id": "fe7ae62b-a63e-44da-b20b-995cfc72667f",
+      "text": "The account takes no position on measurement in physics. Consciousness and self-awareness are studied through report and behavior in patients, as in self-recognition, agency and heartbeat tests, combined with the lesion method and imaging.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "fe7ae62b-a63e-44da-b20b-995cfc72667f",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "09ebe377-94c3-4761-9135-972135ed0c02",
+        "locator": "conclusion, p. 15",
+        "quote": "our findings emphasize the necessity of utilizing complementary methodologies, such as the human lesion method and functional neuroimaging"
+      }
+    ]
+  }
+}

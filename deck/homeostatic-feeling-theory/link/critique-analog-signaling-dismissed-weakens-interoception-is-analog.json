@@ -1,0 +1,28 @@
+{
+  "record": "link",
+  "id": "2b5da1a4-1bfc-4674-b533-ab77e6946696",
+  "from": "9fcdd630-84aa-4316-ba14-51d19fc75765",
+  "to": "931503c6-8254-4f1c-b87c-bb66db950a28",
+  "relation": "weakens",
+  "strength": null,
+  "rationale": "If neural computation is digital spiking, analog interoceptive signaling has no distinct computational role.",
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "ff0acdf5-af27-4677-8f54-177d0de16944",
+        "locator": "section 8, conclusion",
+        "quote": "Analogue signalling is often dismissed in computational neuroscience"
+      }
+    ]
+  }
+}

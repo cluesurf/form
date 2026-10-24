@@ -1,0 +1,45 @@
+{
+  "record": "proposition",
+  "id": "b17e4b06-b438-4f63-a484-67e2c6df009c",
+  "kind": "philosophical",
+  "epistemic_status": "hypothesized",
+  "title": "Visual awareness is a matter of degree",
+  "statements": [
+    {
+      "id": "57d35014-d961-435a-83be-640375c2aaa7",
+      "text": "All seeing involves some degree of awareness and some degree of unawareness, since only a few of a stimulus’s many attributes can influence action guidance, reflection and speech at any moment.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "57d35014-d961-435a-83be-640375c2aaa7",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "beab3628-e147-41bc-ac7c-a91b1887dd3f",
+        "locator": "sect. 2.6, p. 944",
+        "quote": "our possession of it is a matter of degree"
+      }
+    ]
+  }
+}

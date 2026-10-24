@@ -1,0 +1,45 @@
+{
+  "record": "proposition",
+  "id": "929c115e-a264-41f0-9b45-48f1c56ca5d8",
+  "kind": "philosophical",
+  "epistemic_status": "hypothesized",
+  "title": "Answer: perceptual experience arises as the skillful activity of the whole animal",
+  "statements": [
+    {
+      "id": "7978cb6c-8349-428f-9d52-856a62651af6",
+      "text": "What arises is perceptual experience, as the skillful exploratory activity of a whole animal in its environment, not as a product of one brain process.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "7978cb6c-8349-428f-9d52-856a62651af6",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "200872f4-0dc2-41db-803b-d7c44e919676",
+        "locator": "sect. 1, p. 2",
+        "quote": "What perception is, however, is not a process in the brain, but a kind of skillful activity on the part of the animal as a whole."
+      }
+    ]
+  }
+}

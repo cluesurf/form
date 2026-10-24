@@ -1,0 +1,45 @@
+{
+  "record": "proposition",
+  "id": "93bf78ce-31c8-4821-9df0-14fce80a0e16",
+  "kind": "empirical",
+  "epistemic_status": "hypothesized",
+  "title": "Feelings of emotion are patterned homeostatic shifts",
+  "statements": [
+    {
+      "id": "d8220084-d503-44e6-94c8-b80df96757ef",
+      "text": "Feelings of emotion, such as fear or excitement, are patterned combinations of homeostatic shifts in response to challenges to internal stability or chances to improve it, as when a raised heart rate and metabolic demand before a predator contribute to fear.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "d8220084-d503-44e6-94c8-b80df96757ef",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "ff0acdf5-af27-4677-8f54-177d0de16944",
+        "locator": "section 1, introduction",
+        "quote": "represent patterned combinations of homoeostatic shifts in response to challenges to internal stability or opportunities to improve it"
+      }
+    ]
+  }
+}

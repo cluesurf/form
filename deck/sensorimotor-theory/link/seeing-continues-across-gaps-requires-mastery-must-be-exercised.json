@@ -1,0 +1,28 @@
+{
+  "record": "link",
+  "id": "a896b207-e462-46e4-bb4f-1fbc66186908",
+  "from": "b0253c82-bd35-4f3f-840f-666e98db097e",
+  "to": "4b671793-30ed-4ae2-af9a-d6c98a682a92",
+  "relation": "requires",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "beab3628-e147-41bc-ac7c-a91b1887dd3f",
+        "locator": "sect. 8.4, p. 968",
+        "quote": "The missile continues to track the plane, and the perceiver continues to see"
+      }
+    ]
+  }
+}

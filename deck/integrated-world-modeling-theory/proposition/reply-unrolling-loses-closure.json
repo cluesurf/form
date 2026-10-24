@@ -1,0 +1,50 @@
+{
+  "record": "proposition",
+  "id": "3ab6a065-f178-48b1-b024-796f34d1d752",
+  "kind": "empirical",
+  "epistemic_status": "inferred",
+  "title": "Unrolled networks are infeasible, fragile and lack closure",
+  "statements": [
+    {
+      "id": "fcb73d5d-1183-485d-a0dc-4f41ef821353",
+      "text": "Unrolling a brain-sized recurrent network over the hundreds of milliseconds of workspace dynamics may need supra-astronomical resources, so recurrence is a practical requirement. Feedforward equivalents match only when reset to identical conditions, diverge when intervened on, cannot repair themselves, and lack functional closure across moments of experience.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "fcb73d5d-1183-485d-a0dc-4f41ef821353",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "5b910d6b-804e-43c3-a75e-4b4bfab2a679",
+        "locator": "p. 15",
+        "quote": "recurrent neural networks (RNNs) may be a practical requirement, as supra-astronomical resources may be necessary for unrolling an RNN into a functionally equivalent feedforward neural network (FNN)"
+      },
+      {
+        "source": "5b910d6b-804e-43c3-a75e-4b4bfab2a679",
+        "locator": "p. 15",
+        "quote": "These feedforward \"zombie\" systems tend to diverge from the functionalities of their recurrent counterparts when intervened upon and will be unable to repair their structure when modified."
+      }
+    ]
+  }
+}

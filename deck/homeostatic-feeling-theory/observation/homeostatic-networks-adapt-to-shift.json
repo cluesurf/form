@@ -1,0 +1,44 @@
+{
+  "record": "observation",
+  "id": "787dfee7-b450-4e5a-84eb-561d599bf130",
+  "kind": "experimental_result",
+  "epistemic_status": "observed",
+  "description": "Multilayer perceptrons on MNIST and Fashion-MNIST whose learning rate was set by the digits they chose to ingest were compared with constant and randomly wandering learning rates under label-swapping concept shift. The homeostatic learner paid a small penalty with no shift, stayed accurate at 500 swaps per epoch where the constant learner fell near chance, and tuned its learning rate to the rate of shift, over 20 replicates.",
+  "method": "simulation",
+  "status": "reported",
+  "source": "76277d40-79d6-4151-8abb-15f4c02b739a",
+  "procedure": null,
+  "variable": null,
+  "value": null,
+  "unit": null,
+  "uncertainty": null,
+  "sample_size": null,
+  "replication_count": null,
+  "quality": null,
+  "limitations": "Two small image datasets, training data reused across epochs, no covariate shift, and no comparison with momentum optimizers such as Adam. A workshop paper.",
+  "conflicts_of_interest": null,
+  "observed_at": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "76277d40-79d6-4151-8abb-15f4c02b739a",
+        "locator": "section 4.1, p. 3",
+        "quote": "At 500 swaps per epoch, the constant-LR classifier is overcome by change and falls to near chance level."
+      },
+      {
+        "source": "76277d40-79d6-4151-8abb-15f4c02b739a",
+        "locator": "discussion, p. 4",
+        "quote": "homeostatic learners are superior to conventional learners under concept shift"
+      }
+    ]
+  }
+}

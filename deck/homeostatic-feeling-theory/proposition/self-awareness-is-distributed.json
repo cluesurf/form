@@ -1,0 +1,45 @@
+{
+  "record": "proposition",
+  "id": "67dbec24-22a0-44ab-b8ec-3a402ce3d04e",
+  "kind": "empirical",
+  "epistemic_status": "inferred",
+  "title": "Self-awareness emerges from distributed brainstem, thalamic and posteromedial networks",
+  "statements": [
+    {
+      "id": "feaea514-397f-487e-b453-ce9a5be91597",
+      "text": "Self-awareness is not housed in the insula, anterior cingulate or medial prefrontal cortex. It likely emerges from distributed interactions among networks that include the brainstem, the thalamus and the posteromedial cortices.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "feaea514-397f-487e-b453-ce9a5be91597",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "09ebe377-94c3-4761-9135-972135ed0c02",
+        "locator": "conclusion, p. 15",
+        "quote": "SA is likely to emerge from distributed interactions among networks of brain regions that include the brainstem, thalamus, and posteromedial cortices"
+      }
+    ]
+  }
+}

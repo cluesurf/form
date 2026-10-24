@@ -1,0 +1,45 @@
+{
+  "record": "proposition",
+  "id": "083ae7db-7884-4c16-b4f3-b1cb4f4d39b4",
+  "kind": "philosophical",
+  "epistemic_status": "hypothesized",
+  "title": "Answer: integrated information as self-model evidence, meaning as a difference that matters",
+  "statements": [
+    {
+      "id": "5025c899-ce16-4c82-8a00-b6d42ad08b1a",
+      "text": "Information is Bayesian belief in a generative model. Integrated information may correspond to self-model evidence in the sense of FEP-AI, a special measure of dynamical complexity, and meaning is a difference that makes a difference to a system pursuing its goals.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "5025c899-ce16-4c82-8a00-b6d42ad08b1a",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "5b910d6b-804e-43c3-a75e-4b4bfab2a679",
+        "locator": "p. 15",
+        "quote": "If integrated information corresponds to self-model-evidence as described by FEP-AI, then this would be a very special measure of dynamical complexity"
+      }
+    ]
+  }
+}

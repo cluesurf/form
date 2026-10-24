@@ -1,0 +1,45 @@
+{
+  "record": "proposition",
+  "id": "546edb96-cb72-4080-bb44-ff0289a9c7b5",
+  "kind": "empirical",
+  "epistemic_status": "inferred",
+  "title": "Homeostatic feelings are continuous and graded",
+  "statements": [
+    {
+      "id": "0f8022a5-4be6-4c91-b6ae-5d016f07f7e5",
+      "text": "A feeling such as illness during infection is not episodic but continuous, holding the front of the conscious mind until balance returns, and its intensity tracks the severity of the disturbance.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "0f8022a5-4be6-4c91-b6ae-5d016f07f7e5",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "ff0acdf5-af27-4677-8f54-177d0de16944",
+        "locator": "5(b) consciousness enables comprehensive homeostatic regulation",
+        "quote": "Its intensity reflects the severity of the disturbance"
+      }
+    ]
+  }
+}

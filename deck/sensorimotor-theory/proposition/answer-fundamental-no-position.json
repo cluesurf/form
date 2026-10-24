@@ -1,0 +1,45 @@
+{
+  "record": "proposition",
+  "id": "ba414600-c203-4eaa-92c3-34b608dbe17d",
+  "kind": "philosophical",
+  "epistemic_status": "inferred",
+  "title": "Answer: takes no position on what is fundamental in nature",
+  "statements": [
+    {
+      "id": "aef59671-af03-461f-9ea6-ce582d055182",
+      "text": "The theory takes no position on what is fundamental in physics. Its explanatory base is the lawful dependence of sensory stimulation on movement and the perceiver’s mastery of it, not a special kind of brain state.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "aef59671-af03-461f-9ea6-ce582d055182",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "beab3628-e147-41bc-ac7c-a91b1887dd3f",
+        "locator": "sect. 9, p. 970",
+        "quote": "Visual consciousness is not a special kind of brain state, or a special quality of informational states of the brain."
+      }
+    ]
+  }
+}

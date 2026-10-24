@@ -1,0 +1,50 @@
+{
+  "record": "proposition",
+  "id": "0277bfd2-f515-41ba-925d-a9aefe8a5fea",
+  "kind": "empirical",
+  "epistemic_status": "hypothesized",
+  "title": "Answer: mammals, possibly all vertebrates, possibly insects",
+  "statements": [
+    {
+      "id": "ad487dab-6e5c-4508-b016-bcc3653d7488",
+      "text": "Any process that generates a world model coherent in space, time and cause for itself and its environment is conscious: all mammals, possibly all vertebrates and possibly insects. Rocks, viruses, single cells, plants and insect colonies are not, C. elegans probably not, and brainstems alone probably not. IWMT has no clear position on whether unlimited associative learning marks consciousness.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "ad487dab-6e5c-4508-b016-bcc3653d7488",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "50c6cd60-7c34-401d-94cf-b40bb3c0b0c0",
+        "locator": "p. 4",
+        "quote": "e.g., all mammals, possibly all vertebrates, and possibly insects"
+      },
+      {
+        "source": "5b910d6b-804e-43c3-a75e-4b4bfab2a679",
+        "locator": "p. 17",
+        "quote": "IWMT currently does not have a clear position as to whether such processing is necessarily conscious"
+      }
+    ]
+  }
+}

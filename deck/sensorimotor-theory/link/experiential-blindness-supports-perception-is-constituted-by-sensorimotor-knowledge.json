@@ -1,0 +1,28 @@
+{
+  "record": "link",
+  "id": "a1ce9802-d3c3-451a-9406-1535b5eefde9",
+  "from": "fe2e7823-98d5-405a-9169-f6e1ec97f6bb",
+  "to": "f0259a64-d1b1-481d-b814-402d566f4e0e",
+  "relation": "supports",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "200872f4-0dc2-41db-803b-d7c44e919676",
+        "locator": "sect. 2, p. 3",
+        "quote": "because it is blindness despite the presence of something like normal visual sensation"
+      }
+    ]
+  }
+}

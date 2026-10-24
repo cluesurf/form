@@ -1,0 +1,33 @@
+{
+  "record": "link",
+  "id": "3da21436-d413-4ae6-be14-e71358802835",
+  "from": "cfc091e3-ebd5-4eb3-844b-0ddeccd5a690",
+  "to": "688b253e-3d17-4b9a-b9ec-88e0d34da6c2",
+  "relation": "supports",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "09ebe377-94c3-4761-9135-972135ed0c02",
+        "locator": "discussion, p. 15",
+        "quote": "entirely compatible with our findings (as R does not have brainstem damage)"
+      },
+      {
+        "source": "09ebe377-94c3-4761-9135-972135ed0c02",
+        "locator": "discussion, p. 15",
+        "quote": "children who are missing their cortex due to hydranencephaly"
+      }
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "record": "link",
+  "id": "016e7f50-ff1b-4a4a-9187-4ce3fc993bf2",
+  "from": "2b40b927-9345-42f8-ac29-145af0daacae",
+  "to": "f75c9e6e-246a-4c8b-8355-26d6ee89ae64",
+  "relation": "specializes",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "beab3628-e147-41bc-ac7c-a91b1887dd3f",
+        "locator": "sect. 5.7, p. 952",
+        "quote": "What determines the perceived color of the patch is the set of such changes that occur as you move your eyes over it."
+      }
+    ]
+  }
+}

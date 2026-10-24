@@ -1,0 +1,50 @@
+{
+  "record": "proposition",
+  "id": "b23f1f3f-1338-475e-8c5a-22797da92712",
+  "kind": "philosophical",
+  "epistemic_status": "hypothesized",
+  "title": "There is no detailed picture of the world in the brain",
+  "statements": [
+    {
+      "id": "ec90887c-fe25-4f0d-9afb-a8cb56ca0193",
+      "text": "There is no re-presentation of the world inside the brain: the only pictorial version required is the real outside one. Dreams, hallucinations and imagery appear pictorial, but that does not show the brain contains pictures of the detailed environment.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "ec90887c-fe25-4f0d-9afb-a8cb56ca0193",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "beab3628-e147-41bc-ac7c-a91b1887dd3f",
+        "locator": "sect. 4.1, p. 946",
+        "quote": "the only pictorial or 3D version required is the real outside version"
+      },
+      {
+        "source": "beab3628-e147-41bc-ac7c-a91b1887dd3f",
+        "locator": "sect. 4.4, p. 947",
+        "quote": "does not provide evidence in favor of the view that the brain contains pictures of the detailed environment"
+      }
+    ]
+  }
+}

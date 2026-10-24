@@ -1,0 +1,45 @@
+{
+  "record": "proposition",
+  "id": "1f4b2527-0e9e-4e8e-a48f-ae49cbde9835",
+  "kind": "empirical",
+  "epistemic_status": "observed",
+  "title": "Observers can look straight at a change and not see it",
+  "statements": [
+    {
+      "id": "2ab90c3e-ec43-4aa6-b000-8b416db14fad",
+      "text": "In change blindness experiments with eye tracking, observers were often looking directly at the change when it occurred and still did not see it, which fits the view that what is seen is the aspect of the scene currently being explored.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "2ab90c3e-ec43-4aa6-b000-8b416db14fad",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "beab3628-e147-41bc-ac7c-a91b1887dd3f",
+        "locator": "sect. 5.10, p. 954",
+        "quote": "observers could be looking directly at the change at the moment the change occurred, and still not see it"
+      }
+    ]
+  }
+}

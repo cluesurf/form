@@ -1,0 +1,33 @@
+{
+  "record": "link",
+  "id": "b2d62bec-88e2-4968-9087-7905d13b1513",
+  "from": "03d2d102-2011-48c6-a8bd-6681de2448c9",
+  "to": "584334fe-185c-430c-b467-80af9cd890d4",
+  "relation": "requires",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "8699e341-cc2b-4813-84ce-48b789cbb6e6",
+        "locator": "p. 57",
+        "quote": "IWMT is not panpsychist in that consciousness is restricted to those systems capable of coherently integrated world modeling"
+      },
+      {
+        "source": "8699e341-cc2b-4813-84ce-48b789cbb6e6",
+        "locator": "p. 57",
+        "quote": "According to IWMT, experience would only emerge from systems that have models"
+      }
+    ]
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "record": "proposition",
+  "id": "b861e002-244a-45da-8747-3fd115d52639",
+  "kind": "empirical",
+  "epistemic_status": "hypothesized",
+  "title": "An artificial embodied world modeler might be conscious",
+  "statements": [
+    {
+      "id": "b1705f05-dd30-496f-9a0f-9e652782c9c2",
+      "text": "IWMT is agnostic about whether an artificial system with autoencoding hierarchies and graph-structured latent spaces would be conscious, but leans toward IIT on practical realization, possibly needing specialized hardware. Built as the controller of an embodied agent, such a system might have phenomenal consciousness. A von Neumann AI is rated probably capable of consciousness.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "b1705f05-dd30-496f-9a0f-9e652782c9c2",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "1827db7d-b3a3-43bf-86af-a0a2ba82d1ae",
+        "locator": "p. 9",
+        "quote": "IWMT is agnostic on this issue, yet may side with IIT in terms of matters of practical realization."
+      },
+      {
+        "source": "d0ff48d4-b22b-432a-9ca1-4e9b5c0e9efb",
+        "locator": "p. 10",
+        "quote": "IWMT, however, suggests that artificial thalamocortical systems are likely required for realizing such conscious machines"
+      }
+    ]
+  }
+}

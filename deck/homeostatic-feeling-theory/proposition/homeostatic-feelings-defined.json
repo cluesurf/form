@@ -1,0 +1,50 @@
+{
+  "record": "proposition",
+  "id": "91bcf6fd-0808-4818-a6b4-ad2e676378a7",
+  "kind": "definitional",
+  "epistemic_status": "designed",
+  "title": "Homeostatic feelings",
+  "statements": [
+    {
+      "id": "ffdebd5c-6287-447a-98d5-3e47222ff99a",
+      "text": "Homeostatic feelings are a fundamental class of feelings. They are spontaneously conscious and emerge with significant deviations from physiological balance, negative as in hunger, thirst, hypoxia and fever, or positive as in satiety and well-being. They are not to be conflated with emotions.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "ffdebd5c-6287-447a-98d5-3e47222ff99a",
+  "status": "active",
+  "voice": "framework",
+  "defines": "homeostatic feeling",
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "ff0acdf5-af27-4677-8f54-177d0de16944",
+        "locator": "section 1, introduction",
+        "quote": "They are spontaneously conscious and emerge when there are significant deviations away from physiological balance"
+      },
+      {
+        "source": "ff0acdf5-af27-4677-8f54-177d0de16944",
+        "locator": "section 1, introduction",
+        "quote": "should not be conflated with emotions"
+      }
+    ]
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "record": "observation",
+  "id": "6130684b-d6b1-43ad-9e1d-5690926047d1",
+  "kind": "experimental_result",
+  "epistemic_status": "observed",
+  "description": "The sensorimotor network is the most extensive resting-state component, involving 27 percent of grey matter (Tomasi and Volkow 2011, as reported by Safron), which he reads as support for embodied self-models at the center of integration.",
+  "method": "instrument",
+  "status": "reported",
+  "source": "8699e341-cc2b-4813-84ce-48b789cbb6e6",
+  "procedure": null,
+  "variable": null,
+  "value": null,
+  "unit": null,
+  "uncertainty": null,
+  "sample_size": null,
+  "replication_count": null,
+  "quality": null,
+  "limitations": "Reported secondhand in Safron 2019. The original study is not read here.",
+  "conflicts_of_interest": null,
+  "observed_at": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "8699e341-cc2b-4813-84ce-48b789cbb6e6",
+        "locator": "p. 13",
+        "quote": "constituting the most extensive resting-state component involving 27% of overall grey matter (Tomasi and Volkow, 2011)"
+      }
+    ]
+  }
+}

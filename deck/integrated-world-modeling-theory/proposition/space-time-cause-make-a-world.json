@@ -1,0 +1,50 @@
+{
+  "record": "proposition",
+  "id": "f1b11df4-790c-4e9c-85f7-fae6dbe37942",
+  "kind": "philosophical",
+  "epistemic_status": "hypothesized",
+  "title": "Space, time and cause are preconditions for an experienced world",
+  "statements": [
+    {
+      "id": "4cb6ac12-2173-4455-b862-9e735a1e6f4f",
+      "text": "For a world to be experienced, its things must be placed and contrasted in some kind of space, with relative changes making time and regularities of change making cause. IWMT takes Kant's preconditions for judgment as preconditions for consciousness, and these may be preconditions for basic experience as well.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "4cb6ac12-2173-4455-b862-9e735a1e6f4f",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "50c6cd60-7c34-401d-94cf-b40bb3c0b0c0",
+        "locator": "p. 3",
+        "quote": "for there to be the experience of a world, the things that constitute that world must be able to be situated and contrasted with other things in some kind of space, with relative changes constituting time, and with regularities of change constituting cause"
+      },
+      {
+        "source": "50c6cd60-7c34-401d-94cf-b40bb3c0b0c0",
+        "locator": "p. 16",
+        "quote": "IWMT proposes that Kant’s preconditions for judgment are also necessary preconditions for consciousness"
+      }
+    ]
+  }
+}

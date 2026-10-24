@@ -1,0 +1,33 @@
+{
+  "record": "link",
+  "id": "ec79a828-b0a4-4f9a-a851-32562ee45767",
+  "from": "91bcf6fd-0808-4818-a6b4-ad2e676378a7",
+  "to": "9a3aecf3-7b12-46fe-a302-20d99f34cc64",
+  "relation": "defines",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "ff0acdf5-af27-4677-8f54-177d0de16944",
+        "locator": "section 1, introduction",
+        "quote": "They are spontaneously conscious and emerge when there are significant deviations away from physiological balance"
+      },
+      {
+        "source": "ff0acdf5-af27-4677-8f54-177d0de16944",
+        "locator": "section 1, introduction",
+        "quote": "should not be conflated with emotions"
+      }
+    ]
+  }
+}

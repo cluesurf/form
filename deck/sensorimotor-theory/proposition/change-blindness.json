@@ -1,0 +1,50 @@
+{
+  "record": "proposition",
+  "id": "fac9c792-8b3d-43bf-a522-993693d853f9",
+  "kind": "empirical",
+  "epistemic_status": "observed",
+  "title": "Large changes in full view go unseen when their transient is masked",
+  "statements": [
+    {
+      "id": "b53b6322-c9fd-4488-9e14-c55bf423e600",
+      "text": "When the local transient of a change is swamped by a global flicker, a saccade, a blink, a film cut or decoy mudsplashes, observers have great difficulty seeing changes even when they are very large and occur in full view. The outside memory idea prompted these experiments.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "b53b6322-c9fd-4488-9e14-c55bf423e600",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "beab3628-e147-41bc-ac7c-a91b1887dd3f",
+        "locator": "sect. 5.10, p. 954",
+        "quote": "observers have great difficulty seeing changes, even though the changes are very large, and occur in full view"
+      },
+      {
+        "source": "beab3628-e147-41bc-ac7c-a91b1887dd3f",
+        "locator": "sect. 5.10, p. 954",
+        "quote": "was the impetus for a number of surprising experiments performed recently on “change blindness”"
+      }
+    ]
+  }
+}

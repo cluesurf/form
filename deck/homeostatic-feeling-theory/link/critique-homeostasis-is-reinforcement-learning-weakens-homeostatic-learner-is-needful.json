@@ -1,0 +1,28 @@
+{
+  "record": "link",
+  "id": "c93c8005-8744-4493-9693-baf5a3d7baa5",
+  "from": "0c19e45c-cfa3-4f7a-8ba6-93d9ee9142ea",
+  "to": "aade0c29-4405-4fd2-af90-6ac1e687d072",
+  "relation": "weakens",
+  "strength": null,
+  "rationale": "If the design is reinforcement learning under another name, it adds no new principle.",
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "76277d40-79d6-4151-8abb-15f4c02b739a",
+        "locator": "discussion, p. 5",
+        "quote": "we are aware of the resemblance between reinforcement learning and our task of homeostatic self-regulation"
+      }
+    ]
+  }
+}

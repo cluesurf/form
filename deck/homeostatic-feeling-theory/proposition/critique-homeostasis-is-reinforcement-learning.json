@@ -1,0 +1,45 @@
+{
+  "record": "proposition",
+  "id": "0c19e45c-cfa3-4f7a-8ba6-93d9ee9142ea",
+  "kind": "empirical",
+  "epistemic_status": "hypothesized",
+  "title": "Critique: homeostatic learning is reinforcement learning",
+  "statements": [
+    {
+      "id": "92d310a7-b3ba-4cbc-9b53-7016623ee7f4",
+      "text": "The homeostatic learner closely resembles reinforcement learning, and reinforcement learning with homeostatic logic already exists, so the design may add nothing new.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "92d310a7-b3ba-4cbc-9b53-7016623ee7f4",
+  "status": "active",
+  "voice": "critique",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "76277d40-79d6-4151-8abb-15f4c02b739a",
+        "locator": "discussion, p. 5",
+        "quote": "we are aware of the resemblance between reinforcement learning and our task of homeostatic self-regulation"
+      }
+    ]
+  }
+}

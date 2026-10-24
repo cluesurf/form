@@ -1,0 +1,45 @@
+{
+  "record": "proposition",
+  "id": "7cc3ca29-4012-40fa-8f51-d243e4c0fd7d",
+  "kind": "empirical",
+  "epistemic_status": "hypothesized",
+  "title": "Conscious ignition is the formation of a synchronous complex",
+  "statements": [
+    {
+      "id": "c0da4547-2962-4406-ab4f-9cff14b98728",
+      "text": "The ignition events of global workspace theory are the crossing of a critical threshold for SOHM formation by self-synchronized neural activity, which forms metastable complexes of integrated information that act as neuronal global workspaces and implement Bayesian model selection.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "c0da4547-2962-4406-ab4f-9cff14b98728",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "50c6cd60-7c34-401d-94cf-b40bb3c0b0c0",
+        "locator": "p. 14",
+        "quote": "IWMT specifically proposes that conscious ignition corresponds to surpassing critical thresholds for SOHM formation via self-synchronized neural activity"
+      }
+    ]
+  }
+}

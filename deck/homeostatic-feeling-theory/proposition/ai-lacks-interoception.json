@@ -1,0 +1,50 @@
+{
+  "record": "proposition",
+  "id": "e7141987-848a-426d-a005-eb340f20b377",
+  "kind": "empirical",
+  "epistemic_status": "inferred",
+  "title": "Current AI lacks interoceptive processing",
+  "statements": [
+    {
+      "id": "78ec84b8-2aeb-49c8-8e91-591a222b7a1f",
+      "text": "Artificial intelligence replicates exteroceptive, cognitive and linguistic processing well but struggles with the slow, continuous, graded dynamics of interoception, so contemporary AI is poorly suited to modeling the mechanisms that anchor homeostatic feelings and consciousness. Analog and neuromorphic hardware may narrow the gap.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "78ec84b8-2aeb-49c8-8e91-591a222b7a1f",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "ff0acdf5-af27-4677-8f54-177d0de16944",
+        "locator": "section 7, artificial intelligence and natural intelligence",
+        "quote": "it struggles to capture the dynamics of interoceptive processing"
+      },
+      {
+        "source": "ff0acdf5-af27-4677-8f54-177d0de16944",
+        "locator": "section 7, artificial intelligence and natural intelligence",
+        "quote": "Contemporary AI is not well suited to modelling the interoceptive mechanisms that anchor homoeostatic feelings and consciousness."
+      }
+    ]
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "record": "link",
+  "id": "779ca377-d1bc-4d15-a9e8-690b9ebf72e1",
+  "from": "e7141987-848a-426d-a005-eb340f20b377",
+  "to": "931503c6-8254-4f1c-b87c-bb66db950a28",
+  "relation": "requires",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "ff0acdf5-af27-4677-8f54-177d0de16944",
+        "locator": "section 7, artificial intelligence and natural intelligence",
+        "quote": "it struggles to capture the dynamics of interoceptive processing"
+      },
+      {
+        "source": "ff0acdf5-af27-4677-8f54-177d0de16944",
+        "locator": "section 7, artificial intelligence and natural intelligence",
+        "quote": "Contemporary AI is not well suited to modelling the interoceptive mechanisms that anchor homoeostatic feelings and consciousness."
+      }
+    ]
+  }
+}

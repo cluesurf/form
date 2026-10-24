@@ -1,0 +1,33 @@
+{
+  "record": "link",
+  "id": "b0e91ca1-8109-4ec2-8a46-b2be13e95334",
+  "from": "68a5c879-67c8-4520-bbfc-13f5e38b1de7",
+  "to": "3f08fcb6-e98c-4b50-a95f-235cc58ed704",
+  "relation": "specializes",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "76277d40-79d6-4151-8abb-15f4c02b739a",
+        "locator": "background, p. 2",
+        "quote": "the homeostatic-like features of prior works were implemented from the outside-in"
+      },
+      {
+        "source": "76277d40-79d6-4151-8abb-15f4c02b739a",
+        "locator": "background, p. 2",
+        "quote": "it was not made vulnerable to the world and therefore sensitive to changes in the world"
+      }
+    ]
+  }
+}

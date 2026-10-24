@@ -1,0 +1,45 @@
+{
+  "record": "proposition",
+  "id": "f50da5de-f368-4666-af1d-e4f2d0e015f0",
+  "kind": "empirical",
+  "epistemic_status": "inferred",
+  "title": "Critique: dreams, hallucinations and paralysis give perception without action",
+  "statements": [
+    {
+      "id": "97ba052b-3e2b-4864-a1a4-5b639d1179bc",
+      "text": "Commentators point to dreaming, meditation, brief flashed displays, hearing, pain, perception during paralysis, phantom limbs, tinnitus and cortical stimulation as cases of perception with no action involved.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "97ba052b-3e2b-4864-a1a4-5b639d1179bc",
+  "status": "active",
+  "voice": "critique",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "696097b2-3865-4f12-a2da-befbbbaa9278",
+        "locator": "R5, p. 1015",
+        "quote": "all these are cases where people have perceptions without action being involved"
+      }
+    ]
+  }
+}

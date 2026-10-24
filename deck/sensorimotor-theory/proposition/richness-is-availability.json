@@ -1,0 +1,50 @@
+{
+  "record": "proposition",
+  "id": "90527939-edab-4383-9215-62facc05866e",
+  "kind": "philosophical",
+  "epistemic_status": "hypothesized",
+  "title": "The felt richness of the visual world is immediate availability",
+  "statements": [
+    {
+      "id": "5a7a2528-a43f-4024-a364-f9e12e75854c",
+      "text": "The feeling of the presence and richness of the visual world is created by the immediate availability of information in the external store. Since any part of the scene checked is then seen, perceivers always have the impression of seeing everything.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "5a7a2528-a43f-4024-a364-f9e12e75854c",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "0c9451e4-1b48-4f2a-854e-0e6e812392cc",
+        "locator": "abstract, p. 461",
+        "quote": "created by the immediate availability of the information in this external store"
+      },
+      {
+        "source": "beab3628-e147-41bc-ac7c-a91b1887dd3f",
+        "locator": "sect. 4.2, p. 947",
+        "quote": "you will always have the impression of consciously seeing everything, since everything you check on, you see"
+      }
+    ]
+  }
+}

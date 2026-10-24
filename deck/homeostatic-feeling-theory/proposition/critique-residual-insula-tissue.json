@@ -1,0 +1,45 @@
+{
+  "record": "proposition",
+  "id": "187633c1-fe84-4ec4-ac9c-541c3b3e6d80",
+  "kind": "empirical",
+  "epistemic_status": "hypothesized",
+  "title": "Critique: spared islands of insula explain the patient",
+  "statements": [
+    {
+      "id": "15c35de4-c55b-43ca-9e04-f55f8c4a4a80",
+      "text": "Small patches of possibly functional tissue in the patient’s left anterior insula and cingulate could support his preserved awareness, so the lesion would not show the insula is unnecessary.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "15c35de4-c55b-43ca-9e04-f55f8c4a4a80",
+  "status": "active",
+  "voice": "critique",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "09ebe377-94c3-4761-9135-972135ed0c02",
+        "locator": "discussion, p. 14",
+        "quote": "has been used to criticize the interpretation of the previous results"
+      }
+    ]
+  }
+}

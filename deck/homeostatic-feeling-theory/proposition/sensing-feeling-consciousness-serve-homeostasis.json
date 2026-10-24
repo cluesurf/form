@@ -1,0 +1,45 @@
+{
+  "record": "proposition",
+  "id": "faf66f39-9e71-41c6-87be-0d63adf3081f",
+  "kind": "philosophical",
+  "epistemic_status": "inferred",
+  "title": "Sensing, feeling and consciousness all serve homeostasis",
+  "statements": [
+    {
+      "id": "0dbd3fc0-33f8-4eda-b75a-5502a6660d7c",
+      "text": "Sensing, feeling and consciousness share one goal, maintaining life by securing homeostasis, yet they are distinct processes that operate in organisms of different complexity.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "0dbd3fc0-33f8-4eda-b75a-5502a6660d7c",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "bffa9175-d8c1-47f1-8482-8bb416dc0078",
+        "locator": "section 1",
+        "quote": "all three processes are concerned with maintaining life by securing homeostasis in a specific organism"
+      }
+    ]
+  }
+}

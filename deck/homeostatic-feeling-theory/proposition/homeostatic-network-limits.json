@@ -1,0 +1,50 @@
+{
+  "record": "proposition",
+  "id": "b6585ccf-ca2e-467c-925a-4a39c27f7bb7",
+  "kind": "empirical",
+  "epistemic_status": "observed",
+  "title": "Limits of the homeostatic network results",
+  "statements": [
+    {
+      "id": "2d21e306-0870-401e-895d-80bc91c9b1ce",
+      "text": "The network results use only two small image datasets, reuse training data so the shift is never fully novel, include no covariate shift, and were not compared with optimizers such as Adam.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "2d21e306-0870-401e-895d-80bc91c9b1ce",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "76277d40-79d6-4151-8abb-15f4c02b739a",
+        "locator": "discussion, p. 4",
+        "quote": "one possible limitation on the scope of our claims is the use of only these two datasets"
+      },
+      {
+        "source": "76277d40-79d6-4151-8abb-15f4c02b739a",
+        "locator": "discussion, p. 4",
+        "quote": "we did not benchmark it against LR optimizers such as ADAM"
+      }
+    ]
+  }
+}

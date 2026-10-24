@@ -1,0 +1,45 @@
+{
+  "record": "proposition",
+  "id": "f75c9e6e-246a-4c8b-8355-26d6ee89ae64",
+  "kind": "philosophical",
+  "epistemic_status": "hypothesized",
+  "title": "Laws set by the visual apparatus ground sensation, laws set by objects ground perception",
+  "statements": [
+    {
+      "id": "b8dd4008-f2b7-48c2-a45d-21392e5a9c5a",
+      "text": "Sensorimotor contingencies fixed by the visual apparatus, such as retinal distortions under eye movement, are independent of any categorization of objects and underlie visual sensation. Contingencies tied to the attributes of objects underlie visual perception.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "b8dd4008-f2b7-48c2-a45d-21392e5a9c5a",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "beab3628-e147-41bc-ac7c-a91b1887dd3f",
+        "locator": "sect. 2.3, p. 943",
+        "quote": "can thus be considered to be a fundamental, underlying aspect of visual sensation"
+      }
+    ]
+  }
+}

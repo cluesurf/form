@@ -1,0 +1,50 @@
+{
+  "record": "proposition",
+  "id": "7448c7ea-34d1-4a3d-8101-50cf1c93dab1",
+  "kind": "philosophical",
+  "epistemic_status": "hypothesized",
+  "title": "Bodiliness and grabbiness separate perception from thought",
+  "statements": [
+    {
+      "id": "8daad6af-0c28-4b59-bc5d-2c552ac54af9",
+      "text": "Bodiliness and grabbiness are what distinguish perceptual from nonperceptual awareness of a thing, and they are defined in functional terms, which the authors take to give a functional basis for the sensory character of experience.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "8daad6af-0c28-4b59-bc5d-2c552ac54af9",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "696097b2-3865-4f12-a2da-befbbbaa9278",
+        "locator": "R1, p. 1012",
+        "quote": "This is what the difference between perceptual awareness and nonperceptual awareness (or thought) comes down to."
+      },
+      {
+        "source": "696097b2-3865-4f12-a2da-befbbbaa9278",
+        "locator": "R1, p. 1012",
+        "quote": "bodiliness and grabbiness are concepts defined strictly in functional terms"
+      }
+    ]
+  }
+}

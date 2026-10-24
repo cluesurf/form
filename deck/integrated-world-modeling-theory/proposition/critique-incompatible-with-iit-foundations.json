@@ -1,0 +1,45 @@
+{
+  "record": "proposition",
+  "id": "c3cd18d1-fea4-43a1-a724-a5438d42e883",
+  "kind": "philosophical",
+  "epistemic_status": "inferred",
+  "title": "Critique: IWMT's functionalism is incompatible with IIT's foundations",
+  "statements": [
+    {
+      "id": "089070ee-f306-493c-8736-f93b8e9dbfda",
+      "text": "IIT addresses the Hard problem by starting from axioms of phenomenology. Safron grants that IWMT's functionalist and mechanistic convergence approach is ultimately incompatible with IIT's foundational stance and methods, even where support converges.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "089070ee-f306-493c-8736-f93b8e9dbfda",
+  "status": "active",
+  "voice": "critique",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "50c6cd60-7c34-401d-94cf-b40bb3c0b0c0",
+        "locator": "p. 23",
+        "quote": "The functionalist and mechanistic-convergence approach attempted in this manuscript are ultimately incompatible in terms of IIT’s foundational stance and methodological commitments"
+      }
+    ]
+  }
+}

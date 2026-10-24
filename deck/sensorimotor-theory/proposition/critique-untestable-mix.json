@@ -1,0 +1,45 @@
+{
+  "record": "proposition",
+  "id": "45116749-0ae2-4bd1-8cd5-b0fbf42123cf",
+  "kind": "philosophical",
+  "epistemic_status": "inferred",
+  "title": "Critique: an untestable mix of older ideas",
+  "statements": [
+    {
+      "id": "40622f14-dcdc-42de-b43e-171bf719f5e6",
+      "text": "Scholl and Simons hold that the approach combines older ideas, notably Gibson’s, into an untestable whole, and the authors grant that the theory is not one single idea.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "40622f14-dcdc-42de-b43e-171bf719f5e6",
+  "status": "active",
+  "voice": "critique",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "696097b2-3865-4f12-a2da-befbbbaa9278",
+        "locator": "R8, p. 1019",
+        "quote": "Scholl & Simons believe that our approach is just a bric a brac of old ideas, combined to yield an untestable mess."
+      }
+    ]
+  }
+}

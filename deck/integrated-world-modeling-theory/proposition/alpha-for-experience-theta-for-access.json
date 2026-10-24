@@ -1,0 +1,50 @@
+{
+  "record": "proposition",
+  "id": "fdb0c8d3-2644-4b88-8b70-6f5c1c544668",
+  "kind": "empirical",
+  "epistemic_status": "hypothesized",
+  "title": "Alpha rhythms carry basic experience, theta nesting brings access",
+  "statements": [
+    {
+      "id": "21458775-3e39-4e9e-ab6b-1db58e9fe8e0",
+      "text": "Complexes synchronizing at alpha frequencies over posterior cortex generate basic phenomenal consciousness. Nesting of these alpha rhythms within theta frequencies couples them to the frontal lobes and hippocampal complex, affording access consciousness and volitional control, while gamma carries prediction errors and beta descending predictions.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "21458775-3e39-4e9e-ab6b-1db58e9fe8e0",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "50c6cd60-7c34-401d-94cf-b40bb3c0b0c0",
+        "locator": "abstract, p. 2",
+        "quote": "with alpha frequencies generating basic awareness, and cross-frequency phase-coupling within theta frequencies for access consciousness and volitional control"
+      },
+      {
+        "source": "50c6cd60-7c34-401d-94cf-b40bb3c0b0c0",
+        "locator": "p. 16",
+        "quote": "Nesting of these alpha rhythms within theta frequencies may further allow for coupling with the frontal lobes and hippocampal complex"
+      }
+    ]
+  }
+}

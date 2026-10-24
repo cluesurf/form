@@ -1,0 +1,33 @@
+{
+  "record": "link",
+  "id": "5b7fdb15-4a41-4fce-9589-9b001c84651c",
+  "from": "ed26a7cf-e534-4b2f-9122-f84f604a8c23",
+  "to": "6b45b8c1-16ec-4339-ab53-9ba646db23e1",
+  "relation": "requires",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "beab3628-e147-41bc-ac7c-a91b1887dd3f",
+        "locator": "sect. 2.6, p. 944",
+        "quote": "For a creature (or a machine for that matter) to possess visual awareness"
+      },
+      {
+        "source": "696097b2-3865-4f12-a2da-befbbbaa9278",
+        "locator": "R2, p. 1013",
+        "quote": "it becomes necessary to say that it has (at least primitive) visual experiences"
+      }
+    ]
+  }
+}

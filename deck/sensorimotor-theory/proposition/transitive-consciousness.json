@@ -1,0 +1,50 @@
+{
+  "record": "proposition",
+  "id": "ba04ae6b-d781-4e49-867c-5daf94c8c29f",
+  "kind": "definitional",
+  "epistemic_status": "designed",
+  "title": "Transitive consciousness and consciousness in general",
+  "statements": [
+    {
+      "id": "6d62635a-3931-40e4-a983-6e2ff5b11e43",
+      "text": "Transitive visual consciousness is being visually aware of a feature of a scene. Visual consciousness in general is the higher-order capacity to become aware of present features, which contrasts with being asleep or blind.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "6d62635a-3931-40e4-a983-6e2ff5b11e43",
+  "status": "active",
+  "voice": "framework",
+  "defines": "transitive consciousness",
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "beab3628-e147-41bc-ac7c-a91b1887dd3f",
+        "locator": "sect. 6.2, p. 960",
+        "quote": "To be transitively conscious is to be conscious of a feature of a scene"
+      },
+      {
+        "source": "beab3628-e147-41bc-ac7c-a91b1887dd3f",
+        "locator": "sect. 6.2, p. 960",
+        "quote": "To be visually conscious in general is to be poised to become aware of a present feature"
+      }
+    ]
+  }
+}

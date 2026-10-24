@@ -1,0 +1,45 @@
+{
+  "record": "proposition",
+  "id": "514ea4c7-6010-4454-9b87-a35ff8163576",
+  "kind": "empirical",
+  "epistemic_status": "hypothesized",
+  "title": "Cortical hierarchies are folded variational autoencoders",
+  "statements": [
+    {
+      "id": "659c1f75-0496-4387-be8b-2bf62d690c65",
+      "text": "Cortical hierarchies are analogous to variational autoencoders folded at their low-dimensional bottlenecks, with superficial pyramidal neurons as encoders whose inputs are explained away by predictions from deep pyramidal neurons and thalamic relays, so that only prediction errors pass upward.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "659c1f75-0496-4387-be8b-2bf62d690c65",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "8d07ed5d-834a-43e4-a171-b416b2039125",
+        "locator": "p. 4",
+        "quote": "viewing cortical hierarchies as analogous to VAEs [32, 33], where encoding and generative decoding networks have been folded over at their reduceddimensionality bottlenecks"
+      }
+    ]
+  }
+}

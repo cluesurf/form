@@ -1,0 +1,50 @@
+{
+  "record": "proposition",
+  "id": "227a41ac-0adf-4828-bcb2-18883380693f",
+  "kind": "empirical",
+  "epistemic_status": "inferred",
+  "title": "Interoceptive brainstem nuclei are conserved across species",
+  "statements": [
+    {
+      "id": "1789fdf4-9a28-4502-80a7-4b77511bbbe7",
+      "text": "The interoceptive nuclei of the brainstem are highly conserved across species, which makes them a route for studying consciousness across phylogeny. In primates their integration with cognition adds narrative, reasoning and memory, a continuum of conscious experience.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "1789fdf4-9a28-4502-80a7-4b77511bbbe7",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "ff0acdf5-af27-4677-8f54-177d0de16944",
+        "locator": "5(b) consciousness enables comprehensive homeostatic regulation",
+        "quote": "Because the brainstem’s interoception-dedicated nuclei are highly conserved across species"
+      },
+      {
+        "source": "ff0acdf5-af27-4677-8f54-177d0de16944",
+        "locator": "5(b) consciousness enables comprehensive homeostatic regulation",
+        "quote": "revealing a continuum of conscious experience"
+      }
+    ]
+  }
+}

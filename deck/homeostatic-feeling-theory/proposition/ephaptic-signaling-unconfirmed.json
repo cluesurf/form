@@ -1,0 +1,50 @@
+{
+  "record": "proposition",
+  "id": "782fdb6c-244f-44f2-99b9-46671b5007b0",
+  "kind": "empirical",
+  "epistemic_status": "hypothesized",
+  "title": "Ephaptic signaling in interoception is not yet confirmed",
+  "statements": [
+    {
+      "id": "6938053f-77de-4a32-b00d-07466272c5f0",
+      "text": "Ephaptic interactions are plausible in the interoceptive system and could support the brainstem self-maps, but their presence there is not confirmed, and few studies have characterized the molecules involved in non-synaptic signaling.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "6938053f-77de-4a32-b00d-07466272c5f0",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "ff0acdf5-af27-4677-8f54-177d0de16944",
+        "locator": "4(a)(ii) ephaptic coupling",
+        "quote": "Further research is needed to confirm the presence of ephaptic signalling in the interoceptive system"
+      },
+      {
+        "source": "ff0acdf5-af27-4677-8f54-177d0de16944",
+        "locator": "4(a)(i) volume transmission",
+        "quote": "few studies have characterized the molecules involved"
+      }
+    ]
+  }
+}

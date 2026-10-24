@@ -1,0 +1,45 @@
+{
+  "record": "proposition",
+  "id": "b0253c82-bd35-4f3f-840f-666e98db097e",
+  "kind": "philosophical",
+  "epistemic_status": "hypothesized",
+  "title": "Seeing continues through saccades and blinks",
+  "statements": [
+    {
+      "id": "de551a5c-376f-46cd-8ee4-e6498fbe5a33",
+      "text": "Interruptions of stimulation by saccades and blinks do not interrupt seeing, as a missile still tracks a plane that briefly leaves its sights, because seeing consists in the exercise of mastery of the relevant contingencies, not in a continuous input.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "de551a5c-376f-46cd-8ee4-e6498fbe5a33",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "beab3628-e147-41bc-ac7c-a91b1887dd3f",
+        "locator": "sect. 8.4, p. 968",
+        "quote": "The missile continues to track the plane, and the perceiver continues to see"
+      }
+    ]
+  }
+}

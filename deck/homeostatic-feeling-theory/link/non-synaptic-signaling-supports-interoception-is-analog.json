@@ -1,0 +1,33 @@
+{
+  "record": "link",
+  "id": "f0d27113-7fcb-4ff0-b2b5-2701db475bce",
+  "from": "19c77a6f-8e88-4588-a3b2-3135851beb6d",
+  "to": "931503c6-8254-4f1c-b87c-bb66db950a28",
+  "relation": "supports",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "ff0acdf5-af27-4677-8f54-177d0de16944",
+        "locator": "section 3",
+        "quote": "Unmyelinated fibres allow neurons to partake in various forms of non-synaptic signalling (NSS), including chemical and electromagnetic crosstalk"
+      },
+      {
+        "source": "ff0acdf5-af27-4677-8f54-177d0de16944",
+        "locator": "4(a)(i) volume transmission",
+        "quote": "This neural–non-neural direct interface is at the core of interoception."
+      }
+    ]
+  }
+}

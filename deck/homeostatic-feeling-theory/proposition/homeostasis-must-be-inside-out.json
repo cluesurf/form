@@ -1,0 +1,50 @@
+{
+  "record": "proposition",
+  "id": "68a5c879-67c8-4520-bbfc-13f5e38b1de7",
+  "kind": "empirical",
+  "epistemic_status": "inferred",
+  "title": "Machine homeostasis must expose the system to its own consequences",
+  "statements": [
+    {
+      "id": "ce7fef57-cafb-4cd7-a761-b3dd1c5f1286",
+      "text": "Earlier homeostatic machines were built from the outside in, told to keep arbitrary values in range, without the system itself being exposed to the consequences of its own activity. A homeostatic machine must be vulnerable to the world and so sensitive to its changes.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "ce7fef57-cafb-4cd7-a761-b3dd1c5f1286",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "76277d40-79d6-4151-8abb-15f4c02b739a",
+        "locator": "background, p. 2",
+        "quote": "the homeostatic-like features of prior works were implemented from the outside-in"
+      },
+      {
+        "source": "76277d40-79d6-4151-8abb-15f4c02b739a",
+        "locator": "background, p. 2",
+        "quote": "it was not made vulnerable to the world and therefore sensitive to changes in the world"
+      }
+    ]
+  }
+}

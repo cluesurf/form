@@ -1,0 +1,28 @@
+{
+  "record": "link",
+  "id": "73470c66-a83e-4f0a-99e4-a682bab49824",
+  "from": "16744364-70d5-4eff-bc01-cedabb0ffe55",
+  "to": "f75c9e6e-246a-4c8b-8355-26d6ee89ae64",
+  "relation": "requires",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "beab3628-e147-41bc-ac7c-a91b1887dd3f",
+        "locator": "sect. 2.5, p. 943",
+        "quote": "The sensory modalities, according to the present proposal, are constituted by distinct patterns of sensorimotor contingency."
+      }
+    ]
+  }
+}

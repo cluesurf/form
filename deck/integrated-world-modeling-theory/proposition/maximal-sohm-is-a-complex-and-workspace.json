@@ -1,0 +1,50 @@
+{
+  "record": "proposition",
+  "id": "ad66259d-ce19-40ec-854b-c6269e4ada80",
+  "kind": "empirical",
+  "epistemic_status": "hypothesized",
+  "title": "A maximal SOHM is both a maximum of integrated information and a workspace",
+  "statements": [
+    {
+      "id": "ce9b04bc-c663-4838-9ca9-1b3d0c1697a4",
+      "text": "The largest SOHM of a system computes a joint posterior over the smaller SOHMs within it. Maximal SOHMs may coincide with IIT's maximally irreducible conceptual structures and with global workspaces, while a larger and less irreducible complex that includes the frontal lobes may be needed for access and agentic control.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "ce9b04bc-c663-4838-9ca9-1b3d0c1697a4",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "50c6cd60-7c34-401d-94cf-b40bb3c0b0c0",
+        "locator": "p. 16",
+        "quote": "Maximal SOHMs may be coextensive with both maxima of integrated information (i.e., MICS) and global workspaces."
+      },
+      {
+        "source": "50c6cd60-7c34-401d-94cf-b40bb3c0b0c0",
+        "locator": "p. 15",
+        "quote": "the largest SOHM of a system would generate a joint posterior (or estimate derived thereof) over all smaller SOHMs contained within its scope"
+      }
+    ]
+  }
+}

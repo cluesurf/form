@@ -1,0 +1,28 @@
+{
+  "record": "link",
+  "id": "82465e26-92e3-41a8-a710-e2f1e1254760",
+  "from": "6b45b8c1-16ec-4339-ab53-9ba646db23e1",
+  "to": "ad6b2bde-17e8-4e6d-b34b-36c6ed775858",
+  "relation": "requires",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "696097b2-3865-4f12-a2da-befbbbaa9278",
+        "locator": "R2, p. 1013",
+        "quote": "it becomes necessary to say that it has (at least primitive) visual experiences"
+      }
+    ]
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "record": "proposition",
+  "id": "d13835d0-6119-4633-8114-4de57600482c",
+  "kind": "philosophical",
+  "epistemic_status": "inferred",
+  "title": "Answer: takes no position on a fundamental substance, starts from persisting systems",
+  "statements": [
+    {
+      "id": "47eaf51b-7000-4b85-b457-72dcd8edba54",
+      "text": "IWMT takes no position on what the world is made of. Its starting point is the free energy principle: persisting systems must embody predictive models to resist entropic mixing. On that view every persisting thing has mind-like qualities, which makes the framework panprotopsychist but not panpsychist.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "47eaf51b-7000-4b85-b457-72dcd8edba54",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "50c6cd60-7c34-401d-94cf-b40bb3c0b0c0",
+        "locator": "p. 3",
+        "quote": "The Free Energy Principle states that persisting systems must entail predictive models to resist entropic mixing"
+      },
+      {
+        "source": "8699e341-cc2b-4813-84ce-48b789cbb6e6",
+        "locator": "p. 57",
+        "quote": "both IWMT and FEP-AI could be viewed as panprotopsychist"
+      }
+    ]
+  }
+}

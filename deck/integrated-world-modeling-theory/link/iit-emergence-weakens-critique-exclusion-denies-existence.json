@@ -1,0 +1,33 @@
+{
+  "record": "link",
+  "id": "bbdd84ea-973a-4258-9fb8-1c17fbfd1e89",
+  "from": "4d4a7494-1489-4c61-ab95-57d303e05529",
+  "to": "8ef207d5-77ff-490c-a15c-1999bbbb3123",
+  "relation": "weakens",
+  "strength": null,
+  "rationale": "Relaxing the exclusion postulate for an account of emergence lets non-maximal systems such as rocks exist without being conscious.",
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "50c6cd60-7c34-401d-94cf-b40bb3c0b0c0",
+        "locator": "p. 10",
+        "quote": "IIT-Emergence: an alternative version of the theory where the exclusion axiom is relaxed."
+      },
+      {
+        "source": "50c6cd60-7c34-401d-94cf-b40bb3c0b0c0",
+        "locator": "p. 11",
+        "quote": "This broader version of IIT could also sidestep issues such as quasi-panpsychism, as integrated information would not necessarily represent a sufficient condition for generating conscious experiences."
+      }
+    ]
+  }
+}

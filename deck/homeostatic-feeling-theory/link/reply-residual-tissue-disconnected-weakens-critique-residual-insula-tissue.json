@@ -1,0 +1,33 @@
+{
+  "record": "link",
+  "id": "a66f3371-10bf-4694-9c86-b2379b5d0bb4",
+  "from": "ead2fd21-8ff5-4e5e-b633-5e7c80ef2851",
+  "to": "187633c1-fe84-4ec4-ac9c-541c3b3e6d80",
+  "relation": "weakens",
+  "strength": null,
+  "rationale": "Tissue that is abnormal, disconnected and a small fraction of the original is unlikely to support self-awareness.",
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "09ebe377-94c3-4761-9135-972135ed0c02",
+        "locator": "discussion, p. 14",
+        "quote": "are highly abnormal and have been largely disconnected (both anatomically and functionally) from the rest of the brain"
+      },
+      {
+        "source": "09ebe377-94c3-4761-9135-972135ed0c02",
+        "locator": "discussion, p. 14",
+        "quote": "only 10% of tissue remaining in his insula and 1% of tissue remaining in his ACC"
+      }
+    ]
+  }
+}

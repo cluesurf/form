@@ -1,0 +1,50 @@
+{
+  "record": "proposition",
+  "id": "e9aa8974-a85d-4edb-b39e-79bc2d67a0f4",
+  "kind": "definitional",
+  "epistemic_status": "designed",
+  "title": "Meaning is a difference that makes a difference to a system",
+  "statements": [
+    {
+      "id": "77d14c6c-00f9-4d6b-be87-78842a82da85",
+      "text": "In IWMT, SOHMs require and allow meaningful integrated information, where meaning is a difference that makes a difference to the system's ability to survive and pursue its goals, including the goal of modeling the world for prediction and control.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "77d14c6c-00f9-4d6b-be87-78842a82da85",
+  "status": "active",
+  "voice": "framework",
+  "defines": "meaning",
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "50c6cd60-7c34-401d-94cf-b40bb3c0b0c0",
+        "locator": "p. 16",
+        "quote": "meaning is a difference that makes a difference to the ability of a system to survive and achieve its goals"
+      },
+      {
+        "source": "5b910d6b-804e-43c3-a75e-4b4bfab2a679",
+        "locator": "p. 3",
+        "quote": "where meaning is understood as differences that make a difference to the ability of systems to pursue their goals"
+      }
+    ]
+  }
+}

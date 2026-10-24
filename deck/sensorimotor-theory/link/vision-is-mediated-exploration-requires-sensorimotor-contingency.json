@@ -1,0 +1,28 @@
+{
+  "record": "link",
+  "id": "0a0bec77-9b0b-4903-a30f-8a1e916591d0",
+  "from": "6f659605-978a-482e-87f0-6d41b8624e99",
+  "to": "22824dc0-f658-4713-ba74-748beb69f5de",
+  "relation": "requires",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "beab3628-e147-41bc-ac7c-a91b1887dd3f",
+        "locator": "sect. 1.3, p. 940",
+        "quote": "vision is a mode of exploration of the world that is mediated by knowledge of what we call sensorimotor contingencies"
+      }
+    ]
+  }
+}

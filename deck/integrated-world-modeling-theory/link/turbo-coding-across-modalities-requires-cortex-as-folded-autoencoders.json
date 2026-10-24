@@ -1,0 +1,33 @@
+{
+  "record": "link",
+  "id": "feae4f25-07e0-4636-82f1-8d0f68d727d0",
+  "from": "d64c2c15-4766-4467-a606-0e9c04999012",
+  "to": "514ea4c7-6010-4454-9b87-a35ff8163576",
+  "relation": "requires",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "50c6cd60-7c34-401d-94cf-b40bb3c0b0c0",
+        "locator": "p. 18",
+        "quote": "thus constituting a turbo code (Berrou and Glavieux, 1996), and hence approaching the Shannon limit with respect to optimality in communicating information over noisy channels"
+      },
+      {
+        "source": "50c6cd60-7c34-401d-94cf-b40bb3c0b0c0",
+        "locator": "abstract, p. 1",
+        "quote": "SOHMs are proposed to implement turbo coding via loopy message-passing over predictive"
+      }
+    ]
+  }
+}

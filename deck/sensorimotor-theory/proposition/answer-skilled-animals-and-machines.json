@@ -1,0 +1,50 @@
+{
+  "record": "proposition",
+  "id": "ed26a7cf-e534-4b2f-9122-f84f604a8c23",
+  "kind": "philosophical",
+  "epistemic_status": "hypothesized",
+  "title": "Answer: humans, animals, and in principle machines with rich sensorimotor mastery",
+  "statements": [
+    {
+      "id": "e7fbb38f-8249-4ae1-89f2-9b6cd6562cf8",
+      "text": "Any creature, or machine, that masters sensorimotor contingencies and uses that mastery in thought and action is perceptually conscious. A robot embodied so that its encounters have bodiliness and grabbiness would have at least primitive visual experience, while a simple ping-pong robot would not.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "e7fbb38f-8249-4ae1-89f2-9b6cd6562cf8",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "beab3628-e147-41bc-ac7c-a91b1887dd3f",
+        "locator": "sect. 2.6, p. 944",
+        "quote": "For a creature (or a machine for that matter) to possess visual awareness"
+      },
+      {
+        "source": "696097b2-3865-4f12-a2da-befbbbaa9278",
+        "locator": "R2, p. 1013",
+        "quote": "it becomes necessary to say that it has (at least primitive) visual experiences"
+      }
+    ]
+  }
+}

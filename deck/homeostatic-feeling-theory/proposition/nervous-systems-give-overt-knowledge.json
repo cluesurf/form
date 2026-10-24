@@ -1,0 +1,50 @@
+{
+  "record": "proposition",
+  "id": "fbf3f6d0-2369-4d39-8767-48a689208957",
+  "kind": "empirical",
+  "epistemic_status": "hypothesized",
+  "title": "Nervous systems give overt knowledge, first of the organism itself",
+  "statements": [
+    {
+      "id": "d9359827-caf9-4e38-a29f-4615ad7852c6",
+      "text": "Nervous systems allow overt knowledge, beginning with knowledge about the knowing creature itself, and much of that overt knowledge comes as homeostatic feelings. Overt knowledge opens life regulation by choice and deliberation.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "d9359827-caf9-4e38-a29f-4615ad7852c6",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "bffa9175-d8c1-47f1-8482-8bb416dc0078",
+        "locator": "section 1",
+        "quote": "Nervous systems are a passport to overt knowledge, beginning with knowledge about the knowing creature itself."
+      },
+      {
+        "source": "bffa9175-d8c1-47f1-8482-8bb416dc0078",
+        "locator": "section 1",
+        "quote": "open the way for life regulated by choice and deliberation"
+      }
+    ]
+  }
+}

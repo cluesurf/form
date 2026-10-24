@@ -1,0 +1,50 @@
+{
+  "record": "proposition",
+  "id": "d64c2c15-4766-4467-a606-0e9c04999012",
+  "kind": "empirical",
+  "epistemic_status": "hypothesized",
+  "title": "Linked cortical bottlenecks form a turbo code",
+  "statements": [
+    {
+      "id": "4eab71fa-0dfd-46d9-9138-3cd59e1238c2",
+      "text": "Connections between the low-dimensional bottlenecks of the sensory modalities form an auto-associative network that supports loopy belief propagation, which makes it a turbo code approaching the Shannon limit for transmission over noisy channels. SOHMs are the brain's way of running this message passing, yielding reliable perceptual inference from noisy input.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "4eab71fa-0dfd-46d9-9138-3cd59e1238c2",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "50c6cd60-7c34-401d-94cf-b40bb3c0b0c0",
+        "locator": "p. 18",
+        "quote": "thus constituting a turbo code (Berrou and Glavieux, 1996), and hence approaching the Shannon limit with respect to optimality in communicating information over noisy channels"
+      },
+      {
+        "source": "50c6cd60-7c34-401d-94cf-b40bb3c0b0c0",
+        "locator": "abstract, p. 1",
+        "quote": "SOHMs are proposed to implement turbo coding via loopy message-passing over predictive"
+      }
+    ]
+  }
+}

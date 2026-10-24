@@ -1,0 +1,55 @@
+{
+  "record": "proposition",
+  "id": "3ec1578d-ad04-44d1-b70b-9eae03121b66",
+  "kind": "philosophical",
+  "epistemic_status": "inferred",
+  "title": "Critique: the unfolding argument against causal structure theories",
+  "statements": [
+    {
+      "id": "ab53a099-394f-463f-ae49-34dfcd880101",
+      "text": "Doerig and colleagues argue that any recurrent network can be unfolded into a feedforward network with the same input and output function, so a theory that ties consciousness to causal structure such as recurrence makes claims that behavior can never test. Safron names this as a critique of causal structure theories that IWMT must address.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "ab53a099-394f-463f-ae49-34dfcd880101",
+  "status": "active",
+  "voice": "critique",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "5b910d6b-804e-43c3-a75e-4b4bfab2a679",
+        "locator": "abstract, p. 1",
+        "quote": "potential means of addressing critiques of causal structure theories based on network unfolding"
+      },
+      {
+        "source": "5b910d6b-804e-43c3-a75e-4b4bfab2a679",
+        "locator": "p. 15",
+        "quote": "This is not to say that recurrence is necessarily required for the functionalities associated with consciousness (Doerig et al., 2019)"
+      },
+      {
+        "source": "f3aa8172-34c3-4cb8-8480-0c9efea5fa17",
+        "locator": "whole article",
+        "quote": null
+      }
+    ]
+  }
+}

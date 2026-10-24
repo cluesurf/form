@@ -1,0 +1,50 @@
+{
+  "record": "proposition",
+  "id": "9b526994-ed29-456e-b36a-826e92731c09",
+  "kind": "empirical",
+  "epistemic_status": "hypothesized",
+  "title": "The continuous stream of feeling anchors the self",
+  "statements": [
+    {
+      "id": "9993bfcf-fbe9-4dfc-96eb-d6f34418c410",
+      "text": "The continuous stream of interoceptive feelings reflects the current state of the body and is the basis for an uninterrupted sense of self and of ownership of the body. Exteroception is episodic and describes the world, not the self, and cognition and language build on bodily unity rather than anchor it.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "9993bfcf-fbe9-4dfc-96eb-d6f34418c410",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "ff0acdf5-af27-4677-8f54-177d0de16944",
+        "locator": "5(a) interoceptive feelings support the continuity of conscious experience",
+        "quote": "forming the de facto basis for an uninterrupted sense of self"
+      },
+      {
+        "source": "ff0acdf5-af27-4677-8f54-177d0de16944",
+        "locator": "5(a) interoceptive feelings support the continuity of conscious experience",
+        "quote": "Unlike interoception, they do not anchor bodily unity; instead, they build on it."
+      }
+    ]
+  }
+}

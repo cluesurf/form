@@ -1,0 +1,45 @@
+{
+  "record": "proposition",
+  "id": "b62b8e96-384a-4468-8470-1eb3450eab4b",
+  "kind": "philosophical",
+  "epistemic_status": "hypothesized",
+  "title": "Whether an experience seems worldly, bodily or mental is the degree of bodily control over it",
+  "statements": [
+    {
+      "id": "d8d6ffb7-4229-497e-8489-c0c0c86b1e8c",
+      "text": "An experience has a locus: it seems to come from the world, the body or the mind. This locus can be identified with the degree to which body movements can control the sensorimotor flow of information.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "d8d6ffb7-4229-497e-8489-c0c0c86b1e8c",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "f1b28b4d-1f61-46c5-b98a-5f7d08f2b520",
+        "locator": "p. 2",
+        "quote": "the worldly, bodily, or mental locus of attribution of an experience can be identified with the degree to which we can use our body movements to control the sensorimotor flow of information"
+      }
+    ]
+  }
+}

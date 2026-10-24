@@ -1,0 +1,33 @@
+{
+  "record": "link",
+  "id": "e2b36290-5556-40fe-bbab-efd8c8563187",
+  "from": "f4a96970-fe47-4ca6-bd44-6b5c021eb52c",
+  "to": "f50da5de-f368-4666-af1d-e4f2d0e015f0",
+  "relation": "weakens",
+  "strength": null,
+  "rationale": "The theory needs knowledge of movement effects, not movement itself.",
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "696097b2-3865-4f12-a2da-befbbbaa9278",
+        "locator": "R5, p. 1015",
+        "quote": "It is not our claim that action is necessary for experiencing."
+      },
+      {
+        "source": "696097b2-3865-4f12-a2da-befbbbaa9278",
+        "locator": "R5, p. 1015",
+        "quote": "providing that the person had at some time previously had some kind of control over her visual input"
+      }
+    ]
+  }
+}

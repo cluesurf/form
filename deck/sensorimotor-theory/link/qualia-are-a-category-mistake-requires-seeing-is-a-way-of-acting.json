@@ -1,0 +1,28 @@
+{
+  "record": "link",
+  "id": "276b99e9-a924-4515-8de8-cc8a82689cc1",
+  "from": "d9613503-4d23-4407-94f7-a9d716f0990e",
+  "to": "e8c9d52a-cc6f-4c8b-a7b9-de976a38af05",
+  "relation": "requires",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "beab3628-e147-41bc-ac7c-a91b1887dd3f",
+        "locator": "sect. 6.3, p. 960",
+        "quote": "But experiences, we have argued, are not states. They are ways of acting. They are things we do."
+      }
+    ]
+  }
+}

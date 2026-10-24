@@ -1,0 +1,33 @@
+{
+  "record": "link",
+  "id": "bbe1b413-1873-4b36-93d4-22c869d0ec67",
+  "from": "22512971-bb3b-41b2-834c-755eb3a83a2b",
+  "to": "b62b8e96-384a-4468-8470-1eb3450eab4b",
+  "relation": "requires",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "f1b28b4d-1f61-46c5-b98a-5f7d08f2b520",
+        "locator": "abstract, p. 1",
+        "quote": "this article suggests a path toward a scientific theory of the “hard problem” of phenomenal consciousness"
+      },
+      {
+        "source": "f1b28b4d-1f61-46c5-b98a-5f7d08f2b520",
+        "locator": "p. 3",
+        "quote": "Note that the analysis presented in the next sections should be considered tentative and open to debate."
+      }
+    ]
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "record": "link",
+  "id": "3746d395-e814-4acf-8dcc-417d380007ba",
+  "from": "57f1f1f5-8aa5-4ca7-a356-c30bb7c5c827",
+  "to": "f0259a64-d1b1-481d-b814-402d566f4e0e",
+  "relation": "weakens",
+  "strength": null,
+  "rationale": "Sensorimotor knowledge could cause experience without constituting it.",
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "5d355e6c-b5e6-4f0f-86c6-a3b4eaa1a5e7",
+        "locator": "abstract, p. 1",
+        "quote": "is actually constitutive of perceptual experience rather than merely causally implicated in the origination of such experience"
+      },
+      {
+        "source": "5d355e6c-b5e6-4f0f-86c6-a3b4eaa1a5e7",
+        "locator": "abstract, p. 1",
+        "quote": "conscious perceptual experience only rather indirectly reflects the rich detail of our actual sensorimotor engagements"
+      }
+    ]
+  }
+}

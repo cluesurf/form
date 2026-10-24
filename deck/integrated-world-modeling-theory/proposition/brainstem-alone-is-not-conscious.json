@@ -1,0 +1,50 @@
+{
+  "record": "proposition",
+  "id": "ca071651-9099-40e6-995d-084832e83ba6",
+  "kind": "empirical",
+  "epistemic_status": "hypothesized",
+  "title": "Brainstems alone are probably not conscious",
+  "statements": [
+    {
+      "id": "625922f6-362c-4b1b-82bc-922ea9c451f7",
+      "text": "Against Solms and others who place feeling in the brainstem, IWMT holds that brainstem processes may lack the spatiotemporal and causal coherence needed for experience, so affects may become conscious only through cortical re-representation centered on posterior medial and lateral parietal cortex.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "625922f6-362c-4b1b-82bc-922ea9c451f7",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "d0ff48d4-b22b-432a-9ca1-4e9b5c0e9efb",
+        "locator": "p. 2",
+        "quote": "brainstem processes may be insufficient for realizing this coherent structuring of experience"
+      },
+      {
+        "source": "d0ff48d4-b22b-432a-9ca1-4e9b5c0e9efb",
+        "locator": "p. 6",
+        "quote": "IWMT suggests affective consciousness may require cortical rerepresentation"
+      }
+    ]
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "record": "link",
+  "id": "f1a51b59-c145-4c8f-b395-031d3ea25d5c",
+  "from": "23f09c18-8151-4d2b-b696-a6d8d73ba148",
+  "to": "faf66f39-9e71-41c6-87be-0d63adf3081f",
+  "relation": "defines",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "76277d40-79d6-4151-8abb-15f4c02b739a",
+        "locator": "abstract, p. 1",
+        "quote": "In living organisms, homeostasis is the natural regulation of internal states aimed at maintaining conditions compatible with life."
+      },
+      {
+        "source": "76277d40-79d6-4151-8abb-15f4c02b739a",
+        "locator": "introduction, p. 1",
+        "quote": "Homeostasis is the regulation of internal body states within a range compatible with life."
+      }
+    ]
+  }
+}

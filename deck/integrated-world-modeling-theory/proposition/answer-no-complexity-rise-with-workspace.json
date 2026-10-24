@@ -1,0 +1,45 @@
+{
+  "record": "proposition",
+  "id": "87c0e557-5307-46fb-a3e2-32c0c1e3e76c",
+  "kind": "empirical",
+  "epistemic_status": "hypothesized",
+  "title": "Answer: no rise in integrative complexity during workspace dynamics",
+  "statements": [
+    {
+      "id": "52b42251-1b40-43d6-a5c3-a81f291c92c7",
+      "text": "IWMT names its own falsifier: integrative complexity measures that are not higher during workspace dynamics. A conscious system with no coherent world model, or experience produced without posterior cortex, would also count against it.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "52b42251-1b40-43d6-a5c3-a81f291c92c7",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "5b910d6b-804e-43c3-a75e-4b4bfab2a679",
+        "locator": "p. 11",
+        "quote": "If integrative complexity measures were not found to be higher accompanying workspace dynamics, this could potentially falsify IWMT."
+      }
+    ]
+  }
+}

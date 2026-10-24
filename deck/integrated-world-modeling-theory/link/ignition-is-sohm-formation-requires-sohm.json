@@ -1,0 +1,28 @@
+{
+  "record": "link",
+  "id": "201ba9ad-8dbb-446b-81e3-746f2c2340fe",
+  "from": "7cc3ca29-4012-40fa-8f51-d243e4c0fd7d",
+  "to": "6d33cfcf-4179-4de8-951d-ccc4875854c5",
+  "relation": "requires",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "50c6cd60-7c34-401d-94cf-b40bb3c0b0c0",
+        "locator": "p. 14",
+        "quote": "IWMT specifically proposes that conscious ignition corresponds to surpassing critical thresholds for SOHM formation via self-synchronized neural activity"
+      }
+    ]
+  }
+}

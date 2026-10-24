@@ -1,0 +1,50 @@
+{
+  "record": "proposition",
+  "id": "ea235529-f6d9-477e-8a4a-343399e163e6",
+  "kind": "philosophical",
+  "epistemic_status": "inferred",
+  "title": "Integration and global availability are necessary, not sufficient",
+  "statements": [
+    {
+      "id": "c57cfe37-376a-4c32-8344-6775ff4330ee",
+      "text": "IWMT agrees with IIT and GNWT that integration and widespread availability of information are necessary for consciousness, but denies they are sufficient. Integrated information and workspaces entail experience only in systems that work as Bayesian belief networks and cybernetic controllers for embodied agents.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "c57cfe37-376a-4c32-8344-6775ff4330ee",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "5b910d6b-804e-43c3-a75e-4b4bfab2a679",
+        "locator": "p. 2",
+        "quote": "IWMT agrees with IIT and GNWT with respect to the integration and widespread availability of information as necessary preconditions for consciousness, but disagrees that these are sufficient enabling conditions for subjective experience"
+      },
+      {
+        "source": "50c6cd60-7c34-401d-94cf-b40bb3c0b0c0",
+        "locator": "abstract, p. 1",
+        "quote": "integrated information only entails consciousness for systems with perspectival reference frames capable of generating models with spatial, temporal, and causal coherence for self and world"
+      }
+    ]
+  }
+}

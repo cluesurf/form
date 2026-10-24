@@ -1,0 +1,33 @@
+{
+  "record": "link",
+  "id": "2c75fbbf-0644-4a3f-836a-f47be2078344",
+  "from": "8ef207d5-77ff-490c-a15c-1999bbbb3123",
+  "to": "ae13ef85-5dd2-4d81-be44-2c0099b78153",
+  "relation": "weakens",
+  "strength": null,
+  "rationale": "If only maxima of integrated information exist, many blanketed systems that persist and model their conditions would not count as systems at all.",
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "50c6cd60-7c34-401d-94cf-b40bb3c0b0c0",
+        "locator": "p. 10",
+        "quote": "according to IIT’s exclusion axiom, rocks would not represent actual systems, in that maxima of integrated information would likely be found among separate components"
+      },
+      {
+        "source": "d0ff48d4-b22b-432a-9ca1-4e9b5c0e9efb",
+        "locator": "p. 9",
+        "quote": "Brainstems would therefore be excluded from a MICS/MICE, since its inclusion would generate less Phi."
+      }
+    ]
+  }
+}

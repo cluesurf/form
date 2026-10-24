@@ -1,0 +1,33 @@
+{
+  "record": "link",
+  "id": "1cb02229-a316-47bf-b995-5f09f1b40431",
+  "from": "982a6669-6434-480a-9868-1c81f1392d0b",
+  "to": "d64c2c15-4766-4467-a606-0e9c04999012",
+  "relation": "requires",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "50c6cd60-7c34-401d-94cf-b40bb3c0b0c0",
+        "locator": "p. 15",
+        "quote": "The ability of SOHMs to select aligned patterns may help explain how seemingly definite experiences could emerge from probabilistic world models"
+      },
+      {
+        "source": "5b910d6b-804e-43c3-a75e-4b4bfab2a679",
+        "locator": "p. 12",
+        "quote": "Alternating workspace modes—potentially reflected by the formation/dissolution of mesoscale connectomic modularity"
+      }
+    ]
+  }
+}

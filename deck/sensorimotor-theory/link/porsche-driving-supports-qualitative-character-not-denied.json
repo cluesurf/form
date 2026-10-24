@@ -1,0 +1,28 @@
+{
+  "record": "link",
+  "id": "a70138e4-ccb2-4a92-9bd5-23d53f013015",
+  "from": "ef14167a-1eee-45c2-9153-cba9d0ae2f02",
+  "to": "72389c9a-7317-4cac-8ce6-23dd44ff6848",
+  "relation": "supports",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "beab3628-e147-41bc-ac7c-a91b1887dd3f",
+        "locator": "sect. 6.4, p. 961",
+        "quote": "What it is like to drive a Porsche is constituted by all these sensorimotor contingencies and by one’s skillful mastery of them"
+      }
+    ]
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "record": "proposition",
+  "id": "64337ff3-6ba9-4661-a2e5-296dea8a3a6b",
+  "kind": "empirical",
+  "epistemic_status": "hypothesized",
+  "title": "Answer: experience with no sensorimotor knowledge, or quality that ignores sensorimotor change",
+  "statements": [
+    {
+      "id": "38f5c1e3-7d9a-4f31-a232-202a666dc29b",
+      "text": "Visual experience in someone who never had any control over visual input would count against the theory, as would rerouted cortex keeping its old quality in cases where the sensorimotor view predicts deference to the new input.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "38f5c1e3-7d9a-4f31-a232-202a666dc29b",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "696097b2-3865-4f12-a2da-befbbbaa9278",
+        "locator": "R5, p. 1015",
+        "quote": "providing that the person had at some time previously had some kind of control over her visual input"
+      },
+      {
+        "source": "0110ec01-78ff-40a3-acaa-8bc345947fe4",
+        "locator": "p. 147",
+        "quote": "sensorimotor view predicts deference and an intermodal change in qualitative expression of somatosensory cortex in this case"
+      }
+    ]
+  }
+}

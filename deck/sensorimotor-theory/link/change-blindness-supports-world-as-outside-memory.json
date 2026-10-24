@@ -1,0 +1,33 @@
+{
+  "record": "link",
+  "id": "937d2b6b-5314-492d-91c5-8fda85424822",
+  "from": "fac9c792-8b3d-43bf-a522-993693d853f9",
+  "to": "a0635d26-f2d8-4806-8316-ba4b57825f6c",
+  "relation": "supports",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "beab3628-e147-41bc-ac7c-a91b1887dd3f",
+        "locator": "sect. 5.10, p. 954",
+        "quote": "observers have great difficulty seeing changes, even though the changes are very large, and occur in full view"
+      },
+      {
+        "source": "beab3628-e147-41bc-ac7c-a91b1887dd3f",
+        "locator": "sect. 5.10, p. 954",
+        "quote": "was the impetus for a number of surprising experiments performed recently on “change blindness”"
+      }
+    ]
+  }
+}

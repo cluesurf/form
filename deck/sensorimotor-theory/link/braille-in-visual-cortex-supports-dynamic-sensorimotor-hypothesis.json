@@ -1,0 +1,28 @@
+{
+  "record": "link",
+  "id": "5407de6d-937e-4d06-8882-345e4434cc5d",
+  "from": "c161e215-3560-4043-8018-61b4d6930b34",
+  "to": "0ee322b1-6fe7-4ec5-ab18-9b9a5773916a",
+  "relation": "supports",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "0110ec01-78ff-40a3-acaa-8bc345947fe4",
+        "locator": "p. 139",
+        "quote": "In the early blind subjects, TMS applied to visual cortex produced both errors in Braille reading and reports of tactile illusions"
+      }
+    ]
+  }
+}

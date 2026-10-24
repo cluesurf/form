@@ -1,0 +1,45 @@
+{
+  "record": "proposition",
+  "id": "8553d6a0-fec3-4ebc-a95a-0c109a18d582",
+  "kind": "definitional",
+  "epistemic_status": "designed",
+  "title": "Grabbiness",
+  "statements": [
+    {
+      "id": "aa32fd99-3d35-4259-a81f-b32345c1169a",
+      "text": "Grabbiness is the fact that sudden changes in a perceived thing provoke an automatic orienting reflex, so changes in the thing immediately affect sensory stimulation, while changes in a thing merely thought about do not.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "aa32fd99-3d35-4259-a81f-b32345c1169a",
+  "status": "active",
+  "voice": "framework",
+  "defines": "grabbiness",
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "696097b2-3865-4f12-a2da-befbbbaa9278",
+        "locator": "R1, p. 1012",
+        "quote": "sudden changes in the visual field provoke an automatic orienting reflex"
+      }
+    ]
+  }
+}

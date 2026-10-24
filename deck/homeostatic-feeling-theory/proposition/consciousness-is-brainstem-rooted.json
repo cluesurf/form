@@ -1,0 +1,45 @@
+{
+  "record": "proposition",
+  "id": "5a91500b-7405-4c75-8730-cbd18924aab2",
+  "kind": "empirical",
+  "epistemic_status": "hypothesized",
+  "title": "Consciousness is rooted in brainstem interoception",
+  "statements": [
+    {
+      "id": "2dff1a88-7c58-4691-bb43-3edb49129fe6",
+      "text": "Consciousness is part of a neurobiological process for homeostatic regulation, rooted in interoception and in lower-order brainstem structures, rather than in the activity of higher cortical regions or the complexity of cortical interactions.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "2dff1a88-7c58-4691-bb43-3edb49129fe6",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "ff0acdf5-af27-4677-8f54-177d0de16944",
+        "locator": "4(b) the unique features of the vagus nerve system",
+        "quote": "the brainstem-centred perspective we favour posits consciousness as part of a neurobiological process dedicated to homoeostatic regulation, rooted in interoception and in lower-order brainstem structures"
+      }
+    ]
+  }
+}

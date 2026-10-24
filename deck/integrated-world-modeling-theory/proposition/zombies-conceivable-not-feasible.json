@@ -1,0 +1,45 @@
+{
+  "record": "proposition",
+  "id": "79db9617-2c7a-4a07-99cd-f9a83a76ac0f",
+  "kind": "philosophical",
+  "epistemic_status": "inferred",
+  "title": "Human-equivalent intelligent zombies are conceivable but not feasible",
+  "statements": [
+    {
+      "id": "bc6b2124-806a-4d36-8470-51c12f65d9c7",
+      "text": "An unconscious system with human-equivalent intelligence is theoretically conceivable but practically infeasible, since the coherent world modeling that intelligence needs is what experience is.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "bc6b2124-806a-4d36-8470-51c12f65d9c7",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "50c6cd60-7c34-401d-94cf-b40bb3c0b0c0",
+        "locator": "p. 4",
+        "quote": "Theoretically conceivable, but practically infeasible"
+      }
+    ]
+  }
+}

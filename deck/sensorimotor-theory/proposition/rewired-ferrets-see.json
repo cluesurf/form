@@ -1,0 +1,45 @@
+{
+  "record": "proposition",
+  "id": "ea93ee72-69f8-48b0-9ae4-d2313816ec2e",
+  "kind": "empirical",
+  "epistemic_status": "observed",
+  "title": "Ferrets with retinal input routed to auditory cortex respond as if seeing",
+  "statements": [
+    {
+      "id": "efdbd469-b9e5-43d3-8c27-e3de131c2600",
+      "text": "In newborn ferrets whose retinal nerves were surgically rerouted to auditory thalamus and cortex, retinotopic maps formed in auditory cortex and the animals responded as though stimuli to the rewired side were visual, an example of intermodal deference.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "efdbd469-b9e5-43d3-8c27-e3de131c2600",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "0110ec01-78ff-40a3-acaa-8bc345947fe4",
+        "locator": "p. 138",
+        "quote": "the rewired ferrets respond as though they perceive the stimuli to be visual rather than auditory"
+      }
+    ]
+  }
+}

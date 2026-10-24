@@ -1,0 +1,38 @@
+{
+  "record": "link",
+  "id": "f74b7c8b-4a32-4571-ac39-adfb33e7abf8",
+  "from": "688b253e-3d17-4b9a-b9ec-88e0d34da6c2",
+  "to": "5a91500b-7405-4c75-8730-cbd18924aab2",
+  "relation": "supports",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "09ebe377-94c3-4761-9135-972135ed0c02",
+        "locator": "introduction, p. 2",
+        "quote": "a specific set of nuclei in the brainstem, including the nucleus tractus solitarius, parabrachial nucleus, and the nuclei that compose the periacquaductal gray, has been hypothesized as the neural basis for the"
+      },
+      {
+        "source": "09ebe377-94c3-4761-9135-972135ed0c02",
+        "locator": "introduction, p. 2",
+        "quote": "these nuclei are not those belonging to the ascending reticular activating system"
+      },
+      {
+        "source": "143e5438-a525-48d8-87ba-f9c7ea20db78",
+        "locator": "cited in Philippi et al. 2012",
+        "quote": null
+      }
+    ]
+  }
+}

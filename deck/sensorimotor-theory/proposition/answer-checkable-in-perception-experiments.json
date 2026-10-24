@@ -1,0 +1,50 @@
+{
+  "record": "proposition",
+  "id": "ddd13ecc-cf7d-4bdd-a9d2-3bfabf5dd86c",
+  "kind": "empirical",
+  "epistemic_status": "hypothesized",
+  "title": "Answer: change blindness, sensory substitution, color naming and plasticity",
+  "statements": [
+    {
+      "id": "10d5864f-181b-4dc1-9fb3-1e96473105d6",
+      "text": "The checkable part is a set of perception experiments the approach prompted or predicts: change blindness, sensory substitution with active control, adaptation to inverting goggles, color naming, illusions of ownership and cortical deference after rerouting.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "10d5864f-181b-4dc1-9fb3-1e96473105d6",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "beab3628-e147-41bc-ac7c-a91b1887dd3f",
+        "locator": "sect. 9, p. 971",
+        "quote": "has provided the impetus for a series of surprising experiments on what has come to be known as change blindness"
+      },
+      {
+        "source": "f1b28b4d-1f61-46c5-b98a-5f7d08f2b520",
+        "locator": "p. 2",
+        "quote": "blindness, sensory substitution, illusions of ownership, color naming, pain, and dissociative disorders"
+      }
+    ]
+  }
+}

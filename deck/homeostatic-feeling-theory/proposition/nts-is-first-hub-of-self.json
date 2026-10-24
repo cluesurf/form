@@ -1,0 +1,45 @@
+{
+  "record": "proposition",
+  "id": "4bf329d1-3737-4c2e-86ce-1c921f201c8b",
+  "kind": "empirical",
+  "epistemic_status": "hypothesized",
+  "title": "The nucleus tractus solitarius is the first hub of self-representation",
+  "statements": [
+    {
+      "id": "b0ecc976-1dc7-4ec0-915a-492de3594952",
+      "text": "Vagal inputs are mapped in the nucleus tractus solitarius of the medulla into a detailed representation of the viscera, later re-represented in the insula. The nucleus is the first central hub for self-representation.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "b0ecc976-1dc7-4ec0-915a-492de3594952",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "ff0acdf5-af27-4677-8f54-177d0de16944",
+        "locator": "4(b) the unique features of the vagus nerve system",
+        "quote": "Thus, the NTS serves as the first central hub for self-representation"
+      }
+    ]
+  }
+}

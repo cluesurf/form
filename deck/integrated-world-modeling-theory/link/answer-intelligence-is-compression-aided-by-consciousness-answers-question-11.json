@@ -1,0 +1,28 @@
+{
+  "record": "link",
+  "id": "8f37fe8d-77ac-47a2-9946-6f3d9fab4dc7",
+  "from": "da66c7b6-7555-484f-aba5-f8baf595ac23",
+  "to": "2e0b3782-7e83-4696-98b0-fa81f1c63837",
+  "relation": "answers",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "1827db7d-b3a3-43bf-86af-a0a2ba82d1ae",
+        "locator": "abstract, p. 1",
+        "quote": "consciousness has been proposed to enhance intelligent functioning by allowing for iterative state estimation of the essential variables of a system and its relationships to its environment, conditioned on a causal world model"
+      }
+    ]
+  }
+}

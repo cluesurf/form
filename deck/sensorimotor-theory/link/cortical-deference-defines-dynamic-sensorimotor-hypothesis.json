@@ -1,0 +1,28 @@
+{
+  "record": "link",
+  "id": "5591c409-4fb6-4e8a-83dd-7ddfdc37d2e0",
+  "from": "8d10af60-1b70-4b52-a832-4b70d91c54b5",
+  "to": "0ee322b1-6fe7-4ec5-ab18-9b9a5773916a",
+  "relation": "defines",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "0110ec01-78ff-40a3-acaa-8bc345947fe4",
+        "locator": "abstract, p. 131",
+        "quote": "cortical activity ‘defers’ to the nonstandard sources of input"
+      }
+    ]
+  }
+}

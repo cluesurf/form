@@ -1,0 +1,45 @@
+{
+  "record": "proposition",
+  "id": "b08ce141-e0fd-452f-8e02-b9902fb47bce",
+  "kind": "philosophical",
+  "epistemic_status": "inferred",
+  "title": "Rocks model their persistence but are not conscious",
+  "statements": [
+    {
+      "id": "f7717416-a37e-40ba-8c89-e464f3939917",
+      "text": "By persisting, a rock can be read as a very impoverished generative model, and in that sense everything has a basic intelligence. Rocks lack functional closure with the processes that form them and cannot predict or respond to particular events, so neither rocks nor similar inanimate objects are conscious.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "f7717416-a37e-40ba-8c89-e464f3939917",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "50c6cd60-7c34-401d-94cf-b40bb3c0b0c0",
+        "locator": "p. 10",
+        "quote": "every 'thing' can be viewed as having a basic kind of intelligence by virtue of existing at all, but neither rocks nor other similar inanimate objects are conscious"
+      }
+    ]
+  }
+}

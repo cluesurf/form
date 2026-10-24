@@ -1,0 +1,39 @@
+{
+  "record": "observation",
+  "id": "70775db5-eeb3-43fc-9100-f80b45d8b4d5",
+  "kind": "experimental_result",
+  "epistemic_status": "observed",
+  "description": "Richly connected cortical subnetworks, which Safron takes as the high-bandwidth substrate for turbo coding, consume nearly half of cortical metabolism in humans (van den Heuvel et al. 2012, as reported by Safron).",
+  "method": "instrument",
+  "status": "reported",
+  "source": "50c6cd60-7c34-401d-94cf-b40bb3c0b0c0",
+  "procedure": null,
+  "variable": null,
+  "value": null,
+  "unit": null,
+  "uncertainty": null,
+  "sample_size": null,
+  "replication_count": null,
+  "quality": null,
+  "limitations": "Reported secondhand in Safron 2020. The original study is not read here. It measures cost, not a role in consciousness.",
+  "conflicts_of_interest": null,
+  "observed_at": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "50c6cd60-7c34-401d-94cf-b40bb3c0b0c0",
+        "locator": "p. 18",
+        "quote": "consuming nearly 50% of cortical metabolism in humans (Heuvel et al., 2012)"
+      }
+    ]
+  }
+}

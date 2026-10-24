@@ -1,0 +1,33 @@
+{
+  "record": "link",
+  "id": "7129bf33-e143-4a11-8e58-a2dff6372c11",
+  "from": "ca071651-9099-40e6-995d-084832e83ba6",
+  "to": "f1b11df4-790c-4e9c-85f7-fae6dbe37942",
+  "relation": "requires",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "d0ff48d4-b22b-432a-9ca1-4e9b5c0e9efb",
+        "locator": "p. 2",
+        "quote": "brainstem processes may be insufficient for realizing this coherent structuring of experience"
+      },
+      {
+        "source": "d0ff48d4-b22b-432a-9ca1-4e9b5c0e9efb",
+        "locator": "p. 6",
+        "quote": "IWMT suggests affective consciousness may require cortical rerepresentation"
+      }
+    ]
+  }
+}

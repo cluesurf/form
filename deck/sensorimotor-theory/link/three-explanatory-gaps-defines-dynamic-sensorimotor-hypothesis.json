@@ -1,0 +1,28 @@
+{
+  "record": "link",
+  "id": "6d9152ee-041b-4867-8124-b8cc585d7beb",
+  "from": "b5aa0b5a-40f6-4701-8c4c-062a03ba162e",
+  "to": "0ee322b1-6fe7-4ec5-ab18-9b9a5773916a",
+  "relation": "defines",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "0110ec01-78ff-40a3-acaa-8bc345947fe4",
+        "locator": "p. 132",
+        "quote": "there are three different types of explanatory gap for consciousness"
+      }
+    ]
+  }
+}

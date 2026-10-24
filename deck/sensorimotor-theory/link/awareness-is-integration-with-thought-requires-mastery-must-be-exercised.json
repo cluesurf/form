@@ -1,0 +1,28 @@
+{
+  "record": "link",
+  "id": "626c3f4d-01ad-4a4a-9c3c-3036d37b2133",
+  "from": "ad6b2bde-17e8-4e6d-b34b-36c6ed775858",
+  "to": "4b671793-30ed-4ae2-af9a-d6c98a682a92",
+  "relation": "requires",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "beab3628-e147-41bc-ac7c-a91b1887dd3f",
+        "locator": "sect. 2.6, p. 944",
+        "quote": "it must make use of this exercise for the purposes of thought and planning"
+      }
+    ]
+  }
+}

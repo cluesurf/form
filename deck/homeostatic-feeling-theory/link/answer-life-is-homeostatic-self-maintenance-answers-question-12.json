@@ -1,0 +1,28 @@
+{
+  "record": "link",
+  "id": "2cc1197e-04b4-4910-b41c-006e614cbfc4",
+  "from": "b0124f41-a788-49f5-bc6a-7a1f71d0d2a4",
+  "to": "734fcb43-e2dc-483c-88f6-7694415b743c",
+  "relation": "answers",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "bffa9175-d8c1-47f1-8482-8bb416dc0078",
+        "locator": "section 1",
+        "quote": "the common goal of ensuring self-sustaining chemical operations within a body and thus making the continuation of life possible"
+      }
+    ]
+  }
+}

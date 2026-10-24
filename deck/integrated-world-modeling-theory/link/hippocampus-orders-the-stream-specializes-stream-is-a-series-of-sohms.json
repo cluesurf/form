@@ -1,0 +1,33 @@
+{
+  "record": "link",
+  "id": "eb2dc987-813d-49e0-8e25-4fff341299c8",
+  "from": "3beae321-8e43-4b9b-99ab-8136a44e2f2c",
+  "to": "6f9783ad-f92b-40c7-b712-da22e70fe687",
+  "relation": "specializes",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "8d07ed5d-834a-43e4-a171-b416b2039125",
+        "locator": "p. 5",
+        "quote": "If these samples are sequentially orchestrated according to spatiotemporal trajectories of the entorhinal/hippocampal system [56], this may generate a coherent stream of experience."
+      },
+      {
+        "source": "d91197e3-f013-4585-a3f6-daf659bdd833",
+        "locator": "p. 2",
+        "quote": "We propose that all cognition and goal-oriented behavior (broadly construed to include mental actions) is based on navigation through spatialized (re-)representations"
+      }
+    ]
+  }
+}

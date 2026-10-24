@@ -1,0 +1,50 @@
+{
+  "record": "proposition",
+  "id": "438b2b49-0adc-47c8-8989-782eb9976d61",
+  "kind": "philosophical",
+  "epistemic_status": "hypothesized",
+  "title": "Basic experience is what a generative model of the sensorium is like",
+  "statements": [
+    {
+      "id": "474a78fe-4cfe-4264-879b-9f0258b14fcb",
+      "text": "Basic phenomenal consciousness is what it is like to be the functioning of a probabilistic generative model for the sensorium of an embodied and embedded agent, iteratively filling in likely system and world states from past experience.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "474a78fe-4cfe-4264-879b-9f0258b14fcb",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "50c6cd60-7c34-401d-94cf-b40bb3c0b0c0",
+        "locator": "p. 3",
+        "quote": "Basic phenomenal consciousness is what it is like to be the functioning of a probabilistic generative model for the sensorium of an embodied–embedded agent."
+      },
+      {
+        "source": "d0ff48d4-b22b-432a-9ca1-4e9b5c0e9efb",
+        "locator": "p. 2",
+        "quote": "iteratively estimating (or filling-in) data from likely systemworld states, given past experience"
+      }
+    ]
+  }
+}

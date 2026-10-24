@@ -1,0 +1,86 @@
+{
+  "format": "form.surf/1",
+  "id": "2af70316-011c-4245-90ae-f55dbdd965c6",
+  "name": "homeostatic-feeling-theory",
+  "title": "Homeostatic Feeling Theory of Consciousness",
+  "role": "model",
+  "summary": "Antonio and Hanna Damasio's account of consciousness as grounded in homeostatic feelings: spontaneously conscious experiences of the body's interior, made where unmyelinated interoceptive neurons comingle with the body they map, centered on brainstem nuclei rather than the cortex, and joined to exteroceptive images to give subjectivity and a self.",
+  "framework": {
+    "originators": [
+      "Antonio Damasio",
+      "Hanna Damasio"
+    ],
+    "aliases": [
+      "homeostatic feelings account of consciousness",
+      "feeling and knowing",
+      "feelings are the source of consciousness",
+      "the feeling mind"
+    ],
+    "homepage": null,
+    "publication": {
+      "venue": [
+        "peer_reviewed",
+        "preprint",
+        "book"
+      ],
+      "peer_review": "yes",
+      "replication": "partial"
+    }
+  },
+  "community_written": true,
+  "curators": [
+    {
+      "name": "Lance Pollard",
+      "github": "lancejpollard"
+    }
+  ],
+  "license": "CC-BY-4.0",
+  "atlas": {
+    "scope": [
+      "9a3aecf3-7b12-46fe-a302-20d99f34cc64",
+      "2af4d7a7-23d6-4b80-aeb2-4958c81e2e32",
+      "5a91500b-7405-4c75-8730-cbd18924aab2",
+      "88046b31-23d9-44f8-8699-bd612948d327",
+      "931503c6-8254-4f1c-b87c-bb66db950a28",
+      "3f08fcb6-e98c-4b50-a95f-235cc58ed704"
+    ],
+    "limits": [
+      "782fdb6c-244f-44f2-99b9-46671b5007b0",
+      "b6585ccf-ca2e-467c-925a-4a39c27f7bb7",
+      "6599f9db-b6cd-4b62-86c4-8b511de01d19"
+    ],
+    "issues": [
+      "bdeef19a-2b85-437d-9431-1a9bbb72bc5c",
+      "74b5a510-4c25-40f1-9332-ba44a1369fd4",
+      "ada235ba-27dc-4b79-816d-e604b0fee57e",
+      "9fcdd630-84aa-4316-ba14-51d19fc75765",
+      "187633c1-fe84-4ec4-ac9c-541c3b3e6d80",
+      "292307b8-39b9-4f57-92d8-619b8dd138a1",
+      "0c19e45c-cfa3-4f7a-8ba6-93d9ee9142ea"
+    ],
+    "dead_ends": []
+  },
+  "draws_from": [],
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "bffa9175-d8c1-47f1-8482-8bb416dc0078",
+        "locator": "abstract",
+        "quote": null
+      },
+      {
+        "source": "ff0acdf5-af27-4677-8f54-177d0de16944",
+        "locator": "abstract",
+        "quote": null
+      }
+    ]
+  }
+}

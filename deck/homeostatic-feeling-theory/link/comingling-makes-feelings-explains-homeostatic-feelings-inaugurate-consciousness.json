@@ -1,0 +1,33 @@
+{
+  "record": "link",
+  "id": "e790db12-0c4a-4ddd-93b9-121f5a7d61a8",
+  "from": "2af4d7a7-23d6-4b80-aeb2-4958c81e2e32",
+  "to": "9a3aecf3-7b12-46fe-a302-20d99f34cc64",
+  "relation": "explains",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "bffa9175-d8c1-47f1-8482-8bb416dc0078",
+        "locator": "section 3",
+        "quote": "In our judgement this is the main feature responsible for homeostatic feelings, the physiological feature that most closely accounts for experiences and thus for consciousness"
+      },
+      {
+        "source": "ff0acdf5-af27-4677-8f54-177d0de16944",
+        "locator": "section 1, introduction",
+        "quote": "In each of these arrangements, the body proper and the nervous system merge, one literally sliding onto the other."
+      }
+    ]
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "record": "link",
+  "id": "143943bf-5ab5-4439-997e-f61821233a9e",
+  "from": "787dfee7-b450-4e5a-84eb-561d599bf130",
+  "to": "aade0c29-4405-4fd2-af90-6ac1e687d072",
+  "relation": "supports",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "76277d40-79d6-4151-8abb-15f4c02b739a",
+        "locator": "section 4.1, p. 3",
+        "quote": "At 500 swaps per epoch, the constant-LR classifier is overcome by change and falls to near chance level."
+      },
+      {
+        "source": "76277d40-79d6-4151-8abb-15f4c02b739a",
+        "locator": "discussion, p. 4",
+        "quote": "homeostatic learners are superior to conventional learners under concept shift"
+      }
+    ]
+  }
+}

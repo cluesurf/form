@@ -1,0 +1,50 @@
+{
+  "record": "proposition",
+  "id": "304d0b7d-6c7b-46dd-8d8c-c4365ccc06ac",
+  "kind": "empirical",
+  "epistemic_status": "hypothesized",
+  "title": "Consciousness is a shared latent space that converts between systems",
+  "statements": [
+    {
+      "id": "d70d8680-b225-40d8-aba4-5a5bf3536a58",
+      "text": "Intelligence is compression and prediction, as in AIXI and FEP-AI, and consciousness may serve it as a lingua franca, a semi-interpretable shared latent space for efficiently converting between heterogeneous systems for the sake of functional synergy.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "d70d8680-b225-40d8-aba4-5a5bf3536a58",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "1827db7d-b3a3-43bf-86af-a0a2ba82d1ae",
+        "locator": "p. 3",
+        "quote": "consciousness may be understood as a kind of lingua franca (or semi-interpretable shared latent space) for more efficiently converting between heterogeneous systems"
+      },
+      {
+        "source": "1827db7d-b3a3-43bf-86af-a0a2ba82d1ae",
+        "locator": "p. 3",
+        "quote": "intelligence is understood in terms of abilities to effectively compress information with algorithms of minimal complexity"
+      }
+    ]
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "record": "proposition",
+  "id": "a32d2c3a-ef37-4e5d-abb0-94a93b4ee8d7",
+  "kind": "philosophical",
+  "epistemic_status": "hypothesized",
+  "title": "Systems exist to the degree they generate evidence for themselves",
+  "statements": [
+    {
+      "id": "02832a4c-ca39-442e-81b7-8cfa5ae40f57",
+      "text": "IWMT accepts a modified version of IIT's claim that the degree to which a system exists is the degree to which it is conscious: systems exist to the degree they generate model evidence for themselves, and this entails consciousness only if their models have spatial, temporal and causal coherence.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "02832a4c-ca39-442e-81b7-8cfa5ae40f57",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "50c6cd60-7c34-401d-94cf-b40bb3c0b0c0",
+        "locator": "p. 6",
+        "quote": "systems exist to the degree they generate model evidence for themselves, which may entail consciousness if models have spatial, temporal, and causal coherence for systems and world"
+      }
+    ]
+  }
+}

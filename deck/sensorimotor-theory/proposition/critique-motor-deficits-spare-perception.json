@@ -1,0 +1,50 @@
+{
+  "record": "proposition",
+  "id": "c7250e3a-7780-47dc-a7ac-dd17b6988285",
+  "kind": "empirical",
+  "epistemic_status": "inferred",
+  "title": "Critique: motor deficits leave perception intact",
+  "statements": [
+    {
+      "id": "8dca28d6-5b8f-477c-97d8-164de7e1e5b2",
+      "text": "Jesse Prinz argues that perception is not impaired by paralysis from spinal cord injury, paralysis of the eye muscles, motor cortex atrophy or loss of parietal action centers, so the relation between vision and action is causal, not constitutive.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "8dca28d6-5b8f-477c-97d8-164de7e1e5b2",
+  "status": "active",
+  "voice": "critique",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "c4d51106-5949-44c1-9206-47021c815431",
+        "locator": "p. 10",
+        "quote": "Perception is not impaired by spinal cord injuries that cause paralysis, by paralysis of the eye muscles"
+      },
+      {
+        "source": "c4d51106-5949-44c1-9206-47021c815431",
+        "locator": "abstract, p. 1",
+        "quote": "I conclude that the relationship between vision and action is causal, not constitutive."
+      }
+    ]
+  }
+}

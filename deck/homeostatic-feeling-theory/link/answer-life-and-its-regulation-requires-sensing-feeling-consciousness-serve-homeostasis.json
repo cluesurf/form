@@ -1,0 +1,28 @@
+{
+  "record": "link",
+  "id": "4d030b8d-0d32-450f-85da-128ea54d9081",
+  "from": "765e9c03-7236-4caa-a439-5bd42c67cc74",
+  "to": "faf66f39-9e71-41c6-87be-0d63adf3081f",
+  "relation": "requires",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "bffa9175-d8c1-47f1-8482-8bb416dc0078",
+        "locator": "section 2",
+        "quote": "places consciousness as a critical component of life regulation"
+      }
+    ]
+  }
+}

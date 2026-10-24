@@ -1,0 +1,45 @@
+{
+  "record": "proposition",
+  "id": "8d70ca31-0d25-4f76-987a-b40b398a0fe8",
+  "kind": "philosophical",
+  "epistemic_status": "inferred",
+  "title": "Answer: no position on free will, feelings open regulation by choice",
+  "statements": [
+    {
+      "id": "1600bc16-555c-4795-8cfa-b5045a0f271c",
+      "text": "The account takes no position on free will. It holds that feelings open life regulation by choice and deliberation, and that conscious feelings suggest what the organism should do next, which is its account of agency.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "1600bc16-555c-4795-8cfa-b5045a0f271c",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "bffa9175-d8c1-47f1-8482-8bb416dc0078",
+        "locator": "section 2",
+        "quote": "spontaneously conscious feelings suggest to each organism what it should or might do next"
+      }
+    ]
+  }
+}

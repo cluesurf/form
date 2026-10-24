@@ -1,0 +1,50 @@
+{
+  "record": "proposition",
+  "id": "b5192ab7-c35b-4205-bbd5-306cb2f6de78",
+  "kind": "empirical",
+  "epistemic_status": "inferred",
+  "title": "Sensing in bacteria and plants is intelligent but covert",
+  "statements": [
+    {
+      "id": "2933ce1d-8c28-42c2-8fc5-36196ea42a02",
+      "text": "Sensing is everywhere in nature. Bacteria and plants sense and respond intelligently, but they do not know that they have sensed or responded, and their intelligence belongs to the species more than to the individual. They are not conscious.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "2933ce1d-8c28-42c2-8fc5-36196ea42a02",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "bffa9175-d8c1-47f1-8482-8bb416dc0078",
+        "locator": "section 1",
+        "quote": "Sensing is ubiquitous in nature."
+      },
+      {
+        "source": "bffa9175-d8c1-47f1-8482-8bb416dc0078",
+        "locator": "section 1",
+        "quote": "neither plants nor bacteria know that they have sensed or responded"
+      }
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "record": "link",
+  "id": "a13190a4-026d-4587-982b-d286700e27f1",
+  "from": "cbea29a4-a60c-408e-a361-5b4e7ec01a05",
+  "to": "b62b8e96-384a-4468-8470-1eb3450eab4b",
+  "relation": "requires",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "f1b28b4d-1f61-46c5-b98a-5f7d08f2b520",
+        "locator": "abstract, p. 1",
+        "quote": "can be identified with the degree to which we can voluntarily control what we are doing"
+      }
+    ]
+  }
+}

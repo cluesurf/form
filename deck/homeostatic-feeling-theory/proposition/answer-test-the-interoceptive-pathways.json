@@ -1,0 +1,50 @@
+{
+  "record": "proposition",
+  "id": "a90985e0-f92a-4725-ae08-f9c29d3eb560",
+  "kind": "empirical",
+  "epistemic_status": "hypothesized",
+  "title": "Answer: lesions, interoceptive physiology and conserved nuclei",
+  "statements": [
+    {
+      "id": "b7082f15-c941-4d58-b92f-91c52ff9f7d6",
+      "text": "The account is checked by lesion cases, by testing for non-synaptic and ephaptic signaling in vagal and brainstem pathways, by studying the conserved brainstem nuclei across species, and by multimodal tasks that probe interoception.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "b7082f15-c941-4d58-b92f-91c52ff9f7d6",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "ff0acdf5-af27-4677-8f54-177d0de16944",
+        "locator": "5(a) interoceptive feelings support the continuity of conscious experience",
+        "quote": "Multimodal tasks are needed to probe the various dimensions of interoception"
+      },
+      {
+        "source": "ff0acdf5-af27-4677-8f54-177d0de16944",
+        "locator": "5(b) consciousness enables comprehensive homeostatic regulation",
+        "quote": "they provide a valuable phylogenetic opportunity for studying consciousness"
+      }
+    ]
+  }
+}

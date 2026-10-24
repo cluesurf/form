@@ -1,0 +1,39 @@
+{
+  "record": "observation",
+  "id": "2a860676-d6d3-4eab-acdf-69da501da188",
+  "kind": "experimental_result",
+  "epistemic_status": "observed",
+  "description": "Hallucinogenic compounds expanded the repertoire of connectome harmonic modes, increasing spectral diversity and shifting the distribution of modes toward power laws (Atasoy et al. 2017, as reported by Safron).",
+  "method": "instrument",
+  "status": "reported",
+  "source": "50c6cd60-7c34-401d-94cf-b40bb3c0b0c0",
+  "procedure": null,
+  "variable": null,
+  "value": null,
+  "unit": null,
+  "uncertainty": null,
+  "sample_size": null,
+  "replication_count": null,
+  "quality": null,
+  "limitations": "Reported secondhand in Safron 2020. The original study is not read here. Power laws as a mark of criticality are contested, by his account.",
+  "conflicts_of_interest": null,
+  "observed_at": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "50c6cd60-7c34-401d-94cf-b40bb3c0b0c0",
+        "locator": "p. 14",
+        "quote": "hallucinogenic compounds expanded the repertoire of these harmonic modes (Atasoy et al., 2017), increasing spectral diversity"
+      }
+    ]
+  }
+}

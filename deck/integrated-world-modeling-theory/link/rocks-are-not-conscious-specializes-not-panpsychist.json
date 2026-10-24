@@ -1,0 +1,28 @@
+{
+  "record": "link",
+  "id": "dae58f04-0465-4f8b-ae7c-29afca450c0b",
+  "from": "b08ce141-e0fd-452f-8e02-b9902fb47bce",
+  "to": "03d2d102-2011-48c6-a8bd-6681de2448c9",
+  "relation": "specializes",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "50c6cd60-7c34-401d-94cf-b40bb3c0b0c0",
+        "locator": "p. 10",
+        "quote": "every 'thing' can be viewed as having a basic kind of intelligence by virtue of existing at all, but neither rocks nor other similar inanimate objects are conscious"
+      }
+    ]
+  }
+}

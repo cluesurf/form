@@ -1,0 +1,28 @@
+{
+  "record": "link",
+  "id": "9b3e27a4-2215-4ccc-bf75-5591b3dd1ce0",
+  "from": "637cc611-2c4a-4ad6-be99-a64f734a005e",
+  "to": "6599f9db-b6cd-4b62-86c4-8b511de01d19",
+  "relation": "requires",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "09ebe377-94c3-4761-9135-972135ed0c02",
+        "locator": "conclusion, p. 15",
+        "quote": "our findings emphasize the necessity of utilizing complementary methodologies, such as the human lesion method and functional neuroimaging"
+      }
+    ]
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "record": "proposition",
+  "id": "6f9783ad-f92b-40c7-b712-da22e70fe687",
+  "kind": "empirical",
+  "epistemic_status": "hypothesized",
+  "title": "The stream of experience is a series of SOHM formations",
+  "statements": [
+    {
+      "id": "2ec96706-77b4-4e52-8f43-68f214e2103b",
+      "text": "The stream of experience is a series of SOHM-formation events, each computing a joint posterior or a maximal estimate over the sensorium of an embodied agent, so that each quale state constrains the next.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "2ec96706-77b4-4e52-8f43-68f214e2103b",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "8d07ed5d-834a-43e4-a171-b416b2039125",
+        "locator": "p. 3",
+        "quote": "IWMT further suggests that the stream of experience (Figure 1) is constituted by a series of SOHM-formation events"
+      },
+      {
+        "source": "50c6cd60-7c34-401d-94cf-b40bb3c0b0c0",
+        "locator": "p. 20",
+        "quote": "each quale state would functionally connect and constrain future quale states based on past quale states"
+      }
+    ]
+  }
+}

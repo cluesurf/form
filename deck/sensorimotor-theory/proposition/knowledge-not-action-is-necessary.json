@@ -1,0 +1,50 @@
+{
+  "record": "proposition",
+  "id": "f4a96970-fe47-4ca6-bd44-6b5c021eb52c",
+  "kind": "philosophical",
+  "epistemic_status": "hypothesized",
+  "title": "Knowledge of movement effects, not movement, is necessary for experience",
+  "statements": [
+    {
+      "id": "a29d6e39-3703-4861-8493-ba18ab266edb",
+      "text": "Action is not necessary for experiencing. What is necessary is knowledge of how movements affect sensory stimulation, so a paralyzed person can see if that person once had some control over visual input, and brief or still stimulation is perceived by the modality it is lawfully linked to.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "a29d6e39-3703-4861-8493-ba18ab266edb",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "696097b2-3865-4f12-a2da-befbbbaa9278",
+        "locator": "R5, p. 1015",
+        "quote": "It is not our claim that action is necessary for experiencing."
+      },
+      {
+        "source": "696097b2-3865-4f12-a2da-befbbbaa9278",
+        "locator": "R5, p. 1015",
+        "quote": "providing that the person had at some time previously had some kind of control over her visual input"
+      }
+    ]
+  }
+}

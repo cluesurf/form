@@ -1,0 +1,28 @@
+{
+  "record": "link",
+  "id": "5270d06c-960f-4bb5-9ea4-cd42bc8c2430",
+  "from": "93bf78ce-31c8-4821-9df0-14fce80a0e16",
+  "to": "91bcf6fd-0808-4818-a6b4-ad2e676378a7",
+  "relation": "specializes",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "ff0acdf5-af27-4677-8f54-177d0de16944",
+        "locator": "section 1, introduction",
+        "quote": "represent patterned combinations of homoeostatic shifts in response to challenges to internal stability or opportunities to improve it"
+      }
+    ]
+  }
+}

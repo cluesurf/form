@@ -1,0 +1,45 @@
+{
+  "record": "proposition",
+  "id": "7a863cef-ae6a-4c28-956e-73a40a2ca6f4",
+  "kind": "philosophical",
+  "epistemic_status": "hypothesized",
+  "title": "Mastery of sensorimotor contingencies is practical knowledge",
+  "statements": [
+    {
+      "id": "6c6c0743-37bc-4214-865e-a8c0fc60cee8",
+      "text": "Knowledge of sensorimotor contingencies is practical, not propositional. Perceivers cannot describe the laws, but their brains have extracted them, and a deviation from the laws, as with new glasses, changes the percept.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "6c6c0743-37bc-4214-865e-a8c0fc60cee8",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "beab3628-e147-41bc-ac7c-a91b1887dd3f",
+        "locator": "sect. 3.1, p. 944",
+        "quote": "Mastery of the structure of the rules is not something about which we (in general) possess propositional knowledge."
+      }
+    ]
+  }
+}

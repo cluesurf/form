@@ -1,0 +1,50 @@
+{
+  "record": "proposition",
+  "id": "57f1f1f5-8aa5-4ca7-a356-c30bb7c5c827",
+  "kind": "philosophical",
+  "epistemic_status": "inferred",
+  "title": "Critique: sensorimotor knowledge may be causal rather than constitutive",
+  "statements": [
+    {
+      "id": "c07c1b66-7038-426e-ab7a-4f03c700dc58",
+      "text": "Andy Clark sets three challenges: to find a reading of the central claim between two unsatisfactory ones, to show that the sensorimotor contribution constitutes experience rather than causing it, and to answer models in which experience only coarsely summarizes rich sensorimotor detail for planning and reasoning.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "c07c1b66-7038-426e-ab7a-4f03c700dc58",
+  "status": "active",
+  "voice": "critique",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "5d355e6c-b5e6-4f0f-86c6-a3b4eaa1a5e7",
+        "locator": "abstract, p. 1",
+        "quote": "is actually constitutive of perceptual experience rather than merely causally implicated in the origination of such experience"
+      },
+      {
+        "source": "5d355e6c-b5e6-4f0f-86c6-a3b4eaa1a5e7",
+        "locator": "abstract, p. 1",
+        "quote": "conscious perceptual experience only rather indirectly reflects the rich detail of our actual sensorimotor engagements"
+      }
+    ]
+  }
+}

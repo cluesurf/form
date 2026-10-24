@@ -1,0 +1,45 @@
+{
+  "record": "proposition",
+  "id": "8b801c21-4375-4886-aa1c-abea39c1b526",
+  "kind": "empirical",
+  "epistemic_status": "inferred",
+  "title": "Visual transients grab attention and give vision its vividness",
+  "statements": [
+    {
+      "id": "86c01f49-4e9e-4a13-b9fa-705874e8aba7",
+      "text": "The visual system is sensitive to transients, which automatically direct processing to where a change occurred. This gives perceivers the sense of having tabs on everything that might change, and makes the outside memory of vision more vivid than other memory.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "86c01f49-4e9e-4a13-b9fa-705874e8aba7",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "beab3628-e147-41bc-ac7c-a91b1887dd3f",
+        "locator": "sect. 4.3, p. 947",
+        "quote": "This gives us the impression of “having tabs” on everything that might change"
+      }
+    ]
+  }
+}

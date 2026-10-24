@@ -1,0 +1,28 @@
+{
+  "record": "link",
+  "id": "07abd481-94a6-408c-bf8b-a5e4448869f5",
+  "from": "f4982bb6-c001-4709-9c03-4ce3b239dfed",
+  "to": "f0259a64-d1b1-481d-b814-402d566f4e0e",
+  "relation": "requires",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "200872f4-0dc2-41db-803b-d7c44e919676",
+        "locator": "sect. 1, p. 2",
+        "quote": "What perception is, however, is not a process in the brain, but a kind of skillful activity on the part of the animal as a whole."
+      }
+    ]
+  }
+}

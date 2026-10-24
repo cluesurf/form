@@ -1,0 +1,45 @@
+{
+  "record": "proposition",
+  "id": "c9668d93-7a37-46f5-b61b-e053d0c0ef37",
+  "kind": "philosophical",
+  "epistemic_status": "inferred",
+  "title": "The absolute gap is not addressed",
+  "statements": [
+    {
+      "id": "c9280adc-b5ac-454c-a391-71e1caf69a47",
+      "text": "Hurley and Noë use the dominance and deference distinction to address the comparative gaps only, not the absolute gap of why there is any experience at all.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "c9280adc-b5ac-454c-a391-71e1caf69a47",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "0110ec01-78ff-40a3-acaa-8bc345947fe4",
+        "locator": "abstract, p. 131",
+        "quote": "We use the dominance/deference distinction to address the comparative gaps, both intermodal and intramodal (not the absolute gap)."
+      }
+    ]
+  }
+}

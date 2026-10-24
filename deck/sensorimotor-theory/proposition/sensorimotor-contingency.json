@@ -1,0 +1,45 @@
+{
+  "record": "proposition",
+  "id": "22824dc0-f658-4713-ba74-748beb69f5de",
+  "kind": "definitional",
+  "epistemic_status": "designed",
+  "title": "Sensorimotor contingency",
+  "statements": [
+    {
+      "id": "6a714653-06cf-4cb2-a97f-2de5d9ed263b",
+      "text": "A sensorimotor contingency is a law describing how sensory stimulation changes as a result of movement of the perceiver or of the thing perceived. What differentiates vision from audition or touch is the structure of these rules.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "6a714653-06cf-4cb2-a97f-2de5d9ed263b",
+  "status": "active",
+  "voice": "framework",
+  "defines": "sensorimotor contingency",
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "beab3628-e147-41bc-ac7c-a91b1887dd3f",
+        "locator": "sect. 2.1, p. 941",
+        "quote": "the structure of the rules governing the sensory changes produced by various motor actions"
+      }
+    ]
+  }
+}

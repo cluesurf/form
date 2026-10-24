@@ -1,0 +1,45 @@
+{
+  "record": "proposition",
+  "id": "72389c9a-7317-4cac-8ce6-23dd44ff6848",
+  "kind": "philosophical",
+  "epistemic_status": "hypothesized",
+  "title": "Experience still has qualitative character",
+  "statements": [
+    {
+      "id": "424458b4-7bc7-44cb-818b-3c38ed40b0dd",
+      "text": "Denying qualia is not denying that experience has a qualitative character. That character is constituted by the sensorimotor contingencies at play, and its features are aspects of the activity of experiencing.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "424458b4-7bc7-44cb-818b-3c38ed40b0dd",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "beab3628-e147-41bc-ac7c-a91b1887dd3f",
+        "locator": "sect. 6.3, p. 960",
+        "quote": "we are not denying that experience has a qualitative character"
+      }
+    ]
+  }
+}

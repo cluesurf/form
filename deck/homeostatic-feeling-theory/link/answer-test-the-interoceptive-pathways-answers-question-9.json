@@ -1,0 +1,33 @@
+{
+  "record": "link",
+  "id": "4bbdf33f-87c7-44ee-998c-47e7ddefccca",
+  "from": "a90985e0-f92a-4725-ae08-f9c29d3eb560",
+  "to": "89daaa69-7198-4608-a93d-8a520820bbb9",
+  "relation": "answers",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "ff0acdf5-af27-4677-8f54-177d0de16944",
+        "locator": "5(a) interoceptive feelings support the continuity of conscious experience",
+        "quote": "Multimodal tasks are needed to probe the various dimensions of interoception"
+      },
+      {
+        "source": "ff0acdf5-af27-4677-8f54-177d0de16944",
+        "locator": "5(b) consciousness enables comprehensive homeostatic regulation",
+        "quote": "they provide a valuable phylogenetic opportunity for studying consciousness"
+      }
+    ]
+  }
+}

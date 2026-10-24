@@ -1,0 +1,28 @@
+{
+  "record": "link",
+  "id": "9bccbc2c-7740-4d80-95b6-e22a61c4fc16",
+  "from": "da938313-c032-412d-b2e8-e1cb8bd4c7f8",
+  "to": "6f659605-978a-482e-87f0-6d41b8624e99",
+  "relation": "weakens",
+  "strength": null,
+  "rationale": "Without a definition of mastery or mediation, the central claim is hard to test.",
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "26e2e655-0597-4521-8140-da32a02604a6",
+        "locator": "p. 2",
+        "quote": "is unclear and can generate practical uncertainty at the time of designing an experiment or modeling the behavior of a robot"
+      }
+    ]
+  }
+}

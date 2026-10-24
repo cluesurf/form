@@ -1,0 +1,28 @@
+{
+  "record": "link",
+  "id": "5f4773d3-7cd3-4c88-aee9-e4f076e16b69",
+  "from": "8553d6a0-fec3-4ebc-a95a-0c109a18d582",
+  "to": "7448c7ea-34d1-4a3d-8101-50cf1c93dab1",
+  "relation": "defines",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "696097b2-3865-4f12-a2da-befbbbaa9278",
+        "locator": "R1, p. 1012",
+        "quote": "sudden changes in the visual field provoke an automatic orienting reflex"
+      }
+    ]
+  }
+}

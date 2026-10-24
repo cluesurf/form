@@ -1,0 +1,45 @@
+{
+  "record": "proposition",
+  "id": "9fcdd630-84aa-4316-ba14-51d19fc75765",
+  "kind": "empirical",
+  "epistemic_status": "hypothesized",
+  "title": "Critique: brain computation is digital spiking",
+  "statements": [
+    {
+      "id": "3a6487c1-a13e-4b67-9b75-ffa0cb62baf3",
+      "text": "Computational neuroscience often treats neural signaling as discrete, digital spiking and dismisses analog signaling, which would leave no special role for the analog physiology of interoception.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "3a6487c1-a13e-4b67-9b75-ffa0cb62baf3",
+  "status": "active",
+  "voice": "critique",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "ff0acdf5-af27-4677-8f54-177d0de16944",
+        "locator": "section 8, conclusion",
+        "quote": "Analogue signalling is often dismissed in computational neuroscience"
+      }
+    ]
+  }
+}

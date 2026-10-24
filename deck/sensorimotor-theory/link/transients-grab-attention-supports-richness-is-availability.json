@@ -1,0 +1,28 @@
+{
+  "record": "link",
+  "id": "4c586f27-c870-4600-9063-0b359bf923e8",
+  "from": "8b801c21-4375-4886-aa1c-abea39c1b526",
+  "to": "90527939-edab-4383-9215-62facc05866e",
+  "relation": "supports",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "beab3628-e147-41bc-ac7c-a91b1887dd3f",
+        "locator": "sect. 4.3, p. 947",
+        "quote": "This gives us the impression of “having tabs” on everything that might change"
+      }
+    ]
+  }
+}

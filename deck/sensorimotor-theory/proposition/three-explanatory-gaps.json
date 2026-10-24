@@ -1,0 +1,45 @@
+{
+  "record": "proposition",
+  "id": "b5aa0b5a-40f6-4701-8c4c-062a03ba162e",
+  "kind": "definitional",
+  "epistemic_status": "designed",
+  "title": "The absolute gap and the two comparative gaps",
+  "statements": [
+    {
+      "id": "688771fc-f8d5-4ca8-940c-b415c7f06ea3",
+      "text": "There are three explanatory gaps for consciousness: the absolute gap (why neural processes are accompanied by any experience at all), the intermodal comparative gap (why some activity gives visual rather than auditory experience) and the intramodal comparative gap (why experience as of red rather than green).",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "688771fc-f8d5-4ca8-940c-b415c7f06ea3",
+  "status": "active",
+  "voice": "framework",
+  "defines": "comparative explanatory gap",
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "0110ec01-78ff-40a3-acaa-8bc345947fe4",
+        "locator": "p. 132",
+        "quote": "there are three different types of explanatory gap for consciousness"
+      }
+    ]
+  }
+}

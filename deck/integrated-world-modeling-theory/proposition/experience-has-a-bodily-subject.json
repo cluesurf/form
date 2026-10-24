@@ -1,0 +1,50 @@
+{
+  "record": "proposition",
+  "id": "70a7d92f-222f-44a6-919d-a5b51d2fa443",
+  "kind": "philosophical",
+  "epistemic_status": "hypothesized",
+  "title": "Experience is presented to embodied self-models",
+  "statements": [
+    {
+      "id": "afa10569-5ce7-4680-a87b-adcb81130218",
+      "text": "The Hard problem may require an account of selves. Brains infer mental spaces and populate them with body-centric representations of sensation and action, so experiences are presented to inner experiencers in the form of embodied self-models with degrees of agency, which partly vindicates quasi-Cartesian intuitions.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "afa10569-5ce7-4680-a87b-adcb81130218",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "5b910d6b-804e-43c3-a75e-4b4bfab2a679",
+        "locator": "p. 2",
+        "quote": "it may also be the case that addressing the Hard problem requires understanding the nature of selves"
+      },
+      {
+        "source": "50c6cd60-7c34-401d-94cf-b40bb3c0b0c0",
+        "locator": "p. 23",
+        "quote": "these experiencers may take the form of a variety of embodied self-models with degrees of agency"
+      }
+    ]
+  }
+}

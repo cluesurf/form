@@ -1,0 +1,33 @@
+{
+  "record": "link",
+  "id": "73f05db8-7c85-4a16-aa44-b06353e09de9",
+  "from": "d13835d0-6119-4633-8114-4de57600482c",
+  "to": "03d2d102-2011-48c6-a8bd-6681de2448c9",
+  "relation": "requires",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "50c6cd60-7c34-401d-94cf-b40bb3c0b0c0",
+        "locator": "p. 3",
+        "quote": "The Free Energy Principle states that persisting systems must entail predictive models to resist entropic mixing"
+      },
+      {
+        "source": "8699e341-cc2b-4813-84ce-48b789cbb6e6",
+        "locator": "p. 57",
+        "quote": "both IWMT and FEP-AI could be viewed as panprotopsychist"
+      }
+    ]
+  }
+}

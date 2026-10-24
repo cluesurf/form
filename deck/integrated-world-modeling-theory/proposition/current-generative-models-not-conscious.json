@@ -1,0 +1,45 @@
+{
+  "record": "proposition",
+  "id": "705500d9-ecd1-436e-9b89-47bc7ca3d41c",
+  "kind": "empirical",
+  "epistemic_status": "hypothesized",
+  "title": "Current generative models in machine learning are not conscious",
+  "statements": [
+    {
+      "id": "a5a65c8d-24be-4e6a-8a99-6676b356f417",
+      "text": "Consciousness does not correspond to the output layers of generative models as used in machine learning, nor to the processes that compute them, since those outputs are functionally disconnected from each other and from their generating processes. In brains, joint posteriors are computed by spreading activity scheduled by synchronous dynamics across many hierarchical levels.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "a5a65c8d-24be-4e6a-8a99-6676b356f417",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "50c6cd60-7c34-401d-94cf-b40bb3c0b0c0",
+        "locator": "p. 18",
+        "quote": "IWMT does not suggest that consciousness corresponds to either the output layers of generative models as currently used in machine learning or the processes calculating those outputs."
+      }
+    ]
+  }
+}

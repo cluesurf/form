@@ -1,0 +1,28 @@
+{
+  "record": "link",
+  "id": "2d03a9f6-b9ab-4014-908f-6e32069a1d12",
+  "from": "083ae7db-7884-4c16-b4f3-b1cb4f4d39b4",
+  "to": "af2bc4e4-a1a9-4f67-860c-1460f09cd55c",
+  "relation": "answers",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "5b910d6b-804e-43c3-a75e-4b4bfab2a679",
+        "locator": "p. 15",
+        "quote": "If integrated information corresponds to self-model-evidence as described by FEP-AI, then this would be a very special measure of dynamical complexity"
+      }
+    ]
+  }
+}

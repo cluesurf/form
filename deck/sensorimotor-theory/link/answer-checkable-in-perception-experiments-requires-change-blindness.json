@@ -1,0 +1,33 @@
+{
+  "record": "link",
+  "id": "204daaaf-328c-4af6-9e8c-37c4a439e2a2",
+  "from": "ddd13ecc-cf7d-4bdd-a9d2-3bfabf5dd86c",
+  "to": "fac9c792-8b3d-43bf-a522-993693d853f9",
+  "relation": "requires",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "beab3628-e147-41bc-ac7c-a91b1887dd3f",
+        "locator": "sect. 9, p. 971",
+        "quote": "has provided the impetus for a series of surprising experiments on what has come to be known as change blindness"
+      },
+      {
+        "source": "f1b28b4d-1f61-46c5-b98a-5f7d08f2b520",
+        "locator": "p. 2",
+        "quote": "blindness, sensory substitution, illusions of ownership, color naming, pain, and dissociative disorders"
+      }
+    ]
+  }
+}

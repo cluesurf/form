@@ -1,0 +1,28 @@
+{
+  "record": "link",
+  "id": "12d1ba1b-9e96-427e-8482-1128dddbf3f0",
+  "from": "1f4b2527-0e9e-4e8e-a48f-ae49cbde9835",
+  "to": "a0635d26-f2d8-4806-8316-ba4b57825f6c",
+  "relation": "supports",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "beab3628-e147-41bc-ac7c-a91b1887dd3f",
+        "locator": "sect. 5.10, p. 954",
+        "quote": "observers could be looking directly at the change at the moment the change occurred, and still not see it"
+      }
+    ]
+  }
+}

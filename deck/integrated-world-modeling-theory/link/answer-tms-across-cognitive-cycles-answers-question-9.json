@@ -1,0 +1,33 @@
+{
+  "record": "link",
+  "id": "8621146a-27ef-4a63-94c6-9536dff79ea4",
+  "from": "f9cdd67e-b208-4f96-9375-b2b82bff0555",
+  "to": "89daaa69-7198-4608-a93d-8a520820bbb9",
+  "relation": "answers",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "5b910d6b-804e-43c3-a75e-4b4bfab2a679",
+        "locator": "p. 11",
+        "quote": "These hypotheses could potentially be tested via transcranial magnetic stimulation applied at different phases of cognitive cycles"
+      },
+      {
+        "source": "5b910d6b-804e-43c3-a75e-4b4bfab2a679",
+        "locator": "p. 7",
+        "quote": "if deep association cortices were found to operate according to principles of geometric deep learning, then it would provide strong support for the ideas presented here"
+      }
+    ]
+  }
+}

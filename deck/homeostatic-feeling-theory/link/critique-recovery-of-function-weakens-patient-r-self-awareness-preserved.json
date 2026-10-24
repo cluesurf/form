@@ -1,0 +1,33 @@
+{
+  "record": "link",
+  "id": "d6da9f45-0295-4ee4-bed0-de9d1e9bf4d8",
+  "from": "292307b8-39b9-4f57-92d8-619b8dd138a1",
+  "to": "ecf905f9-6688-491e-9f1e-4f80228ec869",
+  "relation": "weakens",
+  "strength": null,
+  "rationale": "Reorganization over decades could explain preserved awareness without the damaged regions being unnecessary at first.",
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "09ebe377-94c3-4761-9135-972135ed0c02",
+        "locator": "discussion, p. 15",
+        "quote": "if the possibility of recovery of function by recruitment of other brain regions could explain his preserved SA"
+      },
+      {
+        "source": "09ebe377-94c3-4761-9135-972135ed0c02",
+        "locator": "discussion, p. 15",
+        "quote": "We simply do not know, and that is possible"
+      }
+    ]
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "record": "proposition",
+  "id": "e8c9d52a-cc6f-4c8b-a7b9-de976a38af05",
+  "kind": "philosophical",
+  "epistemic_status": "hypothesized",
+  "title": "Seeing is a way of acting",
+  "statements": [
+    {
+      "id": "45d80e87-8fc7-455d-ae7e-10ab135103c4",
+      "text": "Seeing is a way of acting, a particular way of exploring the environment. Activity in internal representations does not generate the experience of seeing. The experience of seeing occurs when the organism masters the governing laws of sensorimotor contingency.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "45d80e87-8fc7-455d-ae7e-10ab135103c4",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "beab3628-e147-41bc-ac7c-a91b1887dd3f",
+        "locator": "abstract, p. 939",
+        "quote": "We propose that seeing is a way of acting. It is a particular way of exploring the environment."
+      },
+      {
+        "source": "beab3628-e147-41bc-ac7c-a91b1887dd3f",
+        "locator": "abstract, p. 939",
+        "quote": "The experience of seeing occurs when the organism masters what we call the governing laws of sensorimotor contingency."
+      }
+    ]
+  }
+}

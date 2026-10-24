@@ -1,0 +1,28 @@
+{
+  "record": "link",
+  "id": "cc7a2af1-1ede-43c0-ad8f-1cf55f87b23d",
+  "from": "04f9afd4-087e-49f0-8c44-1c5c23eed5a6",
+  "to": "3d905170-2b08-4cb5-a0cf-87b0a8a7f017",
+  "relation": "weakens",
+  "strength": null,
+  "rationale": "A synthesis that keeps many posits from many theories is harder to test, since it is unclear which posit a failed prediction would refute.",
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "80b510af-b00e-42dc-b44a-9f53f168d6c3",
+        "locator": "p. 17",
+        "quote": "IWMT aims to provide a synergistic and inclusive (albeit possibly overly-inclusive with respect to ease-of-understanding) account"
+      }
+    ]
+  }
+}

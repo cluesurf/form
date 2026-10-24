@@ -1,0 +1,33 @@
+{
+  "record": "link",
+  "id": "38492328-47a4-4169-bd69-2273a3c013d0",
+  "from": "782fdb6c-244f-44f2-99b9-46671b5007b0",
+  "to": "19c77a6f-8e88-4588-a3b2-3135851beb6d",
+  "relation": "weakens",
+  "strength": null,
+  "rationale": "The electromagnetic part of non-synaptic signaling in interoception is plausible but not yet shown, and its molecules are little studied.",
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "ff0acdf5-af27-4677-8f54-177d0de16944",
+        "locator": "4(a)(ii) ephaptic coupling",
+        "quote": "Further research is needed to confirm the presence of ephaptic signalling in the interoceptive system"
+      },
+      {
+        "source": "ff0acdf5-af27-4677-8f54-177d0de16944",
+        "locator": "4(a)(i) volume transmission",
+        "quote": "few studies have characterized the molecules involved"
+      }
+    ]
+  }
+}

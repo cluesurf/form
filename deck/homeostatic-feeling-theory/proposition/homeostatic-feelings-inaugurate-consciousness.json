@@ -1,0 +1,55 @@
+{
+  "record": "proposition",
+  "id": "9a3aecf3-7b12-46fe-a302-20d99f34cc64",
+  "kind": "philosophical",
+  "epistemic_status": "hypothesized",
+  "title": "Homeostatic feelings are the inaugural events of consciousness",
+  "statements": [
+    {
+      "id": "a016e396-3fd6-42f2-8248-27d25f193c9d",
+      "text": "Homeostatic feelings are the first events of consciousness and its natural grounding. Each one, from hunger and pain to the feeling of breathing, informs the organism that it exists, how it is faring, and that it may need to act.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "a016e396-3fd6-42f2-8248-27d25f193c9d",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "bffa9175-d8c1-47f1-8482-8bb416dc0078",
+        "locator": "section 2",
+        "quote": "the strangely unrecognized status of homeostatic feelings as the inaugural events of consciousness itself"
+      },
+      {
+        "source": "bffa9175-d8c1-47f1-8482-8bb416dc0078",
+        "locator": "section 2",
+        "quote": "is telling us, in no uncertain terms, that we exist, that we are faring well or not so well"
+      },
+      {
+        "source": "bffa9175-d8c1-47f1-8482-8bb416dc0078",
+        "locator": "section 1",
+        "quote": "Such feelings are the natural grounding of consciousness"
+      }
+    ]
+  }
+}

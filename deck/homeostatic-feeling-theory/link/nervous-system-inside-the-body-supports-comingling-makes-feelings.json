@@ -1,0 +1,33 @@
+{
+  "record": "link",
+  "id": "d995b88a-da1e-477f-9e64-b3c5cafa5694",
+  "from": "7310430c-90fa-465b-94f0-368354dd287d",
+  "to": "2af4d7a7-23d6-4b80-aeb2-4958c81e2e32",
+  "relation": "supports",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "bffa9175-d8c1-47f1-8482-8bb416dc0078",
+        "locator": "section 3",
+        "quote": "in any complex organism, the nervous system is entirely located within the perimeter of the body"
+      },
+      {
+        "source": "bffa9175-d8c1-47f1-8482-8bb416dc0078",
+        "locator": "section 3",
+        "quote": "Notably, there is nothing comparable in the relation between the nervous system and the universe that surrounds our organisms."
+      }
+    ]
+  }
+}

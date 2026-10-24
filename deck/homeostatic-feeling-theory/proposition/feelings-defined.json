@@ -1,0 +1,45 @@
+{
+  "record": "proposition",
+  "id": "60daece9-49cc-4ef0-9f92-5b5ca4d6a727",
+  "kind": "definitional",
+  "epistemic_status": "designed",
+  "title": "Feelings",
+  "statements": [
+    {
+      "id": "15d4fd40-39d1-4e40-8668-39bb934a4e54",
+      "text": "Feelings are conscious experiences that arise from the brain's representation of the body's internal state.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "15d4fd40-39d1-4e40-8668-39bb934a4e54",
+  "status": "active",
+  "voice": "framework",
+  "defines": "feeling",
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "ff0acdf5-af27-4677-8f54-177d0de16944",
+        "locator": "section 1, introduction",
+        "quote": "Feelings are conscious experiences that arise from the brain’s representation of the body’s internal state"
+      }
+    ]
+  }
+}

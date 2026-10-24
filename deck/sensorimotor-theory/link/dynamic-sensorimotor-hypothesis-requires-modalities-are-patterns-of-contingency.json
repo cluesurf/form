@@ -1,0 +1,33 @@
+{
+  "record": "link",
+  "id": "3647be7a-cf91-43b0-a05d-e195633fa694",
+  "from": "0ee322b1-6fe7-4ec5-ab18-9b9a5773916a",
+  "to": "16744364-70d5-4eff-bc01-cedabb0ffe55",
+  "relation": "requires",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "0110ec01-78ff-40a3-acaa-8bc345947fe4",
+        "locator": "p. 146",
+        "quote": "According to the dynamic sensorimotor view, perceptual experience is a skillful activity, in part constituted by such practical know-how."
+      },
+      {
+        "source": "0110ec01-78ff-40a3-acaa-8bc345947fe4",
+        "locator": "p. 147",
+        "quote": "Sensorimotor contingencies are more promising in respect of intermodal comparative explanatory gaps than neural correlates of consciousness."
+      }
+    ]
+  }
+}

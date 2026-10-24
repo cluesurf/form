@@ -1,0 +1,50 @@
+{
+  "record": "proposition",
+  "id": "804cae47-20f4-40c4-8f60-b2927bee5763",
+  "kind": "definitional",
+  "epistemic_status": "designed",
+  "title": "Embodied self-models (ESMs)",
+  "statements": [
+    {
+      "id": "7b39fc2a-3428-4956-a57a-ccb617724f60",
+      "text": "An embodied self-model is at once a body map and a cybernetic control hierarchy, made of action and perception cycles grounded in skeletal muscle. ESMs scaffold attention, imagination and action, sit in richly connected mid-level nodes, and are proposed to form communication backbones for global workspaces.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "7b39fc2a-3428-4956-a57a-ccb617724f60",
+  "status": "active",
+  "voice": "framework",
+  "defines": "embodied self-model",
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "8699e341-cc2b-4813-84ce-48b789cbb6e6",
+        "locator": "p. 12",
+        "quote": "ESMs are both body maps and cybernetic control hierarchies, constituted by action-perception cycles grounded in skeletal muscle and associated perceptual efferents"
+      },
+      {
+        "source": "8699e341-cc2b-4813-84ce-48b789cbb6e6",
+        "locator": "p. 12",
+        "quote": "so instantiating communication backbones for global workspaces"
+      }
+    ]
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "record": "proposition",
+  "id": "2fe54859-8f1d-4005-9ace-a05292feab21",
+  "kind": "philosophical",
+  "epistemic_status": "inferred",
+  "title": "Critique: the hard problem remains",
+  "statements": [
+    {
+      "id": "dac6fb1f-a6ab-48f5-af1b-a0c3e3cedb0a",
+      "text": "Andy Clark and Josefa Toribio hold that even if the contents of visual experience reflect ways of acting, the question of why such activity is felt at all is untouched. A ping-pong playing robot that learns its own sensorimotor contingencies meets the stated conditions without plausibly having experience, and the view seems to imply that every difference in contingencies is a difference in experience.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "dac6fb1f-a6ab-48f5-af1b-a0c3e3cedb0a",
+  "status": "active",
+  "voice": "critique",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "487b36aa-6e21-43c9-a010-b17f0bafd741",
+        "locator": "p. 980",
+        "quote": "Even if the contents of our conscious visual experiences reflect ways of acting in the world, the hard problem surely remains."
+      },
+      {
+        "source": "487b36aa-6e21-43c9-a010-b17f0bafd741",
+        "locator": "p. 980",
+        "quote": "it seems implausible to depict such a robot"
+      },
+      {
+        "source": "487b36aa-6e21-43c9-a010-b17f0bafd741",
+        "locator": "abstract, p. 979",
+        "quote": "every difference in sensorimotor contingencies corresponds to a difference in conscious visual experience"
+      }
+    ]
+  }
+}

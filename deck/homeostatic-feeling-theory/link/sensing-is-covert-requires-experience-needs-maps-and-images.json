@@ -1,0 +1,33 @@
+{
+  "record": "link",
+  "id": "7e0682ab-1b8c-41f6-866b-cef09cd58921",
+  "from": "b5192ab7-c35b-4205-bbd5-306cb2f6de78",
+  "to": "bd437704-6498-45e5-bd8f-ccebb8dd6605",
+  "relation": "requires",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "bffa9175-d8c1-47f1-8482-8bb416dc0078",
+        "locator": "section 1",
+        "quote": "Sensing is ubiquitous in nature."
+      },
+      {
+        "source": "bffa9175-d8c1-47f1-8482-8bb416dc0078",
+        "locator": "section 1",
+        "quote": "neither plants nor bacteria know that they have sensed or responded"
+      }
+    ]
+  }
+}

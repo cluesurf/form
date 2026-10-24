@@ -1,0 +1,50 @@
+{
+  "record": "proposition",
+  "id": "3d905170-2b08-4cb5-a0cf-87b0a8a7f017",
+  "kind": "philosophical",
+  "epistemic_status": "designed",
+  "title": "IWMT combines IIT and GNWT inside the free energy principle",
+  "statements": [
+    {
+      "id": "2d37c8e1-068d-447c-9693-84a976cc3c7d",
+      "text": "IWMT is a synthetic theory: it uses the free energy principle and active inference framework (FEP-AI) to combine integrated information theory (IIT) and global neuronal workspace theory (GNWT), treating FEP-AI and IIT as general systems theories and GNWT as a functional account of workspaces.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "2d37c8e1-068d-447c-9693-84a976cc3c7d",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "50c6cd60-7c34-401d-94cf-b40bb3c0b0c0",
+        "locator": "p. 2",
+        "quote": "FEP-AI allows IIT and GNWT to be combined into a synthetic framework for understanding consciousness: IWMT"
+      },
+      {
+        "source": "5b910d6b-804e-43c3-a75e-4b4bfab2a679",
+        "locator": "abstract, p. 1",
+        "quote": "framework to combine insights from integrated information theory (IIT) and global neuronal workspace theory (GNWT)"
+      }
+    ]
+  }
+}

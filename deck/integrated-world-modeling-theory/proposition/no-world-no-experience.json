@@ -1,0 +1,45 @@
+{
+  "record": "proposition",
+  "id": "e1174786-969a-4641-9bbe-3ec6ce060dfe",
+  "kind": "philosophical",
+  "epistemic_status": "inferred",
+  "title": "Without coupling to a structured world there is no experience",
+  "statements": [
+    {
+      "id": "e258b322-41a5-41b8-b5a9-37fa727b0b22",
+      "text": "Beliefs have coherence because they have semantic content from evolving through interactions with a coherently structured world. A system without those meaningful external connections could have arbitrarily large integrative potential and still be nothing that it is like to be.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "e258b322-41a5-41b8-b5a9-37fa727b0b22",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "50c6cd60-7c34-401d-94cf-b40bb3c0b0c0",
+        "locator": "p. 16",
+        "quote": "Without those meaningful external connections, systems could have arbitrarily large amounts of integrative potential, but there still may be nothing that it is like to be such systems."
+      }
+    ]
+  }
+}

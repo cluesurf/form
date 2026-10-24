@@ -1,0 +1,50 @@
+{
+  "record": "proposition",
+  "id": "3f08fcb6-e98c-4b50-a95f-235cc58ed704",
+  "kind": "empirical",
+  "epistemic_status": "hypothesized",
+  "title": "Machines with homeostasis could have a feeling-like device",
+  "statements": [
+    {
+      "id": "3b66e676-7583-4968-93f5-95b473a7ac1d",
+      "text": "Machines that implement a process resembling homeostasis could be built with a feeling-like device that motivates and evaluates their behavior, and such a device may make a learner more adaptive to changing real-world data.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "3b66e676-7583-4968-93f5-95b473a7ac1d",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "76277d40-79d6-4151-8abb-15f4c02b739a",
+        "locator": "introduction, p. 1",
+        "quote": "machines that implement a process resembling homeostasis could be designed to exhibit a feeling-like device for the motivation and evaluation of their behavior"
+      },
+      {
+        "source": "b4d098f3-9211-4913-9b59-8992ed698843",
+        "locator": "cited in Man, Damasio and Neven 2022",
+        "quote": null
+      }
+    ]
+  }
+}

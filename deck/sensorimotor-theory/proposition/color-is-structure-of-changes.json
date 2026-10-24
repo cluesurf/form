@@ -1,0 +1,45 @@
+{
+  "record": "proposition",
+  "id": "2b40b927-9345-42f8-ac29-145af0daacae",
+  "kind": "philosophical",
+  "epistemic_status": "hypothesized",
+  "title": "A perceived color is the structure of changes it causes under movement",
+  "statements": [
+    {
+      "id": "0ab04c63-b31c-4b3f-9642-3076b43711f3",
+      "text": "The visual experience of a red patch depends on the structure of changes in sensory input that occur when the eyes move over the patch or the patch moves, such as shifts from macular absorption and from the uneven spread of cones and rods.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "0ab04c63-b31c-4b3f-9642-3076b43711f3",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "beab3628-e147-41bc-ac7c-a91b1887dd3f",
+        "locator": "sect. 5.7, p. 952",
+        "quote": "What determines the perceived color of the patch is the set of such changes that occur as you move your eyes over it."
+      }
+    ]
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "record": "proposition",
+  "id": "7e45b792-69a6-4f73-a167-90a327c47cc9",
+  "kind": "philosophical",
+  "epistemic_status": "hypothesized",
+  "title": "Experience is what computing joint posteriors over the causes of sensation is like",
+  "statements": [
+    {
+      "id": "96db6288-76c7-4730-acde-728b8f71dd43",
+      "text": "Consciousness may be entailed by a probabilistic model that generates tensors in neuronal phase space specifying joint posteriors, or estimates derived from them, over the causes of sensation. If this is the mathematical object that corresponds to experience, progress has been made on the Hard problem.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "96db6288-76c7-4730-acde-728b8f71dd43",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "50c6cd60-7c34-401d-94cf-b40bb3c0b0c0",
+        "locator": "p. 20",
+        "quote": "consciousness may be entailed by the functioning of a probabilistic model that generates tensors in neuronal (and representational) phase space, specifying joint posteriors"
+      }
+    ]
+  }
+}

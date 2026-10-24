@@ -1,0 +1,50 @@
+{
+  "record": "proposition",
+  "id": "117d48f1-f7ff-4835-be7b-9570f3b98304",
+  "kind": "philosophical",
+  "epistemic_status": "hypothesized",
+  "title": "Embodied autonomous selfhood is a precondition for world modeling",
+  "statements": [
+    {
+      "id": "dc2f8bb9-d4f9-4e7f-b781-7021ae6dec8f",
+      "text": "Besides space, time and cause, IWMT adds embodied autonomous selfhood as a precondition for integrated world modeling. For there to be something that it is like, workspace dynamics must be grounded in models of autonomous embodiment.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "dc2f8bb9-d4f9-4e7f-b781-7021ae6dec8f",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "50c6cd60-7c34-401d-94cf-b40bb3c0b0c0",
+        "locator": "p. 7",
+        "quote": "In addition to space, time, and cause, IWMT adds embodied autonomous selfhood as a precondition for integrated world modeling."
+      },
+      {
+        "source": "50c6cd60-7c34-401d-94cf-b40bb3c0b0c0",
+        "locator": "p. 7",
+        "quote": "workspace dynamics must be grounded in models of autonomous embodiment"
+      }
+    ]
+  }
+}

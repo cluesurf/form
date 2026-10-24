@@ -1,0 +1,50 @@
+{
+  "record": "proposition",
+  "id": "d81d5e6c-62b5-4255-a75c-ff74ffa9863c",
+  "kind": "empirical",
+  "epistemic_status": "inferred",
+  "title": "The vagus nerve maps the internal milieu",
+  "statements": [
+    {
+      "id": "c180c775-71b4-4958-a15d-d9aac349256e",
+      "text": "The vagus nerve is mostly sensory, about 80 percent afferent, and reaches nearly every internal organ. Converging on the nucleus tractus solitarius, it builds dynamic maps of the internal milieu and supports a continuous representation of the organism as a primary substrate for consciousness.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "c180c775-71b4-4958-a15d-d9aac349256e",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "ff0acdf5-af27-4677-8f54-177d0de16944",
+        "locator": "4(b) the unique features of the vagus nerve system",
+        "quote": "the vagus nerve is predominantly sensory; 80% of its fibres are afferent and 20% efferent"
+      },
+      {
+        "source": "ff0acdf5-af27-4677-8f54-177d0de16944",
+        "locator": "4(b) the unique features of the vagus nerve system",
+        "quote": "supporting a continuous representation of the organism as a primary substrate for consciousness"
+      }
+    ]
+  }
+}

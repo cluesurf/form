@@ -1,0 +1,50 @@
+{
+  "record": "proposition",
+  "id": "ada235ba-27dc-4b79-816d-e604b0fee57e",
+  "kind": "philosophical",
+  "epistemic_status": "hypothesized",
+  "title": "Critique: consciousness belongs high in cognition",
+  "statements": [
+    {
+      "id": "9ecd7c16-ab56-410f-b892-5f4ce172809b",
+      "text": "Most accounts place consciousness high in the scale of biological complexity, at the level of cognition or above, as in global workspace, integrated information and higher-order thought theories, and explain it by integration or access rather than by feeling.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "9ecd7c16-ab56-410f-b892-5f4ce172809b",
+  "status": "active",
+  "voice": "critique",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "bffa9175-d8c1-47f1-8482-8bb416dc0078",
+        "locator": "section 2",
+        "quote": "high in the scale of biological complexity, at the level of cognition or even higher"
+      },
+      {
+        "source": "ff0acdf5-af27-4677-8f54-177d0de16944",
+        "locator": "section 6, contrast with other theories of consciousness",
+        "quote": "In contrast to theories such as global neuronal workspace (GNW)"
+      }
+    ]
+  }
+}

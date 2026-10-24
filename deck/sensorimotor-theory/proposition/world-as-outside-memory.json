@@ -1,0 +1,50 @@
+{
+  "record": "proposition",
+  "id": "a0635d26-f2d8-4806-8316-ba4b57825f6c",
+  "kind": "philosophical",
+  "epistemic_status": "hypothesized",
+  "title": "The world serves as an outside memory",
+  "statements": [
+    {
+      "id": "5b13adec-e434-4b7a-a850-ee9cf28f82fb",
+      "text": "The outside world acts as an external memory store that can be probed at will by casting the eyes or attention to a location, so vision need not store a detailed copy of the scene.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "5b13adec-e434-4b7a-a850-ee9cf28f82fb",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "0c9451e4-1b48-4f2a-854e-0e6e812392cc",
+        "locator": "abstract, p. 461",
+        "quote": "the outside world is considered as a kind of external memory store which can be accessed instantaneously by casting one's eyes"
+      },
+      {
+        "source": "beab3628-e147-41bc-ac7c-a91b1887dd3f",
+        "locator": "sect. 4.1, p. 946",
+        "quote": "the outside world acts as an external memory that can be probed at will by the sensory apparatus"
+      }
+    ]
+  }
+}

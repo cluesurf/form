@@ -1,0 +1,33 @@
+{
+  "record": "link",
+  "id": "dc33aa9a-e954-41ba-823f-8e6da74c6dce",
+  "from": "e8c9d52a-cc6f-4c8b-a7b9-de976a38af05",
+  "to": "6f659605-978a-482e-87f0-6d41b8624e99",
+  "relation": "requires",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "beab3628-e147-41bc-ac7c-a91b1887dd3f",
+        "locator": "abstract, p. 939",
+        "quote": "We propose that seeing is a way of acting. It is a particular way of exploring the environment."
+      },
+      {
+        "source": "beab3628-e147-41bc-ac7c-a91b1887dd3f",
+        "locator": "abstract, p. 939",
+        "quote": "The experience of seeing occurs when the organism masters what we call the governing laws of sensorimotor contingency."
+      }
+    ]
+  }
+}

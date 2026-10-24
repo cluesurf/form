@@ -1,0 +1,28 @@
+{
+  "record": "link",
+  "id": "0ec0564b-7d40-432c-b8f1-681cffedb47e",
+  "from": "7a863cef-ae6a-4c28-956e-73a40a2ca6f4",
+  "to": "6f659605-978a-482e-87f0-6d41b8624e99",
+  "relation": "requires",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "beab3628-e147-41bc-ac7c-a91b1887dd3f",
+        "locator": "sect. 3.1, p. 944",
+        "quote": "Mastery of the structure of the rules is not something about which we (in general) possess propositional knowledge."
+      }
+    ]
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "record": "link",
+  "id": "d1a836c8-1823-46db-9ebc-188b50529a09",
+  "from": "ada235ba-27dc-4b79-816d-e604b0fee57e",
+  "to": "d6358680-ac7b-4f65-bdb1-256fa424e68d",
+  "relation": "weakens",
+  "strength": null,
+  "rationale": "If consciousness is a matter of cognitive integration or access, defining it as felt life regulation places it at the wrong level.",
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "bffa9175-d8c1-47f1-8482-8bb416dc0078",
+        "locator": "section 2",
+        "quote": "high in the scale of biological complexity, at the level of cognition or even higher"
+      },
+      {
+        "source": "ff0acdf5-af27-4677-8f54-177d0de16944",
+        "locator": "section 6, contrast with other theories of consciousness",
+        "quote": "In contrast to theories such as global neuronal workspace (GNW)"
+      }
+    ]
+  }
+}
