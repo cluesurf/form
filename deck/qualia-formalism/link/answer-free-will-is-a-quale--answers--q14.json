@@ -1,0 +1,28 @@
+{
+  "record": "link",
+  "id": "a894e827-392d-4df6-95ee-4b3d42a28123",
+  "from": "76050bcd-4562-490a-a582-f7a4e06f0780",
+  "to": "43fc6225-2526-4555-8128-80b38e2fbaf4",
+  "relation": "answers",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "18748a2a-239c-4c8a-84be-d6db8f91e70d",
+        "locator": "appendix, Remarks on the Reality Mapping Problem, p. 66",
+        "quote": null
+      }
+    ]
+  }
+}

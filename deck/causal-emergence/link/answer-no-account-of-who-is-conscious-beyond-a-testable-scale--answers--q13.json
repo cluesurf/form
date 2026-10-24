@@ -1,0 +1,28 @@
+{
+  "record": "link",
+  "id": "f4f71b1e-6109-4401-a396-a6b8bfdbbf25",
+  "from": "b532caed-630a-44b1-be09-e39205690d67",
+  "to": "fa149d96-d797-483c-a560-6a297c01c9b1",
+  "relation": "answers",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "43accee2-70fd-4090-88e9-d71562ee222f",
+        "locator": "Discussion, the spatiotemporal grain of consciousness",
+        "quote": null
+      }
+    ]
+  }
+}

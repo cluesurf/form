@@ -1,0 +1,55 @@
+{
+  "record": "proposition",
+  "id": "45c1809b-5a26-41ba-9ddf-14ac2a2ee8cf",
+  "kind": "philosophical",
+  "epistemic_status": "hypothesized",
+  "title": "Answer: free will is a kind of conscious decision algorithm, compatible with determinism",
+  "statements": [
+    {
+      "id": "b755c9d9-c2cd-4b72-b2bb-b306547c54e7",
+      "text": "In the global workspace theory, an action is voluntary when higher-level circuits control its onset and realization, so it can be easily changed or withheld. Exercising free will is one kind of voluntary decision: setting a goal and choosing a course of action by examining alternatives one after another and evaluating their outcomes internally. Free will is thus a property of a decision algorithm at the cognitive level, not at the neural level, and a deterministic physical system can have it if it can represent a goal and estimate the outcomes of its actions before acting.",
+      "language": "en",
+      "scope": "the 2001 workspace framework of Dehaene and Naccache, section 6.1 on voluntary action and free will",
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "b755c9d9-c2cd-4b72-b2bb-b306547c54e7",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "9b21a09b-835f-4256-afbf-19425df2597e",
+        "locator": "section 6.1, p. 29",
+        "quote": "involves the setting of a goal and the selection of a course of action through the serial examination of various alternatives and the internal evaluation of their possible outcomes."
+      },
+      {
+        "source": "9b21a09b-835f-4256-afbf-19425df2597e",
+        "locator": "section 6.1, p. 29",
+        "quote": "free will characterizes a certain type of decision-making algorithm and is therefore a property that applies at the cognitive or systems level, not at the neural or implementation level."
+      },
+      {
+        "source": "9b21a09b-835f-4256-afbf-19425df2597e",
+        "locator": "section 6.1, p. 30",
+        "quote": "still be described as having free will, if it is able to represent a goal and to estimate the outcomes of its actions before initiating them."
+      }
+    ]
+  }
+}

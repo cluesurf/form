@@ -1,4 +1,4 @@
-# Basal cognition: minds at every scale
+# Basal Cognition: minds at every scale
 
 *Community-written from public sources, AI-extracted, unreviewed, not endorsed by Michael Levin. Each linked claim cites its source.*
 

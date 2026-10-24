@@ -1,0 +1,60 @@
+{
+  "record": "proposition",
+  "id": "61d36e33-2b6c-486f-bb61-0cf258026133",
+  "kind": "philosophical",
+  "epistemic_status": "hypothesized",
+  "title": "Answer: any system it feels like something to be, with the substrate left open and digital computers held out",
+  "statements": [
+    {
+      "id": "c24e14de-ee7a-43a6-9acf-5b22de2e9f34",
+      "text": "A system is conscious if and only if it feels like something to be it, and which objects and processes count toward consciousness is left open as the substrate problem. A frame-invariant theory should apply at non-human scales too, so qualia may lie well beyond the biological life of Earth. The later field account equates a first person perspective with a topologically bounded pocket of a physical field, most likely the brain's electromagnetic field, and holds classical digital computers incapable of creating causally significant experiences.",
+      "language": "en",
+      "scope": "Principia Qualia (2016) and the field topology account of the boundary problem (2023 and later)",
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "c24e14de-ee7a-43a6-9acf-5b22de2e9f34",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "18748a2a-239c-4c8a-84be-d6db8f91e70d",
+        "locator": "Synthesis: Eight Problems for a New Science of Consciousness, p. 22",
+        "quote": "which subset of objects & processes in our chosen ontology 'count' toward consciousness?"
+      },
+      {
+        "source": "18748a2a-239c-4c8a-84be-d6db8f91e70d",
+        "locator": "Some Cosmological Musings, p. 77",
+        "quote": "we need to bite the bullet and accept that it should apply equally at non-human scales as well"
+      },
+      {
+        "source": "9359bfc1-6fff-41a8-8d7c-91af2f730b74",
+        "locator": "section 4.3",
+        "quote": "We will equate a 1PP ontologically and axiomatically with fields shaped into such bounded pockets."
+      },
+      {
+        "source": "5aaa6bc4-6581-4a09-8249-33c9872090bd",
+        "locator": "main text",
+        "quote": "classical digital computers are incapable of creating causally significant experiences"
+      }
+    ]
+  }
+}

@@ -1,6 +1,6 @@
 # Agents working in present-state
 
-This is a form.surf model repository: Present-state theory (Mallavarapu and Percy). Aneil Mallavarapu and Chris Percy's no-go theorem, that under local-state sufficiency and causal efficacy consciousness depends only on a system's present physical state.
+This is a form.surf model repository: Present-State Theory. Aneil Mallavarapu and Chris Percy's no-go theorem, that under local-state sufficiency and causal efficacy consciousness depends only on a system's present physical state.
 Format: form.surf/1, specified at https://form.surf/guides/developers/format.
 
 This repository is community-written. Its records state Aneil Mallavarapu and Chris Percy's

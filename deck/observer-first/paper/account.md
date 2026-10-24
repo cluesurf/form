@@ -1,4 +1,4 @@
-# Algorithmic idealism, the plain account
+# Algorithmic Idealism, the plain account
 
 Physics usually asks what is the case in the world and treats observers as objects inside it. Markus P. Müller reverses the order. He takes as fundamental the first-person question of what an observer will experience next ([the reversal](record:080f095a-9d6b-412e-ae3f-c15feb94e3df)). An observer at a moment is only an abstract pattern, a self state, which in the simplest model is a finite string of bits ([self state](record:30da47c3-b67a-4a4f-b6c9-f5ab0d19bf87)). The one law is that the chance of becoming one next state rather than another is fixed by universal induction on the present state: in the "bit model" this is Solomonoff's algorithmic probability, which gives more weight to continuations that a short computer program would produce ([the postulate](record:9cbf5647-ce05-401f-8910-abd6821c271d)). These chances are objective, not anyone's beliefs, and no underlying world causes them.
 

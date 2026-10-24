@@ -1,6 +1,6 @@
 # Agents working in conscious-agents
 
-This is a form.surf model repository: Conscious agents. Donald Hoffman's interface theory of perception and his theory of conscious agents.
+This is a form.surf model repository: Conscious Agents. Donald Hoffman's interface theory of perception and his theory of conscious agents.
 Format: form.surf/1, specified at https://form.surf/guides/developers/format.
 
 **Community-written from public sources, AI-extracted, unreviewed, and not written or endorsed by Donald Hoffman or his collaborators.** To propose a correction, open an issue or a pull request that changes the record and cites the source passage.

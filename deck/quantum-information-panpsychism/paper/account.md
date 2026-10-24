@@ -1,4 +1,4 @@
-# Quantum information panpsychism (Faggin and D’Ariano)
+# Quantum Information Panpsychism
 
 Faggin and D'Ariano begin from Chalmers's hard problem and take the panpsychist answer in an informational form: [consciousness is a system's experience of its own information state and processing](record:c3e1d8bb-8214-45c9-9318-6b507951f1d0), a fundamental feature of information as mass and charge are of physics. Physics [supervenes on quantum information](record:63648571-14be-474f-9a1e-a6994fcc3181), and quantum information on consciousness.
 

@@ -1,0 +1,50 @@
+{
+  "record": "proposition",
+  "id": "c8fa00e2-c49c-478b-b3cb-ea3a37ec0e6d",
+  "kind": "philosophical",
+  "epistemic_status": "observed",
+  "title": "Answer: the public pages state no account of what consciousness is",
+  "statements": [
+    {
+      "id": "2d6a87c1-ed57-458f-8159-f791f9e061c2",
+      "text": "Matter As Machine takes no position on what consciousness is. The word appears where the site doubts that consciousness replaced instinct in people: what is felt as natural and freely chosen may be an instinct at work, as a beaver might call its dam building a higher, conscious activity. Feelings are read as parts of an algorithm, and the pages do not say what being conscious is.",
+      "language": "en",
+      "scope": "the public pages of matterasmachine.com",
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "2d6a87c1-ed57-458f-8159-f791f9e061c2",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "983ce19a-a7da-4801-9728-4eca49c1b243",
+        "locator": "opening",
+        "quote": "Scientists claim that \"humans have no instincts\", that humans \"replaced animal instincts with consciousness / awareness / whatever\". But is this true?"
+      },
+      {
+        "source": "983ce19a-a7da-4801-9728-4eca49c1b243",
+        "locator": "opening",
+        "quote": "Maybe they would say something like \"building is our higher, conscious activity\"?"
+      }
+    ]
+  }
+}

@@ -1,4 +1,4 @@
-# Invariant set theory
+# Invariant Set Theory
 
 **Community-written from public sources, AI-extracted (claude-opus-5-5), unreviewed. Not written or endorsed by Tim N. Palmer.**
 To propose a correction, open an issue or a pull request that changes the record in question, citing the source and locator that shows the error. A correction from Tim N. Palmer is especially welcome.

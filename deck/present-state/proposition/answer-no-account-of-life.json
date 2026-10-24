@@ -1,0 +1,50 @@
+{
+  "record": "proposition",
+  "id": "62458a6c-4d99-4a7e-a35e-b752a07528da",
+  "kind": "philosophical",
+  "epistemic_status": "observed",
+  "title": "Answer: no account of life, and biological conditions guide where to look for consciousness",
+  "statements": [
+    {
+      "id": "7b7ce569-8ad4-4e08-b463-0b03a890d662",
+      "text": "The theorem takes no position on what life is. Biology enters as a guide: theories that identify the necessary biological conditions for consciousness help find the physical systems whose present state counts. On a state-based theory, natural selection could favor neural systems that produce a conscious physical configuration because of its effects on later neural activity.",
+      "language": "en",
+      "scope": "the no-go theorem, version 1 of the preprint",
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "7b7ce569-8ad4-4e08-b463-0b03a890d662",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "ac2774e1-a04c-4c89-9db2-7848c6f5ce0b",
+        "locator": "section 5.4, p. 14",
+        "quote": "existing theories which identify the necessary biological conditions for consciousness serve as important guides for identifying the physical systems that constitute"
+      },
+      {
+        "source": "ac2774e1-a04c-4c89-9db2-7848c6f5ce0b",
+        "locator": "section 5.4, p. 14",
+        "quote": "Natural selection could then favor neural systems that generate such configurations because of those effects."
+      }
+    ]
+  }
+}

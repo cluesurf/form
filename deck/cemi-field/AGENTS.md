@@ -1,6 +1,6 @@
 # Agents working in cemi-field
 
-This is a form.surf model repository: Conscious electromagnetic information (cemi) field theory. Johnjoe McFadden's theory that consciousness is information integrated in space by the brain's own electromagnetic field, which acts back on neurons.
+This is a form.surf model repository: Conscious Electromagnetic Information (cemi) Field Theory. Johnjoe McFadden's theory that consciousness is information integrated in space by the brain's own electromagnetic field, which acts back on neurons.
 Format: form.surf/1, specified at https://form.surf/guides/developers/format.
 
 Community-written from public sources, AI-extracted, unreviewed. Not written or endorsed by Johnjoe McFadden. To propose a correction, open an issue or pull request that changes the record and cites the source.

@@ -1,6 +1,6 @@
 # Agents working in basal-cognition
 
-This is a form.surf model repository: Basal cognition (Michael Levin). Cognition at every scale of life, with bioelectric networks binding cells into larger goal-directed selves.
+This is a form.surf model repository: Basal Cognition. Cognition at every scale of life, with bioelectric networks binding cells into larger goal-directed selves.
 Format: form.surf/1, specified at https://form.surf/guides/developers/format.
 
 Community-written from public sources. AI-extracted (claude-opus-5-5) and unreviewed. Not written or endorsed by Michael Levin or his collaborators. This repository is community-written. Its records state Michael Levin's own claims from public sources. They are AI-extracted and unreviewed unless a record's `provenance.reviewed` is true. It is not written or endorsed by Michael Levin. To propose a correction, open a pull request that changes the record and cites the source passage.

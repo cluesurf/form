@@ -1,0 +1,28 @@
+{
+  "record": "link",
+  "id": "7f668c78-fa5f-44e0-8abf-edc062dcaff6",
+  "from": "8e2f4274-262d-40f0-9de9-81a6508b41b9",
+  "to": "43fc6225-2526-4555-8128-80b38e2fbaf4",
+  "relation": "answers",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "fd7382f9-52a5-4beb-9680-fc341ff15b98",
+        "locator": "section Philosophical Foundations of an Approach to Diverse Intelligences",
+        "quote": null
+      }
+    ]
+  }
+}

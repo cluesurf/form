@@ -1,0 +1,50 @@
+{
+  "record": "proposition",
+  "id": "5146800f-7b53-4323-b266-9e11c526b8e8",
+  "kind": "philosophical",
+  "epistemic_status": "observed",
+  "title": "Answer: no account of life, which enters only as the organism the workspace serves",
+  "statements": [
+    {
+      "id": "40deb91a-d3cd-49ec-a504-27b47b1477bd",
+      "text": "The global workspace theory takes no position on what life is. The organism enters only in the theory's account of why consciousness evolved: a workspace lets an organism rely on mental simulation and internal evaluation before acting, which lowers its risks and its spending of energy, and frees it from its immediate environment.",
+      "language": "en",
+      "scope": "the 2001 workspace framework of Dehaene and Naccache, section 6.4 on the evolution of consciousness",
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "40deb91a-d3cd-49ec-a504-27b47b1477bd",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "9b21a09b-835f-4256-afbf-19425df2597e",
+        "locator": "section 6.4, p. 31",
+        "quote": "The more an organism can rely on mental simulation and internal evaluation to select a course of action, instead of acting out in the open world, the lower are the risks and the expenditure of energy."
+      },
+      {
+        "source": "9b21a09b-835f-4256-afbf-19425df2597e",
+        "locator": "section 6.4, p. 31",
+        "quote": "whose main advantage is the freeing of the organism from its immediate environment."
+      }
+    ]
+  }
+}

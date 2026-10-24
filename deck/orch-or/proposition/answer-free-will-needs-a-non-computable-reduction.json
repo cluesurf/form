@@ -1,0 +1,50 @@
+{
+  "record": "proposition",
+  "id": "bf83064b-0bff-42fb-9fd4-21f60a0b8f81",
+  "kind": "philosophical",
+  "epistemic_status": "hypothesized",
+  "title": "Answer: free will needs a non-computable factor, which orchestrated reduction may supply",
+  "statements": [
+    {
+      "id": "98f45b18-a341-4a27-8c95-3a3592a060d0",
+      "text": "Orch OR holds that if algorithmic computation fully determined thought there would be no room for independent causal agency or free will, so something non-computable is needed, and it places that factor in orchestrated objective reduction. Each reduction is a choice between alternatives, and the temporal non-locality of entanglement within it may let conscious experience act on behavior despite its timing, giving consciousness causal efficacy and a semblance of free will rather than the role of an epiphenomenal illusion.",
+      "language": "en",
+      "scope": "the 2014 review Consciousness in the universe",
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "98f45b18-a341-4a27-8c95-3a3592a060d0",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "c0602528-f093-4705-abc3-e13d7657a680",
+        "locator": "section 2.1, p. 41",
+        "quote": "appears to preclude any possibility for independent causal agency, or free will. Something else is needed."
+      },
+      {
+        "source": "c0602528-f093-4705-abc3-e13d7657a680",
+        "locator": "section 5.4, p. 64",
+        "quote": "Accordingly, Orch OR could well enable consciousness to have a causal efficacy, despite its apparently anomalous relation to a timing assigned to it in relation to an external clock, thereby allowing conscious action to provide a semblance of free will"
+      }
+    ]
+  }
+}

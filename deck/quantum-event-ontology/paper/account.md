@@ -1,4 +1,4 @@
-# Quantum panprotopsychism (Gambini and Pullin)
+# Quantum Panprotopsychism
 
 Gambini and Pullin start from what physics can say. Its laws describe regularities in how things behave and say nothing about what things are in themselves, a position they call [regularism](record:5f5b559b-e83d-4dce-ada4-f178e1d0fabc). Classical physics is causally closed, so any inner aspect of matter would do nothing. Quantum mechanics is not: [its probabilistic laws leave room](record:381c8ebe-c7b5-493d-9430-dcab5ccba03b) for something that is not fixed by the laws without breaking them.
 

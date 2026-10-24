@@ -1,4 +1,4 @@
-# Vibe
+# Vibe Theory
 
 Vibe explores whether the physical world and experience could both come out of one discrete rule. Its committed choices are few. Space is the four-dimensional hyperbolic honeycomb {3,4,3,4}, whose docks are 24-cells with one slot per direction ([space](record:3e791c75-5131-48c7-b552-2a4bb9feff6c)). Each slot holds a vibe, fear, calm or love (-1, 0, +1), with a role point, and each link holds a grid move and a flow ([the slot](record:701c617a-622b-4d2f-8068-f60c9937cc6a)). One update, the knit, runs every beat: a collision in every dock, then each slot streams to its neighbor ([the knit](record:12f3727e-0b31-4009-8b40-752ced848dfb)). The knit can be run backward exactly and keeps love minus fear constant ([reversibility](record:f0af02b4-357b-4420-a419-1fe5fb7b82d5)), and it draws no random number ([no chance](record:8970bc1c-5af7-42e4-a7e5-8d752dba9174)). Nothing else is base. Physics is meant to appear one to three emergent layers above the vibes, read on the three-dimensional husk of the four-dimensional mesh, never in the mesh's interior.
 

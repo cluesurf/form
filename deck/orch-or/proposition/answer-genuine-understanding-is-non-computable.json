@@ -1,0 +1,55 @@
+{
+  "record": "proposition",
+  "id": "2a257891-b108-4733-b6ec-6f9640e51c5c",
+  "kind": "philosophical",
+  "epistemic_status": "hypothesized",
+  "title": "Answer: no general account of intelligence, and genuine understanding is non-computable",
+  "statements": [
+    {
+      "id": "e105f5e6-c723-4253-ad93-50941cd09371",
+      "text": "Orch OR gives no general definition of intelligence, and holds that its highest form, genuine understanding, is beyond any computation. Following Penrose's argument from Godel's theorem against strong artificial intelligence, understanding must come from a non-computable effect, which Orch OR places in objective reduction. Simpler intelligent behavior needs no synapses: single-cell organisms such as Paramecium solve problems through processing in their cytoskeleton, and quantum computation in microtubules may be useful without reaching reduction.",
+      "language": "en",
+      "scope": "the 2014 review Consciousness in the universe",
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "e105f5e6-c723-4253-ad93-50941cd09371",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "c0602528-f093-4705-abc3-e13d7657a680",
+        "locator": "section 4.1, p. 48",
+        "quote": "certain aspects of human consciousness, such as understanding, must be beyond the scope of any computational system"
+      },
+      {
+        "source": "c0602528-f093-4705-abc3-e13d7657a680",
+        "locator": "section 2.3, p. 43",
+        "quote": "are the means by which single-cell organisms perform cognitive functions without synaptic inputs."
+      },
+      {
+        "source": "c0602528-f093-4705-abc3-e13d7657a680",
+        "locator": "section 5.5, p. 66",
+        "quote": "Only at a much later evolutionary stage would the selective advantages of a capability for genuine understanding come about, requiring the non-computability of Orch OR"
+      }
+    ]
+  }
+}

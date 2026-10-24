@@ -1,4 +1,4 @@
-# Conscious electromagnetic information (cemi) field theory
+# Conscious Electromagnetic Information (cemi) Field Theory
 
 The cemi field theory starts from the binding problem: the parts of a scene, or the words of a line of poetry, are processed in separate places in the brain yet arrive as one experience. McFadden takes Landauer's dictum that information is physical at its word, so [integrated information must be physically integrated](record:31fb3902-c693-4868-82d1-8dc22612fd1c). Neurons, circuits and computers [integrate only in time](record:9f4186fa-fe97-4f6a-86b1-bf33b8c9f1c3): an output is correlated with many inputs, but no one physical state holds them all at once. [Only energy fields integrate information in space](record:e8666246-8535-4817-9f45-1d531be92c99), and a field can compute, running [an algorithm in space rather than in time](record:f3328fe9-a19d-4e14-8c3c-f65ab7c30bee).
 

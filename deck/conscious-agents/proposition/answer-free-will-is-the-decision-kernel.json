@@ -1,0 +1,55 @@
+{
+  "record": "proposition",
+  "id": "006d4680-bc8a-41ff-898a-8e6baf3c9de7",
+  "kind": "philosophical",
+  "epistemic_status": "hypothesized",
+  "title": "Answer: free will is modeled by the decision kernel, read as a true nondeterminism",
+  "statements": [
+    {
+      "id": "5945b389-2e03-4860-bbc6-bc5c4b73b134",
+      "text": "A conscious agent has free will, and its decision kernel models it. For each experience the agent has, the decision kernel gives a probability measure on the actions it might choose, and that measure represents the agent's free choice. These probabilities are read as objective, a true nondeterminism in nature, while the other probabilities in the model are read as subjective degrees of belief. Agency is the loop of perceiving, deciding and acting, through which an agent affects the state of the world.",
+      "language": "en",
+      "scope": "Objects of consciousness (2014), which defines the conscious agent",
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "5945b389-2e03-4860-bbc6-bc5c4b73b134",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "9f6802be-e2fa-4f89-b303-461db4c74e7e",
+        "locator": "objections and replies, reply 4, p. 15",
+        "quote": "The kernel D represents the free will choices of the conscious agent C."
+      },
+      {
+        "source": "9f6802be-e2fa-4f89-b303-461db4c74e7e",
+        "locator": "objections and replies, reply 4, p. 15",
+        "quote": "we interpret the probabilities as objective probabilities, i.e., as representing a true nondeterminism in nature"
+      },
+      {
+        "source": "9f6802be-e2fa-4f89-b303-461db4c74e7e",
+        "locator": "p. 6",
+        "quote": "In the process of action, the conscious agent interacts with the world in light of the decision it has taken, and affects the state of the world."
+      }
+    ]
+  }
+}

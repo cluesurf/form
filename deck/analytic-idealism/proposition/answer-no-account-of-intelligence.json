@@ -1,0 +1,55 @@
+{
+  "record": "proposition",
+  "id": "77e5fd37-2196-4fbd-9308-15eec980ae53",
+  "kind": "philosophical",
+  "epistemic_status": "observed",
+  "title": "Answer: no account of intelligence, and cosmic experience is not claimed to be cognition",
+  "statements": [
+    {
+      "id": "02387d4b-adee-474b-a7fb-eaee451ce704",
+      "text": "Analytic idealism takes no position on what intelligence is. Its claim about the cosmos concerns raw experience only: the hypothesis is not that the universe has cognition, the capacity to acquire knowledge or understanding. Cognition enters elsewhere only in passing, as doubt that an electron has enough cognitive complexity to separate its inner life from the rest, and machines engineered to simulate the behavior of living beings do not count as dissociated subjects.",
+      "language": "en",
+      "scope": "the 2018 paper The universe in consciousness and the 2017 reply to criticisms, On the plausibility of idealism",
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "02387d4b-adee-474b-a7fb-eaee451ce704",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b6b6c2ee-ad86-4b5b-b1cb-c6f50cd71910",
+        "locator": "section 14, pp. 30-31",
+        "quote": "the hypothesis is not even that the universe has cognition, defined as the capacity to acquire knowledge or understanding."
+      },
+      {
+        "source": "9c8de529-0562-4ede-9748-a99db6ec0056",
+        "locator": "p. 138",
+        "quote": "It seems highly unlikely that there is enough cognitive complexity"
+      },
+      {
+        "source": "9c8de529-0562-4ede-9748-a99db6ec0056",
+        "locator": "section 10, p. 145",
+        "quote": "engineered by humans to merely simulate the behaviour of living beings"
+      }
+    ]
+  }
+}

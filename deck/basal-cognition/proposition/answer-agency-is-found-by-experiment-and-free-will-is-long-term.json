@@ -1,0 +1,60 @@
+{
+  "record": "proposition",
+  "id": "8e2f4274-262d-40f0-9de9-81a6508b41b9",
+  "kind": "philosophical",
+  "epistemic_status": "hypothesized",
+  "title": "Answer: agency is found by experiment, and complex minds have a long-term free will",
+  "statements": [
+    {
+      "id": "66e49489-a458-461f-bab4-fa511d2ad9bf",
+      "text": "How much agency a system has is not settled by philosophy or definition but by experiment: a system sits on a continuum of persuadability, set by which tools, from rewiring its parts to rewards to rational argument, best predict and change its behavior. Free will is not treated as all or nothing. Minds sophisticated enough to be changed deeply by information have a long-term version of free will, the ability through practice and repeated effort to change their own thinking patterns, responses and cognition. The felt sense of free will may be one part of a mind estimating the agency of its other parts.",
+      "language": "en",
+      "scope": "the TAME paper (2022): its philosophical foundations, the persuadability axis of Figure 2, and section Consciousness",
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "66e49489-a458-461f-bab4-fa511d2ad9bf",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "fd7382f9-52a5-4beb-9680-fc341ff15b98",
+        "locator": "section Philosophical Foundations of an Approach to Diverse Intelligences",
+        "quote": "the correct answer to how much agency a system has cannot be settled by philosophy"
+      },
+      {
+        "source": "fd7382f9-52a5-4beb-9680-fc341ff15b98",
+        "locator": "Introduction, axis of persuadability",
+        "quote": "Persuadability refers to the type of conceptual and practical tools that are optimal to rationally modify a given system's behavior."
+      },
+      {
+        "source": "fd7382f9-52a5-4beb-9680-fc341ff15b98",
+        "locator": "Figure 2 caption",
+        "quote": "it avails those kinds of minds with a long term version of free will: the ability through practice and repeated effort to change their own thinking patterns, responses to stimuli, and functional cognition."
+      },
+      {
+        "source": "fd7382f9-52a5-4beb-9680-fc341ff15b98",
+        "locator": "section Consciousness",
+        "quote": "Perhaps the confabulation system enables one part of our mind to estimate the agency of other parts (the feelings of consciousness and free will)"
+      }
+    ]
+  }
+}

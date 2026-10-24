@@ -38,24 +38,24 @@ vote.
 
 ## The theories
 
-| folder | framework |
-| :--- | :--- |
-| [`patterns`](deck/patterns/) | Patterns: what the folders below have in common or at issue |
-| [`analytic-idealism`](deck/analytic-idealism/) | Analytic idealism (Bernardo Kastrup) |
-| [`basal-cognition`](deck/basal-cognition/) | Basal cognition (Michael Levin) |
-| [`causal-emergence`](deck/causal-emergence/) | Causal emergence (Erik Hoel) |
-| [`chronoflux`](deck/chronoflux/) | Chronoflux (Roy D. Herbert) |
-| [`conscious-agents`](deck/conscious-agents/) | Conscious agents (Donald Hoffman) |
-| [`free-energy-principle`](deck/free-energy-principle/) | Free energy principle (Karl Friston) |
-| [`global-workspace`](deck/global-workspace/) | Global workspace theory (Bernard Baars, Stanislas Dehaene) |
-| [`iit`](deck/iit/) | Integrated information theory (Giulio Tononi) |
-| [`matter-as-machine`](deck/matter-as-machine/) | Matter As Machine (the author of matterasmachine.com) |
-| [`orch-or`](deck/orch-or/) | Orchestrated objective reduction (Roger Penrose, Stuart Hameroff) |
-| [`predictive-processing`](deck/predictive-processing/) | Predictive processing (Anil Seth) |
-| [`present-state`](deck/present-state/) | Present-state theory (Aneil Mallavarapu, Chris Percy) |
-| [`qualia-formalism`](deck/qualia-formalism/) | Qualia formalism (Qualia Research Institute) |
-| [`quantum-observers`](deck/quantum-observers/) | Quantum observers (Chris Fields) |
-| [`vibe`](deck/vibe/) | Vibe (Lance Pollard) |
+| folder | framework | originators |
+| :--- | :--- | :--- |
+| [`patterns`](deck/patterns/) | Patterns: what the folders below have in common or at issue |  |
+| [`analytic-idealism`](deck/analytic-idealism/) | Analytic Idealism | Bernardo Kastrup |
+| [`basal-cognition`](deck/basal-cognition/) | Basal Cognition | Michael Levin |
+| [`causal-emergence`](deck/causal-emergence/) | Causal Emergence | Erik Hoel |
+| [`chronoflux`](deck/chronoflux/) | Chronoflux | Roy D. Herbert |
+| [`conscious-agents`](deck/conscious-agents/) | Conscious Agents | Donald Hoffman |
+| [`free-energy-principle`](deck/free-energy-principle/) | Free Energy Principle | Karl Friston |
+| [`global-workspace`](deck/global-workspace/) | Global Workspace Theory | Bernard Baars, Stanislas Dehaene |
+| [`iit`](deck/iit/) | Integrated Information Theory | Giulio Tononi |
+| [`matter-as-machine`](deck/matter-as-machine/) | Matter as Machine | the author of matterasmachine.com |
+| [`orch-or`](deck/orch-or/) | Orchestrated Objective Reduction (Orch OR) | Roger Penrose, Stuart Hameroff |
+| [`predictive-processing`](deck/predictive-processing/) | Predictive Processing | Anil Seth |
+| [`present-state`](deck/present-state/) | Present-State Theory | Aneil Mallavarapu, Chris Percy |
+| [`qualia-formalism`](deck/qualia-formalism/) | Qualia Formalism | Qualia Research Institute |
+| [`quantum-observers`](deck/quantum-observers/) | Quantum Observers | Chris Fields |
+| [`vibe`](deck/vibe/) | Vibe Theory | Lance Pollard |
 
 ## Where it stands
 

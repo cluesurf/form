@@ -1,4 +1,4 @@
-# Orchestrated objective reduction (Orch OR)
+# Orchestrated Objective Reduction (Orch OR)
 
 **Community-written from public sources, AI-extracted (claude-opus-5-5), unreviewed. Not written or endorsed by Roger Penrose and Stuart Hameroff.**
 To propose a correction, open an issue or a pull request that changes the record in question, citing the source and locator that shows the error. A correction from Roger Penrose and Stuart Hameroff or their collaborators is especially welcome.

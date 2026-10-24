@@ -1,0 +1,60 @@
+{
+  "record": "proposition",
+  "id": "e4747847-1c48-46f9-97e6-4852e1246e64",
+  "kind": "philosophical",
+  "epistemic_status": "hypothesized",
+  "title": "Answer: whatever forms a complex is conscious, to the degree of its integrated information",
+  "statements": [
+    {
+      "id": "96911387-5e46-4e19-a1cf-49a8e65f81f3",
+      "text": "In integrated information theory, any system of units in a state can in principle be assessed for whether it is conscious, to what degree and in what way. What is conscious is a complex, a maximum of intrinsic cause-effect power, which in people is the experiencing subject rather than its neurons. A purely feed-forward system has no integrated information and cannot be conscious, while recurrent systems can. Digital computers running programs that emulate human functions would experience nothing or nearly nothing, because of how they are physically organized.",
+      "language": "en",
+      "scope": "IIT 4.0 (2022) and the essay on free will (2022)",
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "96911387-5e46-4e19-a1cf-49a8e65f81f3",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "8443eb2e-406e-4acc-94e8-33cbabbd3679",
+        "locator": "abstract, p. 1",
+        "quote": "In principle, the postulates can be applied to any system of units in a state to determine whether it is conscious, to what degree, and in what way."
+      },
+      {
+        "source": "8443eb2e-406e-4acc-94e8-33cbabbd3679",
+        "locator": "section on consciousness and functional equivalence, p. 37",
+        "quote": "Therefore, it cannot support a cause–effect structure and cannot be conscious, whereas systems with a recurrent architecture can."
+      },
+      {
+        "source": "8443eb2e-406e-4acc-94e8-33cbabbd3679",
+        "locator": "Conclusions, p. 38",
+        "quote": "Accordingly, artificial systems powered by super-intelligent computer programs would experience nothing (or nearly nothing) because they have the wrong kind of physical architecture"
+      },
+      {
+        "source": "e0b1d15e-30e2-4c9e-8b01-e4778918d044",
+        "locator": "section 6, p. 15",
+        "quote": "So it is I who exist"
+      }
+    ]
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "record": "proposition",
+  "id": "8973a0f4-2518-454f-9808-ac82c89a3b21",
+  "kind": "philosophical",
+  "epistemic_status": "hypothesized",
+  "title": "Answer: it feels like something to be the system, and each experience has a mathematical object of its structure",
+  "statements": [
+    {
+      "id": "205b2597-eb2a-42fe-b75b-27c35c1f449b",
+      "text": "Consciousness is meant in a limited, technical sense: a system has consciousness if it feels like something to be that system, so something is conscious if and only if it has subjective experience, and qualia, such as redness, are the elements of consciousness. Qualia formalism adds that for any conscious experience there exists, in principle, a mathematical object isomorphic to its phenomenology, which makes the study of qualia a problem in information theory or physics rather than in neuroscience.",
+      "language": "en",
+      "scope": "Principia Qualia (2016), the founding statement of the program",
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "205b2597-eb2a-42fe-b75b-27c35c1f449b",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "18748a2a-239c-4c8a-84be-d6db8f91e70d",
+        "locator": "Clarifying the Problem of Valence, definitions, p. 6",
+        "quote": "a system has consciousness if it feels like something to be that system"
+      },
+      {
+        "source": "18748a2a-239c-4c8a-84be-d6db8f91e70d",
+        "locator": "Clarifying the Problem of Valence, definitions, p. 6",
+        "quote": "something is conscious if and only if it has subjective experience"
+      },
+      {
+        "source": "18748a2a-239c-4c8a-84be-d6db8f91e70d",
+        "locator": "three principles for a mathematical derivation of valence",
+        "quote": "a mathematical object isomorphic to its phenomenology"
+      }
+    ]
+  }
+}

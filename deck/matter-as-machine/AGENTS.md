@@ -1,6 +1,6 @@
 # Agents working in matter-as-machine
 
-This is a form.surf model repository: Matter As Machine. The matterasmachine.com framework: everything is execution, particles are cyclic machines, and evolution is slow creation by simple machines steered by instincts.
+This is a form.surf model repository: Matter as Machine. The matterasmachine.com framework: everything is execution, particles are cyclic machines, and evolution is slow creation by simple machines steered by instincts.
 Format: form.surf/1, specified at https://form.surf/guides/developers/format.
 
 This repository is community-written. Its records state the claims of the author of matterasmachine.com

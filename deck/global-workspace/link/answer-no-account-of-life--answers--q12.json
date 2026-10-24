@@ -1,0 +1,28 @@
+{
+  "record": "link",
+  "id": "fbddc633-98b3-48b7-8aac-e3d7ffe56ad1",
+  "from": "5146800f-7b53-4323-b266-9e11c526b8e8",
+  "to": "734fcb43-e2dc-483c-88f6-7694415b743c",
+  "relation": "answers",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "9b21a09b-835f-4256-afbf-19425df2597e",
+        "locator": "section 6.4, p. 31",
+        "quote": null
+      }
+    ]
+  }
+}

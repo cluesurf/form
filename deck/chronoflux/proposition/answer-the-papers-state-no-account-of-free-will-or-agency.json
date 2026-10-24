@@ -1,0 +1,55 @@
+{
+  "record": "proposition",
+  "id": "1974be27-84f1-4674-a0f1-7e90a9d0d19c",
+  "kind": "philosophical",
+  "epistemic_status": "observed",
+  "title": "Answer: the papers state no account of free will or agency",
+  "statements": [
+    {
+      "id": "f351095d-25b3-4ce8-b556-b529eb9a78fe",
+      "text": "Chronoflux takes no position on free will or on what agency is, and no paper discusses an agent or a choice. What it says nearby concerns lawful evolution: attained histories have a stable inverse evolution on their image, and in the quantum regime the deterministic density equation yields no single realized outcome, which would need an added fundamental stochastic law.",
+      "language": "en",
+      "scope": "a reading of the papers cited in this folder, July 2026 and earlier",
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "f351095d-25b3-4ce8-b556-b529eb9a78fe",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "1cf60bbd-3fa2-4d65-8956-21024b44ab0b",
+        "locator": "section 16",
+        "quote": "attained histories possess stable inverse evolution on their image"
+      },
+      {
+        "source": "e0b16253-e8ff-4136-bcf1-b5d93c6dc769",
+        "locator": "abstract",
+        "quote": "The deterministic density equation does not by itself produce a realised outcome."
+      },
+      {
+        "source": "e0b16253-e8ff-4136-bcf1-b5d93c6dc769",
+        "locator": "section 6",
+        "quote": "Objective collapse therefore requires a fundamental stochastic law."
+      }
+    ]
+  }
+}

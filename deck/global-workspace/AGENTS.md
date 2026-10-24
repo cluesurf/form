@@ -1,6 +1,6 @@
 # Agents working in global-workspace
 
-This is a form.surf model repository: Global workspace theory. Baars's global workspace and the Dehaene-Changeux global neuronal workspace, in which conscious access is the brain-wide broadcast of one content through long-range workspace neurons.
+This is a form.surf model repository: Global Workspace Theory. Baars's global workspace and the Dehaene-Changeux global neuronal workspace, in which conscious access is the brain-wide broadcast of one content through long-range workspace neurons.
 Format: form.surf/1, specified at https://form.surf/guides/developers/format.
 
 Community-written from public sources, AI-extracted, unreviewed. Not written or endorsed by Bernard Baars, Stanislas Dehaene, Jean-Pierre Changeux or Lionel Naccache. To propose a correction, open an issue or pull request that changes the record and cites the source.

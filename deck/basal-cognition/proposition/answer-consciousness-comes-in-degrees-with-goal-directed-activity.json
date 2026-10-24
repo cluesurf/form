@@ -1,0 +1,60 @@
+{
+  "record": "proposition",
+  "id": "3fd8ef16-9843-4c67-9bd9-6694e77a9ba6",
+  "kind": "philosophical",
+  "epistemic_status": "hypothesized",
+  "title": "Answer: consciousness comes in degrees and kinds and accompanies goal-directed activity",
+  "statements": [
+    {
+      "id": "3d1bdcf9-d2d2-4fa8-acc5-59bf7648da1e",
+      "text": "Consciousness, on Levin's provisional view, is not binary. Like cognition, it comes in degrees and kinds, and it accompanies specific types of cognitive processes that spend energy toward goals, which can take forms far from the familiar brain. The causal structure and cybernetic properties of a system's embodiment set its capacity for consciousness. The framework itself addresses third-person function, stays compatible with several views of phenomenal consciousness, and doubts that anything definitive can be said about consciousness itself, as distinct from its correlates, from a third-person view.",
+      "language": "en",
+      "scope": "the TAME paper (2022), section Consciousness",
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "3d1bdcf9-d2d2-4fa8-acc5-59bf7648da1e",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "fd7382f9-52a5-4beb-9680-fc341ff15b98",
+        "locator": "section Consciousness",
+        "quote": "consciousness also comes in degrees and kinds (is not binary)"
+      },
+      {
+        "source": "fd7382f9-52a5-4beb-9680-fc341ff15b98",
+        "locator": "section Consciousness",
+        "quote": "consciousness accompanies specific types of cognitive processes which exert energy toward goals"
+      },
+      {
+        "source": "fd7382f9-52a5-4beb-9680-fc341ff15b98",
+        "locator": "section Consciousness",
+        "quote": "Causal structure and cybernetic properties of the embodiment are key determinants of consciousness capacity."
+      },
+      {
+        "source": "fd7382f9-52a5-4beb-9680-fc341ff15b98",
+        "locator": "section Consciousness",
+        "quote": "I remain skeptical about being able to say anything definitive about consciousness per se (as distinct from correlates of consciousness) from a 3rd-person, objective perspective."
+      }
+    ]
+  }
+}

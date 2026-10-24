@@ -1,0 +1,50 @@
+{
+  "record": "proposition",
+  "id": "d5fb9048-d1a6-4561-8751-b1af84a74f1f",
+  "kind": "philosophical",
+  "epistemic_status": "observed",
+  "title": "Answer: no account of information, which the topology of information problem takes as given",
+  "statements": [
+    {
+      "id": "c81878ea-e7f2-481c-998e-8eaeed6110ba",
+      "text": "Qualia formalism takes no position on what information is. It frames qualia research as a problem in information theory or physics, and one of its eight problems, the topology of information problem, asks how to restructure the information inside the boundary of a conscious system into a mathematical object isomorphic to its phenomenology, without defining the information itself.",
+      "language": "en",
+      "scope": "Principia Qualia (2016), the founding statement of the program",
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "c81878ea-e7f2-481c-998e-8eaeed6110ba",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "18748a2a-239c-4c8a-84be-d6db8f91e70d",
+        "locator": "Clarifying the Problem of Valence, p. 6",
+        "quote": "qualia research as a problem in information theory and/or physics"
+      },
+      {
+        "source": "18748a2a-239c-4c8a-84be-d6db8f91e70d",
+        "locator": "Synthesis: Eight Problems for a New Science of Consciousness, p. 22",
+        "quote": "how do we restructure the information inside the boundary of the conscious system into a mathematical object isomorphic to the system's phenomenology?"
+      }
+    ]
+  }
+}

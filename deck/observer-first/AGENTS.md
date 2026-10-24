@@ -1,6 +1,6 @@
 # Agents working in observer-first
 
-This is a form.surf model repository: Algorithmic idealism. Markus P. Müller's observer-first program, in which universal induction on an observer's present state sets what it sees next and the external world emerges.
+This is a form.surf model repository: Algorithmic Idealism. Markus P. Müller's observer-first program, in which universal induction on an observer's present state sets what it sees next and the external world emerges.
 Format: form.surf/1, specified at https://form.surf/guides/developers/format.
 
 This repository is community-written. Its records state Markus P. Müller's

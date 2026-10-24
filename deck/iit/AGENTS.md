@@ -1,6 +1,6 @@
 # Agents working in iit
 
-This is a form.surf model repository: Integrated information theory. Giulio Tononi and Christof Koch's integrated information theory of consciousness.
+This is a form.surf model repository: Integrated Information Theory. Giulio Tononi and Christof Koch's integrated information theory of consciousness.
 Format: form.surf/1, specified at https://form.surf/guides/developers/format.
 
 This repository is community-written. Its records state Giulio Tononi and Christof Koch's

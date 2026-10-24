@@ -1,0 +1,50 @@
+{
+  "record": "proposition",
+  "id": "0caf70dd-107a-44e7-ba69-e4c2ebd8cb05",
+  "kind": "philosophical",
+  "epistemic_status": "observed",
+  "title": "Answer: no account of intelligence, and goals are left out of the definition of an agent",
+  "statements": [
+    {
+      "id": "cfedfb44-a9ee-412a-842d-766f034a7491",
+      "text": "The conscious agent program takes no position on what intelligence is. Goals and goal-directed behavior are left out of the definition of a conscious agent, which allows agents with no goals and treats goals as no defining property of consciousness. Goal-directed behavior can still arise, since dynamical systems of conscious agents can build universal Turing machines.",
+      "language": "en",
+      "scope": "Objects of consciousness (2014), which defines the conscious agent",
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "cfedfb44-a9ee-412a-842d-766f034a7491",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "9f6802be-e2fa-4f89-b303-461db4c74e7e",
+        "locator": "objections and replies, reply 5, p. 15",
+        "quote": "Goals and goal-directed behaviors are not in the definition of conscious agent."
+      },
+      {
+        "source": "9f6802be-e2fa-4f89-b303-461db4c74e7e",
+        "locator": "objections and replies, reply 5, p. 15",
+        "quote": "can create systems of conscious agents that exhibit goal-directed behaviors"
+      }
+    ]
+  }
+}

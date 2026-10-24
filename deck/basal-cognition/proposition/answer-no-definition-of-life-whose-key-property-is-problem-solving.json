@@ -1,0 +1,60 @@
+{
+  "record": "proposition",
+  "id": "f2866f0e-73d3-4b42-92d2-1ad5ba40ce20",
+  "kind": "philosophical",
+  "epistemic_status": "observed",
+  "title": "Answer: no definition of life, whose unifying property is taken to be problem-solving",
+  "statements": [
+    {
+      "id": "3df68572-3cb5-4ac8-a2ac-a2d2c78a3bcd",
+      "text": "Basal cognition takes no position on what life is, and draws no line between the living and the nonliving. Origin, whether evolved or designed, and composition are no guide to how much agency a living or nonliving system has. Homeostasis is named as necessary for life, and living things are said to have a basic homeostatic drive to reduce stress. Differences of substrate, scale and origin among living systems are not taken as fundamental: what unifies key properties of life is the ability to deploy intelligence to solve problems in diverse domains.",
+      "language": "en",
+      "scope": "the TAME paper (2022) and the computational boundary of a self (2019)",
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "3df68572-3cb5-4ac8-a2ac-a2d2c78a3bcd",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "fd7382f9-52a5-4beb-9680-fc341ff15b98",
+        "locator": "Introduction",
+        "quote": "The origin story (designed vs. evolved), composition, and other aspects are not definitive guides to the correct level of agency for a living or non-living system."
+      },
+      {
+        "source": "fd7382f9-52a5-4beb-9680-fc341ff15b98",
+        "locator": "section Specific Conceptual Components of the Technological Approach to Mind Everywhere Framework",
+        "quote": "Homeostasis, necessary for life, evolves into allostasis"
+      },
+      {
+        "source": "9d7dc0d8-1f18-43d2-b86a-16d31ae12fd3",
+        "locator": "abstract",
+        "quote": "the primal homeostatic drive of living things to reduce stress"
+      },
+      {
+        "source": "fd7382f9-52a5-4beb-9680-fc341ff15b98",
+        "locator": "Conclusion",
+        "quote": "differences in substrate, scale, or origin story among living systems are not fundamental, and obscure an important way to unify key properties of life: the ability to deploy intelligence for problem-solving in diverse domains."
+      }
+    ]
+  }
+}

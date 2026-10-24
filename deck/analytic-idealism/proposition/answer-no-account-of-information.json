@@ -1,0 +1,55 @@
+{
+  "record": "proposition",
+  "id": "0dbc7bef-a8e0-4230-95e6-fb35a32a0806",
+  "kind": "philosophical",
+  "epistemic_status": "observed",
+  "title": "Answer: no account of information, and physical facts are patterns of bare differences",
+  "statements": [
+    {
+      "id": "c41aec77-2c0b-4569-bd0a-823958cff3a5",
+      "text": "Analytic idealism takes no position on what information is. The nearest it comes is its reading of physics: all facts about physical ultimates are merely patterns of bare differences, relational properties such as charge, and experience cannot be entailed by such patterns. Perception is described as a compressed, coded representation of the surrounding thoughts of cosmic consciousness, kept within the entropic bounds an organism needs to hold together, without saying what the code or the information in it is.",
+      "language": "en",
+      "scope": "the 2018 paper The universe in consciousness, the fullest statement of the view in this folder",
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "c41aec77-2c0b-4569-bd0a-823958cff3a5",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "9c8de529-0562-4ede-9748-a99db6ec0056",
+        "locator": "section 2",
+        "quote": "all facts about ultimates are merely patterns of bare differences"
+      },
+      {
+        "source": "9c8de529-0562-4ede-9748-a99db6ec0056",
+        "locator": "section 2",
+        "quote": "cannot be entailed by patterns of bare differences"
+      },
+      {
+        "source": "9c8de529-0562-4ede-9748-a99db6ec0056",
+        "locator": "p. 149",
+        "quote": "compressed, coded representations of how surrounding thoughts of cosmic consciousness are"
+      }
+    ]
+  }
+}

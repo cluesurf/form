@@ -1,6 +1,6 @@
 # Agents working in posner-qubits
 
-This is a form.surf model repository: Posner quantum cognition (Fisher). Matthew Fisher's hypothesis that phosphorus nuclear spins, entangled by an enzyme and protected inside calcium phosphate Posner molecules, could carry quantum information in the brain and correlate the firing of distant neurons.
+This is a form.surf model repository: Posner Quantum Cognition. Matthew Fisher's hypothesis that phosphorus nuclear spins, entangled by an enzyme and protected inside calcium phosphate Posner molecules, could carry quantum information in the brain and correlate the firing of distant neurons.
 Format: form.surf/1, specified at https://form.surf/guides/developers/format.
 
 This repository is community-written. Its records state Matthew P. A. Fisher's

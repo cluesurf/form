@@ -1,4 +1,4 @@
-# Free energy principle
+# Free Energy Principle
 
 Community-written from public sources, AI-extracted, unreviewed. This
 repository is not written or endorsed by Karl Friston or his

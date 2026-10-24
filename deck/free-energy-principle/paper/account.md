@@ -1,4 +1,4 @@
-# The free energy principle, in plain words
+# The Free Energy Principle, in plain words
 
 Karl Friston starts from an unusual question. Most of biology asks what a
 living thing must do in order to stay alive. The [free energy principle](record:4fa3bb7b-afdc-4a53-bd29-14eff8f2a27b)

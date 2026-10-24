@@ -1,0 +1,50 @@
+{
+  "record": "proposition",
+  "id": "d234e76f-cf58-4e3d-bcf9-efcd785fb804",
+  "kind": "philosophical",
+  "epistemic_status": "observed",
+  "title": "Answer: no account of free will, and consciousness is assumed to make a difference",
+  "statements": [
+    {
+      "id": "3037e827-ddc6-45c6-bcb0-3fda7823f3cd",
+      "text": "The theorem takes no position on free will or on what agency is. It assumes that consciousness makes some difference to what a system does, since otherwise no experiment could tell rival attributions apart, and it holds for deterministic and stochastic dynamics alike, so it does not turn on whether the future is fixed.",
+      "language": "en",
+      "scope": "the no-go theorem, version 1 of the preprint",
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "3037e827-ddc6-45c6-bcb0-3fda7823f3cd",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "ac2774e1-a04c-4c89-9db2-7848c6f5ce0b",
+        "locator": "abstract, p. 1",
+        "quote": "The second is that consciousness makes some difference to what a system does, without which no experimental intervention can identify which attribution is correct."
+      },
+      {
+        "source": "ac2774e1-a04c-4c89-9db2-7848c6f5ce0b",
+        "locator": "section 4.10, p. 9",
+        "quote": "The theorem extends directly to stochastic dynamics."
+      }
+    ]
+  }
+}

@@ -1,6 +1,6 @@
 # Agents working in quantum-observers
 
-This is a form.surf model repository: Quantum observers. Chris Fields's account of observers as quantum systems that exchange finite classical information across holographic screens, give it meaning through quantum reference frames, and so obey a quantum free energy principle.
+This is a form.surf model repository: Quantum Observers. Chris Fields's account of observers as quantum systems that exchange finite classical information across holographic screens, give it meaning through quantum reference frames, and so obey a quantum free energy principle.
 Format: form.surf/1, specified at https://form.surf/guides/developers/format.
 
 This repository is community-written. Its records state Chris Fields or his collaborators's

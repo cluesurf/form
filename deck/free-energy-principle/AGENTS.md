@@ -1,6 +1,6 @@
 # Agents working in free-energy-principle
 
-This is a form.surf model repository: Free energy principle. Karl Friston's free energy principle and active inference.
+This is a form.surf model repository: Free Energy Principle. Karl Friston's free energy principle and active inference.
 Format: form.surf/1, specified at https://form.surf/guides/developers/format.
 
 This repository is community-written. Its records state Karl Friston's

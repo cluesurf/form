@@ -1,0 +1,55 @@
+{
+  "record": "proposition",
+  "id": "bab23924-fd2c-4c6c-b2e1-523dfc3a9427",
+  "kind": "philosophical",
+  "epistemic_status": "hypothesized",
+  "title": "Answer: free choice is assumed for every system, and agency is how far internal dynamics make choices interesting",
+  "statements": [
+    {
+      "id": "df9f9af5-f198-48cf-be18-f6349783ccc7",
+      "text": "The framework assumes free choice, in particular free choice of measurement basis, and by the Conway and Kochen theorem, if any physical system has free choice then all do. Free choice here means behavior that cannot be fully predicted from the events in the past light cone. What varies is the extent of choice: an agent is a system whose internal dynamics breaks the swap symmetry of its boundary, and interesting choices need internal energy flows that deploy many reference frames, which an electron or a rock lacks.",
+      "language": "en",
+      "scope": "A free energy principle for generic quantum systems (2021)",
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "df9f9af5-f198-48cf-be18-f6349783ccc7",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "4489b7d7-7273-4b67-a1c2-b53ddab0eeb5",
+        "locator": "section 2.5, p. 13",
+        "quote": "A (nontrivial) agent is a system A with an internal dynamics HA that breaks the SN swap symmetry of its boundary/MB B."
+      },
+      {
+        "source": "4489b7d7-7273-4b67-a1c2-b53ddab0eeb5",
+        "locator": "section 5.3, p. 42",
+        "quote": "The Conway-Kochen theorem [72] states that if any physical system is assumed to have free choice, then all physical systems must be assumed to have free choice."
+      },
+      {
+        "source": "4489b7d7-7273-4b67-a1c2-b53ddab0eeb5",
+        "locator": "section 5.3, p. 42",
+        "quote": "Hence what is interesting is the extent of choice."
+      }
+    ]
+  }
+}

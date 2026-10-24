@@ -1,0 +1,50 @@
+{
+  "record": "proposition",
+  "id": "2cbe7fb9-66e0-4a2b-bbb3-a55cce4cc14e",
+  "kind": "philosophical",
+  "epistemic_status": "observed",
+  "title": "Answer: the papers state no account of intelligence",
+  "statements": [
+    {
+      "id": "211d34e6-7c26-4311-b6e4-092159aac0d2",
+      "text": "Chronoflux takes no position on what intelligence is. The nearest it comes is the intelligibility of the universe to finite observers: observation proceeds through finite causal reach, duration, memory and energy, and such observers can still build a stable lawful description as long as enough relational coherence survives their changes of view.",
+      "language": "en",
+      "scope": "a reading of the papers cited in this folder, July 2026 and earlier",
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "211d34e6-7c26-4311-b6e4-092159aac0d2",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "74dae0ca-ffc6-4827-bce0-5561d176e0ee",
+        "locator": "section 2.4",
+        "quote": "Observation always proceeds through finite causal reach, finite duration, finite memory, finite energy, and incomplete accessibility."
+      },
+      {
+        "source": "74dae0ca-ffc6-4827-bce0-5561d176e0ee",
+        "locator": "section 17",
+        "quote": "Finite observers may still construct stable lawful description provided enough relational coherence survives across admissible observational transformation."
+      }
+    ]
+  }
+}

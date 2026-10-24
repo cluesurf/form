@@ -1,4 +1,4 @@
-# Laws of Form and discrete physics (Kauffman)
+# Laws of Form and Discrete Physics
 
 **Community-written from public sources, AI-extracted (claude-opus-5-5), unreviewed. Not written or endorsed by Louis H. Kauffman.**
 To propose a correction, open an issue or a pull request that changes the record in question, citing the source and locator that shows the error. A correction from Louis H. Kauffman or their collaborators is especially welcome.

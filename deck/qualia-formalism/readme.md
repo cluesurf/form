@@ -1,4 +1,4 @@
-# Qualia formalism
+# Qualia Formalism
 
 **Community-written from public sources, AI-extracted, unreviewed, and not written or endorsed by the Qualia Research Institute, Andrés Gómez-Emilsson or Michael Edward Johnson.** To propose a correction, open an issue or a pull request that changes the record and cites the source passage.
 

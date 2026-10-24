@@ -1,0 +1,50 @@
+{
+  "record": "proposition",
+  "id": "3f673778-c449-44ed-bae7-0b3af30a8451",
+  "kind": "philosophical",
+  "epistemic_status": "observed",
+  "title": "Answer: no account of information, and computation is execution with a goal",
+  "statements": [
+    {
+      "id": "07eec55c-a5fe-45a7-bbd6-fd890ab7fc3c",
+      "text": "Matter As Machine takes no position on what information is. The nearest terms are execution and computation: matter only executes its rules, and computation is the narrower case of execution with a goal, with input, output and purpose set by someone. What DNA stores is described as algorithms, and useful ideas are copied much faster than useful genes.",
+      "language": "en",
+      "scope": "the public pages of matterasmachine.com",
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "07eec55c-a5fe-45a7-bbd6-fd890ab7fc3c",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "c253c509-45c9-4ee8-abc0-a1d9d93fec10",
+        "locator": "Execution and computation",
+        "quote": "A computer program computes because someone defines input, output, and purpose. Matter does not need that. Matter only needs to execute its rules."
+      },
+      {
+        "source": "e88bfc42-89ab-4c5d-9e67-48eda79cb678",
+        "locator": "closing",
+        "quote": "It is just that useful ideas are copied much faster than useful genes."
+      }
+    ]
+  }
+}

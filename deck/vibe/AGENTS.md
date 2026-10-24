@@ -1,6 +1,6 @@
 # Agents working in vibe
 
-This is a form.surf model repository: Vibe. Vibe explores whether
+This is a form.surf model repository: Vibe Theory. Vibe explores whether
 physics and experience could both emerge from one reversible rule on a
 four-dimensional hyperbolic mesh.
 Format: form.surf/1, specified at https://form.surf/guides/developers/format.

@@ -1,0 +1,55 @@
+{
+  "record": "proposition",
+  "id": "26371ca6-d44f-4dfa-b817-45ae909ec233",
+  "kind": "philosophical",
+  "epistemic_status": "observed",
+  "title": "Answer: no account of what life is, and consciousness is not tied to being alive",
+  "statements": [
+    {
+      "id": "3e77dd1e-3ae4-47aa-87fd-3048f283ab66",
+      "text": "Integrated information theory takes no position on what life is. Its postulates apply to any system of units in a state, living or not, so consciousness is not tied to life. Members of Tononi's group have applied the theory's causal analysis to a model of the yeast cell cycle and suggested that features such as intrinsic control and stable causal borders may help to tell life from non-life, which they treat as autonomy, the power of a living entity to regulate its own internal state. That paper frames this as a proposal for the origin of life problem, not as a definition the theory holds.",
+      "language": "en",
+      "scope": "IIT 4.0 (2022) and the paper How causal analysis can reveal autonomy in models of biological systems (2017)",
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "3e77dd1e-3ae4-47aa-87fd-3048f283ab66",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "8443eb2e-406e-4acc-94e8-33cbabbd3679",
+        "locator": "abstract, p. 1",
+        "quote": "In principle, the postulates can be applied to any system of units in a state to determine whether it is conscious, to what degree, and in what way."
+      },
+      {
+        "source": "ab19f1ac-9cd5-4694-b8b2-c57396b9da77",
+        "locator": "Summary",
+        "quote": "including key features like intrinsic control and stable causal borders, should prove relevant for distinguishing life from non-life"
+      },
+      {
+        "source": "ab19f1ac-9cd5-4694-b8b2-c57396b9da77",
+        "locator": "Introduction",
+        "quote": "to be a living entity requires the power to regulate one’s own internal state."
+      }
+    ]
+  }
+}

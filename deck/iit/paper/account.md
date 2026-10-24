@@ -1,4 +1,4 @@
-# Integrated information theory, in plain words
+# Integrated Information Theory, in plain words
 
 Integrated information theory (IIT), developed by Giulio Tononi with
 Christof Koch and colleagues, starts where it says every theory of

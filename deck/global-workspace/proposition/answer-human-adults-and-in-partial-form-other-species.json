@@ -1,0 +1,50 @@
+{
+  "record": "proposition",
+  "id": "6840db47-2f36-48ea-8332-ef4a6679df34",
+  "kind": "philosophical",
+  "epistemic_status": "hypothesized",
+  "title": "Answer: human adults are conscious, and other species may have the workspace in partial form",
+  "statements": [
+    {
+      "id": "95683a5d-afea-4e0a-b7b1-bad8bb9bab8c",
+      "text": "The global workspace theory reads consciousness as a matter of degree, not all or none. Its biological substrate is present in human adults, and probably present in partial form in other species, in young children and in patients with brain lesions. Whether to extend the word consciousness to them is in part an arbitrary question, which a detailed cognitive and neural theory is hoped to settle.",
+      "language": "en",
+      "scope": "the 2001 workspace framework of Dehaene and Naccache, section 6.4 on the evolution of consciousness",
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "95683a5d-afea-4e0a-b7b1-bad8bb9bab8c",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "9b21a09b-835f-4256-afbf-19425df2597e",
+        "locator": "section 6.4, p. 31",
+        "quote": "The biological substrates of consciousness in human adults are probably also present, but probably in partial form in other species (or in young children or brain-lesioned patients)."
+      },
+      {
+        "source": "9b21a09b-835f-4256-afbf-19425df2597e",
+        "locator": "section 6.4, p. 31",
+        "quote": "It is therefore a partially arbitrary question as to whether we want to extend the use of the term"
+      }
+    ]
+  }
+}

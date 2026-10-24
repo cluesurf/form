@@ -1,6 +1,6 @@
 # Agents working in causal-emergence
 
-This is a form.surf model repository: Causal emergence. Erik Hoel's theory that a coarse-grained (macro) description of a system can carry more causal information than its full micro description, measured by effective information and, in Causal Emergence 2.0, by the causal primitives.
+This is a form.surf model repository: Causal Emergence. Erik Hoel's theory that a coarse-grained (macro) description of a system can carry more causal information than its full micro description, measured by effective information and, in Causal Emergence 2.0, by the causal primitives.
 Format: form.surf/1, specified at https://form.surf/guides/developers/format.
 
 This repository is community-written. Its records state Erik Hoel's

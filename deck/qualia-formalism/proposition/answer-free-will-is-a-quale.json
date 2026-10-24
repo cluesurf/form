@@ -1,0 +1,55 @@
+{
+  "record": "proposition",
+  "id": "76050bcd-4562-490a-a582-f7a4e06f0780",
+  "kind": "philosophical",
+  "epistemic_status": "hypothesized",
+  "title": "Answer: free will is a quale of chaotic systems that model themselves as agents yet cannot predict themselves",
+  "statements": [
+    {
+      "id": "874af2a2-e6fb-43ef-a30f-3b4f373ae76a",
+      "text": "Free will is a quale, a felt quality of experience, and not a power of qualia over physics. Principia Qualia argues that the brain is a chaotic, critical dynamic system with an internal model of itself as an agent that still cannot predict itself, and that any conscious system with such dynamics will have the quale of free will and the illusion that its qualia have causal power. Conscious systems without this quale are possible, though it is plausibly common among evolved organisms, since unpredictable behavior tends to be adaptive.",
+      "language": "en",
+      "scope": "Principia Qualia (2016), its appendix on the reality mapping problem",
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "874af2a2-e6fb-43ef-a30f-3b4f373ae76a",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "18748a2a-239c-4c8a-84be-d6db8f91e70d",
+        "locator": "appendix, Remarks on the Reality Mapping Problem, p. 66",
+        "quote": "has an internal model of self-as-agent, yet can't predict itself"
+      },
+      {
+        "source": "18748a2a-239c-4c8a-84be-d6db8f91e70d",
+        "locator": "appendix, Remarks on the Reality Mapping Problem, p. 66",
+        "quote": "any conscious system with these dynamics will have the quale of free will"
+      },
+      {
+        "source": "18748a2a-239c-4c8a-84be-d6db8f91e70d",
+        "locator": "appendix, Remarks on the Reality Mapping Problem, p. 66",
+        "quote": "it would be perfectly feasible for there to exist conscious systems which don't have the quale of free will"
+      }
+    ]
+  }
+}

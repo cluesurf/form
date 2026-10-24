@@ -1,0 +1,55 @@
+{
+  "record": "proposition",
+  "id": "5f9f1dda-aaec-4167-81dc-d0cd6bfe71bb",
+  "kind": "philosophical",
+  "epistemic_status": "observed",
+  "title": "Answer: no account of which systems are conscious, and the theory under test names the system",
+  "statements": [
+    {
+      "id": "780068be-d83e-43f3-964b-e97134929a92",
+      "text": "The theorem takes no position on who or what is conscious and favors no particular state theory. It concerns accounts that assign consciousness to a bounded system such as a brain, a computer, a network or a mechanism, and the account itself names that system. For digital computers it sets a burden: until a physical property shared by every implementation of a computation is named, computation gives no state-sufficient basis for consciousness.",
+      "language": "en",
+      "scope": "the no-go theorem, version 1 of the preprint",
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "780068be-d83e-43f3-964b-e97134929a92",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "ac2774e1-a04c-4c89-9db2-7848c6f5ce0b",
+        "locator": "section 2, p. 3",
+        "quote": "The theorem concerns accounts that assign consciousness to a bounded system such as a brain, neural subsystem, computer, network, or mechanism."
+      },
+      {
+        "source": "ac2774e1-a04c-4c89-9db2-7848c6f5ce0b",
+        "locator": "section 5.3, p. 14",
+        "quote": "Until such a property is specified, computation does not provide a state-sufficient physical basis for consciousness"
+      },
+      {
+        "source": "ac2774e1-a04c-4c89-9db2-7848c6f5ce0b",
+        "locator": "section 5.4, p. 14",
+        "quote": "The theorem does not favor any particular state theory."
+      }
+    ]
+  }
+}

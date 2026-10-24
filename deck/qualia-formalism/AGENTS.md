@@ -1,6 +1,6 @@
 # Agents working in qualia-formalism
 
-This is a form.surf model repository: Qualia formalism. The Qualia Research Institute's program: the symmetry theory of valence and field-topology binding.
+This is a form.surf model repository: Qualia Formalism. The Qualia Research Institute's program: the symmetry theory of valence and field-topology binding.
 Format: form.surf/1, specified at https://form.surf/guides/developers/format.
 
 **Community-written from public sources, AI-extracted, unreviewed, and not written or endorsed by the Qualia Research Institute, Andrés Gómez-Emilsson or Michael Edward Johnson.** To propose a correction, open an issue or a pull request that changes the record and cites the source passage.

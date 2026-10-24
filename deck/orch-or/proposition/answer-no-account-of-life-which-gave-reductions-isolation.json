@@ -1,0 +1,50 @@
+{
+  "record": "proposition",
+  "id": "6932277b-0d93-4460-8358-2790fbc8da4e",
+  "kind": "philosophical",
+  "epistemic_status": "observed",
+  "title": "Answer: no account of what life is, whose biomolecules gave quantum states isolation",
+  "statements": [
+    {
+      "id": "20232b81-8115-44f5-88e9-7e718bbb0d79",
+      "text": "Orch OR takes no position on what life is. Life enters its account as the place where reduction became orchestrated: as biomolecules appeared and grew, their non-polar regions sheltered quantum superpositions from the environment, and assemblies such as microtubules came to compute until orchestrated reduction was reached. Reductions happen in non-biological settings as well, and the review leaves open whether conscious life of an alien kind exists elsewhere.",
+      "language": "en",
+      "scope": "the 2014 review Consciousness in the universe",
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "20232b81-8115-44f5-88e9-7e718bbb0d79",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "c0602528-f093-4705-abc3-e13d7657a680",
+        "locator": "section 5.5, p. 65",
+        "quote": "As organic biomolecules appeared in primitive biology, non-polar collections of electron resonance rings, e.g. in lipids, nucleotides, and hydrophobic protein pockets, offered protective isolation for quantum superpositions"
+      },
+      {
+        "source": "c0602528-f093-4705-abc3-e13d7657a680",
+        "locator": "section 6, p. 73",
+        "quote": "whether conscious life of a totally alien kind such as this, or some other form of quantum superposition, might be possible, or even probable, somewhere in the universe."
+      }
+    ]
+  }
+}

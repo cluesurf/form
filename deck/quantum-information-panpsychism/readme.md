@@ -1,4 +1,4 @@
-# Quantum information panpsychism (Faggin and D’Ariano)
+# Quantum Information Panpsychism
 
 Community-written from public sources, AI-extracted, unreviewed. Not written or endorsed by Federico Faggin and Giacomo Mauro D'Ariano. To propose a correction, open an issue or pull request that changes the record and cites the source.
 

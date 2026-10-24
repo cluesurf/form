@@ -1,0 +1,50 @@
+{
+  "record": "proposition",
+  "id": "6bac26ca-2e54-45b3-a17b-147a7c900089",
+  "kind": "philosophical",
+  "epistemic_status": "observed",
+  "title": "Answer: no account of what information is, which the theory sorts by how accessible it is",
+  "statements": [
+    {
+      "id": "63cbb463-f57d-4ccf-9297-d2c6f9afaba1",
+      "text": "The global workspace theory takes no position on what information is. It takes information as what the nervous system encodes and sorts it by access to the workspace: some is permanently inaccessible, some is in contact with the workspace and could become conscious if attended to, and at any moment only a subset of the latter is mobilized into the workspace and is conscious.",
+      "language": "en",
+      "scope": "the 2001 workspace framework of Dehaene and Naccache, section 6.2",
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "63cbb463-f57d-4ccf-9297-d2c6f9afaba1",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "9b21a09b-835f-4256-afbf-19425df2597e",
+        "locator": "section 6.2, p. 30",
+        "quote": "Some information encoded in the nervous system is permanently inaccessible (set I1)."
+      },
+      {
+        "source": "9b21a09b-835f-4256-afbf-19425df2597e",
+        "locator": "section 6.2, p. 30",
+        "quote": "However, at any given time, only a subset of the latter is mobilized into the workspace (set I3)."
+      }
+    ]
+  }
+}

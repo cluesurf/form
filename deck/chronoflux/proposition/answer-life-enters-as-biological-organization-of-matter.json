@@ -1,0 +1,55 @@
+{
+  "record": "proposition",
+  "id": "b7c4fc71-87ad-44ad-86b3-23071518db93",
+  "kind": "philosophical",
+  "epistemic_status": "observed",
+  "title": "Answer: no account of life, which enters only as biological organization within the matter tier",
+  "statements": [
+    {
+      "id": "92393236-e296-41d9-bc3a-a4273cf301f4",
+      "text": "Chronoflux takes no position on what life is. Biology appears as one tier of the descendancy, matter, atomic and biological organization, and its one biological paper treats tissue voltage patterns as stable equilibria of a tissue current network. That paper says outright that it does not claim Chronoflux controls morphogenesis: temporal continuity may modulate measured biological coefficients but does not fix them.",
+      "language": "en",
+      "scope": "the descendancy paper and the bioelectric pattern recovery paper, version 2.0 of July 2026",
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "92393236-e296-41d9-bc3a-a4273cf301f4",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "1cf60bbd-3fa2-4d65-8956-21024b44ab0b",
+        "locator": "section 8",
+        "quote": "Matter, atomic and biological organisation"
+      },
+      {
+        "source": "ed95a3a6-ff69-4ce5-858a-4bbdb266c934",
+        "locator": "section 1",
+        "quote": "Bioelectric target patterns are treated as equilibria of a tissue current network or its continuum limit."
+      },
+      {
+        "source": "ed95a3a6-ff69-4ce5-858a-4bbdb266c934",
+        "locator": "section 1",
+        "quote": "This paper does not claim that morphogenesis is controlled by Chronoflux."
+      }
+    ]
+  }
+}

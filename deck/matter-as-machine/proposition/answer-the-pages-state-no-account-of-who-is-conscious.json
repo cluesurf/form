@@ -1,0 +1,45 @@
+{
+  "record": "proposition",
+  "id": "bfa34f85-170b-4929-92d6-1baebd9a9321",
+  "kind": "philosophical",
+  "epistemic_status": "observed",
+  "title": "Answer: no account of who is conscious, and nature is said not to be",
+  "statements": [
+    {
+      "id": "3a999c93-c3eb-4854-93a8-be760ec1b562",
+      "text": "Matter As Machine takes no position on which beings are conscious. The one place the pages assign or deny consciousness is nature as a whole: the instinct that moves people in every direction is not the work of a conscious nature that wants them to evolve, only a mechanism that proved useful, as running helps mice spread.",
+      "language": "en",
+      "scope": "the public pages of matterasmachine.com",
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "3a999c93-c3eb-4854-93a8-be760ec1b562",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "983ce19a-a7da-4801-9728-4eca49c1b243",
+        "locator": "Result",
+        "quote": "It's not that nature is conscious and wants us to evolve. No. This mechanism just appeared to be useful"
+      }
+    ]
+  }
+}

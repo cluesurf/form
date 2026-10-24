@@ -1,0 +1,55 @@
+{
+  "record": "proposition",
+  "id": "4bc38aa8-1ca9-4fca-a8c0-4f2616b515bb",
+  "kind": "philosophical",
+  "epistemic_status": "hypothesized",
+  "title": "Answer: information is physically encoded structure, of which finite observers recover a fraction",
+  "statements": [
+    {
+      "id": "55083332-48d2-43c8-893a-6d6710e9cf17",
+      "text": "Information is physically encoded structure and is never detached from physics: encoding, erasure, distinguishability and recovery are all physically constrained. Finite observers have finite distinguishability and reach only part of it, and recoverability $R = I_{\\mathrm{acc}} / I_{\\mathrm{tot}}$ is the fraction of the encoded structure they can reconstruct. The framework offers $R$ as a bookkeeping measure across regimes, not as a new entropy or a replacement for Shannon entropy.",
+      "language": "en",
+      "scope": "the papers Recovering relativity from temporal continuity and The descendancy of physical law",
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "55083332-48d2-43c8-893a-6d6710e9cf17",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "74dae0ca-ffc6-4827-bce0-5561d176e0ee",
+        "locator": "section 10",
+        "quote": "As such, information is not detached from physics. Encoding, erasure, distinguishability, and recovery remain physically constrained."
+      },
+      {
+        "source": "74dae0ca-ffc6-4827-bce0-5561d176e0ee",
+        "locator": "section 2.4",
+        "quote": "Recoverability denotes the capacity of finite observers to reconstruct stable relational information from physically accessible sectors of an evolving system."
+      },
+      {
+        "source": "1cf60bbd-3fa2-4d65-8956-21024b44ab0b",
+        "locator": "section 8",
+        "quote": "Information and Recoverability forms a boundary authority across all tiers."
+      }
+    ]
+  }
+}

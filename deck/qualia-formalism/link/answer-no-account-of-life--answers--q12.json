@@ -1,0 +1,28 @@
+{
+  "record": "link",
+  "id": "a46faced-775b-438a-8a86-5515b25a4776",
+  "from": "99f7b91f-3f0d-49dc-b9b4-0c075d4031a5",
+  "to": "734fcb43-e2dc-483c-88f6-7694415b743c",
+  "relation": "answers",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "18748a2a-239c-4c8a-84be-d6db8f91e70d",
+        "locator": "Clarifying the Problem of Valence, p. 6",
+        "quote": null
+      }
+    ]
+  }
+}

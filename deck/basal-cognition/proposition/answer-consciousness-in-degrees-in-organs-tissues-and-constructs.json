@@ -1,0 +1,60 @@
+{
+  "record": "proposition",
+  "id": "dd91e547-45ab-434f-ad5a-64ad786783c1",
+  "kind": "philosophical",
+  "epistemic_status": "hypothesized",
+  "title": "Answer: degrees of consciousness reach beyond brains to tissues, organs and synthetic constructs",
+  "statements": [
+    {
+      "id": "51078769-3030-48da-a6c6-84f0d8746d8b",
+      "text": "No principled line restricts consciousness to sophisticated human-like brains, so degrees of consciousness must be considered in other organs, tissues and synthetic constructs that share the features of neurons and their networks. Systems that act in morphogenetic, transcriptional and other spaces should have some, if very minimal, degree of consciousness. A typical human is a patchwork of many consciousnesses, only one of which usually reports its states in words. Since some goal-directedness seems present even in particles, there may be no true zero, but mere accretion does not raise it: a rock is not more conscious than its particles, while biological organization amplifies it.",
+      "language": "en",
+      "scope": "the TAME paper (2022), section Consciousness",
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "51078769-3030-48da-a6c6-84f0d8746d8b",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "fd7382f9-52a5-4beb-9680-fc341ff15b98",
+        "locator": "section Consciousness",
+        "quote": "there is no principled way to restrict consciousness to \"human-like, full-blown sophisticated brains,\""
+      },
+      {
+        "source": "fd7382f9-52a5-4beb-9680-fc341ff15b98",
+        "locator": "section Consciousness",
+        "quote": "systems that operate in morphogenetic, transcriptional, and other spaces should also have some (if very minimal) degree of consciousness"
+      },
+      {
+        "source": "fd7382f9-52a5-4beb-9680-fc341ff15b98",
+        "locator": "section Consciousness",
+        "quote": "an agent, such as a typical modern human, is really a patchwork of many diverse consciousnesses"
+      },
+      {
+        "source": "fd7382f9-52a5-4beb-9680-fc341ff15b98",
+        "locator": "section Consciousness",
+        "quote": "rocks are not more conscious, and probably less, than particles in specific contexts), biological organization does amplify it, resulting in scaling up of sentience."
+      }
+    ]
+  }
+}

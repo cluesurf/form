@@ -1,4 +1,4 @@
-# Conscious agents
+# Conscious Agents
 
 **Community-written from public sources, AI-extracted, unreviewed, and not written or endorsed by Donald Hoffman or his collaborators.** To propose a correction, open an issue or a pull request that changes the record and cites the source passage.
 

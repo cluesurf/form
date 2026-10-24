@@ -1,4 +1,4 @@
-# Vibe
+# Vibe Theory
 
 A form.surf model repository: the vibe program's claims, results,
 experiments, objections and open problems, imported from its research

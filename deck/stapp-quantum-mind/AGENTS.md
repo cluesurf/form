@@ -1,6 +1,6 @@
 # Agents working in stapp-quantum-mind
 
-This is a form.surf model repository: Quantum interactive dualism (Stapp). Henry Stapp's account in which the mind chooses which question quantum theory puts to the brain, and holds the answer in place by the quantum Zeno effect.
+This is a form.surf model repository: Quantum Interactive Dualism. Henry Stapp's account in which the mind chooses which question quantum theory puts to the brain, and holds the answer in place by the quantum Zeno effect.
 Format: form.surf/1, specified at https://form.surf/guides/developers/format.
 
 Community-written from public sources, AI-extracted, unreviewed. Not written or endorsed by Henry P. Stapp. To propose a correction, open an issue or pull request that changes the record and cites the source.

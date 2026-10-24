@@ -1,0 +1,60 @@
+{
+  "record": "proposition",
+  "id": "b115f0a0-7b6b-41f3-8156-d18f5971f923",
+  "kind": "philosophical",
+  "epistemic_status": "hypothesized",
+  "title": "Answer: life is the self-organization any ergodic system with a Markov blanket shows",
+  "statements": [
+    {
+      "id": "67bd502b-c34f-4964-a33e-555fb97c49b5",
+      "text": "Life, or biological self-organization, is an inevitable and emergent property of any ergodic random dynamical system that has a Markov blanket. Any living system is a blanketed system, and its blanket need not coincide with the organism's physical boundary. The account gives carbon no special role. It leaves open what sets the systems called alive apart from the many partitions that could show lifelike behavior at some scale.",
+      "language": "en",
+      "scope": "Friston's 2013 paper on life in the Journal of the Royal Society Interface and the 2018 paper on the Markov blankets of life",
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "67bd502b-c34f-4964-a33e-555fb97c49b5",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "a528c72c-55f5-422d-b6c3-61a840e5810d",
+        "locator": "abstract",
+        "quote": "life—or biological self-organization—is an inevitable and emergent property of any (ergodic) random dynamical system that possesses a Markov blanket"
+      },
+      {
+        "source": "7360eddd-7087-4c91-acd5-1cfea947cffb",
+        "locator": "abstract",
+        "quote": "any living system is a Markov blanketed system"
+      },
+      {
+        "source": "a528c72c-55f5-422d-b6c3-61a840e5810d",
+        "locator": "Conclusion",
+        "quote": "Nothing in this treatment suggests a special role for carbon-based life"
+      },
+      {
+        "source": "a528c72c-55f5-422d-b6c3-61a840e5810d",
+        "locator": "Conclusion",
+        "quote": "Does this mean there is lifelike behaviour everywhere or is there something special about the Markov blankets of systems we consider to be alive?"
+      }
+    ]
+  }
+}

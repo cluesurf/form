@@ -1,4 +1,4 @@
-# Quantum-computing universe (Zizzi)
+# Quantum-Computing Universe
 
 **Community-written from public sources, AI-extracted (claude-opus-5-5), unreviewed. Not written or endorsed by Paola A. Zizzi.**
 To propose a correction, open an issue or a pull request that changes the record in question, citing the source and locator that shows the error. A correction from Paola A. Zizzi or their collaborators is especially welcome.

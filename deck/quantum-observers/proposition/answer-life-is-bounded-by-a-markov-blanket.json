@@ -1,0 +1,60 @@
+{
+  "record": "proposition",
+  "id": "b6b592e8-558f-4a66-9761-9b9035d37de5",
+  "kind": "philosophical",
+  "epistemic_status": "hypothesized",
+  "title": "Answer: no sharp definition of life, whose systems are set apart by Markov blankets, membranes first",
+  "statements": [
+    {
+      "id": "0586cec0-7281-4a6f-aea8-fa2e28a8520d",
+      "text": "The framework gives no sharp definition of life. Markov blankets distinguish living systems from their environments, and enclosure by a membrane was the fundamental requirement for the origin of life, but blankets are features of every physical system with ergodic behavior, so the line is one of degree. The criteria for having experiences may be as vague and extensible as plausible criteria for life, and consciousness and cognition are taken as scale-free features of all living systems.",
+      "language": "en",
+      "scope": "Minimal physicalism as a scale-free substrate for cognition and consciousness (2021)",
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "0586cec0-7281-4a6f-aea8-fa2e28a8520d",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "1792e489-be3b-46bb-ba4b-0dcd00a0abc7",
+        "locator": "section on Markov blankets",
+        "quote": "MBs are ubiquitous features of living systems, and are indeed what distinguish living systems from their environments"
+      },
+      {
+        "source": "1792e489-be3b-46bb-ba4b-0dcd00a0abc7",
+        "locator": "section on Markov blankets",
+        "quote": "Indeed MBs are ubiquitous features of all physical systems with ergodic behavior"
+      },
+      {
+        "source": "1792e489-be3b-46bb-ba4b-0dcd00a0abc7",
+        "locator": "section on Markov blankets",
+        "quote": "enclosure by a membrane was the fundamental requirement for the origin of life"
+      },
+      {
+        "source": "1792e489-be3b-46bb-ba4b-0dcd00a0abc7",
+        "locator": "Introduction",
+        "quote": "These cross-scale similarities motivate a hypothesis that consciousness and cognition are scale-free phenomena that characterize all living systems"
+      }
+    ]
+  }
+}

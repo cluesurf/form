@@ -1,0 +1,50 @@
+{
+  "record": "proposition",
+  "id": "9c8ab313-5aa7-43c9-8089-67c36e343e84",
+  "kind": "philosophical",
+  "epistemic_status": "observed",
+  "title": "Answer: no account of information, which enters as what a complete state contains",
+  "statements": [
+    {
+      "id": "3b6e6d63-93f1-4a63-917f-6c73a3fc1731",
+      "text": "The theorem takes no position on what information is. It uses the word as dynamical systems theory does: a state is a specification holding all the information needed to fix later evolution under the laws. Information that tells two histories apart may stay in the wider global state while missing from the local state of the system a theory names.",
+      "language": "en",
+      "scope": "the no-go theorem, version 1 of the preprint",
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "3b6e6d63-93f1-4a63-917f-6c73a3fc1731",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "ac2774e1-a04c-4c89-9db2-7848c6f5ce0b",
+        "locator": "section 2, p. 2",
+        "quote": "a state is defined as a specification containing all information required to determine subsequent evolution under the governing laws"
+      },
+      {
+        "source": "ac2774e1-a04c-4c89-9db2-7848c6f5ce0b",
+        "locator": "section 4.1, p. 5",
+        "quote": "The complete global state may contain information that distinguishes two different local histories."
+      }
+    ]
+  }
+}

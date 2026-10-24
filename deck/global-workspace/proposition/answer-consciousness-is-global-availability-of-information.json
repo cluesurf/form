@@ -1,0 +1,50 @@
+{
+  "record": "proposition",
+  "id": "3d168080-4d44-40c8-a94a-a5b359df2d70",
+  "kind": "philosophical",
+  "epistemic_status": "hypothesized",
+  "title": "Answer: consciousness is the global availability of information through the workspace",
+  "statements": [
+    {
+      "id": "9b9742be-28cf-432a-a6c9-645e27dcb505",
+      "text": "In the global workspace theory, a piece of information becomes conscious when top-down attention amplifies the neural population that represents it into a brain-scale state of coherent activity. Its content is then available at once to many processes, such as categorization, long-term memory, evaluation and intentional action. This global availability of information through the workspace is what is experienced as a conscious state.",
+      "language": "en",
+      "scope": "the 2001 workspace framework of Dehaene and Naccache",
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "9b9742be-28cf-432a-a6c9-645e27dcb505",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "9b21a09b-835f-4256-afbf-19425df2597e",
+        "locator": "abstract, p. 1",
+        "quote": "into a brain-scale state of coherent activity that involves many neurons distributed throughout the brain."
+      },
+      {
+        "source": "9b21a09b-835f-4256-afbf-19425df2597e",
+        "locator": "abstract, p. 1",
+        "quote": "We postulate that this global availability of information through the workspace is what we subjectively experience as a conscious state."
+      }
+    ]
+  }
+}

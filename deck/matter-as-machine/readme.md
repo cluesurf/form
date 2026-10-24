@@ -1,4 +1,4 @@
-# Matter As Machine
+# Matter as Machine
 
 **Community-written from public sources, AI-extracted (claude-opus-5-5), unreviewed. Not written or endorsed by the author of matterasmachine.com.**
 To propose a correction, open an issue or a pull request that changes the record in question, citing the page and locator that shows the error. A correction from the author of matterasmachine.com is especially welcome.

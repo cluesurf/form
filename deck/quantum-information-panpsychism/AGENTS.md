@@ -1,6 +1,6 @@
 # Agents working in quantum-information-panpsychism
 
-This is a form.surf model repository: Quantum information panpsychism (Faggin and D’Ariano). Federico Faggin's view, with Giacomo Mauro D'Ariano, that experience is a fundamental property of quantum information, and that free will is the outcome of a quantum operation.
+This is a form.surf model repository: Quantum Information Panpsychism. Federico Faggin's view, with Giacomo Mauro D'Ariano, that experience is a fundamental property of quantum information, and that free will is the outcome of a quantum operation.
 Format: form.surf/1, specified at https://form.surf/guides/developers/format.
 
 Community-written from public sources, AI-extracted, unreviewed. Not written or endorsed by Federico Faggin and Giacomo Mauro D'Ariano. To propose a correction, open an issue or pull request that changes the record and cites the source.

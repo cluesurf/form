@@ -1,0 +1,55 @@
+{
+  "record": "proposition",
+  "id": "fc57f834-ba10-4c46-94ff-4902c4ae530b",
+  "kind": "philosophical",
+  "epistemic_status": "hypothesized",
+  "title": "Answer: information is intrinsic, the cause-effect power a system specifies over itself",
+  "statements": [
+    {
+      "id": "4473ba7c-0b19-4845-adce-e11e650f892e",
+      "text": "Integrated information theory separates two senses of information. Shannon information measures a message as a reduction of uncertainty, seen from outside by an observer or a communication engineer. Intrinsic information is the cause-effect power a system in its state specifies over itself, from its own perspective. Integrated information is meaning: a cause-effect structure unfolded from a substrate, which is an experience and its contents, rather than a message or a code.",
+      "language": "en",
+      "scope": "IIT 4.0 (2022) and the paper Shannon information and integrated information (2024)",
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "4473ba7c-0b19-4845-adce-e11e650f892e",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "da0c6099-2cdd-4aa1-aa9f-05574f3a1e1a",
+        "locator": "Introduction, p. 2",
+        "quote": "Information theory quantifies the information content of the message as reduction of uncertainty from the extrinsic perspective of a communication engineer."
+      },
+      {
+        "source": "8443eb2e-406e-4acc-94e8-33cbabbd3679",
+        "locator": "section on existence, intrinsicality and information, p. 12",
+        "quote": "we quantify the cause–effect power of a system from its intrinsic perspective, rather than from the perspective of an outside observer"
+      },
+      {
+        "source": "da0c6099-2cdd-4aa1-aa9f-05574f3a1e1a",
+        "locator": "abstract, p. 1",
+        "quote": "IIT considers meaning as integrated information and characterizes it as a structure, rather than as a message or code."
+      }
+    ]
+  }
+}

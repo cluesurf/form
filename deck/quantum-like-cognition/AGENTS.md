@@ -1,6 +1,6 @@
 # Agents working in quantum-like-cognition
 
-This is a form.surf model repository: Quantum-like cognition (Khrennikov). Andrei Khrennikov's program that models cognition with the mathematics of quantum theory, read as a calculus of incomplete information about contexts, without physical quantum processes in the brain, joined to his m-adic tree model of mental space and the Dendrogramic Holographic Theory of an event universe.
+This is a form.surf model repository: Quantum-Like Cognition. Andrei Khrennikov's program that models cognition with the mathematics of quantum theory, read as a calculus of incomplete information about contexts, without physical quantum processes in the brain, joined to his m-adic tree model of mental space and the Dendrogramic Holographic Theory of an event universe.
 Format: form.surf/1, specified at https://form.surf/guides/developers/format.
 
 This repository is community-written. Its records state Andrei Khrennikov's

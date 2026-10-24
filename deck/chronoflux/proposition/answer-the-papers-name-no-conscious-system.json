@@ -1,0 +1,55 @@
+{
+  "record": "proposition",
+  "id": "5213539a-9a65-42ab-95f0-8768ee18116e",
+  "kind": "philosophical",
+  "epistemic_status": "observed",
+  "title": "Answer: the papers name no conscious system",
+  "statements": [
+    {
+      "id": "3a8c1e07-3ae1-4a75-91a7-34dfbbab0995",
+      "text": "Chronoflux takes no position on who or what is conscious. Observers enter only as finite observers, defined by what part of the total physical structure they can reach, never by any experience. Microtubules, the structures some theories tie to consciousness, appear only as a conditional classical sector of electrical oscillation, and the bioelectric paper does not claim they sustain biologically relevant quantum states.",
+      "language": "en",
+      "scope": "a reading of the papers cited in this folder, July 2026 and earlier",
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "3a8c1e07-3ae1-4a75-91a7-34dfbbab0995",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "74dae0ca-ffc6-4827-bce0-5561d176e0ee",
+        "locator": "section 2.4",
+        "quote": "Finite observers never possess unrestricted access to total physical structure."
+      },
+      {
+        "source": "ed95a3a6-ff69-4ce5-858a-4bbdb266c934",
+        "locator": "abstract",
+        "quote": "Microtubular electrical oscillations are retained only as a conditional classical microstructure sector."
+      },
+      {
+        "source": "ed95a3a6-ff69-4ce5-858a-4bbdb266c934",
+        "locator": "section 1",
+        "quote": "It does not claim that microtubules sustain biologically relevant quantum states."
+      }
+    ]
+  }
+}

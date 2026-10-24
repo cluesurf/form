@@ -1,0 +1,60 @@
+{
+  "record": "proposition",
+  "id": "2fc89856-b4c3-4727-acb4-c48f1d466191",
+  "kind": "philosophical",
+  "epistemic_status": "hypothesized",
+  "title": "Answer: consciousness is the capacity for phenomenal experience, however minimal, studied as information exchange",
+  "statements": [
+    {
+      "id": "cad9cd8e-0e85-4391-b487-de99268f3be8",
+      "text": "The framework uses awareness and consciousness to mean the capacity for phenomenal experience, however basic or minimally structured, and treats it as a property a system may have whatever it experiences: it is enough that some experience occurs. It sets aside what consciousness is ontologically, taking the hard problem as a set of intuitions to be overcome rather than a problem to solve, and asks instead what follows from the assumption that consciousness involves information exchange under the constraints of quantum information theory.",
+      "language": "en",
+      "scope": "Minimal physicalism as a scale-free substrate for cognition and consciousness (2021) and A free energy principle for generic quantum systems (2021)",
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "cad9cd8e-0e85-4391-b487-de99268f3be8",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "1792e489-be3b-46bb-ba4b-0dcd00a0abc7",
+        "locator": "Introduction",
+        "quote": "to mean the capacity for or capability of having phenomenal experiences, however basic or minimally structured"
+      },
+      {
+        "source": "1792e489-be3b-46bb-ba4b-0dcd00a0abc7",
+        "locator": "Introduction",
+        "quote": "it is enough, in our view, that it experiences something, that some experience occurs"
+      },
+      {
+        "source": "1792e489-be3b-46bb-ba4b-0dcd00a0abc7",
+        "locator": "Introduction",
+        "quote": "the HP is not a problem to be solved, but rather a set of intuitions to be overcome."
+      },
+      {
+        "source": "1792e489-be3b-46bb-ba4b-0dcd00a0abc7",
+        "locator": "Conclusions",
+        "quote": "to derive as much as possible from the simple assumption that consciousness involves information exchange subject to the constraints of quantum information theory."
+      }
+    ]
+  }
+}

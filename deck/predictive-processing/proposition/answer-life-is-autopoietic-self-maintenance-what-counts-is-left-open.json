@@ -1,0 +1,55 @@
+{
+  "record": "proposition",
+  "id": "72791fa3-4169-4806-8ccc-a74243e807e3",
+  "kind": "philosophical",
+  "epistemic_status": "observed",
+  "title": "Answer: living systems maintain themselves out of equilibrium, and what counts as one is left open",
+  "statements": [
+    {
+      "id": "1d34fb89-5d45-460e-aad4-4a2c73b97d97",
+      "text": "Predictive processing, in Seth's account, gives no definition of life and leaves open what counts as a living system. It reads living systems through autopoiesis and the free energy principle: they regenerate their own material basis, keep their boundaries, and exist in a state of low entropy, out of thermodynamic equilibrium with their environment. There are many more ways of being mush than of being alive. Which living systems are conscious, and whether life must be carbon based, are set aside as questions for another time.",
+      "language": "en",
+      "scope": "Conscious artificial intelligence and biological naturalism (2025, accepted manuscript), its section 4.2 and its closing remarks on biopsychism",
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "1d34fb89-5d45-460e-aad4-4a2c73b97d97",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "e391f78a-61b9-464c-883b-2181082dabd3",
+        "locator": "section 4.2, accepted manuscript p. 20",
+        "quote": "This in turn means they must exist in a state of low entropy, maintaining themselves out of thermodynamic equilibrium with their environment"
+      },
+      {
+        "source": "e391f78a-61b9-464c-883b-2181082dabd3",
+        "locator": "section 4.2, accepted manuscript p. 20",
+        "quote": "many more ways of being mush than there are of being alive."
+      },
+      {
+        "source": "e391f78a-61b9-464c-883b-2181082dabd3",
+        "locator": "accepted manuscript p. 24",
+        "quote": "about what counts as a 'living system'."
+      }
+    ]
+  }
+}

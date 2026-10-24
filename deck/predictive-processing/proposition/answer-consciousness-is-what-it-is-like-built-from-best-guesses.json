@@ -1,0 +1,60 @@
+{
+  "record": "proposition",
+  "id": "059d7eb7-da71-4f8c-9232-28885237c795",
+  "kind": "philosophical",
+  "epistemic_status": "hypothesized",
+  "title": "Answer: there is something it is like to be the system, its contents the brain's best guesses",
+  "statements": [
+    {
+      "id": "9feb50c2-423a-4222-93a6-104255b40adb",
+      "text": "Predictive processing, in Seth's account, takes Nagel's baseline: for a conscious organism there is something it is like to be that organism. Consciousness is not mainly about what a system does. Its contents are given by the brain's best guesses about the causes of its sensory signals, the top-down predictions, so that perception is a controlled hallucination held in check by signals from the world and the body.",
+      "language": "en",
+      "scope": "Conscious artificial intelligence and biological naturalism (2025, accepted manuscript) and the essay on the real problem (2016)",
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "9feb50c2-423a-4222-93a6-104255b40adb",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "e391f78a-61b9-464c-883b-2181082dabd3",
+        "locator": "section on intelligence and consciousness, accepted manuscript p. 2",
+        "quote": "for a conscious organism, there is something it is like to be that organism"
+      },
+      {
+        "source": "e391f78a-61b9-464c-883b-2181082dabd3",
+        "locator": "section on intelligence and consciousness, accepted manuscript p. 2",
+        "quote": "It is not (at least not primarily) about what a system does."
+      },
+      {
+        "source": "e391f78a-61b9-464c-883b-2181082dabd3",
+        "locator": "section 4.1, accepted manuscript p. 18",
+        "quote": "conscious contents are given by the brain's 'best guesses'"
+      },
+      {
+        "source": "96bb39b7-0703-4f5d-8e5f-74c65d976742",
+        "locator": "the section on predictive perception",
+        "quote": "perception is a controlled hallucination, in which the brain's hypotheses are continually reined in by sensory signals arriving from the world and the body."
+      }
+    ]
+  }
+}

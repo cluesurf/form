@@ -1,4 +1,4 @@
-# Global workspace theory
+# Global Workspace Theory
 
 Global workspace theory says that consciousness is a brain-wide way of sharing information. Most of what the brain does runs in parallel in many specialized networks, for vision, language, memory, movement and value, and each of these runs without awareness ([specialized processors](record:8bf9461d-fd13-4a3b-af4c-83e071ab474c)). At any moment one coherent content wins a limited-capacity stage, the [global workspace](record:8d5e22ee-8804-4369-bc5f-af2fd4805540), and is broadcast from there to all the other specialists at once ([broadcast](record:f6f764fe-3c28-46b7-9be5-8fc2b364733e)). Bernard Baars proposed this in the 1980s, drawing on the "blackboard" architectures of artificial intelligence, and argued that what we call consciousness is this broadcast: it lets otherwise separate functions work together on novel problems, learning and voluntary control ([the conscious access hypothesis](record:bb51137d-5e08-4865-ba5c-243b8b5f2bcd)).
 

@@ -1,6 +1,6 @@
 # Agents working in invariant-set-theory
 
-This is a form.surf model repository: Invariant set theory. Tim N. Palmer's program in which the geometry of a fractal invariant set in the universe's state space is the primitive law, quantum mechanics is a singular limit, and Bell violation is superdeterministic.
+This is a form.surf model repository: Invariant Set Theory. Tim N. Palmer's program in which the geometry of a fractal invariant set in the universe's state space is the primitive law, quantum mechanics is a singular limit, and Bell violation is superdeterministic.
 Format: form.surf/1, specified at https://form.surf/guides/developers/format.
 
 This repository is community-written. Its records state Tim N. Palmer's

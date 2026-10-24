@@ -1,0 +1,60 @@
+{
+  "record": "proposition",
+  "id": "7ad0e515-189f-4c1b-8c08-2a4d8a778251",
+  "kind": "philosophical",
+  "epistemic_status": "hypothesized",
+  "title": "Answer: information in the sense of Shannon, carried by the kernels of an agent and measured as channel capacity",
+  "statements": [
+    {
+      "id": "0cd46b95-1150-42bd-ad86-118e3de4b0d4",
+      "text": "The program uses information in the sense of standard information theory. Representing an agent's possible qualia by a probability space is a proposal that qualia convey information, since probability and information are transforms of each other. Each Markovian kernel of an agent, for perceiving, deciding or acting, can be read as an information channel, and information is the measure of an agent's channel capacity. Joining two agents can create a new agent with its own new information, not reducible to that of either. Information is also proposed as the limited resource a generalized evolution of conscious agents would compete for.",
+      "language": "en",
+      "scope": "Objects of consciousness (2014), which defines the conscious agent",
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "0cd46b95-1150-42bd-ad86-118e3de4b0d4",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "9f6802be-e2fa-4f89-b303-461db4c74e7e",
+        "locator": "p. 7",
+        "quote": "A Markovian kernel can also be thought of as an information channel."
+      },
+      {
+        "source": "9f6802be-e2fa-4f89-b303-461db4c74e7e",
+        "locator": "objections and replies, reply 3, p. 15",
+        "quote": "is to propose that qualia convey information"
+      },
+      {
+        "source": "9f6802be-e2fa-4f89-b303-461db4c74e7e",
+        "locator": "objections and replies, p. 19",
+        "quote": "creates a new conscious agent with its own new information"
+      },
+      {
+        "source": "9f6802be-e2fa-4f89-b303-461db4c74e7e",
+        "locator": "objections and replies, reply 19, p. 19",
+        "quote": "information, which is the measure we use to quantify the channel capacity of conscious agents"
+      }
+    ]
+  }
+}

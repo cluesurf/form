@@ -1,6 +1,6 @@
 # Agents working in quantum-gravity-mind
 
-This is a form.surf model repository: Quantum-computing universe (Zizzi). Paola Zizzi's program in which Planck-scale space-time is a quantum computer whose pixels of area each hold a qubit, the inflationary universe is that computer growing until it self-reduces by Penrose's objective reduction, and that reduction is a conscious event of the same kind as a human one.
+This is a form.surf model repository: Quantum-Computing Universe. Paola Zizzi's program in which Planck-scale space-time is a quantum computer whose pixels of area each hold a qubit, the inflationary universe is that computer growing until it self-reduces by Penrose's objective reduction, and that reduction is a conscious event of the same kind as a human one.
 Format: form.surf/1, specified at https://form.surf/guides/developers/format.
 
 This repository is community-written. Its records state Paola A. Zizzi's

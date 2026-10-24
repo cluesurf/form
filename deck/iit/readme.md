@@ -1,4 +1,4 @@
-# Integrated information theory
+# Integrated Information Theory
 
 Community-written from public sources, AI-extracted, unreviewed. This
 repository is not written or endorsed by Giulio Tononi, Christof Koch or

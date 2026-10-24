@@ -1,0 +1,50 @@
+{
+  "record": "proposition",
+  "id": "2414485f-b32e-42e0-a2ec-97a70c4a8fc2",
+  "kind": "philosophical",
+  "epistemic_status": "observed",
+  "title": "Answer: no account of intelligence, whose processes matter only through the state they produce",
+  "statements": [
+    {
+      "id": "64398d0f-7531-4569-97af-35196c7bdab9",
+      "text": "The theorem takes no position on what intelligence is. It denies none of the biological importance of broadcasting, recurrence, integration, prediction or higher-order representation. Learning, development, computation and sensory processing may all be indispensable in producing the present state, and the theorem bears only on whether having gone through them still counts toward consciousness once that state is fixed.",
+      "language": "en",
+      "scope": "the no-go theorem, version 1 of the preprint",
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "64398d0f-7531-4569-97af-35196c7bdab9",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "ac2774e1-a04c-4c89-9db2-7848c6f5ce0b",
+        "locator": "section 1, p. 2",
+        "quote": "Nothing in the present argument denies the biological importance of broadcasting, recurrence, integration, prediction, or higher-order representation."
+      },
+      {
+        "source": "ac2774e1-a04c-4c89-9db2-7848c6f5ce0b",
+        "locator": "section 5, p. 11",
+        "quote": "Learning, development, recurrent activity, computation, and sensory processing may all be indispensable in practice in producing the current state"
+      }
+    ]
+  }
+}

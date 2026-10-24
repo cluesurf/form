@@ -1,6 +1,6 @@
 # Agents working in laws-of-form
 
-This is a form.surf model repository: Laws of Form and discrete physics (Kauffman). Louis Kauffman's program that builds mathematics and physics from Spencer-Brown's Laws of Form, the calculus of a single distinction: imaginary values as oscillations, iterants, Clifford algebras and the Dirac equation, and calculus, gauge fields and diffusion from commutators with no continuum.
+This is a form.surf model repository: Laws of Form and Discrete Physics. Louis Kauffman's program that builds mathematics and physics from Spencer-Brown's Laws of Form, the calculus of a single distinction: imaginary values as oscillations, iterants, Clifford algebras and the Dirac equation, and calculus, gauge fields and diffusion from commutators with no continuum.
 Format: form.surf/1, specified at https://form.surf/guides/developers/format.
 
 This repository is community-written. Its records state Louis H. Kauffman's

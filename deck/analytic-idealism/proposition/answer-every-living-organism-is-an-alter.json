@@ -1,0 +1,60 @@
+{
+  "record": "proposition",
+  "id": "5c6a15d2-1f04-4c27-a888-8b371939595d",
+  "kind": "philosophical",
+  "epistemic_status": "hypothesized",
+  "title": "Answer: cosmic consciousness, with every living organism one of its dissociated alters",
+  "statements": [
+    {
+      "id": "b7b1c840-718e-4f30-bf49-780311331215",
+      "text": "Only cosmic consciousness exists, so everything is in consciousness, but not everything is a separate subject: the perceivable cosmos is in consciousness rather than being conscious. Separate subjects with private phenomenal fields are living organisms, each a dissociated alter. That includes cats and dogs, and also plants and single-celled organisms such as amoebae, whose behavior is somewhat analogous to human behavior. No inanimate object is an alter, and robots or language interfaces engineered to simulate the behavior of living beings do not count.",
+      "language": "en",
+      "scope": "the 2018 paper The universe in consciousness, the fullest statement of the view in this folder",
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "b7b1c840-718e-4f30-bf49-780311331215",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "9c8de529-0562-4ede-9748-a99db6ec0056",
+        "locator": "p. 135",
+        "quote": "the perceivable cosmos is in consciousness, as opposed to being conscious"
+      },
+      {
+        "source": "9c8de529-0562-4ede-9748-a99db6ec0056",
+        "locator": "section 10, p. 145",
+        "quote": "even plants and single-celled organisms exhibit extrinsic behaviour somewhat analogous to our own"
+      },
+      {
+        "source": "9c8de529-0562-4ede-9748-a99db6ec0056",
+        "locator": "section 10, p. 145",
+        "quote": "the same cannot be said of any inanimate object or phenomenon"
+      },
+      {
+        "source": "9c8de529-0562-4ede-9748-a99db6ec0056",
+        "locator": "section 10, p. 145",
+        "quote": "engineered by humans to merely simulate the behaviour of living beings"
+      }
+    ]
+  }
+}

@@ -1,4 +1,4 @@
-# Invariant set theory, the plain account
+# Invariant Set Theory, the plain account
 
 Tim Palmer, a climate physicist, starts from the geometry of chaos. Edward Lorenz's weather model does not wander through all of its possible states: its trajectories settle onto a fractal invariant set, a sparse, infinitely detailed shape of zero volume. Palmer's postulate is that the whole universe is like this ([the postulate](record:594e5057-8be3-4455-a819-6e1dbf2d1d34)). It is a deterministic system whose states lie exactly on a measure-zero fractal set $I_U$ in its state space, and the geometry of that set, not differential equations in spacetime, is the most basic statement of the laws of physics ([geometry first](record:6433a8d1-70a8-4753-8e04-0c9601138767)). A state that is easy to imagine but lies in one of the set's gaps is simply not physical.
 

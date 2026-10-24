@@ -1,4 +1,4 @@
-# Analytic idealism
+# Analytic Idealism
 
 Analytic idealism is Bernardo Kastrup's claim that [there is only one consciousness](record:54eac2d8-d0ed-4638-9caf-aa7aeffa2ed1), and that everything else is a pattern within it. He starts from the one thing he takes as given, experience, and declines to posit anything non-experiential beneath it. Physicalism, he argues, cannot get the qualities of experience from the relational parameters of matter ([the hard problem](record:04d4f968-e9c7-4122-bf33-a28003618459)), and bottom-up panpsychism cannot explain how tiny subjects merge into one mind. Idealism avoids both by starting from one experiential field, and it is [the more parsimonious inference](record:70b13fe7-b5fc-4cbc-883a-db4c8cb9b09d): it extends consciousness beyond the personal, instead of positing a second kind of thing. Particular experiences are [self-excitations of that field](record:1f3a21e1-ae8b-4d98-a885-b71e088fca31), as a dance is the dancer in motion.
 

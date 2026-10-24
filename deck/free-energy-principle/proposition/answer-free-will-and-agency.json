@@ -1,0 +1,60 @@
+{
+  "record": "proposition",
+  "id": "fe3729ec-9aac-44d9-b543-979ef20e19c4",
+  "kind": "philosophical",
+  "epistemic_status": "hypothesized",
+  "title": "Answer: agency is inferring one's own actions, and choosing among them mandates a thin free will",
+  "statements": [
+    {
+      "id": "9af26e9f-27c4-4e58-a34e-ece9c5d04c0c",
+      "text": "Agency belongs to strange particles, whose actions are not directly influenced by their senses, so they can be described as inferring their own actions. That gives them apparent autonomy or agency: their actions realize the predictions of their Bayesian beliefs. Active inference with temporal depth has the hallmarks of agency, the apparent capacity to act independently and to choose under beliefs formed by experience. Planning selects among possible courses of action, and that selection implies a choice, which Friston says mandates free will in a rather superficial sense.",
+      "language": "en",
+      "scope": "Path integrals, particular kinds, and strange things (2023) and Am I self-conscious? (2018)",
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "9af26e9f-27c4-4e58-a34e-ece9c5d04c0c",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "550e8bd7-62b0-4fdd-964e-95f8e9dcd664",
+        "locator": "abstract, p. 1",
+        "quote": "Strange particles can be described as inferring their own actions, endowing them with apparent autonomy or agency."
+      },
+      {
+        "source": "550e8bd7-62b0-4fdd-964e-95f8e9dcd664",
+        "locator": "p. 28",
+        "quote": "strange particles look as if they have agency, in the sense their actions realise the predictions of Bayesian beliefs."
+      },
+      {
+        "source": "c3908a50-f858-42d6-8c6b-be810bd5a82f",
+        "locator": "full text",
+        "quote": "the apparent capacity to act independently and to make choices in a way that is affected by belief structures formed through experience"
+      },
+      {
+        "source": "c3908a50-f858-42d6-8c6b-be810bd5a82f",
+        "locator": "full text",
+        "quote": "The very existence of this requisite selection implies a choice"
+      }
+    ]
+  }
+}

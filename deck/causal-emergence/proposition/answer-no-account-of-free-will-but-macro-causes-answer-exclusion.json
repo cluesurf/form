@@ -1,0 +1,55 @@
+{
+  "record": "proposition",
+  "id": "217808e6-3f6f-4d7d-be98-9acbe0d30478",
+  "kind": "philosophical",
+  "epistemic_status": "observed",
+  "title": "Answer: no account of free will, though macro causes answer the exclusion argument",
+  "statements": [
+    {
+      "id": "deee7aab-37d3-4e83-91f7-15d6e4ce10a0",
+      "text": "Causal emergence takes no position on free will and gives no definition of agency. What it offers nearby is a reply to the causal exclusion argument, which is often used against mental causation: the macro level supervenes on the micro but can supersede it causally. From a system's own perspective, causal emergence means its causal self-definition sits at the optimal macro level, where its causal interactions come into focus.",
+      "language": "en",
+      "scope": "Quantifying causal emergence shows that macro can beat micro (2013)",
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "deee7aab-37d3-4e83-91f7-15d6e4ce10a0",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "8360d34d-30cb-44f8-89c9-41768fb53f0d",
+        "locator": "Introduction",
+        "quote": "is often applied to argue against the possibility for mental causation above and beyond physical causation"
+      },
+      {
+        "source": "8360d34d-30cb-44f8-89c9-41768fb53f0d",
+        "locator": "abstract",
+        "quote": "although the macro level supervenes upon the micro, it can supersede it causally"
+      },
+      {
+        "source": "8360d34d-30cb-44f8-89c9-41768fb53f0d",
+        "locator": "Discussion, Causal Exclusion and Its Implications",
+        "quote": "From the perspective of a system, emergence (CE > 0) implies causal \"self-definition\" at the optimal macro level"
+      }
+    ]
+  }
+}

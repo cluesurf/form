@@ -1,0 +1,50 @@
+{
+  "record": "proposition",
+  "id": "99f7b91f-3f0d-49dc-b9b4-0c075d4031a5",
+  "kind": "philosophical",
+  "epistemic_status": "observed",
+  "title": "Answer: no account of life, and the principles sought are substrate-independent",
+  "statements": [
+    {
+      "id": "1275e9a9-327d-4e9d-90a7-18575daf6944",
+      "text": "Qualia formalism takes no position on what life is. The principles it seeks are meant to be substrate-independent, true of humans, other animals, aliens and conscious machines alike, and Principia Qualia doubts that a plausible formal theory of consciousness would leave the biological life of Earth holding most of the universe's qualia.",
+      "language": "en",
+      "scope": "Principia Qualia (2016), the founding statement of the program",
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "1275e9a9-327d-4e9d-90a7-18575daf6944",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "18748a2a-239c-4c8a-84be-d6db8f91e70d",
+        "locator": "Clarifying the Problem of Valence, p. 6",
+        "quote": "universal, substrate-independent principles that apply equally to and are precisely true in all conscious entities"
+      },
+      {
+        "source": "18748a2a-239c-4c8a-84be-d6db8f91e70d",
+        "locator": "Some Cosmological Musings, p. 77",
+        "quote": "it would be surprisingly difficult to fully-formalize a plausible theory of consciousness where the biological life of Earth constitutes the majority of the universe's qualia"
+      }
+    ]
+  }
+}

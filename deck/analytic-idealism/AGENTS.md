@@ -1,6 +1,6 @@
 # Agents working in analytic-idealism
 
-This is a form.surf model repository: Analytic idealism. Bernardo Kastrup's ontology in which cosmic consciousness is the only primitive and each living organism is the appearance of a dissociated alter of it.
+This is a form.surf model repository: Analytic Idealism. Bernardo Kastrup's ontology in which cosmic consciousness is the only primitive and each living organism is the appearance of a dissociated alter of it.
 Format: form.surf/1, specified at https://form.surf/guides/developers/format.
 
 Community-written from public sources, AI-extracted, unreviewed. Not written or endorsed by Bernardo Kastrup. To propose a correction, open an issue or pull request that changes the record and cites the source.

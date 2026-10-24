@@ -1,4 +1,4 @@
-# Quantum panprotopsychism (Gambini and Pullin)
+# Quantum Panprotopsychism
 
 Community-written from public sources, AI-extracted, unreviewed. Not written or endorsed by Rodolfo Gambini and Jorge Pullin. To propose a correction, open an issue or pull request that changes the record and cites the source.
 

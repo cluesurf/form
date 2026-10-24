@@ -1,0 +1,55 @@
+{
+  "record": "proposition",
+  "id": "f1fdbccb-3452-4fc8-82f9-b2688b63fda9",
+  "kind": "philosophical",
+  "epistemic_status": "observed",
+  "title": "Answer: no account of what consciousness is, only that it is fixed by the present state",
+  "statements": [
+    {
+      "id": "c93c5886-757b-4c94-9490-fcb3448100c0",
+      "text": "The theorem takes no position on what consciousness is. It constrains where any account must look: under local state sufficiency and causal efficacy, consciousness at a time is fixed by the complete present physical state of the system, $C_t = f(X_t)$, and not by what the system has done. Which property of that state constitutes experience is left as the remaining task. The closing perspective, that mind may be a state of matter and matter a state of mind, is offered as a view and not as a result.",
+      "language": "en",
+      "scope": "the no-go theorem, version 1 of the preprint",
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "c93c5886-757b-4c94-9490-fcb3448100c0",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "ac2774e1-a04c-4c89-9db2-7848c6f5ce0b",
+        "locator": "section 6, p. 15",
+        "quote": "Consciousness is due not to what a system has done, but what it is."
+      },
+      {
+        "source": "ac2774e1-a04c-4c89-9db2-7848c6f5ce0b",
+        "locator": "section 5.4, p. 14",
+        "quote": "The remaining task is therefore to identify which property of the present physical state constitutes experience."
+      },
+      {
+        "source": "ac2774e1-a04c-4c89-9db2-7848c6f5ce0b",
+        "locator": "section 6, p. 15",
+        "quote": "perhaps mind is a state of matter, and matter is a state of mind."
+      }
+    ]
+  }
+}

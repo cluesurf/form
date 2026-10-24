@@ -1,0 +1,60 @@
+{
+  "record": "proposition",
+  "id": "a1cb515f-3add-4ab2-b7c5-8154c192c2bb",
+  "kind": "philosophical",
+  "epistemic_status": "hypothesized",
+  "title": "Answer: the objective world consists entirely of conscious agents, though tables and chairs are not conscious",
+  "statements": [
+    {
+      "id": "55634408-17c3-4642-a7ef-d9d29eac5c08",
+      "text": "Conscious realism holds that the objective world, the world whose existence does not depend on a particular observer's perceptions, consists entirely of conscious agents. This is not panpsychism: tables and chairs are icons in the interfaces of conscious agents, and so conscious experiences of those agents, but they are not themselves conscious. Seeing a table is interacting with a system of conscious agents through a simplified icon, while seeing another person conveys that one is interacting with a conscious agent. A rock carries much less information about the agents behind it than a face does.",
+      "language": "en",
+      "scope": "Conscious realism and the mind-body problem (2008)",
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "55634408-17c3-4642-a7ef-d9d29eac5c08",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "a7e70d05-b690-4622-b9c7-93120625ba04",
+        "locator": "section 6, p. 103",
+        "quote": "Conscious realism asserts that the objective world, i.e., the world whose existence does not depend on the perceptions of a particular observer, consists entirely of conscious agents."
+      },
+      {
+        "source": "a7e70d05-b690-4622-b9c7-93120625ba04",
+        "locator": "section 6, p. 103",
+        "quote": "Conscious realism is not panpsychism nor does it entail panpsychism."
+      },
+      {
+        "source": "a7e70d05-b690-4622-b9c7-93120625ba04",
+        "locator": "section 6, p. 103",
+        "quote": "It does not claim, nor entail, that tables and chairs are conscious or conscious agents."
+      },
+      {
+        "source": "a7e70d05-b690-4622-b9c7-93120625ba04",
+        "locator": "section 7, p. 110",
+        "quote": "When we look at a rock, rather than a face, we get much less information about the conscious agents"
+      }
+    ]
+  }
+}

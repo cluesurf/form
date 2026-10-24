@@ -1,0 +1,55 @@
+{
+  "record": "proposition",
+  "id": "f0a16318-4941-43e5-aa8f-bf7a47e09663",
+  "kind": "philosophical",
+  "epistemic_status": "observed",
+  "title": "Answer: no account of consciousness, which enters only as a question of scale",
+  "statements": [
+    {
+      "id": "5ec0de92-75f2-48ab-9ffc-220ac334afec",
+      "text": "Causal emergence takes no position on what consciousness is. It enters as a question of scale: causal emergence might explain the spatiotemporal scale of consciousness in the brain, and in integrated information theory that scale is fixed by where integrated information peaks. Hoel keeps that analysis apart from his own: justifying the uniform distribution of interventions through the intrinsic perspective of integrated information theory relies on accepting that theory's postulates, including its analysis of consciousness.",
+      "language": "en",
+      "scope": "Causal emergence is widespread across measures of causation (2022), Can the macro beat the micro (2016) and Causal emergence 2.0 (2025)",
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "5ec0de92-75f2-48ab-9ffc-220ac334afec",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "730ddfd3-ad1a-4e42-9b1d-3ef590ddaba4",
+        "locator": "p. 2",
+        "quote": "indeed, causal emergence might explain the spatiotemporal scale of consciousness in the brain"
+      },
+      {
+        "source": "43accee2-70fd-4090-88e9-d71562ee222f",
+        "locator": "abstract",
+        "quote": "for integrated information theory the spatiotemporal maximum of integrated information fixes the spatiotemporal scale of consciousness"
+      },
+      {
+        "source": "c40bbd28-a2c5-4730-84c0-90f7ae0644de",
+        "locator": "p. 17",
+        "quote": "but this is reliant on accepting the postulates of IIT, including its analysis of consciousness"
+      }
+    ]
+  }
+}

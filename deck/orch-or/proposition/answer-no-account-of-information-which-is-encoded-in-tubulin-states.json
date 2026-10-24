@@ -1,0 +1,55 @@
+{
+  "record": "proposition",
+  "id": "c06f6d12-0421-4ee1-8b69-f72cb3a310e5",
+  "kind": "philosophical",
+  "epistemic_status": "observed",
+  "title": "Answer: no account of what information is, which is encoded in discrete physical states such as tubulin dipoles",
+  "statements": [
+    {
+      "id": "ecddef37-0051-4406-b40f-3aa8e9a02a47",
+      "text": "Orch OR takes no position on what information is. The review uses the word for what is encoded in a discrete physical form, as in tubulin dipole states in microtubules, and for the quantum entanglement effects it calls quantum information, which cannot by themselves carry ordinary information into the past. Unorchestrated reductions carry an experience with no information or meaning.",
+      "language": "en",
+      "scope": "the 2014 review Consciousness in the universe",
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "ecddef37-0051-4406-b40f-3aa8e9a02a47",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "c0602528-f093-4705-abc3-e13d7657a680",
+        "locator": "section 5.1, p. 58",
+        "quote": "Here the term 'quantum computation' is being used in a loose sense, in which information is encoded in some discrete (not necessarily binary) physical form"
+      },
+      {
+        "source": "c0602528-f093-4705-abc3-e13d7657a680",
+        "locator": "section 5.4, p. 64",
+        "quote": "Such effects, however, cannot by themselves be used to communicate ordinary information into the past."
+      },
+      {
+        "source": "c0602528-f093-4705-abc3-e13d7657a680",
+        "locator": "section 5.5, p. 65",
+        "quote": "but would be associated with an undifferentiated 'proto-conscious' experience, one without information or meaning."
+      }
+    ]
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "record": "proposition",
+  "id": "cf1628b8-c38a-437f-8e7a-570afe024559",
+  "kind": "philosophical",
+  "epistemic_status": "hypothesized",
+  "title": "Answer: information is probabilistic, and a blanketed system carries two information geometries",
+  "statements": [
+    {
+      "id": "8aafdccb-45ef-45bc-bcd2-454576156902",
+      "text": "The free energy principle reads information through probability. The flow of a system's states is a gradient flow on self-information, or surprisal, and information geometry is the formalism of the metric properties of statistical manifolds. Any system whose internal states are distinct from its external states acquires a dual aspect: an intrinsic information geometry of how its internal states evolve, and an extrinsic one of the beliefs about external states that those internal states parameterize. Markovian monism reads these two geometries as matter and mind.",
+      "language": "en",
+      "scope": "Sentience and the origins of consciousness: from Cartesian duality to Markovian monism (2020)",
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "8aafdccb-45ef-45bc-bcd2-454576156902",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "2dd94478-888b-48b9-bba8-eb449f0b667d",
+        "locator": "section 3",
+        "quote": "one can use standard descriptions of density dynamics to express the flow of states as a gradient flow on something called self-information or surprisal"
+      },
+      {
+        "source": "2dd94478-888b-48b9-bba8-eb449f0b667d",
+        "locator": "section 5",
+        "quote": "Information geometry is a formalism that considers the metric or geometrical properties of statistical manifolds."
+      },
+      {
+        "source": "2dd94478-888b-48b9-bba8-eb449f0b667d",
+        "locator": "abstract",
+        "quote": "This dual aspect concerns the (intrinsic) information geometry of the probabilistic evolution of internal states and a separate (extrinsic) information geometry of probabilistic beliefs about external states that are parameterised by internal states."
+      }
+    ]
+  }
+}

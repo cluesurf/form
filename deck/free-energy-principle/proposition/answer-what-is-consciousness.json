@@ -1,0 +1,55 @@
+{
+  "record": "proposition",
+  "id": "133ff5df-5a61-42bd-a859-1da0435ff0ab",
+  "kind": "philosophical",
+  "epistemic_status": "hypothesized",
+  "title": "Answer: consciousness is self-evidencing inference with temporal depth about the consequences of action",
+  "statements": [
+    {
+      "id": "89b36493-1c61-4a5e-9700-3e8bed082bab",
+      "text": "Consciousness, on Friston's account, is not inference as such, which every self-organizing thing can be read as doing. Mind comes into being when self-evidencing has temporal thickness or counterfactual depth, so that it grounds inferences about the consequences of one's own action. Consciousness is then nothing more than inference about one's own future, the self-evidencing consequences of what one could do, and for this reason self-consciousness is necessary for consciousness.",
+      "language": "en",
+      "scope": "Am I self-conscious? (2018)",
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "89b36493-1c61-4a5e-9700-3e8bed082bab",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "c3908a50-f858-42d6-8c6b-be810bd5a82f",
+        "locator": "abstract",
+        "quote": "the mind comes into being when self-evidencing has a temporal thickness or counterfactual depth, which grounds inferences about the consequences of my action"
+      },
+      {
+        "source": "c3908a50-f858-42d6-8c6b-be810bd5a82f",
+        "locator": "abstract",
+        "quote": "consciousness is nothing more than inference about my future; namely, the self-evidencing consequences of what I could do."
+      },
+      {
+        "source": "c3908a50-f858-42d6-8c6b-be810bd5a82f",
+        "locator": "abstract",
+        "quote": "Is self-consciousness necessary for consciousness? The answer is yes."
+      }
+    ]
+  }
+}

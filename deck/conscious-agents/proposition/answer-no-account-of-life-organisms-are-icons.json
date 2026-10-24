@@ -1,0 +1,55 @@
+{
+  "record": "proposition",
+  "id": "403b4777-1fee-4749-8938-a98c35cec763",
+  "kind": "philosophical",
+  "epistemic_status": "observed",
+  "title": "Answer: no account of life, and organisms are icons of a species-specific interface",
+  "statements": [
+    {
+      "id": "52634463-b774-40c2-bb5c-4960399a12e3",
+      "text": "Conscious realism gives no account of what life is. Organisms and genes, the terms standard evolutionary theory uses, belong to space-time and objects, which the program reads as a species-specific perceptual representation, not an insight into reality. The picture of an unconscious universe that gives birth first to life and then to consciousness is rejected as false. The authors plan a generalized theory of evolution for interacting conscious agents that, projected onto the human interface, gives back standard evolutionary theory.",
+      "language": "en",
+      "scope": "Conscious realism and the mind-body problem (2008) and Objects of consciousness (2014)",
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "52634463-b774-40c2-bb5c-4960399a12e3",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "9f6802be-e2fa-4f89-b303-461db4c74e7e",
+        "locator": "objections and replies, reply 19, p. 19",
+        "quote": "spacetime and objects (such as organisms and genes), which we now take to be a species-specific perceptual representation"
+      },
+      {
+        "source": "a7e70d05-b690-4622-b9c7-93120625ba04",
+        "locator": "section 8, p. 111",
+        "quote": "fitfully gives birth first to life, then to consciousness, is false"
+      },
+      {
+        "source": "9f6802be-e2fa-4f89-b303-461db4c74e7e",
+        "locator": "objections and replies, reply 19, p. 19",
+        "quote": "When the new evolutionary theory is projected onto the spacetime perceptual interface of H. sapiens we must get back the standard evolutionary theory."
+      }
+    ]
+  }
+}

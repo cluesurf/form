@@ -1,0 +1,55 @@
+{
+  "record": "proposition",
+  "id": "7a2afa9d-d82d-4ce0-a0a3-e0775c2a2024",
+  "kind": "philosophical",
+  "epistemic_status": "observed",
+  "title": "Answer: no account of intelligence, which enters only in the review of integrated information theory",
+  "statements": [
+    {
+      "id": "09d4033f-9a3b-4646-b93c-1608abe8cd8a",
+      "text": "Qualia formalism takes no position on what intelligence is, and its subject is consciousness. Principia Qualia mentions intelligence only in reviewing integrated information theory: simulations suggest that integrated information and the potential for adaptive, intelligent behavior are usually coupled, while Tononi expects that intelligence and consciousness may not be as synonymous as his critics assume. The principles of valence it seeks are meant to hold in every conscious entity, conscious artificial intelligence among them.",
+      "language": "en",
+      "scope": "Principia Qualia (2016), the founding statement of the program",
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "09d4033f-9a3b-4646-b93c-1608abe8cd8a",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "18748a2a-239c-4c8a-84be-d6db8f91e70d",
+        "locator": "review of integrated information theory, p. 11",
+        "quote": "the integrated information and the potential for adaptive (intelligent) behavior of a system are usually highly coupled"
+      },
+      {
+        "source": "18748a2a-239c-4c8a-84be-d6db8f91e70d",
+        "locator": "review of integrated information theory, p. 16",
+        "quote": "intelligence and consciousness may not be as synonymous as Aaronson thinks"
+      },
+      {
+        "source": "18748a2a-239c-4c8a-84be-d6db8f91e70d",
+        "locator": "Clarifying the Problem of Valence, p. 6",
+        "quote": "be they humans, non-human animals, aliens, or conscious artificial intelligence (AI)"
+      }
+    ]
+  }
+}

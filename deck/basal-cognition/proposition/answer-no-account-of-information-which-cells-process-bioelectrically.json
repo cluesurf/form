@@ -1,0 +1,55 @@
+{
+  "record": "proposition",
+  "id": "a2c35538-a5ff-4f07-bca5-48462c5d269a",
+  "kind": "philosophical",
+  "epistemic_status": "observed",
+  "title": "Answer: no account of information, which cells and tissues process bioelectrically",
+  "statements": [
+    {
+      "id": "018eff26-f338-4463-825c-a90bfff0ddf0",
+      "text": "Basal cognition takes no position on what information is. It uses information in the working sense of the information sciences: cells and tissues process it, bioelectric signaling is an information processing mode older than neurons, and a bioelectric pattern is an information medium that stores a target anatomy apart from the current one. Whether a signal acts as information depends on the receiver: a very low-energy signal can change a complex mind greatly because it is treated as information by the machinery that hosts it.",
+      "language": "en",
+      "scope": "the TAME paper (2022), Figures 2 and 7",
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "018eff26-f338-4463-825c-a90bfff0ddf0",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "fd7382f9-52a5-4beb-9680-fc341ff15b98",
+        "locator": "Figure 7 caption",
+        "quote": "bioelectric signaling is an ancient information processing modality that pre-dates neurons and brains"
+      },
+      {
+        "source": "fd7382f9-52a5-4beb-9680-fc341ff15b98",
+        "locator": "Figure 7 caption",
+        "quote": "an orthogonal information medium that is used to guide future changes of anatomy"
+      },
+      {
+        "source": "fd7382f9-52a5-4beb-9680-fc341ff15b98",
+        "locator": "Figure 2 caption",
+        "quote": "massive changes can be made in those systems by a very low-energy signal because it is treated as information in the context of a complex host computational machinery."
+      }
+    ]
+  }
+}

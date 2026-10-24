@@ -1,0 +1,55 @@
+{
+  "record": "proposition",
+  "id": "10667286-506e-4af1-bc69-6a03500aaeec",
+  "kind": "philosophical",
+  "epistemic_status": "observed",
+  "title": "Answer: no account of intelligence, which IIT holds is dissociable from consciousness",
+  "statements": [
+    {
+      "id": "d4411e88-1c93-46e0-a596-53bef749ee2c",
+      "text": "Integrated information theory takes no position on what intelligence is. It places intelligence on the side of function and behavior, and consciousness on the side of being, so the two can come apart. A digital computer could display extraordinary intelligence and experience nothing, while a system with little overt intelligence could be conscious. The theory gives one reason why the two tend to go together in organisms: selection for intelligence on brains with limited resources tends to raise integration among their parts.",
+      "language": "en",
+      "scope": "IIT 4.0 (2022) and the paper Dissociating artificial intelligence from artificial consciousness (2024)",
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "d4411e88-1c93-46e0-a596-53bef749ee2c",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "8443eb2e-406e-4acc-94e8-33cbabbd3679",
+        "locator": "Conclusions, p. 38",
+        "quote": "Each experience corresponds to a Φ-structure, not a set of functions."
+      },
+      {
+        "source": "c06ec354-5ed2-4895-8d0e-841513d9e2b7",
+        "locator": "Discussion",
+        "quote": "a traditional computer might exhibit human-like behavior and extraordinary intelligence yet experience nothing"
+      },
+      {
+        "source": "c06ec354-5ed2-4895-8d0e-841513d9e2b7",
+        "locator": "Discussion",
+        "quote": "selective pressure for intelligence, acting on resource-limited substrates such as brains, typically leads to an increase in integration among the parts of a system"
+      }
+    ]
+  }
+}

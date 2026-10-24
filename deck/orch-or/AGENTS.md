@@ -1,6 +1,6 @@
 # Agents working in orch-or
 
-This is a form.surf model repository: Orchestrated objective reduction (Orch OR). Roger Penrose and Stuart Hameroff's theory that consciousness is a sequence of orchestrated, gravity-related quantum state reductions in neuronal microtubules, joined to Penrose's Gödelian argument that understanding is non-computable.
+This is a form.surf model repository: Orchestrated Objective Reduction (Orch OR). Roger Penrose and Stuart Hameroff's theory that consciousness is a sequence of orchestrated, gravity-related quantum state reductions in neuronal microtubules, joined to Penrose's Gödelian argument that understanding is non-computable.
 Format: form.surf/1, specified at https://form.surf/guides/developers/format.
 
 This repository is community-written. Its records state Roger Penrose and Stuart Hameroff's

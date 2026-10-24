@@ -1,0 +1,55 @@
+{
+  "record": "proposition",
+  "id": "f86a3718-b601-4198-b5f6-9f5c44423119",
+  "kind": "philosophical",
+  "epistemic_status": "hypothesized",
+  "title": "Answer: consciousness is fundamental, modeled as agents that perceive, decide and act",
+  "statements": [
+    {
+      "id": "696b68c3-3564-4a61-a53b-33d69232b7fb",
+      "text": "Consciousness is fundamental, not a latecomer arising from unconscious matter, and matter is among the symbols conscious agents construct. Its formal model is the conscious agent, built on the intuition that consciousness involves three processes: perception, decision and action. In perception an agent interacts with the world and has conscious experiences, in decision it chooses actions based on those experiences, and in action it affects the world. Each process is a Markovian kernel between probability spaces. The mathematics captures the structure of consciousness and is not itself consciousness.",
+      "language": "en",
+      "scope": "Conscious realism and the mind-body problem (2008) and Objects of consciousness (2014)",
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "696b68c3-3564-4a61-a53b-33d69232b7fb",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "a7e70d05-b690-4622-b9c7-93120625ba04",
+        "locator": "section 6, p. 103",
+        "quote": "Consciousness is fundamental. It is not a latecomer in the evolutionary history of the universe"
+      },
+      {
+        "source": "9f6802be-e2fa-4f89-b303-461db4c74e7e",
+        "locator": "p. 6",
+        "quote": "A key intuition is that consciousness involves three processes: perception, decision, and action."
+      },
+      {
+        "source": "9f6802be-e2fa-4f89-b303-461db4c74e7e",
+        "locator": "objections and replies, reply 2, p. 15",
+        "quote": "a mathematical model of consciousness won't create consciousness"
+      }
+    ]
+  }
+}

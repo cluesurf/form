@@ -1,4 +1,4 @@
-# Quantum interactive dualism (Stapp)
+# Quantum Interactive Dualism
 
 Community-written from public sources, AI-extracted, unreviewed. Not written or endorsed by Henry P. Stapp. To propose a correction, open an issue or pull request that changes the record and cites the source.
 

@@ -1,4 +1,4 @@
-# Predictive processing: the controlled hallucination and the beast machine
+# Predictive Processing: the controlled hallucination and the beast machine
 
 *Community-written from public sources, AI-extracted, unreviewed, not endorsed by Anil Seth. Each linked claim cites its source.*
 

@@ -1,0 +1,55 @@
+{
+  "record": "proposition",
+  "id": "f45f75e5-ef2d-4866-b2d9-b9c692b0116b",
+  "kind": "philosophical",
+  "epistemic_status": "hypothesized",
+  "title": "Answer: beings whose microtubules reach orchestrated reduction, with proto-conscious events everywhere",
+  "statements": [
+    {
+      "id": "058eb2ab-dcee-4023-ae8f-ad20b83d29c3",
+      "text": "Orch OR holds that a being is conscious when it can isolate orchestrated quantum superpositions long enough to reach objective reduction. Humans and conscious animals qualify, and nervous systems of about 300 neurons, as in early Cambrian worms, may just have been able to use it. Every unorchestrated reduction, biological or not, carries a rudimentary experience lacking cognition, and sentient creatures of an alien kind, such as on neutron-star surfaces, are conceivable but speculative.",
+      "language": "en",
+      "scope": "the 2014 review Consciousness in the universe",
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "058eb2ab-dcee-4023-ae8f-ad20b83d29c3",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "c0602528-f093-4705-abc3-e13d7657a680",
+        "locator": "section 5.5, p. 65",
+        "quote": "some relatively primitive MT infrastructure, still able to support quantum computation, would have to have preceded the more sophisticated kind that we now find in conscious animals."
+      },
+      {
+        "source": "c0602528-f093-4705-abc3-e13d7657a680",
+        "locator": "section 5.5, p. 66",
+        "quote": "it might thus be just feasible for them to make use of Orch OR"
+      },
+      {
+        "source": "c0602528-f093-4705-abc3-e13d7657a680",
+        "locator": "section 6, p. 73",
+        "quote": "these events are taken to have a rudimentary subjective experience, which is undifferentiated and lacking in cognition"
+      }
+    ]
+  }
+}

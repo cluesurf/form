@@ -1,6 +1,6 @@
 # Agents working in predictive-processing
 
-This is a form.surf model repository: Predictive processing (Anil Seth). Perception and selfhood as controlled hallucination, grounded in the predictive regulation of a living body.
+This is a form.surf model repository: Predictive Processing. Perception and selfhood as controlled hallucination, grounded in the predictive regulation of a living body.
 Format: form.surf/1, specified at https://form.surf/guides/developers/format.
 
 Community-written from public sources. AI-extracted (claude-opus-5-5) and unreviewed. Not written or endorsed by Anil Seth or his collaborators. This repository is community-written. Its records state Anil Seth's own claims from public sources. They are AI-extracted and unreviewed unless a record's `provenance.reviewed` is true. It is not written or endorsed by Anil Seth. To propose a correction, open a pull request that changes the record and cites the source passage.

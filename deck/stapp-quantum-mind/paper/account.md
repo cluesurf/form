@@ -1,4 +1,4 @@
-# Quantum interactive dualism (Stapp)
+# Quantum Interactive Dualism
 
 Stapp starts from a conflict. Classical physics is local and deterministic, and if it were the whole story [a person would be an automaton](record:767016c8-7310-4813-8a41-0be1e1acadb2) whose thoughts do nothing. He holds that the conflict comes from a theory known to be wrong at the relevant point: [setting Planck's constant to zero removes the fine structure where mind acts on matter](record:24532776-1503-4830-a564-120c569ba3e3).
 

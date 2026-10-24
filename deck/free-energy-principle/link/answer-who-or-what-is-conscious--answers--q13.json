@@ -1,0 +1,28 @@
+{
+  "record": "link",
+  "id": "0c43b3ea-62f3-402a-865b-e28bcdf56634",
+  "from": "ab76fcb3-8816-41ba-9852-4875a3c3ddd3",
+  "to": "fa149d96-d797-483c-a560-6a297c01c9b1",
+  "relation": "answers",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "c3908a50-f858-42d6-8c6b-be810bd5a82f",
+        "locator": "section Viruses and vegans",
+        "quote": null
+      }
+    ]
+  }
+}
