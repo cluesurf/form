@@ -1,0 +1,50 @@
+{
+  "record": "proposition",
+  "id": "3a96c5a0-1bd3-4987-aa15-bd9cf150da5d",
+  "kind": "philosophical",
+  "epistemic_status": "hypothesized",
+  "title": "Consciousness is fundamentally affective",
+  "statements": [
+    {
+      "id": "c36b9530-0be7-44ac-a467-13517142bed7",
+      "text": "If the brainstem consciousness is the primary kind, then consciousness is fundamentally affective. The arousal processes that sustain wakefulness are not a mere quantitative level of consciousness but carry qualitative content of their own: it feels like something to be awake, and those qualia are affects.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "c36b9530-0be7-44ac-a467-13517142bed7",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "8834b927-27b0-41e8-8c3f-c15dbf813c57",
+        "locator": "p. 6",
+        "quote": "consciousness is fundamentally affective"
+      },
+      {
+        "source": "224c4197-d629-416a-b17f-4f96e49df600",
+        "locator": "p. 3",
+        "quote": "it feels like something to be awake"
+      }
+    ]
+  }
+}

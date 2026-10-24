@@ -1,0 +1,45 @@
+{
+  "record": "proposition",
+  "id": "fa948cac-335a-4dc0-a432-9dfacc2c5ad0",
+  "kind": "philosophical",
+  "epistemic_status": "hypothesized",
+  "title": "Interaction is compatible with causal closure if behavior can be overdetermined",
+  "statements": [
+    {
+      "id": "985d6a03-5fb3-4498-9d67-bd3c988f0944",
+      "text": "Interactionism is assumed incompatible with a causally closed physical world, but this does not follow if behavior can be causally overdetermined, with a complete physical cause and a mental cause. Mills defends this, arguing that an effect can have features its sufficient physical cause does not explain.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "985d6a03-5fb3-4498-9d67-bd3c988f0944",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "4bffe5f1-a379-4b92-b51d-3c5ef3046009",
+        "locator": "section 3.3, 'Interactionism'",
+        "quote": "This is a very natural assumption, but it is not justified if causal overdetermination of behaviour is possible."
+      }
+    ]
+  }
+}

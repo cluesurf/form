@@ -1,0 +1,50 @@
+{
+  "record": "proposition",
+  "id": "af6c5c21-cfe5-47a7-bba5-1f1b05a96fed",
+  "kind": "philosophical",
+  "epistemic_status": "hypothesized",
+  "title": "Feeling is not the only conceivable way, but it is the way vertebrates use",
+  "statements": [
+    {
+      "id": "107e66b1-4945-40a3-9321-ab269fcb122c",
+      "text": "The function described could conceivably be done by non-conscious feelings, as with philosophical zombies, if evolution had found another way to register and prioritize existential dynamics. That something could be done differently does not mean it is not done this way in the vertebrate nervous system, just as walking does not require legs.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "107e66b1-4945-40a3-9321-ab269fcb122c",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "8834b927-27b0-41e8-8c3f-c15dbf813c57",
+        "locator": "p. 8",
+        "quote": "But the fact that something can conceivably be done differently doesn’t mean that it is not done in the way that it is in the vertebrate nervous system."
+      },
+      {
+        "source": "224c4197-d629-416a-b17f-4f96e49df600",
+        "locator": "p. 11",
+        "quote": "We readily concede that conscious feeling is not the only way"
+      }
+    ]
+  }
+}

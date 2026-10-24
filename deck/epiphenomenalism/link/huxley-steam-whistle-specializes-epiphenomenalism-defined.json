@@ -1,0 +1,33 @@
+{
+  "record": "link",
+  "id": "e146f443-ff3b-4366-b31b-b8f7c85ea677",
+  "from": "f503f5c0-d6ee-4321-b14b-96307566976c",
+  "to": "8932d812-581d-4cb6-9104-ec9097cb7d44",
+  "relation": "specializes",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "74e58cef-2e29-415f-a138-df37b7515701",
+        "locator": "Collected Essays I, page 240",
+        "quote": "and to be as completely without any power of modifying that working as the steam-whistle which accompanies the work of a locomotive engine is without influence upon its machinery"
+      },
+      {
+        "source": "74e58cef-2e29-415f-a138-df37b7515701",
+        "locator": "Collected Essays I, page 241",
+        "quote": "Their volitions do not enter into the chain of causation of their actions at all."
+      }
+    ]
+  }
+}

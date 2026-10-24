@@ -1,0 +1,50 @@
+{
+  "record": "proposition",
+  "id": "71a01f0e-8118-4e84-bbe0-08000a840e24",
+  "kind": "philosophical",
+  "epistemic_status": "hypothesized",
+  "title": "Consciousness is the subjective form of a contrast, the crown of experience",
+  "statements": [
+    {
+      "id": "6cdecd7d-bb9a-45da-8d8b-f98eed49b082",
+      "text": "Consciousness arises in intellectual feelings: it is the subjective form of feeling the contrast between what is in fact and what might be. It flickers, lights a small focal region within a large dim region of experience, and is the crown of experience, only occasionally attained, not its necessary base.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "6cdecd7d-bb9a-45da-8d8b-f98eed49b082",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "78f94ddb-c6f8-4a5c-86bb-ea574d7a0c37",
+        "locator": "p. 407",
+        "quote": "The subjective form of the feeling of this contrast is consciousness."
+      },
+      {
+        "source": "78f94ddb-c6f8-4a5c-86bb-ea574d7a0c37",
+        "locator": "p. 408",
+        "quote": "consciousness is the crown of experience, only occasionally attained, not its necessary base"
+      }
+    ]
+  }
+}

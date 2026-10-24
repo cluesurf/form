@@ -1,0 +1,28 @@
+{
+  "record": "link",
+  "id": "ddb6c7b5-a918-4796-93ea-8c5837188c4e",
+  "from": "a1b34712-1c89-4da2-982c-75ce85c4a4a9",
+  "to": "1adb78b2-ebab-4c6a-b7d7-a8c81f38c19a",
+  "relation": "requires",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "542e0d13-746c-470a-a9b7-86f1d044600d",
+        "locator": "section 3.5, 'Empirical Considerations'",
+        "quote": "the conscious urge to make a movement comes too late to causally contribute to a movement that has already been initiated by brain processes"
+      }
+    ]
+  }
+}

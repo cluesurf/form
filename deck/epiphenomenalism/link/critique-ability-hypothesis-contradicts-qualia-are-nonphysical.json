@@ -1,0 +1,28 @@
+{
+  "record": "link",
+  "id": "031de127-7423-47d7-85b8-900947d8b266",
+  "from": "00d25916-5f80-49db-8d54-6f3b1ad79137",
+  "to": "dfa9ac70-257f-4c58-b568-27fccf771015",
+  "relation": "contradicts",
+  "strength": null,
+  "rationale": "If Mary gains only abilities, there is no information she lacked and no nonphysical fact.",
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "fd223d59-c2ad-4121-b90c-cef1a84f517f",
+        "locator": "section 4.3, 'No Propositional Knowledge 1: the Ability Hypothesis'",
+        "quote": "Mary does not acquire any new propositional knowledge after release"
+      }
+    ]
+  }
+}

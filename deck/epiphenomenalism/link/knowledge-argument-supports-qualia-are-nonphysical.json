@@ -1,0 +1,38 @@
+{
+  "record": "link",
+  "id": "7dd8dd02-b6e3-402e-afea-ff8211cac766",
+  "from": "f667ff98-5ea0-42de-9508-f7c04ec6042c",
+  "to": "dfa9ac70-257f-4c58-b568-27fccf771015",
+  "relation": "supports",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "fd223d59-c2ad-4121-b90c-cef1a84f517f",
+        "locator": "section 2, 'The Basic Idea' (quoting Jackson 1982)",
+        "quote": "It seems just obvious that she will learn something about the world and our visual experience of it. But then is it inescapable that her previous knowledge was incomplete. But she had all the physical information."
+      },
+      {
+        "source": "67eaf72c-eb30-4a86-9e40-5fc36618f54d",
+        "locator": null,
+        "quote": null
+      },
+      {
+        "source": "e313966d-885a-400e-9618-ed342082bb22",
+        "locator": null,
+        "quote": null
+      }
+    ]
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "record": "link",
+  "id": "532e8922-3c95-4349-b395-8b3d2aef4769",
+  "from": "83e230b4-1382-4222-9aec-031480d738a4",
+  "to": "640399ac-d548-4b96-aff3-cf32927cfb49",
+  "relation": "specializes",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "8834b927-27b0-41e8-8c3f-c15dbf813c57",
+        "locator": "p. 14",
+        "quote": "conscious reconsolidation is predictive-work-in-progress"
+      },
+      {
+        "source": "8834b927-27b0-41e8-8c3f-c15dbf813c57",
+        "locator": "p. 14",
+        "quote": "the process becomes unconscious just as soon as it possibly can"
+      },
+      {
+        "source": "224c4197-d629-416a-b17f-4f96e49df600",
+        "locator": "p. 11",
+        "quote": "This implies that it should wane in conditions of ambient monotony"
+      }
+    ]
+  }
+}

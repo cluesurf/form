@@ -1,0 +1,33 @@
+{
+  "record": "link",
+  "id": "18b68afe-7c7e-4273-8b4b-5418a7b848df",
+  "from": "87079e0e-8335-4ecd-a8d7-56fb5b4d934e",
+  "to": "8932d812-581d-4cb6-9104-ec9097cb7d44",
+  "relation": "supports",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "542e0d13-746c-470a-a9b7-86f1d044600d",
+        "locator": "section 1, 'Traditional Arguments (A) Pro'",
+        "quote": "The central motivation for epiphenomenalism lies in the premise that whenever there is a sufficient cause of a physical event, there is a sufficient physical cause of that event."
+      },
+      {
+        "source": "542e0d13-746c-470a-a9b7-86f1d044600d",
+        "locator": "section 1, 'Traditional Arguments (A) Pro'",
+        "quote": "then for it to make any causal contribution of its own in the physical world would require a violation of physical law"
+      }
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "record": "link",
+  "id": "950bd075-6629-41b1-bad1-b06e425db12d",
+  "from": "fa948cac-335a-4dc0-a432-9dfacc2c5ad0",
+  "to": "e7e323c8-f92d-4e19-a974-d8fcccdeb64c",
+  "relation": "weakens",
+  "strength": null,
+  "rationale": "With overdetermination, a complete physical cause and a mental cause can both be present.",
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "4bffe5f1-a379-4b92-b51d-3c5ef3046009",
+        "locator": "section 3.3, 'Interactionism'",
+        "quote": "This is a very natural assumption, but it is not justified if causal overdetermination of behaviour is possible."
+      }
+    ]
+  }
+}

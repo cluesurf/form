@@ -1,0 +1,45 @@
+{
+  "record": "proposition",
+  "id": "a976e0fb-bb79-4f0f-b272-d752b89a8650",
+  "kind": "philosophical",
+  "epistemic_status": "hypothesized",
+  "title": "Critique: Mary learns an old fact in a new way",
+  "statements": [
+    {
+      "id": "75883d41-b68f-4a89-9fa5-6b77d9d06518",
+      "text": "Many physicalists accept that Mary gains new propositional knowledge but deny that she comes to know a fact she did not already know in another way. As one can know that John is in Amsterdam without knowing that oneself is there, Mary knows the physical facts under physical concepts and learns them anew under phenomenal concepts, so the weaker conclusion about knowledge holds and the stronger one about facts does not.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "75883d41-b68f-4a89-9fa5-6b77d9d06518",
+  "status": "active",
+  "voice": "critique",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "fd223d59-c2ad-4121-b90c-cef1a84f517f",
+        "locator": "section 3.1, 'Two Versions of the Argument'",
+        "quote": "they admit that Mary gains new propositional knowledge but deny that she thereby comes to know facts that she did not know before in some other way"
+      }
+    ]
+  }
+}

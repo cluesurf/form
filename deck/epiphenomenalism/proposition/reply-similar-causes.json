@@ -1,0 +1,45 @@
+{
+  "record": "proposition",
+  "id": "2a2f4f47-3f3a-454b-b1cc-0b9cdce66a10",
+  "kind": "philosophical",
+  "epistemic_status": "inferred",
+  "title": "Reply: other minds are known from similar causes, not from effects",
+  "statements": [
+    {
+      "id": "327387a8-76b3-473f-9534-09a07e435574",
+      "text": "Human bodies are alike in construction, so if others are made like oneself they probably hurt when affected as one is. An inference from similar causes to similar effects is no weaker, and often stronger, than one from similar effects to similar causes, so the route to other minds that epiphenomenalism allows is at least as strong as the one it rules out.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "327387a8-76b3-473f-9534-09a07e435574",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "542e0d13-746c-470a-a9b7-86f1d044600d",
+        "locator": "section 2.3, 'Knowledge of Other Minds'",
+        "quote": "an inference to other minds that is allowed by epiphenomenalism must be at least as strong as the inferential route to other minds with which it is incompatible"
+      }
+    ]
+  }
+}

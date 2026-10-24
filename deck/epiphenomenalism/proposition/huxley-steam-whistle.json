@@ -1,0 +1,50 @@
+{
+  "record": "proposition",
+  "id": "f503f5c0-d6ee-4321-b14b-96307566976c",
+  "kind": "philosophical",
+  "epistemic_status": "hypothesized",
+  "title": "Animal consciousness is a collateral product, like a locomotive's steam whistle",
+  "statements": [
+    {
+      "id": "1095d244-c45c-4aad-a16e-2c7973970b5f",
+      "text": "The consciousness of animals is related to the mechanism of their bodies only as a collateral product of its working, with no more power to change that working than the steam whistle has over a locomotive's machinery. Their volition, if they have any, signals physical changes and does not cause them, so the old question of how volition could move matter does not arise for them.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "1095d244-c45c-4aad-a16e-2c7973970b5f",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "74e58cef-2e29-415f-a138-df37b7515701",
+        "locator": "Collected Essays I, page 240",
+        "quote": "and to be as completely without any power of modifying that working as the steam-whistle which accompanies the work of a locomotive engine is without influence upon its machinery"
+      },
+      {
+        "source": "74e58cef-2e29-415f-a138-df37b7515701",
+        "locator": "Collected Essays I, page 241",
+        "quote": "Their volitions do not enter into the chain of causation of their actions at all."
+      }
+    ]
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "record": "link",
+  "id": "87968147-9dc2-4cdb-9b9c-f36ab97ef612",
+  "from": "91172323-cb38-4591-be21-6167d1ec19cd",
+  "to": "28452a77-05b7-4d56-932b-97420db1ba13",
+  "relation": "requires",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "40a4280a-4b0f-44b2-b9c6-95fce46b932d",
+        "locator": "section 3.1, 'Machine State Functionalism'",
+        "quote": "According to machine state functionalism, any creature with a mind can be regarded as a Turing machine"
+      },
+      {
+        "source": "40a4280a-4b0f-44b2-b9c6-95fce46b932d",
+        "locator": "section 3.1, 'Machine State Functionalism'",
+        "quote": "most machine state functionalists (e.g. Putnam 1967) take the proper model for the mind to be that of a probabilistic automaton"
+      },
+      {
+        "source": "b79f7ec7-6842-41c9-a52f-298baae74f52",
+        "locator": null,
+        "quote": null
+      }
+    ]
+  }
+}

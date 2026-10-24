@@ -1,0 +1,50 @@
+{
+  "record": "proposition",
+  "id": "6cd23b15-a202-4e09-af21-e9682f395aff",
+  "kind": "philosophical",
+  "epistemic_status": "hypothesized",
+  "title": "Answer: consciousness is experience, grounded in cosmic consciousness",
+  "statements": [
+    {
+      "id": "e4861ae6-5d08-4b06-b01e-d54640d555f3",
+      "text": "Phenomenal properties are ways of experiencing, distinguished by what it is like to have them, and a conscious subject is their bearer. Consciousness in creatures is a restricted, structured expression of a consciousness that pervades the cosmos.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "e4861ae6-5d08-4b06-b01e-d54640d555f3",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "2ab75b9c-c7c1-4d7f-a482-d00c7fe4f31c",
+        "locator": "PDF p. 15",
+        "quote": "I take phenomenal properties to be ways of experiencing, distinguished by what it’s like to have them."
+      },
+      {
+        "source": "15531e9b-ad0a-46bd-893e-8b37e693007c",
+        "locator": "p. 406",
+        "quote": "with its modulation and restricted expression"
+      }
+    ]
+  }
+}

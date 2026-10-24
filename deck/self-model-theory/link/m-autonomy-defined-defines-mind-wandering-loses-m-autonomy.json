@@ -1,0 +1,28 @@
+{
+  "record": "link",
+  "id": "d54dd4f5-71a5-4c89-8588-557e239d95f0",
+  "from": "30a85e11-b90a-4675-b2c6-1085ce06b97b",
+  "to": "215bbc5a-7698-4af2-8ff8-c480f6a0217b",
+  "relation": "defines",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "1bc792ee-c3ee-4f0c-93b8-a818a2897c06",
+        "locator": "p. 12",
+        "quote": "The central defining characteristic is the “veto component”"
+      }
+    ]
+  }
+}

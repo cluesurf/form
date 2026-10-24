@@ -1,0 +1,45 @@
+{
+  "record": "proposition",
+  "id": "b61a692c-aec7-48e7-b42d-8ac3fa315c0b",
+  "kind": "philosophical",
+  "epistemic_status": "hypothesized",
+  "title": "Answer: no position on space, and no central control place in the brain",
+  "statements": [
+    {
+      "id": "3d8a6e6b-76fc-4fc4-adb6-1d593e28b078",
+      "text": "The view takes no position on what space is. Its one spatial claim is about the brain: there is no pontifical neuron or neuron group acting as a control center.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "3d8a6e6b-76fc-4fc4-adb6-1d593e28b078",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "de8573b3-42af-4c30-94e9-01704e16b3ea",
+        "locator": "p. 84",
+        "quote": "it seems highly implausible that there is a pontifical neuron"
+      }
+    ]
+  }
+}

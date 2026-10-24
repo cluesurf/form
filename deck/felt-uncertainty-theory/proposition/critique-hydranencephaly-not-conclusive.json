@@ -1,0 +1,50 @@
+{
+  "record": "proposition",
+  "id": "335cd451-0dd8-4e68-b361-03e417e15511",
+  "kind": "empirical",
+  "epistemic_status": "hypothesized",
+  "title": "Critique: responsiveness in hydranencephaly does not show consciousness",
+  "statements": [
+    {
+      "id": "d3a82d7e-0607-4985-8d09-f379aa6983bc",
+      "text": "Caution is needed before concluding that children with hydranencephaly are conscious, or that their behavior reflects brainstem function alone. The extent of cortical damage in the reported cases is unclear, responsiveness is shown by nearly any organism with a nervous system, verbal or manual report is the usual criterion, and many of the behaviors could be produced unconsciously or by reflex.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "d3a82d7e-0607-4985-8d09-f379aa6983bc",
+  "status": "active",
+  "voice": "critique",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "db2f8b8e-899c-468e-b868-15e3f3ab21f6",
+        "locator": "pp. 107-108",
+        "quote": "caution is required before concluding that these individuals are conscious"
+      },
+      {
+        "source": "db2f8b8e-899c-468e-b868-15e3f3ab21f6",
+        "locator": "pp. 107-108",
+        "quote": "many of the reported behaviors could be generated unconsciously or reflexively"
+      }
+    ]
+  }
+}

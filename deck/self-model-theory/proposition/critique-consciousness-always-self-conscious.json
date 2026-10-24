@@ -1,0 +1,50 @@
+{
+  "record": "proposition",
+  "id": "53100b16-0f60-4934-a905-db93a817a7bf",
+  "kind": "philosophical",
+  "epistemic_status": "hypothesized",
+  "title": "Critique: consciousness always goes with self-consciousness",
+  "statements": [
+    {
+      "id": "082c8806-ae7d-42ba-9284-26893e3b628e",
+      "text": "Limanowski and Friston argue from active inference that a self-evidencing model already separates self from non-self, so that consciousness always goes together with basic self-consciousness. This seems to contradict the claim that there can be phenomenal world-models without phenomenal self-models, which they leave to be clarified.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "082c8806-ae7d-42ba-9284-26893e3b628e",
+  "status": "active",
+  "voice": "critique",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "509b3ac7-2958-4cd3-aac9-6a3f17c7b14d",
+        "locator": "p. 7",
+        "quote": "Our argument is further that consciousness will always go hand-in-hand with self-consciousness."
+      },
+      {
+        "source": "509b3ac7-2958-4cd3-aac9-6a3f17c7b14d",
+        "locator": "p. 7",
+        "quote": "this may seem to contradict SMT’s claim that there can be phenomenal world-models without phenomenal self-models"
+      }
+    ]
+  }
+}

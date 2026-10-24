@@ -1,0 +1,50 @@
+{
+  "record": "proposition",
+  "id": "441ac589-0878-4690-82b3-6f3fcf19945c",
+  "kind": "philosophical",
+  "epistemic_status": "inferred",
+  "title": "Sellars, Feyerabend, Quine and Rorty prepared the view",
+  "statements": [
+    {
+      "id": "77e7d14c-9405-4ba5-88b9-ffd8e371ac98",
+      "text": "Sellars proposed that the conception of mind is a theoretical framework inherited from culture and in principle falsifiable. Feyerabend held that commonsense psychology might prove radically false, Quine asked why add mental states when the bodily states exist anyway, and Rorty's disappearance theory treated sensations like the thunderbolts of Zeus. The Churchlands made philosophers and cognitive scientists take eliminativism seriously.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "77e7d14c-9405-4ba5-88b9-ffd8e371ac98",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "4881b7b9-a47f-492c-80a0-18998a6e239d",
+        "locator": "section 1, 'A Brief History'",
+        "quote": "Paul Feyerabend explicitly endorsed the idea that common-sense psychology might prove to be radically false"
+      },
+      {
+        "source": "4881b7b9-a47f-492c-80a0-18998a6e239d",
+        "locator": "section 1, 'A Brief History'",
+        "quote": "whose writings have forced many philosophers and cognitive scientists to take eliminativism more seriously"
+      }
+    ]
+  }
+}

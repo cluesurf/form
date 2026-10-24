@@ -1,0 +1,50 @@
+{
+  "record": "proposition",
+  "id": "ba5ac56f-eb30-49ed-a8f3-1f1d43705834",
+  "kind": "empirical",
+  "epistemic_status": "inferred",
+  "title": "Transformer language models make only a weak case for global workspace indicators",
+  "statements": [
+    {
+      "id": "ff05809b-2526-477e-86d2-53267cf4474b",
+      "text": "One can argue that the residual stream of a Transformer is a workspace with global broadcast. But Transformers are not recurrent, no modules pass information to the residual stream and receive it back, and there is no one distinct workspace integrating other elements, so the case that Transformer language models have any global workspace indicator is weak.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "ff05809b-2526-477e-86d2-53267cf4474b",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "ecf4b155-a02f-440e-87ac-837126c9279c",
+        "locator": "arXiv p. 59",
+        "quote": "a more fundamental problem with the argument is that Transformers are not recurrent"
+      },
+      {
+        "source": "ecf4b155-a02f-440e-87ac-837126c9279c",
+        "locator": "arXiv p. 59",
+        "quote": "There is only a relatively weak case that Transformer-based large language models possess any of the GWT-derived indicator properties."
+      }
+    ]
+  }
+}

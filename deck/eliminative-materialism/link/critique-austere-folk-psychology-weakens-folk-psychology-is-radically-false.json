@@ -1,0 +1,28 @@
+{
+  "record": "link",
+  "id": "a0fc6add-2ef2-498b-a9b9-954ca1a75670",
+  "from": "7b4426b6-38ca-44aa-874b-5b5c931535e5",
+  "to": "dd61b004-94f3-4114-916e-3b00e19706c0",
+  "relation": "weakens",
+  "strength": null,
+  "rationale": "A theory that commits to little is hard to falsify by neuroscience.",
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "4881b7b9-a47f-492c-80a0-18998a6e239d",
+        "locator": "section 4.3, 'Defending the Virtues of Folk Psychology'",
+        "quote": "folk psychology can be seen as compatible with a very wide range of neuroscientific or cognitive developments, making eliminative materialism possible but unlikely"
+      }
+    ]
+  }
+}

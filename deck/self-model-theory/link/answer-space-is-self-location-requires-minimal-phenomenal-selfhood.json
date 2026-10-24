@@ -1,0 +1,33 @@
+{
+  "record": "link",
+  "id": "6aae5c64-be9b-4c62-aa77-1a3553baddd0",
+  "from": "45bbceb6-8bb4-498e-96db-f6dc794f152f",
+  "to": "3a70ef4e-15a4-486e-bfd6-9c1c67277929",
+  "relation": "requires",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "1bc792ee-c3ee-4f0c-93b8-a818a2897c06",
+        "locator": "p. 3",
+        "quote": "the weak 1PP is projected from an extensionless point, the geometrical origin of our perspectival visual model of reality"
+      },
+      {
+        "source": "bcdebbd0-38c1-4227-a43b-6a7a59f74207",
+        "locator": "p. 17",
+        "quote": "This can be called the \"single embodiment-constraint\"."
+      }
+    ]
+  }
+}

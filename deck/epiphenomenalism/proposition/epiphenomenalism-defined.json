@@ -1,0 +1,50 @@
+{
+  "record": "proposition",
+  "id": "8932d812-581d-4cb6-9104-ec9097cb7d44",
+  "kind": "definitional",
+  "epistemic_status": "designed",
+  "title": "Epiphenomenalism",
+  "statements": [
+    {
+      "id": "64238a28-ebb7-442e-a4d1-2b741c670b3e",
+      "text": "Epiphenomenalism is the view that mental events are caused by physical events in the brain but have no effects on any physical event. Behavior is caused by muscles that contract on receiving neural impulses, and neural impulses come from other neurons or from sense organs. Mental events play no part in that process. Among the ways mind and body may be causally related, interactionism says each acts on the other, epiphenomenalism that body acts on mind only, and parallelism that neither acts on the other.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "64238a28-ebb7-442e-a4d1-2b741c670b3e",
+  "status": "active",
+  "voice": "framework",
+  "defines": "epiphenomenalism",
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "542e0d13-746c-470a-a9b7-86f1d044600d",
+        "locator": "opening section",
+        "quote": "On the epiphenomenalist view, mental events play no causal role in this process."
+      },
+      {
+        "source": "a6c431b3-a489-4a9e-8836-0bc9974d6dd3",
+        "locator": "section 3, 'Varieties of Dualism'",
+        "quote": "epiphenomenalism says that that body acts on mind but mind does not act on body"
+      }
+    ]
+  }
+}

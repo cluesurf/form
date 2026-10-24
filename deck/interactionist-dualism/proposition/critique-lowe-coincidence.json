@@ -1,0 +1,50 @@
+{
+  "record": "proposition",
+  "id": "fb271f82-1b81-4d10-ba13-6849d3e139b3",
+  "kind": "philosophical",
+  "epistemic_status": "hypothesized",
+  "title": "Critique: mental intermediaries that always match physical expectation are an absurd coincidence",
+  "statements": [
+    {
+      "id": "e10807b0-638f-4ccb-8d7a-a1c3e1b99158",
+      "text": "Lowe's proposal seems to require an absurd coincidence, that every mental state's effect is just what its physical cause would bring about by itself. It also breaches theory choice by adding complexity for no gain in strength, so parity favors epiphenomenalism over it.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "e10807b0-638f-4ccb-8d7a-a1c3e1b99158",
+  "status": "active",
+  "voice": "critique",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "4bffe5f1-a379-4b92-b51d-3c5ef3046009",
+        "locator": "section 3.3, 'Interactionism'",
+        "quote": "The main objection to Lowe’s proposal is that it seems to require an absurd coincidence"
+      },
+      {
+        "source": "4bffe5f1-a379-4b92-b51d-3c5ef3046009",
+        "locator": "section 3.3, 'Interactionism'",
+        "quote": "This principle would lead us to favour epiphenomenalism over Lowe’s proposal"
+      }
+    ]
+  }
+}

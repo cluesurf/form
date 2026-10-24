@@ -1,0 +1,33 @@
+{
+  "record": "link",
+  "id": "161c8ce7-66cd-4f6c-9b7e-8c63411e9630",
+  "from": "e7064c06-4759-4b03-95a3-59fa476850da",
+  "to": "7c6bbff8-fca3-44c2-aab3-2107ffe7eea2",
+  "relation": "supports",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "542e0d13-746c-470a-a9b7-86f1d044600d",
+        "locator": "section 3.2, 'Responses to Exclusion Arguments'",
+        "quote": "Inability to see any such necessity is, of course, not a proof that such a necessity does not obtain."
+      },
+      {
+        "source": "542e0d13-746c-470a-a9b7-86f1d044600d",
+        "locator": "section 3.2, 'Responses to Exclusion Arguments'",
+        "quote": "Because this difficulty has not been removed in the case of qualia, the success or failure of the previously discussed Traditional Arguments remains relevant to contemporary thinking about epiphenomenalism."
+      }
+    ]
+  }
+}

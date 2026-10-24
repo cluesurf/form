@@ -1,0 +1,33 @@
+{
+  "record": "link",
+  "id": "ecc6517c-d331-4cf2-8f68-7eff2908fb87",
+  "from": "43450e03-2b8d-49de-b391-07cd2b9b9e74",
+  "to": "5e6c6d41-3ab9-4c49-8d6a-62fd91d8cea4",
+  "relation": "specializes",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "f901177d-d5a1-49ec-a74e-2adc81f988ea",
+        "locator": "p. 12",
+        "quote": "An EAM is a special type of PSM, allowing a cognitive system to develop a genuine first-person perspective."
+      },
+      {
+        "source": "f901177d-d5a1-49ec-a74e-2adc81f988ea",
+        "locator": "p. 12",
+        "quote": "AA is sufficient for having an EAM, CA is not a necessary condition."
+      }
+    ]
+  }
+}

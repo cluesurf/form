@@ -1,0 +1,50 @@
+{
+  "record": "proposition",
+  "id": "ec931636-9b6a-412f-8779-51c4f3c2c840",
+  "kind": "definitional",
+  "epistemic_status": "designed",
+  "title": "Consciousness as subjective experience",
+  "statements": [
+    {
+      "id": "88ecfeeb-d4fe-4bb4-a511-52d7d58000f3",
+      "text": "Consciousness, roughly equivalent to sentience, is subjective experience: a being is conscious if there is something it is like to be it. Its dimensions include sensory, affective, cognitive and agentive experience, and self-consciousness. Chalmers assumes that consciousness is real and not an illusion.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "88ecfeeb-d4fe-4bb4-a511-52d7d58000f3",
+  "status": "active",
+  "voice": "framework",
+  "defines": "consciousness",
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "741e8f86-4660-494d-8dd8-dfce0f4719e3",
+        "locator": "arXiv p. 2",
+        "quote": "Consciousness and sentience, as I understand them, are subjective experience."
+      },
+      {
+        "source": "741e8f86-4660-494d-8dd8-dfce0f4719e3",
+        "locator": "arXiv p. 3",
+        "quote": "That said, I will assume that consciousness is real and not an illusion."
+      }
+    ]
+  }
+}

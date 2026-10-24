@@ -1,0 +1,50 @@
+{
+  "record": "proposition",
+  "id": "dd8e597b-26cd-4efe-b8e5-83ee06f00091",
+  "kind": "philosophical",
+  "epistemic_status": "inferred",
+  "title": "Computing the same input-output function is not enough",
+  "statements": [
+    {
+      "id": "e9ed44d3-b214-44ec-8b80-cb99c4e16038",
+      "text": "Systems that compute the same mathematical function may implement different algorithms, so systems that do the same thing in the input-output sense need not be alike in consciousness. Consciousness may also depend on operations on states with specific representational formats, such as analog ones. It depends on the algorithmic and representational level, not the implementation level or the bare input-output level.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "e9ed44d3-b214-44ec-8b80-cb99c4e16038",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "ecf4b155-a02f-440e-87ac-837126c9279c",
+        "locator": "arXiv p. 13",
+        "quote": "systems that compute the same mathematical function may do so by implementing different algorithms"
+      },
+      {
+        "source": "ecf4b155-a02f-440e-87ac-837126c9279c",
+        "locator": "arXiv p. 14",
+        "quote": "as opposed to the implementation level, or the more abstract"
+      }
+    ]
+  }
+}

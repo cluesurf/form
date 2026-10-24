@@ -1,0 +1,33 @@
+{
+  "record": "link",
+  "id": "66a0139e-daeb-4d00-adca-c36c6bd22690",
+  "from": "b71bfdaa-941a-4d92-80a3-d642ff718f0a",
+  "to": "e7064c06-4759-4b03-95a3-59fa476850da",
+  "relation": "requires",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "542e0d13-746c-470a-a9b7-86f1d044600d",
+        "locator": "section 2.2, 'Natural Selection'",
+        "quote": "Barring neural events that are inexplicably in violation of biological constraints on their conditions of activation"
+      },
+      {
+        "source": "fd223d59-c2ad-4121-b90c-cef1a84f517f",
+        "locator": "section 5, 'The Dualist View About the Knowledge Argument'",
+        "quote": "he concludes that something must be wrong with the knowledge argument"
+      }
+    ]
+  }
+}

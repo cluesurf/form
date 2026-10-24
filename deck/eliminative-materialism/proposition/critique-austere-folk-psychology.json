@@ -1,0 +1,45 @@
+{
+  "record": "proposition",
+  "id": "7b4426b6-38ca-44aa-874b-5b5c931535e5",
+  "kind": "philosophical",
+  "epistemic_status": "hypothesized",
+  "title": "Critique: folk psychology commits to so little that it will survive",
+  "statements": [
+    {
+      "id": "46eec2ed-f683-4d2e-9625-5953af77407e",
+      "text": "Some defenders hold that folk psychology, though a theory, is austere and ontologically noncommittal, requiring very little for vindication. Then it is compatible with a very wide range of neuroscientific and cognitive developments, and eliminative materialism is possible but unlikely.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "46eec2ed-f683-4d2e-9625-5953af77407e",
+  "status": "active",
+  "voice": "critique",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "4881b7b9-a47f-492c-80a0-18998a6e239d",
+        "locator": "section 4.3, 'Defending the Virtues of Folk Psychology'",
+        "quote": "folk psychology can be seen as compatible with a very wide range of neuroscientific or cognitive developments, making eliminative materialism possible but unlikely"
+      }
+    ]
+  }
+}

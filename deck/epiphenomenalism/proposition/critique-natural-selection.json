@@ -1,0 +1,50 @@
+{
+  "record": "proposition",
+  "id": "893de7aa-72cf-43d2-b86f-78148740197f",
+  "kind": "philosophical",
+  "epistemic_status": "hypothesized",
+  "title": "Critique: consciousness could not have evolved if it does nothing",
+  "statements": [
+    {
+      "id": "b5be9e7c-0b7e-401e-8c6f-cd80de86350b",
+      "text": "Consciousness must be explainable by natural selection, and a property can be selected only if it affects behavior, so consciousness must affect behavior. James adds that a consciousness pressing the organism toward survival would shorten the work of selection, and that without such an effective ideal it is hard to see how an organ as unstable as the mammalian cerebrum could have evolved at all. Popper and Eccles press the same objection.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "b5be9e7c-0b7e-401e-8c6f-cd80de86350b",
+  "status": "active",
+  "voice": "critique",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "542e0d13-746c-470a-a9b7-86f1d044600d",
+        "locator": "section 2.2, 'Natural Selection'",
+        "quote": "But a property can be selected for only if it has an effect upon organisms’ behavior."
+      },
+      {
+        "source": "dfd58c6e-5a2a-41c9-8c7a-db764ff37e09",
+        "locator": "Mind 4, page 16",
+        "quote": "It is, in fact, hard to see how without an effective superintending ideal the evolution of so unstable an organ as the mammalian cerebrum can have proceeded at all."
+      }
+    ]
+  }
+}

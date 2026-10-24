@@ -1,0 +1,50 @@
+{
+  "record": "proposition",
+  "id": "fa2bebd0-aeb1-4c1e-8c36-84a1d9c7e8e2",
+  "kind": "philosophical",
+  "epistemic_status": "hypothesized",
+  "title": "Homeostasis alone does not feel",
+  "statements": [
+    {
+      "id": "ab2b54eb-fac6-46b4-a4a5-203064d71423",
+      "text": "Feeling does not arise from homeostasis in and of itself. Thermostats are not conscious, not all living creatures are conscious though all are homeostatic, and much human homeostasis, such as blood pressure regulation, runs without consciousness. Nothing in free energy minimization as such requires qualitative terms: the values could still be purely quantitative.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "ab2b54eb-fac6-46b4-a4a5-203064d71423",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "8834b927-27b0-41e8-8c3f-c15dbf813c57",
+        "locator": "p. 7",
+        "quote": "I do not believe that thermostats are conscious."
+      },
+      {
+        "source": "8834b927-27b0-41e8-8c3f-c15dbf813c57",
+        "locator": "p. 10",
+        "quote": "There is no necessity to introduce qualitative terms into the dynamics of free energy minimization."
+      }
+    ]
+  }
+}

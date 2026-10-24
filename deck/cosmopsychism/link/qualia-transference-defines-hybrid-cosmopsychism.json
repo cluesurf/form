@@ -1,0 +1,33 @@
+{
+  "record": "link",
+  "id": "9a579d59-2fe0-498a-b631-fc1482627871",
+  "from": "35e89801-00df-47ea-a85f-0f1cd8706e8c",
+  "to": "d77597ee-8c37-4e2d-ab00-557aff092ab5",
+  "relation": "defines",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "2ab75b9c-c7c1-4d7f-a482-d00c7fe4f31c",
+        "locator": "PDF p. 19",
+        "quote": "In a case of qualia transference, phenomenal property instances are transferred from one subject of experience to another."
+      },
+      {
+        "source": "2ab75b9c-c7c1-4d7f-a482-d00c7fe4f31c",
+        "locator": "PDF p. 22",
+        "quote": "both subjects end up with a ‘thinned-out’ version of the original experience"
+      }
+    ]
+  }
+}

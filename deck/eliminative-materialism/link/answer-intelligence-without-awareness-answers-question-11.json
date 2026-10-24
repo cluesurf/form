@@ -1,0 +1,28 @@
+{
+  "record": "link",
+  "id": "8f271557-8098-4394-9354-9cf1fab5e0df",
+  "from": "890ad892-259e-420e-bdb1-29f9e62c4c2b",
+  "to": "2e0b3782-7e83-4696-98b0-fa81f1c63837",
+  "relation": "answers",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "de8573b3-42af-4c30-94e9-01704e16b3ea",
+        "locator": "p. 81",
+        "quote": "a great deal of intelligent and sentient activity, perhaps the lion’s share, goes on without benefit of self-conscious awareness"
+      }
+    ]
+  }
+}

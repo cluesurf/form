@@ -1,0 +1,45 @@
+{
+  "record": "proposition",
+  "id": "00d25916-5f80-49db-8d54-6f3b1ad79137",
+  "kind": "philosophical",
+  "epistemic_status": "hypothesized",
+  "title": "Critique: Mary gains abilities, not new information",
+  "statements": [
+    {
+      "id": "8b04f924-1172-466b-9914-41bc3abb427a",
+      "text": "On the ability hypothesis of Lewis and Nemirow, Mary learns no new propositional knowledge on release, only a bundle of abilities to imagine, remember and recognize colors. Knowing what an experience is like is knowing how, not knowing that, so the knowledge argument shows no nonphysical fact.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "8b04f924-1172-466b-9914-41bc3abb427a",
+  "status": "active",
+  "voice": "critique",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "fd223d59-c2ad-4121-b90c-cef1a84f517f",
+        "locator": "section 4.3, 'No Propositional Knowledge 1: the Ability Hypothesis'",
+        "quote": "Mary does not acquire any new propositional knowledge after release"
+      }
+    ]
+  }
+}

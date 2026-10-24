@@ -1,0 +1,50 @@
+{
+  "record": "proposition",
+  "id": "33d6ac91-e92b-4da9-9349-4f95e657aa8a",
+  "kind": "empirical",
+  "epistemic_status": "hypothesized",
+  "title": "The mechanism predicts characteristic photon pulses",
+  "statements": [
+    {
+      "id": "e1707435-d1f4-4142-b7e3-3fbbbf8dea07",
+      "text": "The proposed causal mechanism of phenomenal states is predicted to be accompanied by the emission of characteristic photon pulses, which opens a research strategy aimed at testing it and at deriving mapping rules between particular qualia and particular sets of phase-locked field modes.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "e1707435-d1f4-4142-b7e3-3fbbbf8dea07",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "6ae3be7e-baba-41f4-bfc7-e0a470bdb8e6",
+        "locator": "p. 5",
+        "quote": "is predicted to be accompanied by a concomitant phenomenon, namely the emission of characteristic photon pulses"
+      },
+      {
+        "source": "15531e9b-ad0a-46bd-893e-8b37e693007c",
+        "locator": "p. 407",
+        "quote": "resulting in the derivation of psychophysical"
+      }
+    ]
+  }
+}

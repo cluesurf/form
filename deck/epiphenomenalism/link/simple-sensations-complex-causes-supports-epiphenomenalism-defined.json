@@ -1,0 +1,28 @@
+{
+  "record": "link",
+  "id": "63188fcc-2219-4f7e-9555-8d2ee75b2552",
+  "from": "9bc48645-25ed-4919-8a7d-90d8cd27a4ab",
+  "to": "8932d812-581d-4cb6-9104-ec9097cb7d44",
+  "relation": "supports",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "542e0d13-746c-470a-a9b7-86f1d044600d",
+        "locator": "section 1, 'Traditional Arguments (A) Pro'",
+        "quote": "The sensations themselves could not contribute to behavior without first having neural effects that are more complex than themselves."
+      }
+    ]
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "record": "link",
+  "id": "5f32b162-fac2-4b6e-add6-5a3e2d004600",
+  "from": "9d2f0e51-ef42-4cf3-a64f-6c4e7a04641a",
+  "to": "94d1e6cc-101d-4e1b-9fc7-56d44571b271",
+  "relation": "answers",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "78f94ddb-c6f8-4a5c-86bb-ea574d7a0c37",
+        "locator": "p. 290",
+        "quote": "Each actual entity is a throb of experience including the actual world within its scope."
+      },
+      {
+        "source": "78f94ddb-c6f8-4a5c-86bb-ea574d7a0c37",
+        "locator": "p. 83",
+        "quote": "consciousness presupposes experience, and not experience consciousness"
+      }
+    ]
+  }
+}

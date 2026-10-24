@@ -1,0 +1,33 @@
+{
+  "record": "link",
+  "id": "603a2665-d428-4517-8013-8632d9fc8547",
+  "from": "eeb69619-968f-45f6-8bce-41fe0dea5a08",
+  "to": "4e928947-847d-48c7-ba6f-af007024861b",
+  "relation": "requires",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "ba105db4-969a-4ed2-be0c-cb4dd3eb2505",
+        "locator": "section II, point 4",
+        "quote": "In Whitehead’s system every actual occasion has a determinate spatiotemporal location relative to all others"
+      },
+      {
+        "source": "ba105db4-969a-4ed2-be0c-cb4dd3eb2505",
+        "locator": "section III",
+        "quote": "I have proposed a fourth option: a nonreductive, panexperientialist physicalism."
+      }
+    ]
+  }
+}

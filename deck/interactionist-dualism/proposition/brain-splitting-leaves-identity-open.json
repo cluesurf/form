@@ -1,0 +1,50 @@
+{
+  "record": "proposition",
+  "id": "2602c52c-bc09-49af-a752-834878ced4c2",
+  "kind": "philosophical",
+  "epistemic_status": "hypothesized",
+  "title": "Knowing what happens to every physical part leaves open what happens to the person",
+  "statements": [
+    {
+      "id": "f0056d96-0ab2-452f-a8a9-0de5ece72639",
+      "text": "If a brain were split and each half transplanted, two persons might each claim to be the original, but both cannot be. Which, if either, is the original is a real question, not a matter of definition, yet knowing what happened to every atom of the brain and body would not answer it. So survival is at least in part a fact about a nonphysical part.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "f0056d96-0ab2-452f-a8a9-0de5ece72639",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "9a9645ce-d028-451e-8752-1237c4f2f58b",
+        "locator": "eprint p. 4",
+        "quote": "won’t always show you what has happened to me"
+      },
+      {
+        "source": "9a9645ce-d028-451e-8752-1237c4f2f58b",
+        "locator": "eprint p. 5",
+        "quote": "But it cannot be a matter of definition whether I survive a brain operation and what my subsequent life will be like."
+      }
+    ]
+  }
+}

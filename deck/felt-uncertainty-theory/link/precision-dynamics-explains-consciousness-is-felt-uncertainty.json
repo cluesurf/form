@@ -1,0 +1,33 @@
+{
+  "record": "link",
+  "id": "beb19873-d3bb-4ac1-82ec-048e5a38965b",
+  "from": "90d1c760-345c-4011-973e-f87e03b9c54a",
+  "to": "31a7ba37-7364-4bdf-817f-66be0f393ece",
+  "relation": "explains",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "8834b927-27b0-41e8-8c3f-c15dbf813c57",
+        "locator": "p. 12",
+        "quote": "with action [1a], perception [1b], and affect [1c], respectively"
+      },
+      {
+        "source": "8834b927-27b0-41e8-8c3f-c15dbf813c57",
+        "locator": "p. 12",
+        "quote": "With the above quantities42 in place, one can describe any self-organizing (i.e., self-evidencing) system with the following dynamics"
+      }
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "record": "link",
+  "id": "0ba4519a-5f4c-4c18-acf7-ff471cb01845",
+  "from": "cf3276d5-c1e5-4e69-8895-120f3a21c2f0",
+  "to": "734fcb43-e2dc-483c-88f6-7694415b743c",
+  "relation": "answers",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "9a9645ce-d028-451e-8752-1237c4f2f58b",
+        "locator": "eprint p. 4",
+        "quote": "Organisms, such as plants, may over the course of time have all their parts replaced, but the replacement has to be gradual"
+      }
+    ]
+  }
+}

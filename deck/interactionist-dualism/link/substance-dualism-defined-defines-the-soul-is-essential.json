@@ -1,0 +1,33 @@
+{
+  "record": "link",
+  "id": "ecfb02fd-fe68-4a0f-874c-e4d6ecad211b",
+  "from": "e01c1aba-2348-44e1-8cc2-f46afa50f5bf",
+  "to": "4a5e34f9-b781-46dd-a95b-4289df85454d",
+  "relation": "defines",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "4bffe5f1-a379-4b92-b51d-3c5ef3046009",
+        "locator": "section 3.1, 'Substance Dualism'",
+        "quote": "by ‘substance dualism’ we mean the view that minds and bodies are fundamentally distinct kinds of substances"
+      },
+      {
+        "source": "9a9645ce-d028-451e-8752-1237c4f2f58b",
+        "locator": "eprint p. 1",
+        "quote": "I seek in this paper to defend the view that each of us on Earth consists of two parts - a physical body and a non-physical soul."
+      }
+    ]
+  }
+}

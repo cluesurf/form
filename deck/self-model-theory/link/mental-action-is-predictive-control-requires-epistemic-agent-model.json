@@ -1,0 +1,33 @@
+{
+  "record": "link",
+  "id": "5a2fd0e3-97b4-4e86-ab7a-81a63082adfe",
+  "from": "06258e2c-6d99-4842-a621-6be518429c45",
+  "to": "43450e03-2b8d-49de-b391-07cd2b9b9e74",
+  "relation": "requires",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "d821ebea-2668-4266-8314-e24547973aea",
+        "locator": "p. 1",
+        "quote": "mental action is the predictive control of effective connectivity"
+      },
+      {
+        "source": "d821ebea-2668-4266-8314-e24547973aea",
+        "locator": "p. 1",
+        "quote": "In mental action there is no motor output to be controlled and no sensory input vector that could be manipulated by bodily movement."
+      }
+    ]
+  }
+}

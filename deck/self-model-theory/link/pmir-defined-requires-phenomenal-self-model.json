@@ -1,0 +1,33 @@
+{
+  "record": "link",
+  "id": "44e8b950-b5c3-46be-ab63-eabeb497c823",
+  "from": "ea888beb-7ef6-458a-b775-73e51d60d352",
+  "to": "5e6c6d41-3ab9-4c49-8d6a-62fd91d8cea4",
+  "relation": "requires",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "bcdebbd0-38c1-4227-a43b-6a7a59f74207",
+        "locator": "p. 27",
+        "quote": "its content is an ongoing, episodic subject–object-relation"
+      },
+      {
+        "source": "bcdebbd0-38c1-4227-a43b-6a7a59f74207",
+        "locator": "p. 5",
+        "quote": "continuously co-representing the representational relation itself"
+      }
+    ]
+  }
+}

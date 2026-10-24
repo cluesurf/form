@@ -1,0 +1,50 @@
+{
+  "record": "proposition",
+  "id": "85fd3973-291f-4f18-a121-43167b8cce52",
+  "kind": "empirical",
+  "epistemic_status": "inferred",
+  "title": "No current AI system meets the indicators, and no obvious technical barrier stops building one that does",
+  "statements": [
+    {
+      "id": "96f5c005-3903-4989-8947-2a3a925fd41f",
+      "text": "Assessed against the indicator properties, no current AI system appears to be a strong candidate for consciousness. Standard machine learning methods could build systems with individual indicators, some such as algorithmic recurrence are already met, and there is no obvious technical barrier to building systems that satisfy them. Meeting the indicators would not mean a system is definitely conscious.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "96f5c005-3903-4989-8947-2a3a925fd41f",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "ecf4b155-a02f-440e-87ac-837126c9279c",
+        "locator": "arXiv p. 1",
+        "quote": "Our analysis suggests that no current AI systems are conscious, but also suggests that there are no obvious technical barriers to building AI systems which satisfy these indicators."
+      },
+      {
+        "source": "ecf4b155-a02f-440e-87ac-837126c9279c",
+        "locator": "arXiv p. 1",
+        "quote": "But satisfying the indicators would not mean that such an AI system would definitely be conscious."
+      }
+    ]
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "record": "proposition",
+  "id": "43450e03-2b8d-49de-b391-07cd2b9b9e74",
+  "kind": "definitional",
+  "epistemic_status": "designed",
+  "title": "The epistemic agent model",
+  "statements": [
+    {
+      "id": "39e78e5d-4339-4919-acf1-9394715c0cbc",
+      "text": "An epistemic agent model (EAM) is a special type of self-model in which the system is represented as an individual entity capable of epistemic self-control, standing in or actively building knowledge relations to parts of the world. Attentional agency is enough for an EAM, and cognitive agency is not required.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "39e78e5d-4339-4919-acf1-9394715c0cbc",
+  "status": "active",
+  "voice": "framework",
+  "defines": "epistemic agent model",
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "f901177d-d5a1-49ec-a74e-2adc81f988ea",
+        "locator": "p. 12",
+        "quote": "An EAM is a special type of PSM, allowing a cognitive system to develop a genuine first-person perspective."
+      },
+      {
+        "source": "f901177d-d5a1-49ec-a74e-2adc81f988ea",
+        "locator": "p. 12",
+        "quote": "AA is sufficient for having an EAM, CA is not a necessary condition."
+      }
+    ]
+  }
+}

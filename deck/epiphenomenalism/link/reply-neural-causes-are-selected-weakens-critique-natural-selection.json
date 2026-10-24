@@ -1,0 +1,28 @@
+{
+  "record": "link",
+  "id": "0741c6bb-550c-4c6c-a64c-e8b22fba1ead",
+  "from": "a50455cd-6195-49b7-a705-77a2287d903c",
+  "to": "893de7aa-72cf-43d2-b86f-78148740197f",
+  "relation": "weakens",
+  "strength": null,
+  "rationale": "Selection can act on the neural causes of conscious events, which then come along with them.",
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "542e0d13-746c-470a-a9b7-86f1d044600d",
+        "locator": "section 2.2, 'Natural Selection'",
+        "quote": "it fits well in their view that we have the conscious events we do because the neural causes of these events have been selected for"
+      }
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "record": "link",
+  "id": "1a803684-7e7a-4b15-aa1a-160b2aad3010",
+  "from": "add74a67-0143-4341-8623-b9b4b7b9fcd2",
+  "to": "872ef2b7-0653-47bf-a6f8-f0d4437bfe6e",
+  "relation": "supports",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "ba105db4-969a-4ed2-be0c-cb4dd3eb2505",
+        "locator": "section I",
+        "quote": "those notions that we inevitably presuppose in practice should be regarded as the nonnegotiable elements in our belief systems"
+      }
+    ]
+  }
+}

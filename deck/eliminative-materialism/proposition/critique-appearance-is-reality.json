@@ -1,0 +1,45 @@
+{
+  "record": "proposition",
+  "id": "0b9c0466-32d8-4a34-859d-6f4e507fbe22",
+  "kind": "philosophical",
+  "epistemic_status": "hypothesized",
+  "title": "Critique: for experience, the appearance is the reality",
+  "statements": [
+    {
+      "id": "e2ca7c32-d06b-41b2-bd2b-9ea49f160f2d",
+      "text": "Against eliminativism about phenomenal consciousness: the gap between illusion and reality seems to collapse for inner experience. Even if what-it-is-likeness belongs to how introspection represents states, it would be a real feature of introspection, relocated but not removed. As Searle puts it, where consciousness is concerned the existence of the appearance is the reality.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "e2ca7c32-d06b-41b2-bd2b-9ea49f160f2d",
+  "status": "active",
+  "voice": "critique",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "4881b7b9-a47f-492c-80a0-18998a6e239d",
+        "locator": "section 3.3, 'Eliminative Materialism and the Phenomenal'",
+        "quote": "where consciousness is concerned the existence of the appearance is the reality"
+      }
+    ]
+  }
+}

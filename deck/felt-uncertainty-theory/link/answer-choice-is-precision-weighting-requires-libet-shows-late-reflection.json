@@ -1,0 +1,33 @@
+{
+  "record": "link",
+  "id": "4ebdff0c-1b7f-4616-8467-5bc65fee69b0",
+  "from": "7ad96b36-49e6-4667-971e-b9f9aa65871f",
+  "to": "b5193a38-ff7b-482b-8c63-777ad6a5ac4f",
+  "relation": "requires",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "8834b927-27b0-41e8-8c3f-c15dbf813c57",
+        "locator": "p. 12",
+        "quote": "This capacity provides a formal (mechanistic) account of voluntary behavior—of choice."
+      },
+      {
+        "source": "8834b927-27b0-41e8-8c3f-c15dbf813c57",
+        "locator": "p. 7",
+        "quote": "if the organism is going to make plausible choices in novel contexts (cf. \"free will\") it must do so via some type of here-and-now assessment"
+      }
+    ]
+  }
+}

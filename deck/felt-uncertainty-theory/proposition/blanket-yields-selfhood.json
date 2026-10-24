@@ -1,0 +1,55 @@
+{
+  "record": "proposition",
+  "id": "131db7dd-2b87-46e1-a568-66edf24d4308",
+  "kind": "philosophical",
+  "epistemic_status": "inferred",
+  "title": "The Markov blanket yields elemental selfhood and intentionality",
+  "statements": [
+    {
+      "id": "8be1a89b-ef76-4ba7-8d9b-e796c9d84828",
+      "text": "A Markov blanket provides the minimal conditions for life and for selfhood, a self-organizing existence separable from a world. Monitoring its own internal states against dissipative not-self forces is what brings active subjectivity about, and the work this takes is goal-directed, so the blanket yields elemental selfhood and intentionality. The same partition explains the problem of other minds.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "8be1a89b-ef76-4ba7-8d9b-e796c9d84828",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "224c4197-d629-416a-b17f-4f96e49df600",
+        "locator": "p. 5",
+        "quote": "provides the minimal conditions not only for maintaining life but also for selfhood"
+      },
+      {
+        "source": "8834b927-27b0-41e8-8c3f-c15dbf813c57",
+        "locator": "p. 10",
+        "quote": "the dynamics of a Markov blanket generate two fundamental properties of minds"
+      },
+      {
+        "source": "8834b927-27b0-41e8-8c3f-c15dbf813c57",
+        "locator": "p. 10",
+        "quote": "the properties of a Markov blanket explain the problem of other minds"
+      }
+    ]
+  }
+}

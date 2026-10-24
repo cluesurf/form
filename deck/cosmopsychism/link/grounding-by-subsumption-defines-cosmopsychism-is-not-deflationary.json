@@ -1,0 +1,33 @@
+{
+  "record": "link",
+  "id": "5af7bb9a-7a52-4e56-bbad-ebca1fca0aa9",
+  "from": "5c649618-86be-46f8-a16c-2ea380034c60",
+  "to": "e7b4a68a-6f81-4ad0-9656-913c0efd83f4",
+  "relation": "defines",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "6801f71f-b984-44ec-8535-cf2750b86ba3",
+        "locator": "p. 7",
+        "quote": "X grounds by subsumption Y iff Y is a partial aspect of X"
+      },
+      {
+        "source": "6801f71f-b984-44ec-8535-cf2750b86ba3",
+        "locator": "p. 9",
+        "quote": "In each case, the reality of the whole subsumes the reality of the aspect."
+      }
+    ]
+  }
+}

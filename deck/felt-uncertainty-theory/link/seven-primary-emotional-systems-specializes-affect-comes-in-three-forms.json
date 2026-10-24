@@ -1,0 +1,33 @@
+{
+  "record": "link",
+  "id": "7e83d912-deb8-4902-810b-2c35b9ebdefe",
+  "from": "9dbfaede-2204-4fd9-ad42-e2c7103192f5",
+  "to": "f51aefe3-a5ff-447a-b1c2-c05d57cac7f3",
+  "relation": "specializes",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "111a5886-a4ef-4617-8176-15a18ef33dd7",
+        "locator": "abstract, p. 1",
+        "quote": "Seven types of emotional arousals have been described"
+      },
+      {
+        "source": "111a5886-a4ef-4617-8176-15a18ef33dd7",
+        "locator": "abstract, p. 1",
+        "quote": "Comparable ESB of human brains yield comparable affective experiences."
+      }
+    ]
+  }
+}

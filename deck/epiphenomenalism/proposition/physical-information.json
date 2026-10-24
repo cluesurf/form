@@ -1,0 +1,45 @@
+{
+  "record": "proposition",
+  "id": "88f3a6aa-8ccf-4047-9e3b-cc3ea575ea3d",
+  "kind": "definitional",
+  "epistemic_status": "designed",
+  "title": "Physical information",
+  "statements": [
+    {
+      "id": "31b6dd75-1c70-413c-837b-28d483023ada",
+      "text": "Physical information is information about ourselves and the world of the kind the physical, chemical and biological sciences can obtain.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "31b6dd75-1c70-413c-837b-28d483023ada",
+  "status": "active",
+  "voice": "framework",
+  "defines": "physical information",
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "542e0d13-746c-470a-a9b7-86f1d044600d",
+        "locator": "section 3.4, 'Epiphenomenalism and Intrinsic Properties'",
+        "quote": "information about ourselves and our world of the kind that is obtainable in the physical, chemical, and biological sciences"
+      }
+    ]
+  }
+}

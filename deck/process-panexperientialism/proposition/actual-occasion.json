@@ -1,0 +1,50 @@
+{
+  "record": "proposition",
+  "id": "db9687dd-2fe3-4cc9-a8fd-9dfbd8367d90",
+  "kind": "definitional",
+  "epistemic_status": "designed",
+  "title": "Actual occasions",
+  "statements": [
+    {
+      "id": "b6bf60b3-1cd6-42db-a27a-3de845b255c1",
+      "text": "An actual occasion, or actual entity, is one of the final realities of which the world is made: a momentary, internally related, organism-like process. God is an actual entity, and so is the most trivial puff of existence in empty space. They differ in importance and function, but all exemplify the same principles.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "b6bf60b3-1cd6-42db-a27a-3de845b255c1",
+  "status": "active",
+  "voice": "framework",
+  "defines": "actual occasion",
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "78f94ddb-c6f8-4a5c-86bb-ea574d7a0c37",
+        "locator": "p. 28",
+        "quote": "God is an actual entity, and so is the most trivial puff of existence in far-off empty space"
+      },
+      {
+        "source": "714e4dce-1d09-4ecd-8cdf-db662db525a8",
+        "locator": "section 6, Metaphysics",
+        "quote": "internally related organism-like elementary processes"
+      }
+    ]
+  }
+}

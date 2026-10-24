@@ -1,0 +1,33 @@
+{
+  "record": "link",
+  "id": "a74f6331-89e0-4e8c-b9ae-0d1e8ca8fb59",
+  "from": "4e928947-847d-48c7-ba6f-af007024861b",
+  "to": "db9687dd-2fe3-4cc9-a8fd-9dfbd8367d90",
+  "relation": "requires",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "78f94ddb-c6f8-4a5c-86bb-ea574d7a0c37",
+        "locator": "p. 28",
+        "quote": "The ontological principle can be summarized as: no actual entity, then no reason."
+      },
+      {
+        "source": "ba105db4-969a-4ed2-be0c-cb4dd3eb2505",
+        "locator": "section II, point 8",
+        "quote": "at the center of Whitehead’s philosophy is his \"ontological principle,\" according to which only actual entities can act"
+      }
+    ]
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "record": "link",
+  "id": "4f7882f1-9d4d-4769-8f54-939ff7856f29",
+  "from": "34a1b9af-df8c-4787-ac33-3d5f6be173bb",
+  "to": "801589bb-4099-4078-836f-c095bb48fa9f",
+  "relation": "explains",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "bcdebbd0-38c1-4227-a43b-6a7a59f74207",
+        "locator": "p. 25",
+        "quote": "it prevents the system from being caught up in an infinite regress of self-modeling"
+      },
+      {
+        "source": "bcdebbd0-38c1-4227-a43b-6a7a59f74207",
+        "locator": "p. 25",
+        "quote": "I call this the \"principle of necessary self-reification\""
+      }
+    ]
+  }
+}

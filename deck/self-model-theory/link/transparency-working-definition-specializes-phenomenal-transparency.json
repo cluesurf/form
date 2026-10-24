@@ -1,0 +1,33 @@
+{
+  "record": "link",
+  "id": "74dbaa18-faae-499c-b007-ab2e71ce2bb7",
+  "from": "4af869ec-83ef-4955-a37e-14f1aeea12d9",
+  "to": "c0208e1c-f997-431c-bb5d-a9c3a189810b",
+  "relation": "specializes",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "bcdebbd0-38c1-4227-a43b-6a7a59f74207",
+        "locator": "p. 11",
+        "quote": "Transparency holds if earlier processing stages are unavailable for attentional processing."
+      },
+      {
+        "source": "bcdebbd0-38c1-4227-a43b-6a7a59f74207",
+        "locator": "p. 11",
+        "quote": "the degree of phenomenal transparency is inversely proportional to the introspective degree of attentional availability of earlier processing stages"
+      }
+    ]
+  }
+}

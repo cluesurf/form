@@ -1,0 +1,50 @@
+{
+  "record": "proposition",
+  "id": "590db5a6-7928-4457-8dc2-0d2f122c0d41",
+  "kind": "philosophical",
+  "epistemic_status": "hypothesized",
+  "title": "Answer: the self is a conscious automaton, and agency is a difference in brain states",
+  "statements": [
+    {
+      "id": "c9fed39c-7501-43ba-8556-af8ad474cc22",
+      "text": "A human being is a conscious automaton, a part of the unbroken series of causes and effects, whose conscious states accompany that series. The difference between one's own actions and being moved by something else is kept, as a difference between brain states with different conscious effects.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "c9fed39c-7501-43ba-8556-af8ad474cc22",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "74e58cef-2e29-415f-a138-df37b7515701",
+        "locator": "Collected Essays I, page 244",
+        "quote": "none the less parts of the great series of causes and effects"
+      },
+      {
+        "source": "542e0d13-746c-470a-a9b7-86f1d044600d",
+        "locator": "section 2.1, 'Obvious Absurdity'",
+        "quote": "Epiphenomenalism is also compatible with there being a distinction between actions that proceed from normal brain processes in normal conditions, and actions that proceed from manipulation by others"
+      }
+    ]
+  }
+}

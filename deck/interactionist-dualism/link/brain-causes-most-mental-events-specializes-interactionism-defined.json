@@ -1,0 +1,33 @@
+{
+  "record": "link",
+  "id": "5168827f-e8c2-4509-badd-fd9c47325850",
+  "from": "c68ef92e-f126-4859-8755-bdbefdd85609",
+  "to": "2422f823-776d-41bf-b984-29fae488a1c1",
+  "relation": "specializes",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "9a9645ce-d028-451e-8752-1237c4f2f58b",
+        "locator": "eprint p. 3",
+        "quote": "I do not of course deny that most of my pure mental events are caused by my brain events."
+      },
+      {
+        "source": "9a9645ce-d028-451e-8752-1237c4f2f58b",
+        "locator": "eprint p. 3",
+        "quote": "plausibly often a thought that such-and-such is the answer to a mathematical problem is caused in part by thoughts that certain other mathematical propositions are true"
+      }
+    ]
+  }
+}

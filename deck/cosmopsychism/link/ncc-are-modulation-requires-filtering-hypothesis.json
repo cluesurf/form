@@ -1,0 +1,33 @@
+{
+  "record": "link",
+  "id": "d4a9a3fc-e31c-4d24-90a5-f02735e4affc",
+  "from": "65a5dcb6-247d-4cca-986f-a919c5437472",
+  "to": "30228cc1-69b0-4582-b35d-9eb02aae8a91",
+  "relation": "requires",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "6ae3be7e-baba-41f4-bfc7-e0a470bdb8e6",
+        "locator": "p. 1",
+        "quote": "the NCC are indicative of the brain’s interaction with and"
+      },
+      {
+        "source": "6ae3be7e-baba-41f4-bfc7-e0a470bdb8e6",
+        "locator": "p. 5",
+        "quote": "that the NCC are related to large-scale synchronization in the brain"
+      }
+    ]
+  }
+}

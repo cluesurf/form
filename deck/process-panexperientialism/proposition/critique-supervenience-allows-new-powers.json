@@ -1,0 +1,50 @@
+{
+  "record": "proposition",
+  "id": "91f405f9-6a0a-458a-bd02-9c2041fec7a2",
+  "kind": "philosophical",
+  "epistemic_status": "hypothesized",
+  "title": "Critique: mereological supervenience allows new powers at the level of wholes",
+  "statements": [
+    {
+      "id": "dc68f10e-21ec-4b2e-85ba-caac1eaae5fb",
+      "text": "Kim answers Griffin’s claim that materialism cannot tell a human from a rock. Mereological supervenience says only that microstructurally identical wholes have the same properties and powers, not that the properties of wholes are those of their parts. Structure matters, and wholes can have new causal powers their parts lack.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "dc68f10e-21ec-4b2e-85ba-caac1eaae5fb",
+  "status": "active",
+  "voice": "critique",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "3df91988-c538-4080-8992-1560956856a1",
+        "locator": "paragraph on mereological supervenience",
+        "quote": "Mereological supervenience does not say, or imply, that the properties of the whole are identical with properties of their microconstituents."
+      },
+      {
+        "source": "3df91988-c538-4080-8992-1560956856a1",
+        "locator": "paragraph on mereological supervenience",
+        "quote": "determination must be sharply distinguished from identity"
+      }
+    ]
+  }
+}

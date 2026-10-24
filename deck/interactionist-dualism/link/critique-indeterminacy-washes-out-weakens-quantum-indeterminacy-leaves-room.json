@@ -1,0 +1,28 @@
+{
+  "record": "link",
+  "id": "a51f927d-a4b2-45ba-9140-4dd309e4a999",
+  "from": "a0e05cce-0f4e-4d8d-b71b-6167ab188e2e",
+  "to": "48f66e39-cd5b-427d-bdc1-0d84262e764b",
+  "relation": "weakens",
+  "strength": null,
+  "rationale": "If quantum effects cancel out at macroscopic scales, they cannot carry a mental influence to behavior.",
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "4bffe5f1-a379-4b92-b51d-3c5ef3046009",
+        "locator": "section 3.3, 'Interactionism'",
+        "quote": "Some argue that indeterminacy manifests itself only on the subatomic level, being cancelled out by the time one reaches even very tiny macroscopic objects"
+      }
+    ]
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "record": "proposition",
+  "id": "15904045-96e1-4920-9324-cded77ed831e",
+  "kind": "philosophical",
+  "epistemic_status": "hypothesized",
+  "title": "Occasions perish subjectively and are immortal objectively",
+  "statements": [
+    {
+      "id": "ce336994-0f83-436f-85f4-a6acfb4b3750",
+      "text": "An actual occasion completes itself and perishes as a subject, losing its subjective immediacy and final causation, and gains objective immortality as a datum with efficient causation in later occasions. No subject experiences twice.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "ce336994-0f83-436f-85f4-a6acfb4b3750",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "78f94ddb-c6f8-4a5c-86bb-ea574d7a0c37",
+        "locator": "p. 44",
+        "quote": "actual entities 'perpetually perish' subjectively, but are immortal objectively"
+      }
+    ]
+  }
+}

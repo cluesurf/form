@@ -1,0 +1,33 @@
+{
+  "record": "link",
+  "id": "b4195656-dbea-4f8e-8091-0123cef3bb59",
+  "from": "9166cc8d-b8eb-4f70-a8e3-e2203528d96a",
+  "to": "4b28e51f-515f-47ea-b19d-08ebde0cf1c9",
+  "relation": "explains",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "bcdebbd0-38c1-4227-a43b-6a7a59f74207",
+        "locator": "p. 13",
+        "quote": "it minimizes computational load since it is synonymous to a missing of information on this level of processing"
+      },
+      {
+        "source": "bcdebbd0-38c1-4227-a43b-6a7a59f74207",
+        "locator": "p. 14",
+        "quote": "The transparent world-model allows a system to treat information as factual information"
+      }
+    ]
+  }
+}

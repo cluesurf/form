@@ -1,0 +1,45 @@
+{
+  "record": "proposition",
+  "id": "87f1acaf-7707-45c2-9fa8-910753997387",
+  "kind": "empirical",
+  "epistemic_status": "hypothesized",
+  "title": "Answer: a brain whose every relevant event has a sufficient physical cause",
+  "statements": [
+    {
+      "id": "ac754cce-1802-47ff-9d16-a849ca52dddb",
+      "text": "What would count against the view is evidence that neuroscience leaves no room for a mind to act on the brain in the right way: that the neural events behind voluntary action all have sufficient physical causes, or, in the Beck-Eccles form, that synaptic release shows no quantum probability that intention could shift.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "ac754cce-1802-47ff-9d16-a849ca52dddb",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "ca8520b1-c069-4551-b4a7-3d560c5ff593",
+        "locator": "p. 115",
+        "quote": "simply observe that empirical neuroscience leaves insufficient room for a soul to act on the brain in the right sort of way"
+      }
+    ]
+  }
+}

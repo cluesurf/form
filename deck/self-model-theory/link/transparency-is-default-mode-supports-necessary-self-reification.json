@@ -1,0 +1,33 @@
+{
+  "record": "link",
+  "id": "709b01cf-9dd3-48db-9972-9e9094a41ff3",
+  "from": "743b7b56-2dee-4420-b8b8-068faf7678c4",
+  "to": "34a1b9af-df8c-4787-ac33-3d5f6be173bb",
+  "relation": "supports",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "509b3ac7-2958-4cd3-aac9-6a3f17c7b14d",
+        "locator": "p. 1",
+        "quote": "We propose a relationship of phenomenal opacity to expected uncertainty or precision"
+      },
+      {
+        "source": "509b3ac7-2958-4cd3-aac9-6a3f17c7b14d",
+        "locator": "p. 6",
+        "quote": "taking transparency as the default presentation mode of conscious experience"
+      }
+    ]
+  }
+}

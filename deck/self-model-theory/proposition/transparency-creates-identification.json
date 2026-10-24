@@ -1,0 +1,50 @@
+{
+  "record": "proposition",
+  "id": "ff54318e-4004-461d-9182-14e1c51aed1f",
+  "kind": "philosophical",
+  "epistemic_status": "hypothesized",
+  "title": "Because the self-model is transparent, the system identifies with its content",
+  "statements": [
+    {
+      "id": "3a743b0c-7f27-4da0-a91c-465d525926c7",
+      "text": "A large part of the human self-model is transparent: it cannot be experienced as a model, so the system fully identifies with its content. Because the conscious body model cannot be recognized as a model by introspection, people experience themselves as real, distinct, unified bodily selves.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "3a743b0c-7f27-4da0-a91c-465d525926c7",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "f901177d-d5a1-49ec-a74e-2adc81f988ea",
+        "locator": "p. 9",
+        "quote": "because we are not able to experience it as a model and therefore fully identify with it representational content"
+      },
+      {
+        "source": "1bc792ee-c3ee-4f0c-93b8-a818a2897c06",
+        "locator": "p. 3",
+        "quote": "because it cannot introspectively be recognized as a model, we fully identify with its representational content"
+      }
+    ]
+  }
+}

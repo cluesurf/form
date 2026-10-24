@@ -1,0 +1,33 @@
+{
+  "record": "link",
+  "id": "9faef048-e3e8-4430-ac94-d651e0bd9f28",
+  "from": "52cb1bb0-d576-4d01-949e-3acd0f1051b8",
+  "to": "215bbc5a-7698-4af2-8ff8-c480f6a0217b",
+  "relation": "requires",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "f901177d-d5a1-49ec-a74e-2adc81f988ea",
+        "locator": "p. 1",
+        "quote": "most of what we call “conscious thought” is better analyzed as a subpersonal process"
+      },
+      {
+        "source": "f901177d-d5a1-49ec-a74e-2adc81f988ea",
+        "locator": "p. 1",
+        "quote": "This raises an interesting new version of the mind-body problem"
+      }
+    ]
+  }
+}

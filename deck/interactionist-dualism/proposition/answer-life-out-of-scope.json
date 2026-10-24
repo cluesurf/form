@@ -1,0 +1,45 @@
+{
+  "record": "proposition",
+  "id": "cf3276d5-c1e5-4e69-8895-120f3a21c2f0",
+  "kind": "philosophical",
+  "epistemic_status": "hypothesized",
+  "title": "Answer: no position on life",
+  "statements": [
+    {
+      "id": "b19e59e5-e5f5-406b-995d-489568b2d24e",
+      "text": "The view takes no position on what life is. Organisms are physical substances whose identity survives gradual replacement of their parts, unlike a person, whose identity rests on the soul.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "b19e59e5-e5f5-406b-995d-489568b2d24e",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "9a9645ce-d028-451e-8752-1237c4f2f58b",
+        "locator": "eprint p. 4",
+        "quote": "Organisms, such as plants, may over the course of time have all their parts replaced, but the replacement has to be gradual"
+      }
+    ]
+  }
+}

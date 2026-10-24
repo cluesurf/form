@@ -1,0 +1,33 @@
+{
+  "record": "link",
+  "id": "f39229e1-55a4-4f79-8113-cb3e1f8cdd74",
+  "from": "8810a460-627a-466f-a08a-e3dd12a609a0",
+  "to": "4c2e7c9b-2abb-4397-8ef5-48623289294c",
+  "relation": "weakens",
+  "strength": null,
+  "rationale": "The principle that asserting requires believing is itself a folk psychological assumption the view rejects.",
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "3db58e50-8dbf-47f4-a613-ff8ee88a21d4",
+        "locator": "MIT Press edition, page 397",
+        "quote": "What the eliminativist is fumbling to say is that folk psychology is seriously inadequate as a theory."
+      },
+      {
+        "source": "4881b7b9-a47f-492c-80a0-18998a6e239d",
+        "locator": "section 4.1, 'The Self-Refutation Objection'",
+        "quote": "So the eliminativist will hold that the self-refutation critics beg the question against eliminative materialism."
+      }
+    ]
+  }
+}

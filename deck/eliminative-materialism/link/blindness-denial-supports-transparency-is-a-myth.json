@@ -1,0 +1,33 @@
+{
+  "record": "link",
+  "id": "1f71e78b-52c3-4e75-8f2c-b55d41d1cf1f",
+  "from": "243e478d-d4c6-40e2-bce6-6b6d1a9866d5",
+  "to": "4dadbc85-bea2-4ac8-a304-591700327a1f",
+  "relation": "supports",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "de8573b3-42af-4c30-94e9-01704e16b3ea",
+        "locator": "p. 83",
+        "quote": "In some sense, incredible as it may seem, these patients do not know that they do not see."
+      },
+      {
+        "source": "de8573b3-42af-4c30-94e9-01704e16b3ea",
+        "locator": "p. 83",
+        "quote": "what the blindness denial syndrome teaches us is that we ought to be prepared to revise our common sense beliefs about awareness"
+      }
+    ]
+  }
+}

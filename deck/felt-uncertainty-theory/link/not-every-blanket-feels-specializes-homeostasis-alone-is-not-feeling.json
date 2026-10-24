@@ -1,0 +1,33 @@
+{
+  "record": "link",
+  "id": "f61ffa1f-5f6e-4cfb-8ebc-71e531737555",
+  "from": "06b5f775-c62c-4438-a10b-cda119c84f7b",
+  "to": "fa2bebd0-aeb1-4c1e-8c36-84a1d9c7e8e2",
+  "relation": "specializes",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "224c4197-d629-416a-b17f-4f96e49df600",
+        "locator": "p. 11",
+        "quote": "We do not mean to imply by our proposals that every (ergodic) random dynamical system that possesses a Markov blanket will experience feelings."
+      },
+      {
+        "source": "224c4197-d629-416a-b17f-4f96e49df600",
+        "locator": "p. 11",
+        "quote": "we do not claim that they feel like we do"
+      }
+    ]
+  }
+}

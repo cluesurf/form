@@ -1,0 +1,45 @@
+{
+  "record": "proposition",
+  "id": "d87538f6-c9ef-4309-ab23-d8a2a70eb431",
+  "kind": "philosophical",
+  "epistemic_status": "inferred",
+  "title": "Attempts to make interaction conserve energy miss the physics of conservation",
+  "statements": [
+    {
+      "id": "e7d8814b-24c6-4dc6-b00b-51643cf92feb",
+      "text": "Interactionists have tried to make their view satisfy energy conservation, as in Lowe's varying constants proposal. Cucu and Pitts argue that all such attempts miss their goal, because they do not engage with the roots of conservation in Noether's first theorem, its converse, and the locality of field physics.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "e7d8814b-24c6-4dc6-b00b-51643cf92feb",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "ca8520b1-c069-4551-b4a7-3d560c5ff593",
+        "locator": "p. 95",
+        "quote": "showing how they all miss their goal due to lack of engagement with the physico-mathematical roots of energy conservation physics"
+      }
+    ]
+  }
+}

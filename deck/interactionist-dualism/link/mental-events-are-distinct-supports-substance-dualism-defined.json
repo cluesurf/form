@@ -1,0 +1,33 @@
+{
+  "record": "link",
+  "id": "24dfbefa-04eb-4876-aad6-35af68f3c09d",
+  "from": "6cb04be5-6e32-4138-b06e-247af3386e08",
+  "to": "e01c1aba-2348-44e1-8cc2-f46afa50f5bf",
+  "relation": "supports",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "9a9645ce-d028-451e-8752-1237c4f2f58b",
+        "locator": "eprint p. 2",
+        "quote": "Consequently, they must be distinct from brain events, or any other bodily events."
+      },
+      {
+        "source": "9a9645ce-d028-451e-8752-1237c4f2f58b",
+        "locator": "eprint p. 3",
+        "quote": "It is a further fact beyond the occurrence of brain events that there are pains and after-images, thoughts, and intentions."
+      }
+    ]
+  }
+}

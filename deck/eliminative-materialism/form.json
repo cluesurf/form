@@ -1,0 +1,89 @@
+{
+  "format": "form.surf/1",
+  "id": "4e72c048-c069-47c0-9bb8-488e57cbc4a6",
+  "name": "eliminative-materialism",
+  "title": "Eliminative Materialism",
+  "role": "model",
+  "summary": "Eliminative materialism, as Paul and Patricia Churchland set it out from 1981: folk psychology, the everyday framework of beliefs and desires, is an empirical theory, probably a radically false one, and its posits will be replaced, not reduced, by the concepts of a matured neuroscience. The mind is nothing more than what the brain does, and even the folk concept of consciousness may come apart.",
+  "framework": {
+    "originators": [
+      "Paul M. Churchland",
+      "Patricia S. Churchland"
+    ],
+    "aliases": [
+      "eliminativism",
+      "neurophilosophy",
+      "the theory-theory of folk psychology",
+      "revisionary materialism",
+      "the co-evolutionary research ideology"
+    ],
+    "homepage": null,
+    "publication": {
+      "venue": [
+        "peer_reviewed",
+        "book"
+      ],
+      "peer_review": "yes",
+      "replication": "not_applicable"
+    }
+  },
+  "community_written": true,
+  "curators": [
+    {
+      "name": "Lance Pollard",
+      "github": "lancejpollard"
+    }
+  ],
+  "license": "CC-BY-4.0",
+  "atlas": {
+    "scope": [
+      "e480c33b-cd3d-4662-ac02-335c4fbba66a",
+      "15c9abd8-8cf0-4081-9544-d54b1b491317",
+      "dd61b004-94f3-4114-916e-3b00e19706c0",
+      "374beb96-56e8-41d6-a04d-a138b58409e6",
+      "3023aa10-3982-4fdb-b40d-5354ccf0005f"
+    ],
+    "limits": [
+      "4af2205c-0583-4965-a1d5-8cc552b5b5f4",
+      "a2af5bea-cd3f-4542-a63b-edecda66053b"
+    ],
+    "issues": [
+      "4c2e7c9b-2abb-4397-8ef5-48623289294c",
+      "d4692d49-fc94-4644-9d35-d6424eb2abc6",
+      "019fb4c8-fb89-4571-93d2-806671745155",
+      "38822ec5-a00c-4d24-8cd9-5ebdb06dbb57",
+      "7b4426b6-38ca-44aa-874b-5b5c931535e5",
+      "5df38933-8398-47cd-a6e8-274a2f7b687c",
+      "0b9c0466-32d8-4a34-859d-6f4e507fbe22"
+    ],
+    "dead_ends": []
+  },
+  "draws_from": [],
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "4881b7b9-a47f-492c-80a0-18998a6e239d",
+        "locator": "section 2, 'Contemporary Eliminative Materialism'",
+        "quote": "it is the view that certain common-sense mental states, such as beliefs and desires, do not exist"
+      },
+      {
+        "source": "3db58e50-8dbf-47f4-a613-ff8ee88a21d4",
+        "locator": "MIT Press edition, page 396",
+        "quote": null
+      },
+      {
+        "source": "458322aa-9036-4e4b-a8b0-e5dc96730d1d",
+        "locator": null,
+        "quote": null
+      }
+    ]
+  }
+}

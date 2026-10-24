@@ -1,0 +1,45 @@
+{
+  "record": "proposition",
+  "id": "26662a58-0330-4dee-b24e-b87de09a9268",
+  "kind": "philosophical",
+  "epistemic_status": "hypothesized",
+  "title": "Answer: a noncomputational feature of living organisms that consciousness needs",
+  "statements": [
+    {
+      "id": "8a9da647-a038-485b-9615-f8420b9c44b7",
+      "text": "The view would fail if some noncomputational feature of living organisms were necessary for consciousness. Then the computational features that go with consciousness in humans would not be good indicators of it in AI, and consciousness would be impossible in nonorganic artificial systems.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "8a9da647-a038-485b-9615-f8420b9c44b7",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "ecf4b155-a02f-440e-87ac-837126c9279c",
+        "locator": "arXiv p. 14",
+        "quote": "It could be, for instance, that some non-computational feature of living organisms is necessary for"
+      }
+    ]
+  }
+}

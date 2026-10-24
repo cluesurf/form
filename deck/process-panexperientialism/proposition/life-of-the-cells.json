@@ -1,0 +1,50 @@
+{
+  "record": "proposition",
+  "id": "757ef93b-4e72-4aba-a41c-f3274cdebf3a",
+  "kind": "philosophical",
+  "epistemic_status": "hypothesized",
+  "title": "All the life in the body is the life of its cells",
+  "statements": [
+    {
+      "id": "0523e86c-3c17-40c0-8bc6-86b81ada3603",
+      "text": "No further mentality presides over the body’s cells. All the life in the body is the life of the individual cells, millions of centers of life in each animal body, so what needs explaining is not dissociation but the unifying control that gives unified behavior and consciousness of a unified experience.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "0523e86c-3c17-40c0-8bc6-86b81ada3603",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "78f94ddb-c6f8-4a5c-86bb-ea574d7a0c37",
+        "locator": "p. 165",
+        "quote": "All the life in the body is the life of the individual cells."
+      },
+      {
+        "source": "78f94ddb-c6f8-4a5c-86bb-ea574d7a0c37",
+        "locator": "p. 165",
+        "quote": "There are thus millions upon millions of centres of life in each animal body."
+      }
+    ]
+  }
+}

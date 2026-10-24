@@ -1,0 +1,33 @@
+{
+  "record": "link",
+  "id": "df4e8790-cbf0-4c8b-97fc-f1b42fa603e4",
+  "from": "cbe60d09-330e-4012-a264-f0ba607cc1fb",
+  "to": "580d3e86-382e-4a65-acaf-99bfc5515747",
+  "relation": "contradicts",
+  "strength": null,
+  "rationale": "If consciousness needs a self-maintaining living substrate, the substrate matters beyond its algorithms.",
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "ecf4b155-a02f-440e-87ac-837126c9279c",
+        "locator": "arXiv p. 42",
+        "quote": "conscious systems must be self-producing, self-maintaining, “autopoietic” systems"
+      },
+      {
+        "source": "ecf4b155-a02f-440e-87ac-837126c9279c",
+        "locator": "arXiv p. 42",
+        "quote": "artificial systems can only bear coarse-grained functional similarities to living organisms and that these will not be sufficient for consciousness"
+      }
+    ]
+  }
+}

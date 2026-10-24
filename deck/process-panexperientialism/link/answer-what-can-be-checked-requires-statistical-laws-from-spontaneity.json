@@ -1,0 +1,33 @@
+{
+  "record": "link",
+  "id": "a73e6db5-1e84-4719-93fd-fe7256dcf4ad",
+  "from": "6b7b1766-2830-42d3-913e-61ef0015b92e",
+  "to": "80902512-8713-488d-b58c-f013db827c7c",
+  "relation": "requires",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "78f94ddb-c6f8-4a5c-86bb-ea574d7a0c37",
+        "locator": "p. 8",
+        "quote": "the test of some success is application beyond the immediate origin"
+      },
+      {
+        "source": "642a75ec-0c38-49ef-bdf0-c427e677c27b",
+        "locator": "p. 14",
+        "quote": "if shared resonance underpins the combination of consciousness (Conjecture 1), then various resonance chains should be observed in conscious but not unconscious states"
+      }
+    ]
+  }
+}

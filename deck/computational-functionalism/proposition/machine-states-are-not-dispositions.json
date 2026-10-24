@@ -1,0 +1,50 @@
+{
+  "record": "proposition",
+  "id": "e013cf56-e67e-46e1-8fca-f203f2c59748",
+  "kind": "philosophical",
+  "epistemic_status": "inferred",
+  "title": "Machine table states are not behavioral dispositions, and no hardware is required",
+  "statements": [
+    {
+      "id": "c821f338-29c3-4c92-8428-65ffc57b52ce",
+      "text": "Machine table states are specified by their relations to inputs, outputs and the machine's other states, so a belief is a disposition to act only given other states such as a desire. This avoids the main difficulty of behaviorism. And machine table states are tied to no physical realization, since the same program can run on different hardware.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "c821f338-29c3-4c92-8428-65ffc57b52ce",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "40a4280a-4b0f-44b2-b9c6-95fce46b932d",
+        "locator": "section 3.1, 'Machine State Functionalism'",
+        "quote": "These states are not mere behavioral dispositions, since they are specified in terms of their relations not only to inputs and outputs, but also to the state of the machine at the time."
+      },
+      {
+        "source": "40a4280a-4b0f-44b2-b9c6-95fce46b932d",
+        "locator": "section 3.1, 'Machine State Functionalism'",
+        "quote": "the same program, after all, can be run on different sorts of computer hardware"
+      }
+    ]
+  }
+}

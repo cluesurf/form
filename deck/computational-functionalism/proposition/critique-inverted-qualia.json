@@ -1,0 +1,45 @@
+{
+  "record": "proposition",
+  "id": "18d65f81-ac43-4432-bc0b-d330bc017495",
+  "kind": "philosophical",
+  "epistemic_status": "hypothesized",
+  "title": "Critique: inverted qualia, the same functional state could feel different",
+  "statements": [
+    {
+      "id": "78a5a777-cb42-4dcd-b4f3-48b773dcfa39",
+      "text": "There could be someone in a state that satisfies the functional definition of the experience of red while experiencing green, and likewise across the spectrum. Purely relational characterizations cannot distinguish experiences with isomorphic causal patterns.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "78a5a777-cb42-4dcd-b4f3-48b773dcfa39",
+  "status": "active",
+  "voice": "critique",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "40a4280a-4b0f-44b2-b9c6-95fce46b932d",
+        "locator": "section 5.5.1, 'Inverted and Absent Qualia'",
+        "quote": "is in a state that satisfies the functional definition of our experience of red, but is experiencing green instead"
+      }
+    ]
+  }
+}

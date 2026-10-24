@@ -1,0 +1,33 @@
+{
+  "record": "link",
+  "id": "9b4eab5a-27f1-4df9-ab65-eea0a81ac57b",
+  "from": "b7d57e39-31b8-4ec2-af47-41b3abef8fe9",
+  "to": "455dff7d-b66c-449d-b2d7-52521b99cba5",
+  "relation": "answers",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "629ffdcd-cf3c-438c-a392-dd65608e9309",
+        "locator": "p. 12",
+        "quote": "continuous and unified individual consciousnesses are derived from the smooth,"
+      },
+      {
+        "source": "2ab75b9c-c7c1-4d7f-a482-d00c7fe4f31c",
+        "locator": "PDF p. 16",
+        "quote": "there are basic laws ensuring that, in certain"
+      }
+    ]
+  }
+}

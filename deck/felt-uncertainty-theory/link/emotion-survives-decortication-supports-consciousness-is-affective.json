@@ -1,0 +1,33 @@
+{
+  "record": "link",
+  "id": "8d04d681-3266-4ea2-992a-a1b976dd7119",
+  "from": "9849ea6f-c7c2-447b-8627-efdf5c7a77b5",
+  "to": "3a96c5a0-1bd3-4987-aa15-bd9cf150da5d",
+  "relation": "supports",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "111a5886-a4ef-4617-8176-15a18ef33dd7",
+        "locator": "abstract, p. 1",
+        "quote": "the neocortex is not essential for the generation of primary-process emotionality"
+      },
+      {
+        "source": "afbb68ed-2795-46f2-a80b-5e9c8f6d456d",
+        "locator": "section 7 'Consciousness without Cortex'",
+        "quote": "these animals are actually more emotional than normal"
+      }
+    ]
+  }
+}

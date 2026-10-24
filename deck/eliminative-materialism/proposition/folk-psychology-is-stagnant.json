@@ -1,0 +1,50 @@
+{
+  "record": "proposition",
+  "id": "22845294-f75c-4442-82f3-d0558b1bd2b8",
+  "kind": "philosophical",
+  "epistemic_status": "hypothesized",
+  "title": "Folk psychology is stagnant and explains little",
+  "statements": [
+    {
+      "id": "c7d29304-42d9-42ed-898b-2842fd5fa2e7",
+      "text": "A promising theory should offer a fertile research program with considerable explanatory power. Folk psychology appears stagnant, and leaves a broad range of mental phenomena unexplained: why people dream, mental illness, consciousness, memory and learning.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "c7d29304-42d9-42ed-898b-2842fd5fa2e7",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "4881b7b9-a47f-492c-80a0-18998a6e239d",
+        "locator": "section 3.1, 'General Theoretical Problems With Folk Psychology'",
+        "quote": "common-sense psychology appears to be stagnant, and there is a broad range of mental phenomena that folk psychology does not allow us to explain"
+      },
+      {
+        "source": "458322aa-9036-4e4b-a8b0-e5dc96730d1d",
+        "locator": null,
+        "quote": null
+      }
+    ]
+  }
+}

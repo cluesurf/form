@@ -1,0 +1,33 @@
+{
+  "record": "link",
+  "id": "92a83658-dfa3-4bc9-8c3e-e5683e5ca46c",
+  "from": "cdcc5452-ba66-4e4e-a311-1945b649f3c7",
+  "to": "21a2a6f2-1d2b-46a9-a3fd-a8a85b102836",
+  "relation": "defines",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "bcdebbd0-38c1-4227-a43b-6a7a59f74207",
+        "locator": "p. 1",
+        "quote": "It offers a catalogue of 10 constraints for conscious representations."
+      },
+      {
+        "source": "bcdebbd0-38c1-4227-a43b-6a7a59f74207",
+        "locator": "p. 2",
+        "quote": "what properties representations in a given information-processing system must possess in order to become phenomenal representations"
+      }
+    ]
+  }
+}

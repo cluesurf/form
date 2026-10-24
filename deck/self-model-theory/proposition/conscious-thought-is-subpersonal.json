@@ -1,0 +1,50 @@
+{
+  "record": "proposition",
+  "id": "52cb1bb0-d576-4d01-949e-3acd0f1051b8",
+  "kind": "philosophical",
+  "epistemic_status": "inferred",
+  "title": "Most conscious thought is a subpersonal process",
+  "statements": [
+    {
+      "id": "2971df29-b89a-4bb0-8863-c86d3d538fe9",
+      "text": "Most of what is called conscious thought is better analyzed as a subpersonal process lacking mental agency, consciously experienced goal-directedness and veto control. Personal-level cognition is the exception, enabled by a model of the system as an epistemic agent. This raises a new version of the mind-body problem: how subpersonal cognition relates causally to personal-level thought.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "2971df29-b89a-4bb0-8863-c86d3d538fe9",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "f901177d-d5a1-49ec-a74e-2adc81f988ea",
+        "locator": "p. 1",
+        "quote": "most of what we call “conscious thought” is better analyzed as a subpersonal process"
+      },
+      {
+        "source": "f901177d-d5a1-49ec-a74e-2adc81f988ea",
+        "locator": "p. 1",
+        "quote": "This raises an interesting new version of the mind-body problem"
+      }
+    ]
+  }
+}

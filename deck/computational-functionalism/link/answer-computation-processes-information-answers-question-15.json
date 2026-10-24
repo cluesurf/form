@@ -1,0 +1,28 @@
+{
+  "record": "link",
+  "id": "efa7bfdc-b2ac-4dd4-90e0-53c4d4a21228",
+  "from": "233e7e9f-d9b3-4ea2-8b83-99dec26772bf",
+  "to": "af2bc4e4-a1a9-4f67-860c-1460f09cd55c",
+  "relation": "answers",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "ecf4b155-a02f-440e-87ac-837126c9279c",
+        "locator": "arXiv p. 13",
+        "quote": "Systems that perform computations process information by implementing algorithms"
+      }
+    ]
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "record": "proposition",
+  "id": "c3db2ff4-36e2-423e-860a-24d9df733210",
+  "kind": "philosophical",
+  "epistemic_status": "inferred",
+  "title": "Illusionism is eliminativism about phenomenal consciousness",
+  "statements": [
+    {
+      "id": "9c299ce4-cc39-4390-9979-27d9f5cc980c",
+      "text": "Some extend eliminativism from beliefs to phenomenal consciousness. Rey suggests the inner light associated with consciousness may be a remnant of Cartesian intuitions, and illusionists such as Frankish hold that introspection misrepresents experiences as having phenomenal properties that do not exist, which makes them eliminativists about phenomenal consciousness, keeping only quasi-phenomenal properties.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "9c299ce4-cc39-4390-9979-27d9f5cc980c",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "4881b7b9-a47f-492c-80a0-18998a6e239d",
+        "locator": "section 3.3, 'Eliminative Materialism and the Phenomenal'",
+        "quote": "Illusionists claim that these phenomenal properties do not exist, making them eliminativists about phenomenal consciousness."
+      },
+      {
+        "source": "4881b7b9-a47f-492c-80a0-18998a6e239d",
+        "locator": "section 3.3, 'Eliminative Materialism and the Phenomenal'",
+        "quote": "may be nothing more than a remnant of misguided Cartesian intuitions"
+      }
+    ]
+  }
+}

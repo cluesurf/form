@@ -1,0 +1,28 @@
+{
+  "record": "link",
+  "id": "7ccb8174-bb4f-4a30-9e4b-9fb461a371f5",
+  "from": "849e4be9-aad7-48bf-be6c-0072c4940878",
+  "to": "89daaa69-7198-4608-a93d-8a520820bbb9",
+  "relation": "answers",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "542e0d13-746c-470a-a9b7-86f1d044600d",
+        "locator": "section 3.5, 'Empirical Considerations'",
+        "quote": "They suggest instead that the reported consciousness is not causally related to our nonlinguistic behavior in ways that we ordinarily suppose."
+      }
+    ]
+  }
+}

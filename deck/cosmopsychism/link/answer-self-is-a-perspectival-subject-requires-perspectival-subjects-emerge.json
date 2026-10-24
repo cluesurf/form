@@ -1,0 +1,33 @@
+{
+  "record": "link",
+  "id": "2211566d-e3cf-4388-a22c-872a1519f114",
+  "from": "020c52a2-48b5-4da4-868e-54ee3a5f9eab",
+  "to": "f8ee7540-455f-4f39-959b-cf855e86ae3b",
+  "relation": "requires",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "15531e9b-ad0a-46bd-893e-8b37e693007c",
+        "locator": "p. 405",
+        "quote": "each of them appropriates to itself a selective portion of this universal"
+      },
+      {
+        "source": "2ab75b9c-c7c1-4d7f-a482-d00c7fe4f31c",
+        "locator": "PDF p. 15",
+        "quote": "Conscious subjects are the bearers of phenomenal properties"
+      }
+    ]
+  }
+}

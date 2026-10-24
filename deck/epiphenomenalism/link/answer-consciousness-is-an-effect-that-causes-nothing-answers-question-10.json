@@ -1,0 +1,28 @@
+{
+  "record": "link",
+  "id": "eacef302-aa8d-4862-bcd6-70cc571cff62",
+  "from": "26504e27-1096-47ae-bbc2-42a7bf307c1e",
+  "to": "1adc0f33-e9b7-4c2f-ab39-df92eac1c139",
+  "relation": "answers",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "542e0d13-746c-470a-a9b7-86f1d044600d",
+        "locator": "opening section",
+        "quote": "Epiphenomenalism is the view that mental events are caused by physical events in the brain, but have no effects upon any physical events."
+      }
+    ]
+  }
+}

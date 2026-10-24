@@ -1,0 +1,45 @@
+{
+  "record": "proposition",
+  "id": "c3096fd0-db6e-4062-b755-2d58e9cf1e33",
+  "kind": "philosophical",
+  "epistemic_status": "hypothesized",
+  "title": "There is no absolute freedom",
+  "statements": [
+    {
+      "id": "571fa3c9-d156-4436-8eaf-59bce59ada20",
+      "text": "Every actual entity has only the freedom inherent in the first phase given by its standpoint relative to its actual universe. Freedom, givenness and potentiality presuppose and limit each other.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "571fa3c9-d156-4436-8eaf-59bce59ada20",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "78f94ddb-c6f8-4a5c-86bb-ea574d7a0c37",
+        "locator": "p. 202",
+        "quote": "there is no such fact as absolute freedom; every actual entity possesses only such freedom, as is inherent in the primary phase"
+      }
+    ]
+  }
+}

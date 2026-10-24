@@ -1,0 +1,50 @@
+{
+  "record": "proposition",
+  "id": "34a0fc64-ec51-4a24-9285-f877ba439160",
+  "kind": "philosophical",
+  "epistemic_status": "hypothesized",
+  "title": "Qualia are a by-product of what evolution selects, like the weight of a polar bear's coat",
+  "statements": [
+    {
+      "id": "914e3a40-ad3a-42e6-91ff-1e5d2fccc8b9",
+      "text": "Against the objection from evolution, Jackson answers that what evolves for its usefulness is the brain state associated with pain, and the sensation is a by-product. Evolution is full of useless or harmful by-products: polar bears evolved thick coats for warmth, which have the side effect of being heavy to carry.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "914e3a40-ad3a-42e6-91ff-1e5d2fccc8b9",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "a6c431b3-a489-4a9e-8836-0bc9974d6dd3",
+        "locator": "section 3.4, 'Epiphenomenalism'",
+        "quote": "Jackson (1982) replies to this objection by saying that it is the brain state associated with pain that evolves for this reason: the sensation is a by-product."
+      },
+      {
+        "source": "a6c431b3-a489-4a9e-8836-0bc9974d6dd3",
+        "locator": "section 3.4, 'Epiphenomenalism'",
+        "quote": "polar bears have evolved thick coats to keep them warm, even though this has the damaging side effect that they are heavy to carry"
+      }
+    ]
+  }
+}

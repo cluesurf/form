@@ -1,0 +1,28 @@
+{
+  "record": "link",
+  "id": "7275baca-8176-45aa-aa3e-3d948bfa69b5",
+  "from": "f51f9b5f-3782-4a0f-970d-5b7f1b859c11",
+  "to": "d4692d49-fc94-4644-9d35-d6424eb2abc6",
+  "relation": "weakens",
+  "strength": null,
+  "rationale": "Apparent success is weak evidence when anomalies are discounted and no rival theory exists yet.",
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "4881b7b9-a47f-492c-80a0-18998a6e239d",
+        "locator": "section 4.3, 'Defending the Virtues of Folk Psychology'",
+        "quote": "Like the proponents of vitalism or phlogiston theory, we may be blind to the failings of folk psychology until an alternative account is in hand"
+      }
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "record": "link",
+  "id": "7bc9e73e-6483-423f-b4b5-40f20f8d06fe",
+  "from": "da2bc92e-d0d8-4316-a5bf-8c03da8bbb47",
+  "to": "c68ef92e-f126-4859-8755-bdbefdd85609",
+  "relation": "requires",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "9a9645ce-d028-451e-8752-1237c4f2f58b",
+        "locator": "eprint p. 3",
+        "quote": "plausibly some mental events are caused, at least in part by other mental events"
+      }
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "record": "link",
+  "id": "b8f3baab-0d96-4eeb-92a1-7279d71e12df",
+  "from": "3e5fffcb-40ea-4c47-b3af-b9a7e7a224d1",
+  "to": "40dc81c7-5c68-457a-b6c2-e77c0207606e",
+  "relation": "answers",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "de8573b3-42af-4c30-94e9-01704e16b3ea",
+        "locator": "p. 84",
+        "quote": "Whether they are right is an empirical question."
+      }
+    ]
+  }
+}

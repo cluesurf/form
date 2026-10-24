@@ -1,0 +1,45 @@
+{
+  "record": "proposition",
+  "id": "e29b3025-f5d6-4309-bcaf-701486edd33e",
+  "kind": "empirical",
+  "epistemic_status": "inferred",
+  "title": "Consciousness depends on the anterior division of the brain",
+  "statements": [
+    {
+      "id": "5d1bacac-721f-4c6d-b8bf-2a5338406e4c",
+      "text": "A man whose spinal cord is cut feels nothing from below the cut, while injury to the front of the brain abolishes consciousness. So consciousness in humans depends on the integrity of the anterior division of the brain, and probably the same holds for other vertebrates.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "5d1bacac-721f-4c6d-b8bf-2a5338406e4c",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "74e58cef-2e29-415f-a138-df37b7515701",
+        "locator": "Collected Essays I, page 220",
+        "quote": "Hence, it is a highly probable conclusion, that consciousness in man depends upon the integrity of the anterior division of the brain"
+      }
+    ]
+  }
+}

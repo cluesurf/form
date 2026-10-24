@@ -1,0 +1,33 @@
+{
+  "record": "link",
+  "id": "9d591ae9-cfa3-458e-a256-1b3d8b0f14ab",
+  "from": "a6bb55b3-9a94-470e-a73c-2971e0e34ad9",
+  "to": "d70e1555-c75b-442f-8169-af67754d27ee",
+  "relation": "requires",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "27443c8b-98a2-4cb5-b376-f6a0a8842762",
+        "locator": "abstract",
+        "quote": "Use of our current ignorance as a premise to determine what we can never discover is one common logical flaw."
+      },
+      {
+        "source": "27443c8b-98a2-4cb5-b376-f6a0a8842762",
+        "locator": "abstract",
+        "quote": "our inability to imagine a mechanism is a rather uninteresting psychological fact about us, not an interesting metaphysical fact about the world"
+      }
+    ]
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "record": "link",
+  "id": "41c655e0-0e27-4b2c-90cf-c14b255fcc4e",
+  "from": "d77597ee-8c37-4e2d-ab00-557aff092ab5",
+  "to": "d12e3498-ea05-4010-990f-0ffe925135e0",
+  "relation": "specializes",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "2ab75b9c-c7c1-4d7f-a482-d00c7fe4f31c",
+        "locator": "PDF p. 15",
+        "quote": "strong emergentism about subjects combined with weak emergentism about"
+      },
+      {
+        "source": "2ab75b9c-c7c1-4d7f-a482-d00c7fe4f31c",
+        "locator": "PDF p. 16",
+        "quote": "rather they ‘inherit’ phenomenal property instances which previously"
+      }
+    ]
+  }
+}

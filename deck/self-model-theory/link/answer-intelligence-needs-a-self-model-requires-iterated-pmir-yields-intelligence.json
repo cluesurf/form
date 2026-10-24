@@ -1,0 +1,33 @@
+{
+  "record": "link",
+  "id": "017c0974-6998-43e0-89c8-e1f0d125f273",
+  "from": "e396c689-c209-4317-8954-cd35d223404a",
+  "to": "6d5822ae-b6cf-4dec-b2f2-db4fd358e337",
+  "relation": "requires",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "f901177d-d5a1-49ec-a74e-2adc81f988ea",
+        "locator": "p. 5",
+        "quote": "Many higher forms of intelligence and adaptive behavior, including risk management, moral cognition, and cooperative social behavior, functionally presuppose a self-model"
+      },
+      {
+        "source": "bcdebbd0-38c1-4227-a43b-6a7a59f74207",
+        "locator": "p. 29",
+        "quote": "two entirely new forms of intelligence emerge"
+      }
+    ]
+  }
+}

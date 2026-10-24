@@ -1,0 +1,33 @@
+{
+  "record": "link",
+  "id": "eac188c1-7f67-45e0-9f27-21cd3bd673aa",
+  "from": "01c82e38-125f-46ac-aeb9-1aaeb9dc414e",
+  "to": "640399ac-d548-4b96-aff3-cf32927cfb49",
+  "relation": "supports",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "111a5886-a4ef-4617-8176-15a18ef33dd7",
+        "locator": "p. 13",
+        "quote": "suggesting that affect is more ancient, and hence would have had priority in the construction of the mental apparatus"
+      },
+      {
+        "source": "afbb68ed-2795-46f2-a80b-5e9c8f6d456d",
+        "locator": "section 9 'Mental Solids'",
+        "quote": "It is possible that perceptual and higher cognitive forms of consciousness emerged in the neocortex upon an evolutionary foundation of affective consciousness"
+      }
+    ]
+  }
+}

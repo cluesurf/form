@@ -1,0 +1,28 @@
+{
+  "record": "link",
+  "id": "e6380542-cbb4-4d5d-8fcf-7086493470a6",
+  "from": "573072ed-e1e6-4396-939c-4dcd2aebdbab",
+  "to": "019fb4c8-fb89-4571-93d2-806671745155",
+  "relation": "weakens",
+  "strength": null,
+  "rationale": "Elimination needs only concepts with requirements that nothing meets, theory or not.",
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "4881b7b9-a47f-492c-80a0-18998a6e239d",
+        "locator": "section 4.2, 'Rejecting the Theory-Theory'",
+        "quote": "Defenders of eliminative materialism often point out that folk theories typically have many functions beyond explaining and predicting"
+      }
+    ]
+  }
+}

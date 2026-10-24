@@ -1,0 +1,38 @@
+{
+  "record": "link",
+  "id": "27c31eb6-c037-4564-a023-00d68b6045b7",
+  "from": "e480c33b-cd3d-4662-ac02-335c4fbba66a",
+  "to": "15c9abd8-8cf0-4081-9544-d54b1b491317",
+  "relation": "requires",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "3db58e50-8dbf-47f4-a613-ff8ee88a21d4",
+        "locator": "MIT Press edition, page 396",
+        "quote": "By \"eliminative materialism\" I mean the view that holds"
+      },
+      {
+        "source": "3db58e50-8dbf-47f4-a613-ff8ee88a21d4",
+        "locator": "MIT Press edition, page 396",
+        "quote": "that what will ultimately replace folk psychology will be the conceptual framework of a matured neuroscience"
+      },
+      {
+        "source": "4881b7b9-a47f-492c-80a0-18998a6e239d",
+        "locator": "section 2, 'Contemporary Eliminative Materialism'",
+        "quote": "it is the view that certain common-sense mental states, such as beliefs and desires, do not exist"
+      }
+    ]
+  }
+}

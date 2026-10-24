@@ -1,0 +1,45 @@
+{
+  "record": "proposition",
+  "id": "64304afe-5475-428f-9b63-e0af412be305",
+  "kind": "philosophical",
+  "epistemic_status": "hypothesized",
+  "title": "Critique: panexperientialism is no form of physicalism",
+  "statements": [
+    {
+      "id": "b937e5e7-8dfa-46a1-9865-cd402c8aec54",
+      "text": "Physicalism is ontological physicalism, supervenience on the physical, and causal closure of the physical. Panexperientialism, which gives basic constituents a mental pole, is inconsistent with each, and it is not classic emergentism either, so calling it physicalism misleads.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "b937e5e7-8dfa-46a1-9865-cd402c8aec54",
+  "status": "active",
+  "voice": "critique",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "3df91988-c538-4080-8992-1560956856a1",
+        "locator": "paragraph on emergentism",
+        "quote": "I am inclined to think it misleading to regard panexperientialism as any form of physicalism."
+      }
+    ]
+  }
+}

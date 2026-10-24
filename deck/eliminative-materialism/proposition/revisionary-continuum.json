@@ -1,0 +1,45 @@
+{
+  "record": "proposition",
+  "id": "a2af5bea-cd3f-4542-a63b-edecda66053b",
+  "kind": "philosophical",
+  "epistemic_status": "inferred",
+  "title": "Elimination and reduction are ends of a continuum",
+  "statements": [
+    {
+      "id": "3edaf49c-d571-4da8-ae0b-d62327eb4dd8",
+      "text": "A flawed theory's concepts are often neither carried over smoothly nor fully eliminated, but reworked, with only some posits dropped. Sympathizers such as Bickle and the Churchlands treat full elimination and complete reduction as end-points of a continuum, and revisionary materialism names the view that folk psychology will be eliminated only to a degree.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "3edaf49c-d571-4da8-ae0b-d62327eb4dd8",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "4881b7b9-a47f-492c-80a0-18998a6e239d",
+        "locator": "section 4.3, 'Defending the Virtues of Folk Psychology'",
+        "quote": "full-blown eliminative materialism and complete reductionism are end-points on a continuum with many possibilities falling somewhere in between"
+      }
+    ]
+  }
+}

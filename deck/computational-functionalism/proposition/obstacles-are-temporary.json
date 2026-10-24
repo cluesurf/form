@@ -1,0 +1,45 @@
+{
+  "record": "proposition",
+  "id": "ea5035ba-c1d2-41d0-a4f3-e2a36b1ad9d9",
+  "kind": "philosophical",
+  "epistemic_status": "inferred",
+  "title": "All the obstacles except perhaps biology are temporary",
+  "statements": [
+    {
+      "id": "aca7e0a0-d8c1-43ed-8d05-2eba4b572091",
+      "text": "For every obstacle except perhaps biology, there is a research program to build language model systems with the missing feature, and simple versions already exist. So the case against consciousness in current language models is much stronger than the case against it in their extended successors.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "aca7e0a0-d8c1-43ed-8d05-2eba4b572091",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "741e8f86-4660-494d-8dd8-dfce0f4719e3",
+        "locator": "arXiv p. 14",
+        "quote": "for all of these objections except perhaps biology, it looks like the objection is temporary rather than permanent"
+      }
+    ]
+  }
+}

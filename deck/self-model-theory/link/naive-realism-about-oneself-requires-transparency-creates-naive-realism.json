@@ -1,0 +1,33 @@
+{
+  "record": "link",
+  "id": "ebf339b6-d644-444a-91c3-6929b1f158ef",
+  "from": "22a65401-8207-4dba-9995-51c14a54db64",
+  "to": "4b28e51f-515f-47ea-b19d-08ebde0cf1c9",
+  "relation": "requires",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "bcdebbd0-38c1-4227-a43b-6a7a59f74207",
+        "locator": "p. 25",
+        "quote": "the possession of a transparent PSM makes a system maximally egotistic"
+      },
+      {
+        "source": "bcdebbd0-38c1-4227-a43b-6a7a59f74207",
+        "locator": "p. 25",
+        "quote": "You become a person by having the right kind of subpersonal self-model"
+      }
+    ]
+  }
+}

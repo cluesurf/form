@@ -1,0 +1,33 @@
+{
+  "record": "link",
+  "id": "ba7f38b6-8c76-4b54-8a08-72ffb1e25207",
+  "from": "9c8f143f-5710-439e-99ba-9fcc54fab8f1",
+  "to": "83e230b4-1382-4222-9aec-031480d738a4",
+  "relation": "requires",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "8834b927-27b0-41e8-8c3f-c15dbf813c57",
+        "locator": "p. 13",
+        "quote": "the Nirvana that the ideal self-organizing system described here strives for can never be attained in a real biological system"
+      },
+      {
+        "source": "224c4197-d629-416a-b17f-4f96e49df600",
+        "locator": "p. 11",
+        "quote": "arise continuously from periodic comparisons between the sensory states that were predicted"
+      }
+    ]
+  }
+}

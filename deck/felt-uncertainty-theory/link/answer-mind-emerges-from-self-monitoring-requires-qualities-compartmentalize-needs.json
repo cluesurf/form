@@ -1,0 +1,33 @@
+{
+  "record": "link",
+  "id": "96bad3fc-a346-4e77-8d08-086c7a257a90",
+  "from": "aca78613-19b6-4e84-b7e7-bc9185a19b02",
+  "to": "9104bcdf-f459-48d2-ba82-0ed899de357c",
+  "relation": "requires",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "8834b927-27b0-41e8-8c3f-c15dbf813c57",
+        "locator": "p. 10",
+        "quote": "We have seen that minds emerge in consequence of the existential imperative of self-organizing systems to monitor their own internal states"
+      },
+      {
+        "source": "8834b927-27b0-41e8-8c3f-c15dbf813c57",
+        "locator": "p. 11",
+        "quote": "suggest a graded transition from proto-mental to mental states"
+      }
+    ]
+  }
+}

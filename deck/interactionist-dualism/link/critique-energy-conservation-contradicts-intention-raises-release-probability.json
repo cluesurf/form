@@ -1,0 +1,33 @@
+{
+  "record": "link",
+  "id": "94871884-480b-4b68-b180-afa9d67940e8",
+  "from": "b67b5a6f-831d-4c12-a5d5-98810eba3a32",
+  "to": "1a3e40da-b949-4988-8c75-13c937879e0f",
+  "relation": "contradicts",
+  "strength": null,
+  "rationale": "If any mental influence on the brain must change its energy, it violates conservation.",
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "4bffe5f1-a379-4b92-b51d-3c5ef3046009",
+        "locator": "section 3.3, 'Interactionism'",
+        "quote": "mind-body interaction seems to require that causal power flows in and out of the physical body in a way that would conflict with the conservation of energy"
+      },
+      {
+        "source": "ca8520b1-c069-4551-b4a7-3d560c5ff593",
+        "locator": "p. 95",
+        "quote": "The principle of energy conservation is widely taken to be a serious difficulty for interactionist dualism"
+      }
+    ]
+  }
+}

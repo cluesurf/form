@@ -1,0 +1,45 @@
+{
+  "record": "proposition",
+  "id": "fb5ed812-f2bb-4a47-ada2-7a92d0687b40",
+  "kind": "philosophical",
+  "epistemic_status": "hypothesized",
+  "title": "Critique: substance dualism is widely held to be no longer a respectable option",
+  "statements": [
+    {
+      "id": "f63fe30c-9f2f-4971-bea3-b8ddb2cefe5a",
+      "text": "A widely accepted opinion in the early twenty-first century holds that substance dualism is no longer a respectable option, though property dualism must be taken seriously. That preference is itself regularly challenged.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "f63fe30c-9f2f-4971-bea3-b8ddb2cefe5a",
+  "status": "active",
+  "voice": "critique",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "4bffe5f1-a379-4b92-b51d-3c5ef3046009",
+        "locator": "section 2.4, 'Dualism and Mechanistic Science'",
+        "quote": "although substance dualism is no longer a respectable option, property dualism is an important position that must be taken seriously"
+      }
+    ]
+  }
+}

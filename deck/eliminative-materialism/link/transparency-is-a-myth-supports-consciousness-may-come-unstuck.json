@@ -1,0 +1,33 @@
+{
+  "record": "link",
+  "id": "ba57227b-7223-45be-8002-4dca1df39210",
+  "from": "4dadbc85-bea2-4ac8-a304-591700327a1f",
+  "to": "374beb96-56e8-41d6-a04d-a138b58409e6",
+  "relation": "supports",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "de8573b3-42af-4c30-94e9-01704e16b3ea",
+        "locator": "p. 80",
+        "quote": "The venerable dogma that one’s mental life is self-intimating and introspectively available seems at last to be ready for consignment to the museum of quaint and antiquated myths about how humans work."
+      },
+      {
+        "source": "de8573b3-42af-4c30-94e9-01704e16b3ea",
+        "locator": "p. 83",
+        "quote": "Introspection has been found much less thorough and reliable than previously supposed."
+      }
+    ]
+  }
+}

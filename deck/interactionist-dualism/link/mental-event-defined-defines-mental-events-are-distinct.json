@@ -1,0 +1,33 @@
+{
+  "record": "link",
+  "id": "4b442a2b-28d9-4102-a8ae-316f17c37517",
+  "from": "d2ff4bec-70c5-48c4-b5d1-cf869376eebd",
+  "to": "6cb04be5-6e32-4138-b06e-247af3386e08",
+  "relation": "defines",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "9a9645ce-d028-451e-8752-1237c4f2f58b",
+        "locator": "eprint p. 2",
+        "quote": "by a mental event one to whose occurrence the substance involved in it has privileged access"
+      },
+      {
+        "source": "9a9645ce-d028-451e-8752-1237c4f2f58b",
+        "locator": "eprint p. 2",
+        "quote": "a pure mental event one whose occurrence does not entail the occurrence of any physical event"
+      }
+    ]
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "record": "proposition",
+  "id": "48bb93b4-4b61-433b-acbc-e849097711de",
+  "kind": "philosophical",
+  "epistemic_status": "hypothesized",
+  "title": "That mind and body interact is a common-sense belief from everyday experience",
+  "statements": [
+    {
+      "id": "2212729f-3cdd-48df-986a-4cdad4a55474",
+      "text": "That mind and body interact is a common-sense belief, since it appears to be a feature of everyday experience: the world affects experience through the senses, and people act on their experiences and thoughts. Most passive mental events, such as sensations, are caused at least in part by brain events, and bodily events are often caused, through brain events, by mental events, as closing one's books is caused by a decision to stop working.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "2212729f-3cdd-48df-986a-4cdad4a55474",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "4bffe5f1-a379-4b92-b51d-3c5ef3046009",
+        "locator": "section 3.3, 'Interactionism'",
+        "quote": "That this is so is one of our common-sense beliefs, because it appears to be a feature of everyday experience."
+      },
+      {
+        "source": "9a9645ce-d028-451e-8752-1237c4f2f58b",
+        "locator": "eprint p. 3",
+        "quote": "it certainly seems that bodily events are often caused (via brain events) by mental events"
+      }
+    ]
+  }
+}

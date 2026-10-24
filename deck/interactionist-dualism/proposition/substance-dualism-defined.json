@@ -1,0 +1,50 @@
+{
+  "record": "proposition",
+  "id": "e01c1aba-2348-44e1-8cc2-f46afa50f5bf",
+  "kind": "definitional",
+  "epistemic_status": "designed",
+  "title": "Substance dualism",
+  "statements": [
+    {
+      "id": "df6cfac0-6d8f-4204-b2df-3435642a6e35",
+      "text": "Substance dualism is the view that minds and bodies are fundamentally distinct kinds of substance, as Plato, Augustine and Descartes held. Swinburne defines a substance as a thing, a component of the world such as a table, a star or a person, and defends the view that each human on Earth consists of a physical body and a nonphysical soul.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "df6cfac0-6d8f-4204-b2df-3435642a6e35",
+  "status": "active",
+  "voice": "framework",
+  "defines": "substance dualism",
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "4bffe5f1-a379-4b92-b51d-3c5ef3046009",
+        "locator": "section 3.1, 'Substance Dualism'",
+        "quote": "by ‘substance dualism’ we mean the view that minds and bodies are fundamentally distinct kinds of substances"
+      },
+      {
+        "source": "9a9645ce-d028-451e-8752-1237c4f2f58b",
+        "locator": "eprint p. 1",
+        "quote": "I seek in this paper to defend the view that each of us on Earth consists of two parts - a physical body and a non-physical soul."
+      }
+    ]
+  }
+}

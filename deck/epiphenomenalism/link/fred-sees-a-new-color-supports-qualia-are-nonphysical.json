@@ -1,0 +1,28 @@
+{
+  "record": "link",
+  "id": "bb4dbf62-c662-4d2e-b2b9-306ad600d863",
+  "from": "1ca52459-8715-42d5-95e5-6c520ef5cbb7",
+  "to": "dfa9ac70-257f-4c58-b568-27fccf771015",
+  "relation": "supports",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "fd223d59-c2ad-4121-b90c-cef1a84f517f",
+        "locator": "section 2, 'The Basic Idea'",
+        "quote": "the case of a person, Fred, who sees a color unknown to normal human perceivers"
+      }
+    ]
+  }
+}

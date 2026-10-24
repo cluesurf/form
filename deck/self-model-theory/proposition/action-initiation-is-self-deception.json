@@ -1,0 +1,50 @@
+{
+  "record": "proposition",
+  "id": "b12ee262-92fa-4659-aed3-ceb8f3c9110b",
+  "kind": "philosophical",
+  "epistemic_status": "hypothesized",
+  "title": "Action initiation is a functionally adequate self-deception",
+  "statements": [
+    {
+      "id": "5b11fe92-8940-4025-8333-abce56838d91",
+      "text": "From a third-person view all goal-representations are misrepresentations, since nothing in the physical world is intrinsically a goal state. Organisms solve the problem of self-motivation by hallucinating goals, integrating them as intrinsically valuable into the transparent levels of the self-model, so action initiation is a functionally adequate form of self-deception.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "5b11fe92-8940-4025-8333-abce56838d91",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "d821ebea-2668-4266-8314-e24547973aea",
+        "locator": "p. 1",
+        "quote": "Action initiation is a functionally adequate form of self-deception"
+      },
+      {
+        "source": "d821ebea-2668-4266-8314-e24547973aea",
+        "locator": "p. 19",
+        "quote": "Biological organisms like ourselves solve the second problem by hallucinating goals."
+      }
+    ]
+  }
+}

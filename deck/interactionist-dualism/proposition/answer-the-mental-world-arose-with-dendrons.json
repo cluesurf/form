@@ -1,0 +1,45 @@
+{
+  "record": "proposition",
+  "id": "d9ee28cd-3ce5-4e46-a597-42314ade980b",
+  "kind": "empirical",
+  "epistemic_status": "hypothesized",
+  "title": "Answer: conscious experience arose when evolved dendrons could interact with psychons",
+  "statements": [
+    {
+      "id": "3c478e8b-5950-465f-b552-2722bf2f2b50",
+      "text": "The mental world is not built from the physical. What arose in evolution is the link: mammalian dendrons, evolved for integrating complex input, could interact with psychons, which came to exist, so forming the mental world of the animal.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "3c478e8b-5950-465f-b552-2722bf2f2b50",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "376b0486-c527-4cc7-952d-0f98af4e4b8e",
+        "locator": "abstract",
+        "quote": "These evolved dendrons had the capacity for interacting with psychons that came to exist"
+      }
+    ]
+  }
+}

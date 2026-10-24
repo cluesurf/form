@@ -1,0 +1,28 @@
+{
+  "record": "link",
+  "id": "5c0f9748-33f6-486d-a695-33020bdeb4d7",
+  "from": "bb685515-0144-4d17-8ab2-66426a7bb7ac",
+  "to": "5726d58b-f319-4d5e-88b7-ef90633c8d39",
+  "relation": "requires",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "74e58cef-2e29-415f-a138-df37b7515701",
+        "locator": "Collected Essays I, page 218",
+        "quote": "As actions of a certain degree of complexity are brought about by mere mechanism, why may not actions of still greater complexity be the result of a more refined mechanism?"
+      }
+    ]
+  }
+}

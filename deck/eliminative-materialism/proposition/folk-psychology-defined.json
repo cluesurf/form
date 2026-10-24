@@ -1,0 +1,50 @@
+{
+  "record": "proposition",
+  "id": "aa8ae7d2-0814-4e12-9d10-07a28e6fe966",
+  "kind": "definitional",
+  "epistemic_status": "designed",
+  "title": "Folk psychology",
+  "statements": [
+    {
+      "id": "811d2b9e-d35e-4745-b49f-984ca645562a",
+      "text": "Folk psychology is the everyday framework used to explain and predict intelligent behavior. On the theory-theory it consists of generalizations, such as that someone who desires X and believes doing Y is the best way to get X will tend to do Y, and of theoretical posits named by everyday terms like belief and pain, which are assigned causal, semantic and qualitative properties.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "811d2b9e-d35e-4745-b49f-984ca645562a",
+  "status": "active",
+  "voice": "framework",
+  "defines": "folk psychology",
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "4881b7b9-a47f-492c-80a0-18998a6e239d",
+        "locator": "section 2.1, 'Folk Psychology and the Theory-Theory'",
+        "quote": "Folk psychology is assumed to consist of both generalizations (or laws) and specific theoretical posits"
+      },
+      {
+        "source": "4881b7b9-a47f-492c-80a0-18998a6e239d",
+        "locator": "section 2.1, 'Folk Psychology and the Theory-Theory'",
+        "quote": "If someone has the desire for X and the belief that the best way to get X is by doing Y, then (barring certain conditions) that person will tend to do Y."
+      }
+    ]
+  }
+}

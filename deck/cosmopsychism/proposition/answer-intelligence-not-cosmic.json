@@ -1,0 +1,50 @@
+{
+  "record": "proposition",
+  "id": "7dc86744-0991-45c5-bc65-8a7541c6b60b",
+  "kind": "philosophical",
+  "epistemic_status": "hypothesized",
+  "title": "Answer: intelligence is not ascribed to the cosmos",
+  "statements": [
+    {
+      "id": "bbc0e61e-cf25-4c1e-a018-3183a8a1e2dc",
+      "text": "The view offers no theory of intelligence. Explaining biological consciousness gives little reason to ascribe intelligence or agency to the cosmos, and its consciousness may be too disordered to ground cognition. Goff’s separate teleological cosmopsychism makes the universe goal-directed to explain fine-tuning.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "bbc0e61e-cf25-4c1e-a018-3183a8a1e2dc",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "dd678356-d737-4be1-b525-267774f35a6b",
+        "locator": "section 2.4 'Micropsychism Versus Cosmopsychism'",
+        "quote": "It could be that the consciousness of the universe is a gigantic mess that doesn’t add up to anything coherent enough to ground cognition."
+      },
+      {
+        "source": "2ab75b9c-c7c1-4d7f-a482-d00c7fe4f31c",
+        "locator": "PDF p. 14",
+        "quote": "need to explain the fine-tuning of physics for life"
+      }
+    ]
+  }
+}

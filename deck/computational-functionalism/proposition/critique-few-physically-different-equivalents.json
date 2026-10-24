@@ -1,0 +1,45 @@
+{
+  "record": "proposition",
+  "id": "a0b7888c-c8cc-4d93-b3c5-700b78bbf170",
+  "kind": "philosophical",
+  "epistemic_status": "hypothesized",
+  "title": "Critique: few actual creatures are physically unlike humans yet functionally alike",
+  "statements": [
+    {
+      "id": "4370c450-c399-467c-84a5-f955d820cc06",
+      "text": "A revived psychophysical identity theory notes that neuroscience individuates neural states more coarsely than early identity theorists assumed, and that, against early functionalists such as Putnam, few actual creatures are physically unlike humans but share their functional organization. Identity theory may then claim much of the scope once thought to belong only to functionalism.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "4370c450-c399-467c-84a5-f955d820cc06",
+  "status": "active",
+  "voice": "critique",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "40a4280a-4b0f-44b2-b9c6-95fce46b932d",
+        "locator": "section 6, 'The Future of Functionalism'",
+        "quote": "there are relatively few extant creatures that are physically unlike humans but share our functional organization"
+      }
+    ]
+  }
+}

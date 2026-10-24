@@ -1,0 +1,50 @@
+{
+  "record": "proposition",
+  "id": "c68ef92e-f126-4859-8755-bdbefdd85609",
+  "kind": "philosophical",
+  "epistemic_status": "hypothesized",
+  "title": "Most mental events are caused by brain events, and some by other mental events",
+  "statements": [
+    {
+      "id": "36ca14ec-cb72-4922-b7c4-f3561843db06",
+      "text": "Most pure mental events, especially passive ones such as sensations, thoughts, beliefs and desires, are caused at least in part by brain events, as a toothache by tooth decay. Some mental events are caused in part by other mental events, as a thought that something is the answer to a mathematical problem is caused in part by other mathematical thoughts.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "36ca14ec-cb72-4922-b7c4-f3561843db06",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "9a9645ce-d028-451e-8752-1237c4f2f58b",
+        "locator": "eprint p. 3",
+        "quote": "I do not of course deny that most of my pure mental events are caused by my brain events."
+      },
+      {
+        "source": "9a9645ce-d028-451e-8752-1237c4f2f58b",
+        "locator": "eprint p. 3",
+        "quote": "plausibly often a thought that such-and-such is the answer to a mathematical problem is caused in part by thoughts that certain other mathematical propositions are true"
+      }
+    ]
+  }
+}

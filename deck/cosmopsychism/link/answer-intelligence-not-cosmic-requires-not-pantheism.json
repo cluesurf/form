@@ -1,0 +1,33 @@
+{
+  "record": "link",
+  "id": "92470181-b36c-4b39-be98-2e01e304f6d6",
+  "from": "7dc86744-0991-45c5-bc65-8a7541c6b60b",
+  "to": "e1822a05-385f-4126-95dd-8e642bec8dd6",
+  "relation": "requires",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "dd678356-d737-4be1-b525-267774f35a6b",
+        "locator": "section 2.4 'Micropsychism Versus Cosmopsychism'",
+        "quote": "It could be that the consciousness of the universe is a gigantic mess that doesn’t add up to anything coherent enough to ground cognition."
+      },
+      {
+        "source": "2ab75b9c-c7c1-4d7f-a482-d00c7fe4f31c",
+        "locator": "PDF p. 14",
+        "quote": "need to explain the fine-tuning of physics for life"
+      }
+    ]
+  }
+}

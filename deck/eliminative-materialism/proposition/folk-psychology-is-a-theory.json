@@ -1,0 +1,50 @@
+{
+  "record": "proposition",
+  "id": "15c9abd8-8cf0-4081-9544-d54b1b491317",
+  "kind": "philosophical",
+  "epistemic_status": "hypothesized",
+  "title": "Folk psychology is an empirical theory, open to revision",
+  "statements": [
+    {
+      "id": "d2b0b5c5-71c4-4fb2-b0af-11555e7e58c0",
+      "text": "The first step is to see that folk psychology is a theory, despite being applied to oneself and others and being overpoweringly familiar. Being a theory, how good it is is an empirical, not an a priori, question, and its obviousness will not protect it from revision or replacement if it is flawed. Even if it is in some degree built in, that does not guarantee its truth.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "d2b0b5c5-71c4-4fb2-b0af-11555e7e58c0",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "3db58e50-8dbf-47f4-a613-ff8ee88a21d4",
+        "locator": "MIT Press edition, page 395",
+        "quote": "The crucial first step is to see that it is a theory"
+      },
+      {
+        "source": "3db58e50-8dbf-47f4-a613-ff8ee88a21d4",
+        "locator": "MIT Press edition, page 395",
+        "quote": "it is an empirical , not an a priori , question how good a theory in fact it is"
+      }
+    ]
+  }
+}

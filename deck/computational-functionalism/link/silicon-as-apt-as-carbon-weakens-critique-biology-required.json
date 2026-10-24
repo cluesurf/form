@@ -1,0 +1,33 @@
+{
+  "record": "link",
+  "id": "d6516d43-91c8-46d7-993d-6a571bb7b024",
+  "from": "72e12562-6c63-4409-998c-b475c232d20d",
+  "to": "e136045e-d186-4a92-a89a-9677cf047c49",
+  "relation": "weakens",
+  "strength": null,
+  "rationale": "What matters is how the parts are connected, not what they are made of, so biology as such is no requirement.",
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "741e8f86-4660-494d-8dd8-dfce0f4719e3",
+        "locator": "arXiv p. 7",
+        "quote": "In my view, silicon is just as apt as carbon as a substrate for consciousness."
+      },
+      {
+        "source": "741e8f86-4660-494d-8dd8-dfce0f4719e3",
+        "locator": "arXiv p. 7",
+        "quote": "What matters is how neurons or silicon chips are hooked up to each other, not what they are made of."
+      }
+    ]
+  }
+}

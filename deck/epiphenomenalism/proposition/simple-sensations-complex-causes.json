@@ -1,0 +1,45 @@
+{
+  "record": "proposition",
+  "id": "9bc48645-25ed-4919-8a7d-90d8cd27a4ab",
+  "kind": "philosophical",
+  "epistemic_status": "inferred",
+  "title": "Simple sensations could not add to the complex neural causes of behavior",
+  "statements": [
+    {
+      "id": "1652e04c-74e8-4066-9d42-6d932be83087",
+      "text": "Each simple sensation is joined to a complicated combination of nerve processes, and the causes of behavior are complex neural events too. A sensation could affect behavior only by first having neural effects more complex than itself, so it is simpler to hold that the complex neural events needed for the sensation are enough to cause the behavior.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "1652e04c-74e8-4066-9d42-6d932be83087",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "542e0d13-746c-470a-a9b7-86f1d044600d",
+        "locator": "section 1, 'Traditional Arguments (A) Pro'",
+        "quote": "The sensations themselves could not contribute to behavior without first having neural effects that are more complex than themselves."
+      }
+    ]
+  }
+}

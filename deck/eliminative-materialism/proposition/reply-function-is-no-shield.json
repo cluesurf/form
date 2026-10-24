@@ -1,0 +1,45 @@
+{
+  "record": "proposition",
+  "id": "573072ed-e1e6-4396-939c-4dcd2aebdbab",
+  "kind": "philosophical",
+  "epistemic_status": "inferred",
+  "title": "Reply: folk psychology's other uses do not protect its posits",
+  "statements": [
+    {
+      "id": "8ad99aa0-3586-454b-b5b6-53b2657d9a2d",
+      "text": "Folk theories have many functions beyond explaining and predicting, which does not change their theoretical status or protect their posits from elimination. Eliminativism needs only that mental concepts set requirements on what counts as a belief and that nothing meets them, whether or not the concepts belong to a theory.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "8ad99aa0-3586-454b-b5b6-53b2657d9a2d",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "4881b7b9-a47f-492c-80a0-18998a6e239d",
+        "locator": "section 4.2, 'Rejecting the Theory-Theory'",
+        "quote": "Defenders of eliminative materialism often point out that folk theories typically have many functions beyond explaining and predicting"
+      }
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "record": "link",
+  "id": "19da52d1-b416-4c92-8367-05742b570f59",
+  "from": "9c823c9a-325e-4201-ad11-8ea0151cedea",
+  "to": "21a2a6f2-1d2b-46a9-a3fd-a8a85b102836",
+  "relation": "defines",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "bcdebbd0-38c1-4227-a43b-6a7a59f74207",
+        "locator": "p. 2",
+        "quote": "whatever I experience, I always experience it now"
+      }
+    ]
+  }
+}

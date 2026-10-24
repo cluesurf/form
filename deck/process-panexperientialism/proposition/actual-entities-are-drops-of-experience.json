@@ -1,0 +1,55 @@
+{
+  "record": "proposition",
+  "id": "f8ccd994-92d3-4cc1-a373-b087998330c5",
+  "kind": "philosophical",
+  "epistemic_status": "hypothesized",
+  "title": "Actual entities are drops of experience",
+  "statements": [
+    {
+      "id": "e3da3c02-5a01-45b7-8215-4a7779d49211",
+      "text": "The final facts are all actual entities, and every actual entity is a drop or throb of experience, complex and interdependent, which takes the actual world into its scope. This holds of the constituents of stones as well as of human beings.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "e3da3c02-5a01-45b7-8215-4a7779d49211",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "78f94ddb-c6f8-4a5c-86bb-ea574d7a0c37",
+        "locator": "p. 28",
+        "quote": "these actual entities are drops of experience, complex and interdependent"
+      },
+      {
+        "source": "78f94ddb-c6f8-4a5c-86bb-ea574d7a0c37",
+        "locator": "p. 290",
+        "quote": "Each actual entity is a throb of experience including the actual world within its scope."
+      },
+      {
+        "source": "714e4dce-1d09-4ecd-8cdf-db662db525a8",
+        "locator": "section 6, Metaphysics",
+        "quote": "This amounts to the panexperientialist claim that the intrinsically related elementary constituents of all things in the universe, from stones to human beings, are experiential."
+      }
+    ]
+  }
+}

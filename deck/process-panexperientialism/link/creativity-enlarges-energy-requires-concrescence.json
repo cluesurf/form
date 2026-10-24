@@ -1,0 +1,33 @@
+{
+  "record": "link",
+  "id": "f4dc7450-6c97-4dc6-8252-0d20f0bcd644",
+  "from": "e5785968-f5b8-4254-9366-25d7a2bf6dea",
+  "to": "b0431b35-a1ab-4756-9edb-1b7773a9c18c",
+  "relation": "requires",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "ba105db4-969a-4ed2-be0c-cb4dd3eb2505",
+        "locator": "section II, point 5",
+        "quote": "all actual entities are embodiments of \"creativity,\" which is an enlargement of the notion of energy as understood in current physics"
+      },
+      {
+        "source": "ba105db4-969a-4ed2-be0c-cb4dd3eb2505",
+        "locator": "section III",
+        "quote": "In panexperientialist physicalism, by contrast, the universal stuff embodied in all individuals is not vacuous energy, but experiential creativity."
+      }
+    ]
+  }
+}

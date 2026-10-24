@@ -1,0 +1,45 @@
+{
+  "record": "proposition",
+  "id": "d41f3830-7ac4-4db4-a931-48a61fa076d9",
+  "kind": "philosophical",
+  "epistemic_status": "inferred",
+  "title": "Reply: interaction between different kinds is a problem only for causation by impact",
+  "statements": [
+    {
+      "id": "ce009ebb-de01-435e-a61c-35379355b80b",
+      "text": "The objection that mind and body are too different to interact rests on a billiard ball picture of causation. If causation is by a more ethereal force or is only constant conjunction, there is no problem in principle with mind and body interacting.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "ce009ebb-de01-435e-a61c-35379355b80b",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "4bffe5f1-a379-4b92-b51d-3c5ef3046009",
+        "locator": "section 3.3, 'Interactionism'",
+        "quote": "there would appear to be no problem in principle with the idea of interaction of mind and body"
+      }
+    ]
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "record": "proposition",
+  "id": "bde88ff2-efa2-4428-8f55-e81ec194a204",
+  "kind": "philosophical",
+  "epistemic_status": "hypothesized",
+  "title": "There is no pontifical neuron, and control is distributed",
+  "statements": [
+    {
+      "id": "692de108-d80a-4cc7-b870-e6da71a9ab70",
+      "text": "Doing several things at once, and dissociations such as fugues, sit badly with a unified controller. From what is known of the brain it is highly implausible that a pontifical neuron or neuron group acts as the control center, and a strictly hierarchical model of control may be as wrong for the brain as an intelligent creator was for nature.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "692de108-d80a-4cc7-b870-e6da71a9ab70",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "de8573b3-42af-4c30-94e9-01704e16b3ea",
+        "locator": "p. 84",
+        "quote": "it seems highly implausible that there is a pontifical neuron, or a pontifical-neuron group which acts as the control centre"
+      },
+      {
+        "source": "de8573b3-42af-4c30-94e9-01704e16b3ea",
+        "locator": "p. 84",
+        "quote": "control is distributed, not deposited despotically in self-consciousness"
+      }
+    ]
+  }
+}

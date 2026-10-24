@@ -1,0 +1,33 @@
+{
+  "record": "link",
+  "id": "f91db0b5-8fa9-4f82-baa9-9454dfe80831",
+  "from": "72db6406-ad5d-4f9d-b961-232a2729e1ab",
+  "to": "262805f6-ee6c-45ea-9518-fe92e9023a04",
+  "relation": "requires",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "8834b927-27b0-41e8-8c3f-c15dbf813c57",
+        "locator": "p. 5",
+        "quote": "are predictions from the hypothesis (that these animals and children are conscious) disconfirmed or not?"
+      },
+      {
+        "source": "111a5886-a4ef-4617-8176-15a18ef33dd7",
+        "locator": "abstract, p. 1",
+        "quote": "Such ESBs can serve as ‘rewards’ and ‘punishments’ in diverse approach and escape/avoidance learning tasks."
+      }
+    ]
+  }
+}

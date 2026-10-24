@@ -1,0 +1,92 @@
+{
+  "format": "form.surf/1",
+  "id": "36ca1834-3511-460f-9a53-35e0c13de421",
+  "name": "self-model-theory",
+  "title": "Self-Model Theory of Subjectivity",
+  "role": "model",
+  "summary": "Thomas Metzinger's self-model theory of subjectivity: no such things as selves exist. What appears as a self is the content of a transparent phenomenal self-model, a model the brain cannot recognize as a model, and the first-person perspective is a model of the system directed at the world. Phenomenal experience itself stays real, as representational content of the brain.",
+  "framework": {
+    "originators": [
+      "Thomas Metzinger"
+    ],
+    "aliases": [
+      "SMT",
+      "self-model theory",
+      "phenomenal self-model",
+      "PSM",
+      "phenomenal model of the intentionality relation",
+      "PMIR",
+      "epistemic agent model",
+      "minimal phenomenal selfhood",
+      "minimal phenomenal experience",
+      "Being No One",
+      "the Ego Tunnel"
+    ],
+    "homepage": "https://www.philosophie.fb05.uni-mainz.de/arbeitsbereiche/theoretische/thmetzinger/",
+    "publication": {
+      "venue": [
+        "peer_reviewed",
+        "book"
+      ],
+      "peer_review": "yes",
+      "replication": "not_applicable"
+    }
+  },
+  "community_written": true,
+  "curators": [
+    {
+      "name": "Lance Pollard",
+      "github": "lancejpollard"
+    }
+  ],
+  "license": "CC-BY-4.0",
+  "atlas": {
+    "scope": [
+      "21a2a6f2-1d2b-46a9-a3fd-a8a85b102836",
+      "801589bb-4099-4078-836f-c095bb48fa9f",
+      "cf9b402e-1981-4515-bac2-d174696bf16f",
+      "ea888beb-7ef6-458a-b775-73e51d60d352",
+      "95f41f52-021f-4dab-8ddd-bd30bbe058b0",
+      "215bbc5a-7698-4af2-8ff8-c480f6a0217b",
+      "bd241ca0-083e-4f01-864d-8fdfbf6fb095"
+    ],
+    "limits": [
+      "e38b9480-c71b-4280-87ad-bb6df433e72e",
+      "78cafbd5-bd63-47b8-bd62-6a69e743be13",
+      "63a76ec6-a2fd-4838-b137-43377b3047e7",
+      "58427d6e-f7d8-4061-9385-e30d3f76ee81"
+    ],
+    "issues": [
+      "3c27aec7-7567-4b64-91a4-a39023b2cc70",
+      "f647cb27-7343-4df6-9d61-e7978168ff9b",
+      "611a5ce3-9ec8-49c3-90fc-91bc35bb3727",
+      "53100b16-0f60-4934-a905-db93a817a7bf",
+      "2005effa-1a25-471f-b509-bd2e9983a295",
+      "7bb64e18-30e9-4e38-a474-7e4dae99aacc"
+    ],
+    "dead_ends": []
+  },
+  "draws_from": [],
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "bcdebbd0-38c1-4227-a43b-6a7a59f74207",
+        "locator": "p. 2",
+        "quote": "Phenomenologically, minimal consciousness is described as the presence of a world."
+      },
+      {
+        "source": "bcdebbd0-38c1-4227-a43b-6a7a59f74207",
+        "locator": "p. 3",
+        "quote": "No such things as selves exist in the world."
+      }
+    ]
+  }
+}

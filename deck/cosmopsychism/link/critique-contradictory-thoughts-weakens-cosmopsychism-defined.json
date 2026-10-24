@@ -1,0 +1,33 @@
+{
+  "record": "link",
+  "id": "fd01d29b-54d4-4bf2-a1b8-0f710c759522",
+  "from": "f55f7951-08e5-4cb9-9f4c-e9bb11c97b52",
+  "to": "d12e3498-ea05-4010-990f-0ffe925135e0",
+  "relation": "weakens",
+  "strength": null,
+  "rationale": "A universe that bears every subject’s thoughts would bear contradictory thoughts.",
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "2ab75b9c-c7c1-4d7f-a482-d00c7fe4f31c",
+        "locator": "PDF p. 23",
+        "quote": "which would seem to imply that the universe has contradictory thoughts"
+      },
+      {
+        "source": "2ab75b9c-c7c1-4d7f-a482-d00c7fe4f31c",
+        "locator": "PDF p. 23",
+        "quote": "avoids this concern, as the universe does not bear human consciousness"
+      }
+    ]
+  }
+}

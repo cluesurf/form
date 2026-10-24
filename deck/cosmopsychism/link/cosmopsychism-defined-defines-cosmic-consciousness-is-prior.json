@@ -1,0 +1,33 @@
+{
+  "record": "link",
+  "id": "d2236e76-0363-4e07-be38-513736e800aa",
+  "from": "d12e3498-ea05-4010-990f-0ffe925135e0",
+  "to": "c99b5b2f-d877-4eb1-adea-90795d5ff806",
+  "relation": "defines",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "6801f71f-b984-44ec-8535-cf2750b86ba3",
+        "locator": "p. 1",
+        "quote": "are grounded in consciousness-involving facts concerning the universe"
+      },
+      {
+        "source": "dd678356-d737-4be1-b525-267774f35a6b",
+        "locator": "section 2.4 'Micropsychism Versus Cosmopsychism'",
+        "quote": "The minimal commitment of cosmopsychism is that the universe is conscious"
+      }
+    ]
+  }
+}

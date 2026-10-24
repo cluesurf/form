@@ -1,0 +1,33 @@
+{
+  "record": "link",
+  "id": "a9c5dff7-d7c7-4566-ad35-2d308d68ca4c",
+  "from": "d2f9b644-d976-45a1-8f87-47b9ed522d84",
+  "to": "c99b5b2f-d877-4eb1-adea-90795d5ff806",
+  "relation": "requires",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "629ffdcd-cf3c-438c-a392-dd65608e9309",
+        "locator": "p. 11",
+        "quote": "Priority cosmopsychism, on the other hand, is a top-down view"
+      },
+      {
+        "source": "ac3b1c98-702b-4d6e-8fca-84491186382e",
+        "locator": "p. 16",
+        "quote": "In the top-down approach of cosmopsychism, on the other hand, the ‘larger’ consciousnesses are the more fundamental they are."
+      }
+    ]
+  }
+}

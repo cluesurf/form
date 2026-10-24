@@ -1,0 +1,45 @@
+{
+  "record": "proposition",
+  "id": "162da6ac-a2cb-4bc4-8c33-a529b8ab3883",
+  "kind": "philosophical",
+  "epistemic_status": "hypothesized",
+  "title": "Answer: brain states that meet what the folk concepts require",
+  "statements": [
+    {
+      "id": "b303a977-1394-4c02-9a6a-80e5b7516b89",
+      "text": "Eliminativism needs two claims: that mental concepts set requirements a state must meet to be a belief, and that nothing in the world comes close to meeting them. Finding brain states that do meet them, so that folk posits are relocated and not dropped, would count against it.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "b303a977-1394-4c02-9a6a-80e5b7516b89",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "4881b7b9-a47f-492c-80a0-18998a6e239d",
+        "locator": "section 4.2, 'Rejecting the Theory-Theory'",
+        "quote": "the world is such that nothing comes close to meeting those requirements"
+      }
+    ]
+  }
+}

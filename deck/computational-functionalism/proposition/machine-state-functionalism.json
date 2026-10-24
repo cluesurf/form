@@ -1,0 +1,55 @@
+{
+  "record": "proposition",
+  "id": "91172323-cb38-4591-be21-6167d1ec19cd",
+  "kind": "definitional",
+  "epistemic_status": "designed",
+  "title": "Machine state functionalism",
+  "statements": [
+    {
+      "id": "b73c52ef-7c87-47be-a5a1-feb585d3d412",
+      "text": "Machine state functionalism, associated with Putnam's papers of 1960 and 1967 and inspired by Turing, regards any creature with a mind as a Turing machine whose operation a machine table specifies. Putnam took the proper model to be a probabilistic automaton, whose table gives, for each state and input, the probability of the next state and output. The creature's mental states are its machine table states.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "b73c52ef-7c87-47be-a5a1-feb585d3d412",
+  "status": "active",
+  "voice": "framework",
+  "defines": "machine state functionalism",
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "40a4280a-4b0f-44b2-b9c6-95fce46b932d",
+        "locator": "section 3.1, 'Machine State Functionalism'",
+        "quote": "According to machine state functionalism, any creature with a mind can be regarded as a Turing machine"
+      },
+      {
+        "source": "40a4280a-4b0f-44b2-b9c6-95fce46b932d",
+        "locator": "section 3.1, 'Machine State Functionalism'",
+        "quote": "most machine state functionalists (e.g. Putnam 1967) take the proper model for the mind to be that of a probabilistic automaton"
+      },
+      {
+        "source": "b79f7ec7-6842-41c9-a52f-298baae74f52",
+        "locator": null,
+        "quote": null
+      }
+    ]
+  }
+}

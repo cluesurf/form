@@ -1,0 +1,33 @@
+{
+  "record": "link",
+  "id": "080fc833-4757-4af0-981e-cc586875ffe0",
+  "from": "7e9c0f26-d236-4de0-9271-7c865583e4f9",
+  "to": "5c649618-86be-46f8-a16c-2ea380034c60",
+  "relation": "requires",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "6801f71f-b984-44ec-8535-cf2750b86ba3",
+        "locator": "p. 12",
+        "quote": "cosmopsychism entails the possibility of subject-subsuming subjects"
+      },
+      {
+        "source": "48037213-6e94-43ec-88c2-b001c5f953cf",
+        "locator": "PDF p. 16",
+        "quote": "conscious universe which contains other conscious subjects as partial aspects"
+      }
+    ]
+  }
+}

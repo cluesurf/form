@@ -1,0 +1,33 @@
+{
+  "record": "link",
+  "id": "79b2fb66-ea05-4f52-b0d2-bead1e7ded3d",
+  "from": "6f00ceb6-393c-4d14-b72c-0a1e61fc56b2",
+  "to": "7f446ea3-06fd-4538-89aa-917fd56ca1b5",
+  "relation": "requires",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "ca8520b1-c069-4551-b4a7-3d560c5ff593",
+        "locator": "p. 95",
+        "quote": "A decent objection to interactionism should be a posteriori, based on empirically studying the brain."
+      },
+      {
+        "source": "4bffe5f1-a379-4b92-b51d-3c5ef3046009",
+        "locator": "section 3.3, 'Interactionism'",
+        "quote": "This, they claim, makes the plausibility of interactionism an empirical matter which only close investigation on the fine operation of the brain could hope to settle."
+      }
+    ]
+  }
+}

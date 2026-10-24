@@ -1,0 +1,28 @@
+{
+  "record": "link",
+  "id": "2a81e86b-8b32-43e5-a527-ce0b9bc1e774",
+  "from": "53cd9c82-5c77-41f2-a550-1cf9fcc3a8c7",
+  "to": "20e239dc-2436-4a64-a117-9b5ba1826752",
+  "relation": "weakens",
+  "strength": null,
+  "rationale": "If pleasure is the conscious effect of a selected reward system, its fit with benefit follows from the fit of two neural systems.",
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "542e0d13-746c-470a-a9b7-86f1d044600d",
+        "locator": "section 2.2, 'Natural Selection'",
+        "quote": "neural events in sensory systems, which cause feelings, and (b) neural events in a reward system"
+      }
+    ]
+  }
+}

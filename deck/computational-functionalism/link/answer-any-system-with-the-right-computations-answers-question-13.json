@@ -1,0 +1,28 @@
+{
+  "record": "link",
+  "id": "a1bb23c8-78c1-4180-8916-7fe540763584",
+  "from": "3ed6d8b3-e948-46fc-9be2-f2ece3f05939",
+  "to": "fa149d96-d797-483c-a560-6a297c01c9b1",
+  "relation": "answers",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "ecf4b155-a02f-440e-87ac-837126c9279c",
+        "locator": "arXiv p. 4",
+        "quote": "it entails that consciousness in AI is possible in principle"
+      }
+    ]
+  }
+}

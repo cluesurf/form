@@ -1,0 +1,33 @@
+{
+  "record": "link",
+  "id": "dc469fda-3d62-4b92-b905-fe818f0f6221",
+  "from": "d329473f-e66b-4122-a9ad-6501be7a85a6",
+  "to": "5c8690a9-da9a-4256-acc7-67a2a6630a40",
+  "relation": "is_in_tension_with",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "741e8f86-4660-494d-8dd8-dfce0f4719e3",
+        "locator": "arXiv p. 14",
+        "quote": "Perhaps the strongest objections are those from recurrent processing, global workspace, and unified agency"
+      },
+      {
+        "source": "741e8f86-4660-494d-8dd8-dfce0f4719e3",
+        "locator": "arXiv p. 14",
+        "quote": "it’s reasonable to have a low credence that current paradigmatic LLMs such as the GPT systems are conscious"
+      }
+    ]
+  }
+}

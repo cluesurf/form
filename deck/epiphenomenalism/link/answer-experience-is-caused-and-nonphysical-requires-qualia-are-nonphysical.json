@@ -1,0 +1,28 @@
+{
+  "record": "link",
+  "id": "964fb095-3ffd-47b3-b0fb-48760aedc907",
+  "from": "c96001d0-1060-411c-be4f-ce46f9e7f9fa",
+  "to": "dfa9ac70-257f-4c58-b568-27fccf771015",
+  "relation": "requires",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "542e0d13-746c-470a-a9b7-86f1d044600d",
+        "locator": "section 3.4, 'Epiphenomenalism and Intrinsic Properties'",
+        "quote": "what she learns must be some other kind of information, which we may call “phenomenal information”"
+      }
+    ]
+  }
+}

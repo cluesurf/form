@@ -1,0 +1,50 @@
+{
+  "record": "proposition",
+  "id": "f76efb42-ec57-406b-aceb-e9882251eff3",
+  "kind": "philosophical",
+  "epistemic_status": "hypothesized",
+  "title": "Folk theories of everything else turned out wrong",
+  "statements": [
+    {
+      "id": "8a8c3c82-5728-47e4-8b61-f0f2176cc315",
+      "text": "Folk physics, folk biology and folk epidemiology all proved radically mistaken. Since folk theories generally turn out mistaken, and the mind-brain is far more complex than motion, fire, heat, the weather or disease, it would be astonishing if folk psychology alone among folk theories were essentially correct.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "8a8c3c82-5728-47e4-8b61-f0f2176cc315",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "4881b7b9-a47f-492c-80a0-18998a6e239d",
+        "locator": "section 3.1, 'General Theoretical Problems With Folk Psychology'",
+        "quote": "Since folk theories generally turn out to be mistaken, it seems quite improbable that folk psychology will turn out true."
+      },
+      {
+        "source": "3db58e50-8dbf-47f4-a613-ff8ee88a21d4",
+        "locator": "MIT Press edition, page 395",
+        "quote": "it would be astonishing if folk psychology , alone among folk theories, was essentially correct"
+      }
+    ]
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "record": "proposition",
+  "id": "f15c8a60-961f-4e72-9973-a26b09b1cb5f",
+  "kind": "empirical",
+  "epistemic_status": "hypothesized",
+  "title": "Critique: no single brain area, subcortical or not, is sufficient",
+  "statements": [
+    {
+      "id": "a91360a5-2714-48be-8caa-49923d0c654c",
+      "text": "Activity in the superior colliculus is also found for stimuli the subject is unaware of, some visual stimuli are seen without engaging it, and direct stimulation of visual cortex yields conscious percepts. It seems unlikely that activity in any single area is sufficient for consciousness, so subcortical structures may be one part of a network of cortical and subcortical areas.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "a91360a5-2714-48be-8caa-49923d0c654c",
+  "status": "active",
+  "voice": "critique",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "db2f8b8e-899c-468e-b868-15e3f3ab21f6",
+        "locator": "pp. 107-108",
+        "quote": "it seems unlikely that activity in any single area of the human brain will be sufficient for consciousness"
+      },
+      {
+        "source": "db2f8b8e-899c-468e-b868-15e3f3ab21f6",
+        "locator": "pp. 107-108",
+        "quote": "subcortical activity may not be necessary for all types of awareness"
+      }
+    ]
+  }
+}

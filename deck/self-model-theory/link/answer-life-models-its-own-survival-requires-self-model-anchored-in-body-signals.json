@@ -1,0 +1,33 @@
+{
+  "record": "link",
+  "id": "70b98bf1-513e-44db-8b68-2c0abb847c48",
+  "from": "5c53754f-1139-47c7-aed6-d44e3456a7c6",
+  "to": "cbb63809-89a9-4a43-8f30-63c8d744de4d",
+  "relation": "requires",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "d821ebea-2668-4266-8314-e24547973aea",
+        "locator": "p. 18",
+        "quote": "a naturally evolved information-processing system may represent its own procreative success or the sustaining of its own existence as an intrinsically valuable goal state"
+      },
+      {
+        "source": "bcdebbd0-38c1-4227-a43b-6a7a59f74207",
+        "locator": "p. 18",
+        "quote": "engaged in the homeostatic regulation of the \"internal milieu\""
+      }
+    ]
+  }
+}

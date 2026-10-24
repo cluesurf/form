@@ -1,0 +1,33 @@
+{
+  "record": "link",
+  "id": "0859d4e8-37cb-4b0a-a865-10d1a4f6ef27",
+  "from": "44924822-497b-4366-a16b-315abe3877ab",
+  "to": "8f4e1f9d-befd-451a-bc01-e4bd6620838d",
+  "relation": "requires",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "ba105db4-969a-4ed2-be0c-cb4dd3eb2505",
+        "locator": "section III",
+        "quote": "their mentality is so much less developed, so that they -- at least most of them -- seem incapable of entertaining norms as such"
+      },
+      {
+        "source": "ba105db4-969a-4ed2-be0c-cb4dd3eb2505",
+        "locator": "section III",
+        "quote": "The difference is, nevertheless, one of degree, not of kind."
+      }
+    ]
+  }
+}

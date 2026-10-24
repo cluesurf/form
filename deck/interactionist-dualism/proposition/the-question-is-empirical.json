@@ -1,0 +1,50 @@
+{
+  "record": "proposition",
+  "id": "6f00ceb6-393c-4d14-b72c-0a1e61fc56b2",
+  "kind": "philosophical",
+  "epistemic_status": "inferred",
+  "title": "Whether a mind acts on the brain is an empirical question about the brain",
+  "statements": [
+    {
+      "id": "1cd983f0-d0fd-41b8-8f1c-1ed662e857d8",
+      "text": "A decent objection to interactionism must be a posteriori, from studying the brain: one could show that neuroscience leaves no room for a soul to act on it in the right way. Papineau argues the evidence for closure was clear by the 1960s, while Cucu claims to find critical neuronal events still lacking sufficient physical explanation.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "1cd983f0-d0fd-41b8-8f1c-1ed662e857d8",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "ca8520b1-c069-4551-b4a7-3d560c5ff593",
+        "locator": "p. 95",
+        "quote": "A decent objection to interactionism should be a posteriori, based on empirically studying the brain."
+      },
+      {
+        "source": "4bffe5f1-a379-4b92-b51d-3c5ef3046009",
+        "locator": "section 3.3, 'Interactionism'",
+        "quote": "This, they claim, makes the plausibility of interactionism an empirical matter which only close investigation on the fine operation of the brain could hope to settle."
+      }
+    ]
+  }
+}

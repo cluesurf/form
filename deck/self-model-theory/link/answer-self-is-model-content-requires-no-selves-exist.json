@@ -1,0 +1,33 @@
+{
+  "record": "link",
+  "id": "ac8f0a7d-b5b5-49c0-ab90-94f264aa91fb",
+  "from": "3b85e350-ea1f-461a-a44b-27b2eab4961e",
+  "to": "cf9b402e-1981-4515-bac2-d174696bf16f",
+  "relation": "requires",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "bcdebbd0-38c1-4227-a43b-6a7a59f74207",
+        "locator": "p. 3",
+        "quote": "The content of a self-model that cannot be recognized as a model by the system using it."
+      },
+      {
+        "source": "bcdebbd0-38c1-4227-a43b-6a7a59f74207",
+        "locator": "p. 3",
+        "quote": "This PSM is not a thing, but an integrated process."
+      }
+    ]
+  }
+}

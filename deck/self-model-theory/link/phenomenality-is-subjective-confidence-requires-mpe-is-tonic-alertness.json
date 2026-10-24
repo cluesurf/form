@@ -1,0 +1,33 @@
+{
+  "record": "link",
+  "id": "0de0f8b0-dc84-4b9e-ad0b-da45b8593e48",
+  "from": "11343ba2-5182-4cb9-bf03-215f4c2f876f",
+  "to": "bd241ca0-083e-4f01-864d-8fdfbf6fb095",
+  "relation": "requires",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "1e6c56f2-322f-47dd-a519-b66dc9982794",
+        "locator": "p. 38",
+        "quote": "phenomenality is a transparent, temporally thin, and global representation of subjective confidence"
+      },
+      {
+        "source": "1e6c56f2-322f-47dd-a519-b66dc9982794",
+        "locator": "p. 34",
+        "quote": "More simply, we could say that MPE is an expectation of knowledge."
+      }
+    ]
+  }
+}

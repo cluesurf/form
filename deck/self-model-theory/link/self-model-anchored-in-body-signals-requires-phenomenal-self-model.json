@@ -1,0 +1,28 @@
+{
+  "record": "link",
+  "id": "afead97a-3c52-4d3b-a808-d348389d9686",
+  "from": "cbb63809-89a9-4a43-8f30-63c8d744de4d",
+  "to": "5e6c6d41-3ab9-4c49-8d6a-62fd91d8cea4",
+  "relation": "requires",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "bcdebbd0-38c1-4227-a43b-6a7a59f74207",
+        "locator": "p. 18",
+        "quote": "This source of input is what anchors the human self-model"
+      }
+    ]
+  }
+}

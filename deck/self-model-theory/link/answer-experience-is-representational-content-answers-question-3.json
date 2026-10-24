@@ -1,0 +1,33 @@
+{
+  "record": "link",
+  "id": "f0d80b39-c7fe-411f-ba00-6783851f3883",
+  "from": "2299b248-3e70-4a0d-8bd0-a45206ce612a",
+  "to": "94d1e6cc-101d-4e1b-9fc7-56d44571b271",
+  "relation": "answers",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "bcdebbd0-38c1-4227-a43b-6a7a59f74207",
+        "locator": "p. 2",
+        "quote": "what properties representations in a given information-processing system must possess in order to become phenomenal representations"
+      },
+      {
+        "source": "bcdebbd0-38c1-4227-a43b-6a7a59f74207",
+        "locator": "p. 3",
+        "quote": "It truly is a phenomenal property in terms of being an appearance only."
+      }
+    ]
+  }
+}

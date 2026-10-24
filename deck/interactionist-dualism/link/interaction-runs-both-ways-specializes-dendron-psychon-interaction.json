@@ -1,0 +1,33 @@
+{
+  "record": "link",
+  "id": "8e4bfa89-9940-4f91-a9c8-4f3e152a47b1",
+  "from": "75ca8311-0fb3-4112-93ae-2f95f4f2d170",
+  "to": "74335e2f-0c49-46ce-b870-c933198c319c",
+  "relation": "specializes",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "9cad897a-4c6d-4de9-b92b-c76760ba8a9c",
+        "locator": "abstract",
+        "quote": "In the fully developed hypothesis psychons act on dendrons in the whole world of conscious experiences and dendrons act on psychons in all perceptions and memories."
+      },
+      {
+        "source": "9cad897a-4c6d-4de9-b92b-c76760ba8a9c",
+        "locator": "abstract",
+        "quote": "as an explanation of the global nature of a visual experience from moment to moment"
+      }
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "record": "link",
+  "id": "44a4a66c-2c4c-4f19-b92c-20d9a904e26f",
+  "from": "f0e28e13-0b57-458f-9a8b-8455d64db674",
+  "to": "455dff7d-b66c-449d-b2d7-52521b99cba5",
+  "relation": "answers",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "74e58cef-2e29-415f-a138-df37b7515701",
+        "locator": "Collected Essays I, page 244",
+        "quote": "all states of consciousness in us, as in them, are immediately caused by molecular changes of the brain-substance"
+      }
+    ]
+  }
+}

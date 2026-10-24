@@ -1,0 +1,45 @@
+{
+  "record": "proposition",
+  "id": "f0b700a7-c8f9-41c4-9cfb-9f189b5ce172",
+  "kind": "definitional",
+  "epistemic_status": "designed",
+  "title": "Subject-superject",
+  "statements": [
+    {
+      "id": "336055fd-3d32-4db9-8e93-d461cf4aad24",
+      "text": "An actual entity is not an unchanging subject of change. It is at once the subject experiencing and the superject of its experiences, the outcome that later occasions feel. \"Subject\" always abbreviates \"subject-superject\".",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "336055fd-3d32-4db9-8e93-d461cf4aad24",
+  "status": "active",
+  "voice": "framework",
+  "defines": "subject-superject",
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "78f94ddb-c6f8-4a5c-86bb-ea574d7a0c37",
+        "locator": "p. 43",
+        "quote": "An actual entity is at once the subject experiencing and the superject of its experiences."
+      }
+    ]
+  }
+}

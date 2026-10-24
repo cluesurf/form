@@ -1,0 +1,33 @@
+{
+  "record": "link",
+  "id": "cdf0115c-0c60-421f-8280-8b1359add14c",
+  "from": "dccfa0ac-42d0-43d3-a4f2-d79f25132fd9",
+  "to": "262805f6-ee6c-45ea-9518-fe92e9023a04",
+  "relation": "requires",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "8834b927-27b0-41e8-8c3f-c15dbf813c57",
+        "locator": "p. 5",
+        "quote": "if a function (or critical component function) is localized in a particular structure, then ablation of that structure must result in loss of that function"
+      },
+      {
+        "source": "afbb68ed-2795-46f2-a80b-5e9c8f6d456d",
+        "locator": "section 8 'All Consciousness Is Endogenous'",
+        "quote": "there is no evidence that living neocortex alone, without subcortical supports, can have any subjective experiences at all"
+      }
+    ]
+  }
+}

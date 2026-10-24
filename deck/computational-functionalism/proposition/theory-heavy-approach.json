@@ -1,0 +1,45 @@
+{
+  "record": "proposition",
+  "id": "3740e65c-27a3-4ad1-ba0a-4ac73673ec4d",
+  "kind": "definitional",
+  "epistemic_status": "designed",
+  "title": "The theory-heavy approach to AI consciousness",
+  "statements": [
+    {
+      "id": "09f67996-7a99-45fe-b990-0ac188841372",
+      "text": "The theory-heavy approach asks whether an AI system performs functions similar to those scientific theories associate with consciousness, and assigns a credence from the similarity of the functions, the strength of the evidence for the theories, and one's credence in computational functionalism.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "09f67996-7a99-45fe-b990-0ac188841372",
+  "status": "active",
+  "voice": "framework",
+  "defines": "theory-heavy approach",
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "ecf4b155-a02f-440e-87ac-837126c9279c",
+        "locator": "arXiv p. 4",
+        "quote": "assigning credences based on (a) the similarity of the functions, (b) the strength of the evidence for the theories in question, and (c) one’s credence in computational functionalism"
+      }
+    ]
+  }
+}

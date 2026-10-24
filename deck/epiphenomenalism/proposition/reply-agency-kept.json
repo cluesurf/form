@@ -1,0 +1,45 @@
+{
+  "record": "proposition",
+  "id": "dfa2d927-bdf5-4ea3-8408-7691157565f7",
+  "kind": "philosophical",
+  "epistemic_status": "inferred",
+  "title": "Reply: the difference between acting and being moved is a difference in brain states",
+  "statements": [
+    {
+      "id": "e2474621-e8b8-441f-9b01-214a15383fa5",
+      "text": "Against the worry that epiphenomenalism takes away the sense that actions are one's own, there are different brain states for moving one's body and for having it moved by something else, and these can have different phenomenal effects. The view also keeps the difference between actions from normal brain processes and actions from manipulation, disease or overwhelming situations.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "e2474621-e8b8-441f-9b01-214a15383fa5",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "542e0d13-746c-470a-a9b7-86f1d044600d",
+        "locator": "section 2.1, 'Obvious Absurdity'",
+        "quote": "there would be different brain states corresponding to the difference between cases of moving our bodies and cases of having our body parts moved by something else"
+      }
+    ]
+  }
+}

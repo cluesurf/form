@@ -1,0 +1,28 @@
+{
+  "record": "link",
+  "id": "abc8ed95-fda1-43d5-8e87-dd7036926435",
+  "from": "567fdb6d-f1c9-46c7-baef-049375a3fa2b",
+  "to": "28452a77-05b7-4d56-932b-97420db1ba13",
+  "relation": "contradicts",
+  "strength": null,
+  "rationale": "If a functional duplicate can lack all qualitative character, function does not fix experience.",
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "40a4280a-4b0f-44b2-b9c6-95fce46b932d",
+        "locator": "section 5.5.1, 'Inverted and Absent Qualia'",
+        "quote": "Block argues that such a “homunculi-headed” system would not have mental states with any qualitative character"
+      }
+    ]
+  }
+}

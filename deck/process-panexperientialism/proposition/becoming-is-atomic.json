@@ -1,0 +1,50 @@
+{
+  "record": "proposition",
+  "id": "f4698524-8e36-4d14-9c7b-be14363cddd5",
+  "kind": "philosophical",
+  "epistemic_status": "hypothesized",
+  "title": "Becoming is atomic",
+  "statements": [
+    {
+      "id": "db9a4921-7efa-4392-a78b-bea6a4b78097",
+      "text": "There is a becoming of continuity but no continuity of becoming. The occasions that become are atomic and together make a continuously extensive world, so extensiveness becomes while becoming is not itself extensive.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "db9a4921-7efa-4392-a78b-bea6a4b78097",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "78f94ddb-c6f8-4a5c-86bb-ea574d7a0c37",
+        "locator": "p. 53",
+        "quote": "There is a becoming of continuity, but no continuity of becoming."
+      },
+      {
+        "source": "78f94ddb-c6f8-4a5c-86bb-ea574d7a0c37",
+        "locator": "p. 53",
+        "quote": "Thus the ultimate metaphysical truth is atomism."
+      }
+    ]
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "record": "link",
+  "id": "00e3f101-cdca-4945-8c40-4f19849110f3",
+  "from": "1b1712ef-d586-4e74-926a-98120350921e",
+  "to": "ea888beb-7ef6-458a-b775-73e51d60d352",
+  "relation": "defines",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "bcdebbd0-38c1-4227-a43b-6a7a59f74207",
+        "locator": "p. 14",
+        "quote": "Consciousness is the appearance of a world from a first-person perspective."
+      },
+      {
+        "source": "bcdebbd0-38c1-4227-a43b-6a7a59f74207",
+        "locator": "p. 17",
+        "quote": "phenomenal space is centred by a phenomenal self"
+      }
+    ]
+  }
+}

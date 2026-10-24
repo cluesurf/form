@@ -1,0 +1,50 @@
+{
+  "record": "proposition",
+  "id": "817610e1-4571-4354-9f74-a2534616076b",
+  "kind": "philosophical",
+  "epistemic_status": "hypothesized",
+  "title": "Answer: consciousness is felt uncertainty, affect in its elemental form",
+  "statements": [
+    {
+      "id": "da60135c-42d8-4618-96d9-242e25430479",
+      "text": "Consciousness is felt uncertainty: the felt, context-sensitive prioritization of homeostatic prediction errors, formally the optimization of their precision. In its elemental form it is affect, generated in the upper brainstem, and it extends onto perception and thought when cortex binds it.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "da60135c-42d8-4618-96d9-242e25430479",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "8834b927-27b0-41e8-8c3f-c15dbf813c57",
+        "locator": "p. 7",
+        "quote": "In short, consciousness is felt uncertainty."
+      },
+      {
+        "source": "8834b927-27b0-41e8-8c3f-c15dbf813c57",
+        "locator": "p. 12",
+        "quote": "Consciousness itself is affective."
+      }
+    ]
+  }
+}

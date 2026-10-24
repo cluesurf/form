@@ -1,0 +1,33 @@
+{
+  "record": "link",
+  "id": "ae37c17e-146f-46fa-8185-65dd529c8ff5",
+  "from": "f15c8a60-961f-4e72-9973-a26b09b1cb5f",
+  "to": "262805f6-ee6c-45ea-9518-fe92e9023a04",
+  "relation": "weakens",
+  "strength": null,
+  "rationale": "If no single area is sufficient, the brainstem is at most part of a cortical and subcortical network.",
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "db2f8b8e-899c-468e-b868-15e3f3ab21f6",
+        "locator": "pp. 107-108",
+        "quote": "it seems unlikely that activity in any single area of the human brain will be sufficient for consciousness"
+      },
+      {
+        "source": "db2f8b8e-899c-468e-b868-15e3f3ab21f6",
+        "locator": "pp. 107-108",
+        "quote": "subcortical activity may not be necessary for all types of awareness"
+      }
+    ]
+  }
+}

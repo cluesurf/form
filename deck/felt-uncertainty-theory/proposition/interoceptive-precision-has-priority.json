@@ -1,0 +1,50 @@
+{
+  "record": "proposition",
+  "id": "3f6a91e8-a11c-4b98-8edd-773cb6bc338c",
+  "kind": "philosophical",
+  "epistemic_status": "hypothesized",
+  "title": "Interoceptive precision has priority, so everything else serves affect",
+  "statements": [
+    {
+      "id": "5c6e7349-e111-4ffa-8dab-731a7f356049",
+      "text": "Interoceptive precision is prioritized because the beliefs attached to homeostatic affects such as hunger, thirst and sleepiness are set by the phenotype and cannot be overridden by experience. So everything further along the hierarchy, motivation, attention, action, perception and learning, is subordinate to affect.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "5c6e7349-e111-4ffa-8dab-731a7f356049",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "8834b927-27b0-41e8-8c3f-c15dbf813c57",
+        "locator": "p. 12",
+        "quote": "The proposal is that interoceptive precision is prioritized"
+      },
+      {
+        "source": "8834b927-27b0-41e8-8c3f-c15dbf813c57",
+        "locator": "p. 12",
+        "quote": "Consciousness itself is affective."
+      }
+    ]
+  }
+}

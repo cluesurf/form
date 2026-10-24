@@ -1,0 +1,28 @@
+{
+  "record": "link",
+  "id": "1eb57b12-a9a6-48cd-9f8d-e80d9e982af0",
+  "from": "426e45d5-e94c-42e1-b162-a8d60df420af",
+  "to": "374beb96-56e8-41d6-a04d-a138b58409e6",
+  "relation": "requires",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "de8573b3-42af-4c30-94e9-01704e16b3ea",
+        "locator": "p. 80",
+        "quote": "certain concepts lose their integrity and fall apart"
+      }
+    ]
+  }
+}

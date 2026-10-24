@@ -1,0 +1,33 @@
+{
+  "record": "link",
+  "id": "cbfebe32-2073-43a1-9c52-a19c4795f958",
+  "from": "09bfd74d-e577-4610-bd3b-6fad722de5b8",
+  "to": "262805f6-ee6c-45ea-9518-fe92e9023a04",
+  "relation": "supports",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "8834b927-27b0-41e8-8c3f-c15dbf813c57",
+        "locator": "p. 4",
+        "quote": "They express pleasure by smiling and laughter, and aversion by \"fussing,\" arching of the back and crying (in many gradations), their faces being animated by these emotional states."
+      },
+      {
+        "source": "f7fc8e10-3e07-4b09-ab27-67c952faefed",
+        "locator": "p. 79",
+        "quote": null
+      }
+    ]
+  }
+}

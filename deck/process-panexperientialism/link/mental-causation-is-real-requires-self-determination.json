@@ -1,0 +1,33 @@
+{
+  "record": "link",
+  "id": "4d8d2087-8526-4736-8e27-f379ab0cac3d",
+  "from": "872ef2b7-0653-47bf-a6f8-f0d4437bfe6e",
+  "to": "93fa4370-f652-4004-8c6f-89b403adf917",
+  "relation": "requires",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "ba105db4-969a-4ed2-be0c-cb4dd3eb2505",
+        "locator": "section III",
+        "quote": "Mental causation, accordingly, is not regarded as epiphenomenal."
+      },
+      {
+        "source": "ba105db4-969a-4ed2-be0c-cb4dd3eb2505",
+        "locator": "section III",
+        "quote": "Besides the upward causation from the body to the mind, there is self-determination by the mind and, on the basis of this, downward causation from the mind to the body."
+      }
+    ]
+  }
+}

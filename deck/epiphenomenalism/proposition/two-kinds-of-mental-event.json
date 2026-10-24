@@ -1,0 +1,50 @@
+{
+  "record": "proposition",
+  "id": "07242dc5-9d89-4d35-b8cb-07bec50d9820",
+  "kind": "definitional",
+  "epistemic_status": "designed",
+  "title": "Phenomenal experiences and propositional attitudes",
+  "statements": [
+    {
+      "id": "1d78aa1a-6aba-4e7c-8ddc-e5ff726804d5",
+      "text": "Arguments about epiphenomenalism concern two kinds of mental event: phenomenal experiences, the qualitative what-it-is-like of experience such as pains, afterimages and tastes, and occurrent propositional attitudes such as beliefs and desires. An argument for one kind need not carry over to the other. If pains cause beliefs that one is in pain and those beliefs have physical effects, pains have physical effects after all, so an epiphenomenalist about pain must hold that pains do not cause those beliefs or that the beliefs are epiphenomenal too.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "1d78aa1a-6aba-4e7c-8ddc-e5ff726804d5",
+  "status": "active",
+  "voice": "framework",
+  "defines": "phenomenal experience",
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "542e0d13-746c-470a-a9b7-86f1d044600d",
+        "locator": "section 1, 'Traditional Arguments (A) Pro'",
+        "quote": "Many philosophers recognize a distinction between two kinds of mental events."
+      },
+      {
+        "source": "542e0d13-746c-470a-a9b7-86f1d044600d",
+        "locator": "section 1, 'Traditional Arguments (A) Pro'",
+        "quote": "For, if pains caused beliefs that one is in pain, and the latter had physical effects, then pains would, after all, have effects in the physical world (albeit indirectly)."
+      }
+    ]
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "record": "link",
+  "id": "13a00876-9bfd-422f-8e8c-5ab62fbafa48",
+  "from": "2422f823-776d-41bf-b984-29fae488a1c1",
+  "to": "48bb93b4-4b61-433b-acbc-e849097711de",
+  "relation": "defines",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "4bffe5f1-a379-4b92-b51d-3c5ef3046009",
+        "locator": "section 3.3, 'Interactionism'",
+        "quote": "Interactionism is the view that mind and body – or mental events and physical events – causally influence each other."
+      },
+      {
+        "source": "4bffe5f1-a379-4b92-b51d-3c5ef3046009",
+        "locator": "section 3, 'Varieties of Dualism'",
+        "quote": "Interactionism is the view that mind and body act causally on one another"
+      }
+    ]
+  }
+}

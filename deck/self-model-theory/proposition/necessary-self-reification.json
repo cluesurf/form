@@ -1,0 +1,50 @@
+{
+  "record": "proposition",
+  "id": "34a1b9af-df8c-4787-ac33-3d5f6be173bb",
+  "kind": "philosophical",
+  "epistemic_status": "hypothesized",
+  "title": "Transparent self-modeling blocks an infinite regress",
+  "statements": [
+    {
+      "id": "2a2b8f8a-255d-451b-8813-11d00f0cf7a7",
+      "text": "Self-modeling is logically an infinite process: a system modeling itself as modeling itself would generate an endless chain that would consume its resources. Transparent self-modeling evolved as a way of breaking the loop with an untranscendable object. On this principle of necessary self-reification, the phenomenal self is the transparent representational object that blocks the self-representational loop.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "2a2b8f8a-255d-451b-8813-11d00f0cf7a7",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "bcdebbd0-38c1-4227-a43b-6a7a59f74207",
+        "locator": "p. 25",
+        "quote": "it prevents the system from being caught up in an infinite regress of self-modeling"
+      },
+      {
+        "source": "bcdebbd0-38c1-4227-a43b-6a7a59f74207",
+        "locator": "p. 25",
+        "quote": "I call this the \"principle of necessary self-reification\""
+      }
+    ]
+  }
+}

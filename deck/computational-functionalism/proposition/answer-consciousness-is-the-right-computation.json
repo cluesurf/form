@@ -1,0 +1,45 @@
+{
+  "record": "proposition",
+  "id": "e67c5f28-0be2-411c-96cd-39846c4fdbda",
+  "kind": "philosophical",
+  "epistemic_status": "hypothesized",
+  "title": "Answer: consciousness is subjective experience, present when the right computations run",
+  "statements": [
+    {
+      "id": "d4462c07-6d95-483a-af90-a8a56e826f0a",
+      "text": "Consciousness is subjective experience, there being something it is like to be a system. On this view a system has it when, and because, it performs computations of the right kind.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "d4462c07-6d95-483a-af90-a8a56e826f0a",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "ecf4b155-a02f-440e-87ac-837126c9279c",
+        "locator": "arXiv p. 4",
+        "quote": "the thesis that performing computations of the right kind is necessary and"
+      }
+    ]
+  }
+}

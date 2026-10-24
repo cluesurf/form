@@ -1,0 +1,45 @@
+{
+  "record": "proposition",
+  "id": "7bb64e18-30e9-4e38-a474-7e4dae99aacc",
+  "kind": "empirical",
+  "epistemic_status": "hypothesized",
+  "title": "Critique: full-body illusions may be partial illusions",
+  "statements": [
+    {
+      "id": "a4e4b755-5f03-4dd0-893d-1a395f0d999e",
+      "text": "Adrian Alsmith argues that the classical studies of full-body illusions have not excluded that they induce only a partial identification with the avatar, limited to the body parts stimulated. Whether full-body illusions exist is empirically underdetermined, so they may not manipulate a global self-representation.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "a4e4b755-5f03-4dd0-893d-1a395f0d999e",
+  "status": "active",
+  "voice": "critique",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "1bc792ee-c3ee-4f0c-93b8-a818a2897c06",
+        "locator": "p. 3",
+        "quote": "putative full-body illusions are difficult to isolate from illusions involving composite parts"
+      }
+    ]
+  }
+}

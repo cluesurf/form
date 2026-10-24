@@ -1,0 +1,33 @@
+{
+  "record": "link",
+  "id": "0225c085-bc24-4a2b-8d95-75c226ecac2b",
+  "from": "2602c52c-bc09-49af-a752-834878ced4c2",
+  "to": "4a5e34f9-b781-46dd-a95b-4289df85454d",
+  "relation": "supports",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "9a9645ce-d028-451e-8752-1237c4f2f58b",
+        "locator": "eprint p. 4",
+        "quote": "won’t always show you what has happened to me"
+      },
+      {
+        "source": "9a9645ce-d028-451e-8752-1237c4f2f58b",
+        "locator": "eprint p. 5",
+        "quote": "But it cannot be a matter of definition whether I survive a brain operation and what my subsequent life will be like."
+      }
+    ]
+  }
+}

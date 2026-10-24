@@ -1,0 +1,50 @@
+{
+  "record": "proposition",
+  "id": "215bbc5a-7698-4af2-8ff8-c480f6a0217b",
+  "kind": "empirical",
+  "epistemic_status": "inferred",
+  "title": "For roughly two thirds of conscious life there is no mental autonomy",
+  "statements": [
+    {
+      "id": "6ef4d1c9-1d1a-4304-81d1-86705a3c6ca9",
+      "text": "Mind wandering is a loss of mental autonomy: an unnoticed loss of mental self-control and epistemic agency that cannot be ended at will while it unfolds. Data on mind wandering and dreaming are read to show that for roughly two thirds of conscious life people lack mental autonomy. The onset of a mind-wandering episode is a collapse of the epistemic agent model.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "6ef4d1c9-1d1a-4304-81d1-86705a3c6ca9",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "f901177d-d5a1-49ec-a74e-2adc81f988ea",
+        "locator": "p. 1",
+        "quote": "I claim that for roughly two thirds of our conscious life-time we do not possess mental autonomy (M-autonomy) in this sense."
+      },
+      {
+        "source": "f901177d-d5a1-49ec-a74e-2adc81f988ea",
+        "locator": "p. 12",
+        "quote": "The beginning of a mind wandering episode is characterized by a collapse of the EAM."
+      }
+    ]
+  }
+}

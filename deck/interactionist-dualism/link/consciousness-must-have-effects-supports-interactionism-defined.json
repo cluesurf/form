@@ -1,0 +1,33 @@
+{
+  "record": "link",
+  "id": "4d8661d9-e893-4b8b-9210-f4e0ad84ae23",
+  "from": "85c2ae04-5977-4269-9956-7c8820d10231",
+  "to": "2422f823-776d-41bf-b984-29fae488a1c1",
+  "relation": "supports",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "daa741cb-618d-44c8-857b-e91e035b6718",
+        "locator": "section 2.2, 'Natural Selection'",
+        "quote": "The development of consciousness must be explainable through natural selection."
+      },
+      {
+        "source": "f1ad88c5-37ee-4cc6-8c6a-d2258c7d7846",
+        "locator": null,
+        "quote": null
+      }
+    ]
+  }
+}

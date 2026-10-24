@@ -1,0 +1,50 @@
+{
+  "record": "proposition",
+  "id": "2827934c-0523-4918-9eb9-6a08734b8bfe",
+  "kind": "philosophical",
+  "epistemic_status": "inferred",
+  "title": "A mental cause added to a sufficient physical cause is idle",
+  "statements": [
+    {
+      "id": "8a3caf2f-7bc4-4ce3-9365-2cde964d3161",
+      "text": "Supposing that every mental effect in the physical world also has a sufficient physical cause offends parsimony and fails the leading intuition against epiphenomenalism, that the mental makes a difference. It also means no one could ever need to suppose anything nonphysical at work in neural events or behavior.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "8a3caf2f-7bc4-4ce3-9365-2cde964d3161",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "542e0d13-746c-470a-a9b7-86f1d044600d",
+        "locator": "section 1, 'Traditional Arguments (A) Pro'",
+        "quote": "This view, however, both offends Occamist principles and fails to satisfy the leading anti-epiphenomenalist intuition"
+      },
+      {
+        "source": "542e0d13-746c-470a-a9b7-86f1d044600d",
+        "locator": "section 1, 'Traditional Arguments (A) Pro'",
+        "quote": "there could never be any reason to introduce mental causes into one’s account of neural events or behavior"
+      }
+    ]
+  }
+}

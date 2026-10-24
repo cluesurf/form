@@ -1,0 +1,33 @@
+{
+  "record": "link",
+  "id": "e97735fd-1aff-4f9f-9679-dbe84af9df6d",
+  "from": "d2c80e3b-f1cd-4856-8a25-46b26cc11e90",
+  "to": "2e0b3782-7e83-4696-98b0-fa81f1c63837",
+  "relation": "answers",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "741e8f86-4660-494d-8dd8-dfce0f4719e3",
+        "locator": "arXiv p. 2",
+        "quote": "Consciousness also should not be identified with intelligence, which I understand as roughly the capacity for sophisticated goal-directed behavior."
+      },
+      {
+        "source": "741e8f86-4660-494d-8dd8-dfce0f4719e3",
+        "locator": "arXiv p. 2",
+        "quote": "It’s not out of the question that AI might as well."
+      }
+    ]
+  }
+}

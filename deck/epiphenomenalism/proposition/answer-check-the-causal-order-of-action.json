@@ -1,0 +1,45 @@
+{
+  "record": "proposition",
+  "id": "849e4be9-aad7-48bf-be6c-0072c4940878",
+  "kind": "empirical",
+  "epistemic_status": "hypothesized",
+  "title": "Answer: experiments on the timing and illusion of conscious control",
+  "statements": [
+    {
+      "id": "8a0d2179-cc83-4918-915f-eac2ff16fda1",
+      "text": "What can be checked is the causal order between conscious states and action: when the urge to move is felt relative to the brain events that start the movement, whether people judge themselves in control of movements they did not control, and whether stated reasons are the real causes of judgments. These bear on the view without showing consciousness wholly inefficacious.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "8a0d2179-cc83-4918-915f-eac2ff16fda1",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "542e0d13-746c-470a-a9b7-86f1d044600d",
+        "locator": "section 3.5, 'Empirical Considerations'",
+        "quote": "They suggest instead that the reported consciousness is not causally related to our nonlinguistic behavior in ways that we ordinarily suppose."
+      }
+    ]
+  }
+}

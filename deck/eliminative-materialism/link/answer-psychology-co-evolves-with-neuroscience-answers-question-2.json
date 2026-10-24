@@ -1,0 +1,28 @@
+{
+  "record": "link",
+  "id": "2efc2104-a93a-410b-89bd-f4b519703d72",
+  "from": "2b3490d8-020d-45d7-b55f-2a6d618b44c0",
+  "to": "455dff7d-b66c-449d-b2d7-52521b99cba5",
+  "relation": "answers",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "3db58e50-8dbf-47f4-a613-ff8ee88a21d4",
+        "locator": "MIT Press edition, page 362",
+        "quote": "Categories at any level specifying the fundamental kinds may need to be revised"
+      }
+    ]
+  }
+}

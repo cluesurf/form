@@ -1,0 +1,33 @@
+{
+  "record": "link",
+  "id": "f6a2b9d7-bf1a-4523-9853-9053a66eda35",
+  "from": "1999f751-5d4b-4e95-9174-c140f06dfaed",
+  "to": "43fc6225-2526-4555-8128-80b38e2fbaf4",
+  "relation": "answers",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "2ab75b9c-c7c1-4d7f-a482-d00c7fe4f31c",
+        "locator": "PDF p. 17",
+        "quote": "Rather the universe shares its causal work with"
+      },
+      {
+        "source": "6ae3be7e-baba-41f4-bfc7-e0a470bdb8e6",
+        "locator": "p. 6",
+        "quote": "consciousness may be causally efficacious and"
+      }
+    ]
+  }
+}

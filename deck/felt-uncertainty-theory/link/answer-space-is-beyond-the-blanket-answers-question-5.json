@@ -1,0 +1,33 @@
+{
+  "record": "link",
+  "id": "dab0f0c9-f1e9-48c1-85da-02b8941ee1d8",
+  "from": "ca36cc5a-880e-4c8a-853e-4c488daae46e",
+  "to": "74e87691-55c5-45d4-bcbe-85fb62e5912d",
+  "relation": "answers",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "8834b927-27b0-41e8-8c3f-c15dbf813c57",
+        "locator": "p. 9",
+        "quote": "external states can only be \"inferred\" by the system—on the basis of \"sensory impressions\" upon the Markov blanket"
+      },
+      {
+        "source": "8834b927-27b0-41e8-8c3f-c15dbf813c57",
+        "locator": "p. 7",
+        "quote": "needs are registered in the periaqueductal gray (PAG) and opportunities in the superior colliculi"
+      }
+    ]
+  }
+}

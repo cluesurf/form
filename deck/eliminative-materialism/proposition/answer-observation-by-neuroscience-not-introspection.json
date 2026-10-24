@@ -1,0 +1,45 @@
+{
+  "record": "proposition",
+  "id": "f6852413-bdcf-4fc4-a0a0-360303d6956c",
+  "kind": "philosophical",
+  "epistemic_status": "hypothesized",
+  "title": "Answer: the mind is observed by neuroscience and psychology, with introspection as fallible theory",
+  "statements": [
+    {
+      "id": "7fa756e3-4008-4d52-9068-613443d85290",
+      "text": "The view takes no position on measurement in physics. The mind is observed by the methods of neuroscience and experimental psychology. Introspection is not privileged observation: it is theory-laden and often confabulated.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "7fa756e3-4008-4d52-9068-613443d85290",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "de8573b3-42af-4c30-94e9-01704e16b3ea",
+        "locator": "p. 83",
+        "quote": "the naturalness of our self-appraisal and our explanations ‘from the inside’ can easily be mistaken for privileged access"
+      }
+    ]
+  }
+}

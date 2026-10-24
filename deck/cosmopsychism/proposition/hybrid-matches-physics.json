@@ -1,0 +1,50 @@
+{
+  "record": "proposition",
+  "id": "14c4231e-892c-4d10-a3b1-82698e4df21b",
+  "kind": "philosophical",
+  "epistemic_status": "inferred",
+  "title": "Physics runs the same with or without local subjects",
+  "statements": [
+    {
+      "id": "f140e475-3e18-421f-8380-adad71946b2b",
+      "text": "Systems with emergent subjects obey the same basic laws as systems without them, because a new subject only bears properties the universe would otherwise have borne, in the same place. The universe shares its causal work with local subjects, so their experience is neither epiphenomenal nor overdetermined, and the basic laws of emergence bridge the gap from cosmic to local consciousness.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "f140e475-3e18-421f-8380-adad71946b2b",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "2ab75b9c-c7c1-4d7f-a482-d00c7fe4f31c",
+        "locator": "PDF p. 17",
+        "quote": "The crucial advantage of hybrid cosmopsychism is that it accounts for the fact that systems"
+      },
+      {
+        "source": "2ab75b9c-c7c1-4d7f-a482-d00c7fe4f31c",
+        "locator": "PDF p. 18",
+        "quote": "The extra basic laws committed to by the hybrid cosmopsychist bridge the explanatory gap"
+      }
+    ]
+  }
+}

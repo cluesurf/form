@@ -1,0 +1,33 @@
+{
+  "record": "link",
+  "id": "36730ce5-097a-46d9-86e2-9bee19778db7",
+  "from": "85fd3973-291f-4f18-a121-43167b8cce52",
+  "to": "0b1eaba0-86e1-4d02-bcdd-57666e93c42e",
+  "relation": "requires",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "ecf4b155-a02f-440e-87ac-837126c9279c",
+        "locator": "arXiv p. 1",
+        "quote": "Our analysis suggests that no current AI systems are conscious, but also suggests that there are no obvious technical barriers to building AI systems which satisfy these indicators."
+      },
+      {
+        "source": "ecf4b155-a02f-440e-87ac-837126c9279c",
+        "locator": "arXiv p. 1",
+        "quote": "But satisfying the indicators would not mean that such an AI system would definitely be conscious."
+      }
+    ]
+  }
+}

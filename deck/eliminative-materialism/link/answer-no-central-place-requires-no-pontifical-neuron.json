@@ -1,0 +1,28 @@
+{
+  "record": "link",
+  "id": "e3e2ed38-f355-40aa-8066-8d4e51d48c08",
+  "from": "b61a692c-aec7-48e7-b42d-8ac3fa315c0b",
+  "to": "bde88ff2-efa2-4428-8f55-e81ec194a204",
+  "relation": "requires",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "de8573b3-42af-4c30-94e9-01704e16b3ea",
+        "locator": "p. 84",
+        "quote": "it seems highly implausible that there is a pontifical neuron"
+      }
+    ]
+  }
+}

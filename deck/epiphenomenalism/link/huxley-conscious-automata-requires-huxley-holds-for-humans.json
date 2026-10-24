@@ -1,0 +1,33 @@
+{
+  "record": "link",
+  "id": "fa409285-263c-478f-8e82-5ad0f7e63efe",
+  "from": "01238cfe-f2c1-4d13-a01b-108af3f3146f",
+  "to": "c73e5433-90d9-42c1-a772-b429457c3527",
+  "relation": "requires",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "74e58cef-2e29-415f-a138-df37b7515701",
+        "locator": "Collected Essays I, page 244",
+        "quote": "We are conscious automata, endowed with free will in the only intelligible sense of that much-abused term"
+      },
+      {
+        "source": "74e58cef-2e29-415f-a138-df37b7515701",
+        "locator": "Collected Essays I, page 244",
+        "quote": "inasmuch as in many respects we are able to do as we like"
+      }
+    ]
+  }
+}

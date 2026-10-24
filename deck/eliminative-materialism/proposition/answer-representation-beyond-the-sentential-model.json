@@ -1,0 +1,45 @@
+{
+  "record": "proposition",
+  "id": "513c0988-8c83-40b0-9d8e-cbb65d3b86ac",
+  "kind": "philosophical",
+  "epistemic_status": "hypothesized",
+  "title": "Answer: neural representation, not the sentential model of folk psychology",
+  "statements": [
+    {
+      "id": "88f3fa8e-2a59-436a-a90d-e03cdb69d88e",
+      "text": "The view has no general theory of information. It holds that representational states are not to be modeled on propositional attitudes: the lack of another way to characterize them is a limit of folk psychology, not of the creatures that have representations.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "88f3fa8e-2a59-436a-a90d-e03cdb69d88e",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "de8573b3-42af-4c30-94e9-01704e16b3ea",
+        "locator": "p. 88",
+        "quote": "but this should properly be seen as a limitation on folk psychology, rather than a limitation on what kind of creatures have representations"
+      }
+    ]
+  }
+}

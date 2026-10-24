@@ -1,0 +1,33 @@
+{
+  "record": "link",
+  "id": "ea3d8ae9-f98b-408a-9c86-697eb9d7c697",
+  "from": "7321f321-9f5e-46b8-a872-9e558c60065e",
+  "to": "f8ccd994-92d3-4cc1-a373-b087998330c5",
+  "relation": "defines",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "cf32eaac-9643-4139-b931-e40946180581",
+        "locator": "p. 3, n. 1",
+        "quote": "Griffin coins the term \"panexperientialism\""
+      },
+      {
+        "source": "714e4dce-1d09-4ecd-8cdf-db662db525a8",
+        "locator": "section 6, Metaphysics",
+        "quote": "panexperientialism is not the same as panpsychism"
+      }
+    ]
+  }
+}

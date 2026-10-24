@@ -1,0 +1,28 @@
+{
+  "record": "link",
+  "id": "48e4179d-1831-4a0b-808f-e34a474d2344",
+  "from": "a976e0fb-bb79-4f0f-b272-d752b89a8650",
+  "to": "dfa9ac70-257f-4c58-b568-27fccf771015",
+  "relation": "contradicts",
+  "strength": null,
+  "rationale": "If Mary learns old facts under new concepts, there is no nonphysical fact.",
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "fd223d59-c2ad-4121-b90c-cef1a84f517f",
+        "locator": "section 3.1, 'Two Versions of the Argument'",
+        "quote": "they admit that Mary gains new propositional knowledge but deny that she thereby comes to know facts that she did not know before in some other way"
+      }
+    ]
+  }
+}

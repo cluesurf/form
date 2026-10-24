@@ -1,0 +1,28 @@
+{
+  "record": "link",
+  "id": "decaf915-7fd3-4d46-ab17-9d8205efe994",
+  "from": "e8dbdebd-02f1-4d16-b66e-12443e8bf2c8",
+  "to": "4dadbc85-bea2-4ac8-a304-591700327a1f",
+  "relation": "supports",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "de8573b3-42af-4c30-94e9-01704e16b3ea",
+        "locator": "p. 82",
+        "quote": "puts paid to the idea that perceptual judgments require consciously available perceptions"
+      }
+    ]
+  }
+}

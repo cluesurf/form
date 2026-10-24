@@ -1,0 +1,44 @@
+{
+  "record": "observation",
+  "id": "99e27295-0af1-4b00-b939-8c57cfcae460",
+  "kind": "statistical_result",
+  "epistemic_status": "observed",
+  "description": "An online survey in five languages, January to March 2020, collected 3627 responses from meditators, of which 1403 were usable. Exploratory and confirmatory factor analysis of 92 items gave twelve factors explaining 44 percent of the variance, among them \"Wakeful Presence\", \"Luminosity\", \"Emptiness and Non-egoic Self-awareness\" and \"Witness Consciousness\". The factor structure fit the data moderately well.",
+  "method": "survey",
+  "status": "reported",
+  "source": "6568d1af-9cad-4981-a930-3ba7acdd6142",
+  "procedure": null,
+  "variable": null,
+  "value": null,
+  "unit": null,
+  "uncertainty": null,
+  "sample_size": 1403,
+  "replication_count": null,
+  "quality": null,
+  "limitations": "Self-selected online sample, mostly Vipassana and Zen practitioners and mostly German speakers. Retrospective self-report. Moderate model fit.",
+  "conflicts_of_interest": null,
+  "observed_at": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "6568d1af-9cad-4981-a930-3ba7acdd6142",
+        "locator": "p. 1",
+        "quote": "Out of 3627 submitted responses, 1403 were usable."
+      },
+      {
+        "source": "6568d1af-9cad-4981-a930-3ba7acdd6142",
+        "locator": "p. 1",
+        "quote": "A solution with 12 factors explaining 44% of the total variance was deemed optimal"
+      }
+    ]
+  }
+}

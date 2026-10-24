@@ -1,0 +1,50 @@
+{
+  "record": "proposition",
+  "id": "b15e76c5-6d8a-435b-a0da-2ac71788aa5b",
+  "kind": "definitional",
+  "epistemic_status": "designed",
+  "title": "Computational functionalism",
+  "statements": [
+    {
+      "id": "2aa7e695-a307-477a-a32d-f13943a21f5a",
+      "text": "Functionalism about consciousness says that a certain functional organization, a range of states in certain causal relations to each other and the environment, is necessary and sufficient for a system to be conscious. Computational functionalism adds that the relevant organization is computational: it is sufficient for a state to be conscious that it plays the right role in implementing the right kind of algorithm.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "2aa7e695-a307-477a-a32d-f13943a21f5a",
+  "status": "active",
+  "voice": "framework",
+  "defines": "computational functionalism",
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "ecf4b155-a02f-440e-87ac-837126c9279c",
+        "locator": "arXiv p. 13",
+        "quote": "Computational functionalism is a version of functionalism that further claims that the relevant functional organisation is computational."
+      },
+      {
+        "source": "ecf4b155-a02f-440e-87ac-837126c9279c",
+        "locator": "arXiv p. 13",
+        "quote": "computational functionalism claims that it is sufficient for a state to be conscious that it plays a role of the right kind in the implementation of the right kind of algorithm"
+      }
+    ]
+  }
+}

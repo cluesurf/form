@@ -1,0 +1,38 @@
+{
+  "record": "link",
+  "id": "685bca27-3091-4943-9125-4ead5a5c0e0a",
+  "from": "e9aac385-ef6d-4820-85dc-bed4ed39c029",
+  "to": "4a5e34f9-b781-46dd-a95b-4289df85454d",
+  "relation": "requires",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "9a9645ce-d028-451e-8752-1237c4f2f58b",
+        "locator": "eprint p. 8",
+        "quote": "It follows that my body is only a contingent part of me."
+      },
+      {
+        "source": "9a9645ce-d028-451e-8752-1237c4f2f58b",
+        "locator": "eprint p. 12",
+        "quote": "A body is a physical substance which is mine if and only if: (1) I am able to move it as a basic act"
+      },
+      {
+        "source": "9a9645ce-d028-451e-8752-1237c4f2f58b",
+        "locator": "eprint p. 8",
+        "quote": "Souls can exist and function only when connected to a functioning brain."
+      }
+    ]
+  }
+}

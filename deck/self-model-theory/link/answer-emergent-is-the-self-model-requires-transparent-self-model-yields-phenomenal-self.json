@@ -1,0 +1,33 @@
+{
+  "record": "link",
+  "id": "c2666530-341f-4d23-9031-6e321f8a14a7",
+  "from": "4c0269ae-c023-490b-8926-b2ce8e30cb23",
+  "to": "801589bb-4099-4078-836f-c095bb48fa9f",
+  "relation": "requires",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "bcdebbd0-38c1-4227-a43b-6a7a59f74207",
+        "locator": "p. 4",
+        "quote": "the addition of a transparent self-model will by necessity lead to the emergence of a phenomenal self"
+      },
+      {
+        "source": "bcdebbd0-38c1-4227-a43b-6a7a59f74207",
+        "locator": "p. 4",
+        "quote": "Objectivity emerges together with subjectivity."
+      }
+    ]
+  }
+}

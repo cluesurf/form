@@ -1,0 +1,28 @@
+{
+  "record": "link",
+  "id": "07420ae2-7f8a-4d8e-b41d-846a12a328f8",
+  "from": "9b4c128b-7115-4733-85df-a38bb8768a99",
+  "to": "a6bb55b3-9a94-470e-a73c-2971e0e34ad9",
+  "relation": "requires",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "27443c8b-98a2-4cb5-b376-f6a0a8842762",
+        "locator": "abstract",
+        "quote": "I propose we get on with the task of seeing how far we get when we address neurobiologically the problems of mental phenomena"
+      }
+    ]
+  }
+}

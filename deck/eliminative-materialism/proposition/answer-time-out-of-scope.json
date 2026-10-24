@@ -1,0 +1,45 @@
+{
+  "record": "proposition",
+  "id": "381de714-9b59-4ee5-beae-1f8656891de8",
+  "kind": "philosophical",
+  "epistemic_status": "hypothesized",
+  "title": "Answer: no position on time",
+  "statements": [
+    {
+      "id": "5a20081e-b124-4473-9f3a-370ea8b9d4c8",
+      "text": "The view takes no position on what time is. Its temporal claims concern research questions, such as what happens in the brain in REM and non-REM sleep and in what order the events of attention occur.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "5a20081e-b124-4473-9f3a-370ea8b9d4c8",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "de8573b3-42af-4c30-94e9-01704e16b3ea",
+        "locator": "p. 93",
+        "quote": "to find out what goes on in the brain during REM sleep and during non-REM sleep"
+      }
+    ]
+  }
+}

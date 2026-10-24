@@ -1,0 +1,50 @@
+{
+  "record": "proposition",
+  "id": "e7064c06-4759-4b03-95a3-59fa476850da",
+  "kind": "philosophical",
+  "epistemic_status": "inferred",
+  "title": "Without a seen necessity linking neurons to qualia, qualia stay explanatorily idle",
+  "statements": [
+    {
+      "id": "c61d66d1-b585-4d3b-ab6a-f156c4f36290",
+      "text": "No one can see why a pattern of neural activity should be accompanied by pain, or by any phenomenal quality. That is no proof that no such necessity holds, but without insight into it, a sufficient explanation of behavior uses only neural properties, and the connection to qualia explains nothing about how qualities make a difference. Because this gap has not closed for qualia, the traditional arguments about epiphenomenalism remain relevant.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "c61d66d1-b585-4d3b-ab6a-f156c4f36290",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "542e0d13-746c-470a-a9b7-86f1d044600d",
+        "locator": "section 3.2, 'Responses to Exclusion Arguments'",
+        "quote": "Inability to see any such necessity is, of course, not a proof that such a necessity does not obtain."
+      },
+      {
+        "source": "542e0d13-746c-470a-a9b7-86f1d044600d",
+        "locator": "section 3.2, 'Responses to Exclusion Arguments'",
+        "quote": "Because this difficulty has not been removed in the case of qualia, the success or failure of the previously discussed Traditional Arguments remains relevant to contemporary thinking about epiphenomenalism."
+      }
+    ]
+  }
+}

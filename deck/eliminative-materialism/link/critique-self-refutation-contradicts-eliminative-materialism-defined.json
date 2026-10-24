@@ -1,0 +1,33 @@
+{
+  "record": "link",
+  "id": "7174ebb0-df72-4a0d-965b-788e2f1dc273",
+  "from": "4c2e7c9b-2abb-4397-8ef5-48623289294c",
+  "to": "e480c33b-cd3d-4662-ac02-335c4fbba66a",
+  "relation": "contradicts",
+  "strength": null,
+  "rationale": "If asserting the view requires believing it, there is at least one belief.",
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "4881b7b9-a47f-492c-80a0-18998a6e239d",
+        "locator": "section 4.1, 'The Self-Refutation Objection'",
+        "quote": "But if the eliminativist has such a belief, then there are beliefs and eliminativism is thereby proven false."
+      },
+      {
+        "source": "4881b7b9-a47f-492c-80a0-18998a6e239d",
+        "locator": "section 4.1, 'The Self-Refutation Objection'",
+        "quote": "there are no truth conditions and yet certain sentences (or beliefs) about content are false"
+      }
+    ]
+  }
+}

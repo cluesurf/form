@@ -1,0 +1,50 @@
+{
+  "record": "proposition",
+  "id": "af27e26c-efdd-4556-86d7-cf326a9e858e",
+  "kind": "philosophical",
+  "epistemic_status": "hypothesized",
+  "title": "Consciousness+ subsumes consciousness as one aspect",
+  "statements": [
+    {
+      "id": "e7b100be-6a4f-4d7e-92e5-1e7a6fc999e0",
+      "text": "Subjects have causal powers and spatial extension that mere consciousness does not seem to supply. So there is likely a more expansive property, consciousness+, that subsumes consciousness as one aspect, enfolding conscious and non-conscious aspects in one property. Whether its non-phenomenal aspects can ever be grasped is doubtful.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "e7b100be-6a4f-4d7e-92e5-1e7a6fc999e0",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "6801f71f-b984-44ec-8535-cf2750b86ba3",
+        "locator": "p. 12",
+        "quote": "there is a more expansive property, call it consciousness+, that subsumes consciousness as one aspect"
+      },
+      {
+        "source": "6801f71f-b984-44ec-8535-cf2750b86ba3",
+        "locator": "p. 13",
+        "quote": "Will we ever come to grasp the non-phenomenal aspects of consciousness+? I am cautiously pessimistic."
+      }
+    ]
+  }
+}

@@ -1,0 +1,87 @@
+{
+  "format": "form.surf/1",
+  "id": "3a9e3f30-9623-46f8-a184-20fbbbfd7238",
+  "name": "interactionist-dualism",
+  "title": "Interactionist Dualism",
+  "role": "model",
+  "summary": "Interactionist dualism, as Karl Popper and John Eccles defended it in The Self and Its Brain (1977) and Richard Swinburne restated it: the mind is not the brain, and the two act on each other. Eccles located the interaction in the cortex, where mental units called psychons act on bundles of dendrites called dendrons by raising the quantum probability of transmitter release.",
+  "framework": {
+    "originators": [
+      "Karl R. Popper",
+      "John C. Eccles",
+      "Richard Swinburne"
+    ],
+    "aliases": [
+      "dualist interactionism",
+      "substance dualism",
+      "the dendron and psychon hypothesis",
+      "the Beck-Eccles model",
+      "World 2",
+      "Cartesian interactionism"
+    ],
+    "homepage": null,
+    "publication": {
+      "venue": [
+        "peer_reviewed",
+        "book"
+      ],
+      "peer_review": "yes",
+      "replication": "none"
+    }
+  },
+  "community_written": true,
+  "curators": [
+    {
+      "name": "Lance Pollard",
+      "github": "lancejpollard"
+    }
+  ],
+  "license": "CC-BY-4.0",
+  "atlas": {
+    "scope": [
+      "2422f823-776d-41bf-b984-29fae488a1c1",
+      "e01c1aba-2348-44e1-8cc2-f46afa50f5bf",
+      "74335e2f-0c49-46ce-b870-c933198c319c",
+      "1a3e40da-b949-4988-8c75-13c937879e0f",
+      "4a5e34f9-b781-46dd-a95b-4289df85454d"
+    ],
+    "limits": [
+      "6f00ceb6-393c-4d14-b72c-0a1e61fc56b2",
+      "cde85451-1d30-43bd-a6a0-c4ed0769858c",
+      "b83da8b7-fdc3-4bec-bc40-264c4ae42647"
+    ],
+    "issues": [
+      "e0d214f8-f13e-44c3-b375-5aac3ab6f66d",
+      "b67b5a6f-831d-4c12-a5d5-98810eba3a32",
+      "e7e323c8-f92d-4e19-a974-d8fcccdeb64c",
+      "a0e05cce-0f4e-4d8d-b71b-6167ab188e2e",
+      "fb271f82-1b81-4d10-ba13-6849d3e139b3",
+      "fb5ed812-f2bb-4a47-ada2-7a92d0687b40",
+      "dbe00c7d-4707-4cff-9c14-0051c85e07dc"
+    ],
+    "dead_ends": []
+  },
+  "draws_from": [],
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "4bffe5f1-a379-4b92-b51d-3c5ef3046009",
+        "locator": "section 3.3, 'Interactionism'",
+        "quote": "Interactionism is the view that mind and body – or mental events and physical events – causally influence each other."
+      },
+      {
+        "source": "f1ad88c5-37ee-4cc6-8c6a-d2258c7d7846",
+        "locator": null,
+        "quote": null
+      }
+    ]
+  }
+}

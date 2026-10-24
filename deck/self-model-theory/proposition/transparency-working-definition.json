@@ -1,0 +1,50 @@
+{
+  "record": "proposition",
+  "id": "4af869ec-83ef-4955-a37e-14f1aeea12d9",
+  "kind": "definitional",
+  "epistemic_status": "designed",
+  "title": "Transparency holds when earlier processing stages are unavailable to attention",
+  "statements": [
+    {
+      "id": "39ae98d1-4378-4513-9f88-59ec42c3b98a",
+      "text": "The working definition: transparency holds if earlier processing stages are unavailable for attentional processing. Unconscious representations are neither transparent nor opaque. The degree of transparency of a phenomenal state is inversely proportional to the attentional availability of the earlier stages of its construction.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "39ae98d1-4378-4513-9f88-59ec42c3b98a",
+  "status": "active",
+  "voice": "framework",
+  "defines": "transparency, working definition",
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "bcdebbd0-38c1-4227-a43b-6a7a59f74207",
+        "locator": "p. 11",
+        "quote": "Transparency holds if earlier processing stages are unavailable for attentional processing."
+      },
+      {
+        "source": "bcdebbd0-38c1-4227-a43b-6a7a59f74207",
+        "locator": "p. 11",
+        "quote": "the degree of phenomenal transparency is inversely proportional to the introspective degree of attentional availability of earlier processing stages"
+      }
+    ]
+  }
+}

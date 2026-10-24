@@ -1,0 +1,55 @@
+{
+  "record": "proposition",
+  "id": "cf9b402e-1981-4515-bac2-d174696bf16f",
+  "kind": "philosophical",
+  "epistemic_status": "hypothesized",
+  "title": "No such things as selves exist in the world",
+  "statements": [
+    {
+      "id": "1c1a6d30-d4d5-4ed4-9d91-627c7e71bb9d",
+      "text": "The central ontological claim: no such things as selves exist. For scientific and philosophical purposes the self as a theoretical entity can be eliminated. What has been called the self is not a substance, an unchangeable essence or a thing, but a special kind of representational content, the content of a self-model the system cannot recognize as a model.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "1c1a6d30-d4d5-4ed4-9d91-627c7e71bb9d",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "bcdebbd0-38c1-4227-a43b-6a7a59f74207",
+        "locator": "p. 3",
+        "quote": "No such things as selves exist in the world."
+      },
+      {
+        "source": "bcdebbd0-38c1-4227-a43b-6a7a59f74207",
+        "locator": "p. 3",
+        "quote": "is not a substance, an unchangeable essence or a thing"
+      },
+      {
+        "source": "bcdebbd0-38c1-4227-a43b-6a7a59f74207",
+        "locator": "p. 24",
+        "quote": "it has a straightforward ontological interpretation: no such things as selves exist in the world"
+      }
+    ]
+  }
+}

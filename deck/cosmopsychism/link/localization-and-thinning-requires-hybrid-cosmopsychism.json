@@ -1,0 +1,33 @@
+{
+  "record": "link",
+  "id": "e5161ee4-7143-4cea-aca5-abcfc33c1bb0",
+  "from": "23cbf73d-a815-4820-b2cd-6633814a97f3",
+  "to": "d77597ee-8c37-4e2d-ab00-557aff092ab5",
+  "relation": "requires",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "2ab75b9c-c7c1-4d7f-a482-d00c7fe4f31c",
+        "locator": "PDF p. 21",
+        "quote": "This is an empirical question, to be settled by our best theory concerning the physical correlates of local consciousness."
+      },
+      {
+        "source": "2ab75b9c-c7c1-4d7f-a482-d00c7fe4f31c",
+        "locator": "PDF p. 28",
+        "quote": "P is a local subject iff (P has"
+      }
+    ]
+  }
+}

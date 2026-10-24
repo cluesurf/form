@@ -1,0 +1,50 @@
+{
+  "record": "proposition",
+  "id": "f2a880e4-1995-4b18-912d-90daaf6dab4e",
+  "kind": "definitional",
+  "epistemic_status": "designed",
+  "title": "Markov blanket",
+  "statements": [
+    {
+      "id": "b2815e82-089c-42a9-b2a8-b40371421163",
+      "text": "A Markov blanket is a statistical partition of internal and external states that hides the external states from the internal ones. It consists of sensory states and active states that influence each other in a circle: external states cause sensory states, which influence internal states, and internal states cause active states, which influence external states.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "b2815e82-089c-42a9-b2a8-b40371421163",
+  "status": "active",
+  "voice": "framework",
+  "defines": "markov blanket",
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "8834b927-27b0-41e8-8c3f-c15dbf813c57",
+        "locator": "p. 9",
+        "quote": "A \"Markov blanket\" induces a statistical partitioning of internal and external states, and hides the latter from the former."
+      },
+      {
+        "source": "224c4197-d629-416a-b17f-4f96e49df600",
+        "locator": "p. 4",
+        "quote": "The Markov blanket itself consists in two sets (‘sensory’ and ‘active’ states) which influence each other in a circular fashion"
+      }
+    ]
+  }
+}

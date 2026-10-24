@@ -1,0 +1,50 @@
+{
+  "record": "proposition",
+  "id": "950c6c16-0b63-4490-af0a-1a894f34711c",
+  "kind": "philosophical",
+  "epistemic_status": "hypothesized",
+  "title": "Answer: full-body illusions, dream reports, meditation surveys and neural correlates",
+  "statements": [
+    {
+      "id": "a23bc390-fc9f-44dc-8246-b552ee88d8ca",
+      "text": "The theory is checked by experimentally controlled full-body illusions, by statistical re-evaluation of the thousands of dream reports already gathered, by sleep-lab studies of lucidity, by psychometric questionnaires on pure awareness in meditators, and by computational and neuroscientific study of minimal phenomenal experience.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "a23bc390-fc9f-44dc-8246-b552ee88d8ca",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "1bc792ee-c3ee-4f0c-93b8-a818a2897c06",
+        "locator": "p. 7",
+        "quote": "Thousands of dream reports gathered by scientific researchers are"
+      },
+      {
+        "source": "1e6c56f2-322f-47dd-a519-b66dc9982794",
+        "locator": "p. 39",
+        "quote": "MPE needs investigating using psychometric, computational, and neuroscientific methods"
+      }
+    ]
+  }
+}

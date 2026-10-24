@@ -1,0 +1,45 @@
+{
+  "record": "proposition",
+  "id": "71479d52-849a-4364-be89-ec9c39ccb78a",
+  "kind": "philosophical",
+  "epistemic_status": "inferred",
+  "title": "Starting from a structured whole avoids structural mismatch",
+  "statements": [
+    {
+      "id": "d116ed44-fb68-4074-9ada-7b8d82831c32",
+      "text": "A micropsychist version of the hybrid view would build experience from the intrinsic properties of particles, which leaves out the relations between them that the structure of experience reflects. Hybrid cosmopsychism starts from a unified, richly structured cosmic experience that includes those relations, and thinning only extracts a simpler structure from it.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "d116ed44-fb68-4074-9ada-7b8d82831c32",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "2ab75b9c-c7c1-4d7f-a482-d00c7fe4f31c",
+        "locator": "PDF p. 31",
+        "quote": "Hybrid cosmopsychism, in contrast avoids the structural mismatch problem by starting not"
+      }
+    ]
+  }
+}

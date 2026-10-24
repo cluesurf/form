@@ -1,0 +1,28 @@
+{
+  "record": "link",
+  "id": "c4971b02-0201-4c98-8cbf-aae7a3a72190",
+  "from": "8b4db9d5-04b3-4b83-807d-872553b55a08",
+  "to": "43fc6225-2526-4555-8128-80b38e2fbaf4",
+  "relation": "answers",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "74e58cef-2e29-415f-a138-df37b7515701",
+        "locator": "Collected Essays I, page 244",
+        "quote": "We are conscious automata, endowed with free will in the only intelligible sense of that much-abused term"
+      }
+    ]
+  }
+}

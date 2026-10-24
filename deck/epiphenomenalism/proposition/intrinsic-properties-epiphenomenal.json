@@ -1,0 +1,50 @@
+{
+  "record": "proposition",
+  "id": "956f1eed-d9f5-4bdc-b960-6a0ab59111af",
+  "kind": "philosophical",
+  "epistemic_status": "inferred",
+  "title": "The same argument makes the intrinsic properties of matter epiphenomenal",
+  "statements": [
+    {
+      "id": "069df67b-489b-4ad4-bd43-40e181469654",
+      "text": "Denis Robinson extends Lewis's argument: two possible intrinsic properties of a quark fit all the lawlike relations physics describes, so which one is actual makes no physical difference, and the intrinsic properties of the fundamental objects of physics must be epiphenomenal. This puts in doubt whether Russellian monism, which makes phenomenal properties intrinsic properties of matter, gives sensations any more causal role than epiphenomenalism does.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "069df67b-489b-4ad4-bd43-40e181469654",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "542e0d13-746c-470a-a9b7-86f1d044600d",
+        "locator": "section 3.4, 'Epiphenomenalism and Intrinsic Properties'",
+        "quote": "The generalization of this point is that the intrinsic properties of the fundamental objects of physics must be epiphenomenal."
+      },
+      {
+        "source": "542e0d13-746c-470a-a9b7-86f1d044600d",
+        "locator": "section 3.4, 'Epiphenomenalism and Intrinsic Properties'",
+        "quote": "It is thus not clear that Russellian monism gives any more causal role to our sensations than does epiphenomenalism"
+      }
+    ]
+  }
+}

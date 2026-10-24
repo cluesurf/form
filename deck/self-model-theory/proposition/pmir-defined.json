@@ -1,0 +1,50 @@
+{
+  "record": "proposition",
+  "id": "ea888beb-7ef6-458a-b775-73e51d60d352",
+  "kind": "definitional",
+  "epistemic_status": "designed",
+  "title": "The phenomenal model of the intentionality relation",
+  "statements": [
+    {
+      "id": "931a99f3-84a6-4a34-9c4b-2172609194dc",
+      "text": "The phenomenal model of the intentionality relation (PMIR) is a conscious model whose content is an ongoing subject-object relation: the system as a whole, transparently represented to itself, directed at an object-component. It creates the experience of a self in the act of perceiving, knowing or willing, and is what makes consciousness appear from a first-person perspective.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "931a99f3-84a6-4a34-9c4b-2172609194dc",
+  "status": "active",
+  "voice": "framework",
+  "defines": "phenomenal model of the intentionality relation",
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "bcdebbd0-38c1-4227-a43b-6a7a59f74207",
+        "locator": "p. 27",
+        "quote": "its content is an ongoing, episodic subject–object-relation"
+      },
+      {
+        "source": "bcdebbd0-38c1-4227-a43b-6a7a59f74207",
+        "locator": "p. 5",
+        "quote": "continuously co-representing the representational relation itself"
+      }
+    ]
+  }
+}

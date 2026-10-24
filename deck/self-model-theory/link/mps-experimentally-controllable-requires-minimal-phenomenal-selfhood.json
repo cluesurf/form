@@ -1,0 +1,33 @@
+{
+  "record": "link",
+  "id": "e594d090-1ca2-42ea-bb65-47c25a7de37c",
+  "from": "2cb58539-ff22-4aae-bdb7-47b402caabf8",
+  "to": "3a70ef4e-15a4-486e-bfd6-9c1c67277929",
+  "relation": "requires",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "1bc792ee-c3ee-4f0c-93b8-a818a2897c06",
+        "locator": "p. 11",
+        "quote": "MPS can be experimentally controlled"
+      },
+      {
+        "source": "f901177d-d5a1-49ec-a74e-2adc81f988ea",
+        "locator": "p. 5",
+        "quote": "the phenomenal experience of ownership can be manipulated merely by passive exposure to correlations among self-related signals"
+      }
+    ]
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "record": "proposition",
+  "id": "d3983bab-ee87-4ee6-840c-e811689413d3",
+  "kind": "definitional",
+  "epistemic_status": "designed",
+  "title": "Eliminative, or ontologically radical, theory change",
+  "statements": [
+    {
+      "id": "a33ead08-2958-4b34-bf05-b61796d959fe",
+      "text": "In ontologically conservative theory change, the posits of the old theory are relocated in the new one, as light was identified with electromagnetic radiation. In ontologically radical, eliminative change, the old posit finds no home: nothing in modern theories of schizophrenia or Tourette syndrome can be identified with demons, so demons were dropped as an empty notion. Eliminativists expect the second fate for beliefs.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "a33ead08-2958-4b34-bf05-b61796d959fe",
+  "status": "active",
+  "voice": "framework",
+  "defines": "eliminative theory change",
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "4881b7b9-a47f-492c-80a0-18998a6e239d",
+        "locator": "section 2.2, 'Eliminative Theory Change'",
+        "quote": "Ontologically conservative theory change occurs when the entities and posits of the replaced theory are relocated"
+      },
+      {
+        "source": "4881b7b9-a47f-492c-80a0-18998a6e239d",
+        "locator": "section 2.2, 'Eliminative Theory Change'",
+        "quote": "We dropped demons from our current ontology, and came to realize that the notion is empty"
+      }
+    ]
+  }
+}

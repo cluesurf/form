@@ -1,0 +1,50 @@
+{
+  "record": "proposition",
+  "id": "e53115db-e496-4da3-beb0-dde11520a7d4",
+  "kind": "philosophical",
+  "epistemic_status": "hypothesized",
+  "title": "Answer: consciousness is the subjective form of feeling what is against what might be",
+  "statements": [
+    {
+      "id": "c71493e0-1b16-4f10-a122-f2cf295adba5",
+      "text": "Consciousness is a subjective form, the way some feelings are felt, that arises when an occasion feels the contrast between fact and a proposition about what might be. It is a late and flickering form of experience, not the base of experience.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "c71493e0-1b16-4f10-a122-f2cf295adba5",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "78f94ddb-c6f8-4a5c-86bb-ea574d7a0c37",
+        "locator": "p. 407",
+        "quote": "The subjective form of the feeling of this contrast is consciousness."
+      },
+      {
+        "source": "78f94ddb-c6f8-4a5c-86bb-ea574d7a0c37",
+        "locator": "p. 408",
+        "quote": "consciousness is the crown of experience, only occasionally attained, not its necessary base"
+      }
+    ]
+  }
+}

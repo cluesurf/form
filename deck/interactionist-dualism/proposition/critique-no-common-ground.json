@@ -1,0 +1,50 @@
+{
+  "record": "proposition",
+  "id": "e0d214f8-f13e-44c3-b375-5aac3ab6f66d",
+  "kind": "philosophical",
+  "epistemic_status": "hypothesized",
+  "title": "Critique: mind and body are too different in kind to interact",
+  "statements": [
+    {
+      "id": "0988e45a-29b4-4523-bec1-ee8bb90a72a8",
+      "text": "The simplest objection is that mind and body, being of radically different kinds, lack the common ground needed for interaction. Gassendi and Princess Elisabeth already asked how a nonspatial soul could act on an extended body.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "0988e45a-29b4-4523-bec1-ee8bb90a72a8",
+  "status": "active",
+  "voice": "critique",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "4bffe5f1-a379-4b92-b51d-3c5ef3046009",
+        "locator": "section 3.3, 'Interactionism'",
+        "quote": "they lack that communality necessary for interaction"
+      },
+      {
+        "source": "ca8520b1-c069-4551-b4a7-3d560c5ff593",
+        "locator": "p. 96",
+        "quote": "expressed difficulty seeing how a non-spatial soul could interact with a body that has the property of extension"
+      }
+    ]
+  }
+}

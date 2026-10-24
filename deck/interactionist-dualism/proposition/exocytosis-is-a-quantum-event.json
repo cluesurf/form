@@ -1,0 +1,45 @@
+{
+  "record": "proposition",
+  "id": "95269e8e-d5a7-4ec8-b8f2-314364d1a69c",
+  "kind": "empirical",
+  "epistemic_status": "hypothesized",
+  "title": "Transmitter release is a quantum tunneling event with a probability well below one",
+  "statements": [
+    {
+      "id": "bf0939af-ee47-4b80-8bad-9c8004068f56",
+      "text": "Each incoming nerve impulse causes the release of transmitter molecules by exocytosis. Since exocytosis is a quantal phenomenon of the presynaptic vesicular grid with a probability much less than one, Beck and Eccles model it quantum mechanically, as a tunneling process in the trigger mechanism.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "bf0939af-ee47-4b80-8bad-9c8004068f56",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "17bca706-4272-493e-8c39-13bdbc8d30f2",
+        "locator": "abstract",
+        "quote": "Since exocytosis is a quantal phenomenon of the presynaptic vesicular grid with a probability much less than 1, we present a quantum mechanical model for it based on a tunneling process of the trigger mechanism."
+      }
+    ]
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "record": "link",
+  "id": "28a455dd-c8d5-464b-a789-8cfa6ed8ffc3",
+  "from": "ca1e73a3-4c6e-4b84-b203-09df2edf5a1d",
+  "to": "43450e03-2b8d-49de-b391-07cd2b9b9e74",
+  "relation": "requires",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "1bc792ee-c3ee-4f0c-93b8-a818a2897c06",
+        "locator": "p. 8",
+        "quote": "We know that this property is selectively missing during non-lucid dreaming"
+      },
+      {
+        "source": "1bc792ee-c3ee-4f0c-93b8-a818a2897c06",
+        "locator": "p. 8",
+        "quote": "having an attentional 1PP can be fruitfully associated with secondorder statistics or precision optimization"
+      }
+    ]
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "record": "link",
+  "id": "07b01d62-5845-40e2-aa8a-2e897ed2bc98",
+  "from": "c34e8556-e18d-43ec-80bf-110931e1b282",
+  "to": "30228cc1-69b0-4582-b35d-9eb02aae8a91",
+  "relation": "requires",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "15531e9b-ad0a-46bd-893e-8b37e693007c",
+        "locator": "p. 398",
+        "quote": "local ZPF information state that exhibits higher information content compared to"
+      },
+      {
+        "source": "15531e9b-ad0a-46bd-893e-8b37e693007c",
+        "locator": "p. 399",
+        "quote": "every ZPF information state is associated with a conscious"
+      }
+    ]
+  }
+}

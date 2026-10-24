@@ -1,0 +1,33 @@
+{
+  "record": "link",
+  "id": "c41b48e6-5266-403f-b2af-6212cce0d5bd",
+  "from": "0ed39586-2940-4e3c-ac83-47a232271365",
+  "to": "c99b5b2f-d877-4eb1-adea-90795d5ff806",
+  "relation": "requires",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "48037213-6e94-43ec-88c2-b001c5f953cf",
+        "locator": "PDF p. 16",
+        "quote": "the one and only fundamental individual is the conscious universe"
+      },
+      {
+        "source": "2ab75b9c-c7c1-4d7f-a482-d00c7fe4f31c",
+        "locator": "PDF p. 13",
+        "quote": "very complex forms of consciousness are the essential nature of the universe-wide fields born by the cosmos"
+      }
+    ]
+  }
+}

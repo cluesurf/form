@@ -1,0 +1,28 @@
+{
+  "record": "link",
+  "id": "e3671d6f-541a-401a-a029-48b1940958ec",
+  "from": "dfa2d927-bdf5-4ea3-8408-7691157565f7",
+  "to": "0d5b8b75-6e9c-4c5a-b9ec-c6269ec5c9b3",
+  "relation": "weakens",
+  "strength": null,
+  "rationale": "The difference between acting and being moved survives as a difference between brain states.",
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "542e0d13-746c-470a-a9b7-86f1d044600d",
+        "locator": "section 2.1, 'Obvious Absurdity'",
+        "quote": "there would be different brain states corresponding to the difference between cases of moving our bodies and cases of having our body parts moved by something else"
+      }
+    ]
+  }
+}

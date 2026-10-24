@@ -1,0 +1,28 @@
+{
+  "record": "link",
+  "id": "c4dcaf11-8de8-43f8-af4f-cf96a25a1cd8",
+  "from": "a4e161eb-ae42-4274-af38-8d21d825c23e",
+  "to": "2422f823-776d-41bf-b984-29fae488a1c1",
+  "relation": "requires",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "9a9645ce-d028-451e-8752-1237c4f2f58b",
+        "locator": "eprint p. 2",
+        "quote": "Our mental lives consist of a succession of pure mental events."
+      }
+    ]
+  }
+}

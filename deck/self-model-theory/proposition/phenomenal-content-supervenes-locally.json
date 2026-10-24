@@ -1,0 +1,50 @@
+{
+  "record": "proposition",
+  "id": "16283faf-c104-4a1d-8675-e74b9d2f40e7",
+  "kind": "philosophical",
+  "epistemic_status": "hypothesized",
+  "title": "Phenomenal content is real and supervenes locally on the brain",
+  "statements": [
+    {
+      "id": "8fe3cb52-47be-4796-838a-b8653fcead01",
+      "text": "Mental content has two kinds: intentional content and the locally supervening phenomenal content of a representation. The phenomenal content of bodily self-representation is entirely determined by internal properties of the brain, so a brain in a vat could have the experience of holding a paper in its hands.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "8fe3cb52-47be-4796-838a-b8653fcead01",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "bcdebbd0-38c1-4227-a43b-6a7a59f74207",
+        "locator": "p. 24",
+        "quote": "The phenomenal content of your bodily self-representation is entirely determined by internal properties of your brain."
+      },
+      {
+        "source": "bcdebbd0-38c1-4227-a43b-6a7a59f74207",
+        "locator": "p. 17",
+        "quote": "Consciousness not only locally supervenes, in the target domain it locally supervenes on parts of single organisms."
+      }
+    ]
+  }
+}

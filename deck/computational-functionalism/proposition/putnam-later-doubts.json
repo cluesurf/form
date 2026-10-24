@@ -1,0 +1,45 @@
+{
+  "record": "proposition",
+  "id": "85584d43-1e5d-4343-a6a7-fbf88b4ff1be",
+  "kind": "philosophical",
+  "epistemic_status": "hypothesized",
+  "title": "Putnam later came to doubt machine functionalism",
+  "statements": [
+    {
+      "id": "bde51dff-3f9e-4194-a075-b58dce913b5b",
+      "text": "Putnam's early functionalist theories answered the difficulties of behaviorism and endorsed the computational theories of mind then rising. In 1988 Putnam himself raised doubts about machine functionalism, and Chalmers answered them in 1996.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "bde51dff-3f9e-4194-a075-b58dce913b5b",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "40a4280a-4b0f-44b2-b9c6-95fce46b932d",
+        "locator": "section 3.1, 'Machine State Functionalism'",
+        "quote": "for subsequent doubts about machine functionalism"
+      }
+    ]
+  }
+}

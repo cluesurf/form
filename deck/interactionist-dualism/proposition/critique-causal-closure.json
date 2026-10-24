@@ -1,0 +1,50 @@
+{
+  "record": "proposition",
+  "id": "e7e323c8-f92d-4e19-a974-d8fcccdeb64c",
+  "kind": "philosophical",
+  "epistemic_status": "hypothesized",
+  "title": "Critique: a closed physical world leaves nothing for a mental cause to contribute",
+  "statements": [
+    {
+      "id": "eec3bf44-2cc9-47fb-9e30-e9d6f5ba8d8d",
+      "text": "For a mental event to cause a physical one it must contribute some feature not already fixed by a physical cause. If the physical world is closed, the physical cause contributes every feature of the effect, so interactionism violates physical closure after all, overdetermination included. Papineau argues that the empirical evidence for closure was clear cut by the 1960s.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "eec3bf44-2cc9-47fb-9e30-e9d6f5ba8d8d",
+  "status": "active",
+  "voice": "critique",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "4bffe5f1-a379-4b92-b51d-3c5ef3046009",
+        "locator": "section 3.3, 'Interactionism'",
+        "quote": "Hence interactionism violates physical closure after all."
+      },
+      {
+        "source": "4bffe5f1-a379-4b92-b51d-3c5ef3046009",
+        "locator": "section 3.3, 'Interactionism'",
+        "quote": "Papineau (2001) argues that such evidence was already clear cut in the 1960s."
+      }
+    ]
+  }
+}

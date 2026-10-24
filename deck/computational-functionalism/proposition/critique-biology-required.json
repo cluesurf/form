@@ -1,0 +1,50 @@
+{
+  "record": "proposition",
+  "id": "e136045e-d186-4a92-a89a-9677cf047c49",
+  "kind": "philosophical",
+  "epistemic_status": "hypothesized",
+  "title": "Critique: consciousness requires carbon biology or electrochemical processing",
+  "statements": [
+    {
+      "id": "0e9089b5-c8c4-41a9-9175-f8cc7a7dacbc",
+      "text": "On one view consciousness requires carbon-based biology, which language models lack. On a related view, held by Ned Block, it requires a sort of electrochemical processing that silicon systems lack. Either would rule out all silicon-based AI consciousness, and a survey suggests a collective credence of at least one in three that biology is required.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "0e9089b5-c8c4-41a9-9175-f8cc7a7dacbc",
+  "status": "active",
+  "voice": "critique",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "741e8f86-4660-494d-8dd8-dfce0f4719e3",
+        "locator": "arXiv p. 7",
+        "quote": "consciousness requires a certain sort of electrochemical processing that silicon systems lack"
+      },
+      {
+        "source": "741e8f86-4660-494d-8dd8-dfce0f4719e3",
+        "locator": "arXiv p. 15",
+        "quote": "might tend to suggest a collective credence of at least one in three that biology is required for consciousness"
+      }
+    ]
+  }
+}

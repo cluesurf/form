@@ -1,0 +1,28 @@
+{
+  "record": "link",
+  "id": "6a47791e-bb48-4dd3-8bb8-ff12568c690e",
+  "from": "f6852413-bdcf-4fc4-a0a0-360303d6956c",
+  "to": "4dadbc85-bea2-4ac8-a304-591700327a1f",
+  "relation": "requires",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "de8573b3-42af-4c30-94e9-01704e16b3ea",
+        "locator": "p. 83",
+        "quote": "the naturalness of our self-appraisal and our explanations ‘from the inside’ can easily be mistaken for privileged access"
+      }
+    ]
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "record": "link",
+  "id": "0b011d52-4f98-49b4-9b43-e97bd55f3758",
+  "from": "b9e927fe-ccbe-4735-aae8-e62ab3286eec",
+  "to": "89daaa69-7198-4608-a93d-8a520820bbb9",
+  "relation": "answers",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "17bca706-4272-493e-8c39-13bdbc8d30f2",
+        "locator": "abstract",
+        "quote": "Each incoming nerve impulse causes the emission of transmitter molecules by the process of exocytosis."
+      },
+      {
+        "source": "4bffe5f1-a379-4b92-b51d-3c5ef3046009",
+        "locator": "section 3.3, 'Interactionism'",
+        "quote": "claims to find critical neuronal events which do not have sufficient physical explanation even today"
+      }
+    ]
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "record": "link",
+  "id": "63d0eee4-14b3-4d54-a386-e445b6196035",
+  "from": "ec931636-9b6a-412f-8779-51c4f3c2c840",
+  "to": "d5d796af-9c1f-4561-a221-4d98a76a69cd",
+  "relation": "defines",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "741e8f86-4660-494d-8dd8-dfce0f4719e3",
+        "locator": "arXiv p. 2",
+        "quote": "Consciousness and sentience, as I understand them, are subjective experience."
+      },
+      {
+        "source": "741e8f86-4660-494d-8dd8-dfce0f4719e3",
+        "locator": "arXiv p. 3",
+        "quote": "That said, I will assume that consciousness is real and not an illusion."
+      }
+    ]
+  }
+}

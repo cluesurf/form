@@ -1,0 +1,33 @@
+{
+  "record": "link",
+  "id": "456c4ac2-ae1f-4eea-a918-be0a03111b0e",
+  "from": "dd61b004-94f3-4114-916e-3b00e19706c0",
+  "to": "15c9abd8-8cf0-4081-9544-d54b1b491317",
+  "relation": "requires",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "4881b7b9-a47f-492c-80a0-18998a6e239d",
+        "locator": "section 2.2, 'Eliminative Theory Change'",
+        "quote": "the posits of folk psychology have no role to play in a serious scientific theory of the mind because the posits pick out nothing that is real"
+      },
+      {
+        "source": "4881b7b9-a47f-492c-80a0-18998a6e239d",
+        "locator": "section 2.2, 'Eliminative Theory Change'",
+        "quote": "it is because mental states, as described by common-sense psychology, do not really exist"
+      }
+    ]
+  }
+}

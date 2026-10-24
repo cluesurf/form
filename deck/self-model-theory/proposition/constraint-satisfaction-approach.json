@@ -1,0 +1,50 @@
+{
+  "record": "proposition",
+  "id": "cdcc5452-ba66-4e4e-a311-1945b649f3c7",
+  "kind": "definitional",
+  "epistemic_status": "designed",
+  "title": "A constraint-satisfaction approach to consciousness",
+  "statements": [
+    {
+      "id": "6d607167-7213-47e4-a7bc-77e5e9de6aa5",
+      "text": "The self-model theory states what properties a representation in an information-processing system must have to become phenomenal, a representation whose content is also a content of consciousness. It offers a catalogue of ten constraints, of which the précis treats six: globality, presentationality, transparency, convolved holism, dynamicity and perspectivalness, each analyzed on phenomenological, representational, functional and neural levels.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "6d607167-7213-47e4-a7bc-77e5e9de6aa5",
+  "status": "active",
+  "voice": "framework",
+  "defines": "constraint-satisfaction approach",
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "bcdebbd0-38c1-4227-a43b-6a7a59f74207",
+        "locator": "p. 1",
+        "quote": "It offers a catalogue of 10 constraints for conscious representations."
+      },
+      {
+        "source": "bcdebbd0-38c1-4227-a43b-6a7a59f74207",
+        "locator": "p. 2",
+        "quote": "what properties representations in a given information-processing system must possess in order to become phenomenal representations"
+      }
+    ]
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "record": "proposition",
+  "id": "3ab3256d-7505-4be3-9a96-a05a10fad303",
+  "kind": "definitional",
+  "epistemic_status": "designed",
+  "title": "A pure subject is aperspectival",
+  "statements": [
+    {
+      "id": "a4ae6257-6dbf-4c2a-bb64-d2b406a59dbf",
+      "text": "A perspective is the constrained opening to the world a creature has through its body, senses, situation, memory, drives and culture. A pure subject is a universal subject without such a perspective, whose experience is aperspectival and nondual. What remains of subjectivity without perspective is ipseity, selfhood as such: a conscious presence without form or objects, ready to become the recipient of objects.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "a4ae6257-6dbf-4c2a-bb64-d2b406a59dbf",
+  "status": "active",
+  "voice": "framework",
+  "defines": "pure subject",
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "15531e9b-ad0a-46bd-893e-8b37e693007c",
+        "locator": "p. 403",
+        "quote": "A pure subject is an aperspectival subject, that is, a universal subject devoid of individual conscious perspective."
+      },
+      {
+        "source": "15531e9b-ad0a-46bd-893e-8b37e693007c",
+        "locator": "p. 403",
+        "quote": "in the absence of perspective there remains ipseity, or selfhood as such"
+      }
+    ]
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "record": "proposition",
+  "id": "f51aefe3-a5ff-447a-b1c2-c05d57cac7f3",
+  "kind": "empirical",
+  "epistemic_status": "hypothesized",
+  "title": "Subcortical affect comes in homeostatic, sensory and emotional forms",
+  "statements": [
+    {
+      "id": "9e9140a3-09a3-43aa-83aa-702f814f0da1",
+      "text": "Subcortical affects come in three categories: homeostatic bodily drives such as hunger and thermoregulation, sensory affects that help regulate them such as the feel of taste, cold and warmth, and the instinctual emotional networks that give ambulant organisms their action tools, namely SEEKING, LUST, FEAR, RAGE, CARE, PANIC/GRIEF and PLAY.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "9e9140a3-09a3-43aa-83aa-702f814f0da1",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "afbb68ed-2795-46f2-a80b-5e9c8f6d456d",
+        "locator": "section 4 'A Related Modern Conversation'",
+        "quote": "subcortical affective processes come in at least three major categorical forms"
+      }
+    ]
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "record": "link",
+  "id": "e658b02b-a701-4184-91f0-648c241b2e47",
+  "from": "0df4102d-1a1e-4626-8b8a-424cdd787abc",
+  "to": "bde43440-05f9-420a-831b-1dc0ba616d2b",
+  "relation": "specializes",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "629ffdcd-cf3c-438c-a392-dd65608e9309",
+        "locator": "p. 6",
+        "quote": "We also remain neutral about the nature of the cosmic consciousness."
+      },
+      {
+        "source": "629ffdcd-cf3c-438c-a392-dd65608e9309",
+        "locator": "p. 10",
+        "quote": "priority cosmopsychism does not assume that the cosmos is a subject of experience"
+      },
+      {
+        "source": "629ffdcd-cf3c-438c-a392-dd65608e9309",
+        "locator": "p. 15",
+        "quote": "there is no such thing as the phenomenal self for the cosmic consciousness"
+      }
+    ]
+  }
+}

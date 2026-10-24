@@ -1,0 +1,33 @@
+{
+  "record": "link",
+  "id": "beb2f9fc-4ed3-4aed-95b5-7e661473fd03",
+  "from": "ce4284f5-b684-4f73-884e-e751cd65866c",
+  "to": "d5ee47bd-613b-497d-bd12-4d46498ede46",
+  "relation": "specializes",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "cf32eaac-9643-4139-b931-e40946180581",
+        "locator": "p. 24",
+        "quote": "Concrescence is thus a cumulative process and not a merely additive one."
+      },
+      {
+        "source": "cf32eaac-9643-4139-b931-e40946180581",
+        "locator": "p. 24",
+        "quote": "The cumulative nature of the creative advance makes Whitehead an emergentist rather than constitutive panpsychist"
+      }
+    ]
+  }
+}

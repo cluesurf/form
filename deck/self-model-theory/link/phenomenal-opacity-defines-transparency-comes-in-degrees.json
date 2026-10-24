@@ -1,0 +1,33 @@
+{
+  "record": "link",
+  "id": "1e928ccc-5d97-44a5-ac02-b19a2c77ec68",
+  "from": "d73804af-7c4d-492b-9651-669e92dfc1a5",
+  "to": "2ff5e11f-0e76-4113-b2df-0f83d628378d",
+  "relation": "defines",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "1bc792ee-c3ee-4f0c-93b8-a818a2897c06",
+        "locator": "p. 2",
+        "quote": "An opaque phenomenal representation is one that is experienced as a representation, for example in pseudo-hallucinations or lucid dreams."
+      },
+      {
+        "source": "bcdebbd0-38c1-4227-a43b-6a7a59f74207",
+        "locator": "p. 14",
+        "quote": "The appearance-reality distinction can now be represented, it becomes itself an element of reality."
+      }
+    ]
+  }
+}

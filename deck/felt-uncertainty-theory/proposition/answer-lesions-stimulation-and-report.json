@@ -1,0 +1,50 @@
+{
+  "record": "proposition",
+  "id": "72db6406-ad5d-4f9d-b961-232a2729e1ab",
+  "kind": "empirical",
+  "epistemic_status": "hypothesized",
+  "title": "Answer: lesion dissociations, brain stimulation with report, and reward tests in animals",
+  "statements": [
+    {
+      "id": "ec569507-3047-4454-9767-450275899b54",
+      "text": "The claims are checked by double dissociation between lesions of brainstem and cortex, by deep brain stimulation that evokes affect which humans then report in words, by drugs acting on brainstem neuromodulators, and in animals by whether stimulated states work as rewards and punishments in learning. The standard for decorticate creatures is whether predictions from the hypothesis that they are conscious are disconfirmed.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "ec569507-3047-4454-9767-450275899b54",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "8834b927-27b0-41e8-8c3f-c15dbf813c57",
+        "locator": "p. 5",
+        "quote": "are predictions from the hypothesis (that these animals and children are conscious) disconfirmed or not?"
+      },
+      {
+        "source": "111a5886-a4ef-4617-8176-15a18ef33dd7",
+        "locator": "abstract, p. 1",
+        "quote": "Such ESBs can serve as ‘rewards’ and ‘punishments’ in diverse approach and escape/avoidance learning tasks."
+      }
+    ]
+  }
+}

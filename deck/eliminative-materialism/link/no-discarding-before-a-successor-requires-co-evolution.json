@@ -1,0 +1,33 @@
+{
+  "record": "link",
+  "id": "8140f447-1602-4a00-905e-60212e173eea",
+  "from": "4af2205c-0583-4965-a1d5-8cc552b5b5f4",
+  "to": "3023aa10-3982-4fdb-b40d-5354ccf0005f",
+  "relation": "requires",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "3db58e50-8dbf-47f4-a613-ff8ee88a21d4",
+        "locator": "MIT Press edition, page 397",
+        "quote": "Certainly there is no question of discarding folk psychology until there is a suitable theory to take over the explanatory burden."
+      },
+      {
+        "source": "3db58e50-8dbf-47f4-a613-ff8ee88a21d4",
+        "locator": "MIT Press edition, page 397",
+        "quote": "Even a misconceived theory is better than no theory at all."
+      }
+    ]
+  }
+}

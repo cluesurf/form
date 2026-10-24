@@ -1,0 +1,45 @@
+{
+  "record": "proposition",
+  "id": "7485963a-7609-490a-94a0-2dd32bf1bcf9",
+  "kind": "empirical",
+  "epistemic_status": "observed",
+  "title": "A hand is withdrawn from a hot stove before the pain is felt",
+  "statements": [
+    {
+      "id": "1d71a025-1b1e-45fb-8ce4-15ba755be660",
+      "text": "In extreme cases, such as touching a hot stove, the affected part is withdrawn before the pain is felt. This does not show that pain never causes withdrawal, but it shows that pain is not needed as its cause, and the epiphenomenalist may hold that the causal order is the same in milder cases.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "1d71a025-1b1e-45fb-8ce4-15ba755be660",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "542e0d13-746c-470a-a9b7-86f1d044600d",
+        "locator": "section 2.1, 'Obvious Absurdity'",
+        "quote": "it can be observed that the affected part is withdrawn before the pain is felt"
+      }
+    ]
+  }
+}

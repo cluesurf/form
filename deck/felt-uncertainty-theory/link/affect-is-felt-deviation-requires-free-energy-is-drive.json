@@ -1,0 +1,33 @@
+{
+  "record": "link",
+  "id": "0354e6f8-bcac-40a7-bed4-e2d8e035f2dd",
+  "from": "8393b1d2-7d5a-462e-bdcf-33a93f8dfb6a",
+  "to": "3f443cca-58b4-486c-8298-2c24b9e51524",
+  "relation": "requires",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "8834b927-27b0-41e8-8c3f-c15dbf813c57",
+        "locator": "p. 7",
+        "quote": "deviation away from a homeostatic settling point (increasing uncertainty) is felt as unpleasure"
+      },
+      {
+        "source": "224c4197-d629-416a-b17f-4f96e49df600",
+        "locator": "p. 6",
+        "quote": "The settling point itself (‘satiation’) resolves the affect"
+      }
+    ]
+  }
+}

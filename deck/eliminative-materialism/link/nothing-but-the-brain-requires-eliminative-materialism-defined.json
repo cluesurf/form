@@ -1,0 +1,33 @@
+{
+  "record": "link",
+  "id": "0df85296-8f6c-447b-a3aa-82f6bcc8b1e9",
+  "from": "d70e1555-c75b-442f-8169-af67754d27ee",
+  "to": "e480c33b-cd3d-4662-ac02-335c4fbba66a",
+  "relation": "requires",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "4881b7b9-a47f-492c-80a0-18998a6e239d",
+        "locator": "section 2.2, 'Eliminative Theory Change'",
+        "quote": "straightforward eliminativists claim there is nothing more to the mind than what occurs in the brain"
+      },
+      {
+        "source": "3db58e50-8dbf-47f4-a613-ff8ee88a21d4",
+        "locator": "MIT Press edition, page 482",
+        "quote": "mental processesare brain processes"
+      }
+    ]
+  }
+}

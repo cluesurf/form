@@ -1,0 +1,45 @@
+{
+  "record": "proposition",
+  "id": "a8197b9e-ab89-42de-a45d-14ce00e685c6",
+  "kind": "philosophical",
+  "epistemic_status": "hypothesized",
+  "title": "Free energy, surprisal, uncertainty and arousal are one quantity",
+  "statements": [
+    {
+      "id": "0c81dc9e-b7fe-4d99-b51c-f6d83ab083c0",
+      "text": "The so-called level of consciousness is a function of variational free energy. Free energy in thermodynamic terms entails entropy, which in information-theoretic terms is surprisal and uncertainty, which in neurophysiological terms is arousal, and arousal underpins wakefulness.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "0c81dc9e-b7fe-4d99-b51c-f6d83ab083c0",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "8834b927-27b0-41e8-8c3f-c15dbf813c57",
+        "locator": "p. 5",
+        "quote": "Free energy in thermodynamic terms entails entropy, which in information-theoretic terms is surprisal (and uncertainty), which in neurophysiological terms is arousal"
+      }
+    ]
+  }
+}

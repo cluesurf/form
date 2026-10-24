@@ -1,0 +1,45 @@
+{
+  "record": "proposition",
+  "id": "aa8e74f6-61cb-4651-a168-49e06f9c018c",
+  "kind": "definitional",
+  "epistemic_status": "designed",
+  "title": "An algorithm a system implements",
+  "statements": [
+    {
+      "id": "5d25c9c2-e2c5-4ea8-83ee-0f11f953f8ea",
+      "text": "Systems that compute process information by implementing algorithms. For a system to implement an algorithm is for it to have, at some level of abstraction, a range of possible information-carrying states and dispositions to make transitions between them. The algorithm is the abstract specification of those transitions, with inputs and outputs, as a pocket calculator goes from key presses through internal states to a result.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "5d25c9c2-e2c5-4ea8-83ee-0f11f953f8ea",
+  "status": "active",
+  "voice": "framework",
+  "defines": "algorithm",
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "ecf4b155-a02f-440e-87ac-837126c9279c",
+        "locator": "arXiv p. 13",
+        "quote": "The algorithm implemented by a system is an abstract specification of the transitions between states, including inputs and outputs, which it is disposed to make."
+      }
+    ]
+  }
+}

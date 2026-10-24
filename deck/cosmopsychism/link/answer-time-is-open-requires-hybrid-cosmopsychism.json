@@ -1,0 +1,28 @@
+{
+  "record": "link",
+  "id": "10bf6ffd-d1bb-4e44-ac3f-2836d7e6fb47",
+  "from": "915151e5-dfc8-4cf5-bc24-2b4811f8a967",
+  "to": "d77597ee-8c37-4e2d-ab00-557aff092ab5",
+  "relation": "requires",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "2ab75b9c-c7c1-4d7f-a482-d00c7fe4f31c",
+        "locator": "PDF p. 16",
+        "quote": "I have framed the view in non-relativistic terms for the sake of ease of illustration."
+      }
+    ]
+  }
+}

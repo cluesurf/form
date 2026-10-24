@@ -1,0 +1,28 @@
+{
+  "record": "link",
+  "id": "6ea6edab-59c8-48a9-87ce-09fb6c729cba",
+  "from": "532c9194-d382-47d0-abac-d1696ac995d3",
+  "to": "d70e1555-c75b-442f-8169-af67754d27ee",
+  "relation": "requires",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "6cdfaf6c-89f2-4de7-b4a0-fc671c1ffe21",
+        "locator": "section 4.1, 'Doubts about the Thought Experiment'",
+        "quote": "would be able to figure out what colored things look like"
+      }
+    ]
+  }
+}

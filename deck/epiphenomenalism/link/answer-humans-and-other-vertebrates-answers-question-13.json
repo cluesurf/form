@@ -1,0 +1,33 @@
+{
+  "record": "link",
+  "id": "9b6714cb-2a9e-4c09-a639-3c4d3bb4ddc0",
+  "from": "c3c34c20-8251-460e-90d0-b72050fa5e5f",
+  "to": "fa149d96-d797-483c-a560-6a297c01c9b1",
+  "relation": "answers",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "74e58cef-2e29-415f-a138-df37b7515701",
+        "locator": "Collected Essays I, page 219",
+        "quote": "though, by analogy, we are justified in assuming its existence in other men"
+      },
+      {
+        "source": "74e58cef-2e29-415f-a138-df37b7515701",
+        "locator": "Collected Essays I, page 220",
+        "quote": "what is true for man is true for other vertebrated animals"
+      }
+    ]
+  }
+}

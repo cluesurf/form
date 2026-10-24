@@ -1,0 +1,50 @@
+{
+  "record": "proposition",
+  "id": "5c8690a9-da9a-4256-acc7-67a2a6630a40",
+  "kind": "philosophical",
+  "epistemic_status": "hypothesized",
+  "title": "Within a decade there may be serious candidates for AI consciousness",
+  "statements": [
+    {
+      "id": "2ec8694f-615b-4803-8bcd-f60458bec9af",
+      "text": "Within the next decade, even without human-level general intelligence, there may well be systems that are serious candidates for consciousness. Meeting the engineering challenges, such as world models, self models, recurrence, a global workspace and unified agency, gives a possible research program toward conscious AI, which Chalmers presents as a roadmap or as a list of paths to avoid, not as a recommendation.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "2ec8694f-615b-4803-8bcd-f60458bec9af",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "741e8f86-4660-494d-8dd8-dfce0f4719e3",
+        "locator": "arXiv p. 17",
+        "quote": "we may well have systems that are serious candidates for consciousness"
+      },
+      {
+        "source": "741e8f86-4660-494d-8dd8-dfce0f4719e3",
+        "locator": "arXiv p. 17",
+        "quote": "I’m not asserting that we should pursue this research program."
+      }
+    ]
+  }
+}

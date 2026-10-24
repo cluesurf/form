@@ -1,0 +1,45 @@
+{
+  "record": "proposition",
+  "id": "019fb4c8-fb89-4571-93d2-806671745155",
+  "kind": "philosophical",
+  "epistemic_status": "hypothesized",
+  "title": "Critique: commonsense psychology is not a quasi-scientific theory",
+  "statements": [
+    {
+      "id": "ea590251-4b4d-4d97-a403-9792ec2ebab4",
+      "text": "In a tradition from Wittgenstein and Ryle, commonsense psychology is not a quasi-scientific theory for explaining behavior and does not treat beliefs as discrete inner causes. On Dennett's view, propositional attitudes are real abstracta used in taking a stance toward rational agents, not candidates for reduction or elimination by cognitive science.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "ea590251-4b4d-4d97-a403-9792ec2ebab4",
+  "status": "active",
+  "voice": "critique",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "4881b7b9-a47f-492c-80a0-18998a6e239d",
+        "locator": "section 4.2, 'Rejecting the Theory-Theory'",
+        "quote": "common sense psychology is not a quasi-scientific theory used to explain or predict behavior, nor does it treat mental states like beliefs as discrete inner causes of behavior"
+      }
+    ]
+  }
+}

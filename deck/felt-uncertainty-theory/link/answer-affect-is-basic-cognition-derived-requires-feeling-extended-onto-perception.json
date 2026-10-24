@@ -1,0 +1,33 @@
+{
+  "record": "link",
+  "id": "8586e2e6-d304-4fcb-a8f1-1a7e827c6e87",
+  "from": "8284df2f-8a14-412e-912e-cf8e329821c6",
+  "to": "640399ac-d548-4b96-aff3-cf32927cfb49",
+  "relation": "requires",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "8834b927-27b0-41e8-8c3f-c15dbf813c57",
+        "locator": "p. 1",
+        "quote": "it identifies the elemental form of consciousness as affect"
+      },
+      {
+        "source": "224c4197-d629-416a-b17f-4f96e49df600",
+        "locator": "p. 3",
+        "quote": "derive their consciousness absolutely from the centrencephalic region"
+      }
+    ]
+  }
+}

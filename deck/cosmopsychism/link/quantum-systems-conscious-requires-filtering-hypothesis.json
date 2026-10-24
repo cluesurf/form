@@ -1,0 +1,33 @@
+{
+  "record": "link",
+  "id": "401b4ae3-01d3-4a32-95ef-5bf701e7bea9",
+  "from": "e9c9843e-e696-42fe-9890-aac9c2f325f4",
+  "to": "30228cc1-69b0-4582-b35d-9eb02aae8a91",
+  "relation": "requires",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "15531e9b-ad0a-46bd-893e-8b37e693007c",
+        "locator": "p. 399",
+        "quote": "it can be expected that every quantum system is a conscious"
+      },
+      {
+        "source": "15531e9b-ad0a-46bd-893e-8b37e693007c",
+        "locator": "p. 400",
+        "quote": "it is nomologically impossible for classical systems to be conscious"
+      }
+    ]
+  }
+}

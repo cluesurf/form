@@ -1,0 +1,33 @@
+{
+  "record": "link",
+  "id": "968e5166-f6e5-4f35-a689-7206f51df9e8",
+  "from": "4b28e51f-515f-47ea-b19d-08ebde0cf1c9",
+  "to": "c0208e1c-f997-431c-bb5d-a9c3a189810b",
+  "relation": "requires",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "bcdebbd0-38c1-4227-a43b-6a7a59f74207",
+        "locator": "p. 2",
+        "quote": "one's phenomenal experience has an untranscendably realistic character"
+      },
+      {
+        "source": "509b3ac7-2958-4cd3-aac9-6a3f17c7b14d",
+        "locator": "p. 2",
+        "quote": "one cannot ‘think oneself out of ’ one’s phenomenal model of reality with the help of purely cognitive operations alone"
+      }
+    ]
+  }
+}

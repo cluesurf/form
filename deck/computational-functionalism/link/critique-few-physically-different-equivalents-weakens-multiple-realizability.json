@@ -1,0 +1,28 @@
+{
+  "record": "link",
+  "id": "ea690650-cbd5-4ae1-8c61-2bbac982665a",
+  "from": "a0b7888c-c8cc-4d93-b3c5-700b78bbf170",
+  "to": "553bb04f-8a04-4886-839e-d040d4061dc3",
+  "relation": "weakens",
+  "strength": null,
+  "rationale": "If few actual creatures are functionally alike but physically different, identity theory covers most of the cases.",
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "40a4280a-4b0f-44b2-b9c6-95fce46b932d",
+        "locator": "section 6, 'The Future of Functionalism'",
+        "quote": "there are relatively few extant creatures that are physically unlike humans but share our functional organization"
+      }
+    ]
+  }
+}

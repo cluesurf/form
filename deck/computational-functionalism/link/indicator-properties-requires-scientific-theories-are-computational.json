@@ -1,0 +1,33 @@
+{
+  "record": "link",
+  "id": "e028618f-774e-4788-9fdf-035ae168814e",
+  "from": "0b1eaba0-86e1-4d02-bcdd-57666e93c42e",
+  "to": "43211f29-7aed-4c77-bb1f-2cad8c707697",
+  "relation": "requires",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "ecf4b155-a02f-440e-87ac-837126c9279c",
+        "locator": "arXiv p. 4",
+        "quote": "Each of these indicator properties is said to be necessary for consciousness"
+      },
+      {
+        "source": "ecf4b155-a02f-440e-87ac-837126c9279c",
+        "locator": "arXiv p. 5",
+        "quote": "AI systems which possess more of the indicator properties are more likely to be conscious"
+      }
+    ]
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "record": "proposition",
+  "id": "7edd338d-3739-475c-b860-4d0a31076de5",
+  "kind": "empirical",
+  "epistemic_status": "hypothesized",
+  "title": "Answer: assess systems for indicator properties, and test the theories they come from",
+  "statements": [
+    {
+      "id": "5bf29ab2-b180-4522-b5af-09bceff9dc4c",
+      "text": "What can be checked is whether an existing or proposed AI system has the indicator properties, by analyzing its architecture, and how well supported the scientific theories behind them are, by the methods of consciousness science such as contrastive analysis and no-report paradigms. The list is provisional and expected to change as research continues.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "5bf29ab2-b180-4522-b5af-09bceff9dc4c",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "ecf4b155-a02f-440e-87ac-837126c9279c",
+        "locator": "arXiv p. 5",
+        "quote": "one should assess whether it has or would have these properties"
+      },
+      {
+        "source": "ecf4b155-a02f-440e-87ac-837126c9279c",
+        "locator": "arXiv p. 4",
+        "quote": "The rubric we propose is provisional"
+      }
+    ]
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "record": "link",
+  "id": "4e98c6d6-26d3-45cf-ab0b-a5e9bd2f1465",
+  "from": "0da52a78-87b7-4211-9b4b-de179e5a7e1c",
+  "to": "8f4e1f9d-befd-451a-bc01-e4bd6620838d",
+  "relation": "specializes",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "ba105db4-969a-4ed2-be0c-cb4dd3eb2505",
+        "locator": "section II, point 1",
+        "quote": "Every actual entity has a physical pole. There can be no purely mental actual entities"
+      },
+      {
+        "source": "ba105db4-969a-4ed2-be0c-cb4dd3eb2505",
+        "locator": "section II, point 3",
+        "quote": "Panexperientialism agrees: the mental pole is always derivative from the physical"
+      }
+    ]
+  }
+}

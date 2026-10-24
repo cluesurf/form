@@ -1,0 +1,50 @@
+{
+  "record": "proposition",
+  "id": "0ee4c919-993b-44ca-bb8f-86232f7d38ca",
+  "kind": "empirical",
+  "epistemic_status": "hypothesized",
+  "title": "Consciousness began with the mammalian neocortex about 200 million years ago",
+  "statements": [
+    {
+      "id": "e4b97a2c-a1cd-4b1c-b814-7a664009d811",
+      "text": "Dendrons evolved in mammals for better integration of increasingly complex sensory input, and the evolved dendrons could interact with psychons that came to exist, forming the mental world. Consciousness would then have first occurred some 200 million years ago with the primitive cortices of early mammals.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "e4b97a2c-a1cd-4b1c-b814-7a664009d811",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "376b0486-c527-4cc7-952d-0f98af4e4b8e",
+        "locator": "abstract",
+        "quote": "These evolved dendrons had the capacity for interacting with psychons that came to exist, so forming the mental world and giving the mammal conscious experiences."
+      },
+      {
+        "source": "376b0486-c527-4cc7-952d-0f98af4e4b8e",
+        "locator": "abstract",
+        "quote": "In Darwinian evolution, consciousness would have occurred initially some 200 million years ago in relation to the primitive cerebral cortices of evolving mammals."
+      }
+    ]
+  }
+}

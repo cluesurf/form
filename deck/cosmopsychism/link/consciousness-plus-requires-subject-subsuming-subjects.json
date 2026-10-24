@@ -1,0 +1,33 @@
+{
+  "record": "link",
+  "id": "9b635b9b-5429-4ce1-9959-7a1743329c4d",
+  "from": "af27e26c-efdd-4556-86d7-cf326a9e858e",
+  "to": "7e9c0f26-d236-4de0-9271-7c865583e4f9",
+  "relation": "requires",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "6801f71f-b984-44ec-8535-cf2750b86ba3",
+        "locator": "p. 12",
+        "quote": "there is a more expansive property, call it consciousness+, that subsumes consciousness as one aspect"
+      },
+      {
+        "source": "6801f71f-b984-44ec-8535-cf2750b86ba3",
+        "locator": "p. 13",
+        "quote": "Will we ever come to grasp the non-phenomenal aspects of consciousness+? I am cautiously pessimistic."
+      }
+    ]
+  }
+}

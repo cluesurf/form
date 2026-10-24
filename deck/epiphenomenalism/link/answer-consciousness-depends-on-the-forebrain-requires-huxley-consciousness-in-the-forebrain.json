@@ -1,0 +1,28 @@
+{
+  "record": "link",
+  "id": "3d754f59-6d0a-4d93-a725-ad0941796f42",
+  "from": "e3f78508-ee85-4464-9dfa-9ffcf54a0d7a",
+  "to": "e29b3025-f5d6-4309-bcaf-701486edd33e",
+  "relation": "requires",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "74e58cef-2e29-415f-a138-df37b7515701",
+        "locator": "Collected Essays I, page 220",
+        "quote": "and the rest of the nervous centres, have nothing to do with it"
+      }
+    ]
+  }
+}

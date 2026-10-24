@@ -1,0 +1,45 @@
+{
+  "record": "proposition",
+  "id": "8b4db9d5-04b3-4b83-807d-872553b55a08",
+  "kind": "philosophical",
+  "epistemic_status": "hypothesized",
+  "title": "Answer: free will only as doing what one likes, within the chain of physical causes",
+  "statements": [
+    {
+      "id": "68a53aa6-1b87-4ff5-a516-6e764a8c02c3",
+      "text": "Conscious volition causes no action. Free will exists only in the sense that people can in many respects do as they like, while remaining parts of the unbroken series of physical causes and effects.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "68a53aa6-1b87-4ff5-a516-6e764a8c02c3",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "74e58cef-2e29-415f-a138-df37b7515701",
+        "locator": "Collected Essays I, page 244",
+        "quote": "We are conscious automata, endowed with free will in the only intelligible sense of that much-abused term"
+      }
+    ]
+  }
+}

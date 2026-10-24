@@ -1,0 +1,50 @@
+{
+  "record": "proposition",
+  "id": "bf558733-39a6-4bae-ac9c-2190b22664bc",
+  "kind": "empirical",
+  "epistemic_status": "hypothesized",
+  "title": "Consciousness gave mammals an advantage over reptiles",
+  "statements": [
+    {
+      "id": "3711bf53-5a1b-432d-8711-19cbd9146577",
+      "text": "Consciousness gives global experiences of the surrounding world that guide behavior beyond what the unconscious working of sensory cortex gives, so it gave mammals an evolutionary advantage over reptiles, which lack a neocortex. How the avian Wulst could give birds the consciousness they seem to have needs investigation.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "3711bf53-5a1b-432d-8711-19cbd9146577",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "376b0486-c527-4cc7-952d-0f98af4e4b8e",
+        "locator": "abstract",
+        "quote": "So conscious experiences would give mammals evolutionary advantage over the reptiles, which lack a neocortex giving consciousness."
+      },
+      {
+        "source": "376b0486-c527-4cc7-952d-0f98af4e4b8e",
+        "locator": "abstract",
+        "quote": "The Wulst of the avian brain needs further investigation to discover how it could give birds the consciousness that they seem to have."
+      }
+    ]
+  }
+}

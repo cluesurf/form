@@ -1,0 +1,28 @@
+{
+  "record": "link",
+  "id": "919d5099-d2f5-437d-a13e-fb6b419e0156",
+  "from": "39ba7da3-a0ac-48b6-b688-6015e7fe28fb",
+  "to": "734fcb43-e2dc-483c-88f6-7694415b743c",
+  "relation": "answers",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "3db58e50-8dbf-47f4-a613-ff8ee88a21d4",
+        "locator": "MIT Press edition, page 395",
+        "quote": "Compare the lament of the vitalist"
+      }
+    ]
+  }
+}

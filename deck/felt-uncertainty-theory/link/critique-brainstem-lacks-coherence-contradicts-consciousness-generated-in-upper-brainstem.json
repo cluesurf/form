@@ -1,0 +1,38 @@
+{
+  "record": "link",
+  "id": "bbbc0ba8-511c-438f-8f30-d2abfdd49da1",
+  "from": "e52b20ed-e841-45cd-9439-c74da3c8311e",
+  "to": "262805f6-ee6c-45ea-9518-fe92e9023a04",
+  "relation": "contradicts",
+  "strength": null,
+  "rationale": "A brainstem without coherent world modeling could not by itself generate experience.",
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "8631c0cc-6ef6-4e1f-8d30-2c227c746f1f",
+        "locator": "p. 2",
+        "quote": "brainstem processes may be insufficient for realizing this coherent structuring of experience"
+      },
+      {
+        "source": "8631c0cc-6ef6-4e1f-8d30-2c227c746f1f",
+        "locator": "p. 9",
+        "quote": "Brainstems would therefore be excluded from a MICS/MICE, since its inclusion would generate less Phi."
+      },
+      {
+        "source": "8631c0cc-6ef6-4e1f-8d30-2c227c746f1f",
+        "locator": "p. 9",
+        "quote": "if we grant consciousness to brainstem structures, we may also have to admit something-that-it-islike-ness for extra-neural and even extra-physiological processes"
+      }
+    ]
+  }
+}

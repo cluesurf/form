@@ -1,0 +1,50 @@
+{
+  "record": "proposition",
+  "id": "4dadbc85-bea2-4ac8-a304-591700327a1f",
+  "kind": "philosophical",
+  "epistemic_status": "hypothesized",
+  "title": "The mind is not transparent to introspection",
+  "statements": [
+    {
+      "id": "5fcd6467-fda5-4d40-94f5-489eb86c8745",
+      "text": "The dogma that mental life is self-intimating and introspectively available is ready for the museum of antiquated myths. A great deal of intelligent and sentient activity, perhaps most of it, goes on without self-conscious awareness, and this is the nature of the case, not a pathology. Introspection has proved much less thorough and reliable than supposed.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "5fcd6467-fda5-4d40-94f5-489eb86c8745",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "de8573b3-42af-4c30-94e9-01704e16b3ea",
+        "locator": "p. 80",
+        "quote": "The venerable dogma that one’s mental life is self-intimating and introspectively available seems at last to be ready for consignment to the museum of quaint and antiquated myths about how humans work."
+      },
+      {
+        "source": "de8573b3-42af-4c30-94e9-01704e16b3ea",
+        "locator": "p. 83",
+        "quote": "Introspection has been found much less thorough and reliable than previously supposed."
+      }
+    ]
+  }
+}

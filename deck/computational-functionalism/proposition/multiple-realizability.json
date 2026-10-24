@@ -1,0 +1,50 @@
+{
+  "record": "proposition",
+  "id": "553bb04f-8a04-4886-839e-d040d4061dc3",
+  "kind": "philosophical",
+  "epistemic_status": "hypothesized",
+  "title": "Mental states can be multiply realized",
+  "statements": [
+    {
+      "id": "d5b2ff9b-b609-4d86-805d-a81a9c79dcf4",
+      "text": "If a state is a pain by playing the pain role, then any creature with a state that plays that role is in pain, whether the state is C-fiber stimulation in humans or a silicon state in a Martian or an android. Pain can be realized by different physical states in different creatures. Since the role description is topic-neutral, even a nonphysical state could play it, so functionalism is compatible with interactionist dualism.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "d5b2ff9b-b609-4d86-805d-a81a9c79dcf4",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "40a4280a-4b0f-44b2-b9c6-95fce46b932d",
+        "locator": "section 1, 'What is Functionalism?'",
+        "quote": "pain can be realized by different types of physical states in different kinds of creatures, or multiply realized"
+      },
+      {
+        "source": "40a4280a-4b0f-44b2-b9c6-95fce46b932d",
+        "locator": "section 1, 'What is Functionalism?'",
+        "quote": "So functionalism is compatible with the sort of dualism that takes mental states to cause, and be caused by, physical states."
+      }
+    ]
+  }
+}

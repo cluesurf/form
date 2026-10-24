@@ -1,0 +1,45 @@
+{
+  "record": "proposition",
+  "id": "aa597e79-bcfd-4d21-b3c0-54bb9af0620f",
+  "kind": "philosophical",
+  "epistemic_status": "hypothesized",
+  "title": "Lowe: some brain causes act through a simultaneous mental state",
+  "statements": [
+    {
+      "id": "f67daa15-42ed-4a5d-888b-63868a48375c",
+      "text": "Lowe proposes that physical causes always bring about the effects physics predicts, but some brain causes do so indirectly, by bringing about a simultaneous mental state that causes the ordinary physical effect, so the mental contribution is invisible to scientific observation.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "f67daa15-42ed-4a5d-888b-63868a48375c",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "4bffe5f1-a379-4b92-b51d-3c5ef3046009",
+        "locator": "section 3.3, 'Interactionism'",
+        "quote": "But certain physical causes in the brain do so indirectly, by bringing about an intermediate mental state that in turn causes the ordinary physical effect."
+      }
+    ]
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "record": "proposition",
+  "id": "2422f823-776d-41bf-b984-29fae488a1c1",
+  "kind": "definitional",
+  "epistemic_status": "designed",
+  "title": "Interactionism",
+  "statements": [
+    {
+      "id": "1f86cd00-aa24-4de7-ab23-728e1a86cade",
+      "text": "Interactionism is the view that mind and body, or mental events and physical events, causally influence each other. It is one of three positions on how mind and body are causally related, beside epiphenomenalism, on which body acts on mind only, and parallelism, on which neither acts on the other.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "1f86cd00-aa24-4de7-ab23-728e1a86cade",
+  "status": "active",
+  "voice": "framework",
+  "defines": "interactionism",
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "4bffe5f1-a379-4b92-b51d-3c5ef3046009",
+        "locator": "section 3.3, 'Interactionism'",
+        "quote": "Interactionism is the view that mind and body – or mental events and physical events – causally influence each other."
+      },
+      {
+        "source": "4bffe5f1-a379-4b92-b51d-3c5ef3046009",
+        "locator": "section 3, 'Varieties of Dualism'",
+        "quote": "Interactionism is the view that mind and body act causally on one another"
+      }
+    ]
+  }
+}

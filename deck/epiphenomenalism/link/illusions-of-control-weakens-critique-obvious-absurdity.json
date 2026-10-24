@@ -1,0 +1,33 @@
+{
+  "record": "link",
+  "id": "ad8e068d-4892-4058-af0e-d5a375dd4b9f",
+  "from": "ae09d965-e1ec-4053-adac-28558e84140c",
+  "to": "0d5b8b75-6e9c-4c5a-b9ec-c6269ec5c9b3",
+  "relation": "weakens",
+  "strength": null,
+  "rationale": "If people can feel in control of movements they did not control, the feeling of control is no evidence of mental causation.",
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "542e0d13-746c-470a-a9b7-86f1d044600d",
+        "locator": "section 3.5, 'Empirical Considerations'",
+        "quote": "participants who have judged themselves to have partial control of movements over which they in fact lacked control"
+      },
+      {
+        "source": "542e0d13-746c-470a-a9b7-86f1d044600d",
+        "locator": "section 3.5, 'Empirical Considerations'",
+        "quote": "These empirical results do not cut as deeply as the foregoing arguments"
+      }
+    ]
+  }
+}

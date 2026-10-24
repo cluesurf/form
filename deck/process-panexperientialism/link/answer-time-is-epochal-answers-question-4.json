@@ -1,0 +1,33 @@
+{
+  "record": "link",
+  "id": "57973df7-5854-4f63-ac01-e13667734621",
+  "from": "c9ca5957-dbbb-402c-a429-81745d4bfbc2",
+  "to": "3c1c5e6b-2943-4810-baf8-d48f72c4e148",
+  "relation": "answers",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "78f94ddb-c6f8-4a5c-86bb-ea574d7a0c37",
+        "locator": "p. 53",
+        "quote": "There is a becoming of continuity, but no continuity of becoming."
+      },
+      {
+        "source": "714e4dce-1d09-4ecd-8cdf-db662db525a8",
+        "locator": "section 6, Metaphysics",
+        "quote": "Henceforth he conceived of the passage of nature as atomic, as constituted by atomic events."
+      }
+    ]
+  }
+}

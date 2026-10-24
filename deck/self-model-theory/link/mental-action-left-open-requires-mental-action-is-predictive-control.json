@@ -1,0 +1,33 @@
+{
+  "record": "link",
+  "id": "f6f4eded-a128-4e2e-a262-489767eccf7a",
+  "from": "e38b9480-c71b-4280-87ad-bb6df433e72e",
+  "to": "06258e2c-6d99-4842-a621-6be518429c45",
+  "relation": "requires",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "d821ebea-2668-4266-8314-e24547973aea",
+        "locator": "p. 22",
+        "quote": "Are there mental actions at all? I will not answer this question here."
+      },
+      {
+        "source": "d821ebea-2668-4266-8314-e24547973aea",
+        "locator": "p. 22",
+        "quote": "there is no satisfying theoretical account of mental action under the PP approach"
+      }
+    ]
+  }
+}

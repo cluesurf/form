@@ -1,0 +1,28 @@
+{
+  "record": "link",
+  "id": "72df98d8-7c0f-4e39-9b1a-1f55559d5cec",
+  "from": "b3f1581c-b374-4a8c-b333-6803a79e9766",
+  "to": "21a2a6f2-1d2b-46a9-a3fd-a8a85b102836",
+  "relation": "defines",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "bcdebbd0-38c1-4227-a43b-6a7a59f74207",
+        "locator": "p. 2",
+        "quote": "it is globally available for many different processing capacities at the same time"
+      }
+    ]
+  }
+}

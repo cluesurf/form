@@ -1,0 +1,33 @@
+{
+  "record": "link",
+  "id": "3ec1d535-ad97-4a67-95b3-2a957e43fffd",
+  "from": "907cdba1-d107-4987-8d06-ab3fd65da47a",
+  "to": "3740e65c-27a3-4ad1-ba0a-4ac73673ec4d",
+  "relation": "supports",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "ecf4b155-a02f-440e-87ac-837126c9279c",
+        "locator": "arXiv p. 4",
+        "quote": "this method is unreliable because AI systems can be trained to mimic human behaviours while working in very different ways"
+      },
+      {
+        "source": "ecf4b155-a02f-440e-87ac-837126c9279c",
+        "locator": "arXiv p. 18",
+        "quote": "thus “gaming” behavioural tests"
+      }
+    ]
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "record": "link",
+  "id": "f2fbde9f-5824-4d98-ab3f-00badac1fb63",
+  "from": "f92de491-68e3-401c-8054-0005dc3c8b19",
+  "to": "84f856e1-0901-424a-87c5-0c420a247c2f",
+  "relation": "requires",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "1e6c56f2-322f-47dd-a519-b66dc9982794",
+        "locator": "p. 1",
+        "quote": "It develops the concept of “minimal phenomenal experience” (MPE) as a candidate for the simplest form of consciousness"
+      },
+      {
+        "source": "1e6c56f2-322f-47dd-a519-b66dc9982794",
+        "locator": "p. 3",
+        "quote": "I presuppose that the concept of phenomenal consciousness has not definitional but probabilistic structure."
+      }
+    ]
+  }
+}

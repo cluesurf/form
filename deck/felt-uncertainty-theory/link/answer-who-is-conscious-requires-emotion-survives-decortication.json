@@ -1,0 +1,33 @@
+{
+  "record": "link",
+  "id": "e64e2c2e-3836-4384-8ed8-30c2e52bd7a0",
+  "from": "8a958145-0557-465b-966e-8e822e1139f9",
+  "to": "9849ea6f-c7c2-447b-8627-efdf5c7a77b5",
+  "relation": "requires",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "8834b927-27b0-41e8-8c3f-c15dbf813c57",
+        "locator": "p. 5",
+        "quote": "One surely must conclude that it does feel like something to be these children."
+      },
+      {
+        "source": "afbb68ed-2795-46f2-a80b-5e9c8f6d456d",
+        "locator": "section 8 'All Consciousness Is Endogenous'",
+        "quote": "Perhaps this line of reasoning will soon need to be extended to some invertebrates"
+      }
+    ]
+  }
+}

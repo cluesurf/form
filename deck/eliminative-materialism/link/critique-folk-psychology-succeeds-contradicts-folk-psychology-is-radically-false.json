@@ -1,0 +1,33 @@
+{
+  "record": "link",
+  "id": "0e224454-ee11-4b4d-b8a4-5bd7e169167c",
+  "from": "d4692d49-fc94-4644-9d35-d6424eb2abc6",
+  "to": "dd61b004-94f3-4114-916e-3b00e19706c0",
+  "relation": "contradicts",
+  "strength": null,
+  "rationale": "If success is best explained by rough truth, folk psychology is not radically false.",
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "4881b7b9-a47f-492c-80a0-18998a6e239d",
+        "locator": "section 4.3, 'Defending the Virtues of Folk Psychology'",
+        "quote": "The best explanation for the success we enjoy in explaining and predicting human and animal behavior is that folk psychology is roughly true, and that there really are beliefs"
+      },
+      {
+        "source": "4881b7b9-a47f-492c-80a0-18998a6e239d",
+        "locator": "section 3.1, 'General Theoretical Problems With Folk Psychology'",
+        "quote": "it hardly follows from the observation that a given theory is incomplete, or fails to explain everything, that it is therefore radically false"
+      }
+    ]
+  }
+}

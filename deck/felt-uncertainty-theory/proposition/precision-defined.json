@@ -1,0 +1,55 @@
+{
+  "record": "proposition",
+  "id": "d3ff30dd-b068-4745-a4c6-feb7e23f4782",
+  "kind": "definitional",
+  "epistemic_status": "designed",
+  "title": "Precision, the representation of uncertainty",
+  "statements": [
+    {
+      "id": "1d5a4d35-7b8f-4ba7-97ad-0678f326999e",
+      "text": "Precision is the representation of uncertainty in active and perceptual inference: the estimated reliability, or inverse variance, of a quantity, and so the confidence given to probabilistic beliefs about the world or about which actions to select. Every sensation, action, prediction and error signal carries its own precision, which must be optimized. Physiologically it is the postsynaptic gain of neurons reporting prediction errors.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "1d5a4d35-7b8f-4ba7-97ad-0678f326999e",
+  "status": "active",
+  "voice": "framework",
+  "defines": "precision",
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "8834b927-27b0-41e8-8c3f-c15dbf813c57",
+        "locator": "p. 11",
+        "quote": "it is the representation of uncertainty"
+      },
+      {
+        "source": "8834b927-27b0-41e8-8c3f-c15dbf813c57",
+        "locator": "p. 12",
+        "quote": "Precision is not a single value"
+      },
+      {
+        "source": "8834b927-27b0-41e8-8c3f-c15dbf813c57",
+        "locator": "p. 12",
+        "quote": "Physiologically, precision is usually associated with the postsynaptic gain of cortical neurons reporting prediction errors."
+      }
+    ]
+  }
+}

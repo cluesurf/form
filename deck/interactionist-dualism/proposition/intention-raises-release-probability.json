@@ -1,0 +1,50 @@
+{
+  "record": "proposition",
+  "id": "1a3e40da-b949-4988-8c75-13c937879e0f",
+  "kind": "empirical",
+  "epistemic_status": "hypothesized",
+  "title": "An intention acts by momentarily raising the probability of transmitter release",
+  "statements": [
+    {
+      "id": "4016b4cc-475a-4b51-8935-5b11a35f2614",
+      "text": "Consciousness shows itself in mental intentions. The voluntary actions that follow become effective by momentary increases in the probability of vesicle release at the thousands of synapses on each pyramidal cell, by quantal selection.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "4016b4cc-475a-4b51-8935-5b11a35f2614",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "17bca706-4272-493e-8c39-13bdbc8d30f2",
+        "locator": "abstract",
+        "quote": "Consciousness manifests itself in mental intentions."
+      },
+      {
+        "source": "17bca706-4272-493e-8c39-13bdbc8d30f2",
+        "locator": "abstract",
+        "quote": "The consequent voluntary actions become effective by momentary increases of the probability of vesicular emission in the thousands of synapses on each pyramidal cell by quantal selection."
+      }
+    ]
+  }
+}

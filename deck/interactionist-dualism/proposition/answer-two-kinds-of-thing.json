@@ -1,0 +1,45 @@
+{
+  "record": "proposition",
+  "id": "4586671d-33e5-409f-a9b6-6f498a8d694a",
+  "kind": "philosophical",
+  "epistemic_status": "hypothesized",
+  "title": "Answer: two kinds of thing, the physical world and the mental world",
+  "statements": [
+    {
+      "id": "b02e290f-e795-4694-b1a2-4244de2bd71a",
+      "text": "What is fundamental is twofold: the physical world, World 1, and the mental world, World 2, of mental events or souls, neither reducible to the other. The full story of the world includes what happens to both parts of each person, with the causal relations between them.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "b02e290f-e795-4694-b1a2-4244de2bd71a",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "9a9645ce-d028-451e-8752-1237c4f2f58b",
+        "locator": "eprint p. 8",
+        "quote": "The full story of the world will include what happens to each of our two parts"
+      }
+    ]
+  }
+}

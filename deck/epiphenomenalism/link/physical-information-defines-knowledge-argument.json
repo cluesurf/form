@@ -1,0 +1,28 @@
+{
+  "record": "link",
+  "id": "716fe666-5e0c-467f-b5cf-5d05aa5ece0d",
+  "from": "88f3a6aa-8ccf-4047-9e3b-cc3ea575ea3d",
+  "to": "f667ff98-5ea0-42de-9508-f7c04ec6042c",
+  "relation": "defines",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "542e0d13-746c-470a-a9b7-86f1d044600d",
+        "locator": "section 3.4, 'Epiphenomenalism and Intrinsic Properties'",
+        "quote": "information about ourselves and our world of the kind that is obtainable in the physical, chemical, and biological sciences"
+      }
+    ]
+  }
+}

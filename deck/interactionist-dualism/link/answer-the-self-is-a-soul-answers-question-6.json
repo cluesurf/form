@@ -1,0 +1,28 @@
+{
+  "record": "link",
+  "id": "4b31fa38-1956-480d-99e1-94570ddd16f1",
+  "from": "b0fd60c3-742f-4d00-a02f-67f8182a580a",
+  "to": "40dc81c7-5c68-457a-b6c2-e77c0207606e",
+  "relation": "answers",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "9a9645ce-d028-451e-8752-1237c4f2f58b",
+        "locator": "eprint p. 12",
+        "quote": "a uniqueness which makes it the soul it is quite apart from the particular mental properties it has"
+      }
+    ]
+  }
+}

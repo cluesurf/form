@@ -1,0 +1,55 @@
+{
+  "record": "proposition",
+  "id": "19e24d53-fd51-4708-b075-6922aa94ddde",
+  "kind": "philosophical",
+  "epistemic_status": "hypothesized",
+  "title": "The categories are tentative formulations, judged by progress",
+  "statements": [
+    {
+      "id": "5c305977-b52c-4dea-aa10-cc7b587cba00",
+      "text": "The categories of the scheme are not statements of the obvious but tentative formulations of the most general truths. A generalization is tested by whether it applies beyond the field it came from, and the proper test of a philosophy is progress, not finality.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "5c305977-b52c-4dea-aa10-cc7b587cba00",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "78f94ddb-c6f8-4a5c-86bb-ea574d7a0c37",
+        "locator": "p. 12",
+        "quote": "Metaphysical categories are not dogmatic statements of the obvious; they are tentative formulations of the ultimate generalities."
+      },
+      {
+        "source": "78f94ddb-c6f8-4a5c-86bb-ea574d7a0c37",
+        "locator": "p. 8",
+        "quote": "the test of some success is application beyond the immediate origin"
+      },
+      {
+        "source": "78f94ddb-c6f8-4a5c-86bb-ea574d7a0c37",
+        "locator": "p. 21",
+        "quote": "The proper test is not that of finality, but of"
+      }
+    ]
+  }
+}

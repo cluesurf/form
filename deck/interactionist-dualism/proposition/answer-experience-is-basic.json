@@ -1,0 +1,45 @@
+{
+  "record": "proposition",
+  "id": "dc7eb40a-8672-40b9-8b4b-cb921faff8ee",
+  "kind": "philosophical",
+  "epistemic_status": "hypothesized",
+  "title": "Answer: experience is basic, made of psychons, and known by privileged access",
+  "statements": [
+    {
+      "id": "553290be-2c1c-4ec4-b33b-b662bbd6038c",
+      "text": "Experience is basic: mental events are not brain events, and the mental world is composed of psychons, each carrying its own characteristic experience. The subject knows experience in a way no observer can, by having it.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "553290be-2c1c-4ec4-b33b-b662bbd6038c",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "9cad897a-4c6d-4de9-b92b-c76760ba8a9c",
+        "locator": "abstract",
+        "quote": "are composed of mental units, each carrying its own characteristic mental experience"
+      }
+    ]
+  }
+}

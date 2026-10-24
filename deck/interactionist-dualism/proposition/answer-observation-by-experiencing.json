@@ -1,0 +1,45 @@
+{
+  "record": "proposition",
+  "id": "d65501c6-d13e-47ea-b805-78b52cc95de1",
+  "kind": "philosophical",
+  "epistemic_status": "hypothesized",
+  "title": "Answer: mental events are observed by the subject who has them, besides public methods",
+  "statements": [
+    {
+      "id": "b0fae3e1-2d69-4193-beaf-663579353282",
+      "text": "The view takes no position on measurement in physics. Others can find out about a person's mental events by studying behavior and brain, and so can the person, but the person also knows them by experiencing them, a way no one else can use.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "b0fae3e1-2d69-4193-beaf-663579353282",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "9a9645ce-d028-451e-8752-1237c4f2f58b",
+        "locator": "eprint p. 2",
+        "quote": "I actually experience perceiving and intentionally acting."
+      }
+    ]
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "record": "link",
+  "id": "bf4bd423-94e4-4b6a-b1b0-a7c88c0921f9",
+  "from": "e7e323c8-f92d-4e19-a974-d8fcccdeb64c",
+  "to": "2422f823-776d-41bf-b984-29fae488a1c1",
+  "relation": "contradicts",
+  "strength": null,
+  "rationale": "If every physical feature has a physical cause, nothing is left for a mental cause.",
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "4bffe5f1-a379-4b92-b51d-3c5ef3046009",
+        "locator": "section 3.3, 'Interactionism'",
+        "quote": "Hence interactionism violates physical closure after all."
+      },
+      {
+        "source": "4bffe5f1-a379-4b92-b51d-3c5ef3046009",
+        "locator": "section 3.3, 'Interactionism'",
+        "quote": "Papineau (2001) argues that such evidence was already clear cut in the 1960s."
+      }
+    ]
+  }
+}

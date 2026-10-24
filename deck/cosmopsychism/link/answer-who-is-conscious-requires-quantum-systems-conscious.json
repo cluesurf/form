@@ -1,0 +1,33 @@
+{
+  "record": "link",
+  "id": "d81ee2bf-469d-4839-a1a5-5dae41f16002",
+  "from": "05940dbb-37ec-4337-8175-cf4d1eb16b07",
+  "to": "e9c9843e-e696-42fe-9890-aac9c2f325f4",
+  "relation": "requires",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "2ab75b9c-c7c1-4d7f-a482-d00c7fe4f31c",
+        "locator": "PDF p. 17",
+        "quote": "Hybrid cosmopsychism makes the common, although not universal (Roelofs 2019), assumption that not all"
+      },
+      {
+        "source": "15531e9b-ad0a-46bd-893e-8b37e693007c",
+        "locator": "p. 400",
+        "quote": "are endowed with a broad range of multifaceted"
+      }
+    ]
+  }
+}

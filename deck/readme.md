@@ -17,16 +17,24 @@ visible. Standing comes from evidence or derivation, never a vote.
 | [`basal-cognition/`](basal-cognition/) | Basal Cognition | Michael Levin |
 | [`causal-emergence/`](causal-emergence/) | Causal Emergence | Erik Hoel |
 | [`chronoflux/`](chronoflux/) | Chronoflux | Roy D. Herbert |
+| [`computational-functionalism/`](computational-functionalism/) | Computational Functionalism | Hilary Putnam, Patrick Butlin, Robert Long, David J. Chalmers |
 | [`conscious-agents/`](conscious-agents/) | Conscious Agents | Donald Hoffman |
+| [`cosmopsychism/`](cosmopsychism/) | Cosmopsychism | Philip Goff, Yujin Nagasawa, Itay Shani |
+| [`eliminative-materialism/`](eliminative-materialism/) | Eliminative Materialism | Paul M. Churchland, Patricia S. Churchland |
+| [`epiphenomenalism/`](epiphenomenalism/) | Epiphenomenalism | Thomas H. Huxley, Frank Jackson |
+| [`felt-uncertainty-theory/`](felt-uncertainty-theory/) | Felt Uncertainty Theory | Mark Solms, Karl Friston, Jaak Panksepp |
 | [`free-energy-principle/`](free-energy-principle/) | Free Energy Principle | Karl Friston |
 | [`global-workspace/`](global-workspace/) | Global Workspace Theory | Bernard Baars, Stanislas Dehaene |
 | [`iit/`](iit/) | Integrated Information Theory | Giulio Tononi |
+| [`interactionist-dualism/`](interactionist-dualism/) | Interactionist Dualism | Karl R. Popper, John C. Eccles, Richard Swinburne |
 | [`matter-as-machine/`](matter-as-machine/) | Matter as Machine | the author of matterasmachine.com |
 | [`orch-or/`](orch-or/) | Orchestrated Objective Reduction (Orch OR) | Roger Penrose, Stuart Hameroff |
 | [`predictive-processing/`](predictive-processing/) | Predictive Processing | Anil Seth |
 | [`present-state/`](present-state/) | Present State | Aneil Mallavarapu, Chris Percy |
+| [`process-panexperientialism/`](process-panexperientialism/) | Process Panexperientialism | Alfred North Whitehead, David Ray Griffin |
 | [`qualia-formalism/`](qualia-formalism/) | Qualia Formalism | Qualia Research Institute |
 | [`quantum-observers/`](quantum-observers/) | Quantum Observers | Chris Fields |
+| [`self-model-theory/`](self-model-theory/) | Self-Model Theory of Subjectivity | Thomas Metzinger |
 | [`vibe/`](vibe/) | Vibe Theory | Lance Pollard |
 
 ## Status

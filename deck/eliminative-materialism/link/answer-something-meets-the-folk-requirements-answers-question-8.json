@@ -1,0 +1,28 @@
+{
+  "record": "link",
+  "id": "c5e5df8b-14d7-499a-825d-426763f562ca",
+  "from": "162da6ac-a2cb-4bc4-8c33-a529b8ab3883",
+  "to": "1742bbfe-92c2-4298-aa13-2df7e20acb32",
+  "relation": "answers",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "4881b7b9-a47f-492c-80a0-18998a6e239d",
+        "locator": "section 4.2, 'Rejecting the Theory-Theory'",
+        "quote": "the world is such that nothing comes close to meeting those requirements"
+      }
+    ]
+  }
+}

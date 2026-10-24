@@ -1,0 +1,28 @@
+{
+  "record": "link",
+  "id": "9ac67c5a-8980-45b2-846b-d49c93729b28",
+  "from": "36119bad-10cc-4b52-8f51-b887bf98867e",
+  "to": "af2bc4e4-a1a9-4f67-860c-1460f09cd55c",
+  "relation": "answers",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "fd223d59-c2ad-4121-b90c-cef1a84f517f",
+        "locator": "section 2, 'The Basic Idea'",
+        "quote": "Not all information is physical information."
+      }
+    ]
+  }
+}

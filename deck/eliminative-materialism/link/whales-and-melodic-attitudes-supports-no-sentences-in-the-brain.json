@@ -1,0 +1,28 @@
+{
+  "record": "link",
+  "id": "f3120367-238c-48ca-ab6f-bad97c7dde6f",
+  "from": "6e21e131-530d-42d2-a312-0e79354d190e",
+  "to": "161cfe5f-73ba-460c-bf79-90894da384a4",
+  "relation": "supports",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "3db58e50-8dbf-47f4-a613-ff8ee88a21d4",
+        "locator": "MIT Press edition, page 396",
+        "quote": "Imagine that whales have a theory of \"melodic attitudes,\" in virtue of which they explain and predict one another's behavior"
+      }
+    ]
+  }
+}

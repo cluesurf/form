@@ -1,0 +1,33 @@
+{
+  "record": "link",
+  "id": "bed49698-74a1-44e3-9e42-28574c0802de",
+  "from": "bd7ab02a-4f21-4013-a036-11674da6b802",
+  "to": "0d5b8b75-6e9c-4c5a-b9ec-c6269ec5c9b3",
+  "relation": "weakens",
+  "strength": null,
+  "rationale": "Regular sequence and counterfactual dependence can hold without causation, so obviousness does not show that feelings cause behavior.",
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "542e0d13-746c-470a-a9b7-86f1d044600d",
+        "locator": "section 2.1, 'Obvious Absurdity'",
+        "quote": "First, it can never be obvious what causes what."
+      },
+      {
+        "source": "542e0d13-746c-470a-a9b7-86f1d044600d",
+        "locator": "section 2.1, 'Obvious Absurdity'",
+        "quote": "the holding of counterfactuals is not enough to show causation"
+      }
+    ]
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "record": "proposition",
+  "id": "9c8f143f-5710-439e-99ba-9fcc54fab8f1",
+  "kind": "philosophical",
+  "epistemic_status": "hypothesized",
+  "title": "Answer: no theory of time, feeling unfolds over cycles of prediction and error",
+  "statements": [
+    {
+      "id": "ec14d73f-e05f-4282-a579-4470b3dba95e",
+      "text": "The theory offers no account of time as such. Feeling arises from repeated comparisons of predicted and sampled sensory states and changes only when the size of prediction errors changes. Because change always happens, the ideal settling point, which Solms calls Nirvana after Freud, is never reached.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "ec14d73f-e05f-4282-a579-4470b3dba95e",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "8834b927-27b0-41e8-8c3f-c15dbf813c57",
+        "locator": "p. 13",
+        "quote": "the Nirvana that the ideal self-organizing system described here strives for can never be attained in a real biological system"
+      },
+      {
+        "source": "224c4197-d629-416a-b17f-4f96e49df600",
+        "locator": "p. 11",
+        "quote": "arise continuously from periodic comparisons between the sensory states that were predicted"
+      }
+    ]
+  }
+}

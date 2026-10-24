@@ -1,0 +1,45 @@
+{
+  "record": "proposition",
+  "id": "85bca7e1-7550-422e-8cfe-af5b3e850444",
+  "kind": "philosophical",
+  "epistemic_status": "hypothesized",
+  "title": "Answer: experience is fixed by a state's computational role",
+  "statements": [
+    {
+      "id": "b6b9e9b1-c787-4582-a231-18c9643b669c",
+      "text": "A state is a conscious experience when it plays the right role in implementing the right algorithm. Whether experience is anything beyond that role is left open: it may be nothing more, or sui generis phenomenal properties for which the role suffices. Either way it is derived from computation in the sense that the computation settles it.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "b6b9e9b1-c787-4582-a231-18c9643b669c",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "ecf4b155-a02f-440e-87ac-837126c9279c",
+        "locator": "arXiv p. 13",
+        "quote": "there is nothing more to a state’s being conscious than its playing a certain role in implementing a computation"
+      }
+    ]
+  }
+}

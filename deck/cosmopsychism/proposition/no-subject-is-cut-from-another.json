@@ -1,0 +1,50 @@
+{
+  "record": "proposition",
+  "id": "4f283d51-54d4-4e99-9285-9b925057564b",
+  "kind": "philosophical",
+  "epistemic_status": "inferred",
+  "title": "No subject is composed of or cut from another",
+  "statements": [
+    {
+      "id": "8c4cd984-eb77-44c9-8aa6-43c6c1c5c32d",
+      "text": "The quality and structure combination problems assume that experiences are literally composed of, or fractured from, the experiences of other subjects. On the filtering hypothesis no subject is phenomenally composed of or fractured from another, and ordinary experiences are not pieces of cosmic experience, so no mereological decombination is involved.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "8c4cd984-eb77-44c9-8aa6-43c6c1c5c32d",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "15531e9b-ad0a-46bd-893e-8b37e693007c",
+        "locator": "p. 401",
+        "quote": "no subject is phenomenally composed of or fractured from another"
+      },
+      {
+        "source": "15531e9b-ad0a-46bd-893e-8b37e693007c",
+        "locator": "p. 402",
+        "quote": "no mereological assumption of phenomenal decombination is involved"
+      }
+    ]
+  }
+}

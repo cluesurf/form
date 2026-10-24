@@ -1,0 +1,50 @@
+{
+  "record": "proposition",
+  "id": "402fb25e-fd9b-46fc-bf55-a8ac30e39165",
+  "kind": "philosophical",
+  "epistemic_status": "inferred",
+  "title": "Pantheism entails cosmopsychism, but not the reverse",
+  "statements": [
+    {
+      "id": "c2d5f4d7-1460-4b28-84d3-f7837ee96559",
+      "text": "If divinity entails phenomenality, pantheism entails that the cosmos as a whole is phenomenal. Cosmopsychism does not entail pantheism, since the phenomenality of the cosmos need not be divine, and some cosmopsychists may give the cosmos phenomenality without a higher self as its bearer.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "c2d5f4d7-1460-4b28-84d3-f7837ee96559",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "ac3b1c98-702b-4d6e-8fca-84491186382e",
+        "locator": "p. 4",
+        "quote": "Pantheism entails cosmopsychism but not vice versa"
+      },
+      {
+        "source": "ac3b1c98-702b-4d6e-8fca-84491186382e",
+        "locator": "p. 10",
+        "quote": "It seems possible that the phenomenality in question is not divine."
+      }
+    ]
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "record": "proposition",
+  "id": "d5ee47bd-613b-497d-bd12-4d46498ede46",
+  "kind": "philosophical",
+  "epistemic_status": "hypothesized",
+  "title": "The combination problem is reframed, not solved",
+  "statements": [
+    {
+      "id": "35f5c390-a2af-4212-9365-798aa884f27c",
+      "text": "Whitehead’s view does not so much solve the combination problem as change its presuppositions: neither matter nor mind is made of simply located bits, so the question is not how bits combine but how temporally resonant events concresce. Concrescence supplies the law James was seeking for a new feeling arising from many.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "35f5c390-a2af-4212-9365-798aa884f27c",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "cf32eaac-9643-4139-b931-e40946180581",
+        "locator": "p. 22",
+        "quote": "Whitehead’s processrelational approach doesn’t so much solve this problem as it does reframe the problem’s presuppositions."
+      }
+    ]
+  }
+}

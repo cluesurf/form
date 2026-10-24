@@ -1,0 +1,38 @@
+{
+  "record": "link",
+  "id": "6278b7c5-1c0b-449f-988e-83b7fb1de4cd",
+  "from": "c0162938-d711-47e8-a899-e7a584681da3",
+  "to": "bde43440-05f9-420a-831b-1dc0ba616d2b",
+  "relation": "defines",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "629ffdcd-cf3c-438c-a392-dd65608e9309",
+        "locator": "p. 3",
+        "quote": "Priority monism says that exactly one basic concrete object, that is, the cosmos, exists"
+      },
+      {
+        "source": "629ffdcd-cf3c-438c-a392-dd65608e9309",
+        "locator": "p. 4",
+        "quote": "all concrete objects, except the cosmos itself, are derivative of the cosmos"
+      },
+      {
+        "source": "6801f71f-b984-44ec-8535-cf2750b86ba3",
+        "locator": "p. 6",
+        "quote": "For the priority monist, facts about little things are grounded in facts about big things"
+      }
+    ]
+  }
+}

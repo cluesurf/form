@@ -1,0 +1,50 @@
+{
+  "record": "proposition",
+  "id": "d2ff4bec-70c5-48c4-b5d1-cf869376eebd",
+  "kind": "definitional",
+  "epistemic_status": "designed",
+  "title": "Mental and pure mental events",
+  "statements": [
+    {
+      "id": "965a7c18-86f9-4f1a-ba35-bc09f77e6c87",
+      "text": "A mental event is one to whose occurrence the substance involved has privileged access: whatever ways others have of finding out about it, the subject has a further way, by experiencing it. A pure mental event is one whose occurrence does not entail the occurrence of any physical event, such as a belief that a desk is in front of one or a trying to move it.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "965a7c18-86f9-4f1a-ba35-bc09f77e6c87",
+  "status": "active",
+  "voice": "framework",
+  "defines": "pure mental event",
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "9a9645ce-d028-451e-8752-1237c4f2f58b",
+        "locator": "eprint p. 2",
+        "quote": "by a mental event one to whose occurrence the substance involved in it has privileged access"
+      },
+      {
+        "source": "9a9645ce-d028-451e-8752-1237c4f2f58b",
+        "locator": "eprint p. 2",
+        "quote": "a pure mental event one whose occurrence does not entail the occurrence of any physical event"
+      }
+    ]
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "record": "proposition",
+  "id": "501f3736-afb2-4e54-ad98-48efc9108e2b",
+  "kind": "philosophical",
+  "epistemic_status": "hypothesized",
+  "title": "Critique: complete physical knowledge would let Mary work out what colors look like",
+  "statements": [
+    {
+      "id": "374bcb00-b07a-41fc-8738-af16c7efe8b2",
+      "text": "Dennett and Paul Churchland doubt the thought experiment: someone who knew everything physical about color vision would be able to figure out what colored things look like and so learn nothing on release. Dennett adds that Mary would not be fooled by a blue banana.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "374bcb00-b07a-41fc-8738-af16c7efe8b2",
+  "status": "active",
+  "voice": "critique",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "fd223d59-c2ad-4121-b90c-cef1a84f517f",
+        "locator": "section 4.1, 'Doubts about the Thought Experiment'",
+        "quote": "would be able to figure out what colored things look like"
+      },
+      {
+        "source": "fd223d59-c2ad-4121-b90c-cef1a84f517f",
+        "locator": "section 4.1, 'Doubts about the Thought Experiment'",
+        "quote": "the blue banana trick"
+      }
+    ]
+  }
+}

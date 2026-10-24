@@ -1,0 +1,33 @@
+{
+  "record": "link",
+  "id": "e2ac8ef6-183f-4ed4-a2de-fe3f7d97d9f0",
+  "from": "adccdefb-b200-49f5-9207-77eb39f0e739",
+  "to": "1db1bbe9-0f32-4e1f-8237-c8fe26bf268f",
+  "relation": "answers",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "6801f71f-b984-44ec-8535-cf2750b86ba3",
+        "locator": "p. 13",
+        "quote": "We know about the causal structure of matter through the way it impacts on our senses"
+      },
+      {
+        "source": "15531e9b-ad0a-46bd-893e-8b37e693007c",
+        "locator": "p. 397",
+        "quote": "every material system can be regarded as an open stochastic system in permanent"
+      }
+    ]
+  }
+}

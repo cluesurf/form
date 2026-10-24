@@ -1,0 +1,45 @@
+{
+  "record": "proposition",
+  "id": "dbe00c7d-4707-4cff-9c14-0051c85e07dc",
+  "kind": "philosophical",
+  "epistemic_status": "hypothesized",
+  "title": "Critique: a self that is consciousness would not exist while unconscious",
+  "statements": [
+    {
+      "id": "b6282dbe-71c4-4b0a-855c-964cc30fec1d",
+      "text": "If the immaterial substance is consciousness itself, the subject does not exist when unconscious. Swinburne accepts one answer, that a person exists intermittently while remaining the same thing.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "b6282dbe-71c4-4b0a-855c-964cc30fec1d",
+  "status": "active",
+  "voice": "critique",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "4bffe5f1-a379-4b92-b51d-3c5ef3046009",
+        "locator": "section 5.2.2, 'Unity and Substance Dualism'",
+        "quote": "that we exist intermittently, though are still the same thing (which is Swinburne’s theory"
+      }
+    ]
+  }
+}

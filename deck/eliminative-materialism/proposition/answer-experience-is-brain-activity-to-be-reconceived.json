@@ -1,0 +1,45 @@
+{
+  "record": "proposition",
+  "id": "426e45d5-e94c-42e1-b162-a8d60df420af",
+  "kind": "philosophical",
+  "epistemic_status": "hypothesized",
+  "title": "Answer: experience is brain activity, and the folk concept of it may not survive",
+  "statements": [
+    {
+      "id": "414c2ee8-70fc-486e-a7cd-12015b074eba",
+      "text": "Experience is derived: it is activity of the brain. The commonsense conception of experience, transparent to introspection, unified and tied to language, may come unstuck as neuroscience proceeds, the way phlogiston did.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "414c2ee8-70fc-486e-a7cd-12015b074eba",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "de8573b3-42af-4c30-94e9-01704e16b3ea",
+        "locator": "p. 80",
+        "quote": "certain concepts lose their integrity and fall apart"
+      }
+    ]
+  }
+}

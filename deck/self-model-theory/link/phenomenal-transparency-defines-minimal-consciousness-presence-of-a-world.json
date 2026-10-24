@@ -1,0 +1,33 @@
+{
+  "record": "link",
+  "id": "5cd0d226-723f-4cce-9d5d-e7a5d1dfdad0",
+  "from": "c0208e1c-f997-431c-bb5d-a9c3a189810b",
+  "to": "21a2a6f2-1d2b-46a9-a3fd-a8a85b102836",
+  "relation": "defines",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "bcdebbd0-38c1-4227-a43b-6a7a59f74207",
+        "locator": "p. 2",
+        "quote": "Transparency is a special form of darkness."
+      },
+      {
+        "source": "1bc792ee-c3ee-4f0c-93b8-a818a2897c06",
+        "locator": "p. 2",
+        "quote": "is a property of conscious representations, namely, that they are not experienced as representations"
+      }
+    ]
+  }
+}

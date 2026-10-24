@@ -1,0 +1,33 @@
+{
+  "record": "link",
+  "id": "daa479f3-e853-454a-ad16-0e46497aaf45",
+  "from": "501f3736-afb2-4e54-ad98-48efc9108e2b",
+  "to": "f667ff98-5ea0-42de-9508-f7c04ec6042c",
+  "relation": "weakens",
+  "strength": null,
+  "rationale": "If complete physical knowledge would show what colors look like, Mary learns nothing on release.",
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "fd223d59-c2ad-4121-b90c-cef1a84f517f",
+        "locator": "section 4.1, 'Doubts about the Thought Experiment'",
+        "quote": "would be able to figure out what colored things look like"
+      },
+      {
+        "source": "fd223d59-c2ad-4121-b90c-cef1a84f517f",
+        "locator": "section 4.1, 'Doubts about the Thought Experiment'",
+        "quote": "the blue banana trick"
+      }
+    ]
+  }
+}

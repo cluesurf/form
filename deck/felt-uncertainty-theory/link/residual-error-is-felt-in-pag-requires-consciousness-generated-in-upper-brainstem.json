@@ -1,0 +1,33 @@
+{
+  "record": "link",
+  "id": "2747ab46-8876-45f1-8dbe-31d33300fd52",
+  "from": "f38f4954-2431-46c2-a459-72a46327dabf",
+  "to": "262805f6-ee6c-45ea-9518-fe92e9023a04",
+  "relation": "requires",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "8834b927-27b0-41e8-8c3f-c15dbf813c57",
+        "locator": "p. 8",
+        "quote": "mechanisms located mainly in the PAG—the terminus of all affective circuitry"
+      },
+      {
+        "source": "8834b927-27b0-41e8-8c3f-c15dbf813c57",
+        "locator": "p. 12",
+        "quote": "the residual error in each action/perception cycle (registered in PAG, see section"
+      }
+    ]
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "record": "proposition",
+  "id": "4f180791-484e-457f-8eb2-7d2f4439440a",
+  "kind": "philosophical",
+  "epistemic_status": "hypothesized",
+  "title": "Answer: any system meeting the constraints, with or without a self",
+  "statements": [
+    {
+      "id": "8d402ec1-30b2-402e-abab-00e494dca011",
+      "text": "Any system whose representations meet the constraints is conscious, and conditions for consciousness are sought for any type of system. Many animals are intentional systems that never become aware of it, some control attention without forming concepts, and in some states consciousness occurs with no self at all.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "8d402ec1-30b2-402e-abab-00e494dca011",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "bcdebbd0-38c1-4227-a43b-6a7a59f74207",
+        "locator": "p. 28",
+        "quote": "many nonhuman animals are intentional systems, but that their nervous systems do not allow them to ever become aware of this fact"
+      },
+      {
+        "source": "1bc792ee-c3ee-4f0c-93b8-a818a2897c06",
+        "locator": "p. 8",
+        "quote": "there are many animals on this planet that can selectively control their attention, but are unable to form concepts"
+      }
+    ]
+  }
+}

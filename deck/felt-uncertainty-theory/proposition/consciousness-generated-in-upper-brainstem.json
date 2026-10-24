@@ -1,0 +1,55 @@
+{
+  "record": "proposition",
+  "id": "262805f6-ee6c-45ea-9518-fe92e9023a04",
+  "kind": "empirical",
+  "epistemic_status": "inferred",
+  "title": "Consciousness is generated in the upper brainstem",
+  "statements": [
+    {
+      "id": "a84027d7-1506-4422-aba0-398f4fb4c7f4",
+      "text": "Removing the cortex does not abolish consciousness, while focal lesions of the upper brainstem do. Since without brainstem arousal there is no cortical consciousness but not the other way round, this double dissociation shows that consciousness is generated in the upper brainstem, with the periaqueductal gray as a nodal point.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "a84027d7-1506-4422-aba0-398f4fb4c7f4",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "8834b927-27b0-41e8-8c3f-c15dbf813c57",
+        "locator": "p. 6",
+        "quote": "we must conclude that consciousness is generated in the upper brainstem"
+      },
+      {
+        "source": "8834b927-27b0-41e8-8c3f-c15dbf813c57",
+        "locator": "p. 6",
+        "quote": "In the absence of brainstem arousal there cannot be cortical consciousness, but the converse does not apply."
+      },
+      {
+        "source": "afbb68ed-2795-46f2-a80b-5e9c8f6d456d",
+        "locator": "section 8 'All Consciousness Is Endogenous'",
+        "quote": "all consciousness ultimately derives from upper brainstem sources"
+      }
+    ]
+  }
+}

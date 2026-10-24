@@ -1,0 +1,50 @@
+{
+  "record": "proposition",
+  "id": "e396c689-c209-4317-8954-cd35d223404a",
+  "kind": "philosophical",
+  "epistemic_status": "hypothesized",
+  "title": "Answer: higher intelligence presupposes a self-model",
+  "statements": [
+    {
+      "id": "db85a46a-f625-4e2a-8289-f67f99978ec6",
+      "text": "Many higher forms of intelligence and adaptive behavior, including risk management, moral cognition and cooperation, presuppose a self-model portraying the organism as one entity enduring over time. Iterating the PMIR yields introspective and social intelligence.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "db85a46a-f625-4e2a-8289-f67f99978ec6",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "f901177d-d5a1-49ec-a74e-2adc81f988ea",
+        "locator": "p. 5",
+        "quote": "Many higher forms of intelligence and adaptive behavior, including risk management, moral cognition, and cooperative social behavior, functionally presuppose a self-model"
+      },
+      {
+        "source": "bcdebbd0-38c1-4227-a43b-6a7a59f74207",
+        "locator": "p. 29",
+        "quote": "two entirely new forms of intelligence emerge"
+      }
+    ]
+  }
+}

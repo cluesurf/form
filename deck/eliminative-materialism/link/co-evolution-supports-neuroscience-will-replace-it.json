@@ -1,0 +1,33 @@
+{
+  "record": "link",
+  "id": "54a3a436-6140-433d-92a5-c63e39c28d52",
+  "from": "3023aa10-3982-4fdb-b40d-5354ccf0005f",
+  "to": "7a5d895e-2ae1-453c-a665-e446c6ae1eda",
+  "relation": "supports",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "3db58e50-8dbf-47f4-a613-ff8ee88a21d4",
+        "locator": "MIT Press edition, page 362",
+        "quote": "Five general reasons speak against the autonomy ideology and in favor of embracing an ideology of co-evolutionary development"
+      },
+      {
+        "source": "3db58e50-8dbf-47f4-a613-ff8ee88a21d4",
+        "locator": "MIT Press edition, page 362",
+        "quote": "Categories at any level specifying the fundamental kinds may need to be revised, and the revisionary rationales may come from research at any level"
+      }
+    ]
+  }
+}

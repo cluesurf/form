@@ -1,0 +1,50 @@
+{
+  "record": "proposition",
+  "id": "dfa9ac70-257f-4c58-b568-27fccf771015",
+  "kind": "philosophical",
+  "epistemic_status": "inferred",
+  "title": "Not all information is physical information, so physicalism is false",
+  "statements": [
+    {
+      "id": "b0ce9382-99bb-40a8-a29d-a955e3c611d3",
+      "text": "Mary has all the physical information about human color vision before her release, but there is information about it she lacks. So not all information is physical information, and physicalism is false. Of the two readings, a weaker one about knowledge and a stronger one about facts, Jackson meant the stronger: there are nonphysical facts about color experience.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "b0ce9382-99bb-40a8-a29d-a955e3c611d3",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "fd223d59-c2ad-4121-b90c-cef1a84f517f",
+        "locator": "section 2, 'The Basic Idea' (quoting Jackson 1982)",
+        "quote": "Ergo there is more to have than that, and Physicalism is false."
+      },
+      {
+        "source": "fd223d59-c2ad-4121-b90c-cef1a84f517f",
+        "locator": "section 3.1, 'Two Versions of the Argument'",
+        "quote": "it is clear that the second stronger version is what he had in mind"
+      }
+    ]
+  }
+}

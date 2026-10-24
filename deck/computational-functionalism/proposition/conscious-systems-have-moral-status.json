@@ -1,0 +1,50 @@
+{
+  "record": "proposition",
+  "id": "8251c861-e5ab-4c3e-bc30-fc55936a29c8",
+  "kind": "normative",
+  "epistemic_status": "normative",
+  "title": "Conscious systems have moral status",
+  "statements": [
+    {
+      "id": "e4e9cfc3-88f7-4c08-9010-9e10fad75548",
+      "text": "Conscious systems have moral status, so if AI systems become conscious it will matter how they are treated. Any entity capable of conscious suffering very plausibly deserves moral consideration, and failing to recognize consciousness in AI systems risks morally significant harms.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "e4e9cfc3-88f7-4c08-9010-9e10fad75548",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "741e8f86-4660-494d-8dd8-dfce0f4719e3",
+        "locator": "arXiv p. 4",
+        "quote": "Conscious systems have moral status."
+      },
+      {
+        "source": "ecf4b155-a02f-440e-87ac-837126c9279c",
+        "locator": "arXiv p. 64",
+        "quote": "which is capable of conscious suffering deserves moral consideration"
+      }
+    ]
+  }
+}

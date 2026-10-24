@@ -1,0 +1,33 @@
+{
+  "record": "link",
+  "id": "7b22ec91-9bc5-4ae8-9097-9487a35356a6",
+  "from": "7fc6d919-ebab-44fc-b13c-6566bedfb793",
+  "to": "ea888beb-7ef6-458a-b775-73e51d60d352",
+  "relation": "requires",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "bcdebbd0-38c1-4227-a43b-6a7a59f74207",
+        "locator": "p. 5",
+        "quote": "‘‘I am someone, who is currently visually attending to the colour of the book in my hands,’’"
+      },
+      {
+        "source": "1bc792ee-c3ee-4f0c-93b8-a818a2897c06",
+        "locator": "p. 8",
+        "quote": "having an attentional 1PP can be fruitfully associated with secondorder statistics or precision optimization"
+      }
+    ]
+  }
+}

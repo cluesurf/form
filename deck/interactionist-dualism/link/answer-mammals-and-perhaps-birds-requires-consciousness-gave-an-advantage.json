@@ -1,0 +1,33 @@
+{
+  "record": "link",
+  "id": "122d09df-ec84-43ab-a2a9-2c9accac54f3",
+  "from": "83066379-9a1b-42a9-b734-3f2f59a0e618",
+  "to": "bf558733-39a6-4bae-ac9c-2190b22664bc",
+  "relation": "requires",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "376b0486-c527-4cc7-952d-0f98af4e4b8e",
+        "locator": "abstract",
+        "quote": "So conscious experiences would give mammals evolutionary advantage over the reptiles, which lack a neocortex giving consciousness."
+      },
+      {
+        "source": "9a9645ce-d028-451e-8752-1237c4f2f58b",
+        "locator": "eprint p. 8",
+        "quote": "What applies to me applies to all other humans and any other conscious beings there may be."
+      }
+    ]
+  }
+}

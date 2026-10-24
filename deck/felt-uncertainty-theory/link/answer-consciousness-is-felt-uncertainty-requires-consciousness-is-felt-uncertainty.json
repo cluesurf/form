@@ -1,0 +1,33 @@
+{
+  "record": "link",
+  "id": "2179814f-e683-477c-b2d5-84802a243348",
+  "from": "817610e1-4571-4354-9f74-a2534616076b",
+  "to": "31a7ba37-7364-4bdf-817f-66be0f393ece",
+  "relation": "requires",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "8834b927-27b0-41e8-8c3f-c15dbf813c57",
+        "locator": "p. 7",
+        "quote": "In short, consciousness is felt uncertainty."
+      },
+      {
+        "source": "8834b927-27b0-41e8-8c3f-c15dbf813c57",
+        "locator": "p. 12",
+        "quote": "Consciousness itself is affective."
+      }
+    ]
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "record": "proposition",
+  "id": "03e34025-f314-4cd5-bf84-38ae8763f198",
+  "kind": "philosophical",
+  "epistemic_status": "hypothesized",
+  "title": "Critique: exclusion arguments rest on one contested idea of causation",
+  "statements": [
+    {
+      "id": "dc2c8711-1ed4-4f7d-901e-49486ceb14e6",
+      "text": "Many writers hold that Kim-style exclusion arguments depend on an understanding of causation for which there are better alternatives, such as interventionism. On some of those conceptions mental states still cause behavior, though epiphenomenalists may grant this and hold their view vindicated if all productive causation is physical.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "dc2c8711-1ed4-4f7d-901e-49486ceb14e6",
+  "status": "active",
+  "voice": "critique",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "542e0d13-746c-470a-a9b7-86f1d044600d",
+        "locator": "section 3.2, 'Responses to Exclusion Arguments'",
+        "quote": "Many writers have held that Kim-style exclusion arguments depend on an understanding of causation for which there are preferable alternatives."
+      }
+    ]
+  }
+}

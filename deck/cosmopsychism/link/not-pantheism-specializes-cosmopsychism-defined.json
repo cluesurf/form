@@ -1,0 +1,33 @@
+{
+  "record": "link",
+  "id": "300bbef7-e2e3-48b5-a3d9-84169bdab7e7",
+  "from": "e1822a05-385f-4126-95dd-8e642bec8dd6",
+  "to": "d12e3498-ea05-4010-990f-0ffe925135e0",
+  "relation": "specializes",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "dd678356-d737-4be1-b525-267774f35a6b",
+        "locator": "section 2.4 'Micropsychism Versus Cosmopsychism'",
+        "quote": "Cosmopsychism is not to be confused with pantheism: the view that the universe is God."
+      },
+      {
+        "source": "2ab75b9c-c7c1-4d7f-a482-d00c7fe4f31c",
+        "locator": "PDF p. 14",
+        "quote": "it is unlikely that one will end up ascribing intelligence or agency to the cosmos"
+      }
+    ]
+  }
+}

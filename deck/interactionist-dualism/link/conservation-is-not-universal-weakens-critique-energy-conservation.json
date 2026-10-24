@@ -1,0 +1,28 @@
+{
+  "record": "link",
+  "id": "a64b64bf-383d-4a76-be45-b96ef3e95b4d",
+  "from": "5e1bc10c-eb8b-415f-9e0d-c88a7bc06c24",
+  "to": "b67b5a6f-831d-4c12-a5d5-98810eba3a32",
+  "relation": "weakens",
+  "strength": null,
+  "rationale": "If physics itself has nonconserving regimes, nonconservation in brains is not anomalous.",
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "4bffe5f1-a379-4b92-b51d-3c5ef3046009",
+        "locator": "section 3.3, 'Interactionism'",
+        "quote": "He argues that energy is not conserved in general relativity, in quantum theory, or in the universe taken as a whole."
+      }
+    ]
+  }
+}

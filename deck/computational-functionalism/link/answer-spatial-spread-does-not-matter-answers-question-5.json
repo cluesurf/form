@@ -1,0 +1,28 @@
+{
+  "record": "link",
+  "id": "759f850b-0d8c-4ee8-8190-ace13cf58c87",
+  "from": "8b4b1710-283c-4fcf-82f9-2ee3472b45dd",
+  "to": "74e87691-55c5-45d4-bcbe-85fb62e5912d",
+  "relation": "answers",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "40a4280a-4b0f-44b2-b9c6-95fce46b932d",
+        "locator": "section 5.5.1, 'Inverted and Absent Qualia'",
+        "quote": "creatures with parts widely distributed in space"
+      }
+    ]
+  }
+}

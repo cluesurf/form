@@ -1,0 +1,50 @@
+{
+  "record": "proposition",
+  "id": "01c82e38-125f-46ac-aeb9-1aaeb9dc414e",
+  "kind": "philosophical",
+  "epistemic_status": "hypothesized",
+  "title": "Affect is older than perception and built the mental apparatus",
+  "statements": [
+    {
+      "id": "23b61eac-6c2c-46cd-9e42-7af78b6d0e4d",
+      "text": "Affective functions lie more medially in the brain than external perceptual ones, which suggests affect is more ancient and had priority in building the mental apparatus. Perceptual and higher cognitive consciousness may have emerged in the neocortex on an evolutionary foundation of affective consciousness.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "23b61eac-6c2c-46cd-9e42-7af78b6d0e4d",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "111a5886-a4ef-4617-8176-15a18ef33dd7",
+        "locator": "p. 13",
+        "quote": "suggesting that affect is more ancient, and hence would have had priority in the construction of the mental apparatus"
+      },
+      {
+        "source": "afbb68ed-2795-46f2-a80b-5e9c8f6d456d",
+        "locator": "section 9 'Mental Solids'",
+        "quote": "It is possible that perceptual and higher cognitive forms of consciousness emerged in the neocortex upon an evolutionary foundation of affective consciousness"
+      }
+    ]
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "record": "link",
+  "id": "78857ced-c610-4076-9b2b-232d4bf1d944",
+  "from": "35d3d0ef-56b3-416d-a983-2f3c9e6ce309",
+  "to": "c1d56873-98b8-4225-a4f6-7c324e3641f9",
+  "relation": "requires",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "8834b927-27b0-41e8-8c3f-c15dbf813c57",
+        "locator": "p. 14",
+        "quote": "the essential task of cognitive (cortical) consciousness is to delay motor responses to affective \"demands made upon the mind for work"
+      },
+      {
+        "source": "224c4197-d629-416a-b17f-4f96e49df600",
+        "locator": "p. 17",
+        "quote": "Thinking is a virtual form of acting"
+      }
+    ]
+  }
+}

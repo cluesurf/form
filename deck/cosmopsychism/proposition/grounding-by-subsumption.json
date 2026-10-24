@@ -1,0 +1,50 @@
+{
+  "record": "proposition",
+  "id": "5c649618-86be-46f8-a16c-2ea380034c60",
+  "kind": "definitional",
+  "epistemic_status": "designed",
+  "title": "Grounding by subsumption",
+  "statements": [
+    {
+      "id": "78ebfe2f-4c1a-4623-b35a-6d3c75e2a3c5",
+      "text": "X grounds Y by subsumption when Y is a partial aspect of X, as a red experience is an aspect of a total experience, a property an aspect of its propertied object, or a region of space an aspect of the whole of space. The whole subsumes the reality of the aspect, so the aspect is nothing over and above the whole without being identical to it.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "78ebfe2f-4c1a-4623-b35a-6d3c75e2a3c5",
+  "status": "active",
+  "voice": "framework",
+  "defines": "grounding by subsumption",
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "6801f71f-b984-44ec-8535-cf2750b86ba3",
+        "locator": "p. 7",
+        "quote": "X grounds by subsumption Y iff Y is a partial aspect of X"
+      },
+      {
+        "source": "6801f71f-b984-44ec-8535-cf2750b86ba3",
+        "locator": "p. 9",
+        "quote": "In each case, the reality of the whole subsumes the reality of the aspect."
+      }
+    ]
+  }
+}

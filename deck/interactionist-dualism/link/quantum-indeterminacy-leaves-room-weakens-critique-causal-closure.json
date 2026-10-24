@@ -1,0 +1,33 @@
+{
+  "record": "link",
+  "id": "b8523758-ca1f-4bcf-9ab6-8247f367a3df",
+  "from": "48f66e39-cd5b-427d-bdc1-0d84262e764b",
+  "to": "e7e323c8-f92d-4e19-a974-d8fcccdeb64c",
+  "relation": "weakens",
+  "strength": null,
+  "rationale": "Under indeterministic laws, a mental influence can produce a lawful outcome.",
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "4bffe5f1-a379-4b92-b51d-3c5ef3046009",
+        "locator": "section 3.3, 'Interactionism'",
+        "quote": "But if they are indeterministic, interference might produce a result that has a probability greater than zero, and so be consistent with the laws."
+      },
+      {
+        "source": "4bffe5f1-a379-4b92-b51d-3c5ef3046009",
+        "locator": "section 3.3, 'Interactionism'",
+        "quote": "Others argue that the structure of the brain is so finely tuned that minute variations could have macroscopic effects"
+      }
+    ]
+  }
+}

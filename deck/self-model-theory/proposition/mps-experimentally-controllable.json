@@ -1,0 +1,50 @@
+{
+  "record": "proposition",
+  "id": "2cb58539-ff22-4aae-bdb7-47b402caabf8",
+  "kind": "empirical",
+  "epistemic_status": "hypothesized",
+  "title": "Minimal selfhood can be controlled in the laboratory",
+  "statements": [
+    {
+      "id": "bd81a446-7e84-484d-bbdf-0c521fa19000",
+      "text": "Minimal phenomenal selfhood can be experimentally manipulated, as in full-body illusions induced with virtual reality and synchronous touch, which shift self-identification and self-location toward an avatar. Ownership can be manipulated by passive exposure to correlated self-related signals, as in the rubber hand illusion.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "bd81a446-7e84-484d-bbdf-0c521fa19000",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "1bc792ee-c3ee-4f0c-93b8-a818a2897c06",
+        "locator": "p. 11",
+        "quote": "MPS can be experimentally controlled"
+      },
+      {
+        "source": "f901177d-d5a1-49ec-a74e-2adc81f988ea",
+        "locator": "p. 5",
+        "quote": "the phenomenal experience of ownership can be manipulated merely by passive exposure to correlations among self-related signals"
+      }
+    ]
+  }
+}

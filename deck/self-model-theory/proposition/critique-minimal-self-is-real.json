@@ -1,0 +1,50 @@
+{
+  "record": "proposition",
+  "id": "f647cb27-7343-4df6-9d61-e7978168ff9b",
+  "kind": "philosophical",
+  "epistemic_status": "hypothesized",
+  "title": "Critique: a minimal self of first-personal givenness has experiential reality",
+  "statements": [
+    {
+      "id": "de12d289-4859-4291-9473-987e0b8ee8fd",
+      "text": "In the phenomenological tradition the minimal self has experiential reality: it is the first-personal givenness, or mineness, of experience, the invariant dimension of first-personal givenness across changing experiences. Metzinger describes a pre-reflective self-acquaintance much like it, but the phenomenologists hold that a self is real if it has experiential reality.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "de12d289-4859-4291-9473-987e0b8ee8fd",
+  "status": "active",
+  "voice": "critique",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "63158fc1-977b-4dd6-a644-81162af23c8d",
+        "locator": "p. 9",
+        "quote": "the self referred to is not something standing beyond or opposed to the stream of experiences"
+      },
+      {
+        "source": "63158fc1-977b-4dd6-a644-81162af23c8d",
+        "locator": "p. 10",
+        "quote": "The phenomenologists would argue that the self is real if it has experiential reality"
+      }
+    ]
+  }
+}

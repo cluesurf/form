@@ -1,0 +1,50 @@
+{
+  "record": "proposition",
+  "id": "57836661-6a34-48fb-9130-b6b5e69b2c25",
+  "kind": "empirical",
+  "epistemic_status": "hypothesized",
+  "title": "Answer: neuroscience of conscious and nonconscious states, attention and memory",
+  "statements": [
+    {
+      "id": "60b92c69-3940-4094-a22f-90a7bd26fc44",
+      "text": "What can be checked is how the brain does what the folk concepts describe: the neurophysiological differences between conscious and nonconscious states, sleep, attention, memory and learning, by single-cell recording, lesion studies, functional imaging and ethology. The lesson is to learn the science, do the science and see what happens.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "60b92c69-3940-4094-a22f-90a7bd26fc44",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "de8573b3-42af-4c30-94e9-01704e16b3ea",
+        "locator": "p. 93",
+        "quote": "studies to determine the neurophysiological differences between conscious and nonconscious states"
+      },
+      {
+        "source": "27443c8b-98a2-4cb5-b376-f6a0a8842762",
+        "locator": "concluding section",
+        "quote": "Learn the science, do the science, and see what happens."
+      }
+    ]
+  }
+}

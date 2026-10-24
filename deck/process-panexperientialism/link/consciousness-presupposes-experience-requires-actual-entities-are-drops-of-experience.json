@@ -1,0 +1,28 @@
+{
+  "record": "link",
+  "id": "ebb76c98-23d0-4196-b249-9332f05ee475",
+  "from": "0f768160-723a-4940-9b2c-7c309442f915",
+  "to": "f8ccd994-92d3-4cc1-a373-b087998330c5",
+  "relation": "requires",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "78f94ddb-c6f8-4a5c-86bb-ea574d7a0c37",
+        "locator": "p. 83",
+        "quote": "consciousness presupposes experience, and not experience consciousness"
+      }
+    ]
+  }
+}

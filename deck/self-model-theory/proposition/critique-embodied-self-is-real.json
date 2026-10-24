@@ -1,0 +1,50 @@
+{
+  "record": "proposition",
+  "id": "611a5ce3-9ec8-49c3-90fc-91bc35bb3727",
+  "kind": "philosophical",
+  "epistemic_status": "hypothesized",
+  "title": "Critique: on a non-Cartesian view of the body the self is real",
+  "statements": [
+    {
+      "id": "2998befc-c7aa-4695-997d-1187e57eee46",
+      "text": "Gallagher argues that whether there is a real self depends on the concept of reality used. On a non-Cartesian concept, an organism engaged in pragmatic action and interaction with others generates a self that is real and not an illusion. He also finds a slippage from metaphors, such as waking experience as an online hallucination, to claims of scientific fact.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "2998befc-c7aa-4695-997d-1187e57eee46",
+  "status": "active",
+  "voice": "critique",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "8f91ac7f-1adf-40bd-88f6-df1b1814f9fd",
+        "locator": "p. 1",
+        "quote": "the self should be considered something real, and not simply an illusion"
+      },
+      {
+        "source": "8f91ac7f-1adf-40bd-88f6-df1b1814f9fd",
+        "locator": "p. 2",
+        "quote": "one frequently finds a subtle slippage between metaphor and science"
+      }
+    ]
+  }
+}

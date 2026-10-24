@@ -1,0 +1,45 @@
+{
+  "record": "proposition",
+  "id": "e6a2bc47-6b5a-4ea2-afed-2fdca36a3c38",
+  "kind": "philosophical",
+  "epistemic_status": "inferred",
+  "title": "Computational functionalism is neutral between reductive and sui generis phenomenal properties",
+  "statements": [
+    {
+      "id": "10534f06-1ca4-4f53-a417-e9d9e1df4ea9",
+      "text": "Computational functionalism fits both the view that a state's being conscious is nothing more than its playing a role in a computation, and the view that being conscious is having sui generis phenomenal properties for which that role is sufficient.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "10534f06-1ca4-4f53-a417-e9d9e1df4ea9",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "ecf4b155-a02f-440e-87ac-837126c9279c",
+        "locator": "arXiv p. 13",
+        "quote": "the view that a state’s being conscious is a matter of its having sui generis phenomenal properties, for which its role in implementing a computation is sufficient"
+      }
+    ]
+  }
+}

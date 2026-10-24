@@ -1,0 +1,50 @@
+{
+  "record": "proposition",
+  "id": "adccdefb-b200-49f5-9207-77eb39f0e739",
+  "kind": "philosophical",
+  "epistemic_status": "hypothesized",
+  "title": "Answer: no theory of measurement, observation reveals causal structure",
+  "statements": [
+    {
+      "id": "68758b6d-c201-4142-9112-0d86d9f9b49a",
+      "text": "The view takes no position on quantum measurement. Observation through the senses reveals the causal structure of matter, consciousness is known by acquaintance, and no faculty reaches the non-phenomenal nature of matter. Shani and Keppler rely on stochastic electrodynamics, on which every material system is an open stochastic system in contact with the zero-point field.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "68758b6d-c201-4142-9112-0d86d9f9b49a",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "6801f71f-b984-44ec-8535-cf2750b86ba3",
+        "locator": "p. 13",
+        "quote": "We know about the causal structure of matter through the way it impacts on our senses"
+      },
+      {
+        "source": "15531e9b-ad0a-46bd-893e-8b37e693007c",
+        "locator": "p. 397",
+        "quote": "every material system can be regarded as an open stochastic system in permanent"
+      }
+    ]
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "record": "link",
+  "id": "30c60439-35b0-4cbf-a5c5-ca0c1844899a",
+  "from": "7f446ea3-06fd-4538-89aa-917fd56ca1b5",
+  "to": "b67b5a6f-831d-4c12-a5d5-98810eba3a32",
+  "relation": "weakens",
+  "strength": null,
+  "rationale": "Conservation holds only where no mind acts, so a mind acting on a brain breaks no law that applies there.",
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "4bffe5f1-a379-4b92-b51d-3c5ef3046009",
+        "locator": "section 3.3, 'Interactionism'",
+        "quote": "Whereas ‘[t]he interactionist denies…that the human body is an isolated system’, so the principle is irrelevant"
+      },
+      {
+        "source": "ca8520b1-c069-4551-b4a7-3d560c5ff593",
+        "locator": "p. 95",
+        "quote": "which sees conservation as (bi)conditional upon symmetries and simply accepts energy non-conservation as an aspect of interactionist dualism"
+      }
+    ]
+  }
+}

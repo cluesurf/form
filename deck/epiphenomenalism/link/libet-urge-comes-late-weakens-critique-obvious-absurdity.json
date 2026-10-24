@@ -1,0 +1,33 @@
+{
+  "record": "link",
+  "id": "334a1326-5bd2-4da1-8bec-ed780fbad9bd",
+  "from": "1adb78b2-ebab-4c6a-b7d7-a8c81f38c19a",
+  "to": "0d5b8b75-6e9c-4c5a-b9ec-c6269ec5c9b3",
+  "relation": "weakens",
+  "strength": null,
+  "rationale": "If the urge to move comes after the brain has started the movement, the felt causal role of the urge can be an illusion.",
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "542e0d13-746c-470a-a9b7-86f1d044600d",
+        "locator": "section 3.5, 'Empirical Considerations'",
+        "quote": "the RP occurred about 350 ms earlier than the time that participants reported having the urge to move"
+      },
+      {
+        "source": "542e0d13-746c-470a-a9b7-86f1d044600d",
+        "locator": "section 3.5, 'Empirical Considerations'",
+        "quote": "The possibility of causal illusion, in turn, weakens the intuitive argument against epiphenomenalism"
+      }
+    ]
+  }
+}

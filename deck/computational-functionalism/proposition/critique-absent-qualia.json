@@ -1,0 +1,45 @@
+{
+  "record": "proposition",
+  "id": "567fdb6d-f1c9-46c7-baef-049375a3fa2b",
+  "kind": "philosophical",
+  "epistemic_status": "hypothesized",
+  "title": "Critique: absent qualia, the China brain duplicates the organization without the feel",
+  "statements": [
+    {
+      "id": "46024604-535b-457b-b94c-8fe54ebd4e44",
+      "text": "Block imagines the population of China recruited to duplicate a person's functional organization, with radio links and an artificial body. Such a homunculi-headed system would have no mental states with qualitative character, so there could be states functionally equivalent to sensations that lack their feel.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "46024604-535b-457b-b94c-8fe54ebd4e44",
+  "status": "active",
+  "voice": "critique",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "40a4280a-4b0f-44b2-b9c6-95fce46b932d",
+        "locator": "section 5.5.1, 'Inverted and Absent Qualia'",
+        "quote": "Block argues that such a “homunculi-headed” system would not have mental states with any qualitative character"
+      }
+    ]
+  }
+}

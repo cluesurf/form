@@ -1,0 +1,33 @@
+{
+  "record": "link",
+  "id": "ce0f71bd-090f-4421-8c0f-3d35e2fd95f0",
+  "from": "aa8ae7d2-0814-4e12-9d10-07a28e6fe966",
+  "to": "15c9abd8-8cf0-4081-9544-d54b1b491317",
+  "relation": "defines",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "4881b7b9-a47f-492c-80a0-18998a6e239d",
+        "locator": "section 2.1, 'Folk Psychology and the Theory-Theory'",
+        "quote": "Folk psychology is assumed to consist of both generalizations (or laws) and specific theoretical posits"
+      },
+      {
+        "source": "4881b7b9-a47f-492c-80a0-18998a6e239d",
+        "locator": "section 2.1, 'Folk Psychology and the Theory-Theory'",
+        "quote": "If someone has the desire for X and the belief that the best way to get X is by doing Y, then (barring certain conditions) that person will tend to do Y."
+      }
+    ]
+  }
+}

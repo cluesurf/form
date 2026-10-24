@@ -1,0 +1,50 @@
+{
+  "record": "proposition",
+  "id": "d4692d49-fc94-4644-9d35-d6424eb2abc6",
+  "kind": "philosophical",
+  "epistemic_status": "hypothesized",
+  "title": "Critique: the success of folk psychology is best explained by its truth",
+  "statements": [
+    {
+      "id": "5c176471-4a92-45b5-ae5e-3b4deab8fb59",
+      "text": "Folk psychology predicts the actions of people and animals with great success. The best explanation of that success is that folk psychology is roughly true and that there really are beliefs. Defenders add that folk psychology has stimulated fruitful research in scientific psychology, and that an incomplete theory is not thereby radically false.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "5c176471-4a92-45b5-ae5e-3b4deab8fb59",
+  "status": "active",
+  "voice": "critique",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "4881b7b9-a47f-492c-80a0-18998a6e239d",
+        "locator": "section 4.3, 'Defending the Virtues of Folk Psychology'",
+        "quote": "The best explanation for the success we enjoy in explaining and predicting human and animal behavior is that folk psychology is roughly true, and that there really are beliefs"
+      },
+      {
+        "source": "4881b7b9-a47f-492c-80a0-18998a6e239d",
+        "locator": "section 3.1, 'General Theoretical Problems With Folk Psychology'",
+        "quote": "it hardly follows from the observation that a given theory is incomplete, or fails to explain everything, that it is therefore radically false"
+      }
+    ]
+  }
+}

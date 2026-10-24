@@ -1,0 +1,55 @@
+{
+  "record": "proposition",
+  "id": "e9aac385-ef6d-4820-85dc-bed4ed39c029",
+  "kind": "philosophical",
+  "epistemic_status": "hypothesized",
+  "title": "The body is a contingent part of a person, defined by interaction",
+  "statements": [
+    {
+      "id": "8ff5962c-b005-4d2c-91cf-e53110a2758f",
+      "text": "The body is only a contingent part of a person. A body is a person's body when the person can move it as a basic act, learns about the world through its changing states, and can be pained or pleased by them, which is to say when the soul interacts with it. Under present laws of nature souls function only when connected to a working brain, but that is a physical, not a metaphysical, necessity.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "8ff5962c-b005-4d2c-91cf-e53110a2758f",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "9a9645ce-d028-451e-8752-1237c4f2f58b",
+        "locator": "eprint p. 8",
+        "quote": "It follows that my body is only a contingent part of me."
+      },
+      {
+        "source": "9a9645ce-d028-451e-8752-1237c4f2f58b",
+        "locator": "eprint p. 12",
+        "quote": "A body is a physical substance which is mine if and only if: (1) I am able to move it as a basic act"
+      },
+      {
+        "source": "9a9645ce-d028-451e-8752-1237c4f2f58b",
+        "locator": "eprint p. 8",
+        "quote": "Souls can exist and function only when connected to a functioning brain."
+      }
+    ]
+  }
+}

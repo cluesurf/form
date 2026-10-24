@@ -1,0 +1,50 @@
+{
+  "record": "proposition",
+  "id": "b82df047-df8c-402f-b19e-1dbf76e93343",
+  "kind": "philosophical",
+  "epistemic_status": "hypothesized",
+  "title": "Answer: freedom is partial self-determination, never absolute",
+  "statements": [
+    {
+      "id": "d0ecce22-0408-44e0-86b0-0b5f79e4855c",
+      "text": "There is free will in the sense that every occasion is partly self-determining in how it takes its past into account, and the human mind has the most of it on this planet. Agency is mental causation, upward, self-determining and downward. There is no absolute freedom, since every occasion is conditioned by its standpoint.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "d0ecce22-0408-44e0-86b0-0b5f79e4855c",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "714e4dce-1d09-4ecd-8cdf-db662db525a8",
+        "locator": "section 6, Metaphysics",
+        "quote": "self-determination gives rise to the probabilistic laws of science as well as human freedom"
+      },
+      {
+        "source": "78f94ddb-c6f8-4a5c-86bb-ea574d7a0c37",
+        "locator": "p. 202",
+        "quote": "there is no such fact as absolute freedom; every actual entity possesses only such freedom, as is inherent in the primary phase"
+      }
+    ]
+  }
+}

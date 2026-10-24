@@ -1,0 +1,50 @@
+{
+  "record": "proposition",
+  "id": "7f446ea3-06fd-4538-89aa-917fd56ca1b5",
+  "kind": "philosophical",
+  "epistemic_status": "hypothesized",
+  "title": "Reply: energy is conserved only in a system no mind acts on",
+  "statements": [
+    {
+      "id": "5125b8da-7ca5-403b-aad9-ff416b9e558f",
+      "text": "The conservation principle holds for a causally isolated system, and the interactionist denies that the human body is isolated. On the conditionality response, energy is conserved where minds do not act on bodies and not where they do. By Noether's first theorem and its converse, conservation laws hold exactly when the corresponding symmetries do, and a mind acting on a brain breaks time and space translation symmetry, so accepting nonconservation there is the response most in accord with physics.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "5125b8da-7ca5-403b-aad9-ff416b9e558f",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "4bffe5f1-a379-4b92-b51d-3c5ef3046009",
+        "locator": "section 3.3, 'Interactionism'",
+        "quote": "Whereas ‘[t]he interactionist denies…that the human body is an isolated system’, so the principle is irrelevant"
+      },
+      {
+        "source": "ca8520b1-c069-4551-b4a7-3d560c5ff593",
+        "locator": "p. 95",
+        "quote": "which sees conservation as (bi)conditional upon symmetries and simply accepts energy non-conservation as an aspect of interactionist dualism"
+      }
+    ]
+  }
+}

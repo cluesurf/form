@@ -1,0 +1,50 @@
+{
+  "record": "proposition",
+  "id": "1512ee94-ceea-45e6-9b25-d1fede7cde5e",
+  "kind": "philosophical",
+  "epistemic_status": "hypothesized",
+  "title": "Critique: holding consciousness active is the slighter error",
+  "statements": [
+    {
+      "id": "49381e3b-34ad-4c49-ab80-8fcc98672f36",
+      "text": "James finds that the automaton theory rests on an aesthetic demand for a homogeneous physical science, and that common sense refuses to believe consciousness irrelevant. Until a philosophy shows how particular feelings could lack causal efficacy without feeling as a whole becoming an outcast, the slighter error is to regard conscious selves as active in the arena, not as paralyzed spectators.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "49381e3b-34ad-4c49-ab80-8fcc98672f36",
+  "status": "active",
+  "voice": "critique",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "dfd58c6e-5a2a-41c9-8c7a-db764ff37e09",
+        "locator": "Mind 4, page 2",
+        "quote": "The reason why the writers we speak of venture to dogmatise as they do on this subject, seems due to a sort of philosophic faith, bred like most faiths from an aesthetic demand."
+      },
+      {
+        "source": "dfd58c6e-5a2a-41c9-8c7a-db764ff37e09",
+        "locator": "Mind 4, page 22",
+        "quote": "I hold that we are incurring the slighter error by still regarding our conscious selves as actively combating each for his interests in the arena and not as impotently paralytic spectators of the game."
+      }
+    ]
+  }
+}

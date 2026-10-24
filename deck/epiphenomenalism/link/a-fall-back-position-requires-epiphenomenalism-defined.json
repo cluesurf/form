@@ -1,0 +1,33 @@
+{
+  "record": "link",
+  "id": "da2ae681-8820-48a3-bd44-cb5d04341639",
+  "from": "7aed0010-7abf-4f60-9c6b-05d202d1220f",
+  "to": "8932d812-581d-4cb6-9104-ec9097cb7d44",
+  "relation": "requires",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "a6c431b3-a489-4a9e-8836-0bc9974d6dd3",
+        "locator": "section 3.4, 'Epiphenomenalism'",
+        "quote": "At least one can say that epiphenomenalism is a fall-back position: it tends to be adopted because other options are held to be unacceptable."
+      },
+      {
+        "source": "a6c431b3-a489-4a9e-8836-0bc9974d6dd3",
+        "locator": "section 3.4, 'Epiphenomenalism'",
+        "quote": "it ought to be equally mysterious how the physical can have it in its nature to produce something non-physical"
+      }
+    ]
+  }
+}

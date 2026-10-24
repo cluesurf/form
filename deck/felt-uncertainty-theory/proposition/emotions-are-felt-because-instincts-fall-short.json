@@ -1,0 +1,45 @@
+{
+  "record": "proposition",
+  "id": "d1e4bacc-1f25-4470-9e82-17f9d3b7689c",
+  "kind": "philosophical",
+  "epistemic_status": "hypothesized",
+  "title": "Instinctual emotions are felt because they cannot predict all the variance",
+  "statements": [
+    {
+      "id": "d101f8a2-2cee-45cd-a8cf-da3f19049b3a",
+      "text": "Each phenotype has innate predictions for situations it is sure to meet, such as fear responses, but these cannot match the complexity of real niches and must be supplemented by learning. Emotions are felt because they do not predict all the variance: what is felt is the residual prediction error while surfing unpredicted situations, and it guides the choices that form new acquired predictions.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "d101f8a2-2cee-45cd-a8cf-da3f19049b3a",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "8834b927-27b0-41e8-8c3f-c15dbf813c57",
+        "locator": "p. 13",
+        "quote": "we feel them because they do not and cannot predict all the variance"
+      }
+    ]
+  }
+}

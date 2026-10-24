@@ -1,0 +1,50 @@
+{
+  "record": "proposition",
+  "id": "c3564c5d-fe9d-4fe8-946c-7abef7ef090e",
+  "kind": "empirical",
+  "epistemic_status": "observed",
+  "title": "People confabulate reasons for their choices, and it is not pathological",
+  "statements": [
+    {
+      "id": "24a45fdb-b624-4991-a813-82b2da5964d1",
+      "text": "A split-brain patient's left hemisphere invented a fitting reason for a choice made by the right. Shoppers explained a preference for the rightmost of identical stockings by differences in quality. Such confabulation appears a normal part of theorizing about persons, oneself included, and the feeling of conscious control may itself be part of it.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "24a45fdb-b624-4991-a813-82b2da5964d1",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "de8573b3-42af-4c30-94e9-01704e16b3ea",
+        "locator": "p. 84",
+        "quote": "There is no evidence that such confabulation is pathological"
+      },
+      {
+        "source": "de8573b3-42af-4c30-94e9-01704e16b3ea",
+        "locator": "p. 84",
+        "quote": "The widespread feeling of conscious control may be part of our confabulatory practice, reflecting hapless but guiless error in folk psychology."
+      }
+    ]
+  }
+}

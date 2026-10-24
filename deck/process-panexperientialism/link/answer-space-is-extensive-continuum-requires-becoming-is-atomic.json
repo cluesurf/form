@@ -1,0 +1,33 @@
+{
+  "record": "link",
+  "id": "a5f41b40-b132-4113-bdfd-dbafd1987123",
+  "from": "f08a6f48-50e4-42c4-9f5d-bbde66e6160a",
+  "to": "f4698524-8e36-4d14-9c7b-be14363cddd5",
+  "relation": "requires",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "78f94ddb-c6f8-4a5c-86bb-ea574d7a0c37",
+        "locator": "p. 105",
+        "quote": "every actual entity in the temporal world is to be credited with a spatial volume for its perspective standpoint"
+      },
+      {
+        "source": "ba105db4-969a-4ed2-be0c-cb4dd3eb2505",
+        "locator": "section II, point 4",
+        "quote": "In Whitehead’s system every actual occasion has a determinate spatiotemporal location relative to all others"
+      }
+    ]
+  }
+}

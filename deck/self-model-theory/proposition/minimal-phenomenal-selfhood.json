@@ -1,0 +1,50 @@
+{
+  "record": "proposition",
+  "id": "3a70ef4e-15a4-486e-bfd6-9c1c67277929",
+  "kind": "definitional",
+  "epistemic_status": "designed",
+  "title": "Minimal phenomenal selfhood",
+  "statements": [
+    {
+      "id": "79e4e27c-a591-4660-872a-78e1d340bc80",
+      "text": "Minimal phenomenal selfhood (MPS), introduced by Olaf Blanke and Metzinger in 2009, is the simplest form of self-consciousness. Its defining features are a globalized identification with the body as a whole, spatiotemporal self-location, and a weak first-person perspective, the purely geometrical origin of a perceptual model of reality.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "79e4e27c-a591-4660-872a-78e1d340bc80",
+  "status": "active",
+  "voice": "framework",
+  "defines": "minimal phenomenal selfhood",
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "1bc792ee-c3ee-4f0c-93b8-a818a2897c06",
+        "locator": "p. 3",
+        "quote": "Central defining features are (1) a globalized form of identification with the body as a whole"
+      },
+      {
+        "source": "1bc792ee-c3ee-4f0c-93b8-a818a2897c06",
+        "locator": "p. 3",
+        "quote": "A weak 1PP is a purely geometrical feature of a perceptual or imagined model of reality"
+      }
+    ]
+  }
+}

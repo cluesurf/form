@@ -1,0 +1,50 @@
+{
+  "record": "proposition",
+  "id": "a135dcc8-311e-4804-ae24-4d21331b8cf5",
+  "kind": "philosophical",
+  "epistemic_status": "hypothesized",
+  "title": "The id is the source of consciousness, the ego is unconscious in itself",
+  "statements": [
+    {
+      "id": "6a4b0d75-06c8-4a9f-bb35-9e6578d90b55",
+      "text": "Reversing Freud's own localization, the brainstem and limbic structures that do the work of the id are intrinsically conscious, and the cortical, declarative self that does the work of the ego is unconscious in itself. Because the ego stabilizes the id's consciousness into object representations and words, people ordinarily take themselves to be conscious in the ego's sense.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "6a4b0d75-06c8-4a9f-bb35-9e6578d90b55",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "afbb68ed-2795-46f2-a80b-5e9c8f6d456d",
+        "locator": "section 10 'The Reflexive Ego'",
+        "quote": "the declarative self, synonymous with Freud’s \"ego\", is unconscious in itself"
+      },
+      {
+        "source": "afbb68ed-2795-46f2-a80b-5e9c8f6d456d",
+        "locator": "section 8 'All Consciousness Is Endogenous'",
+        "quote": "To put it bluntly: consciousness is generated in the id."
+      }
+    ]
+  }
+}

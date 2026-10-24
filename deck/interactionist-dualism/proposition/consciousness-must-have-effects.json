@@ -1,0 +1,50 @@
+{
+  "record": "proposition",
+  "id": "85c2ae04-5977-4269-9956-7c8820d10231",
+  "kind": "philosophical",
+  "epistemic_status": "hypothesized",
+  "title": "Consciousness evolved by natural selection, so it must affect behavior",
+  "statements": [
+    {
+      "id": "88563788-4547-4d64-92c7-cdbe0a1f8084",
+      "text": "The development of consciousness must be explainable through natural selection, and a property can be selected only if it affects behavior, so consciousness must have effects on behavior. Popper and Eccles press this against epiphenomenalism.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "88563788-4547-4d64-92c7-cdbe0a1f8084",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "daa741cb-618d-44c8-857b-e91e035b6718",
+        "locator": "section 2.2, 'Natural Selection'",
+        "quote": "The development of consciousness must be explainable through natural selection."
+      },
+      {
+        "source": "f1ad88c5-37ee-4cc6-8c6a-d2258c7d7846",
+        "locator": null,
+        "quote": null
+      }
+    ]
+  }
+}

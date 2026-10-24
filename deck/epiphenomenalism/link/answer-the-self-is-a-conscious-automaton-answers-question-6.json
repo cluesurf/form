@@ -1,0 +1,33 @@
+{
+  "record": "link",
+  "id": "2a48a52c-99a5-4e63-8994-347438ee6e6c",
+  "from": "590db5a6-7928-4457-8dc2-0d2f122c0d41",
+  "to": "40dc81c7-5c68-457a-b6c2-e77c0207606e",
+  "relation": "answers",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "74e58cef-2e29-415f-a138-df37b7515701",
+        "locator": "Collected Essays I, page 244",
+        "quote": "none the less parts of the great series of causes and effects"
+      },
+      {
+        "source": "542e0d13-746c-470a-a9b7-86f1d044600d",
+        "locator": "section 2.1, 'Obvious Absurdity'",
+        "quote": "Epiphenomenalism is also compatible with there being a distinction between actions that proceed from normal brain processes in normal conditions, and actions that proceed from manipulation by others"
+      }
+    ]
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "record": "proposition",
+  "id": "ca1e73a3-4c6e-4b84-b203-09df2edf5a1d",
+  "kind": "philosophical",
+  "epistemic_status": "hypothesized",
+  "title": "Attentional agency is a phenomenal property, absent in non-lucid dreams",
+  "statements": [
+    {
+      "id": "965ff5f2-98c0-4d72-9b01-c07b176196c0",
+      "text": "Attentional agency is the conscious experience of initiating a shift of attention and fixing its focus. It is selectively missing in non-lucid dreaming and likely in infancy, dementia and severe intoxication. It is fully transparent, and under predictive coding it can be linked to precision optimization, the modeling of mental resource allocation.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "965ff5f2-98c0-4d72-9b01-c07b176196c0",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "1bc792ee-c3ee-4f0c-93b8-a818a2897c06",
+        "locator": "p. 8",
+        "quote": "We know that this property is selectively missing during non-lucid dreaming"
+      },
+      {
+        "source": "1bc792ee-c3ee-4f0c-93b8-a818a2897c06",
+        "locator": "p. 8",
+        "quote": "having an attentional 1PP can be fruitfully associated with secondorder statistics or precision optimization"
+      }
+    ]
+  }
+}

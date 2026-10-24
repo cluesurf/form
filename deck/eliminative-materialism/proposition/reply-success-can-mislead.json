@@ -1,0 +1,45 @@
+{
+  "record": "proposition",
+  "id": "f51f9b5f-3782-4a0f-970d-5b7f1b859c11",
+  "kind": "philosophical",
+  "epistemic_status": "hypothesized",
+  "title": "Reply: a popular theory can look successful while misrepresenting reality",
+  "statements": [
+    {
+      "id": "927e3e0e-7dff-4377-a68a-39a4ac9461c3",
+      "text": "Any theory, especially one as near and dear as folk psychology, can appear successful while completely misrepresenting reality. History shows anomalies discounted and success overstated, and, like the vitalists or phlogiston theorists, people may be blind to the failings of folk psychology until an alternative is in hand.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "927e3e0e-7dff-4377-a68a-39a4ac9461c3",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "4881b7b9-a47f-492c-80a0-18998a6e239d",
+        "locator": "section 4.3, 'Defending the Virtues of Folk Psychology'",
+        "quote": "Like the proponents of vitalism or phlogiston theory, we may be blind to the failings of folk psychology until an alternative account is in hand"
+      }
+    ]
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "record": "proposition",
+  "id": "58427d6e-f7d8-4061-9385-e30d3f76ee81",
+  "kind": "empirical",
+  "epistemic_status": "hypothesized",
+  "title": "Prediction: transparent self-location is necessary and sufficient for a minimal self",
+  "statements": [
+    {
+      "id": "627a4bb4-f80b-4423-b384-df1c3e96e198",
+      "text": "The proposal predicts that transparent spatiotemporal self-location is necessary and sufficient for a minimal experienced sense of selfhood. Cases of opaque self-location, such as fully lucid, opaque, bodiless dreams in which self-location is experienced as a construct, would test whether minimal selfhood is still present.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": "A minimal sense of self persists when self-location is experienced as opaque representational content, or is absent when transparent self-location is present.",
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "627a4bb4-f80b-4423-b384-df1c3e96e198",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "1bc792ee-c3ee-4f0c-93b8-a818a2897c06",
+        "locator": "p. 14",
+        "quote": "One empirical prediction the current proposal makes is that transparent spatiotemporal self-location is necessary and sufficient for bringing about a minimal, consciously experienced sense of selfhood."
+      }
+    ]
+  }
+}

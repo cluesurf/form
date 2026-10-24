@@ -1,0 +1,33 @@
+{
+  "record": "link",
+  "id": "5729c73a-bcef-4626-af4a-ef7ceec5e438",
+  "from": "95f41f52-021f-4dab-8ddd-bd30bbe058b0",
+  "to": "ff54318e-4004-461d-9182-14e1c51aed1f",
+  "relation": "requires",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "1bc792ee-c3ee-4f0c-93b8-a818a2897c06",
+        "locator": "p. 7",
+        "quote": "the self-identification condition would then be reduced to the self-location condition"
+      },
+      {
+        "source": "1bc792ee-c3ee-4f0c-93b8-a818a2897c06",
+        "locator": "p. 11",
+        "quote": "pure spatiotemporal self-location suffices for a robust sense of self"
+      }
+    ]
+  }
+}

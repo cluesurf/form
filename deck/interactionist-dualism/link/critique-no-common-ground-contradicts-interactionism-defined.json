@@ -1,0 +1,33 @@
+{
+  "record": "link",
+  "id": "0557609a-366c-4ee6-946e-f015934195e9",
+  "from": "e0d214f8-f13e-44c3-b375-5aac3ab6f66d",
+  "to": "2422f823-776d-41bf-b984-29fae488a1c1",
+  "relation": "contradicts",
+  "strength": null,
+  "rationale": "If radically different kinds cannot interact, mind and body do not.",
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "4bffe5f1-a379-4b92-b51d-3c5ef3046009",
+        "locator": "section 3.3, 'Interactionism'",
+        "quote": "they lack that communality necessary for interaction"
+      },
+      {
+        "source": "ca8520b1-c069-4551-b4a7-3d560c5ff593",
+        "locator": "p. 96",
+        "quote": "expressed difficulty seeing how a non-spatial soul could interact with a body that has the property of extension"
+      }
+    ]
+  }
+}

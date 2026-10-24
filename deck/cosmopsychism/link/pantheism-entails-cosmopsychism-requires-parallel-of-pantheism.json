@@ -1,0 +1,33 @@
+{
+  "record": "link",
+  "id": "6c7f56ee-9f61-45e4-aa3f-d7466feef982",
+  "from": "402fb25e-fd9b-46fc-bf55-a8ac30e39165",
+  "to": "fbe550cf-ce47-4967-b0af-bb7aba818ee6",
+  "relation": "requires",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "ac3b1c98-702b-4d6e-8fca-84491186382e",
+        "locator": "p. 4",
+        "quote": "Pantheism entails cosmopsychism but not vice versa"
+      },
+      {
+        "source": "ac3b1c98-702b-4d6e-8fca-84491186382e",
+        "locator": "p. 10",
+        "quote": "It seems possible that the phenomenality in question is not divine."
+      }
+    ]
+  }
+}

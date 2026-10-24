@@ -1,0 +1,28 @@
+{
+  "record": "link",
+  "id": "8b8f8f1b-52d0-423b-af8b-4e04a373e70d",
+  "from": "39d99d1b-9491-4fda-9245-fad76e19b0bc",
+  "to": "4b28e51f-515f-47ea-b19d-08ebde0cf1c9",
+  "relation": "specializes",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "1bc792ee-c3ee-4f0c-93b8-a818a2897c06",
+        "locator": "p. 3",
+        "quote": "we may interpret experiential “realness” as the Bayes-optimality or dynamical stability of the generative models employed"
+      }
+    ]
+  }
+}

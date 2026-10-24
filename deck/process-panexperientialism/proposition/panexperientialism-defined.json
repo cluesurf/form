@@ -1,0 +1,50 @@
+{
+  "record": "proposition",
+  "id": "7321f321-9f5e-46b8-a872-9e558c60065e",
+  "kind": "definitional",
+  "epistemic_status": "designed",
+  "title": "Panexperientialism",
+  "statements": [
+    {
+      "id": "ecfeefe5-4366-4cc8-a7fb-79957a24fd99",
+      "text": "Panexperientialism, Griffin’s term for Whitehead’s view, holds that the elementary constituents of all things are momentary occasions of experience. It is distinguished from panpsychism as usually meant, which suggests an enduring and higher form of consciousness in everything, because on this view experience does not presuppose consciousness.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "ecfeefe5-4366-4cc8-a7fb-79957a24fd99",
+  "status": "active",
+  "voice": "framework",
+  "defines": "panexperientialism",
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "cf32eaac-9643-4139-b931-e40946180581",
+        "locator": "p. 3, n. 1",
+        "quote": "Griffin coins the term \"panexperientialism\""
+      },
+      {
+        "source": "714e4dce-1d09-4ecd-8cdf-db662db525a8",
+        "locator": "section 6, Metaphysics",
+        "quote": "panexperientialism is not the same as panpsychism"
+      }
+    ]
+  }
+}

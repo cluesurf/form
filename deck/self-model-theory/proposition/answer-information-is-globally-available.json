@@ -1,0 +1,50 @@
+{
+  "record": "proposition",
+  "id": "e47d1a24-2df3-4139-b783-3d324232d9ad",
+  "kind": "philosophical",
+  "epistemic_status": "hypothesized",
+  "title": "Answer: conscious information is globally available, and the self-model makes system information available",
+  "statements": [
+    {
+      "id": "5d5efba2-139b-4dca-abb9-47fbd1972ada",
+      "text": "The theory has no general theory of information. Conscious information is the subset of active information that is globally available, and phenomenal models are instruments for making information available for action, attention and thought. A self-model makes system-related information available as such, and transparency is a missing of information about the system’s own processing.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "5d5efba2-139b-4dca-abb9-47fbd1972ada",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "bcdebbd0-38c1-4227-a43b-6a7a59f74207",
+        "locator": "p. 28",
+        "quote": "Phenomenal mental models are instruments used to make a certain subset of information currently active in the system globally available"
+      },
+      {
+        "source": "bcdebbd0-38c1-4227-a43b-6a7a59f74207",
+        "locator": "p. 4",
+        "quote": "system-related information now becomes globally available as system-related information"
+      }
+    ]
+  }
+}

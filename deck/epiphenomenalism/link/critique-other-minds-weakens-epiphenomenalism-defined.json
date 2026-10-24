@@ -1,0 +1,33 @@
+{
+  "record": "link",
+  "id": "a5c52059-150b-469e-bab0-da5f7e93882d",
+  "from": "8f4d6579-79fd-47a3-b497-ae00edcba230",
+  "to": "8932d812-581d-4cb6-9104-ec9097cb7d44",
+  "relation": "weakens",
+  "strength": null,
+  "rationale": "If experiences explain no behavior, ascribing them to others is redundant.",
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "542e0d13-746c-470a-a9b7-86f1d044600d",
+        "locator": "section 2.3, 'Knowledge of Other Minds'",
+        "quote": "epiphenomenalism implies the (exceedingly implausible) conclusion that we do not know that others have mental events"
+      },
+      {
+        "source": "a6c431b3-a489-4a9e-8836-0bc9974d6dd3",
+        "locator": "section 3.4, 'Epiphenomenalism'",
+        "quote": "It is explanatorily redundant to postulate such states for others."
+      }
+    ]
+  }
+}

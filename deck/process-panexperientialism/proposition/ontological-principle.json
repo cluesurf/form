@@ -1,0 +1,50 @@
+{
+  "record": "proposition",
+  "id": "4e928947-847d-48c7-ba6f-af007024861b",
+  "kind": "philosophical",
+  "epistemic_status": "hypothesized",
+  "title": "The ontological principle: no actual entity, then no reason",
+  "statements": [
+    {
+      "id": "cc9e28cd-f91b-4ca6-b4ad-bcc8bb11e1c1",
+      "text": "The reasons for things are always found in the natures of definite actual entities. Only actual entities act, so every explanation is finally in terms of them, and in Griffin’s reading this includes the efficacy of aggregates, which act through their members.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "cc9e28cd-f91b-4ca6-b4ad-bcc8bb11e1c1",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "78f94ddb-c6f8-4a5c-86bb-ea574d7a0c37",
+        "locator": "p. 28",
+        "quote": "The ontological principle can be summarized as: no actual entity, then no reason."
+      },
+      {
+        "source": "ba105db4-969a-4ed2-be0c-cb4dd3eb2505",
+        "locator": "section II, point 8",
+        "quote": "at the center of Whitehead’s philosophy is his \"ontological principle,\" according to which only actual entities can act"
+      }
+    ]
+  }
+}

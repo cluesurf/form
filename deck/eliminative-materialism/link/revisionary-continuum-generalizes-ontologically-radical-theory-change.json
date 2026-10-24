@@ -1,0 +1,28 @@
+{
+  "record": "link",
+  "id": "cb58e695-648f-4a40-aee5-1d3b3eb361e3",
+  "from": "a2af5bea-cd3f-4542-a63b-edecda66053b",
+  "to": "d3983bab-ee87-4ee6-840c-e811689413d3",
+  "relation": "generalizes",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "4881b7b9-a47f-492c-80a0-18998a6e239d",
+        "locator": "section 4.3, 'Defending the Virtues of Folk Psychology'",
+        "quote": "full-blown eliminative materialism and complete reductionism are end-points on a continuum with many possibilities falling somewhere in between"
+      }
+    ]
+  }
+}

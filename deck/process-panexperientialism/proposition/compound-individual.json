@@ -1,0 +1,45 @@
+{
+  "record": "proposition",
+  "id": "0c24d93a-fe0f-40ed-adbd-9c5c1e982f59",
+  "kind": "definitional",
+  "epistemic_status": "designed",
+  "title": "Compound individuals and aggregational societies",
+  "statements": [
+    {
+      "id": "71160dfb-d1d8-4618-beae-fad2ca7120b7",
+      "text": "A compound individual, such as an animal, is a society of occasions in which a higher-level actuality has emerged, giving the whole a unity of experience and activity. An aggregational society, such as a rock, has no such dominant occasion.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "71160dfb-d1d8-4618-beae-fad2ca7120b7",
+  "status": "active",
+  "voice": "framework",
+  "defines": "compound individual",
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "ba105db4-969a-4ed2-be0c-cb4dd3eb2505",
+        "locator": "section III",
+        "quote": "In the latter, a higher-level of actuality has emerged, thereby giving the society as a whole a unity of experience and activity"
+      }
+    ]
+  }
+}

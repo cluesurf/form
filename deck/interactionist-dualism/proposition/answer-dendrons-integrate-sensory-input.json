@@ -1,0 +1,45 @@
+{
+  "record": "proposition",
+  "id": "d79b58ae-10a2-4e3b-8a79-3cb4b5437029",
+  "kind": "empirical",
+  "epistemic_status": "hypothesized",
+  "title": "Answer: no general theory of information, and dendrons integrate sensory input",
+  "statements": [
+    {
+      "id": "14e5f740-0bc1-4026-9653-0a53377e8fc5",
+      "text": "The view has no general theory of information. In Eccles's account, information from the senses is integrated by dendrons, which evolved for more effective integration of increasingly complex sensory input, and passed to psychons in perception.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "14e5f740-0bc1-4026-9653-0a53377e8fc5",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "376b0486-c527-4cc7-952d-0f98af4e4b8e",
+        "locator": "abstract",
+        "quote": "The hypothesis is that in mammalian evolution dendrons evolved for more effective integration of the increased complexity of sensory inputs."
+      }
+    ]
+  }
+}

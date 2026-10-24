@@ -1,0 +1,50 @@
+{
+  "record": "proposition",
+  "id": "0338a772-9797-49ae-a81b-36f01f459d43",
+  "kind": "philosophical",
+  "epistemic_status": "hypothesized",
+  "title": "Answer: creatures with nervous systems, including animals and preverbal children",
+  "statements": [
+    {
+      "id": "3197e7d3-1938-43cf-8af6-a5c8cc50c4c1",
+      "text": "Cognitive and conscious capacities belong to nervous systems, not to language users only. Preverbal children, animals and aphasic adults have nonlinguistic cognitive activity, and mere brains, without souls or language, show stupendous complexity.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "3197e7d3-1938-43cf-8af6-a5c8cc50c4c1",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "de8573b3-42af-4c30-94e9-01704e16b3ea",
+        "locator": "p. 88",
+        "quote": "In both pre verbal children and animals, there appears to be cognitive activity"
+      },
+      {
+        "source": "de8573b3-42af-4c30-94e9-01704e16b3ea",
+        "locator": "p. 93",
+        "quote": "mere brains, unaided by gods, souls, freely exercising wills and human language, can nonetheless exhibit stupendous complexity"
+      }
+    ]
+  }
+}

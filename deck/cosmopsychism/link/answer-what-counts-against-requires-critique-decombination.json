@@ -1,0 +1,33 @@
+{
+  "record": "link",
+  "id": "a8b39945-cb60-4b12-af76-49703f3eeea2",
+  "from": "fbff39b8-6af8-40a9-ab32-ba4b6558e2d2",
+  "to": "fa55f3e0-5613-4e37-95e9-a1fcabdb1eba",
+  "relation": "requires",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "48037213-6e94-43ec-88c2-b001c5f953cf",
+        "locator": "PDF p. 16",
+        "quote": "how do ‘big’ subjects of experience, such as the whole universe, ground the existence of ‘little’ subjects of experience"
+      },
+      {
+        "source": "6ae3be7e-baba-41f4-bfc7-e0a470bdb8e6",
+        "locator": "p. 5",
+        "quote": "characteristic photon pulses"
+      }
+    ]
+  }
+}

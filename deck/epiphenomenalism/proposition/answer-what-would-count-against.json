@@ -1,0 +1,50 @@
+{
+  "record": "proposition",
+  "id": "b71bfdaa-941a-4d92-80a3-d642ff718f0a",
+  "kind": "philosophical",
+  "epistemic_status": "hypothesized",
+  "title": "Answer: a mental event with physical effects, or a shown necessity from neurons to qualia",
+  "statements": [
+    {
+      "id": "0bdbf590-2431-4838-b903-44eade664395",
+      "text": "Against the view would count neural events with no sufficient physical cause, where a mental cause made a difference, or insight into a necessary connection between neural and phenomenal properties that made qualia physical. Jackson himself came to hold that epiphenomenal qualia could not be known, which he took to show that the knowledge argument goes wrong somewhere.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "0bdbf590-2431-4838-b903-44eade664395",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "542e0d13-746c-470a-a9b7-86f1d044600d",
+        "locator": "section 2.2, 'Natural Selection'",
+        "quote": "Barring neural events that are inexplicably in violation of biological constraints on their conditions of activation"
+      },
+      {
+        "source": "fd223d59-c2ad-4121-b90c-cef1a84f517f",
+        "locator": "section 5, 'The Dualist View About the Knowledge Argument'",
+        "quote": "he concludes that something must be wrong with the knowledge argument"
+      }
+    ]
+  }
+}

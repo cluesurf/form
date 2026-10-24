@@ -1,0 +1,33 @@
+{
+  "record": "link",
+  "id": "90453811-3130-4e97-b8b5-06baf7482ca6",
+  "from": "e7b96fc5-22f1-4740-97ff-a19e454d9888",
+  "to": "58427d6e-f7d8-4061-9385-e30d3f76ee81",
+  "relation": "requires",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "1bc792ee-c3ee-4f0c-93b8-a818a2897c06",
+        "locator": "p. 14",
+        "quote": "Do we know any cases of phenomenally opaque self-location"
+      },
+      {
+        "source": "f901177d-d5a1-49ec-a74e-2adc81f988ea",
+        "locator": "p. 9",
+        "quote": "the empirical prediction is that subjects should be blind to self-related stimuli during the SRB"
+      }
+    ]
+  }
+}

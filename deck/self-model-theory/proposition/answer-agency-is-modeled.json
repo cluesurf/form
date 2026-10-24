@@ -1,0 +1,50 @@
+{
+  "record": "proposition",
+  "id": "f4cb98e1-e55d-4fd6-bcb8-da1389b832eb",
+  "kind": "philosophical",
+  "epistemic_status": "hypothesized",
+  "title": "Answer: agency is modeled, and the ability to do otherwise may be confabulated",
+  "statements": [
+    {
+      "id": "80eaedf8-cc31-41b3-b2bf-78cc36b16f64",
+      "text": "Agency appears as a content of the self-model, the epistemic agent model, and is absent for much of conscious life. The experienced capacity for veto and ultimate origination may be an enculturated confabulation. Whether mental actions exist at all is left open between a realist and an eliminativist option.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "80eaedf8-cc31-41b3-b2bf-78cc36b16f64",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "d821ebea-2668-4266-8314-e24547973aea",
+        "locator": "p. 21",
+        "quote": "could therefore be an enculturated post-hoc confabulation"
+      },
+      {
+        "source": "d821ebea-2668-4266-8314-e24547973aea",
+        "locator": "p. 22",
+        "quote": "Are there mental actions at all? I will not answer this question here."
+      }
+    ]
+  }
+}

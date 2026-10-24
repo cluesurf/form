@@ -1,0 +1,28 @@
+{
+  "record": "link",
+  "id": "b71b96fb-5ad2-4349-b10e-bd8b4d8f9933",
+  "from": "18d65f81-ac43-4432-bc0b-d330bc017495",
+  "to": "28452a77-05b7-4d56-932b-97420db1ba13",
+  "relation": "contradicts",
+  "strength": null,
+  "rationale": "If the same functional state can feel different, function does not fix experience.",
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "40a4280a-4b0f-44b2-b9c6-95fce46b932d",
+        "locator": "section 5.5.1, 'Inverted and Absent Qualia'",
+        "quote": "is in a state that satisfies the functional definition of our experience of red, but is experiencing green instead"
+      }
+    ]
+  }
+}

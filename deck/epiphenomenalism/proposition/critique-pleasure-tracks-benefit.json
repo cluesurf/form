@@ -1,0 +1,50 @@
+{
+  "record": "proposition",
+  "id": "20e239dc-2436-4a64-a117-9b5ba1826752",
+  "kind": "philosophical",
+  "epistemic_status": "hypothesized",
+  "title": "Critique: if pleasure did nothing, its fit with what is good for the organism would be a coincidence",
+  "statements": [
+    {
+      "id": "8e3f42a1-8931-44a9-9781-079020058a85",
+      "text": "Pleasures generally go with beneficial experiences and pains with harmful ones. If pleasures and pains had no effects, nothing would stop the most harmful acts, such as burning, from feeling delightful and the most necessary, such as breathing, from causing agony, and the actual alignment would need a pre-established harmony that the scientific automatists would scorn.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "8e3f42a1-8931-44a9-9781-079020058a85",
+  "status": "active",
+  "voice": "critique",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "dfd58c6e-5a2a-41c9-8c7a-db764ff37e09",
+        "locator": "Mind 4, page 17",
+        "quote": "It has long been noticed that pleasures are generally associated with beneficial, pains with detrimental, experiences."
+      },
+      {
+        "source": "dfd58c6e-5a2a-41c9-8c7a-db764ff37e09",
+        "locator": "Mind 4, page 17",
+        "quote": "why the most noxious acts, such as burning, might not give a thrill of delight, and the most necessary ones, such as breathing, cause agony"
+      }
+    ]
+  }
+}

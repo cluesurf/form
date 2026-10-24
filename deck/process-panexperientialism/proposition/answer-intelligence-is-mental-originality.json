@@ -1,0 +1,50 @@
+{
+  "record": "proposition",
+  "id": "44924822-497b-4366-a16b-315abe3877ab",
+  "kind": "philosophical",
+  "epistemic_status": "hypothesized",
+  "title": "Answer: intelligence is developed mentality, a matter of degree",
+  "statements": [
+    {
+      "id": "73401019-e9c1-41c8-9106-52c47e101e7c",
+      "text": "The view offers no separate theory of intelligence. Its nearest notion is the mental pole, the entertaining of possibilities and norms, which every individual has to some degree and which is far more developed in humans, so that most other animals seem unable to entertain norms as such. The difference is one of degree, not of kind.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "73401019-e9c1-41c8-9106-52c47e101e7c",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "ba105db4-969a-4ed2-be0c-cb4dd3eb2505",
+        "locator": "section III",
+        "quote": "their mentality is so much less developed, so that they -- at least most of them -- seem incapable of entertaining norms as such"
+      },
+      {
+        "source": "ba105db4-969a-4ed2-be0c-cb4dd3eb2505",
+        "locator": "section III",
+        "quote": "The difference is, nevertheless, one of degree, not of kind."
+      }
+    ]
+  }
+}

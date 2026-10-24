@@ -1,0 +1,45 @@
+{
+  "record": "proposition",
+  "id": "78cafbd5-bd63-47b8-bd62-6a69e743be13",
+  "kind": "philosophical",
+  "epistemic_status": "hypothesized",
+  "title": "The minimal experience approach assumes naturalism without arguing for it",
+  "statements": [
+    {
+      "id": "bf3c0ba7-18dc-4aff-993d-4906ebc019ad",
+      "text": "The minimal phenomenal experience approach works under naturalistic background assumptions and gives no independent argument for them. Contemplative traditions have given very different metaphysical readings of the same reports, and the experiences often carry a sense of insight into their own metaphysical status that the approach does not take at face value.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "bf3c0ba7-18dc-4aff-993d-4906ebc019ad",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "1e6c56f2-322f-47dd-a519-b66dc9982794",
+        "locator": "p. 7",
+        "quote": "the MPE approach as sketched out here operates under naturalistic background assumptions, and it does so without having given an independent argument to support these assumptions"
+      }
+    ]
+  }
+}

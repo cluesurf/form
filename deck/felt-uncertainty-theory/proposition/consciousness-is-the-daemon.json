@@ -1,0 +1,50 @@
+{
+  "record": "proposition",
+  "id": "932d3690-6e37-42d3-8b5d-c9285586d44e",
+  "kind": "philosophical",
+  "epistemic_status": "hypothesized",
+  "title": "Consciousness is the activity of Maxwell's daemon, not the molecules it lets through",
+  "statements": [
+    {
+      "id": "d212b2ad-8d87-408c-88c7-3cc5cf77d010",
+      "text": "Precision plays the role of Maxwell's daemon, selecting which sensory signals pass. Consciousness is the daemon's activity, the optimization of precision with respect to free energy, not the passage of signals it enables through cortical hierarchies. This is why neuromodulation is wrongly taken to merely enable conscious content.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "d212b2ad-8d87-408c-88c7-3cc5cf77d010",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "8834b927-27b0-41e8-8c3f-c15dbf813c57",
+        "locator": "p. 12",
+        "quote": "consciousness is nothing more or less than the activity of Maxwell’s daemon"
+      },
+      {
+        "source": "8834b927-27b0-41e8-8c3f-c15dbf813c57",
+        "locator": "p. 12",
+        "quote": "This distinction is what underlies the prejudice (of Koch and others) to the effect that neuromodulation merely \"enables\" conscious content."
+      }
+    ]
+  }
+}

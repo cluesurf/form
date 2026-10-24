@@ -1,0 +1,50 @@
+{
+  "record": "proposition",
+  "id": "0b1eaba0-86e1-4d02-bcdd-57666e93c42e",
+  "kind": "definitional",
+  "epistemic_status": "designed",
+  "title": "Indicator properties of consciousness",
+  "statements": [
+    {
+      "id": "40d02ed8-37d5-4018-9877-804736eef24c",
+      "text": "Indicator properties are computational features drawn from scientific theories of consciousness, each said by one or more theories to be necessary for consciousness, with some sets said to be jointly sufficient. The list covers recurrent processing (RPT-1, RPT-2), global workspace (GWT-1 to GWT-4), computational higher-order theories (HOT-1 to HOT-4), the attention schema (AST-1), predictive coding (PP-1), and agency and embodiment (AE-1, AE-2). A system with more of them is more likely to be conscious.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "40d02ed8-37d5-4018-9877-804736eef24c",
+  "status": "active",
+  "voice": "framework",
+  "defines": "indicator property",
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "ecf4b155-a02f-440e-87ac-837126c9279c",
+        "locator": "arXiv p. 4",
+        "quote": "Each of these indicator properties is said to be necessary for consciousness"
+      },
+      {
+        "source": "ecf4b155-a02f-440e-87ac-837126c9279c",
+        "locator": "arXiv p. 5",
+        "quote": "AI systems which possess more of the indicator properties are more likely to be conscious"
+      }
+    ]
+  }
+}

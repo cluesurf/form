@@ -1,0 +1,33 @@
+{
+  "record": "link",
+  "id": "8366320c-ebdf-460d-a723-d0590cf71c06",
+  "from": "2ff5e11f-0e76-4113-b2df-0f83d628378d",
+  "to": "4af869ec-83ef-4955-a37e-14f1aeea12d9",
+  "relation": "requires",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "bcdebbd0-38c1-4227-a43b-6a7a59f74207",
+        "locator": "p. 11",
+        "quote": "Not all phenomenal states are transparent. Transparency comes in degrees."
+      },
+      {
+        "source": "bcdebbd0-38c1-4227-a43b-6a7a59f74207",
+        "locator": "p. 12",
+        "quote": "the best and most basic example for an almost fully opaque, global phenomenal state is the lucid dream"
+      }
+    ]
+  }
+}

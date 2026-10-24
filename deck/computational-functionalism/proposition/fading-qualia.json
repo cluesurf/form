@@ -1,0 +1,45 @@
+{
+  "record": "proposition",
+  "id": "c49da628-ecfb-4a5a-91fb-3a45232638d0",
+  "kind": "philosophical",
+  "epistemic_status": "hypothesized",
+  "title": "Fading qualia: gradual replacement by functional equivalents would not change experience",
+  "statements": [
+    {
+      "id": "078e0f93-35ff-42df-8901-0c774e95d20b",
+      "text": "Chalmers's 1995 argument: if a person's neurons were gradually replaced by functionally equivalent artificial prostheses, the person's behavior would stay the same, so it is implausible that their experience would change radically, since they would act as though they had not noticed.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "078e0f93-35ff-42df-8901-0c774e95d20b",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "ecf4b155-a02f-440e-87ac-837126c9279c",
+        "locator": "arXiv p. 14",
+        "quote": "if a person’s neurons were gradually replaced by functionally-equivalent artificial prostheses, their behaviour would stay the same, so it is implausible that they would undergo any radical change in conscious experience"
+      }
+    ]
+  }
+}

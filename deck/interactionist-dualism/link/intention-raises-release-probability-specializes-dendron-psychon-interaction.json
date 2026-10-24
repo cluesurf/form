@@ -1,0 +1,33 @@
+{
+  "record": "link",
+  "id": "897cdbfb-0cf1-4f0f-8c66-e7ce383880bc",
+  "from": "1a3e40da-b949-4988-8c75-13c937879e0f",
+  "to": "74335e2f-0c49-46ce-b870-c933198c319c",
+  "relation": "specializes",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "17bca706-4272-493e-8c39-13bdbc8d30f2",
+        "locator": "abstract",
+        "quote": "Consciousness manifests itself in mental intentions."
+      },
+      {
+        "source": "17bca706-4272-493e-8c39-13bdbc8d30f2",
+        "locator": "abstract",
+        "quote": "The consequent voluntary actions become effective by momentary increases of the probability of vesicular emission in the thousands of synapses on each pyramidal cell by quantal selection."
+      }
+    ]
+  }
+}

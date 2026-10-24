@@ -1,0 +1,50 @@
+{
+  "record": "proposition",
+  "id": "4c2e7c9b-2abb-4397-8ef5-48623289294c",
+  "kind": "philosophical",
+  "epistemic_status": "hypothesized",
+  "title": "Critique: eliminative materialism refutes itself",
+  "statements": [
+    {
+      "id": "f1e067b6-26f9-4ce3-ab8e-d8b29fa819fd",
+      "text": "To assert something one must believe it, so to assert eliminative materialism the eliminativist must believe it, and then there are beliefs and the view is false. Boghossian presses a subtler version: arguments against the content of attitudes apply to all content, and irrealism about content presupposes realist notions of truth and reference.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "f1e067b6-26f9-4ce3-ab8e-d8b29fa819fd",
+  "status": "active",
+  "voice": "critique",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "4881b7b9-a47f-492c-80a0-18998a6e239d",
+        "locator": "section 4.1, 'The Self-Refutation Objection'",
+        "quote": "But if the eliminativist has such a belief, then there are beliefs and eliminativism is thereby proven false."
+      },
+      {
+        "source": "4881b7b9-a47f-492c-80a0-18998a6e239d",
+        "locator": "section 4.1, 'The Self-Refutation Objection'",
+        "quote": "there are no truth conditions and yet certain sentences (or beliefs) about content are false"
+      }
+    ]
+  }
+}

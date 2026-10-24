@@ -1,0 +1,39 @@
+{
+  "record": "observation",
+  "id": "deb1ea97-de98-4d2a-aa31-ebb9f618bd1c",
+  "kind": "observation",
+  "epistemic_status": "observed",
+  "description": "A patient whose insula was destroyed on both sides by herpes simplex encephalitis, interviewed as reported by Damasio, kept a sense of self and answered questions about his own mind and awareness coherently, against the view that the posterior insula is the basis of the subjective self.",
+  "method": "interview",
+  "status": "reported",
+  "source": "afbb68ed-2795-46f2-a80b-5e9c8f6d456d",
+  "procedure": null,
+  "variable": null,
+  "value": null,
+  "unit": null,
+  "uncertainty": null,
+  "sample_size": 1,
+  "replication_count": null,
+  "quality": null,
+  "limitations": "A single case, reported second hand from a congress talk. It bears on the insular version of cortical theories only.",
+  "conflicts_of_interest": null,
+  "observed_at": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "afbb68ed-2795-46f2-a80b-5e9c8f6d456d",
+        "locator": "section 7 'Consciousness without Cortex'",
+        "quote": "This case disproves only Craig’s restricted (insular) version of the corticocentric theory."
+      }
+    ]
+  }
+}

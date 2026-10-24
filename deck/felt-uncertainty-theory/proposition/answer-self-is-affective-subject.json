@@ -1,0 +1,50 @@
+{
+  "record": "proposition",
+  "id": "2bdaaf37-6590-40e8-907e-22f1076b4db3",
+  "kind": "philosophical",
+  "epistemic_status": "hypothesized",
+  "title": "Answer: the self is the affective subject, with bodily and declarative selves above it",
+  "statements": [
+    {
+      "id": "98d8e5b7-0eca-4506-bdd3-205e8fbc2f48",
+      "text": "Elemental selfhood comes with the Markov blanket, and in vertebrates the experiencing subject is constituted by brainstem affect. Above it are a bodily self in posterior cortex and a declarative self in prefrontal cortex that re-represents the self as an object. The affective self is the source of all consciousness, and the declarative self is unconscious in itself.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "98d8e5b7-0eca-4506-bdd3-205e8fbc2f48",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "8834b927-27b0-41e8-8c3f-c15dbf813c57",
+        "locator": "p. 6",
+        "quote": "the experiencing subject is constituted by affect"
+      },
+      {
+        "source": "afbb68ed-2795-46f2-a80b-5e9c8f6d456d",
+        "locator": "section 10 'The Reflexive Ego'",
+        "quote": "The intermediate (posterior cortical) somatosensory-motor self might then be called the \"bodily\" self."
+      }
+    ]
+  }
+}

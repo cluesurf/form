@@ -1,0 +1,33 @@
+{
+  "record": "link",
+  "id": "7ab1602b-7e05-448e-af1b-a911277f71fc",
+  "from": "b0431b35-a1ab-4756-9edb-1b7773a9c18c",
+  "to": "04776d3d-af9f-44fa-b5ef-bfbda01c4670",
+  "relation": "defines",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "78f94ddb-c6f8-4a5c-86bb-ea574d7a0c37",
+        "locator": "p. 32",
+        "quote": "The many become one, and are increased by one."
+      },
+      {
+        "source": "78f94ddb-c6f8-4a5c-86bb-ea574d7a0c37",
+        "locator": "p. 32",
+        "quote": "the 'production of novel togetherness' is the ultimate notion embodied in the term 'concrescence.'"
+      }
+    ]
+  }
+}

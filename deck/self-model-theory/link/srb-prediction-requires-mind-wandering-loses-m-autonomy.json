@@ -1,0 +1,33 @@
+{
+  "record": "link",
+  "id": "898cd7c7-9d6a-4ebc-b3a4-e125beae2e93",
+  "from": "63a76ec6-a2fd-4838-b137-43377b3047e7",
+  "to": "215bbc5a-7698-4af2-8ff8-c480f6a0217b",
+  "relation": "requires",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "f901177d-d5a1-49ec-a74e-2adc81f988ea",
+        "locator": "p. 9",
+        "quote": "the empirical prediction is that subjects should be blind to self-related stimuli during the SRB"
+      },
+      {
+        "source": "f901177d-d5a1-49ec-a74e-2adc81f988ea",
+        "locator": "p. 9",
+        "quote": "the SRB is characterized by a brief loss of self-awareness, followed by an involuntary shift in the unit of identification"
+      }
+    ]
+  }
+}

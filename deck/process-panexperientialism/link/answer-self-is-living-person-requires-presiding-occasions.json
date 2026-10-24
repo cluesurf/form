@@ -1,0 +1,33 @@
+{
+  "record": "link",
+  "id": "65f2bf30-e5d7-4f44-9fb7-b8b02e605d14",
+  "from": "ec264bac-8b24-41cc-a70d-0bf1e977493f",
+  "to": "327f86b7-6bce-4f55-a591-af617926345f",
+  "relation": "requires",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "78f94ddb-c6f8-4a5c-86bb-ea574d7a0c37",
+        "locator": "p. 164",
+        "quote": "in the case of the higher animals there is central direction, which suggests that in their case each animal body harbours a living person, or living persons"
+      },
+      {
+        "source": "78f94ddb-c6f8-4a5c-86bb-ea574d7a0c37",
+        "locator": "p. 167",
+        "quote": "This route of presiding occasions probably wanders from part to part of the brain"
+      }
+    ]
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "record": "proposition",
+  "id": "30a85e11-b90a-4675-b2c6-1085ce06b97b",
+  "kind": "definitional",
+  "epistemic_status": "designed",
+  "title": "Mental autonomy and its veto component",
+  "statements": [
+    {
+      "id": "6aaaa80d-d42c-4ea3-99fd-b30f6806f27c",
+      "text": "M-autonomy, mental as opposed to bodily or social autonomy, is the ability to control one’s own mental functions such as attention, memory, planning and deliberation. Its defining feature is the veto component: all ongoing mental processes can in principle be suspended or terminated, and the person knows this.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "6aaaa80d-d42c-4ea3-99fd-b30f6806f27c",
+  "status": "active",
+  "voice": "framework",
+  "defines": "mental autonomy",
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "1bc792ee-c3ee-4f0c-93b8-a818a2897c06",
+        "locator": "p. 12",
+        "quote": "The central defining characteristic is the “veto component”"
+      }
+    ]
+  }
+}

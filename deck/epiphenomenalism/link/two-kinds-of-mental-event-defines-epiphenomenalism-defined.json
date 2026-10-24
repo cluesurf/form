@@ -1,0 +1,33 @@
+{
+  "record": "link",
+  "id": "cc160e68-81bc-42f9-b815-831473a86a3f",
+  "from": "07242dc5-9d89-4d35-b8cb-07bec50d9820",
+  "to": "8932d812-581d-4cb6-9104-ec9097cb7d44",
+  "relation": "defines",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "542e0d13-746c-470a-a9b7-86f1d044600d",
+        "locator": "section 1, 'Traditional Arguments (A) Pro'",
+        "quote": "Many philosophers recognize a distinction between two kinds of mental events."
+      },
+      {
+        "source": "542e0d13-746c-470a-a9b7-86f1d044600d",
+        "locator": "section 1, 'Traditional Arguments (A) Pro'",
+        "quote": "For, if pains caused beliefs that one is in pain, and the latter had physical effects, then pains would, after all, have effects in the physical world (albeit indirectly)."
+      }
+    ]
+  }
+}

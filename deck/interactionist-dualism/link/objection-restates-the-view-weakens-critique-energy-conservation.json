@@ -1,0 +1,28 @@
+{
+  "record": "link",
+  "id": "76e22dfe-2702-43eb-863e-aec1e22899ae",
+  "from": "8d3f12b7-de2c-46cd-925f-3e484976bf58",
+  "to": "b67b5a6f-831d-4c12-a5d5-98810eba3a32",
+  "relation": "weakens",
+  "strength": null,
+  "rationale": "Given conditional conservation, the objection only restates that minds act on bodies.",
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "ca8520b1-c069-4551-b4a7-3d560c5ff593",
+        "locator": "p. 114",
+        "quote": "the problem with having souls act on bodies is that then souls act on bodies"
+      }
+    ]
+  }
+}

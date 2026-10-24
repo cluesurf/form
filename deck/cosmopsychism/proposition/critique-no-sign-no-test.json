@@ -1,0 +1,50 @@
+{
+  "record": "proposition",
+  "id": "c628244a-bb29-4aba-83ca-81dcb374b965",
+  "kind": "philosophical",
+  "epistemic_status": "hypothesized",
+  "title": "Critique: no sign that the cosmos is conscious, and no test",
+  "statements": [
+    {
+      "id": "edc62621-c8ca-4172-a380-8a16b896fddd",
+      "text": "Attributing consciousness to the cosmos is counterintuitive, the cosmos lacks the structure of a brain, nothing shows that it is conscious, and no empirical test could prove it. Nagasawa and Wager reply that each objection applies equally to panpsychism, since physical ultimates also lack brain structure and show no sign of consciousness.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "edc62621-c8ca-4172-a380-8a16b896fddd",
+  "status": "active",
+  "voice": "critique",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "629ffdcd-cf3c-438c-a392-dd65608e9309",
+        "locator": "p. 16",
+        "quote": "Priority cosmopsychism attributes consciousness to the cosmos, which seems highly"
+      },
+      {
+        "source": "629ffdcd-cf3c-438c-a392-dd65608e9309",
+        "locator": "p. 17",
+        "quote": "there is no sign that the cosmos is conscious (the ‘no sign’ problem for priority"
+      }
+    ]
+  }
+}

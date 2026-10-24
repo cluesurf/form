@@ -1,0 +1,33 @@
+{
+  "record": "link",
+  "id": "6493311f-edb6-4101-a198-1f855b5742a1",
+  "from": "893de7aa-72cf-43d2-b86f-78148740197f",
+  "to": "8932d812-581d-4cb6-9104-ec9097cb7d44",
+  "relation": "contradicts",
+  "strength": null,
+  "rationale": "If consciousness was selected, it has effects on behavior.",
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "542e0d13-746c-470a-a9b7-86f1d044600d",
+        "locator": "section 2.2, 'Natural Selection'",
+        "quote": "But a property can be selected for only if it has an effect upon organisms’ behavior."
+      },
+      {
+        "source": "dfd58c6e-5a2a-41c9-8c7a-db764ff37e09",
+        "locator": "Mind 4, page 16",
+        "quote": "It is, in fact, hard to see how without an effective superintending ideal the evolution of so unstable an organ as the mammalian cerebrum can have proceeded at all."
+      }
+    ]
+  }
+}

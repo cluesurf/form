@@ -1,0 +1,50 @@
+{
+  "record": "proposition",
+  "id": "fef6bd6b-3f43-4f2f-a017-69621029aa47",
+  "kind": "philosophical",
+  "epistemic_status": "hypothesized",
+  "title": "Answer: intelligence is the work of cognition, done to reduce affect",
+  "statements": [
+    {
+      "id": "58004f22-b364-46e0-8402-8e0ce525bac7",
+      "text": "The theory offers no separate account of intelligence. Cognition is the work that flows from affect and serves to reduce it, by learning and by thinking as virtual action, and the cortex supplies the memory space for it. Most of this work runs without consciousness once it is automatized.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "58004f22-b364-46e0-8402-8e0ce525bac7",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "8834b927-27b0-41e8-8c3f-c15dbf813c57",
+        "locator": "p. 7",
+        "quote": "The purpose of cognition is to bring the world into line with our predictions and our predictions into line with the world."
+      },
+      {
+        "source": "8834b927-27b0-41e8-8c3f-c15dbf813c57",
+        "locator": "p. 6",
+        "quote": "Cortex evidently provides \"random-access memory\" space"
+      }
+    ]
+  }
+}

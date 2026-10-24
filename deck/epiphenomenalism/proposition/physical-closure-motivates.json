@@ -1,0 +1,50 @@
+{
+  "record": "proposition",
+  "id": "87079e0e-8335-4ecd-a8d7-56fb5b4d934e",
+  "kind": "philosophical",
+  "epistemic_status": "hypothesized",
+  "title": "Every physical event with a sufficient cause has a sufficient physical cause",
+  "statements": [
+    {
+      "id": "37da8a21-89bf-4a29-8c86-469e7704ba42",
+      "text": "The central motivation for epiphenomenalism is the premise that whenever a physical event has a sufficient cause, it has a sufficient physical cause. If a mental event is something other than a physical event, its making any causal contribution of its own in the physical world would require a violation of physical law, as Descartes's nonphysical nudges to the pineal gland would.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "37da8a21-89bf-4a29-8c86-469e7704ba42",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "542e0d13-746c-470a-a9b7-86f1d044600d",
+        "locator": "section 1, 'Traditional Arguments (A) Pro'",
+        "quote": "The central motivation for epiphenomenalism lies in the premise that whenever there is a sufficient cause of a physical event, there is a sufficient physical cause of that event."
+      },
+      {
+        "source": "542e0d13-746c-470a-a9b7-86f1d044600d",
+        "locator": "section 1, 'Traditional Arguments (A) Pro'",
+        "quote": "then for it to make any causal contribution of its own in the physical world would require a violation of physical law"
+      }
+    ]
+  }
+}

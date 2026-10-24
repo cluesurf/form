@@ -1,0 +1,45 @@
+{
+  "record": "proposition",
+  "id": "b4ccd96b-9463-4606-a80b-7408122cca02",
+  "kind": "philosophical",
+  "epistemic_status": "hypothesized",
+  "title": "Answer: no position on physical time, and computation is a sequence of state transitions",
+  "statements": [
+    {
+      "id": "451f7f66-093b-4f62-acb9-c4de267d16ff",
+      "text": "The view takes no position on what time is. Its temporal structure is that of computation, transitions between information-carrying states, and some indicator properties are temporal, such as algorithmic recurrence, the repeated processing of information by the same units.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "451f7f66-093b-4f62-acb9-c4de267d16ff",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "ecf4b155-a02f-440e-87ac-837126c9279c",
+        "locator": "arXiv p. 5",
+        "quote": "RPT-1: Input modules using algorithmic recurrence"
+      }
+    ]
+  }
+}

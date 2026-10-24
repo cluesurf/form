@@ -1,0 +1,50 @@
+{
+  "record": "proposition",
+  "id": "3b85e350-ea1f-461a-a44b-27b2eab4961e",
+  "kind": "philosophical",
+  "epistemic_status": "hypothesized",
+  "title": "Answer: a self is the content of a transparent self-model, not a thing",
+  "statements": [
+    {
+      "id": "b0910538-3de0-46bc-a0fb-5cc774ee73f3",
+      "text": "There are no selves. What appears as a self is the content of a transparent phenomenal self-model, an integrated process the system cannot recognize as a model and so mistakes for itself.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "b0910538-3de0-46bc-a0fb-5cc774ee73f3",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "bcdebbd0-38c1-4227-a43b-6a7a59f74207",
+        "locator": "p. 3",
+        "quote": "The content of a self-model that cannot be recognized as a model by the system using it."
+      },
+      {
+        "source": "bcdebbd0-38c1-4227-a43b-6a7a59f74207",
+        "locator": "p. 3",
+        "quote": "This PSM is not a thing, but an integrated process."
+      }
+    ]
+  }
+}

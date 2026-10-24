@@ -1,0 +1,28 @@
+{
+  "record": "link",
+  "id": "75c3df5e-33e3-4a67-8cc3-4cec408faf67",
+  "from": "10408857-1331-4724-90be-c9f87eae9cf1",
+  "to": "c73e5433-90d9-42c1-a772-b429457c3527",
+  "relation": "requires",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "74e58cef-2e29-415f-a138-df37b7515701",
+        "locator": "Collected Essays I, page 244",
+        "quote": "the feeling we call volition is not the cause of a voluntary act, but the symbol of that state of the brain which is the immediate cause of that act"
+      }
+    ]
+  }
+}

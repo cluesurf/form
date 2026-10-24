@@ -1,0 +1,45 @@
+{
+  "record": "proposition",
+  "id": "8d3f12b7-de2c-46cd-925f-3e484976bf58",
+  "kind": "philosophical",
+  "epistemic_status": "inferred",
+  "title": "Once conservation is conditional, the objection only restates interactionism",
+  "statements": [
+    {
+      "id": "a26e3cd1-4073-4460-b9e1-ce53d260f2ad",
+      "text": "With conservation conditional on symmetry, armchair arguments from energy conservation no longer work. Complaining that energy is not conserved if interactionism is true amounts to saying that the problem with souls acting on bodies is that souls act on bodies, and physics often deals with equations that depend on time and place.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "a26e3cd1-4073-4460-b9e1-ce53d260f2ad",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "ca8520b1-c069-4551-b4a7-3d560c5ff593",
+        "locator": "p. 114",
+        "quote": "the problem with having souls act on bodies is that then souls act on bodies"
+      }
+    ]
+  }
+}

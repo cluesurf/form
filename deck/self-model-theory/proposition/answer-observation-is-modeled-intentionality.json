@@ -1,0 +1,50 @@
+{
+  "record": "proposition",
+  "id": "7fc6d919-ebab-44fc-b13c-6566bedfb793",
+  "kind": "philosophical",
+  "epistemic_status": "hypothesized",
+  "title": "Answer: the observer is a model of the system directed at an object",
+  "statements": [
+    {
+      "id": "65fbb336-94a5-45ad-971a-eb768c5dc822",
+      "text": "The theory takes no position on quantum measurement. Observation as experienced is a PMIR: the system models itself as a subject directed at an object, as in \"I am someone who is now attending to the color of the book\". Attending is modeled resource allocation, linked under predictive coding to precision optimization.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "65fbb336-94a5-45ad-971a-eb768c5dc822",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "bcdebbd0-38c1-4227-a43b-6a7a59f74207",
+        "locator": "p. 5",
+        "quote": "‘‘I am someone, who is currently visually attending to the colour of the book in my hands,’’"
+      },
+      {
+        "source": "1bc792ee-c3ee-4f0c-93b8-a818a2897c06",
+        "locator": "p. 8",
+        "quote": "having an attentional 1PP can be fruitfully associated with secondorder statistics or precision optimization"
+      }
+    ]
+  }
+}

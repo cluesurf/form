@@ -1,0 +1,28 @@
+{
+  "record": "link",
+  "id": "d62205d4-6cef-4dab-a56c-5901925c5841",
+  "from": "a505bbe0-f77e-4f0c-a1ed-13bf5c9f4024",
+  "to": "ec8744b8-35ca-438f-b48c-63eb48570bc6",
+  "relation": "answers",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "ecf4b155-a02f-440e-87ac-837126c9279c",
+        "locator": "arXiv p. 13",
+        "quote": "Computational functionalism is compatible with a range of views about the relationship between consciousness and"
+      }
+    ]
+  }
+}

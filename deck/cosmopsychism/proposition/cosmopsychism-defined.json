@@ -1,0 +1,50 @@
+{
+  "record": "proposition",
+  "id": "d12e3498-ea05-4010-990f-0ffe925135e0",
+  "kind": "definitional",
+  "epistemic_status": "designed",
+  "title": "Cosmopsychism",
+  "statements": [
+    {
+      "id": "a2618910-59c3-4dfe-b595-81c2b5ab371e",
+      "text": "Constitutive cosmopsychism is the view that all facts, including the facts about the ordinary consciousness of humans and other animals, are grounded in consciousness-involving facts concerning the universe. Its minimal commitment is that the universe is conscious. It is the top-down form of constitutive panpsychism, beside bottom-up micropsychism.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "a2618910-59c3-4dfe-b595-81c2b5ab371e",
+  "status": "active",
+  "voice": "framework",
+  "defines": "cosmopsychism",
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "6801f71f-b984-44ec-8535-cf2750b86ba3",
+        "locator": "p. 1",
+        "quote": "are grounded in consciousness-involving facts concerning the universe"
+      },
+      {
+        "source": "dd678356-d737-4be1-b525-267774f35a6b",
+        "locator": "section 2.4 'Micropsychism Versus Cosmopsychism'",
+        "quote": "The minimal commitment of cosmopsychism is that the universe is conscious"
+      }
+    ]
+  }
+}

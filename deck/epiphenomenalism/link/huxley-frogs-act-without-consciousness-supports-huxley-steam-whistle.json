@@ -1,0 +1,33 @@
+{
+  "record": "link",
+  "id": "b5e372ad-7302-4853-879a-eb115ec76749",
+  "from": "0171eace-416a-4e14-9454-ec96870a650f",
+  "to": "f503f5c0-d6ee-4321-b14b-96307566976c",
+  "relation": "supports",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "74e58cef-2e29-415f-a138-df37b7515701",
+        "locator": "Collected Essays I, page 240",
+        "quote": "Is there any evidence that these states of consciousness may, conversely, cause those molecular changes which give rise to muscular motion? I see no such evidence."
+      },
+      {
+        "source": "74e58cef-2e29-415f-a138-df37b7515701",
+        "locator": "Collected Essays I, page 240",
+        "quote": "The frog walks, hops, swims, and goes through his gymnastic performances quite as well without consciousness, and consequently without volition, as with it"
+      }
+    ]
+  }
+}

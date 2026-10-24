@@ -1,0 +1,28 @@
+{
+  "record": "link",
+  "id": "c52d07ab-b5cf-44b1-8114-c2b0c12049f4",
+  "from": "d79b58ae-10a2-4e3b-8a79-3cb4b5437029",
+  "to": "eb1fb5a6-d3a3-4ecd-b9c6-1957d42a3de7",
+  "relation": "requires",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "376b0486-c527-4cc7-952d-0f98af4e4b8e",
+        "locator": "abstract",
+        "quote": "The hypothesis is that in mammalian evolution dendrons evolved for more effective integration of the increased complexity of sensory inputs."
+      }
+    ]
+  }
+}

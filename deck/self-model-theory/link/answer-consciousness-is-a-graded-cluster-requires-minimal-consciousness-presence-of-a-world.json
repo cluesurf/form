@@ -1,0 +1,33 @@
+{
+  "record": "link",
+  "id": "cc8bb331-11d5-4a33-be15-5eed3e0d404e",
+  "from": "62662200-0749-4c35-860a-e654364be72f",
+  "to": "21a2a6f2-1d2b-46a9-a3fd-a8a85b102836",
+  "relation": "requires",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "bcdebbd0-38c1-4227-a43b-6a7a59f74207",
+        "locator": "p. 2",
+        "quote": "Phenomenologically, minimal consciousness is described as the presence of a world."
+      },
+      {
+        "source": "1e6c56f2-322f-47dd-a519-b66dc9982794",
+        "locator": "p. 3",
+        "quote": "it is a heterogeneous and graded construct, and membership comes in degrees"
+      }
+    ]
+  }
+}

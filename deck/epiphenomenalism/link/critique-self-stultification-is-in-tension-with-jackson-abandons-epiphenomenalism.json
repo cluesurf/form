@@ -1,0 +1,33 @@
+{
+  "record": "link",
+  "id": "3f10dc1b-fbf6-43b4-82c2-3b4631d31708",
+  "from": "eb8eaa5f-3fd8-4f61-94bb-94ce971b5b12",
+  "to": "03a4d52d-7627-438c-9ebb-15eb46b1c0e3",
+  "relation": "is_in_tension_with",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "542e0d13-746c-470a-a9b7-86f1d044600d",
+        "locator": "section 2.4, 'Self-stultification'",
+        "quote": "The most powerful reason for rejecting epiphenomenalism is the view that it is incompatible with knowledge of our own minds"
+      },
+      {
+        "source": "542e0d13-746c-470a-a9b7-86f1d044600d",
+        "locator": "section 2.4, 'Self-stultification'",
+        "quote": "even if we were all possessed of physical causes of our utterances and completely devoid of any mental life whatsoever"
+      }
+    ]
+  }
+}

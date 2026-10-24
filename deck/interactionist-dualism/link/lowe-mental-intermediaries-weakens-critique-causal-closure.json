@@ -1,0 +1,28 @@
+{
+  "record": "link",
+  "id": "4643f3d9-61bc-4e62-ad67-4f947c18d3f2",
+  "from": "aa597e79-bcfd-4d21-b3c0-54bb9af0620f",
+  "to": "e7e323c8-f92d-4e19-a974-d8fcccdeb64c",
+  "relation": "weakens",
+  "strength": null,
+  "rationale": "If mental states mediate physical causes simultaneously, closure holds at the physical level and the mind still acts.",
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "4bffe5f1-a379-4b92-b51d-3c5ef3046009",
+        "locator": "section 3.3, 'Interactionism'",
+        "quote": "But certain physical causes in the brain do so indirectly, by bringing about an intermediate mental state that in turn causes the ordinary physical effect."
+      }
+    ]
+  }
+}

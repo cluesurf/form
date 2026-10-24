@@ -1,0 +1,33 @@
+{
+  "record": "link",
+  "id": "2546da58-9aad-4e69-9bf4-4292b36c3860",
+  "from": "374beb96-56e8-41d6-a04d-a138b58409e6",
+  "to": "e480c33b-cd3d-4662-ac02-335c4fbba66a",
+  "relation": "specializes",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "de8573b3-42af-4c30-94e9-01704e16b3ea",
+        "locator": "p. 80",
+        "quote": "The theme of this paper is that a similar fate may befall concepts respected and revered in our own prevailing conception of how humans works, and the concept on which I mean to focus is consciousness."
+      },
+      {
+        "source": "de8573b3-42af-4c30-94e9-01704e16b3ea",
+        "locator": "p. 80",
+        "quote": "But the extent of the erosion of the concept by recent empirical findings is, I suspect, greater than hitherto reckoned."
+      }
+    ]
+  }
+}

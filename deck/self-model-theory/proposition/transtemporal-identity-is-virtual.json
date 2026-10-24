@@ -1,0 +1,50 @@
+{
+  "record": "proposition",
+  "id": "7982c683-d771-44cf-b93e-b642ee2a527e",
+  "kind": "philosophical",
+  "epistemic_status": "hypothesized",
+  "title": "Identity across time is formed only on a virtual level",
+  "statements": [
+    {
+      "id": "ab55f1c1-190e-4861-9ffc-33795c3ebdce",
+      "text": "Many higher forms of intelligence and adaptive behavior presuppose a self-model that portrays the organism as one entity enduring over time. Because humans are cognitive systems with some physical and psychological continuity but no precise identity criteria, that identity can be formed only virtually, as through an automatic narrative. Mind wandering may serve to maintain this adaptive illusion of identity across time.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "ab55f1c1-190e-4861-9ffc-33795c3ebdce",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "f901177d-d5a1-49ec-a74e-2adc81f988ea",
+        "locator": "p. 5",
+        "quote": "identity formation can only be achieved on a virtual level"
+      },
+      {
+        "source": "f901177d-d5a1-49ec-a74e-2adc81f988ea",
+        "locator": "p. 5",
+        "quote": "creates an adaptive form of self-deception, namely, an illusion of personal identity across time"
+      }
+    ]
+  }
+}

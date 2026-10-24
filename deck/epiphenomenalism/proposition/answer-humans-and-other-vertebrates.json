@@ -1,0 +1,50 @@
+{
+  "record": "proposition",
+  "id": "c3c34c20-8251-460e-90d0-b72050fa5e5f",
+  "kind": "philosophical",
+  "epistemic_status": "hypothesized",
+  "title": "Answer: humans, and by analogy other vertebrates, though only one's own case is proven",
+  "statements": [
+    {
+      "id": "4d3fbb5c-26a1-4177-8c0b-ae740ee5e856",
+      "text": "Only one's own consciousness can be proven. By analogy it is assumed in other humans, and what holds of the human brain probably holds of other vertebrates, so animals are conscious automata too.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "4d3fbb5c-26a1-4177-8c0b-ae740ee5e856",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "74e58cef-2e29-415f-a138-df37b7515701",
+        "locator": "Collected Essays I, page 219",
+        "quote": "though, by analogy, we are justified in assuming its existence in other men"
+      },
+      {
+        "source": "74e58cef-2e29-415f-a138-df37b7515701",
+        "locator": "Collected Essays I, page 220",
+        "quote": "what is true for man is true for other vertebrated animals"
+      }
+    ]
+  }
+}

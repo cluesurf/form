@@ -1,0 +1,50 @@
+{
+  "record": "proposition",
+  "id": "e7e104fb-de05-476f-8332-99eefa26b08a",
+  "kind": "philosophical",
+  "epistemic_status": "hypothesized",
+  "title": "Minimal phenomenal experience is selfless, timeless and aperspectival",
+  "statements": [
+    {
+      "id": "9d02e693-dfea-480f-a098-6f5f21425092",
+      "text": "Minimal phenomenal experience is non-egoic self-modeling: atemporal, selfless and not tied to an individual first-person perspective. It lacks minimal phenomenal selfhood, time representation and a spatial frame, yet it has representational content and a phenomenal character of its own, combining the absence of subject-object structure with transparency.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "9d02e693-dfea-480f-a098-6f5f21425092",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "1e6c56f2-322f-47dd-a519-b66dc9982794",
+        "locator": "p. 36",
+        "quote": "MPE is non-egoic self-modelling: as such it is atemporal, selfless, and not tied to an individual first-person perspective."
+      },
+      {
+        "source": "1e6c56f2-322f-47dd-a519-b66dc9982794",
+        "locator": "p. 38",
+        "quote": "MPE is aperspectival and it does not instantiate MPS, but it definitely has representational content"
+      }
+    ]
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "record": "link",
+  "id": "b0c94a94-1fdc-4ab4-9c29-218cdd0e1ee3",
+  "from": "cb80061a-e1cf-42df-89b8-c9a65bb05e15",
+  "to": "af2bc4e4-a1a9-4f67-860c-1460f09cd55c",
+  "relation": "answers",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "8834b927-27b0-41e8-8c3f-c15dbf813c57",
+        "locator": "p. 5",
+        "quote": "Free energy in thermodynamic terms entails entropy, which in information-theoretic terms is surprisal (and uncertainty)"
+      },
+      {
+        "source": "224c4197-d629-416a-b17f-4f96e49df600",
+        "locator": "p. 4",
+        "quote": "Minimizing variational free-energy necessarily entails a metabolically efficient encoding"
+      }
+    ]
+  }
+}

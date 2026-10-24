@@ -1,0 +1,28 @@
+{
+  "record": "link",
+  "id": "71cf5fcf-85c4-4986-a80c-1535af2c9fda",
+  "from": "d65501c6-d13e-47ea-b805-78b52cc95de1",
+  "to": "6cb04be5-6e32-4138-b06e-247af3386e08",
+  "relation": "requires",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "9a9645ce-d028-451e-8752-1237c4f2f58b",
+        "locator": "eprint p. 2",
+        "quote": "I actually experience perceiving and intentionally acting."
+      }
+    ]
+  }
+}

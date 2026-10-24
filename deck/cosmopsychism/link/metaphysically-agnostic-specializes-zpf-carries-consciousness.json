@@ -1,0 +1,33 @@
+{
+  "record": "link",
+  "id": "ce84b570-f80d-458a-8cd1-f59b7a8ddca5",
+  "from": "0c964987-4d46-4769-9149-7854581761ef",
+  "to": "bb924ada-42d2-4e89-a5e7-3ef18b551cd9",
+  "relation": "specializes",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "15531e9b-ad0a-46bd-893e-8b37e693007c",
+        "locator": "p. 407",
+        "quote": "our proposal remains agnostic regarding the choice between these two"
+      },
+      {
+        "source": "6ae3be7e-baba-41f4-bfc7-e0a470bdb8e6",
+        "locator": "p. 1",
+        "quote": "foundational dual-aspect component of the cosmos"
+      }
+    ]
+  }
+}

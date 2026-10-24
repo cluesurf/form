@@ -1,0 +1,33 @@
+{
+  "record": "link",
+  "id": "0218b301-532a-4444-aef6-3d8a202d3758",
+  "from": "f4cb98e1-e55d-4fd6-bcb8-da1389b832eb",
+  "to": "43fc6225-2526-4555-8128-80b38e2fbaf4",
+  "relation": "answers",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "d821ebea-2668-4266-8314-e24547973aea",
+        "locator": "p. 21",
+        "quote": "could therefore be an enculturated post-hoc confabulation"
+      },
+      {
+        "source": "d821ebea-2668-4266-8314-e24547973aea",
+        "locator": "p. 22",
+        "quote": "Are there mental actions at all? I will not answer this question here."
+      }
+    ]
+  }
+}

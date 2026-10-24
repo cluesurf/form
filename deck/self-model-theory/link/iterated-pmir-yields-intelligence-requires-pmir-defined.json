@@ -1,0 +1,33 @@
+{
+  "record": "link",
+  "id": "a2a04026-c4da-4021-b3a4-1980d1d334fd",
+  "from": "6d5822ae-b6cf-4dec-b2f2-db4fd358e337",
+  "to": "ea888beb-7ef6-458a-b775-73e51d60d352",
+  "relation": "requires",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "bcdebbd0-38c1-4227-a43b-6a7a59f74207",
+        "locator": "p. 29",
+        "quote": "two entirely new forms of intelligence emerge"
+      },
+      {
+        "source": "bcdebbd0-38c1-4227-a43b-6a7a59f74207",
+        "locator": "p. 30",
+        "quote": "Systems with cognitive PMIRs can mutually acknowledge each other as persons."
+      }
+    ]
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "record": "proposition",
+  "id": "0c193666-5de3-4246-ad9a-cf64cd197a5c",
+  "kind": "philosophical",
+  "epistemic_status": "hypothesized",
+  "title": "Answer: the brain and physical world, as a matured neuroscience will describe them",
+  "statements": [
+    {
+      "id": "0198e492-e09e-4768-8c08-5241ba8398d9",
+      "text": "What is fundamental is physical. There is nothing more to the mind than what goes on in the brain, and the right ontology of the mind will come from a matured neuroscience, not from commonsense categories.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "0198e492-e09e-4768-8c08-5241ba8398d9",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "4881b7b9-a47f-492c-80a0-18998a6e239d",
+        "locator": "section 2.2, 'Eliminative Theory Change'",
+        "quote": "straightforward eliminativists claim there is nothing more to the mind than what occurs in the brain"
+      }
+    ]
+  }
+}

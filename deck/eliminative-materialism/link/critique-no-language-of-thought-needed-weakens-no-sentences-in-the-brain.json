@@ -1,0 +1,33 @@
+{
+  "record": "link",
+  "id": "f55fcb6f-d731-4520-949c-3737e94ca379",
+  "from": "38822ec5-a00c-4d24-8cd9-5ebdb06dbb57",
+  "to": "161cfe5f-73ba-460c-bf79-90894da384a4",
+  "relation": "weakens",
+  "strength": null,
+  "rationale": "If folk psychology does not need sentence-like states, or looks at a higher level, their absence from neural wiring shows nothing.",
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "4881b7b9-a47f-492c-80a0-18998a6e239d",
+        "locator": "section 3.2.1, 'Challenging The Syntactic Structure Of Beliefs'",
+        "quote": "many have argued that it is a mistake to treat folk psychology as committed to a quasi-linguistic structure to propositional attitudes"
+      },
+      {
+        "source": "4881b7b9-a47f-492c-80a0-18998a6e239d",
+        "locator": "section 3.2.1, 'Challenging The Syntactic Structure Of Beliefs'",
+        "quote": "the detailed neurological wiring of the brain is the wrong level of organization to look for structures that might qualify as beliefs"
+      }
+    ]
+  }
+}

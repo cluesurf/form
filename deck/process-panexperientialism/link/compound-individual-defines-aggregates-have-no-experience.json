@@ -1,0 +1,28 @@
+{
+  "record": "link",
+  "id": "6913b53d-29d4-4881-94a9-4e7410934d0e",
+  "from": "0c24d93a-fe0f-40ed-adbd-9c5c1e982f59",
+  "to": "b1f5c140-b5a5-4fce-b1e9-b5b28144a207",
+  "relation": "defines",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "ba105db4-969a-4ed2-be0c-cb4dd3eb2505",
+        "locator": "section III",
+        "quote": "In the latter, a higher-level of actuality has emerged, thereby giving the society as a whole a unity of experience and activity"
+      }
+    ]
+  }
+}

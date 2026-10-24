@@ -1,0 +1,50 @@
+{
+  "record": "proposition",
+  "id": "e38b9480-c71b-4280-87ad-bb6df433e72e",
+  "kind": "philosophical",
+  "epistemic_status": "hypothesized",
+  "title": "Whether mental actions exist is left open",
+  "statements": [
+    {
+      "id": "12aba91b-b3f9-4393-a505-512770bb951c",
+      "text": "The question whether there are mental actions at all is not answered. There is so far no satisfying account of mental action under predictive processing, and the choice lies between a realist option, which owes a multi-level theory of goal selection and action initiation, and an eliminativist option, which owes successor concepts and an account of why inner life has been described so falsely.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "12aba91b-b3f9-4393-a505-512770bb951c",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "d821ebea-2668-4266-8314-e24547973aea",
+        "locator": "p. 22",
+        "quote": "Are there mental actions at all? I will not answer this question here."
+      },
+      {
+        "source": "d821ebea-2668-4266-8314-e24547973aea",
+        "locator": "p. 22",
+        "quote": "there is no satisfying theoretical account of mental action under the PP approach"
+      }
+    ]
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "record": "proposition",
+  "id": "9c823c9a-325e-4201-ad11-8ea0151cedea",
+  "kind": "definitional",
+  "epistemic_status": "designed",
+  "title": "Presentationality: everything experienced is experienced now",
+  "statements": [
+    {
+      "id": "d477adf9-fc5f-48f7-8a16-e7d7a542f963",
+      "text": "Phenomenal experience generates an island of presence in the flow of physical time. Whatever is experienced is experienced now, because phenomenal content carries a representation of temporal internality, a window of presence.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "d477adf9-fc5f-48f7-8a16-e7d7a542f963",
+  "status": "active",
+  "voice": "framework",
+  "defines": "presentationality",
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "bcdebbd0-38c1-4227-a43b-6a7a59f74207",
+        "locator": "p. 2",
+        "quote": "whatever I experience, I always experience it now"
+      }
+    ]
+  }
+}

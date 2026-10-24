@@ -1,0 +1,28 @@
+{
+  "record": "link",
+  "id": "4ffd8586-cb07-4369-970e-46c18c364289",
+  "from": "0d5b8b75-6e9c-4c5a-b9ec-c6269ec5c9b3",
+  "to": "8932d812-581d-4cb6-9104-ec9097cb7d44",
+  "relation": "contradicts",
+  "strength": null,
+  "rationale": "If feelings make a difference to behavior, mental events have physical effects.",
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "542e0d13-746c-470a-a9b7-86f1d044600d",
+        "locator": "section 2.1, 'Obvious Absurdity'",
+        "quote": "it is just plain obvious that our pains, our thoughts, and our feelings make a difference to our (evidently physical) behavior"
+      }
+    ]
+  }
+}

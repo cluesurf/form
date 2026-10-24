@@ -1,0 +1,44 @@
+{
+  "record": "observation",
+  "id": "bd03d789-1ef0-4c2c-88db-e9bec31db223",
+  "kind": "experimental_result",
+  "epistemic_status": "observed",
+  "description": "Focal lesions of the upper brainstem activating system abolish consciousness, as Moruzzi and Magoun showed in cats and Penfield and Jasper in humans, and the smallest lesions that cause coma lie in or near the parabrachial nuclei of the pons. Removal of large areas of cortex, even a whole hemisphere, does not interrupt the conscious self.",
+  "method": "document_review",
+  "status": "reported",
+  "source": "8834b927-27b0-41e8-8c3f-c15dbf813c57",
+  "procedure": null,
+  "variable": null,
+  "value": null,
+  "unit": null,
+  "uncertainty": null,
+  "sample_size": null,
+  "replication_count": null,
+  "quality": null,
+  "limitations": "Reviewed from the clinical and experimental literature, not new data.",
+  "conflicts_of_interest": null,
+  "observed_at": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "8834b927-27b0-41e8-8c3f-c15dbf813c57",
+        "locator": "p. 5",
+        "quote": "the smallest lesions within the brainstem which cause total loss of consciousness (i.e., coma) are located in or near the parabrachial nuclei of the pons"
+      },
+      {
+        "source": "afbb68ed-2795-46f2-a80b-5e9c8f6d456d",
+        "locator": "section 8 'All Consciousness Is Endogenous'",
+        "quote": "Cortical removal did not interrupt the presence of the conscious \"self\", of conscious being"
+      }
+    ]
+  }
+}

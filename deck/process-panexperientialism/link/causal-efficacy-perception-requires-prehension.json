@@ -1,0 +1,28 @@
+{
+  "record": "link",
+  "id": "1c31f4c7-0fe5-4705-9861-69f751d0d69d",
+  "from": "4da0bfbd-add4-4fd2-98e3-a387d1811590",
+  "to": "b9434e67-2d17-45dc-a709-26c8e08b53c6",
+  "relation": "requires",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "cf32eaac-9643-4139-b931-e40946180581",
+        "locator": "p. 20",
+        "quote": "It is this latter form of human experience that modern science has all but ignored."
+      }
+    ]
+  }
+}

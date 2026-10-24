@@ -1,0 +1,45 @@
+{
+  "record": "proposition",
+  "id": "233e7e9f-d9b3-4ea2-8b83-99dec26772bf",
+  "kind": "philosophical",
+  "epistemic_status": "hypothesized",
+  "title": "Answer: computing is processing information by implementing algorithms",
+  "statements": [
+    {
+      "id": "2d18e6bd-5f2c-4f3b-ac9b-3ec4c79e5b35",
+      "text": "Information enters through computation: systems that compute process information by implementing algorithms over information-carrying states, and consciousness is fixed by the kind of information processing a system performs.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "2d18e6bd-5f2c-4f3b-ac9b-3ec4c79e5b35",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "ecf4b155-a02f-440e-87ac-837126c9279c",
+        "locator": "arXiv p. 13",
+        "quote": "Systems that perform computations process information by implementing algorithms"
+      }
+    ]
+  }
+}

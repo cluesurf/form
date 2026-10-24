@@ -1,0 +1,50 @@
+{
+  "record": "proposition",
+  "id": "a85a3393-cc8e-4897-817f-5d92faa091bd",
+  "kind": "philosophical",
+  "epistemic_status": "hypothesized",
+  "title": "Reply: knowing an experience does not require being caused by it",
+  "statements": [
+    {
+      "id": "7709d381-01c8-4d3c-b26e-774d398d3e3d",
+      "text": "The self-stultification argument assumes that knowing a mental event requires being caused by it, and epiphenomenalists can reject that premise. On Chalmers's view, direct acquaintance with experience, not causation, justifies beliefs about it. On another, learned links between brain events that cause sensations and brain events that produce sensation words guarantee that, in normal conditions, a report names the kind of sensation the speaker is having.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "7709d381-01c8-4d3c-b26e-774d398d3e3d",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "542e0d13-746c-470a-a9b7-86f1d044600d",
+        "locator": "section 2.4, 'Self-stultification'",
+        "quote": "But epiphenomenalists may reject that premise without absurdity."
+      },
+      {
+        "source": "542e0d13-746c-470a-a9b7-86f1d044600d",
+        "locator": "section 2.4, 'Self-stultification'",
+        "quote": "It allows for persons to be directly acquainted with experiences, and it is this direct acquaintance, rather than any causal relation, that justifies our beliefs about experiences."
+      }
+    ]
+  }
+}

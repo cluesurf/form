@@ -1,0 +1,50 @@
+{
+  "record": "proposition",
+  "id": "dccfa0ac-42d0-43d3-a4f2-d79f25132fd9",
+  "kind": "empirical",
+  "epistemic_status": "hypothesized",
+  "title": "Answer: consciousness surviving brainstem loss, or affect shown to need cortex",
+  "statements": [
+    {
+      "id": "d98754f9-0c21-40b7-af01-4117a37d360f",
+      "text": "By the theory's own rule, a function localized in a structure must be lost when the structure is destroyed. It would be undercut if consciousness survived destruction of the upper brainstem arousal system, if cortex without brainstem were shown to have experience, if decorticate animals and children were shown to lack feeling, or if affect were shown to become conscious only through cortical re-representation.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "d98754f9-0c21-40b7-af01-4117a37d360f",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "8834b927-27b0-41e8-8c3f-c15dbf813c57",
+        "locator": "p. 5",
+        "quote": "if a function (or critical component function) is localized in a particular structure, then ablation of that structure must result in loss of that function"
+      },
+      {
+        "source": "afbb68ed-2795-46f2-a80b-5e9c8f6d456d",
+        "locator": "section 8 'All Consciousness Is Endogenous'",
+        "quote": "there is no evidence that living neocortex alone, without subcortical supports, can have any subjective experiences at all"
+      }
+    ]
+  }
+}

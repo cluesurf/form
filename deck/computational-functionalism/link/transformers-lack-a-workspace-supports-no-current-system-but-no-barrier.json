@@ -1,0 +1,33 @@
+{
+  "record": "link",
+  "id": "e473cddd-5543-400b-a5d1-69f0cd73945b",
+  "from": "ba5ac56f-eb30-49ed-a8f3-1f1d43705834",
+  "to": "85fd3973-291f-4f18-a121-43167b8cce52",
+  "relation": "supports",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "ecf4b155-a02f-440e-87ac-837126c9279c",
+        "locator": "arXiv p. 59",
+        "quote": "a more fundamental problem with the argument is that Transformers are not recurrent"
+      },
+      {
+        "source": "ecf4b155-a02f-440e-87ac-837126c9279c",
+        "locator": "arXiv p. 59",
+        "quote": "There is only a relatively weak case that Transformer-based large language models possess any of the GWT-derived indicator properties."
+      }
+    ]
+  }
+}

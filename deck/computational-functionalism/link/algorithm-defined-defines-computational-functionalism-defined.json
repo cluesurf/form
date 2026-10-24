@@ -1,0 +1,28 @@
+{
+  "record": "link",
+  "id": "12c87465-a55b-4908-a705-7f9b9796b73f",
+  "from": "aa8e74f6-61cb-4651-a168-49e06f9c018c",
+  "to": "b15e76c5-6d8a-435b-a0da-2ac71788aa5b",
+  "relation": "defines",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "ecf4b155-a02f-440e-87ac-837126c9279c",
+        "locator": "arXiv p. 13",
+        "quote": "The algorithm implemented by a system is an abstract specification of the transitions between states, including inputs and outputs, which it is disposed to make."
+      }
+    ]
+  }
+}

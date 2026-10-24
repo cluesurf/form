@@ -1,0 +1,50 @@
+{
+  "record": "proposition",
+  "id": "43211f29-7aed-4c77-bb1f-2cad8c707697",
+  "kind": "philosophical",
+  "epistemic_status": "inferred",
+  "title": "Most scientific theories of consciousness can be read computationally",
+  "statements": [
+    {
+      "id": "421258a4-2922-4582-b243-ff9a5769655d",
+      "text": "Most leading scientific theories of consciousness can be interpreted as claims about computational features necessary or sufficient for consciousness in humans. If computational functionalism and these theories are true, the same features would be necessary or sufficient in AI, and noncomputational differences between humans and AI would not matter.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "421258a4-2922-4582-b243-ff9a5769655d",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "ecf4b155-a02f-440e-87ac-837126c9279c",
+        "locator": "arXiv p. 14",
+        "quote": "The majority of leading scientific theories of consciousness can be interpreted computationally"
+      },
+      {
+        "source": "ecf4b155-a02f-440e-87ac-837126c9279c",
+        "locator": "arXiv p. 14",
+        "quote": "Noncomputational differences between humans and AI systems would not matter."
+      }
+    ]
+  }
+}

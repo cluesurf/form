@@ -1,0 +1,45 @@
+{
+  "record": "proposition",
+  "id": "d8892f9b-c84c-430e-8f81-d71792de875b",
+  "kind": "philosophical",
+  "epistemic_status": "hypothesized",
+  "title": "Consciousness is to the brain as the sound is to a clock's bell",
+  "statements": [
+    {
+      "id": "9735964e-feac-465b-80a1-4ad4343a031c",
+      "text": "Whether or not animals have souls, consciousness comes into existence as a consequence of molecular motion in the brain. If there is a soul, it stands to the body as the bell of a clock to the works, and consciousness is the sound the bell gives out when it is struck.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "9735964e-feac-465b-80a1-4ad4343a031c",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "74e58cef-2e29-415f-a138-df37b7515701",
+        "locator": "Collected Essays I, page 242",
+        "quote": "The soul stands related to the body as the bell of a clock to the works, and consciousness answers to the sound which the bell gives out when it is struck."
+      }
+    ]
+  }
+}

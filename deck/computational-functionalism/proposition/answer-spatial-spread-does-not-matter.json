@@ -1,0 +1,45 @@
+{
+  "record": "proposition",
+  "id": "8b4b1710-283c-4fcf-82f9-2ee3472b45dd",
+  "kind": "philosophical",
+  "epistemic_status": "hypothesized",
+  "title": "Answer: no position on space, and the spatial spread of a realizer does not matter in principle",
+  "statements": [
+    {
+      "id": "56e701fe-d191-4505-b714-cfd42800d0c4",
+      "text": "The view takes no position on what space is. Since only the organization counts, a realizer spread widely in space could in principle be conscious, and the intuition that a system with widely distributed parts lacks qualia is treated by some functionalists as prejudice.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "56e701fe-d191-4505-b714-cfd42800d0c4",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "40a4280a-4b0f-44b2-b9c6-95fce46b932d",
+        "locator": "section 5.5.1, 'Inverted and Absent Qualia'",
+        "quote": "creatures with parts widely distributed in space"
+      }
+    ]
+  }
+}

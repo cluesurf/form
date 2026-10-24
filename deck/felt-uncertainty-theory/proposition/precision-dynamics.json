@@ -1,0 +1,50 @@
+{
+  "record": "proposition",
+  "id": "90d1c760-345c-4011-973e-f87e03b9c54a",
+  "kind": "mathematical",
+  "epistemic_status": "designed",
+  "title": "Action, perception and affect as three gradient flows on free energy",
+  "statements": [
+    {
+      "id": "e99caf79-cfb1-4562-b87b-41b76fbac3e4",
+      "text": "With action $M$, perception $\\varphi$, prediction $\\psi$, inferred world $Q$, prediction error $e = \\varphi(M) - \\psi(Q)$ and precision $\\omega$, free energy is $F = \\frac{1}{2} e \\cdot \\omega \\cdot e - \\log(\\omega)$. A self-evidencing system changes action and inferred world down the gradient of $F$, each in proportion to the precision-weighted error, and changes precision by $\\dot{\\omega} = \\frac{1}{2}(\\omega^{-1} - e \\cdot e)$. The three flows are action, perception and affect.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "e99caf79-cfb1-4562-b87b-41b76fbac3e4",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "8834b927-27b0-41e8-8c3f-c15dbf813c57",
+        "locator": "p. 12",
+        "quote": "with action [1a], perception [1b], and affect [1c], respectively"
+      },
+      {
+        "source": "8834b927-27b0-41e8-8c3f-c15dbf813c57",
+        "locator": "p. 12",
+        "quote": "With the above quantities42 in place, one can describe any self-organizing (i.e., self-evidencing) system with the following dynamics"
+      }
+    ]
+  }
+}

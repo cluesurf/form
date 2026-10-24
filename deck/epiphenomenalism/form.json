@@ -1,0 +1,96 @@
+{
+  "format": "form.surf/1",
+  "id": "23b12f41-0128-4df6-bb28-1c304f3afe59",
+  "name": "epiphenomenalism",
+  "title": "Epiphenomenalism",
+  "role": "model",
+  "summary": "Epiphenomenalism, from Thomas Huxley's conscious automata of 1874 to Frank Jackson's epiphenomenal qualia of 1982: mental events are caused by events in the brain but have no effects on anything physical. Behavior has a complete physical cause, and conscious experience, a nonphysical property shown by the knowledge argument, accompanies it like a steam whistle on a locomotive.",
+  "framework": {
+    "originators": [
+      "Thomas H. Huxley",
+      "Frank Jackson"
+    ],
+    "aliases": [
+      "conscious automatism",
+      "automaton theory",
+      "epiphenomenal qualia",
+      "the knowledge argument",
+      "Mary the color scientist",
+      "property dualism"
+    ],
+    "homepage": null,
+    "publication": {
+      "venue": [
+        "peer_reviewed",
+        "book"
+      ],
+      "peer_review": "yes",
+      "replication": "not_applicable"
+    }
+  },
+  "community_written": true,
+  "curators": [
+    {
+      "name": "Lance Pollard",
+      "github": "lancejpollard"
+    }
+  ],
+  "license": "CC-BY-4.0",
+  "atlas": {
+    "scope": [
+      "8932d812-581d-4cb6-9104-ec9097cb7d44",
+      "87079e0e-8335-4ecd-a8d7-56fb5b4d934e",
+      "f503f5c0-d6ee-4321-b14b-96307566976c",
+      "f667ff98-5ea0-42de-9508-f7c04ec6042c",
+      "7c6bbff8-fca3-44c2-aab3-2107ffe7eea2"
+    ],
+    "limits": [
+      "1ca5a1d8-a778-4b31-adda-671755023b56",
+      "7aed0010-7abf-4f60-9c6b-05d202d1220f",
+      "e7064c06-4759-4b03-95a3-59fa476850da",
+      "03a4d52d-7627-438c-9ebb-15eb46b1c0e3"
+    ],
+    "issues": [
+      "0d5b8b75-6e9c-4c5a-b9ec-c6269ec5c9b3",
+      "893de7aa-72cf-43d2-b86f-78148740197f",
+      "20e239dc-2436-4a64-a117-9b5ba1826752",
+      "1512ee94-ceea-45e6-9b25-d1fede7cde5e",
+      "8f330ed4-1dbd-4564-803b-da626655f79d",
+      "8f4d6579-79fd-47a3-b497-ae00edcba230",
+      "eb8eaa5f-3fd8-4f61-94bb-94ce971b5b12",
+      "00d25916-5f80-49db-8d54-6f3b1ad79137",
+      "a976e0fb-bb79-4f0f-b272-d752b89a8650",
+      "501f3736-afb2-4e54-ad98-48efc9108e2b",
+      "03e34025-f314-4cd5-bf84-38ae8763f198"
+    ],
+    "dead_ends": []
+  },
+  "draws_from": [],
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "542e0d13-746c-470a-a9b7-86f1d044600d",
+        "locator": "opening section",
+        "quote": "Epiphenomenalism is the view that mental events are caused by physical events in the brain, but have no effects upon any physical events."
+      },
+      {
+        "source": "74e58cef-2e29-415f-a138-df37b7515701",
+        "locator": "Collected Essays I, page 244",
+        "quote": "We are conscious automata"
+      },
+      {
+        "source": "67eaf72c-eb30-4a86-9e40-5fc36618f54d",
+        "locator": null,
+        "quote": null
+      }
+    ]
+  }
+}

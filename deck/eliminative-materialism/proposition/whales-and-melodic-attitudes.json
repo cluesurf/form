@@ -1,0 +1,45 @@
+{
+  "record": "proposition",
+  "id": "6e21e131-530d-42d2-a312-0e79354d190e",
+  "kind": "philosophical",
+  "epistemic_status": "hypothesized",
+  "title": "Whales with a theory of melodic attitudes would mistake communication for cognition",
+  "statements": [
+    {
+      "id": "ff6d236d-b434-4740-9301-4f249e085c1d",
+      "text": "Humpback whales communicate by melodies. Whales with a theory of melodic attitudes would explain each other's behavior by relations to melodies in an inner score and see cognition as melody-crunching, when most of it is neither melody-crunching nor sentence-crunching. Taking human communicative structures as the model of cognition may be as parochial.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "ff6d236d-b434-4740-9301-4f249e085c1d",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "3db58e50-8dbf-47f4-a613-ff8ee88a21d4",
+        "locator": "MIT Press edition, page 396",
+        "quote": "Imagine that whales have a theory of \"melodic attitudes,\" in virtue of which they explain and predict one another's behavior"
+      }
+    ]
+  }
+}

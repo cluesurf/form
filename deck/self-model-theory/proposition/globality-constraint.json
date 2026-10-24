@@ -1,0 +1,45 @@
+{
+  "record": "proposition",
+  "id": "b3f1581c-b374-4a8c-b333-6803a79e9766",
+  "kind": "definitional",
+  "epistemic_status": "designed",
+  "title": "Globality: conscious contents are globally available in one world-model",
+  "statements": [
+    {
+      "id": "fa95aaf2-4013-40ef-8db3-8b7f5bc522aa",
+      "text": "Phenomenally represented information is the subset of currently active information that is globally available to many processing capacities at once, such as guided attention, cognitive reference and the control of action. Conscious contents are always found in a world, as parts of one integrated world-model.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "fa95aaf2-4013-40ef-8db3-8b7f5bc522aa",
+  "status": "active",
+  "voice": "framework",
+  "defines": "globality",
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "bcdebbd0-38c1-4227-a43b-6a7a59f74207",
+        "locator": "p. 2",
+        "quote": "it is globally available for many different processing capacities at the same time"
+      }
+    ]
+  }
+}

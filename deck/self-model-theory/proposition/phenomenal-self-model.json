@@ -1,0 +1,50 @@
+{
+  "record": "proposition",
+  "id": "5e6c6d41-3ab9-4c49-8d6a-62fd91d8cea4",
+  "kind": "definitional",
+  "epistemic_status": "designed",
+  "title": "The phenomenal self-model",
+  "statements": [
+    {
+      "id": "bdeb04d8-d658-48b2-ba5e-fe01a38d975f",
+      "text": "The phenomenal self-model (PSM) is a conscious, global and multimodal representation of the system as a whole, which may include psychological and social properties as well as the body. Its dynamic content is the content of the conscious self: present bodily sensations, emotional situation and the contents of experienced cognition. It is not a thing but an integrated process.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "bdeb04d8-d658-48b2-ba5e-fe01a38d975f",
+  "status": "active",
+  "voice": "framework",
+  "defines": "phenomenal self-model",
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "f901177d-d5a1-49ec-a74e-2adc81f988ea",
+        "locator": "p. 12",
+        "quote": "A conscious, global and multimodal representation of the cognitive system as a whole, which may also include psychological and social properties"
+      },
+      {
+        "source": "bcdebbd0-38c1-4227-a43b-6a7a59f74207",
+        "locator": "p. 3",
+        "quote": "This PSM is not a thing, but an integrated process."
+      }
+    ]
+  }
+}

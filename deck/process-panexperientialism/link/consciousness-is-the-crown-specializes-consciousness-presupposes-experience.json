@@ -1,0 +1,33 @@
+{
+  "record": "link",
+  "id": "f759680b-2c56-4b91-b35f-9bb77c7dbb74",
+  "from": "71a01f0e-8118-4e84-bbe0-08000a840e24",
+  "to": "0f768160-723a-4940-9b2c-7c309442f915",
+  "relation": "specializes",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "78f94ddb-c6f8-4a5c-86bb-ea574d7a0c37",
+        "locator": "p. 407",
+        "quote": "The subjective form of the feeling of this contrast is consciousness."
+      },
+      {
+        "source": "78f94ddb-c6f8-4a5c-86bb-ea574d7a0c37",
+        "locator": "p. 408",
+        "quote": "consciousness is the crown of experience, only occasionally attained, not its necessary base"
+      }
+    ]
+  }
+}

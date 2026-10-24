@@ -1,0 +1,45 @@
+{
+  "record": "proposition",
+  "id": "92c0177c-c502-4605-a91b-5da4abd9e3c8",
+  "kind": "philosophical",
+  "epistemic_status": "hypothesized",
+  "title": "Answer: experiences are known by acquaintance or reliable correlation, others by similar causes",
+  "statements": [
+    {
+      "id": "da3e8987-3cc1-44b7-8436-5b2ccc68c020",
+      "text": "The view takes no position on measurement in physics. One's own experiences are known without their causing the knowledge, by acquaintance or by learned correlations that make reports reliable, and others' experiences are inferred from their being made and affected as one is.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "da3e8987-3cc1-44b7-8436-5b2ccc68c020",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "542e0d13-746c-470a-a9b7-86f1d044600d",
+        "locator": "section 2.4, 'Self-stultification'",
+        "quote": "This guarantee underwrites a claim to knowledge of what kinds of sensation we are having."
+      }
+    ]
+  }
+}

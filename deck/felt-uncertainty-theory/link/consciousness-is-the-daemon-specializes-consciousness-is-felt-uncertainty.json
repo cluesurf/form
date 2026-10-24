@@ -1,0 +1,33 @@
+{
+  "record": "link",
+  "id": "4caf2e69-1da4-44f3-9e22-42a0d1826abf",
+  "from": "932d3690-6e37-42d3-8b5d-c9285586d44e",
+  "to": "31a7ba37-7364-4bdf-817f-66be0f393ece",
+  "relation": "specializes",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "8834b927-27b0-41e8-8c3f-c15dbf813c57",
+        "locator": "p. 12",
+        "quote": "consciousness is nothing more or less than the activity of Maxwell’s daemon"
+      },
+      {
+        "source": "8834b927-27b0-41e8-8c3f-c15dbf813c57",
+        "locator": "p. 12",
+        "quote": "This distinction is what underlies the prejudice (of Koch and others) to the effect that neuromodulation merely \"enables\" conscious content."
+      }
+    ]
+  }
+}

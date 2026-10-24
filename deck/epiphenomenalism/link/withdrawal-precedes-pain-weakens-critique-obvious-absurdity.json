@@ -1,0 +1,28 @@
+{
+  "record": "link",
+  "id": "04c39cea-c0b6-45cd-b702-cc1306fd35fd",
+  "from": "7485963a-7609-490a-94a0-2dd32bf1bcf9",
+  "to": "0d5b8b75-6e9c-4c5a-b9ec-c6269ec5c9b3",
+  "relation": "weakens",
+  "strength": null,
+  "rationale": "If withdrawal can come before the pain, pain is not needed to cause it.",
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "542e0d13-746c-470a-a9b7-86f1d044600d",
+        "locator": "section 2.1, 'Obvious Absurdity'",
+        "quote": "it can be observed that the affected part is withdrawn before the pain is felt"
+      }
+    ]
+  }
+}

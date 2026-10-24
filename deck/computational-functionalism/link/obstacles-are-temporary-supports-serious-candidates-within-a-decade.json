@@ -1,0 +1,28 @@
+{
+  "record": "link",
+  "id": "f4534dc9-c394-427a-9d2e-cbd13840dd4a",
+  "from": "ea5035ba-c1d2-41d0-a4f3-e2a36b1ad9d9",
+  "to": "5c8690a9-da9a-4256-acc7-67a2a6630a40",
+  "relation": "supports",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "741e8f86-4660-494d-8dd8-dfce0f4719e3",
+        "locator": "arXiv p. 14",
+        "quote": "for all of these objections except perhaps biology, it looks like the objection is temporary rather than permanent"
+      }
+    ]
+  }
+}

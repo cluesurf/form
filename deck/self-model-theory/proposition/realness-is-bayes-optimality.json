@@ -1,0 +1,45 @@
+{
+  "record": "proposition",
+  "id": "39d99d1b-9491-4fda-9245-fad76e19b0bc",
+  "kind": "philosophical",
+  "epistemic_status": "hypothesized",
+  "title": "Experienced realness as the stability of a generative model",
+  "statements": [
+    {
+      "id": "be0ff709-2d31-4d06-b135-9fa30ab62d79",
+      "text": "On the functional level, experienced realness can be read as the Bayes-optimality or dynamical stability of the generative models the brain uses. The most real, or most transparent, partition of the conscious model of the world is the one that minimizes prediction error most reliably, and the origin of the first-person perspective lies in the region of maximal invariance.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "be0ff709-2d31-4d06-b135-9fa30ab62d79",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "1bc792ee-c3ee-4f0c-93b8-a818a2897c06",
+        "locator": "p. 3",
+        "quote": "we may interpret experiential “realness” as the Bayes-optimality or dynamical stability of the generative models employed"
+      }
+    ]
+  }
+}

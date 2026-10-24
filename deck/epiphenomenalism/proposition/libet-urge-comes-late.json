@@ -1,0 +1,50 @@
+{
+  "record": "proposition",
+  "id": "1adb78b2-ebab-4c6a-b7d7-a8c81f38c19a",
+  "kind": "empirical",
+  "epistemic_status": "observed",
+  "title": "In Libet's experiments the readiness potential precedes the reported urge to move",
+  "statements": [
+    {
+      "id": "8185263c-1af9-41eb-86e8-d6a1501fdaad",
+      "text": "Libet asked participants to move when they felt the urge and to report when they felt it. A readiness potential correlated with the movement began about 350 ms before the reported urge. Many have drawn the implication that the conscious urge comes too late to cause a movement the brain has already begun, and that the sense of the urge causing it is a causal illusion. Libet himself allowed for a veto after the urge.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "8185263c-1af9-41eb-86e8-d6a1501fdaad",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "542e0d13-746c-470a-a9b7-86f1d044600d",
+        "locator": "section 3.5, 'Empirical Considerations'",
+        "quote": "the RP occurred about 350 ms earlier than the time that participants reported having the urge to move"
+      },
+      {
+        "source": "542e0d13-746c-470a-a9b7-86f1d044600d",
+        "locator": "section 3.5, 'Empirical Considerations'",
+        "quote": "The possibility of causal illusion, in turn, weakens the intuitive argument against epiphenomenalism"
+      }
+    ]
+  }
+}

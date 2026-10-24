@@ -1,0 +1,50 @@
+{
+  "record": "proposition",
+  "id": "48f66e39-cd5b-427d-bdc1-0d84262e764b",
+  "kind": "philosophical",
+  "epistemic_status": "hypothesized",
+  "title": "Indeterministic laws leave room for a mental influence consistent with physics",
+  "statements": [
+    {
+      "id": "2cf72a21-71d4-40f3-bedc-be292dc2a289",
+      "text": "If physical laws are deterministic, any interference from outside breaks them. If they are indeterministic, as quantum theory seems to say, an interference may produce a result of nonzero probability and so be consistent with the laws. Eccles, with Popper, argued that the brain is so finely tuned that minute variations could have large effects.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "2cf72a21-71d4-40f3-bedc-be292dc2a289",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "4bffe5f1-a379-4b92-b51d-3c5ef3046009",
+        "locator": "section 3.3, 'Interactionism'",
+        "quote": "But if they are indeterministic, interference might produce a result that has a probability greater than zero, and so be consistent with the laws."
+      },
+      {
+        "source": "4bffe5f1-a379-4b92-b51d-3c5ef3046009",
+        "locator": "section 3.3, 'Interactionism'",
+        "quote": "Others argue that the structure of the brain is so finely tuned that minute variations could have macroscopic effects"
+      }
+    ]
+  }
+}

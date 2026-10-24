@@ -1,0 +1,45 @@
+{
+  "record": "proposition",
+  "id": "5df38933-8398-47cd-a6e8-274a2f7b687c",
+  "kind": "philosophical",
+  "epistemic_status": "hypothesized",
+  "title": "Critique: everyday experience of one's own mind shows that beliefs exist",
+  "statements": [
+    {
+      "id": "012967a5-869f-445b-bfc0-ab4a3067b81d",
+      "text": "General theoretical considerations about stagnation and folk theories cannot outweigh the evidence of everyday experience of one's own mind, such as introspection, which seems vividly to support the reality of beliefs.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "012967a5-869f-445b-bfc0-ab4a3067b81d",
+  "status": "active",
+  "voice": "critique",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "4881b7b9-a47f-492c-80a0-18998a6e239d",
+        "locator": "section 3.1, 'General Theoretical Problems With Folk Psychology'",
+        "quote": "which seems to vividly support the reality of mental states like beliefs"
+      }
+    ]
+  }
+}

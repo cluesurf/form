@@ -1,0 +1,33 @@
+{
+  "record": "link",
+  "id": "448c2ece-7884-4732-8876-ff4b7a45d1c6",
+  "from": "c3564c5d-fe9d-4fe8-946c-7abef7ef090e",
+  "to": "a081004f-ebd8-4618-af6c-20ddd7357e56",
+  "relation": "supports",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "de8573b3-42af-4c30-94e9-01704e16b3ea",
+        "locator": "p. 84",
+        "quote": "There is no evidence that such confabulation is pathological"
+      },
+      {
+        "source": "de8573b3-42af-4c30-94e9-01704e16b3ea",
+        "locator": "p. 84",
+        "quote": "The widespread feeling of conscious control may be part of our confabulatory practice, reflecting hapless but guiless error in folk psychology."
+      }
+    ]
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "record": "proposition",
+  "id": "c0208e1c-f997-431c-bb5d-a9c3a189810b",
+  "kind": "definitional",
+  "epistemic_status": "designed",
+  "title": "Phenomenal transparency",
+  "statements": [
+    {
+      "id": "75eaeed7-ed2c-42fc-8404-29674a06fcf6",
+      "text": "Phenomenal transparency is the inaccessibility, for subjective experience, of the representational nature of the contents of experience. A transparent representation is not experienced as a representation, so the subject seems to be in direct contact with its content. It is a phenomenological notion, not an epistemological one, though it implies a lack of knowledge.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "75eaeed7-ed2c-42fc-8404-29674a06fcf6",
+  "status": "active",
+  "voice": "framework",
+  "defines": "phenomenal transparency",
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "bcdebbd0-38c1-4227-a43b-6a7a59f74207",
+        "locator": "p. 2",
+        "quote": "Transparency is a special form of darkness."
+      },
+      {
+        "source": "1bc792ee-c3ee-4f0c-93b8-a818a2897c06",
+        "locator": "p. 2",
+        "quote": "is a property of conscious representations, namely, that they are not experienced as representations"
+      }
+    ]
+  }
+}

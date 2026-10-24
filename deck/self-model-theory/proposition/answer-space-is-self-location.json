@@ -1,0 +1,50 @@
+{
+  "record": "proposition",
+  "id": "45bbceb6-8bb4-498e-96db-f6dc794f152f",
+  "kind": "philosophical",
+  "epistemic_status": "hypothesized",
+  "title": "Answer: experienced space is centered on self-location",
+  "statements": [
+    {
+      "id": "98683d33-e992-4386-9c40-0725850abf9a",
+      "text": "The theory has no theory of physical space. Experienced space is centered on a self: the bodily self is represented as a volume, and the weak first-person perspective is projected from an extensionless point inside it. Sensory and motor systems are integrated in one body, the single embodiment constraint.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "98683d33-e992-4386-9c40-0725850abf9a",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "1bc792ee-c3ee-4f0c-93b8-a818a2897c06",
+        "locator": "p. 3",
+        "quote": "the weak 1PP is projected from an extensionless point, the geometrical origin of our perspectival visual model of reality"
+      },
+      {
+        "source": "bcdebbd0-38c1-4227-a43b-6a7a59f74207",
+        "locator": "p. 17",
+        "quote": "This can be called the \"single embodiment-constraint\"."
+      }
+    ]
+  }
+}

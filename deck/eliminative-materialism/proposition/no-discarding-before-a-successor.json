@@ -1,0 +1,50 @@
+{
+  "record": "proposition",
+  "id": "4af2205c-0583-4965-a1d5-8cc552b5b5f4",
+  "kind": "philosophical",
+  "epistemic_status": "inferred",
+  "title": "Folk psychology is not discarded before a successor can carry its explanatory load",
+  "statements": [
+    {
+      "id": "a0ff68bf-1e55-416c-bd8d-213635d5076e",
+      "text": "If folk psychology is muddled, it is not clear how it should be revised or what will replace it. There is no question of discarding it until a suitable theory can take over the explanatory burden, since even a misconceived theory is better than none, and folk psychology and its successors are part of the co-evolution.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "a0ff68bf-1e55-416c-bd8d-213635d5076e",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "3db58e50-8dbf-47f4-a613-ff8ee88a21d4",
+        "locator": "MIT Press edition, page 397",
+        "quote": "Certainly there is no question of discarding folk psychology until there is a suitable theory to take over the explanatory burden."
+      },
+      {
+        "source": "3db58e50-8dbf-47f4-a613-ff8ee88a21d4",
+        "locator": "MIT Press edition, page 397",
+        "quote": "Even a misconceived theory is better than no theory at all."
+      }
+    ]
+  }
+}

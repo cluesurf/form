@@ -1,0 +1,45 @@
+{
+  "record": "proposition",
+  "id": "a829f170-1a68-4b5b-a5c1-9989aaafb2a7",
+  "kind": "philosophical",
+  "epistemic_status": "hypothesized",
+  "title": "Experience is not an intrinsic property of matter",
+  "statements": [
+    {
+      "id": "e9db8951-e2cd-44e4-834d-2e7204ee95fc",
+      "text": "Unlike panpsychist readings of Russell, Whitehead’s process-relational view does not make experience a primary attribute or intrinsic property of matter, since physics has moved beyond the substance-property ontology in which such properties made sense. Energy and experience are both activities with fuzzy boundaries.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "e9db8951-e2cd-44e4-834d-2e7204ee95fc",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "cf32eaac-9643-4139-b931-e40946180581",
+        "locator": "p. 18",
+        "quote": "Whitehead’s processrelational rendering doesn’t claim experience is a ‘primary attribute’ or ‘intrinsic property’ of matter"
+      }
+    ]
+  }
+}

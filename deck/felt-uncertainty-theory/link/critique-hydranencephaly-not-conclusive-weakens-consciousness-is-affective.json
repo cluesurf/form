@@ -1,0 +1,33 @@
+{
+  "record": "link",
+  "id": "d3f96404-c173-476e-a219-d2864cb2f2ab",
+  "from": "335cd451-0dd8-4e68-b361-03e417e15511",
+  "to": "3a96c5a0-1bd3-4987-aa15-bd9cf150da5d",
+  "relation": "weakens",
+  "strength": null,
+  "rationale": "Responsiveness without report may be reflexive, and the surviving cortex was not measured.",
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "db2f8b8e-899c-468e-b868-15e3f3ab21f6",
+        "locator": "pp. 107-108",
+        "quote": "caution is required before concluding that these individuals are conscious"
+      },
+      {
+        "source": "db2f8b8e-899c-468e-b868-15e3f3ab21f6",
+        "locator": "pp. 107-108",
+        "quote": "many of the reported behaviors could be generated unconsciously or reflexively"
+      }
+    ]
+  }
+}

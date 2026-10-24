@@ -1,0 +1,50 @@
+{
+  "record": "proposition",
+  "id": "dfa01a32-0b04-4c12-8575-be7f7baea788",
+  "kind": "philosophical",
+  "epistemic_status": "hypothesized",
+  "title": "Structure modulates experience and does not generate it",
+  "statements": [
+    {
+      "id": "2840f69b-606b-44c5-87d9-64ba23b7edeb",
+      "text": "Physicalist theories face an explanatory gap because purely structural facts seem not to necessitate phenomenal facts. Here the structural facts about phase-locked field modes are tasked not with generating experience but with modulating and restricting it, a task within the reach of organization, and an underlying field of consciousness plus this mechanism is held to necessitate perspectival subjects.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "2840f69b-606b-44c5-87d9-64ba23b7edeb",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "15531e9b-ad0a-46bd-893e-8b37e693007c",
+        "locator": "p. 406",
+        "quote": "are tasked not with the generation of experience per se but, rather,"
+      },
+      {
+        "source": "15531e9b-ad0a-46bd-893e-8b37e693007c",
+        "locator": "p. 406",
+        "quote": "necessitates the existence of perspectival subjects endued with phenomenal"
+      }
+    ]
+  }
+}

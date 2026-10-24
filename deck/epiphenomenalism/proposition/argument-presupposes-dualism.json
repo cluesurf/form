@@ -1,0 +1,45 @@
+{
+  "record": "proposition",
+  "id": "1ca5a1d8-a778-4b31-adda-671755023b56",
+  "kind": "philosophical",
+  "epistemic_status": "inferred",
+  "title": "The case for epiphenomenalism starts from dualism",
+  "statements": [
+    {
+      "id": "986f29df-b259-4800-aa1b-3b6a3b9a5904",
+      "text": "The argument from causal closure is not an argument for dualism. It is an argument for adopting epiphenomenalism once dualism is accepted. Many contemporary thinkers answer it by identifying mental events with physical events, which then have physical effects.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "986f29df-b259-4800-aa1b-3b6a3b9a5904",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "542e0d13-746c-470a-a9b7-86f1d044600d",
+        "locator": "section 1, 'Traditional Arguments (A) Pro'",
+        "quote": "not supposed to be an argument for dualism, but only for adopting epiphenomenalism, once dualism is accepted"
+      }
+    ]
+  }
+}

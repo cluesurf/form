@@ -1,0 +1,33 @@
+{
+  "record": "link",
+  "id": "76f9bacf-3c89-4435-b928-ee2aae805b8d",
+  "from": "3a70ef4e-15a4-486e-bfd6-9c1c67277929",
+  "to": "95f41f52-021f-4dab-8ddd-bd30bbe058b0",
+  "relation": "defines",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "1bc792ee-c3ee-4f0c-93b8-a818a2897c06",
+        "locator": "p. 3",
+        "quote": "Central defining features are (1) a globalized form of identification with the body as a whole"
+      },
+      {
+        "source": "1bc792ee-c3ee-4f0c-93b8-a818a2897c06",
+        "locator": "p. 3",
+        "quote": "A weak 1PP is a purely geometrical feature of a perceptual or imagined model of reality"
+      }
+    ]
+  }
+}
