@@ -1,0 +1,33 @@
+{
+  "record": "link",
+  "id": "998cca80-cb1c-4e36-87a7-fed1b52592e2",
+  "from": "c280d1b4-9a23-43b3-8365-b97fdd78ecd2",
+  "to": "3ec31ce1-6ec9-431f-81ef-ddc7e6970b47",
+  "relation": "contradicts",
+  "strength": null,
+  "rationale": "If no group of subjects entails a further subject, macro-level consciousness cannot be grounded in micro-level subjects.",
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "066a639d-34ca-43a5-8d98-7a2e5581c975",
+        "locator": "p. 302",
+        "quote": "It is never the case that the existence of a number (one or more) of subjects of experience with certain phenomenal characters a priori entails the existence of some other subject of experience."
+      },
+      {
+        "source": "dc7e611d-7bbd-4782-b3d1-dce34087ca9c",
+        "locator": "PDF p. 5",
+        "quote": "If so, then no group of microsubjects necessitates the existence of a macrosubject."
+      }
+    ]
+  }
+}

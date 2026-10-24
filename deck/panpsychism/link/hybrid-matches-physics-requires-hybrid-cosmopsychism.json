@@ -1,0 +1,33 @@
+{
+  "record": "link",
+  "id": "a04d5aef-fa88-42c3-a9c3-e7ffe3a284d1",
+  "from": "d60ce877-893d-4a1c-9861-def798bfce09",
+  "to": "a5694dcb-9cf6-4e09-be6b-0aa1e00f3ab3",
+  "relation": "requires",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "f58a53d7-8666-4857-b311-4eab8cdd2af0",
+        "locator": "PDF p. 18",
+        "quote": "systems with macro-level consciousness behave according to exactly the same laws of nature as systems that lack macro-level consciousness"
+      },
+      {
+        "source": "f58a53d7-8666-4857-b311-4eab8cdd2af0",
+        "locator": "PDF p. 17",
+        "quote": "Rather the universe shares its causal work with the strongly emergent subjects, thus avoiding causal exclusion."
+      }
+    ]
+  }
+}

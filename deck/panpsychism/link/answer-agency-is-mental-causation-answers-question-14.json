@@ -1,0 +1,33 @@
+{
+  "record": "link",
+  "id": "9c5ab55f-8d7e-4b88-a52a-78741765cbf9",
+  "from": "831dcedb-9f42-410b-882e-7b4e2d61a62d",
+  "to": "43fc6225-2526-4555-8128-80b38e2fbaf4",
+  "relation": "answers",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "ef3bec96-27ba-4b64-9e54-9cf7aa2d39bc",
+        "locator": "PDF p. 11",
+        "quote": "Mental causation is the thesis that human consciousness causes things to happen."
+      },
+      {
+        "source": "ef3bec96-27ba-4b64-9e54-9cf7aa2d39bc",
+        "locator": "PDF p. 11",
+        "quote": "The constitutive panpsychist avoids this worry, as the causally efficacy of grounded facts are not 'crowded out' by the causal efficacy of their grounds."
+      }
+    ]
+  }
+}

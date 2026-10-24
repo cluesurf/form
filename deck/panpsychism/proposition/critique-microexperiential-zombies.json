@@ -1,0 +1,50 @@
+{
+  "record": "proposition",
+  "id": "5944b389-ed55-4ddb-9762-3fa8ae42e576",
+  "kind": "philosophical",
+  "epistemic_status": "hypothesized",
+  "title": "Critique: microexperiential zombies are conceivable",
+  "statements": [
+    {
+      "id": "d4c9dad9-ad5a-4f1a-a062-42a89eecdb21",
+      "text": "A physical duplicate of a human whose every ultimate is conscious but which has no organism-level experience seems conceivable. Panpsychists who reject physicalism by the conceivability of ordinary zombies cannot consistently resist the same step here, so microexperience seems to shed no light on human experience.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "d4c9dad9-ad5a-4f1a-a062-42a89eecdb21",
+  "status": "active",
+  "voice": "critique",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "066a639d-34ca-43a5-8d98-7a2e5581c975",
+        "locator": "p. 300",
+        "quote": "The kind of microexperience that looked to be most helpful in explaining my o-experience in this way looks to be eminently compatible with the absence of my o-experience."
+      },
+      {
+        "source": "ef3bec96-27ba-4b64-9e54-9cf7aa2d39bc",
+        "locator": "PDF p. 9",
+        "quote": "Panpsychist zombies seem to be coherent, and this seems to imply that the postulation of microsubjects (conscious subjects at the micro-level) sheds no explanatory light on the existence of macrosubjects"
+      }
+    ]
+  }
+}

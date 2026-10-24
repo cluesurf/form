@@ -1,0 +1,33 @@
+{
+  "record": "link",
+  "id": "33ad237c-96d0-4f36-a4f4-fa7ff54d368c",
+  "from": "5944b389-ed55-4ddb-9762-3fa8ae42e576",
+  "to": "c280d1b4-9a23-43b3-8365-b97fdd78ecd2",
+  "relation": "requires",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "066a639d-34ca-43a5-8d98-7a2e5581c975",
+        "locator": "p. 300",
+        "quote": "The kind of microexperience that looked to be most helpful in explaining my o-experience in this way looks to be eminently compatible with the absence of my o-experience."
+      },
+      {
+        "source": "ef3bec96-27ba-4b64-9e54-9cf7aa2d39bc",
+        "locator": "PDF p. 9",
+        "quote": "Panpsychist zombies seem to be coherent, and this seems to imply that the postulation of microsubjects (conscious subjects at the micro-level) sheds no explanatory light on the existence of macrosubjects"
+      }
+    ]
+  }
+}

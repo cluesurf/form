@@ -1,0 +1,50 @@
+{
+  "record": "proposition",
+  "id": "41ca5304-9664-41ae-a344-b23d5f38385f",
+  "kind": "philosophical",
+  "epistemic_status": "inferred",
+  "title": "No wholly adequate solution to the combination problem exists yet",
+  "statements": [
+    {
+      "id": "08851c94-37c5-416b-b80d-418c0ddc6a94",
+      "text": "By the consensus of panpsychists themselves there is no wholly adequate solution to the combination problem. They read this as a challenge for a young research program, as genetics came decades after natural selection, not as a reason to abandon it.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "08851c94-37c5-416b-b80d-418c0ddc6a94",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "f75ebc94-e644-4afd-91f8-2590430d183d",
+        "locator": "section 4.2 'The Combination Problem'",
+        "quote": "The general consensus among panpsychists is that there is currently no wholly adequate solution to the combination problem."
+      },
+      {
+        "source": "ef3bec96-27ba-4b64-9e54-9cf7aa2d39bc",
+        "locator": "PDF p. 17",
+        "quote": "It may turn out that the combination problem renders panpsychism no advance on physicalism, at least as regards explaining animal consciousness; time will tell."
+      }
+    ]
+  }
+}

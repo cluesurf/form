@@ -1,0 +1,33 @@
+{
+  "record": "link",
+  "id": "ed9f502c-9c8c-4d5f-a4e3-7613bd37aaca",
+  "from": "48c951f9-1b2b-478c-9760-0e05a2199768",
+  "to": "3ec31ce1-6ec9-431f-81ef-ddc7e6970b47",
+  "relation": "requires",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "ef3bec96-27ba-4b64-9e54-9cf7aa2d39bc",
+        "locator": "PDF p. 11",
+        "quote": "The constitutive panpsychist avoids this worry, as the causally efficacy of grounded facts are not 'crowded out' by the causal efficacy of their grounds."
+      },
+      {
+        "source": "cb9b8ec3-2afa-4462-b72d-28a29a264719",
+        "locator": "PDF p. 13",
+        "quote": "constitutive Russellian panpsychism is compatible with a robust causal role for both microexperience and macroexperience"
+      }
+    ]
+  }
+}

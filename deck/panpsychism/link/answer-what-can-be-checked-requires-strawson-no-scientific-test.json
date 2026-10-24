@@ -1,0 +1,38 @@
+{
+  "record": "link",
+  "id": "45a293cb-4054-4da5-9716-92616bd94700",
+  "from": "404e4c14-8cde-4104-94ba-9303056e9f18",
+  "to": "37e99694-1355-41bf-b80f-28af31d04d95",
+  "relation": "requires",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "ad54e44a-e754-4c48-9edc-37c529056aba",
+        "locator": "p. 73",
+        "quote": "It has nothing to offer to scientific test."
+      },
+      {
+        "source": "ef3bec96-27ba-4b64-9e54-9cf7aa2d39bc",
+        "locator": "PDF p. 3",
+        "quote": "The more fruit is borne by this alternative research programme, the more reason we have to accept panpsychism."
+      },
+      {
+        "source": "f58a53d7-8666-4857-b311-4eab8cdd2af0",
+        "locator": "PDF p. 21",
+        "quote": "This is an empirical question, to be settled by our best theory concerning the physical correlates of local consciousness."
+      }
+    ]
+  }
+}

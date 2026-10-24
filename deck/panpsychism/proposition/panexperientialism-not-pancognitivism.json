@@ -1,0 +1,50 @@
+{
+  "record": "proposition",
+  "id": "5754d8b7-db57-4627-818b-ecf2044fe810",
+  "kind": "philosophical",
+  "epistemic_status": "hypothesized",
+  "title": "The view ascribes experience, not thought, to basic matter",
+  "statements": [
+    {
+      "id": "eaf14294-bad6-4563-a910-7fe9848114ed",
+      "text": "The panpsychism defended today is panexperientialism. It ascribes extremely simple experience to fundamental entities, not thoughts, hopes or beliefs, and the picture of electrons driven by existential angst is a caricature nobody defends.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "eaf14294-bad6-4563-a910-7fe9848114ed",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "f75ebc94-e644-4afd-91f8-2590430d183d",
+        "locator": "section 2.1 'The Definition of Panpsychism'",
+        "quote": "it is panexperientialist forms of panpsychism that are taken seriously in contemporary analytic philosophy"
+      },
+      {
+        "source": "ef3bec96-27ba-4b64-9e54-9cf7aa2d39bc",
+        "locator": "PDF p. 1",
+        "quote": "Panpsychism is often caricatured as the view that fundamental physical entities like electrons have thoughts"
+      }
+    ]
+  }
+}

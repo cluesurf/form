@@ -1,0 +1,45 @@
+{
+  "record": "proposition",
+  "id": "012fbe82-3425-458f-9b35-9f89604c7bdd",
+  "kind": "definitional",
+  "epistemic_status": "designed",
+  "title": "Qualia transference",
+  "statements": [
+    {
+      "id": "d820d403-c0c7-4dc0-a779-f4967ca84a85",
+      "text": "In qualia transference, phenomenal property instances pass from one subject of experience to another, so that the property leaving one consciousness is numerically the same as the one appearing in the other, not a copy of it.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "d820d403-c0c7-4dc0-a779-f4967ca84a85",
+  "status": "active",
+  "voice": "framework",
+  "defines": "qualia transference",
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "f58a53d7-8666-4857-b311-4eab8cdd2af0",
+        "locator": "PDF p. 19",
+        "quote": "In a case of qualia transference, phenomenal property instances are transferred from one subject of experience to another."
+      }
+    ]
+  }
+}

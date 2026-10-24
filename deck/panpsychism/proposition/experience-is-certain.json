@@ -1,0 +1,50 @@
+{
+  "record": "proposition",
+  "id": "61b66a5f-60b8-4624-b9be-c39317574e14",
+  "kind": "philosophical",
+  "epistemic_status": "hypothesized",
+  "title": "The existence of experience is more certain than anything else",
+  "statements": [
+    {
+      "id": "53940377-3327-4eaa-80fb-d0ce024ae051",
+      "text": "Experience is the phenomenon whose existence is more certain than that of anything else, so full recognition of its reality is the obligatory starting point for any realistic theory of what there is. To deny it is no form of physicalism worth the name.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "53940377-3327-4eaa-80fb-d0ce024ae051",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "ad54e44a-e754-4c48-9edc-37c529056aba",
+        "locator": "p. 53",
+        "quote": "the phenomenon whose existence is more certain than the existence of anything else: experience"
+      },
+      {
+        "source": "ad54e44a-e754-4c48-9edc-37c529056aba",
+        "locator": "p. 53",
+        "quote": "Full recognition of the reality of experience, then, is the obligatory starting point for any remotely realistic version of physicalism."
+      }
+    ]
+  }
+}

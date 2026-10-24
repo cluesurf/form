@@ -1,0 +1,33 @@
+{
+  "record": "link",
+  "id": "14b9a8c0-35cb-4626-bcfc-524b9fbfe225",
+  "from": "7605f5b0-ea5d-4b32-bf22-05cf8c5a7984",
+  "to": "b7030a85-6d84-4e67-a95a-17f915f6f1b7",
+  "relation": "defines",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "ef3bec96-27ba-4b64-9e54-9cf7aa2d39bc",
+        "locator": "PDF p. 1",
+        "quote": "Consciousness, in contrast, is simply the property of having some or other kind of experience"
+      },
+      {
+        "source": "ef3bec96-27ba-4b64-9e54-9cf7aa2d39bc",
+        "locator": "PDF p. 1",
+        "quote": "Thoughts are sophisticated, concept-involving representations of reality"
+      }
+    ]
+  }
+}

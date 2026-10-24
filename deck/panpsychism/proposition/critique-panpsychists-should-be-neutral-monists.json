@@ -1,0 +1,50 @@
+{
+  "record": "proposition",
+  "id": "2b87df0b-9c1a-406f-99c6-0eee13c63963",
+  "kind": "philosophical",
+  "epistemic_status": "hypothesized",
+  "title": "Critique: the ultimates have qualities but are not subjects",
+  "statements": [
+    {
+      "id": "316bfc02-68fe-408d-b773-9dfbb7128479",
+      "text": "The panpsychist should drop the claim that ultimates are subjects and keep the claim that they have phenomenal qualities, which then exist unexperienced. The result is a neutral monism, also called panqualityism, in which awareness of qualities is explained by representation in the brain.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "316bfc02-68fe-408d-b773-9dfbb7128479",
+  "status": "active",
+  "voice": "critique",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "f2cd635a-11b9-4bc9-a95f-a76ededf580a",
+        "locator": "PDF p. 2",
+        "quote": "panpsychists can maintain that the ultimates possess phenomenal qualities, despite not being subjects of those qualities"
+      },
+      {
+        "source": "f2cd635a-11b9-4bc9-a95f-a76ededf580a",
+        "locator": "PDF p. 2",
+        "quote": "panpsychists should really be neutral monists"
+      }
+    ]
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "record": "proposition",
+  "id": "831dcedb-9f42-410b-882e-7b4e2d61a62d",
+  "kind": "philosophical",
+  "epistemic_status": "hypothesized",
+  "title": "Answer: no position on free will, consciousness is a real cause",
+  "statements": [
+    {
+      "id": "f73bd3a5-13f3-4863-9947-f4abc0f2249e",
+      "text": "The papers drawn on here take no position on free will. On agency they aim to keep human consciousness causally efficacious: on constitutive panpsychism a feeling of pain causes the scream because it consists in the micro-level cause.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "f73bd3a5-13f3-4863-9947-f4abc0f2249e",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "ef3bec96-27ba-4b64-9e54-9cf7aa2d39bc",
+        "locator": "PDF p. 11",
+        "quote": "Mental causation is the thesis that human consciousness causes things to happen."
+      },
+      {
+        "source": "ef3bec96-27ba-4b64-9e54-9cf7aa2d39bc",
+        "locator": "PDF p. 11",
+        "quote": "The constitutive panpsychist avoids this worry, as the causally efficacy of grounded facts are not 'crowded out' by the causal efficacy of their grounds."
+      }
+    ]
+  }
+}

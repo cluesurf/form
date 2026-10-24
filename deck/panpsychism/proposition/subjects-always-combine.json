@@ -1,0 +1,50 @@
+{
+  "record": "proposition",
+  "id": "5fe666d9-86d4-48cf-b48a-fa95d37255a5",
+  "kind": "philosophical",
+  "epistemic_status": "hypothesized",
+  "title": "Universalism: any spatially related subjects make a further subject",
+  "statements": [
+    {
+      "id": "cc8247cf-f32b-41cc-a769-441da1017aca",
+      "text": "If neither observation nor common sense settles when subjects combine, the simplest answers are that they never do or always do. With the first ruled out, universalism is the default, and phenomenal bonding can be identified with the spatial relation, so any group of material objects determines a conscious subject.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "cc8247cf-f32b-41cc-a769-441da1017aca",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "be99072c-53fa-407d-b6d3-2f2a7cdef409",
+        "locator": "PDF p. 15",
+        "quote": "universalism looks to be the default position"
+      },
+      {
+        "source": "be99072c-53fa-407d-b6d3-2f2a7cdef409",
+        "locator": "PDF p. 15",
+        "quote": "If we identify the phenomenal bonding relation with the spatial relation it follows that, for any group of material objects, the members of that group, being spatially related, determine a conscious subject."
+      }
+    ]
+  }
+}

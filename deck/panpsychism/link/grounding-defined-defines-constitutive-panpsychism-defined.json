@@ -1,0 +1,28 @@
+{
+  "record": "link",
+  "id": "791439e4-2ef4-472a-9856-d5188a40bc1e",
+  "from": "bfb4abb3-d62e-452b-928f-63a557274dc4",
+  "to": "3ec31ce1-6ec9-431f-81ef-ddc7e6970b47",
+  "relation": "defines",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "6c3ae84c-6a1a-4388-a91c-fd6f780c3def",
+        "locator": "p. 3",
+        "quote": "The grounding relation is taken to be a non-causal explanatory relation that holds between facts."
+      }
+    ]
+  }
+}

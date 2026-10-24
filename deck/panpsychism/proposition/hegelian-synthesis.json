@@ -1,0 +1,50 @@
+{
+  "record": "proposition",
+  "id": "e8577801-4971-4afe-a3fe-9c7bee667920",
+  "kind": "philosophical",
+  "epistemic_status": "inferred",
+  "title": "Constitutive Russellian panpsychism escapes both horns",
+  "statements": [
+    {
+      "id": "f51e51d8-b6ad-429e-93a4-10a0369e82c8",
+      "text": "In Chalmers’s analysis the conceivability argument refutes only narrow physicalism and the causal argument establishes only broad physicalism. Constitutive Russellian panpsychism is broad but not narrow physicalism, so it escapes both, and among versions of panpsychism only it does.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "f51e51d8-b6ad-429e-93a4-10a0369e82c8",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "cb9b8ec3-2afa-4462-b72d-28a29a264719",
+        "locator": "PDF p. 14",
+        "quote": "Among versions of panpsychism, only constitutive Russellian panpsychism promises to serve as a Hegelian synthesis."
+      },
+      {
+        "source": "dc7e611d-7bbd-4782-b3d1-dce34087ca9c",
+        "locator": "PDF p. 1",
+        "quote": "it promises to share the advantages of both materialism and dualism and the disadvantages of neither"
+      }
+    ]
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "record": "proposition",
+  "id": "407f6095-8f02-4de9-b7c3-cdfc8f0e7d6d",
+  "kind": "definitional",
+  "epistemic_status": "designed",
+  "title": "Real physicalism",
+  "statements": [
+    {
+      "id": "185ae829-dedb-4dfb-b742-549ce826fe1a",
+      "text": "Real, or realistic, physicalism is the thesis that experience is a real concrete phenomenon and every real concrete phenomenon is physical. It differs from physicsalism, the view that the terms of physics can capture the whole nature of concrete reality, and may as well be called realistic monism.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "185ae829-dedb-4dfb-b742-549ce826fe1a",
+  "status": "active",
+  "voice": "framework",
+  "defines": "real physicalism",
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "ad54e44a-e754-4c48-9edc-37c529056aba",
+        "locator": "p. 60",
+        "quote": "experience is a real concrete phenomenon and every real concrete phenomenon is physical"
+      },
+      {
+        "source": "ad54e44a-e754-4c48-9edc-37c529056aba",
+        "locator": "p. 57",
+        "quote": "anyone who prefers to call my position 'realistic monism' instead of 'real physicalism' should feel free to do so"
+      }
+    ]
+  }
+}

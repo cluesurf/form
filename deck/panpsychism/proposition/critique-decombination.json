@@ -1,0 +1,50 @@
+{
+  "record": "proposition",
+  "id": "14d45f5e-4563-4fe1-91f3-5d4ab2142be3",
+  "kind": "philosophical",
+  "epistemic_status": "hypothesized",
+  "title": "Critique: cosmopsychism faces a de-combination problem",
+  "statements": [
+    {
+      "id": "da73e5b6-bd32-4947-8db1-b39ddc8e3cef",
+      "text": "Cosmopsychism avoids combining little subjects, but faces the inverse problem: how the one conscious universe grounds the billions of separate human and animal subjects. A conscious universe with no conscious parts seems conceivable.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "da73e5b6-bd32-4947-8db1-b39ddc8e3cef",
+  "status": "active",
+  "voice": "critique",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "ef3bec96-27ba-4b64-9e54-9cf7aa2d39bc",
+        "locator": "PDF p. 16",
+        "quote": "the cosmopsychist may face the inverse difficulty of the decomposition problem"
+      },
+      {
+        "source": "f58a53d7-8666-4857-b311-4eab8cdd2af0",
+        "locator": "PDF p. 15",
+        "quote": "Whereas micropsychism faces a 'combination' problem, cosmopsychism faces this 'de-combination' problem"
+      }
+    ]
+  }
+}

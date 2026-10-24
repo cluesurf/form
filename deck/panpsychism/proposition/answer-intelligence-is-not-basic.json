@@ -1,0 +1,50 @@
+{
+  "record": "proposition",
+  "id": "6cf7e2f8-34fb-4780-b891-55105c2ee580",
+  "kind": "philosophical",
+  "epistemic_status": "hypothesized",
+  "title": "Answer: thought is not basic, only experience is",
+  "statements": [
+    {
+      "id": "86445a2b-e7a0-484f-b0a5-fc97af0a5539",
+      "text": "Thought, concept-involving representation of reality, is not ascribed to fundamental entities, and few ascribe it far beyond humans. Even the conscious universe of cosmopsychism need not have intelligence or agency. The view offers no theory of intelligence.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "86445a2b-e7a0-484f-b0a5-fc97af0a5539",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "ef3bec96-27ba-4b64-9e54-9cf7aa2d39bc",
+        "locator": "PDF p. 1",
+        "quote": "Many are reluctant to ascribe thought very far beyond the human realm."
+      },
+      {
+        "source": "f58a53d7-8666-4857-b311-4eab8cdd2af0",
+        "locator": "PDF p. 14",
+        "quote": "it is unlikely that one will end up ascribing intelligence or agency to the cosmos"
+      }
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "record": "link",
+  "id": "6ebea1de-cbf9-4132-80a7-6874339f533b",
+  "from": "16d33272-b7e1-4632-8e54-6e97bea629c6",
+  "to": "c8e2e4ef-360f-4ff5-84af-5b6e11836dda",
+  "relation": "requires",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "f2cd635a-11b9-4bc9-a95f-a76ededf580a",
+        "locator": "PDF p. 26",
+        "quote": "If points of view are annihilated so as to produce a macro-subject, the macro-subjectivity is not a structural property."
+      }
+    ]
+  }
+}

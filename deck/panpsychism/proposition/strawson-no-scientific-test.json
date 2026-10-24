@@ -1,0 +1,50 @@
+{
+  "record": "proposition",
+  "id": "37e99694-1355-41bf-b80f-28af31d04d95",
+  "kind": "philosophical",
+  "epistemic_status": "inferred",
+  "title": "Realistic monism offers nothing to scientific test",
+  "statements": [
+    {
+      "id": "23c1cd71-110f-45e5-865b-f0a2abd29ac2",
+      "text": "Strawson presents his conclusion at a very high level of generality, as a framework in which the passage to experience need be no more unintelligible than the passage to liquidity. He says it adds nothing to detailed understanding and has nothing to offer to scientific test, though he speculates that electromagnetism may be the heart of experience.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "23c1cd71-110f-45e5-865b-f0a2abd29ac2",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "ad54e44a-e754-4c48-9edc-37c529056aba",
+        "locator": "p. 73",
+        "quote": "It has nothing to offer to scientific test."
+      },
+      {
+        "source": "ad54e44a-e754-4c48-9edc-37c529056aba",
+        "locator": "p. 73",
+        "quote": "The heart of experience, perhaps, is electromagnetism in some or all its forms"
+      }
+    ]
+  }
+}

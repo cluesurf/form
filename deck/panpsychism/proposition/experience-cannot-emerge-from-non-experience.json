@@ -1,0 +1,50 @@
+{
+  "record": "proposition",
+  "id": "694b6540-89e4-4be9-bafd-83d75b83211d",
+  "kind": "philosophical",
+  "epistemic_status": "inferred",
+  "title": "Experience cannot emerge from the wholly non-experiential",
+  "statements": [
+    {
+      "id": "e7659fe7-c61e-425a-9cb3-d4d93ff0df4a",
+      "text": "Experiential phenomena cannot emerge from wholly non-experiential phenomena. Whatever experience like ours emerges from must already be experiential in its fundamental nature, however primitively or strangely.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "e7659fe7-c61e-425a-9cb3-d4d93ff0df4a",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "ad54e44a-e754-4c48-9edc-37c529056aba",
+        "locator": "p. 70",
+        "quote": "experiential phenomena cannot be emergent from wholly non-experiential phenomena"
+      },
+      {
+        "source": "ad54e44a-e754-4c48-9edc-37c529056aba",
+        "locator": "p. 70",
+        "quote": "It must already be somehow experiential in its essential and fundamental nature, however primitively or strangely or (to us) incomprehensibly"
+      }
+    ]
+  }
+}

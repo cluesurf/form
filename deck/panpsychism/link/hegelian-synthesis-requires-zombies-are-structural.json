@@ -1,0 +1,33 @@
+{
+  "record": "link",
+  "id": "85f9b5c8-c938-4373-b87e-ff3b478db0bf",
+  "from": "e8577801-4971-4afe-a3fe-9c7bee667920",
+  "to": "07740b95-0830-4802-830e-feee32c88df4",
+  "relation": "requires",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "cb9b8ec3-2afa-4462-b72d-28a29a264719",
+        "locator": "PDF p. 14",
+        "quote": "Among versions of panpsychism, only constitutive Russellian panpsychism promises to serve as a Hegelian synthesis."
+      },
+      {
+        "source": "dc7e611d-7bbd-4782-b3d1-dce34087ca9c",
+        "locator": "PDF p. 1",
+        "quote": "it promises to share the advantages of both materialism and dualism and the disadvantages of neither"
+      }
+    ]
+  }
+}

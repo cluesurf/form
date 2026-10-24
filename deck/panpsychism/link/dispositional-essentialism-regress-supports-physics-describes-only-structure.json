@@ -1,0 +1,33 @@
+{
+  "record": "link",
+  "id": "b5d7a6cc-b7fc-446f-a6fb-6b4269888b7c",
+  "from": "320c5da8-6d48-4ffb-804e-e43d949b3200",
+  "to": "e921cede-0144-43d4-8653-fc661e6ebe4b",
+  "relation": "supports",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "ef3bec96-27ba-4b64-9e54-9cf7aa2d39bc",
+        "locator": "PDF p. 5",
+        "quote": "in other words a dispositional essentialist world is unintelligible"
+      },
+      {
+        "source": "ef3bec96-27ba-4b64-9e54-9cf7aa2d39bc",
+        "locator": "PDF p. 5",
+        "quote": "These arguments press us to the conclusion that there must be a concrete categorical nature to matter"
+      }
+    ]
+  }
+}

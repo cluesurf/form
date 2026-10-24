@@ -1,0 +1,28 @@
+{
+  "record": "link",
+  "id": "4f94fd8d-be66-4acd-b99b-db0c770a2668",
+  "from": "07740b95-0830-4802-830e-feee32c88df4",
+  "to": "5f29f901-b32a-45a0-84b5-b9fb475e0a12",
+  "relation": "requires",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "cb9b8ec3-2afa-4462-b72d-28a29a264719",
+        "locator": "PDF p. 12",
+        "quote": "This standard zombie intuition provides good reason to think that structural zombies are conceivable, but little reason to think that categorical zombies are conceivable."
+      }
+    ]
+  }
+}

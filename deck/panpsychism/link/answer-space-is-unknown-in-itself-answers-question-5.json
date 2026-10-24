@@ -1,0 +1,33 @@
+{
+  "record": "link",
+  "id": "fe915ad9-e1b5-4128-952e-f42b67f65ff9",
+  "from": "2d2f5de5-cf12-4a9a-8076-06d02819831a",
+  "to": "74e87691-55c5-45d4-bcbe-85fb62e5912d",
+  "relation": "answers",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "be99072c-53fa-407d-b6d3-2f2a7cdef409",
+        "locator": "PDF p. 11",
+        "quote": "it seems we are completely in the dark about the real nature of spatiotemporal relationships"
+      },
+      {
+        "source": "be99072c-53fa-407d-b6d3-2f2a7cdef409",
+        "locator": "PDF p. 15",
+        "quote": "there is an obvious candidate for identification with the phenomenal bonding relation: the spatial relation"
+      }
+    ]
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "record": "link",
+  "id": "e4a2dc1a-501e-4489-8697-94baf6260385",
+  "from": "14d45f5e-4563-4fe1-91f3-5d4ab2142be3",
+  "to": "f9c93a59-1bb6-403e-9173-efd7bdf7916f",
+  "relation": "weakens",
+  "strength": null,
+  "rationale": "A conscious universe without conscious parts seems conceivable.",
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "ef3bec96-27ba-4b64-9e54-9cf7aa2d39bc",
+        "locator": "PDF p. 16",
+        "quote": "the cosmopsychist may face the inverse difficulty of the decomposition problem"
+      },
+      {
+        "source": "f58a53d7-8666-4857-b311-4eab8cdd2af0",
+        "locator": "PDF p. 15",
+        "quote": "Whereas micropsychism faces a 'combination' problem, cosmopsychism faces this 'de-combination' problem"
+      }
+    ]
+  }
+}

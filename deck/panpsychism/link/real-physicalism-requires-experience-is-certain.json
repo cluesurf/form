@@ -1,0 +1,33 @@
+{
+  "record": "link",
+  "id": "39daee92-f775-4e2e-873a-f615cfa9af20",
+  "from": "407f6095-8f02-4de9-b7c3-cdfc8f0e7d6d",
+  "to": "61b66a5f-60b8-4624-b9be-c39317574e14",
+  "relation": "requires",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "ad54e44a-e754-4c48-9edc-37c529056aba",
+        "locator": "p. 60",
+        "quote": "experience is a real concrete phenomenon and every real concrete phenomenon is physical"
+      },
+      {
+        "source": "ad54e44a-e754-4c48-9edc-37c529056aba",
+        "locator": "p. 57",
+        "quote": "anyone who prefers to call my position 'realistic monism' instead of 'real physicalism' should feel free to do so"
+      }
+    ]
+  }
+}

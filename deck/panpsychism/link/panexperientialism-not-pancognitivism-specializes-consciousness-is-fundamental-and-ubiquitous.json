@@ -1,0 +1,33 @@
+{
+  "record": "link",
+  "id": "b8791b08-4648-4e26-9a79-1e34159c14a4",
+  "from": "5754d8b7-db57-4627-818b-ecf2044fe810",
+  "to": "b7030a85-6d84-4e67-a95a-17f915f6f1b7",
+  "relation": "specializes",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "f75ebc94-e644-4afd-91f8-2590430d183d",
+        "locator": "section 2.1 'The Definition of Panpsychism'",
+        "quote": "it is panexperientialist forms of panpsychism that are taken seriously in contemporary analytic philosophy"
+      },
+      {
+        "source": "ef3bec96-27ba-4b64-9e54-9cf7aa2d39bc",
+        "locator": "PDF p. 1",
+        "quote": "Panpsychism is often caricatured as the view that fundamental physical entities like electrons have thoughts"
+      }
+    ]
+  }
+}

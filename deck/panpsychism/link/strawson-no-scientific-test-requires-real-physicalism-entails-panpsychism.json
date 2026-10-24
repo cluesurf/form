@@ -1,0 +1,33 @@
+{
+  "record": "link",
+  "id": "dd4041d2-6ca2-4621-a36a-6cb23551c1c0",
+  "from": "37e99694-1355-41bf-b80f-28af31d04d95",
+  "to": "12f2f28c-801d-4939-aa5d-2e21f18bd622",
+  "relation": "requires",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "ad54e44a-e754-4c48-9edc-37c529056aba",
+        "locator": "p. 73",
+        "quote": "It has nothing to offer to scientific test."
+      },
+      {
+        "source": "ad54e44a-e754-4c48-9edc-37c529056aba",
+        "locator": "p. 73",
+        "quote": "The heart of experience, perhaps, is electromagnetism in some or all its forms"
+      }
+    ]
+  }
+}

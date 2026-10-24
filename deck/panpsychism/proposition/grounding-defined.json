@@ -1,0 +1,45 @@
+{
+  "record": "proposition",
+  "id": "bfb4abb3-d62e-452b-928f-63a557274dc4",
+  "kind": "definitional",
+  "epistemic_status": "designed",
+  "title": "Grounding",
+  "statements": [
+    {
+      "id": "787ddae1-a213-494d-83fa-49e7b961bf2c",
+      "text": "Grounding is a non-causal explanatory relation between facts, as when there is a party in virtue of people reveling. The grounded fact is nothing over and above its ground, unlike a causal product, which is a new being.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "787ddae1-a213-494d-83fa-49e7b961bf2c",
+  "status": "active",
+  "voice": "framework",
+  "defines": "grounding",
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "6c3ae84c-6a1a-4388-a91c-fd6f780c3def",
+        "locator": "p. 3",
+        "quote": "The grounding relation is taken to be a non-causal explanatory relation that holds between facts."
+      }
+    ]
+  }
+}

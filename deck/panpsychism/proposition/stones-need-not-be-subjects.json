@@ -1,0 +1,50 @@
+{
+  "record": "proposition",
+  "id": "b34aa836-d550-4178-8e9c-d7fd86311390",
+  "kind": "philosophical",
+  "epistemic_status": "inferred",
+  "title": "Stones and tables need not be subjects of experience",
+  "statements": [
+    {
+      "id": "4a3d2a57-3096-4c0c-9797-a5d7225360f0",
+      "text": "Panpsychism does not require that stones, tables, towers or cities are subjects of experience. It requires only that fundamental entities are, with humans, other animals, and perhaps living cells in between as further subjects.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "4a3d2a57-3096-4c0c-9797-a5d7225360f0",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "ad54e44a-e754-4c48-9edc-37c529056aba",
+        "locator": "p. 72",
+        "quote": "Panpsychism certainly does not require one to hold the view that things like stones and tables are subjects of experience"
+      },
+      {
+        "source": "cb9b8ec3-2afa-4462-b72d-28a29a264719",
+        "locator": "PDF p. 1",
+        "quote": "They are not committed to the thesis that the number two has a mind, or that the Eiffel tower has a mind"
+      }
+    ]
+  }
+}

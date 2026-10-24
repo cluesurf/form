@@ -1,0 +1,50 @@
+{
+  "record": "proposition",
+  "id": "11aaf766-cd93-44db-98bd-34665df3693f",
+  "kind": "philosophical",
+  "epistemic_status": "inferred",
+  "title": "Liquidity and life reduce, experience does not",
+  "statements": [
+    {
+      "id": "b9d8c412-bc47-4c36-8387-9e9a1d62572a",
+      "text": "Liquidity emerges intelligibly from molecules that are not liquid because both are described in one homogeneous set of physical notions, shape, size, mass, charge and motion. Life considered apart from experience reduces the same way. Experience does not, so neither offers an analogy of the right size for experience emerging from the non-experiential.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "b9d8c412-bc47-4c36-8387-9e9a1d62572a",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "ad54e44a-e754-4c48-9edc-37c529056aba",
+        "locator": "p. 68",
+        "quote": "Liquidity is a P phenomenon that reduces without remainder to other P phenomena."
+      },
+      {
+        "source": "ad54e44a-e754-4c48-9edc-37c529056aba",
+        "locator": "p. 67",
+        "quote": "Life* reduces, experience doesn't."
+      }
+    ]
+  }
+}

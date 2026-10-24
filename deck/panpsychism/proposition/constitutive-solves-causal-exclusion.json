@@ -1,0 +1,50 @@
+{
+  "record": "proposition",
+  "id": "48c951f9-1b2b-478c-9760-0e05a2199768",
+  "kind": "philosophical",
+  "epistemic_status": "inferred",
+  "title": "Grounded consciousness is not crowded out as a cause",
+  "statements": [
+    {
+      "id": "91b372ee-579a-4dd4-8ff8-fcba7c750729",
+      "text": "If the micro-level is causally closed, dualist consciousness seems to have nothing left to do. Constitutive panpsychism avoids this: a grounded fact is not crowded out by its grounds, as a party keeping a neighbor awake is not crowded out by the dancing it consists in, so human consciousness inherits the causal role of the micro-level consciousness it consists in.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "91b372ee-579a-4dd4-8ff8-fcba7c750729",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "ef3bec96-27ba-4b64-9e54-9cf7aa2d39bc",
+        "locator": "PDF p. 11",
+        "quote": "The constitutive panpsychist avoids this worry, as the causally efficacy of grounded facts are not 'crowded out' by the causal efficacy of their grounds."
+      },
+      {
+        "source": "cb9b8ec3-2afa-4462-b72d-28a29a264719",
+        "locator": "PDF p. 13",
+        "quote": "constitutive Russellian panpsychism is compatible with a robust causal role for both microexperience and macroexperience"
+      }
+    ]
+  }
+}

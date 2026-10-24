@@ -1,0 +1,50 @@
+{
+  "record": "proposition",
+  "id": "c280d1b4-9a23-43b3-8365-b97fdd78ecd2",
+  "kind": "philosophical",
+  "epistemic_status": "hypothesized",
+  "title": "Critique: no group of subjects entails a further subject",
+  "statements": [
+    {
+      "id": "dbe444eb-c6ff-47fb-83b4-5d1008516bc0",
+      "text": "No Summing of Subjects: the existence of any number of subjects with any phenomenal characters never a priori entails the existence of another subject. Spatial parts entail the whole they compose, subjects do not, so no group of microsubjects necessitates a macrosubject.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "dbe444eb-c6ff-47fb-83b4-5d1008516bc0",
+  "status": "active",
+  "voice": "critique",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "066a639d-34ca-43a5-8d98-7a2e5581c975",
+        "locator": "p. 302",
+        "quote": "It is never the case that the existence of a number (one or more) of subjects of experience with certain phenomenal characters a priori entails the existence of some other subject of experience."
+      },
+      {
+        "source": "dc7e611d-7bbd-4782-b3d1-dce34087ca9c",
+        "locator": "PDF p. 5",
+        "quote": "If so, then no group of microsubjects necessitates the existence of a macrosubject."
+      }
+    ]
+  }
+}

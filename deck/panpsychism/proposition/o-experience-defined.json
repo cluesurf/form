@@ -1,0 +1,50 @@
+{
+  "record": "proposition",
+  "id": "15e140c4-82cc-41b0-93da-c44e054a38e3",
+  "kind": "definitional",
+  "epistemic_status": "designed",
+  "title": "O-experience, the consciousness of organisms",
+  "statements": [
+    {
+      "id": "afa5b81e-b4be-4e57-915b-504de9d6f706",
+      "text": "O-experience is the conscious experience that pre-theoretical common sense attributes to humans and other organisms from dealing with them, such as Peter feeling pain with a knife in his side. It is what a theory of consciousness must finally explain, as opposed to any experience at all.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "afa5b81e-b4be-4e57-915b-504de9d6f706",
+  "status": "active",
+  "voice": "framework",
+  "defines": "o-experience",
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "066a639d-34ca-43a5-8d98-7a2e5581c975",
+        "locator": "p. 290",
+        "quote": "I will call the kind of conscious experience that corresponds to organisms"
+      },
+      {
+        "source": "066a639d-34ca-43a5-8d98-7a2e5581c975",
+        "locator": "p. 290",
+        "quote": "What we want explained is our conscious experience, the conscious experience that corresponds to humans and other organisms."
+      }
+    ]
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "record": "proposition",
+  "id": "eafc1b26-9f68-4b77-84ca-a842927c561f",
+  "kind": "philosophical",
+  "epistemic_status": "inferred",
+  "title": "No transparent concept of phenomenal bonding is available",
+  "statements": [
+    {
+      "id": "c403b031-ebde-4a82-942f-7514213340b0",
+      "text": "Physics yields only mathematico-causal structure, phenomenal bonding is not a mathematico-causal relation, and introspection reaches only one subject, so relations between subjects as subjects cannot be observed. Accepting bonding therefore brings a kind of mysterianism about how subjects combine.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "c403b031-ebde-4a82-942f-7514213340b0",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "be99072c-53fa-407d-b6d3-2f2a7cdef409",
+        "locator": "PDF p. 9",
+        "quote": "physics, yields understanding only of the world's mathematico-causal structure, and the phenomenal bonding relation is not a mathematico-causal relation"
+      },
+      {
+        "source": "be99072c-53fa-407d-b6d3-2f2a7cdef409",
+        "locator": "PDF p. 10",
+        "quote": "There is a sense in which embracing this solution to the combination problem leads to a kind of mysterianism."
+      }
+    ]
+  }
+}

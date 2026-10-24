@@ -1,0 +1,33 @@
+{
+  "record": "link",
+  "id": "62b09814-b601-413f-99db-b7ca48b45dd9",
+  "from": "3ec31ce1-6ec9-431f-81ef-ddc7e6970b47",
+  "to": "95090ef3-5f12-4e08-bd09-4d5afa608b77",
+  "relation": "specializes",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "ef3bec96-27ba-4b64-9e54-9cf7aa2d39bc",
+        "locator": "PDF p. 2",
+        "quote": "facts about human and animal consciousness are grounded in facts about the consciousness of their fundamental material parts"
+      },
+      {
+        "source": "dc7e611d-7bbd-4782-b3d1-dce34087ca9c",
+        "locator": "PDF p. 3",
+        "quote": "Constitutive panpsychism is the thesis that macrophenomenal truths are (wholly or partially) grounded in microphenomenal truths."
+      }
+    ]
+  }
+}

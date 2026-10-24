@@ -1,0 +1,50 @@
+{
+  "record": "proposition",
+  "id": "c288b900-574a-4420-a750-9e35021faa95",
+  "kind": "philosophical",
+  "epistemic_status": "hypothesized",
+  "title": "A conscious universe need not think or be God",
+  "statements": [
+    {
+      "id": "9aad0052-b322-40f1-85dc-ee611a46525a",
+      "text": "Cosmopsychism is not pantheism or a world-soul. As the micropsychist gives electrons experience without thought, the cosmopsychist can give the universe experience without thought or agency, and to explain ordinary biological consciousness there is little reason to ascribe intelligence to the cosmos.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "9aad0052-b322-40f1-85dc-ee611a46525a",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "f58a53d7-8666-4857-b311-4eab8cdd2af0",
+        "locator": "PDF p. 14",
+        "quote": "it is unlikely that one will end up ascribing intelligence or agency to the cosmos"
+      },
+      {
+        "source": "f75ebc94-e644-4afd-91f8-2590430d183d",
+        "locator": "section 2.4 'Micropsychism Versus Cosmopsychism'",
+        "quote": "Cosmopsychism is not to be confused with pantheism"
+      }
+    ]
+  }
+}

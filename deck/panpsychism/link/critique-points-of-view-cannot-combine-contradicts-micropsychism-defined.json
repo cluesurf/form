@@ -1,0 +1,38 @@
+{
+  "record": "link",
+  "id": "927d3983-1465-4d7f-8cf2-d2272bc56c66",
+  "from": "c8e2e4ef-360f-4ff5-84af-5b6e11836dda",
+  "to": "61f67d34-01be-4761-bcf8-40d747fe3838",
+  "relation": "contradicts",
+  "strength": null,
+  "rationale": "Micro-subjects cannot constitute a macro-subject if subjects cannot combine.",
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "f2cd635a-11b9-4bc9-a95f-a76ededf580a",
+        "locator": "PDF p. 2",
+        "quote": "it is impossible to explain the constitution of a macro-subject (like one of us) in terms of the assembly of micro-subjects, for, I will argue, subjects cannot combine"
+      },
+      {
+        "source": "f2cd635a-11b9-4bc9-a95f-a76ededf580a",
+        "locator": "PDF p. 19",
+        "quote": "Points of view are binary entities: they exist either wholly or not at all."
+      },
+      {
+        "source": "f2cd635a-11b9-4bc9-a95f-a76ededf580a",
+        "locator": "PDF p. 22",
+        "quote": "cannot: this is precluded by the metaphysical logic of points of view"
+      }
+    ]
+  }
+}

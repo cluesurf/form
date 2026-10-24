@@ -1,0 +1,33 @@
+{
+  "record": "link",
+  "id": "309dc6fd-f5a2-4aa2-978f-3910a071c7ce",
+  "from": "f36c0125-e12d-4e33-814b-32337a20fb57",
+  "to": "5f29f901-b32a-45a0-84b5-b9fb475e0a12",
+  "relation": "contradicts",
+  "strength": null,
+  "rationale": "A handful of quiddities seems too few to constitute the range of experienced qualities.",
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "dc7e611d-7bbd-4782-b3d1-dce34087ca9c",
+        "locator": "PDF p. 5",
+        "quote": "How can this limited palette of microqualities combine to yield the vast array of macroqualities?"
+      },
+      {
+        "source": "dc7e611d-7bbd-4782-b3d1-dce34087ca9c",
+        "locator": "PDF p. 12",
+        "quote": "Macrophenomenal qualities are too diverse to be constituted by a few microphenomenal qualities."
+      }
+    ]
+  }
+}

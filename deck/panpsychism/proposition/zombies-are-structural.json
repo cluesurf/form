@@ -1,0 +1,45 @@
+{
+  "record": "proposition",
+  "id": "07740b95-0830-4802-830e-feee32c88df4",
+  "kind": "philosophical",
+  "epistemic_status": "inferred",
+  "title": "Conceivable zombies duplicate structure, not quiddities",
+  "statements": [
+    {
+      "id": "69d5abdf-97a9-4f28-87b2-a49357b309ef",
+      "text": "When zombies are conceived, physical structure is held fixed but the unknown quiddities are not. The zombie intuition gives good reason to think structural zombies conceivable and little reason to think categorical zombies, which also duplicate the quiddities, are.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "69d5abdf-97a9-4f28-87b2-a49357b309ef",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "cb9b8ec3-2afa-4462-b72d-28a29a264719",
+        "locator": "PDF p. 12",
+        "quote": "This standard zombie intuition provides good reason to think that structural zombies are conceivable, but little reason to think that categorical zombies are conceivable."
+      }
+    ]
+  }
+}

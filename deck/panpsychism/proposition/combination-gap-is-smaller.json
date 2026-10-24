@@ -1,0 +1,50 @@
+{
+  "record": "proposition",
+  "id": "026624c8-16cd-4d2a-b1da-996b299443ad",
+  "kind": "philosophical",
+  "epistemic_status": "hypothesized",
+  "title": "The micro-to-macro gap is smaller than the physical-to-conscious gap",
+  "statements": [
+    {
+      "id": "d67b8d8b-b7ac-494d-9c82-1769b0018962",
+      "text": "The gap between micro-level and macro-level consciousness is intuitively smaller than the gap between the non-conscious and the conscious. The same kinds of concepts, first-personal and qualitative, are used on both sides of the first gap, and a version of the knowledge argument is much less obvious there.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "d67b8d8b-b7ac-494d-9c82-1769b0018962",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "ef3bec96-27ba-4b64-9e54-9cf7aa2d39bc",
+        "locator": "PDF p. 10",
+        "quote": "There is an intuitive sense in which the gap between macro-level consciousness and micro-level consciousness is smaller than the gap between consciousness and non-consciousness"
+      },
+      {
+        "source": "f58a53d7-8666-4857-b311-4eab8cdd2af0",
+        "locator": "PDF p. 12",
+        "quote": "the same kinds of concepts are employed on each side: first-personal, qualitative concepts"
+      }
+    ]
+  }
+}

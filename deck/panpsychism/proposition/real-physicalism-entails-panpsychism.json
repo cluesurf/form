@@ -1,0 +1,50 @@
+{
+  "record": "proposition",
+  "id": "12f2f28c-801d-4939-aa5d-2e21f18bd622",
+  "kind": "philosophical",
+  "epistemic_status": "inferred",
+  "title": "Real physicalism entails panpsychism",
+  "statements": [
+    {
+      "id": "d3657d83-1615-4ed1-916c-5bfea0d55f7a",
+      "text": "Real physicalists must give up the thesis that physical stuff is wholly non-experiential in its fundamental nature. Given that radical emergence is impossible, real physicalism entails panpsychism, and the only alternative is substance dualism.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "d3657d83-1615-4ed1-916c-5bfea0d55f7a",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "ad54e44a-e754-4c48-9edc-37c529056aba",
+        "locator": "p. 71",
+        "quote": "So now I can say that physicalism, that is, real physicalism, entails panexperientialism or panpsychism."
+      },
+      {
+        "source": "ad54e44a-e754-4c48-9edc-37c529056aba",
+        "locator": "p. 71",
+        "quote": "They must at least embrace micropsychism."
+      }
+    ]
+  }
+}

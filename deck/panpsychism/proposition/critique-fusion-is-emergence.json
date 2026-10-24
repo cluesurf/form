@@ -1,0 +1,45 @@
+{
+  "record": "proposition",
+  "id": "16d33272-b7e1-4632-8e54-6e97bea629c6",
+  "kind": "philosophical",
+  "epistemic_status": "hypothesized",
+  "title": "Critique: if micro-subjects fuse, the result is emergence",
+  "statements": [
+    {
+      "id": "ce89611f-ab71-4628-b0ff-83dc81dfc1c3",
+      "text": "If micro-subjects go out of existence to make a macro-subject, their points of view are annihilated, not bequeathed, so the macro-subject is not a structural product of its parts and panpsychism has become a form of emergentism.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "ce89611f-ab71-4628-b0ff-83dc81dfc1c3",
+  "status": "active",
+  "voice": "critique",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "f2cd635a-11b9-4bc9-a95f-a76ededf580a",
+        "locator": "PDF p. 26",
+        "quote": "If points of view are annihilated so as to produce a macro-subject, the macro-subjectivity is not a structural property."
+      }
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "record": "link",
+  "id": "77331c7c-a051-4e9c-9623-9677eed68957",
+  "from": "0c1e2b59-7551-41d6-b8dc-6d74df27f262",
+  "to": "e921cede-0144-43d4-8653-fc661e6ebe4b",
+  "relation": "requires",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "ad54e44a-e754-4c48-9edc-37c529056aba",
+        "locator": "p. 59",
+        "quote": "Our knowledge of the nature of the objects treated in physics consists solely of readings of pointers [on instrument dials] and other indicators"
+      }
+    ]
+  }
+}

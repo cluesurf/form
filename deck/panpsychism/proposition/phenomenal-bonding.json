@@ -1,0 +1,55 @@
+{
+  "record": "proposition",
+  "id": "76ec8d6d-4df8-42b2-96d5-0e67ed39b7cf",
+  "kind": "philosophical",
+  "epistemic_status": "hypothesized",
+  "title": "Phenomenal bonding: a relation that joins subjects into a further subject",
+  "statements": [
+    {
+      "id": "b361b997-a61e-4125-a888-af1be1401646",
+      "text": "Subjects cannot sum merely by existing with their phenomenal characters, but subjects standing in a specific relation, phenomenal bonding, can necessitate a further subject, as bricks make a house only when related in the right way. There is no principled reason to think this relation unreal.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "b361b997-a61e-4125-a888-af1be1401646",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "be99072c-53fa-407d-b6d3-2f2a7cdef409",
+        "locator": "PDF p. 9",
+        "quote": "I don't think we have a transparent conception of such a relation, call it 'phenomenal bonding,' which bonds subjects together to produce other subjects of experience."
+      },
+      {
+        "source": "be99072c-53fa-407d-b6d3-2f2a7cdef409",
+        "locator": "PDF p. 10",
+        "quote": "I can see no principled reason to think the phenomenal bonding relation is not a real relation that certain subjects bear to each other"
+      },
+      {
+        "source": "ef3bec96-27ba-4b64-9e54-9cf7aa2d39bc",
+        "locator": "PDF p. 15",
+        "quote": "We can call this special relationship which bonds little subjects into big subjects"
+      }
+    ]
+  }
+}

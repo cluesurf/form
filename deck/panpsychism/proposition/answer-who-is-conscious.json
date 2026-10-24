@@ -1,0 +1,50 @@
+{
+  "record": "proposition",
+  "id": "8090a5d8-2d45-4132-b2d8-24af012674f7",
+  "kind": "philosophical",
+  "epistemic_status": "hypothesized",
+  "title": "Answer: fundamental entities, humans and animals, perhaps the universe",
+  "statements": [
+    {
+      "id": "3778e19a-fbe7-4025-9bab-76166f83b268",
+      "text": "At least some fundamental entities are conscious, and humans and other animals are. A rock need not be, though its parts are. On cosmopsychism the universe is conscious. On Goff’s universalist option every spatially related group of objects determines a subject.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "3778e19a-fbe7-4025-9bab-76166f83b268",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "f75ebc94-e644-4afd-91f8-2590430d183d",
+        "locator": "section 2.1 'The Definition of Panpsychism'",
+        "quote": "she needn't hold that a rock has mental properties (just that the rock's fundamental parts do)"
+      },
+      {
+        "source": "be99072c-53fa-407d-b6d3-2f2a7cdef409",
+        "locator": "PDF p. 15",
+        "quote": "for any group of material objects, the members of that group, being spatially related, determine a conscious subject"
+      }
+    ]
+  }
+}

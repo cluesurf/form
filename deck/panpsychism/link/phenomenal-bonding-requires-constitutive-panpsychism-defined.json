@@ -1,0 +1,38 @@
+{
+  "record": "link",
+  "id": "1e11098f-6e45-4371-8142-04b7f17f8324",
+  "from": "76ec8d6d-4df8-42b2-96d5-0e67ed39b7cf",
+  "to": "3ec31ce1-6ec9-431f-81ef-ddc7e6970b47",
+  "relation": "requires",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "be99072c-53fa-407d-b6d3-2f2a7cdef409",
+        "locator": "PDF p. 9",
+        "quote": "I don't think we have a transparent conception of such a relation, call it 'phenomenal bonding,' which bonds subjects together to produce other subjects of experience."
+      },
+      {
+        "source": "be99072c-53fa-407d-b6d3-2f2a7cdef409",
+        "locator": "PDF p. 10",
+        "quote": "I can see no principled reason to think the phenomenal bonding relation is not a real relation that certain subjects bear to each other"
+      },
+      {
+        "source": "ef3bec96-27ba-4b64-9e54-9cf7aa2d39bc",
+        "locator": "PDF p. 15",
+        "quote": "We can call this special relationship which bonds little subjects into big subjects"
+      }
+    ]
+  }
+}

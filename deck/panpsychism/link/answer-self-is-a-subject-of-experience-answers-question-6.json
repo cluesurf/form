@@ -1,0 +1,33 @@
+{
+  "record": "link",
+  "id": "4d75aa6b-8ba7-48e2-ba64-a5286a2335e8",
+  "from": "05a33254-ed14-4da8-8787-6db5fe9a8d5b",
+  "to": "40dc81c7-5c68-457a-b6c2-e77c0207606e",
+  "relation": "answers",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "066a639d-34ca-43a5-8d98-7a2e5581c975",
+        "locator": "p. 301",
+        "quote": "By 'subject of experience' I simply mean a thing that is phenomenally conscious"
+      },
+      {
+        "source": "ad54e44a-e754-4c48-9edc-37c529056aba",
+        "locator": "p. 71",
+        "quote": "'experience is impossible without an experiencer', a subject of experience"
+      }
+    ]
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "record": "proposition",
+  "id": "80f5dc48-7c40-4efe-8e48-d28f6cb5c531",
+  "kind": "empirical",
+  "epistemic_status": "hypothesized",
+  "title": "Critique: no sign of the causal powers emergence would add",
+  "statements": [
+    {
+      "id": "25759828-bd52-447f-af3c-677d1fb451a7",
+      "text": "Emergent fundamental minds would bring new causal powers that ought to be observable when they arise. Papineau argues that neuroscience and cellular biology show no sign of distinctive causal powers tied to biological consciousness, which counts against emergentism of any kind, panpsychist emergentism included.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "25759828-bd52-447f-af3c-677d1fb451a7",
+  "status": "active",
+  "voice": "critique",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "f75ebc94-e644-4afd-91f8-2590430d183d",
+        "locator": "section 2.2 'Constitutive Versus Emergentist Panpsychism'",
+        "quote": "neuroscience and cellular biology show no sign of the existence of distinctive causal powers associated with biological consciousness"
+      }
+    ]
+  }
+}

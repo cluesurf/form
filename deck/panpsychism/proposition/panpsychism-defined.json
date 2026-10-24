@@ -1,0 +1,50 @@
+{
+  "record": "proposition",
+  "id": "95090ef3-5f12-4e08-bd09-4d5afa608b77",
+  "kind": "definitional",
+  "epistemic_status": "designed",
+  "title": "Panpsychism",
+  "statements": [
+    {
+      "id": "ea434dd4-afed-401b-bc72-2ac911883bac",
+      "text": "Panpsychism is the view that mentality, in its contemporary form consciousness, is a fundamental and ubiquitous feature of the natural world. It does not require that literally everything has a mind: a rock need not, so long as its fundamental parts do.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "ea434dd4-afed-401b-bc72-2ac911883bac",
+  "status": "active",
+  "voice": "framework",
+  "defines": "panpsychism",
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "ef3bec96-27ba-4b64-9e54-9cf7aa2d39bc",
+        "locator": "PDF p. 1",
+        "quote": "believing that mentality is a fundamental and ubiquitous feature of the universe"
+      },
+      {
+        "source": "f75ebc94-e644-4afd-91f8-2590430d183d",
+        "locator": "section 2.1 'The Definition of Panpsychism'",
+        "quote": "it is generally understood as the view that mentality is fundamental and ubiquitous in the natural world"
+      }
+    ]
+  }
+}

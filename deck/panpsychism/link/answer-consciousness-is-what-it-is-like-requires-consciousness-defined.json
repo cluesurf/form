@@ -1,0 +1,28 @@
+{
+  "record": "link",
+  "id": "55a70d74-8f7f-4f84-ab1c-d10a10078970",
+  "from": "a643bf2d-bb1c-4996-96c4-3e48c12ff827",
+  "to": "7605f5b0-ea5d-4b32-bf22-05cf8c5a7984",
+  "relation": "requires",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "ef3bec96-27ba-4b64-9e54-9cf7aa2d39bc",
+        "locator": "PDF p. 1",
+        "quote": "Consciousness, in contrast, is simply the property of having some or other kind of experience"
+      }
+    ]
+  }
+}

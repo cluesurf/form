@@ -1,0 +1,33 @@
+{
+  "record": "link",
+  "id": "ff62ff82-66af-4b70-9fde-5ff7fbafdda3",
+  "from": "93006735-e619-47a3-8214-a7e29df4d0d1",
+  "to": "3ec31ce1-6ec9-431f-81ef-ddc7e6970b47",
+  "relation": "requires",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "ef3bec96-27ba-4b64-9e54-9cf7aa2d39bc",
+        "locator": "PDF p. 4",
+        "quote": "panpsychism is a scientific research programme in its own right"
+      },
+      {
+        "source": "ef3bec96-27ba-4b64-9e54-9cf7aa2d39bc",
+        "locator": "PDF p. 3",
+        "quote": "try to explain the complex consciousness of humans and other animals in terms of simpler forms of consciousness which are postulated to exist in simpler forms of matter"
+      }
+    ]
+  }
+}

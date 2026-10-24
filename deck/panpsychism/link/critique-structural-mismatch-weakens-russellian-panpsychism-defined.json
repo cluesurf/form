@@ -1,0 +1,33 @@
+{
+  "record": "link",
+  "id": "c33aea72-6ae1-4b13-a188-1c1d079f6ab9",
+  "from": "c21d2b88-da5a-4b74-b721-72470765eebf",
+  "to": "5f29f901-b32a-45a0-84b5-b9fb475e0a12",
+  "relation": "weakens",
+  "strength": null,
+  "rationale": "Experience should mirror brain structure on a Russellian view, and it seems not to.",
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "dc7e611d-7bbd-4782-b3d1-dce34087ca9c",
+        "locator": "PDF p. 5",
+        "quote": "Macrophysical structure (in the brain, say) seems entirely different from the macrophenomenal structure we experience."
+      },
+      {
+        "source": "dc7e611d-7bbd-4782-b3d1-dce34087ca9c",
+        "locator": "PDF p. 34",
+        "quote": "it is clear that the structural mismatch argument is a significant challenge that all Russellian monists must answer"
+      }
+    ]
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "record": "link",
+  "id": "8e92930e-713b-4c1b-bb44-b5d87c744ca2",
+  "from": "07dfc61d-cf87-45b1-b33f-4869b8806984",
+  "to": "77171b94-6ed0-42e0-9c68-e788eaeb33c9",
+  "relation": "weakens",
+  "strength": null,
+  "rationale": "Counterintuitive theories such as special relativity are accepted when they do theoretical work.",
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "be99072c-53fa-407d-b6d3-2f2a7cdef409",
+        "locator": "PDF p. 1",
+        "quote": "It is hard to see why the fact that most Westerners living today happen to be pre-theoretically inclined to think panpsychism false constitutes a reason to think that it is false."
+      },
+      {
+        "source": "ef3bec96-27ba-4b64-9e54-9cf7aa2d39bc",
+        "locator": "PDF p. 7",
+        "quote": "'common sense intuition' should have little sway if we have a view which pulls its weight theoretically"
+      }
+    ]
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "record": "link",
+  "id": "72e799ab-12d4-4e5c-93e9-13789a59b779",
+  "from": "a27c7924-2308-4d77-8b8f-c7acafad1617",
+  "to": "12f2f28c-801d-4939-aa5d-2e21f18bd622",
+  "relation": "requires",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "ad54e44a-e754-4c48-9edc-37c529056aba",
+        "locator": "p. 72",
+        "quote": "the notion of emergence begins to recover some respectability in its application to the case of experience"
+      },
+      {
+        "source": "ad54e44a-e754-4c48-9edc-37c529056aba",
+        "locator": "p. 73",
+        "quote": "so too there was spectacular enlargement and fine-tuning of experiential forms"
+      }
+    ]
+  }
+}

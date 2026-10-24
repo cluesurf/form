@@ -1,0 +1,50 @@
+{
+  "record": "proposition",
+  "id": "2d2f5de5-cf12-4a9a-8076-06d02819831a",
+  "kind": "philosophical",
+  "epistemic_status": "hypothesized",
+  "title": "Answer: no theory of space, whose real nature physics leaves dark",
+  "statements": [
+    {
+      "id": "90780b6c-7788-4a2a-b5f8-62cbf7315e4d",
+      "text": "The view offers no theory of space. Goff holds that physics gives only a mathematical conception of spatiotemporal relations, so their real nature is unknown, and suggests that the spatial relation may be the phenomenal bonding relation.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "90780b6c-7788-4a2a-b5f8-62cbf7315e4d",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "be99072c-53fa-407d-b6d3-2f2a7cdef409",
+        "locator": "PDF p. 11",
+        "quote": "it seems we are completely in the dark about the real nature of spatiotemporal relationships"
+      },
+      {
+        "source": "be99072c-53fa-407d-b6d3-2f2a7cdef409",
+        "locator": "PDF p. 15",
+        "quote": "there is an obvious candidate for identification with the phenomenal bonding relation: the spatial relation"
+      }
+    ]
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "record": "link",
+  "id": "f0d5c481-d699-480d-8d95-31962398d382",
+  "from": "628beb86-e300-4b42-84a9-13362b9ebc5b",
+  "to": "d4dfed29-1268-46b9-9759-f16f6ea008b5",
+  "relation": "supports",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "ef3bec96-27ba-4b64-9e54-9cf7aa2d39bc",
+        "locator": "PDF p. 6",
+        "quote": "The most simple, elegant, parsimonious hypothesis is that the concrete categorical nature of the stuff outside of brains is continuous with that of brains in also being consciousness-involving."
+      },
+      {
+        "source": "be99072c-53fa-407d-b6d3-2f2a7cdef409",
+        "locator": "PDF p. 2",
+        "quote": "The evident existence of consciousness supports the truth of panpsychism in much the same way that measurements of light support special relativity."
+      }
+    ]
+  }
+}

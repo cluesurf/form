@@ -1,0 +1,50 @@
+{
+  "record": "proposition",
+  "id": "3ec31ce1-6ec9-431f-81ef-ddc7e6970b47",
+  "kind": "definitional",
+  "epistemic_status": "designed",
+  "title": "Constitutive panpsychism",
+  "statements": [
+    {
+      "id": "70a54ad5-183d-4f4d-9786-8a72a716ad6c",
+      "text": "Constitutive panpsychism holds that facts about human and animal consciousness are grounded in facts about more basic consciousness, such as that of the fundamental material parts. Human consciousness is then nothing over and above those facts, as a party is nothing over and above people dancing.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "70a54ad5-183d-4f4d-9786-8a72a716ad6c",
+  "status": "active",
+  "voice": "framework",
+  "defines": "constitutive panpsychism",
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "ef3bec96-27ba-4b64-9e54-9cf7aa2d39bc",
+        "locator": "PDF p. 2",
+        "quote": "facts about human and animal consciousness are grounded in facts about the consciousness of their fundamental material parts"
+      },
+      {
+        "source": "dc7e611d-7bbd-4782-b3d1-dce34087ca9c",
+        "locator": "PDF p. 3",
+        "quote": "Constitutive panpsychism is the thesis that macrophenomenal truths are (wholly or partially) grounded in microphenomenal truths."
+      }
+    ]
+  }
+}

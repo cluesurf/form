@@ -1,0 +1,33 @@
+{
+  "record": "link",
+  "id": "84404e11-0b36-4442-94ea-a48bff840208",
+  "from": "100ae8e5-f5eb-4227-ae38-047524367f89",
+  "to": "734fcb43-e2dc-483c-88f6-7694415b743c",
+  "relation": "answers",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "ef3bec96-27ba-4b64-9e54-9cf7aa2d39bc",
+        "locator": "PDF p. 2",
+        "quote": "it is equally possible that the light of consciousness never switches off entirely"
+      },
+      {
+        "source": "ad54e44a-e754-4c48-9edc-37c529056aba",
+        "locator": "p. 67",
+        "quote": "Life* reduces, experience doesn't."
+      }
+    ]
+  }
+}

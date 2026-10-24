@@ -1,0 +1,50 @@
+{
+  "record": "proposition",
+  "id": "a27c7924-2308-4d77-8b8f-c7acafad1617",
+  "kind": "philosophical",
+  "epistemic_status": "hypothesized",
+  "title": "Human experience emerges intelligibly from simpler experience",
+  "statements": [
+    {
+      "id": "30418184-80be-4888-b450-a13966e3c69f",
+      "text": "Once the base is experiential, emergence regains respectability: human or sea snail experience emerges from experience of another kind, as liquidity emerges from what is not liquid. Matter with experiential and non-experiential features organized into ever more complex forms of both, including by natural selection.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "30418184-80be-4888-b450-a13966e3c69f",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "ad54e44a-e754-4c48-9edc-37c529056aba",
+        "locator": "p. 72",
+        "quote": "the notion of emergence begins to recover some respectability in its application to the case of experience"
+      },
+      {
+        "source": "ad54e44a-e754-4c48-9edc-37c529056aba",
+        "locator": "p. 73",
+        "quote": "so too there was spectacular enlargement and fine-tuning of experiential forms"
+      }
+    ]
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "record": "link",
+  "id": "1a1cbde6-30e7-4ee5-9cd8-c7f2236d9e82",
+  "from": "8090a5d8-2d45-4132-b2d8-24af012674f7",
+  "to": "fa149d96-d797-483c-a560-6a297c01c9b1",
+  "relation": "answers",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "f75ebc94-e644-4afd-91f8-2590430d183d",
+        "locator": "section 2.1 'The Definition of Panpsychism'",
+        "quote": "she needn't hold that a rock has mental properties (just that the rock's fundamental parts do)"
+      },
+      {
+        "source": "be99072c-53fa-407d-b6d3-2f2a7cdef409",
+        "locator": "PDF p. 15",
+        "quote": "for any group of material objects, the members of that group, being spatially related, determine a conscious subject"
+      }
+    ]
+  }
+}

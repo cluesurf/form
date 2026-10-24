@@ -1,0 +1,33 @@
+{
+  "record": "link",
+  "id": "0a59e391-652e-4a29-a789-a6b0e7096a90",
+  "from": "5fe666d9-86d4-48cf-b48a-fa95d37255a5",
+  "to": "76ec8d6d-4df8-42b2-96d5-0e67ed39b7cf",
+  "relation": "requires",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "be99072c-53fa-407d-b6d3-2f2a7cdef409",
+        "locator": "PDF p. 15",
+        "quote": "universalism looks to be the default position"
+      },
+      {
+        "source": "be99072c-53fa-407d-b6d3-2f2a7cdef409",
+        "locator": "PDF p. 15",
+        "quote": "If we identify the phenomenal bonding relation with the spatial relation it follows that, for any group of material objects, the members of that group, being spatially related, determine a conscious subject."
+      }
+    ]
+  }
+}

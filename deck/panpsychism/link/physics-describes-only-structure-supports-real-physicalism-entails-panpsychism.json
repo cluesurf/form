@@ -1,0 +1,33 @@
+{
+  "record": "link",
+  "id": "9cf57c6c-b1d8-46fe-9c5e-8110962745e5",
+  "from": "e921cede-0144-43d4-8653-fc661e6ebe4b",
+  "to": "12f2f28c-801d-4939-aa5d-2e21f18bd622",
+  "relation": "supports",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "ad54e44a-e754-4c48-9edc-37c529056aba",
+        "locator": "p. 58",
+        "quote": "there is a fundamental sense in which it is 'abstract', 'purely formal', merely a matter of 'structure', in Russell's words"
+      },
+      {
+        "source": "be99072c-53fa-407d-b6d3-2f2a7cdef409",
+        "locator": "PDF p. 1",
+        "quote": "Physics tells us much about the dispositions of fundamental natural entities, but leaves us completely in the dark about their categorical nature."
+      }
+    ]
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "record": "link",
+  "id": "b8e9f8b8-986a-4eb9-b398-d6c7b810a9ce",
+  "from": "c3bc8d0a-89a2-4cd9-9b9a-18e940b4d9db",
+  "to": "a5694dcb-9cf6-4e09-be6b-0aa1e00f3ab3",
+  "relation": "requires",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "f58a53d7-8666-4857-b311-4eab8cdd2af0",
+        "locator": "PDF p. 21",
+        "quote": "it says that we need a law determining that local subjects exist and only exist when certain precise conditions obtain"
+      },
+      {
+        "source": "f58a53d7-8666-4857-b311-4eab8cdd2af0",
+        "locator": "PDF p. 21",
+        "quote": "This is an empirical question, to be settled by our best theory concerning the physical correlates of local consciousness."
+      }
+    ]
+  }
+}

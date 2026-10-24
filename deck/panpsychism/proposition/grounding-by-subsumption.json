@@ -1,0 +1,50 @@
+{
+  "record": "proposition",
+  "id": "873c564d-4b83-4b84-86d1-d524ad433a2b",
+  "kind": "definitional",
+  "epistemic_status": "designed",
+  "title": "Grounding by subsumption",
+  "statements": [
+    {
+      "id": "e052a8f8-4c5c-4e87-9051-300c03896496",
+      "text": "In grounding by subsumption a fact is nothing over and above another because it is one aspect of it, as a red experience is an aspect of a total visual experience, or a region of space an aspect of space as a whole. Unlike grounding by truthmaking, it does not demote the aspect to a shadow of language.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "e052a8f8-4c5c-4e87-9051-300c03896496",
+  "status": "active",
+  "voice": "framework",
+  "defines": "grounding by subsumption",
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "6c3ae84c-6a1a-4388-a91c-fd6f780c3def",
+        "locator": "p. 9",
+        "quote": "In each case, the reality of the whole subsumes the reality of the aspect."
+      },
+      {
+        "source": "6c3ae84c-6a1a-4388-a91c-fd6f780c3def",
+        "locator": "p. 9",
+        "quote": "accounting for nothing-over-and-aboveness via grounding by subsumption need not involve a commitment to a deflationary view of non-fundamental entities or properties"
+      }
+    ]
+  }
+}

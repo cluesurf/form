@@ -1,0 +1,33 @@
+{
+  "record": "link",
+  "id": "d00f0bcb-8a5a-49d7-88e9-6d8ab2ed457e",
+  "from": "5f29f901-b32a-45a0-84b5-b9fb475e0a12",
+  "to": "d4dfed29-1268-46b9-9759-f16f6ea008b5",
+  "relation": "defines",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "cb9b8ec3-2afa-4462-b72d-28a29a264719",
+        "locator": "PDF p. 9",
+        "quote": "Russellian panpsychism is the view that some quiddities are microphenomenal properties."
+      },
+      {
+        "source": "dc7e611d-7bbd-4782-b3d1-dce34087ca9c",
+        "locator": "PDF p. 3",
+        "quote": "The Russellian panpsychist holds that quiddities are themselves phenomenal."
+      }
+    ]
+  }
+}

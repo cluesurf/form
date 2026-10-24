@@ -1,0 +1,50 @@
+{
+  "record": "proposition",
+  "id": "320c5da8-6d48-4ffb-804e-e43d949b3200",
+  "kind": "philosophical",
+  "epistemic_status": "inferred",
+  "title": "A world of pure dispositions passes the buck forever",
+  "statements": [
+    {
+      "id": "56f06741-2a5e-4531-b327-2f2942563a69",
+      "text": "If every property were a pure disposition, knowing any property would require knowing its manifestation, which would be another disposition, and so on without end. The nature of no property could be grasped, even by an omniscient being, so there must be a categorical nature that physics leaves out.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "56f06741-2a5e-4531-b327-2f2942563a69",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "ef3bec96-27ba-4b64-9e54-9cf7aa2d39bc",
+        "locator": "PDF p. 5",
+        "quote": "in other words a dispositional essentialist world is unintelligible"
+      },
+      {
+        "source": "ef3bec96-27ba-4b64-9e54-9cf7aa2d39bc",
+        "locator": "PDF p. 5",
+        "quote": "These arguments press us to the conclusion that there must be a concrete categorical nature to matter"
+      }
+    ]
+  }
+}

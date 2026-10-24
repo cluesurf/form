@@ -1,0 +1,50 @@
+{
+  "record": "proposition",
+  "id": "b7030a85-6d84-4e67-a95a-17f915f6f1b7",
+  "kind": "philosophical",
+  "epistemic_status": "hypothesized",
+  "title": "Consciousness is a fundamental and ubiquitous feature of the physical world",
+  "statements": [
+    {
+      "id": "8484762e-ef96-4272-8f41-2ce84ec29725",
+      "text": "Consciousness is fundamental, not derived from anything non-conscious, and ubiquitous: at least some kinds of fundamental physical entities, perhaps electrons and quarks, or the universe as a whole, have experience of some extremely basic kind.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "8484762e-ef96-4272-8f41-2ce84ec29725",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "6c3ae84c-6a1a-4388-a91c-fd6f780c3def",
+        "locator": "p. 1",
+        "quote": "Panpsychism is the view that consciousness is fundamental and ubiquitous."
+      },
+      {
+        "source": "be99072c-53fa-407d-b6d3-2f2a7cdef409",
+        "locator": "PDF p. 1",
+        "quote": "Panpsychism, the view that fundamental physical entities are conscious, is a highly probable theory of the natural world."
+      }
+    ]
+  }
+}

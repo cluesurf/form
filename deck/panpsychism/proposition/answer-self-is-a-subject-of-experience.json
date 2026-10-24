@@ -1,0 +1,50 @@
+{
+  "record": "proposition",
+  "id": "05a33254-ed14-4da8-8787-6db5fe9a8d5b",
+  "kind": "philosophical",
+  "epistemic_status": "hypothesized",
+  "title": "Answer: a self is a subject of experience, made by combination or by emergence",
+  "statements": [
+    {
+      "id": "376ddcf2-3bb7-4d7d-86ed-1980406d79f1",
+      "text": "A subject of experience is simply a thing there is something it is like to be. Experience needs a subject, and a human subject is either grounded in bonded micro-subjects, an aspect of the cosmic subject, or, on hybrid cosmopsychism, a new subject that emerges and inherits part of the universe’s experience.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "376ddcf2-3bb7-4d7d-86ed-1980406d79f1",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "066a639d-34ca-43a5-8d98-7a2e5581c975",
+        "locator": "p. 301",
+        "quote": "By 'subject of experience' I simply mean a thing that is phenomenally conscious"
+      },
+      {
+        "source": "ad54e44a-e754-4c48-9edc-37c529056aba",
+        "locator": "p. 71",
+        "quote": "'experience is impossible without an experiencer', a subject of experience"
+      }
+    ]
+  }
+}

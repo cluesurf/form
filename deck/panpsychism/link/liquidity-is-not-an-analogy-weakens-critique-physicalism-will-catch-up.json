@@ -1,0 +1,33 @@
+{
+  "record": "link",
+  "id": "75cb6fdb-f5d8-4558-b50d-40a0ab0c083b",
+  "from": "11aaf766-cd93-44db-98bd-34665df3693f",
+  "to": "8cf7123f-dc7e-491f-92bb-be7efa0ccefa",
+  "relation": "weakens",
+  "strength": null,
+  "rationale": "Life apart from experience reduces to physics, experience does not, so the history of vitalism is no precedent.",
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "ad54e44a-e754-4c48-9edc-37c529056aba",
+        "locator": "p. 68",
+        "quote": "Liquidity is a P phenomenon that reduces without remainder to other P phenomena."
+      },
+      {
+        "source": "ad54e44a-e754-4c48-9edc-37c529056aba",
+        "locator": "p. 67",
+        "quote": "Life* reduces, experience doesn't."
+      }
+    ]
+  }
+}

@@ -1,0 +1,9 @@
+# Panpsychism
+
+Community-written from public sources, AI-extracted, unreviewed. Not written or endorsed by Philip Goff and Galen Strawson. To propose a correction, open an issue or pull request that changes the record and cites the source.
+
+This is a [form.surf](https://form.surf) model repository for panpsychism as it is argued in contemporary analytic philosophy of mind: the view that consciousness is a fundamental and ubiquitous feature of the natural world. Its main sources are Galen Strawson's argument that realistic physicalism entails panpsychism, and Philip Goff's papers on constitutive panpsychism, phenomenal bonding, cosmopsychism and hybrid cosmopsychism, with David J. Chalmers's two papers on the view and its combination problem, Sam Coleman's argument that subjects cannot combine, and the Stanford Encyclopedia entry Goff wrote with William Seager and Sean Allen-Hermanson. Each claim is one JSON record in `proposition/`, with its kind (definitional, empirical, mathematical, philosophical), its epistemic status, and the source and page it was taken from. The view makes no empirical claim of its own, so its claims are philosophical theses, marked hypothesized, inferences from them, marked inferred, and definitions, marked designed. Objections the sources raise or answer, chiefly the forms of the combination problem, are kept as claims with `voice: "critique"`. Chalmers argues for the view's promise and against its combination problem without committing to it, so he is cited as an analyst, not listed as an originator. The separate model `quantum-information-panpsychism` holds Federico Faggin's quantum version.
+
+Every record has `provenance.ai_written: true` and `reviewed: false` until a named person checks it against its sources.
+
+Format: form.surf/1. Check with `form check .`.

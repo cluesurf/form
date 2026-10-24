@@ -1,0 +1,33 @@
+{
+  "record": "link",
+  "id": "551ce8d4-f329-4383-825d-1588266be50b",
+  "from": "694b6540-89e4-4be9-bafd-83d75b83211d",
+  "to": "dcfa574a-8d24-49bf-aff7-2791cd03e0b5",
+  "relation": "requires",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "ad54e44a-e754-4c48-9edc-37c529056aba",
+        "locator": "p. 70",
+        "quote": "experiential phenomena cannot be emergent from wholly non-experiential phenomena"
+      },
+      {
+        "source": "ad54e44a-e754-4c48-9edc-37c529056aba",
+        "locator": "p. 70",
+        "quote": "It must already be somehow experiential in its essential and fundamental nature, however primitively or strangely or (to us) incomprehensibly"
+      }
+    ]
+  }
+}

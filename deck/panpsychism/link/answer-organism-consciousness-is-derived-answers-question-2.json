@@ -1,0 +1,33 @@
+{
+  "record": "link",
+  "id": "dbf7a762-4f5e-4103-bb70-45f8e53d7f2d",
+  "from": "33517872-4623-483c-8a22-a61f3f72f6f1",
+  "to": "455dff7d-b66c-449d-b2d7-52521b99cba5",
+  "relation": "answers",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "6c3ae84c-6a1a-4388-a91c-fd6f780c3def",
+        "locator": "p. 1",
+        "quote": "is not fundamental but is grounded in a more fundamental form of consciousness which is ubiquitous throughout nature"
+      },
+      {
+        "source": "ad54e44a-e754-4c48-9edc-37c529056aba",
+        "locator": "p. 72",
+        "quote": "the notion of emergence begins to recover some respectability in its application to the case of experience"
+      }
+    ]
+  }
+}

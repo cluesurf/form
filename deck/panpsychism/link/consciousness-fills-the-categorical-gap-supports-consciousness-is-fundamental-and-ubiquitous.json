@@ -1,0 +1,33 @@
+{
+  "record": "link",
+  "id": "d65adae8-7de6-4484-bd07-6072a58e8163",
+  "from": "d4dfed29-1268-46b9-9759-f16f6ea008b5",
+  "to": "b7030a85-6d84-4e67-a95a-17f915f6f1b7",
+  "relation": "supports",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "ef3bec96-27ba-4b64-9e54-9cf7aa2d39bc",
+        "locator": "PDF p. 6",
+        "quote": "What then is the concrete categorical nature of matter? Panpsychism offers us an answer: consciousness."
+      },
+      {
+        "source": "f58a53d7-8666-4857-b311-4eab8cdd2af0",
+        "locator": "PDF p. 5",
+        "quote": "The positive proposal of Russellian panpsychism is to put consciousness in this hole: physical properties are, in their essential nature, forms of consciousness."
+      }
+    ]
+  }
+}

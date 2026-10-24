@@ -1,0 +1,33 @@
+{
+  "record": "link",
+  "id": "0b66fd47-d8f4-480f-b962-96aa91e8137c",
+  "from": "32c8f69b-25ed-4770-8a4a-41c4dc86e006",
+  "to": "e965e41e-82f3-4512-8e7d-674b1d6d7275",
+  "relation": "defines",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "dc7e611d-7bbd-4782-b3d1-dce34087ca9c",
+        "locator": "PDF p. 4",
+        "quote": "Panprotopsychism is the thesis that fundamental physical entities have protophenomenal properties."
+      },
+      {
+        "source": "ef3bec96-27ba-4b64-9e54-9cf7aa2d39bc",
+        "locator": "PDF p. 12",
+        "quote": "whereas panpsychists believe that basic matter has consciousness, panprotopsychists believe that basic matter is protoconscious"
+      }
+    ]
+  }
+}

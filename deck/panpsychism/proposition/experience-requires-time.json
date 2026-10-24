@@ -1,0 +1,50 @@
+{
+  "record": "proposition",
+  "id": "5429e9cf-2022-48ad-92f9-98636c3b4440",
+  "kind": "philosophical",
+  "epistemic_status": "hypothesized",
+  "title": "Experience requires time",
+  "statements": [
+    {
+      "id": "bf299b50-13cf-42d6-8514-3315a9643ff3",
+      "text": "Strawson assumes for the argument that the universe is spatiotemporal in its fundamental nature, and notes that if temporality in every form were dropped from fundamental reality, experience would go with it, since experience requires time.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "bf299b50-13cf-42d6-8514-3315a9643ff3",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "ad54e44a-e754-4c48-9edc-37c529056aba",
+        "locator": "p. 58",
+        "quote": "the universe is spatiotemporal in its fundamental nature"
+      },
+      {
+        "source": "ad54e44a-e754-4c48-9edc-37c529056aba",
+        "locator": "p. 58",
+        "quote": "then experience also goes, given that experience requires time"
+      }
+    ]
+  }
+}

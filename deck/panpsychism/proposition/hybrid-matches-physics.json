@@ -1,0 +1,50 @@
+{
+  "record": "proposition",
+  "id": "d60ce877-893d-4a1c-9861-def798bfce09",
+  "kind": "philosophical",
+  "epistemic_status": "inferred",
+  "title": "Systems with and without subjects obey the same physical laws",
+  "statements": [
+    {
+      "id": "e7ab54e4-deff-408a-be74-4d95696b6918",
+      "text": "Since emergent subjects only take over properties the universe already bore, in the same places, the evolution of physical reality is unchanged by their emergence. The view expects what is observed, that conscious systems behave by the same laws of nature as other systems, and it shares causal work between universe and local subjects, avoiding exclusion.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "e7ab54e4-deff-408a-be74-4d95696b6918",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "f58a53d7-8666-4857-b311-4eab8cdd2af0",
+        "locator": "PDF p. 18",
+        "quote": "systems with macro-level consciousness behave according to exactly the same laws of nature as systems that lack macro-level consciousness"
+      },
+      {
+        "source": "f58a53d7-8666-4857-b311-4eab8cdd2af0",
+        "locator": "PDF p. 17",
+        "quote": "Rather the universe shares its causal work with the strongly emergent subjects, thus avoiding causal exclusion."
+      }
+    ]
+  }
+}

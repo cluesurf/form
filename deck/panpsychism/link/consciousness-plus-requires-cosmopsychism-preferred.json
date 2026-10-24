@@ -1,0 +1,33 @@
+{
+  "record": "link",
+  "id": "e14919cd-a781-41a6-b947-038696895936",
+  "from": "0035ced1-87ed-4c32-bc58-053b9ee5d520",
+  "to": "4891f2b0-3c96-4488-9bc0-cf0c6ed4a2b8",
+  "relation": "requires",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "6c3ae84c-6a1a-4388-a91c-fd6f780c3def",
+        "locator": "p. 12",
+        "quote": "there is a more expansive property, call it consciousness+, that subsumes consciousness as one aspect"
+      },
+      {
+        "source": "6c3ae84c-6a1a-4388-a91c-fd6f780c3def",
+        "locator": "p. 13",
+        "quote": "I am cautiously pessimistic."
+      }
+    ]
+  }
+}

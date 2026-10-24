@@ -1,0 +1,33 @@
+{
+  "record": "link",
+  "id": "02d29fa8-9cae-4fb2-b392-412751112bbb",
+  "from": "16e891c1-4aeb-405e-ae28-19ec2aaf16e5",
+  "to": "95090ef3-5f12-4e08-bd09-4d5afa608b77",
+  "relation": "specializes",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "ef3bec96-27ba-4b64-9e54-9cf7aa2d39bc",
+        "locator": "PDF p. 10",
+        "quote": "Emergentist panpsychists think that macrosubjects are brought into being and causally sustained by micro-phenomenal goings on."
+      },
+      {
+        "source": "dc7e611d-7bbd-4782-b3d1-dce34087ca9c",
+        "locator": "PDF p. 3",
+        "quote": "The most important form of nonconstitutive panpsychism is emergent panpsychism"
+      }
+    ]
+  }
+}
