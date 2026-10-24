@@ -1,9 +1,11 @@
 # Agents working in vibe
 
-This is a form.surf model repository: Vibe Theory. Vibe explores whether
-physics and experience could both emerge from a relatively simple rule
-on a structured space. Its work so far leans toward one reversible rule
-on the four-dimensional hyperbolic honeycomb {3,4,3,4}.
+This is a form.surf model repository: Vibe Theory. Vibe takes experience
+as fundamental, as discrete nodes of an experiential field, and explores
+whether physics and all of reality could emerge from a network of these
+nodes, updated by a relatively simple rule like a cellular automaton on a
+structured space. Its work so far leans toward one reversible rule on the
+four-dimensional hyperbolic honeycomb {3,4,3,4}.
 Format: form.surf/1, specified at https://form.surf/guides/developers/format.
 
 This repository is written by the framework's originator, Lance Pollard.
