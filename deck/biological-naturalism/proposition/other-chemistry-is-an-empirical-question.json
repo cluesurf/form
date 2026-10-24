@@ -1,0 +1,45 @@
+{
+  "record": "proposition",
+  "id": "782a09d7-c07f-4a7d-85eb-01ee82284576",
+  "kind": "empirical",
+  "epistemic_status": "hypothesized",
+  "title": "Whether other chemistry can produce minds is empirical",
+  "statements": [
+    {
+      "id": "986f3ef1-7065-42ae-8371-d05f21ac095d",
+      "text": "Other physical and chemical processes might produce intentionality, as Martians with brains of different stuff might have it. Whether they can is an empirical question, like whether photosynthesis can run on a chemistry other than chlorophyll.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "986f3ef1-7065-42ae-8371-d05f21ac095d",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "6021411b-3296-4ed8-bddc-b15213e835f2",
+        "locator": "draft p. 10",
+        "quote": "That is an empirical question, rather like the question whether photosynthesis can be done by something with a chemistry different from that of chlorophyll."
+      }
+    ]
+  }
+}

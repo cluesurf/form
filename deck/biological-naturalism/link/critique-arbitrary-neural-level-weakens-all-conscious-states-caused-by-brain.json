@@ -1,0 +1,28 @@
+{
+  "record": "link",
+  "id": "48e962b3-8fca-4af7-8405-abfe352b9807",
+  "from": "6dca86ac-3bd4-4f67-b47f-56846333051b",
+  "to": "341a8726-9d95-4086-a6bf-48f2fe2872db",
+  "relation": "weakens",
+  "strength": null,
+  "rationale": "Nothing in the physics chooses neurons as the level at which consciousness is caused.",
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "bc658235-3258-457e-84f6-db89bc9a7750",
+        "locator": "p. 9",
+        "quote": "it seems then arbitrary to determine that consciousness as a physical phenomenon should be explained by the neuronal level"
+      }
+    ]
+  }
+}

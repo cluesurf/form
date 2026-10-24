@@ -1,0 +1,44 @@
+{
+  "record": "observation",
+  "id": "330e709c-8d26-4f8e-879e-59e5898a7070",
+  "kind": "experimental_result",
+  "epistemic_status": "observed",
+  "description": "Four trained subjects fused random-dot stereograms into a 3D shape and, after each trial, reported their state of readiness in categories they had stabilized in training. Trials sorted by these reports had distinct EEG signatures: in steady readiness a frontal phase-synchronous ensemble formed early and lasted through the trial and reaction times averaged about 300 ms, while in unreadiness no stable ensemble appeared before the stimulus, phase scattering followed it, and reaction times averaged about 600 ms.",
+  "method": "instrument",
+  "status": "reported",
+  "source": "f2e9ad36-4a7c-4ca6-b2aa-d7b07106366e",
+  "procedure": null,
+  "variable": null,
+  "value": null,
+  "unit": null,
+  "uncertainty": null,
+  "sample_size": 4,
+  "replication_count": null,
+  "quality": null,
+  "limitations": "A pilot study of four subjects, described here from the review by Lutz and Thompson. The original paper is cited by DOI and was not read for these records.",
+  "conflicts_of_interest": null,
+  "observed_at": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "5c64ca55-36f7-4b7e-9ca5-1d8839a98b17",
+        "locator": "p. 45",
+        "quote": "During steady preparation, a frontal phase-synchronous ensemble emerged early between frontal electrodes and was maintained on average throughout the trial"
+      },
+      {
+        "source": "5c64ca55-36f7-4b7e-9ca5-1d8839a98b17",
+        "locator": "p. 46",
+        "quote": "In this cluster the reaction time was longer (600 ms on average)."
+      }
+    ]
+  }
+}

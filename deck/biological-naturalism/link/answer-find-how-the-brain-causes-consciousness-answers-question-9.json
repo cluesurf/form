@@ -1,0 +1,28 @@
+{
+  "record": "link",
+  "id": "330ad250-9e8c-4d6c-bde6-db686120c650",
+  "from": "834ad589-6181-4524-a8fc-d34df8cbcc46",
+  "to": "89daaa69-7198-4608-a93d-8a520820bbb9",
+  "relation": "answers",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "6021411b-3296-4ed8-bddc-b15213e835f2",
+        "locator": "draft p. 10",
+        "quote": "That is an empirical question, rather like the question whether photosynthesis can be done by something with a chemistry different from that of chlorophyll."
+      }
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "record": "link",
+  "id": "d73967f4-3172-46db-8ec2-0454a312a06e",
+  "from": "76fbe087-7f98-40a6-9ff8-11e0c267cc2a",
+  "to": "40f820a1-65a9-4783-9012-075a3d826305",
+  "relation": "specializes",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "3465de18-e4a6-46eb-96a9-1b1ff5a61c0c",
+        "locator": "p. 18",
+        "quote": "the minimal biological realizing system for creature consciousness is not the brain (or some neural subsystem) but an organism"
+      }
+    ]
+  }
+}

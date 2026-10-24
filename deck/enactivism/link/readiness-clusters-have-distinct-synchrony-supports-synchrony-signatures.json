@@ -1,0 +1,33 @@
+{
+  "record": "link",
+  "id": "6cce384a-09a7-4ccc-81d8-34f26d691847",
+  "from": "330e709c-8d26-4f8e-879e-59e5898a7070",
+  "to": "e6392a12-4855-42c2-ad45-37c61ba4a807",
+  "relation": "supports",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "5c64ca55-36f7-4b7e-9ca5-1d8839a98b17",
+        "locator": "p. 45",
+        "quote": "During steady preparation, a frontal phase-synchronous ensemble emerged early between frontal electrodes and was maintained on average throughout the trial"
+      },
+      {
+        "source": "5c64ca55-36f7-4b7e-9ca5-1d8839a98b17",
+        "locator": "p. 46",
+        "quote": "In this cluster the reaction time was longer (600 ms on average)."
+      }
+    ]
+  }
+}

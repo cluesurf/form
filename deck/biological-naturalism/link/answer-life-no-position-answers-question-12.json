@@ -1,0 +1,28 @@
+{
+  "record": "link",
+  "id": "ed8e2a44-acd8-4cb3-9cb2-b370a768caf8",
+  "from": "805f5962-da9b-4be7-9aa4-ac65c9478220",
+  "to": "734fcb43-e2dc-483c-88f6-7694415b743c",
+  "relation": "answers",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "6021411b-3296-4ed8-bddc-b15213e835f2",
+        "locator": "draft p. 14",
+        "quote": "it is as likely to be as causally dependent on the specific biochemistry of its origins as lactation, photosynthesis, or any other biological phenomena"
+      }
+    ]
+  }
+}

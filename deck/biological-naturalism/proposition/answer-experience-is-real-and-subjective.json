@@ -1,0 +1,45 @@
+{
+  "record": "proposition",
+  "id": "b776bec7-fe9e-445b-9bee-624849a94685",
+  "kind": "philosophical",
+  "epistemic_status": "inferred",
+  "title": "Answer: experience is real, subjective and caused by the brain",
+  "statements": [
+    {
+      "id": "e31cb7ec-a602-4d9e-bee6-03a574797294",
+      "text": "Experience is real and irreducibly subjective, with a first-person ontology, and it is caused by brain processes and realized in the brain. It is not basic in nature but a biological product, like digestion.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "e31cb7ec-a602-4d9e-bee6-03a574797294",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "2ecbb8c6-73e4-4343-8291-df1f5ac4d140",
+        "locator": "p. 195, quoting The Rediscovery of the Mind, p. 20",
+        "quote": "it follows that the ontology of the mental is essentially a first-person ontology"
+      }
+    ]
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "record": "proposition",
+  "id": "6803d4f2-383e-4399-b03f-72216e7fc81c",
+  "kind": "philosophical",
+  "epistemic_status": "inferred",
+  "title": "The information in a computation is in the eyes of its users",
+  "statements": [
+    {
+      "id": "288e65f7-df41-4ae1-9293-bd125e07f056",
+      "text": "Such intentionality as computers appear to have is in the minds of those who program and use them. In the Chinese room the information is in the eyes of the programmers and interpreters, and they could as well treat the inputs and outputs of a digestive system as information. In that thin sense everything is a digital computer, brains included.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "288e65f7-df41-4ae1-9293-bd125e07f056",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "6021411b-3296-4ed8-bddc-b15213e835f2",
+        "locator": "draft p. 6",
+        "quote": "The information in the Chinese case is solely in the eyes of the programmers and the interpreters"
+      },
+      {
+        "source": "6021411b-3296-4ed8-bddc-b15213e835f2",
+        "locator": "draft p. 14",
+        "quote": "Since everything is a digital computer, brains are too."
+      }
+    ]
+  }
+}

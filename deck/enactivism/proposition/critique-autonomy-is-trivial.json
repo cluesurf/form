@@ -1,0 +1,45 @@
+{
+  "record": "proposition",
+  "id": "103f11ac-1a49-4074-97e6-c85fa2cb7932",
+  "kind": "philosophical",
+  "epistemic_status": "inferred",
+  "title": "Critique: self-determination holds for every physical system",
+  "statements": [
+    {
+      "id": "9bef7a34-41e6-4704-bc3f-815930118d7d",
+      "text": "In the autopoietic theory every physical system is structurally determined, so external events only trigger its changes. On that reading, autonomy as self-determination is trivial and marks no difference between living and non-living systems, and the enactive contrast with machines has no place.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "9bef7a34-41e6-4704-bc3f-815930118d7d",
+  "status": "active",
+  "voice": "critique",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "7785e5eb-0cdc-4012-b2d3-586e40bd13bf",
+        "locator": "p. 16",
+        "quote": "is, from this point of view, ontologically trivial and marks no interesting difference with non-living systems"
+      }
+    ]
+  }
+}

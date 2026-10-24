@@ -1,0 +1,45 @@
+{
+  "record": "proposition",
+  "id": "97a7c164-cf06-4848-bfe1-11e26c5fd2f1",
+  "kind": "definitional",
+  "epistemic_status": "designed",
+  "title": "The mental has a first-person ontology",
+  "statements": [
+    {
+      "id": "293f2048-ed36-4c18-806b-8b0bd310b7da",
+      "text": "Because mental phenomena are essentially connected with consciousness, and consciousness is essentially subjective, the ontology of the mental is a first-person ontology: a conscious state exists only as experienced by a subject. This subjectivity is a fact about what exists, not only about how it is known.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "293f2048-ed36-4c18-806b-8b0bd310b7da",
+  "status": "active",
+  "voice": "framework",
+  "defines": "first-person ontology",
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "2ecbb8c6-73e4-4343-8291-df1f5ac4d140",
+        "locator": "p. 195, quoting The Rediscovery of the Mind, p. 20",
+        "quote": "it follows that the ontology of the mental is essentially a first-person ontology"
+      }
+    ]
+  }
+}

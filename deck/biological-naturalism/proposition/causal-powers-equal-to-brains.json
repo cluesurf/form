@@ -1,0 +1,45 @@
+{
+  "record": "proposition",
+  "id": "69d3937c-1b06-41cb-a964-29ebac8df43c",
+  "kind": "philosophical",
+  "epistemic_status": "inferred",
+  "title": "A mechanism that produces intentionality needs the causal powers of a brain",
+  "statements": [
+    {
+      "id": "734bcec2-f2f6-4c40-8b80-058b91cb56c0",
+      "text": "Any mechanism capable of producing intentionality must have causal powers equal to those of the brain, so an artificial mind would have to duplicate those powers, not only run a program.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "734bcec2-f2f6-4c40-8b80-058b91cb56c0",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "6021411b-3296-4ed8-bddc-b15213e835f2",
+        "locator": "abstract, draft p. 1",
+        "quote": "Any mechanism capable of producing intentionality must have causal powers equal to those of the brain."
+      }
+    ]
+  }
+}

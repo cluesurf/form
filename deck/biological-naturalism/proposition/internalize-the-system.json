@@ -1,0 +1,45 @@
+{
+  "record": "proposition",
+  "id": "6b178e1c-214f-4801-bd1f-b0634de546b1",
+  "kind": "philosophical",
+  "epistemic_status": "inferred",
+  "title": "Reply: the person can internalize the whole system",
+  "statements": [
+    {
+      "id": "8970ec1b-6852-4e8c-a663-bbb2e1990d16",
+      "text": "Let the person memorize the rules and the symbol banks and do every step mentally. The person then contains the whole system and still understands no Chinese, so the system understands none either, since there is nothing in it that is not in the person.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "8970ec1b-6852-4e8c-a663-bbb2e1990d16",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "6021411b-3296-4ed8-bddc-b15213e835f2",
+        "locator": "draft p. 5",
+        "quote": "let the individual internalize all of these elements of the system"
+      }
+    ]
+  }
+}

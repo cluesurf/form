@@ -1,0 +1,45 @@
+{
+  "record": "proposition",
+  "id": "41de6e58-d728-4637-ab54-a6505907a0e7",
+  "kind": "empirical",
+  "epistemic_status": "hypothesized",
+  "title": "How the brain produces mind may need new principles",
+  "statements": [
+    {
+      "id": "060dea52-b8cb-4f25-bb6e-1a289ddd1330",
+      "text": "How the brain produces intentionality is not yet known. Searle speculates that, once understood, it may rest on principles as different from present ones as quantum mechanics is from Newtonian mechanics.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "060dea52-b8cb-4f25-bb6e-1a289ddd1330",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "bc658235-3258-457e-84f6-db89bc9a7750",
+        "locator": "p. 5, quoting Intentionality (1983), p. 272",
+        "quote": "as different as the principles of quantum mechanics are from the principles of Newtonian mechanics"
+      }
+    ]
+  }
+}

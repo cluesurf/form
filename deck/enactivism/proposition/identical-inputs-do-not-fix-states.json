@@ -1,0 +1,45 @@
+{
+  "record": "proposition",
+  "id": "47aa3e75-6ff8-4668-a5da-a2c999d71d7e",
+  "kind": "empirical",
+  "epistemic_status": "inferred",
+  "title": "Identical inputs do not give identical brain states",
+  "statements": [
+    {
+      "id": "3ae8ad03-9f3f-4f19-bcdd-f112f925fec2",
+      "text": "The brain is a nonlinear, self-organizing system sensitive to initial conditions whose inputs mostly arise from its own activity, so an embodied brain and an envatted duplicate fed identical inputs need not stay qualitatively identical.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "3ae8ad03-9f3f-4f19-bcdd-f112f925fec2",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "3465de18-e4a6-46eb-96a9-1b1ff5a61c0c",
+        "locator": "p. 15",
+        "quote": "identical inputs don’t suffice for identical states"
+      }
+    ]
+  }
+}

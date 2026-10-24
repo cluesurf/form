@@ -1,0 +1,28 @@
+{
+  "record": "link",
+  "id": "a81295a2-6566-47a7-ab53-ffa22bfeaf27",
+  "from": "cdac3468-d67e-4930-b6ea-140d2b54156e",
+  "to": "91f8ac5a-ed99-4a09-a83e-ec4a0064bca0",
+  "relation": "explains",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "bc658235-3258-457e-84f6-db89bc9a7750",
+        "locator": "p. 7, quoting The Rediscovery of the Mind, pp. 122-124",
+        "quote": "falls outside the pattern of reduction that we have chosen to use for pragmatic reasons"
+      }
+    ]
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "record": "link",
+  "id": "1916b151-3baa-43f1-8137-d8b5acb49519",
+  "from": "27f9d664-065d-49b6-b63c-77b427d528db",
+  "to": "2998f2ff-eb1f-4a87-acab-27352522f5bb",
+  "relation": "requires",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "a16d6990-8b76-4ede-a57f-b794f8fd47fe",
+        "locator": "p. 26",
+        "quote": "neurons do not think and feel; people and animals do"
+      },
+      {
+        "source": "de4a8672-f5ac-4b37-8565-c9ca26778ee8",
+        "locator": "p. 229",
+        "quote": "Nevertheless, the case for zoopsychism"
+      }
+    ]
+  }
+}

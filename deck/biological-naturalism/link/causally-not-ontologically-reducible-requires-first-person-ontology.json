@@ -1,0 +1,28 @@
+{
+  "record": "link",
+  "id": "885defa1-6bd7-444d-a00b-6546420e7242",
+  "from": "91f8ac5a-ed99-4a09-a83e-ec4a0064bca0",
+  "to": "97a7c164-cf06-4848-bfe1-11e26c5fd2f1",
+  "relation": "requires",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "84635412-d16a-47b1-aa11-8117ccf56706",
+        "locator": "p. 3, quoting Searle (2007)",
+        "quote": "I said that consciousness was causally reducible, but not ontologically reducible, to neuronal processes."
+      }
+    ]
+  }
+}

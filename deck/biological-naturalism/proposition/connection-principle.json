@@ -1,0 +1,45 @@
+{
+  "record": "proposition",
+  "id": "ca146773-60a4-418e-8582-86079a53f3fb",
+  "kind": "philosophical",
+  "epistemic_status": "hypothesized",
+  "title": "The connection principle",
+  "statements": [
+    {
+      "id": "f3ec98c0-b57e-4c95-b014-9ea1af7e21a7",
+      "text": "All unconscious intentional states are in principle accessible to consciousness. A brain state that could never be brought to consciousness has at most as-if intentionality, a metaphor, not real mental content.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "f3ec98c0-b57e-4c95-b014-9ea1af7e21a7",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "2ecbb8c6-73e4-4343-8291-df1f5ac4d140",
+        "locator": "p. 199, quoting The Rediscovery of the Mind, p. 156",
+        "quote": "all unconscious intentional states are in principle accessible to consciousness"
+      }
+    ]
+  }
+}

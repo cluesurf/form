@@ -1,0 +1,28 @@
+{
+  "record": "link",
+  "id": "cee0d1be-8794-4a75-bb8c-e3bfb67b670d",
+  "from": "1d4f5e08-5c73-495a-bf1a-0dbd95b6bce9",
+  "to": "6803d4f2-383e-4399-b03f-72216e7fc81c",
+  "relation": "requires",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "6021411b-3296-4ed8-bddc-b15213e835f2",
+        "locator": "draft p. 13",
+        "quote": "it rests on an ambiguity in the notion of"
+      }
+    ]
+  }
+}

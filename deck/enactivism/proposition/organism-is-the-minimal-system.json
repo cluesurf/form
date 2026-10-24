@@ -1,0 +1,45 @@
+{
+  "record": "proposition",
+  "id": "76fbe087-7f98-40a6-9ff8-11e0c267cc2a",
+  "kind": "empirical",
+  "epistemic_status": "hypothesized",
+  "title": "The minimal system for creature consciousness is an organism",
+  "statements": [
+    {
+      "id": "e4a89473-d5e9-4f34-aead-2ebf4bccacb8",
+      "text": "The enactive hypothesis is that the minimal biological realizing system for creature consciousness is not the brain or a neural subsystem but an organism, a self-sustaining system of dynamically entangled neuronal and extraneuronal subsystems.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "e4a89473-d5e9-4f34-aead-2ebf4bccacb8",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "3465de18-e4a6-46eb-96a9-1b1ff5a61c0c",
+        "locator": "p. 18",
+        "quote": "the minimal biological realizing system for creature consciousness is not the brain (or some neural subsystem) but an organism"
+      }
+    ]
+  }
+}

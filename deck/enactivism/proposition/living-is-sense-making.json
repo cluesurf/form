@@ -1,0 +1,50 @@
+{
+  "record": "proposition",
+  "id": "7f42a296-690a-4bfd-8443-0ff69c2311da",
+  "kind": "philosophical",
+  "epistemic_status": "hypothesized",
+  "title": "Living is sense-making",
+  "statements": [
+    {
+      "id": "bb40062a-024e-40c6-a80c-909aaa2b4ce6",
+      "text": "Living is not only a cognitive process but an emotive process of sense-making, of bringing signification and value into existence. Signification and valence do not exist beforehand in the world but are enacted by the living being, and sense-making in the minimal sense of viable sensorimotor conduct is cognition.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "bb40062a-024e-40c6-a80c-909aaa2b4ce6",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "342faff7-8c35-4e3a-b07b-eb656f5916f3",
+        "locator": "p. 386",
+        "quote": "Living isn’t simply a cognitive process; it’s also an emotive process of sense-making, of bringing signification and value into existence."
+      },
+      {
+        "source": "342faff7-8c35-4e3a-b07b-eb656f5916f3",
+        "locator": "p. 387",
+        "quote": "Sense-making is tantamount to cognition, in the minimal sense of viable sensorimotor conduct."
+      }
+    ]
+  }
+}

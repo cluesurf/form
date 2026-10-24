@@ -1,0 +1,45 @@
+{
+  "record": "proposition",
+  "id": "7c299b1c-7bd6-4bb0-85e3-662a61d417cf",
+  "kind": "philosophical",
+  "epistemic_status": "hypothesized",
+  "title": "Consciousness is a life-regulation process of the body",
+  "statements": [
+    {
+      "id": "3fc4063a-9637-4040-a820-02414df177bc",
+      "text": "Consciousness is a life-regulation process of the body interacting with its environment. Perception, action, emotion, imagination, memory and dreaming are modes of self-regulation that depend on the living body and not only the brain.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "3fc4063a-9637-4040-a820-02414df177bc",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "3465de18-e4a6-46eb-96a9-1b1ff5a61c0c",
+        "locator": "p. 2",
+        "quote": "consciousness is a liferegulation process of the body interacting with its environment"
+      }
+    ]
+  }
+}

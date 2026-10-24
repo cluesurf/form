@@ -1,0 +1,28 @@
+{
+  "record": "link",
+  "id": "673ea7a1-a7a9-43e0-acdd-5e049e32261a",
+  "from": "6b178e1c-214f-4801-bd1f-b0634de546b1",
+  "to": "ec71b181-8eb5-433b-a72e-17628adda7c5",
+  "relation": "weakens",
+  "strength": null,
+  "rationale": "A person who has memorized the whole system still understands nothing, so there is no larger system left to understand.",
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "6021411b-3296-4ed8-bddc-b15213e835f2",
+        "locator": "draft p. 5",
+        "quote": "let the individual internalize all of these elements of the system"
+      }
+    ]
+  }
+}

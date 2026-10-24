@@ -1,0 +1,28 @@
+{
+  "record": "link",
+  "id": "d0fb2a81-f624-42f1-83a6-c47296e718e8",
+  "from": "38c31123-c506-4273-990b-54fed0165604",
+  "to": "eee28d58-c699-4835-9a8e-cee574e04ae6",
+  "relation": "requires",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "cc943012-eaf9-4b49-8888-0ddd651bc667",
+        "locator": "p. 425",
+        "quote": "it allows consciousness to be a causally efficacious participant"
+      }
+    ]
+  }
+}

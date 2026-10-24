@@ -1,0 +1,50 @@
+{
+  "record": "proposition",
+  "id": "e6392a12-4855-42c2-ad45-37c61ba4a807",
+  "kind": "empirical",
+  "epistemic_status": "hypothesized",
+  "title": "Consciousness is best studied in large-scale synchrony patterns",
+  "statements": [
+    {
+      "id": "d551f14f-bff9-43c0-af66-8bf1aaebc6cf",
+      "text": "Cognitive acts need the transient integration of widely distributed brain areas, most plausibly by phase synchrony over multiple frequency bands. The neural basis of consciousness is best sought in large-scale dynamical brain signatures rather than in specific circuits or classes of neurons.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "d551f14f-bff9-43c0-af66-8bf1aaebc6cf",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "cc943012-eaf9-4b49-8888-0ddd651bc667",
+        "locator": "p. 418",
+        "quote": "The most plausible mechanism for large-scale integration is the formation of dynamic links mediated by synchrony over multiple frequency bands."
+      },
+      {
+        "source": "cc943012-eaf9-4b49-8888-0ddd651bc667",
+        "locator": "p. 419",
+        "quote": "the best opportunity for understanding the neural basis of consciousness is likely to be at the level of"
+      }
+    ]
+  }
+}

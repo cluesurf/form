@@ -1,0 +1,28 @@
+{
+  "record": "link",
+  "id": "f4ac614e-bf47-43aa-afc9-f93e202d54ec",
+  "from": "a5e87521-3e73-4f7c-ba7f-f0da691dff40",
+  "to": "c267e36e-5f08-431c-9664-810f429b5430",
+  "relation": "requires",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "6021411b-3296-4ed8-bddc-b15213e835f2",
+        "locator": "draft p. 3",
+        "quote": "and I can have any formal program you like, but I still understand nothing"
+      }
+    ]
+  }
+}

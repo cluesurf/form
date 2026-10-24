@@ -1,0 +1,33 @@
+{
+  "record": "link",
+  "id": "ea42e106-7ac4-4941-bc6e-450e31253696",
+  "from": "25168224-e9ad-4da0-bff9-d4bd330d285d",
+  "to": "341a8726-9d95-4086-a6bf-48f2fe2872db",
+  "relation": "requires",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "bc658235-3258-457e-84f6-db89bc9a7750",
+        "locator": "p. 6, quoting The Rediscovery of the Mind, pp. 92-93",
+        "quote": "Consciousness is, thus, a biological feature of certain organisms"
+      },
+      {
+        "source": "dfb5338a-7b9b-48da-a457-76586ae8351a",
+        "locator": "pp. 92-93",
+        "quote": null
+      }
+    ]
+  }
+}

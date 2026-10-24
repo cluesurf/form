@@ -1,0 +1,45 @@
+{
+  "record": "proposition",
+  "id": "7889d979-4571-46fe-8eb7-b989f17d3915",
+  "kind": "philosophical",
+  "epistemic_status": "inferred",
+  "title": "Dualism cannot give a coherent account of reality",
+  "statements": [
+    {
+      "id": "5d25af3d-ed54-4bab-a7da-595ebe4cc0a6",
+      "text": "Dualism postulates two distinct domains and then cannot explain how they relate: how brain processes in one domain cause consciousness in another, or how consciousness, if outside the physical world, could act in it. It ends in epiphenomenalism, which Searle calls absurd.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "5d25af3d-ed54-4bab-a7da-595ebe4cc0a6",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "84635412-d16a-47b1-aa11-8117ccf56706",
+        "locator": "p. 4, quoting Searle (2007)",
+        "quote": "The real objection to dualism is that we cannot give a coherent account of reality on dualist assumptions."
+      }
+    ]
+  }
+}

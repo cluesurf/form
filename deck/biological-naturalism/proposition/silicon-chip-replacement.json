@@ -1,0 +1,45 @@
+{
+  "record": "proposition",
+  "id": "db2bcc5c-b964-4cb4-9d09-97d335b5ad50",
+  "kind": "philosophical",
+  "epistemic_status": "hypothesized",
+  "title": "Gradual silicon replacement need not preserve consciousness",
+  "statements": [
+    {
+      "id": "5459b31e-4215-44f0-912f-513c790983d1",
+      "text": "If failing brain tissue were replaced piece by piece with silicon chips, one possibility is that mental life goes on unchanged. Another is that behavior stays the same while conscious experience shrinks to nothing, which would show that duplicating input and output functions does not duplicate the causal power to produce consciousness.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "5459b31e-4215-44f0-912f-513c790983d1",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "2ecbb8c6-73e4-4343-8291-df1f5ac4d140",
+        "locator": "p. 197, quoting The Rediscovery of the Mind, pp. 65-66",
+        "quote": "they try plugging silicon chips into your visual cortex"
+      }
+    ]
+  }
+}

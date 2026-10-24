@@ -1,0 +1,45 @@
+{
+  "record": "proposition",
+  "id": "e8088d5b-77fe-4968-85be-87761b8e97a7",
+  "kind": "philosophical",
+  "epistemic_status": "inferred",
+  "title": "Formal symbol manipulation has syntax but no semantics",
+  "statements": [
+    {
+      "id": "ab33cecd-d3d4-45e8-9e53-10584b43ed7f",
+      "text": "Formal symbol manipulations have no intentionality by themselves. They are not even symbol manipulations, since the symbols stand for nothing to the system: they have a syntax but no semantics.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "ab33cecd-d3d4-45e8-9e53-10584b43ed7f",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "6021411b-3296-4ed8-bddc-b15213e835f2",
+        "locator": "draft p. 11",
+        "quote": "In the linguistic jargon, they have only a syntax but no semantics."
+      }
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "record": "link",
+  "id": "49c4f83c-338c-467f-a363-64b2c04d387c",
+  "from": "16b37f05-9ade-4f23-bdc0-c2d335f3e739",
+  "to": "a5e87521-3e73-4f7c-ba7f-f0da691dff40",
+  "relation": "requires",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "6021411b-3296-4ed8-bddc-b15213e835f2",
+        "locator": "draft p. 13",
+        "quote": "The Turing test is typical of the tradition in being unashamedly behavioristic and operationalistic"
+      }
+    ]
+  }
+}

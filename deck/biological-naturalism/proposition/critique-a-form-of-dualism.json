@@ -1,0 +1,45 @@
+{
+  "record": "proposition",
+  "id": "74d51240-1370-4b48-b7c9-9ec9048a66d8",
+  "kind": "philosophical",
+  "epistemic_status": "inferred",
+  "title": "Critique: biological naturalism is a form of dualism",
+  "statements": [
+    {
+      "id": "c7200577-a05d-455c-9cc8-6e0ad2b60ef2",
+      "text": "A theory with two very different kinds of biological phenomena, one with subjective ontology and one with objective ontology, is a form of dualism, which Corcoran called biological dualism. It does not explain how nature came to divide into subjective and objective properties.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "c7200577-a05d-455c-9cc8-6e0ad2b60ef2",
+  "status": "active",
+  "voice": "critique",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "bc658235-3258-457e-84f6-db89bc9a7750",
+        "locator": "p. 9",
+        "quote": "a form of dualism, in that it involves two very distinct types of biological phenomena"
+      }
+    ]
+  }
+}

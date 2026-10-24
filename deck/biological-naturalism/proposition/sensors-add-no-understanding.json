@@ -1,0 +1,45 @@
+{
+  "record": "proposition",
+  "id": "2ce9f4d0-6fa1-4102-8847-0601457772b1",
+  "kind": "philosophical",
+  "epistemic_status": "inferred",
+  "title": "Reply: sensors and motors add no understanding",
+  "statements": [
+    {
+      "id": "12f16c9f-6e12-4889-9eb6-f6cd2b9eefb5",
+      "text": "The robot reply already concedes that cognition is not only symbol manipulation. Adding perceptual and motor links adds no understanding: the person in the room can receive symbols from the camera and send symbols to the motors with no idea of either.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "12f16c9f-6e12-4889-9eb6-f6cd2b9eefb5",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "6021411b-3296-4ed8-bddc-b15213e835f2",
+        "locator": "draft p. 7",
+        "quote": "adds nothing by way of understanding"
+      }
+    ]
+  }
+}

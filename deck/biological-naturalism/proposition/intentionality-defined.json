@@ -1,0 +1,45 @@
+{
+  "record": "proposition",
+  "id": "fdeb9c8c-ec28-4997-947c-fa8799a63362",
+  "kind": "definitional",
+  "epistemic_status": "designed",
+  "title": "Intentionality",
+  "statements": [
+    {
+      "id": "cb33361d-0763-4f51-85cf-d0ad4e97eaed",
+      "text": "Intentionality is the feature of certain mental states by which they are directed at or about objects and states of affairs in the world. Beliefs, desires and intentions are intentional, while undirected anxiety or depression is not.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "cb33361d-0763-4f51-85cf-d0ad4e97eaed",
+  "status": "active",
+  "voice": "framework",
+  "defines": "intentionality",
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "6021411b-3296-4ed8-bddc-b15213e835f2",
+        "locator": "note 3, draft p. 15",
+        "quote": "Intentionality is by definition that feature of certain mental states by which they are directed at or about objects and states of affairs in the world."
+      }
+    ]
+  }
+}

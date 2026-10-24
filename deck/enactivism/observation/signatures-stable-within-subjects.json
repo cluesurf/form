@@ -1,0 +1,39 @@
+{
+  "record": "observation",
+  "id": "9c143664-ac95-44f6-b9d2-64c06e0a9fc6",
+  "kind": "experimental_result",
+  "epistemic_status": "observed",
+  "description": "The topography, frequency and time course of synchrony patterns in the preparation period varied widely across subjects but stayed stable within each subject over several recording sessions on different days.",
+  "method": "instrument",
+  "status": "reported",
+  "source": "f2e9ad36-4a7c-4ca6-b2aa-d7b07106366e",
+  "procedure": null,
+  "variable": null,
+  "value": null,
+  "unit": null,
+  "uncertainty": null,
+  "sample_size": 4,
+  "replication_count": null,
+  "quality": null,
+  "limitations": "Pilot study of four subjects, described from the review by Lutz and Thompson.",
+  "conflicts_of_interest": null,
+  "observed_at": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "5c64ca55-36f7-4b7e-9ca5-1d8839a98b17",
+        "locator": "p. 46",
+        "quote": "they reflect distinct dynamical neural signatures that remained stable in individual subjects throughout several recording sessions over a number of days"
+      }
+    ]
+  }
+}

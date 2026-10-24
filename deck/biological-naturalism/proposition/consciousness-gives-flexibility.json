@@ -1,0 +1,45 @@
+{
+  "record": "proposition",
+  "id": "0ac7d8e1-102a-4de2-bc8a-6b20f8920dd0",
+  "kind": "empirical",
+  "epistemic_status": "hypothesized",
+  "title": "Consciousness gives greater flexibility, sensitivity and creativity",
+  "statements": [
+    {
+      "id": "b165463f-83c1-4cd5-8227-8a38b6e3bc3d",
+      "text": "Consciousness organizes relations between an organism, its environment and its own states, and one of its evolutionary advantages is the greater flexibility, sensitivity and creativity that being conscious gives.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "b165463f-83c1-4cd5-8227-8a38b6e3bc3d",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "2ecbb8c6-73e4-4343-8291-df1f5ac4d140",
+        "locator": "p. 203, quoting The Rediscovery of the Mind, p. 109",
+        "quote": "one of the evolutionary advantages conferred on us by consciousness is the much greater flexibility, sensitivity, and creativity"
+      }
+    ]
+  }
+}

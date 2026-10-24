@@ -1,0 +1,28 @@
+{
+  "record": "link",
+  "id": "84067958-c1b9-4f92-a944-06267539cd77",
+  "from": "32515e3e-b1d1-486a-8bb5-e02456de82c2",
+  "to": "a94febfb-3554-4552-b791-953042a9aceb",
+  "relation": "supports",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "cc943012-eaf9-4b49-8888-0ddd651bc667",
+        "locator": "p. 418",
+        "quote": "traditional notions of representation and computation are inadequate"
+      }
+    ]
+  }
+}

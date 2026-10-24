@@ -1,0 +1,45 @@
+{
+  "record": "proposition",
+  "id": "a93ae577-3428-412c-93c8-fc4f52c741df",
+  "kind": "definitional",
+  "epistemic_status": "designed",
+  "title": "Emergent process",
+  "statements": [
+    {
+      "id": "0ac0a10a-0bb4-4ae6-ab47-0132180b8720",
+      "text": "A network of interacting components shows an emergent process when a global process arises from the nonlinear dynamics of local interactions and in turn has a global-to-local influence on those dynamics, and possibly is not fixed by the intrinsic properties of the components (relational holism).",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "0ac0a10a-0bb4-4ae6-ab47-0132180b8720",
+  "status": "active",
+  "voice": "framework",
+  "defines": "emergent process",
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "cc943012-eaf9-4b49-8888-0ddd651bc667",
+        "locator": "p. 420",
+        "quote": "exhibits an emergent process, E, with emergent properties, P, if and only if"
+      }
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "record": "link",
+  "id": "b4a23e23-7f36-4826-9ac8-d7c635499d9f",
+  "from": "a363ca11-174b-40ab-833c-a12bb2561492",
+  "to": "74e87691-55c5-45d4-bcbe-85fb62e5912d",
+  "relation": "answers",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "a16d6990-8b76-4ede-a57f-b794f8fd47fe",
+        "locator": "p. 26",
+        "quote": "The spatial containment language of internal/external or inside/outside"
+      }
+    ]
+  }
+}

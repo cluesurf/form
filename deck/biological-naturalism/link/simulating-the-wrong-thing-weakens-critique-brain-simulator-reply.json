@@ -1,0 +1,28 @@
+{
+  "record": "link",
+  "id": "8106cb64-f6f4-4e15-8b0f-8f388312d7ca",
+  "from": "ae1e9256-859d-47e0-887f-f14ac5d8b50e",
+  "to": "7a259f4d-fadc-4a8e-a29c-1a86668c70be",
+  "relation": "weakens",
+  "strength": null,
+  "rationale": "The water pipe version copies the firing pattern and understands nothing, so the pattern is not what matters.",
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "6021411b-3296-4ed8-bddc-b15213e835f2",
+        "locator": "draft p. 8",
+        "quote": "it won’t have simulated what matters about the brain, namely its causal properties"
+      }
+    ]
+  }
+}

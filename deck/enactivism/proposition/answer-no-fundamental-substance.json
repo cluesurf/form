@@ -1,0 +1,50 @@
+{
+  "record": "proposition",
+  "id": "58075a9b-104a-40ad-8509-1d172e9febfe",
+  "kind": "philosophical",
+  "epistemic_status": "inferred",
+  "title": "Answer: takes no position on a fundamental substance",
+  "statements": [
+    {
+      "id": "9336b040-c0cb-44b9-a681-055f697e4fb4",
+      "text": "Enactivism takes no position on what is fundamental in the sense of a basic substance. It rejects the opposition of mental and physical as part of the problem, and starts instead from living being, which biology and phenomenology both describe.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "9336b040-c0cb-44b9-a681-055f697e4fb4",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "5c64ca55-36f7-4b7e-9ca5-1d8839a98b17",
+        "locator": "p. 48",
+        "quote": "are considered to be part of the problem, not part of the solution"
+      },
+      {
+        "source": "342faff7-8c35-4e3a-b07b-eb656f5916f3",
+        "locator": "p. 384",
+        "quote": "Life or living being is precisely this kind of phenomenon."
+      }
+    ]
+  }
+}

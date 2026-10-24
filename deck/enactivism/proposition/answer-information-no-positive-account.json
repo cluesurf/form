@@ -1,0 +1,50 @@
+{
+  "record": "proposition",
+  "id": "2d900b5a-eabb-4448-af25-85f7532b5710",
+  "kind": "philosophical",
+  "epistemic_status": "inferred",
+  "title": "Answer: no positive account of information, and cognition is not information processing",
+  "statements": [
+    {
+      "id": "9335e9e9-2901-44e0-b3df-0f2c45752c1b",
+      "text": "Enactivism gives no positive account of information. It denies that cognition is affectless information processing and holds that sense-making is co-constituted by the world in ways that go far beyond the processing of information.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "9335e9e9-2901-44e0-b3df-0f2c45752c1b",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "f2cf72d5-420b-40e5-b83b-8c81daaca0b8",
+        "locator": "p. 33",
+        "quote": "in ways that go far beyond the processing of information"
+      },
+      {
+        "source": "a16d6990-8b76-4ede-a57f-b794f8fd47fe",
+        "locator": "p. 26",
+        "quote": "treated cognition as if it were largely affectless problem solving or information processing"
+      }
+    ]
+  }
+}

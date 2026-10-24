@@ -1,0 +1,45 @@
+{
+  "record": "proposition",
+  "id": "f99cb6d4-20fd-4092-b245-1894f87981d8",
+  "kind": "philosophical",
+  "epistemic_status": "inferred",
+  "title": "Critique: nothing could show whether a silicon brain is conscious",
+  "statements": [
+    {
+      "id": "168fdc91-ff59-4240-9392-856ebf06e21e",
+      "text": "Dennett notes that the silicon chip case has another reading: a new consciousness takes over the body. Whether the chips duplicate the power to produce consciousness cannot be settled by neurophysiology or from the first person, so Searle leaves no way to investigate it.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "168fdc91-ff59-4240-9392-856ebf06e21e",
+  "status": "active",
+  "voice": "critique",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "2ecbb8c6-73e4-4343-8291-df1f5ac4d140",
+        "locator": "p. 198",
+        "quote": "Searle has left us no resources at all with which to investigate it"
+      }
+    ]
+  }
+}

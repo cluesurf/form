@@ -1,0 +1,33 @@
+{
+  "record": "link",
+  "id": "3f36e216-6bbc-4ad5-a5d4-48517c81020a",
+  "from": "1ef3ee3c-6a1d-4882-89f5-613080aa7e26",
+  "to": "9d070907-53ba-42a3-b1c9-ca1df520c13d",
+  "relation": "requires",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "6021411b-3296-4ed8-bddc-b15213e835f2",
+        "locator": "draft p. 14",
+        "quote": "Whatever else intentionality is, it is a biological phenomenon"
+      },
+      {
+        "source": "6021411b-3296-4ed8-bddc-b15213e835f2",
+        "locator": "draft p. 12",
+        "quote": "mental states and events are literally a product of the operation of the brain"
+      }
+    ]
+  }
+}

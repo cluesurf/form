@@ -1,0 +1,50 @@
+{
+  "record": "proposition",
+  "id": "84a9f899-859e-4d34-ae5a-f538acd72b04",
+  "kind": "definitional",
+  "epistemic_status": "designed",
+  "title": "Enaction",
+  "statements": [
+    {
+      "id": "cf2cb455-8457-4cd0-b97a-13380976e95c",
+      "text": "Enaction is the view that cognition is grounded in the sense-making activity of autonomous agents, beings that generate and sustain themselves and thereby enact, or bring forth, their own domains of meaning and value.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "cf2cb455-8457-4cd0-b97a-13380976e95c",
+  "status": "active",
+  "voice": "framework",
+  "defines": "enaction",
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "a16d6990-8b76-4ede-a57f-b794f8fd47fe",
+        "locator": "p. 23",
+        "quote": "cognition is grounded on the sense-making activity of autonomous agents"
+      },
+      {
+        "source": "4db2a9ea-aac1-426a-8434-8a5969be8633",
+        "locator": "whole work",
+        "quote": null
+      }
+    ]
+  }
+}

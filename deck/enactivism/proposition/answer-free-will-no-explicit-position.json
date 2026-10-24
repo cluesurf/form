@@ -1,0 +1,45 @@
+{
+  "record": "proposition",
+  "id": "38c31123-c506-4273-990b-54fed0165604",
+  "kind": "philosophical",
+  "epistemic_status": "hypothesized",
+  "title": "Answer: no explicit position on free will, but consciousness is causally efficacious",
+  "statements": [
+    {
+      "id": "69ca95b6-c18c-4445-85f4-28fdcb60810e",
+      "text": "The sources take no explicit position on free will. They hold that autonomous systems are self-determining rather than externally controlled, and that consciousness, by reciprocal causation, is a causally efficacious participant in the agent’s life.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "69ca95b6-c18c-4445-85f4-28fdcb60810e",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "cc943012-eaf9-4b49-8888-0ddd651bc667",
+        "locator": "p. 425",
+        "quote": "it allows consciousness to be a causally efficacious participant"
+      }
+    ]
+  }
+}

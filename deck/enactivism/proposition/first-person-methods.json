@@ -1,0 +1,50 @@
+{
+  "record": "proposition",
+  "id": "ce962556-be5b-4154-b7b6-54bb72b0e35b",
+  "kind": "definitional",
+  "epistemic_status": "designed",
+  "title": "First-person methods",
+  "statements": [
+    {
+      "id": "3e86e32e-a2e2-4f51-b24e-ed9746291133",
+      "text": "First-person methods are disciplined practices, found in phenomenology, psychotherapy and contemplative traditions, by which subjects train attention and emotional self-regulation to increase their sensitivity to their own experience. The phenomenological epoché, with its phases of suspension, redirection and receptivity, is the model.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "3e86e32e-a2e2-4f51-b24e-ed9746291133",
+  "status": "active",
+  "voice": "framework",
+  "defines": "first-person methods",
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "5c64ca55-36f7-4b7e-9ca5-1d8839a98b17",
+        "locator": "p. 33",
+        "quote": "are disciplined practices subjects can use to increase their sensitivity to their own experiences at various time-scales"
+      },
+      {
+        "source": "5c64ca55-36f7-4b7e-9ca5-1d8839a98b17",
+        "locator": "p. 37",
+        "quote": "The epoché has three intertwining phases that form a dynamic cycle"
+      }
+    ]
+  }
+}

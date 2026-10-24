@@ -1,0 +1,28 @@
+{
+  "record": "link",
+  "id": "b6ac23d2-9250-443f-9831-d677913bb807",
+  "from": "97a7c164-cf06-4848-bfe1-11e26c5fd2f1",
+  "to": "91f8ac5a-ed99-4a09-a83e-ec4a0064bca0",
+  "relation": "defines",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "2ecbb8c6-73e4-4343-8291-df1f5ac4d140",
+        "locator": "p. 195, quoting The Rediscovery of the Mind, p. 20",
+        "quote": "it follows that the ontology of the mental is essentially a first-person ontology"
+      }
+    ]
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "record": "proposition",
+  "id": "41c51992-ff98-46d6-a234-f042dd9c1c0a",
+  "kind": "philosophical",
+  "epistemic_status": "hypothesized",
+  "title": "Sense-making is emotion as much as cognition",
+  "statements": [
+    {
+      "id": "cc97bd04-7545-43b3-924f-9f3f135f9ad0",
+      "text": "What has salience and value for a system also has valence, attraction or repulsion, and such action tendencies are the basis of emotion. Cognition and emotion are integrated at biological, psychological and phenomenological levels rather than being separate systems.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "cc97bd04-7545-43b3-924f-9f3f135f9ad0",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "a16d6990-8b76-4ede-a57f-b794f8fd47fe",
+        "locator": "p. 26",
+        "quote": "Sense-making comprises emotion as much as cognition."
+      }
+    ]
+  }
+}

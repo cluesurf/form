@@ -1,0 +1,45 @@
+{
+  "record": "proposition",
+  "id": "c267e36e-5f08-431c-9664-810f429b5430",
+  "kind": "philosophical",
+  "epistemic_status": "designed",
+  "title": "The Chinese room thought experiment",
+  "statements": [
+    {
+      "id": "1b05e98d-c4d2-49ec-8de8-04159761c736",
+      "text": "A person who knows no Chinese is locked in a room with batches of Chinese symbols and rules in English for matching them by shape. The outsiders call the batches a script, a story and questions, the person’s output answers, and the rules the program. With practice the answers become indistinguishable from those of native speakers.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "1b05e98d-c4d2-49ec-8de8-04159761c736",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "6021411b-3296-4ed8-bddc-b15213e835f2",
+        "locator": "draft p. 3",
+        "quote": "Suppose that I'm locked in a room and given a large batch of Chinese writing."
+      }
+    ]
+  }
+}

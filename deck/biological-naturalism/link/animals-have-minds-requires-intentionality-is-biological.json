@@ -1,0 +1,28 @@
+{
+  "record": "link",
+  "id": "b610809e-c25b-44fc-9fe1-4939036f502d",
+  "from": "9680df0b-4163-4bcd-97aa-b990e99e7a5e",
+  "to": "1ef3ee3c-6a1d-4882-89f5-613080aa7e26",
+  "relation": "requires",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "6021411b-3296-4ed8-bddc-b15213e835f2",
+        "locator": "draft p. 9",
+        "quote": "we find it completely natural to ascribe intentionality to members of certain other primate species such as apes and monkeys and to domestic animals such as dogs"
+      }
+    ]
+  }
+}

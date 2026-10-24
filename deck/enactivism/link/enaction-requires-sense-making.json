@@ -1,0 +1,33 @@
+{
+  "record": "link",
+  "id": "7f52867f-0e43-4fa6-a238-625178c0f98f",
+  "from": "84a9f899-859e-4d34-ae5a-f538acd72b04",
+  "to": "ae5ba3d8-c258-499f-a4ad-1c86609ef017",
+  "relation": "requires",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "a16d6990-8b76-4ede-a57f-b794f8fd47fe",
+        "locator": "p. 23",
+        "quote": "cognition is grounded on the sense-making activity of autonomous agents"
+      },
+      {
+        "source": "4db2a9ea-aac1-426a-8434-8a5969be8633",
+        "locator": "whole work",
+        "quote": null
+      }
+    ]
+  }
+}

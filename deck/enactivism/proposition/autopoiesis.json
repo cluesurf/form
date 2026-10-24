@@ -1,0 +1,55 @@
+{
+  "record": "proposition",
+  "id": "2d7b8026-c1d2-4fbc-b80b-82dda5ab0734",
+  "kind": "definitional",
+  "epistemic_status": "designed",
+  "title": "Autopoiesis",
+  "statements": [
+    {
+      "id": "45387d33-9f00-4a19-89e9-14feb328e40e",
+      "text": "Autopoiesis is self-production at the molecular level: a boundary containing a molecular reaction network that produces and regenerates both itself and the boundary. The living cell is its paradigm.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "45387d33-9f00-4a19-89e9-14feb328e40e",
+  "status": "active",
+  "voice": "framework",
+  "defines": "autopoiesis",
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "342faff7-8c35-4e3a-b07b-eb656f5916f3",
+        "locator": "pp. 386-387",
+        "quote": "the three criteria of autopoiesis"
+      },
+      {
+        "source": "a16d6990-8b76-4ede-a57f-b794f8fd47fe",
+        "locator": "p. 24",
+        "quote": "This kind of self-producing autonomy at the molecular level is known as autopoiesis"
+      },
+      {
+        "source": "0cdc5e3b-1962-4b37-8f9a-7a6e98fc8370",
+        "locator": "whole work",
+        "quote": null
+      }
+    ]
+  }
+}

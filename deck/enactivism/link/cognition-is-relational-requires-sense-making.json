@@ -1,0 +1,33 @@
+{
+  "record": "link",
+  "id": "374a874d-49f2-45e2-9c0c-b68c3fe0459f",
+  "from": "43cf4971-d52f-4fad-aabd-1835eeb278f7",
+  "to": "ae5ba3d8-c258-499f-a4ad-1c86609ef017",
+  "relation": "requires",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "a16d6990-8b76-4ede-a57f-b794f8fd47fe",
+        "locator": "p. 26",
+        "quote": "Cognition is not an event happening inside the system; it is the relational process of sense-making that takes place between the system and its environment."
+      },
+      {
+        "source": "a16d6990-8b76-4ede-a57f-b794f8fd47fe",
+        "locator": "p. 26",
+        "quote": "neurons do not think and feel; people and animals do"
+      }
+    ]
+  }
+}

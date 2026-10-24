@@ -1,0 +1,50 @@
+{
+  "record": "proposition",
+  "id": "40516fe4-e9d9-4dd0-beca-8aaa6d85417b",
+  "kind": "philosophical",
+  "epistemic_status": "inferred",
+  "title": "Answer: takes no position on intelligence, only on cognition",
+  "statements": [
+    {
+      "id": "919a184f-1ad5-4624-8982-728959524939",
+      "text": "The sources give no account of intelligence. Cognition in its minimal sense is sense-making, viable sensorimotor conduct, and high-level problem solving presupposes this broader emotive cognition.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "919a184f-1ad5-4624-8982-728959524939",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "342faff7-8c35-4e3a-b07b-eb656f5916f3",
+        "locator": "p. 387",
+        "quote": "Sense-making is tantamount to cognition, in the minimal sense of viable sensorimotor conduct."
+      },
+      {
+        "source": "a16d6990-8b76-4ede-a57f-b794f8fd47fe",
+        "locator": "p. 26",
+        "quote": "this kind of narrow cognition presupposes the broader emotive cognition of sense-making"
+      }
+    ]
+  }
+}

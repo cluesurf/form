@@ -1,0 +1,33 @@
+{
+  "record": "link",
+  "id": "51b4f549-9b9c-456f-afbe-6f6fcf711907",
+  "from": "a94febfb-3554-4552-b791-953042a9aceb",
+  "to": "41c51992-ff98-46d6-a234-f042dd9c1c0a",
+  "relation": "requires",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "a16d6990-8b76-4ede-a57f-b794f8fd47fe",
+        "locator": "p. 26",
+        "quote": "To describe cognition as embodied action (Varela et al. 1991) implies that cognition comprises motivated action tendencies"
+      },
+      {
+        "source": "4db2a9ea-aac1-426a-8434-8a5969be8633",
+        "locator": "whole work",
+        "quote": null
+      }
+    ]
+  }
+}

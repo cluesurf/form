@@ -1,0 +1,28 @@
+{
+  "record": "link",
+  "id": "ee1ac871-4c71-459a-afe6-921ee900acfe",
+  "from": "c351258a-b76d-415d-a34b-cfdfe4a56ca8",
+  "to": "a93ae577-3428-412c-93c8-fc4f52c741df",
+  "relation": "requires",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "cc943012-eaf9-4b49-8888-0ddd651bc667",
+        "locator": "p. 420",
+        "quote": "the property of being alive as such does not emerge, but is instantiated in the emergent process of autopoiesis that constitutes living cells"
+      }
+    ]
+  }
+}

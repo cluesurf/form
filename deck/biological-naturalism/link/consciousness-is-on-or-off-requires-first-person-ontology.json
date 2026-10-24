@@ -1,0 +1,28 @@
+{
+  "record": "link",
+  "id": "cd4e859b-a679-4d9f-9984-22f75ba4a2a3",
+  "from": "95555e1a-e132-40f7-adc9-cfdb111cc2e2",
+  "to": "97a7c164-cf06-4848-bfe1-11e26c5fd2f1",
+  "relation": "requires",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "2ecbb8c6-73e4-4343-8291-df1f5ac4d140",
+        "locator": "p. 200, quoting The Rediscovery of the Mind, p. 83",
+        "quote": "a system is either conscious or not"
+      }
+    ]
+  }
+}

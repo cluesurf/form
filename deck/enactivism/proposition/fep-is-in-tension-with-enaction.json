@@ -1,0 +1,55 @@
+{
+  "record": "proposition",
+  "id": "b9fe83cf-85e3-48ed-becd-2e3237595167",
+  "kind": "philosophical",
+  "epistemic_status": "inferred",
+  "title": "The free energy principle is in tension with enaction",
+  "statements": [
+    {
+      "id": "cb56111c-068d-4095-8bfb-be475ba98a34",
+      "text": "Claims that the free energy principle and enaction are natural partners rest on misreadings, such as confusing a system’s organization with its structure and conflating self-distinction in operationally closed systems with Markov blankets. The principle’s assumption of a time-invariant non-equilibrium steady state contradicts the historicity of sense-making.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "cb56111c-068d-4095-8bfb-be475ba98a34",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "f2cf72d5-420b-40e5-b83b-8c81daaca0b8",
+        "locator": "p. 1",
+        "quote": "the conflation of processes of self-distinction in operationally closed systems and Markov blankets"
+      },
+      {
+        "source": "f2cf72d5-420b-40e5-b83b-8c81daaca0b8",
+        "locator": "p. 1",
+        "quote": "We argue that these assumptions contradict the historicity of sense-making that is explicit in the enactive approach."
+      },
+      {
+        "source": "f2cf72d5-420b-40e5-b83b-8c81daaca0b8",
+        "locator": "p. 1",
+        "quote": "is in tension with the theories of autopoiesis and enaction"
+      }
+    ]
+  }
+}

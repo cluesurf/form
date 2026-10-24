@@ -1,0 +1,33 @@
+{
+  "record": "link",
+  "id": "d6df04c9-67b5-44c0-a1ff-af6df9c9031c",
+  "from": "6803d4f2-383e-4399-b03f-72216e7fc81c",
+  "to": "e8088d5b-77fe-4968-85be-87761b8e97a7",
+  "relation": "requires",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "6021411b-3296-4ed8-bddc-b15213e835f2",
+        "locator": "draft p. 6",
+        "quote": "The information in the Chinese case is solely in the eyes of the programmers and the interpreters"
+      },
+      {
+        "source": "6021411b-3296-4ed8-bddc-b15213e835f2",
+        "locator": "draft p. 14",
+        "quote": "Since everything is a digital computer, brains are too."
+      }
+    ]
+  }
+}

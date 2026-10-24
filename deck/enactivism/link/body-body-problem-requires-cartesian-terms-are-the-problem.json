@@ -1,0 +1,33 @@
+{
+  "record": "link",
+  "id": "3ba1a7a7-c966-40ef-826c-ff8b464c04b0",
+  "from": "c58122e4-04fc-49dc-bfe3-198c6df62ab7",
+  "to": "d809cf91-cea1-43d5-b6a1-acab9f9a1106",
+  "relation": "requires",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "342faff7-8c35-4e3a-b07b-eb656f5916f3",
+        "locator": "p. 385",
+        "quote": "It’s tempting to call this problem the body–body problem."
+      },
+      {
+        "source": "342faff7-8c35-4e3a-b07b-eb656f5916f3",
+        "locator": "p. 385",
+        "quote": "this gap is no longer absolute, because in order to state it we need to make common reference on both sides to life or living being"
+      }
+    ]
+  }
+}

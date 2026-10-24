@@ -1,0 +1,33 @@
+{
+  "record": "link",
+  "id": "5546f7f6-f71e-46bb-8bf3-610f7b1178b7",
+  "from": "58075a9b-104a-40ad-8509-1d172e9febfe",
+  "to": "d809cf91-cea1-43d5-b6a1-acab9f9a1106",
+  "relation": "requires",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "5c64ca55-36f7-4b7e-9ca5-1d8839a98b17",
+        "locator": "p. 48",
+        "quote": "are considered to be part of the problem, not part of the solution"
+      },
+      {
+        "source": "342faff7-8c35-4e3a-b07b-eb656f5916f3",
+        "locator": "p. 384",
+        "quote": "Life or living being is precisely this kind of phenomenon."
+      }
+    ]
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "record": "proposition",
+  "id": "47e610e7-8257-406b-8307-ea5ea1f87f00",
+  "kind": "philosophical",
+  "epistemic_status": "inferred",
+  "title": "Both materialism and dualism are false",
+  "statements": [
+    {
+      "id": "bc59470a-5e54-4abb-8f53-5f56b64cdea9",
+      "text": "Reductionist and eliminativist materialism have been shown weak, and the recent return of dualism is a mistake as well. Both materialism and dualism are false.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "bc59470a-5e54-4abb-8f53-5f56b64cdea9",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "84635412-d16a-47b1-aa11-8117ccf56706",
+        "locator": "p. 2, quoting Searle (2007)",
+        "quote": "Both materialism and dualism are false"
+      }
+    ]
+  }
+}

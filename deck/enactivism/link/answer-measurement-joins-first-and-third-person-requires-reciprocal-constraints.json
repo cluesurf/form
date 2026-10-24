@@ -1,0 +1,28 @@
+{
+  "record": "link",
+  "id": "c777f0c1-d028-41d7-9359-0d95d2911792",
+  "from": "21258852-ecdd-4d04-affb-8ca8c210ad91",
+  "to": "233bb537-bb60-41d9-a488-74fde2c02bb2",
+  "relation": "requires",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "5c64ca55-36f7-4b7e-9ca5-1d8839a98b17",
+        "locator": "p. 42",
+        "quote": "Such joint collection and analysis of first-person and third-person data"
+      }
+    ]
+  }
+}

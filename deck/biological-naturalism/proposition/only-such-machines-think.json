@@ -1,0 +1,50 @@
+{
+  "record": "proposition",
+  "id": "51bad06c-67c8-4249-b493-e3be0ff4861b",
+  "kind": "philosophical",
+  "epistemic_status": "inferred",
+  "title": "Only machines with the causal powers of brains can think",
+  "statements": [
+    {
+      "id": "28ae7cc4-e729-4dbe-a897-046143be0f32",
+      "text": "A machine can think, since people are such machines, and an artifact with a nervous system like ours could think too. What cannot think in virtue of its program alone is a computer: only brains and machines with the same causal powers as brains can think.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "28ae7cc4-e729-4dbe-a897-046143be0f32",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "6021411b-3296-4ed8-bddc-b15213e835f2",
+        "locator": "draft p. 11",
+        "quote": "The answer is, obviously, yes. We are precisely such machines."
+      },
+      {
+        "source": "6021411b-3296-4ed8-bddc-b15213e835f2",
+        "locator": "draft p. 14",
+        "quote": "namely brains and machines that had the same causal powers as brains"
+      }
+    ]
+  }
+}

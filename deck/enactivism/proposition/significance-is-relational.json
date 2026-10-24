@@ -1,0 +1,45 @@
+{
+  "record": "proposition",
+  "id": "305266e1-bfd0-4e10-8445-17fee73926fc",
+  "kind": "philosophical",
+  "epistemic_status": "hypothesized",
+  "title": "Sugar is food only relative to the bacterium",
+  "statements": [
+    {
+      "id": "0f958b1e-6f0d-49dd-a350-69424950d11b",
+      "text": "A motile bacterium swims up a sugar gradient because what it senses depends on how it moves and how it moves depends on what it senses. Sucrose is a real physicochemical condition, but its status as food is not intrinsic to the molecule. It is a relational feature tied to the bacterium’s metabolism, so the organism’s niche has a surplus of significance over the physicochemical environment.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "0f958b1e-6f0d-49dd-a350-69424950d11b",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "342faff7-8c35-4e3a-b07b-eb656f5916f3",
+        "locator": "p. 386",
+        "quote": "That sucrose is a nutrient isn’t intrinsic to the structure of the sucrose molecule; it’s a relational feature, linked to the bacterium’s metabolism."
+      }
+    ]
+  }
+}

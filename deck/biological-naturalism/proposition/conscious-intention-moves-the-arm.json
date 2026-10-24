@@ -1,0 +1,45 @@
+{
+  "record": "proposition",
+  "id": "fd240def-95fe-474d-9c5c-4cd808a6bda8",
+  "kind": "philosophical",
+  "epistemic_status": "inferred",
+  "title": "Conscious intentions cause bodily movements",
+  "statements": [
+    {
+      "id": "e2fb8d5a-57e4-4123-830d-66a4bb77e13d",
+      "text": "Consciousness is causally efficacious. When a person decides to raise an arm and the arm goes up, the conscious intention causes it to go up, and an account of mind that cannot say so has failed.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "e2fb8d5a-57e4-4123-830d-66a4bb77e13d",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "84635412-d16a-47b1-aa11-8117ccf56706",
+        "locator": "p. 4, quoting Searle (2007)",
+        "quote": "There isn’t any doubt that my conscious intention causes my arm to go up."
+      }
+    ]
+  }
+}

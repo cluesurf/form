@@ -1,0 +1,45 @@
+{
+  "record": "proposition",
+  "id": "a745b757-fa8a-4fc5-ae5c-c077c11328df",
+  "kind": "philosophical",
+  "epistemic_status": "inferred",
+  "title": "Mind is caused by and realized in the brain, as liquidity is in water",
+  "statements": [
+    {
+      "id": "54533b53-01cb-43ad-ae25-facfa6e02b54",
+      "text": "Mental states can be both caused by the brain and realized in it. The relation between molecular behavior and the liquidity of water is causal, yet liquidity is not something extra secreted by the molecules. It is those same molecules described at a higher level.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "54533b53-01cb-43ad-ae25-facfa6e02b54",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "bc658235-3258-457e-84f6-db89bc9a7750",
+        "locator": "p. 4, quoting Intentionality (1983), pp. 265-266",
+        "quote": "The liquidity of a bucket of water is not some extra juice secreted by the H2O molecules."
+      }
+    ]
+  }
+}

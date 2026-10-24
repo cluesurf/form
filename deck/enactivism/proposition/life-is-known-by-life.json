@@ -1,0 +1,45 @@
+{
+  "record": "proposition",
+  "id": "1b412c8e-6e3c-4d54-bd34-da98dc511721",
+  "kind": "philosophical",
+  "epistemic_status": "hypothesized",
+  "title": "Life can be known only by life",
+  "statements": [
+    {
+      "id": "88214d43-6add-4b3a-b632-e58c1b10c58e",
+      "text": "The concepts of organism and autopoiesis draw their meaning from first-person experience of one’s own living body and are not derivable from an observer-independent physical description, so they are available only to an embodied mind.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "88214d43-6add-4b3a-b632-e58c1b10c58e",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "342faff7-8c35-4e3a-b07b-eb656f5916f3",
+        "locator": "p. 393",
+        "quote": "such concepts are available only to an embodied mind with first-hand experience of its own living body"
+      }
+    ]
+  }
+}

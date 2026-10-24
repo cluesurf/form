@@ -1,0 +1,28 @@
+{
+  "record": "link",
+  "id": "61e5f377-70a4-4103-ba63-ccac67fd31c3",
+  "from": "e2bbd085-be83-416a-909d-d630b3596694",
+  "to": "1742bbfe-92c2-4298-aa13-2df7e20acb32",
+  "relation": "answers",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "84635412-d16a-47b1-aa11-8117ccf56706",
+        "locator": "p. 2, quoting Searle (2007)",
+        "quote": "All conscious states, without exception, are caused by neurobiological processes in the brain."
+      }
+    ]
+  }
+}

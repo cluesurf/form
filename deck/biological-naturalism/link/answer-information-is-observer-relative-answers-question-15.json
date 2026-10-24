@@ -1,0 +1,28 @@
+{
+  "record": "link",
+  "id": "a26f1195-98d9-4815-a1de-fad1f562144f",
+  "from": "b0151659-0b0a-441d-b84b-a9878896b1a3",
+  "to": "af2bc4e4-a1a9-4f67-860c-1460f09cd55c",
+  "relation": "answers",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "6021411b-3296-4ed8-bddc-b15213e835f2",
+        "locator": "draft p. 6",
+        "quote": "The information in the Chinese case is solely in the eyes of the programmers and the interpreters"
+      }
+    ]
+  }
+}

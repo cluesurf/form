@@ -1,0 +1,33 @@
+{
+  "record": "link",
+  "id": "12a8164a-63cc-4076-a229-cdd978514f76",
+  "from": "b86c40e5-77f6-47a0-b27c-2c4874ec9628",
+  "to": "bbd2ccc1-aa15-4908-ac5d-eea022640df5",
+  "relation": "weakens",
+  "strength": null,
+  "rationale": "If a closed loop has no direction of its own, closure cannot be the source of the organism’s purposes.",
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "7785e5eb-0cdc-4012-b2d3-586e40bd13bf",
+        "locator": "p. 21",
+        "quote": "cannot be legitimated by appeal to organisational closure"
+      },
+      {
+        "source": "7785e5eb-0cdc-4012-b2d3-586e40bd13bf",
+        "locator": "p. 21",
+        "quote": "the structural dynamic of a living system is like a circle, rather than like an arrow"
+      }
+    ]
+  }
+}

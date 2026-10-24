@@ -1,0 +1,28 @@
+{
+  "record": "link",
+  "id": "365bd8a2-5d61-4f9e-b150-411f467e80e5",
+  "from": "e7db84f8-7d24-4d4b-8175-63de5af9b817",
+  "to": "3c1c5e6b-2943-4810-baf8-d48f72c4e148",
+  "relation": "answers",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "6021411b-3296-4ed8-bddc-b15213e835f2",
+        "locator": "abstract, draft p. 1",
+        "quote": "This article can be viewed as an attempt to explore the consequences of two propositions."
+      }
+    ]
+  }
+}

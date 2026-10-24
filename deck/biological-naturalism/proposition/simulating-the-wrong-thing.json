@@ -1,0 +1,45 @@
+{
+  "record": "proposition",
+  "id": "ae1e9256-859d-47e0-887f-f14ac5d8b50e",
+  "kind": "philosophical",
+  "epistemic_status": "inferred",
+  "title": "Reply: a brain simulator copies form, not causal powers",
+  "statements": [
+    {
+      "id": "53bde3ee-2014-4f87-a494-31ec7dc38d3a",
+      "text": "A person working water pipes and valves in the pattern of a Chinese brain’s synapses still understands nothing. Simulating the formal structure of neuron firings leaves out what matters about the brain, its causal power to produce intentional states.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "53bde3ee-2014-4f87-a494-31ec7dc38d3a",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "6021411b-3296-4ed8-bddc-b15213e835f2",
+        "locator": "draft p. 8",
+        "quote": "it won’t have simulated what matters about the brain, namely its causal properties"
+      }
+    ]
+  }
+}

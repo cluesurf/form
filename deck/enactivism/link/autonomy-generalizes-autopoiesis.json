@@ -1,0 +1,33 @@
+{
+  "record": "link",
+  "id": "b94f3e3a-2e6b-41e1-b2e5-ededb8ffdc01",
+  "from": "39cb8eeb-5f22-497f-a607-d75a0b464851",
+  "to": "2d7b8026-c1d2-4fbc-b80b-82dda5ab0734",
+  "relation": "generalizes",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "a16d6990-8b76-4ede-a57f-b794f8fd47fe",
+        "locator": "p. 24",
+        "quote": "an autonomous system is a thermodynamically open system with operational closure that actively generates and sustains its identity under precarious conditions"
+      },
+      {
+        "source": "a16d6990-8b76-4ede-a57f-b794f8fd47fe",
+        "locator": "p. 24",
+        "quote": "recursively depend on each other for their generation and their realization as a network"
+      }
+    ]
+  }
+}

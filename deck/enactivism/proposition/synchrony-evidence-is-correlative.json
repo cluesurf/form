@@ -1,0 +1,45 @@
+{
+  "record": "proposition",
+  "id": "483d1b79-6811-4ab8-8da9-367d6c917dfa",
+  "kind": "empirical",
+  "epistemic_status": "observed",
+  "title": "The evidence for synchrony is only correlative so far",
+  "statements": [
+    {
+      "id": "6ef79b79-a746-4ab7-b1d7-fb00d00c8205",
+      "text": "The evidence on synchronization in the vertebrate brain is correlative, not causal: there is not yet direct proof that changes in synchrony lead to changes in behavior or consciousness.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "6ef79b79-a746-4ab7-b1d7-fb00d00c8205",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "cc943012-eaf9-4b49-8888-0ddd651bc667",
+        "locator": "p. 419",
+        "quote": "the available evidence so far regarding synchronization in the vertebrate brain is only correlative, not causal"
+      }
+    ]
+  }
+}

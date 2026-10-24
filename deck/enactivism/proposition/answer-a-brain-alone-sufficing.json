@@ -1,0 +1,50 @@
+{
+  "record": "proposition",
+  "id": "0316f5e7-597a-4477-ac03-8c575f9d65dd",
+  "kind": "empirical",
+  "epistemic_status": "hypothesized",
+  "title": "Answer: a brain alone sufficing, or no causal role for synchrony",
+  "statements": [
+    {
+      "id": "f4e98c93-425f-4870-8b7f-89d1289a80b3",
+      "text": "The view would be undermined if a minimal neural system, apart from a self-sustaining body, sufficed for creature consciousness, which is the hypothesis that must be rejected to prefer the brainbound view, or if large-scale synchrony and its downward effects proved to have no causal role.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "f4e98c93-425f-4870-8b7f-89d1289a80b3",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "3465de18-e4a6-46eb-96a9-1b1ff5a61c0c",
+        "locator": "p. 19",
+        "quote": "hypothesis is the one that needs to be rejected in order to reject Enactive in favor"
+      },
+      {
+        "source": "cc943012-eaf9-4b49-8888-0ddd651bc667",
+        "locator": "p. 425",
+        "quote": "Testing this proposal will require studies of neural dynamics that are not simply correlative, but causal."
+      }
+    ]
+  }
+}

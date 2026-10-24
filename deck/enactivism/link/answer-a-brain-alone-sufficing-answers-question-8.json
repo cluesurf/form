@@ -1,0 +1,33 @@
+{
+  "record": "link",
+  "id": "9968807b-a029-4e66-82fc-f2e941e544a7",
+  "from": "0316f5e7-597a-4477-ac03-8c575f9d65dd",
+  "to": "1742bbfe-92c2-4298-aa13-2df7e20acb32",
+  "relation": "answers",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "3465de18-e4a6-46eb-96a9-1b1ff5a61c0c",
+        "locator": "p. 19",
+        "quote": "hypothesis is the one that needs to be rejected in order to reject Enactive in favor"
+      },
+      {
+        "source": "cc943012-eaf9-4b49-8888-0ddd651bc667",
+        "locator": "p. 425",
+        "quote": "Testing this proposal will require studies of neural dynamics that are not simply correlative, but causal."
+      }
+    ]
+  }
+}

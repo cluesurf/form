@@ -1,0 +1,45 @@
+{
+  "record": "proposition",
+  "id": "1d4f5e08-5c73-495a-bf1a-0dbd95b6bce9",
+  "kind": "philosophical",
+  "epistemic_status": "inferred",
+  "title": "The case for strong AI trades on an ambiguity in information",
+  "statements": [
+    {
+      "id": "2572c533-5385-40de-845b-0b5a20e907d0",
+      "text": "Either information processing implies intentionality, in which case a programmed computer does not do it and only manipulates symbols, or it does not, in which case adding machines, stomachs, thermostats and rainstorms do it too and no likeness between computer and brain follows.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "2572c533-5385-40de-845b-0b5a20e907d0",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "6021411b-3296-4ed8-bddc-b15213e835f2",
+        "locator": "draft p. 13",
+        "quote": "it rests on an ambiguity in the notion of"
+      }
+    ]
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "record": "proposition",
+  "id": "b86c40e5-77f6-47a0-b27c-2c4874ec9628",
+  "kind": "philosophical",
+  "epistemic_status": "inferred",
+  "title": "Critique: organizational closure gives a system no direction",
+  "statements": [
+    {
+      "id": "a832c9ad-2d5a-457f-9a10-e3b8eba5255a",
+      "text": "Villalobos and Ward argue that a closed sensorimotor loop is like a circle, with no beginning, end or direction, so organizational closure cannot ground the purposes, intentionality and values the enactivist assigns to living beings. Maturana’s autopoietic theory, starting from the same closure, concludes that for the living system there is no inside or outside.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "a832c9ad-2d5a-457f-9a10-e3b8eba5255a",
+  "status": "active",
+  "voice": "critique",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "7785e5eb-0cdc-4012-b2d3-586e40bd13bf",
+        "locator": "p. 21",
+        "quote": "cannot be legitimated by appeal to organisational closure"
+      },
+      {
+        "source": "7785e5eb-0cdc-4012-b2d3-586e40bd13bf",
+        "locator": "p. 21",
+        "quote": "the structural dynamic of a living system is like a circle, rather than like an arrow"
+      }
+    ]
+  }
+}

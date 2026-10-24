@@ -1,0 +1,50 @@
+{
+  "record": "proposition",
+  "id": "233bb537-bb60-41d9-a488-74fde2c02bb2",
+  "kind": "empirical",
+  "epistemic_status": "hypothesized",
+  "title": "First-person and brain data constrain each other",
+  "statements": [
+    {
+      "id": "4a28dccd-0ac6-4030-8bac-332f9a011902",
+      "text": "The working hypothesis of neurophenomenology is that precise first-person data from trained subjects strongly constrain the analysis of the physiological processes of consciousness, and that the resulting neuroscience can in turn refine the phenomenological accounts, so the two stand in reciprocal constraint.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "4a28dccd-0ac6-4030-8bac-332f9a011902",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "5c64ca55-36f7-4b7e-9ca5-1d8839a98b17",
+        "locator": "p. 33",
+        "quote": "provide strong constraints on the analysis and interpretation of the physiological processes relevant to consciousness"
+      },
+      {
+        "source": "5c64ca55-36f7-4b7e-9ca5-1d8839a98b17",
+        "locator": "p. 33",
+        "quote": "reciprocal constraints"
+      }
+    ]
+  }
+}

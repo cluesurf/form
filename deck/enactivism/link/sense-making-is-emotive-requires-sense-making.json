@@ -1,0 +1,28 @@
+{
+  "record": "link",
+  "id": "7e389331-175f-47e5-b262-f1ff86e3b9f2",
+  "from": "41c51992-ff98-46d6-a234-f042dd9c1c0a",
+  "to": "ae5ba3d8-c258-499f-a4ad-1c86609ef017",
+  "relation": "requires",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "a16d6990-8b76-4ede-a57f-b794f8fd47fe",
+        "locator": "p. 26",
+        "quote": "Sense-making comprises emotion as much as cognition."
+      }
+    ]
+  }
+}

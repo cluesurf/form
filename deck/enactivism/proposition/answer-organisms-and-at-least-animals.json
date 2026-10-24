@@ -1,0 +1,50 @@
+{
+  "record": "proposition",
+  "id": "27f9d664-065d-49b6-b63c-77b427d528db",
+  "kind": "empirical",
+  "epistemic_status": "hypothesized",
+  "title": "Answer: organisms, at least animals, and whether all life is open",
+  "statements": [
+    {
+      "id": "2afe7369-105a-46cb-b869-cc4a6bde156f",
+      "text": "Organisms are conscious, not neurons or brains taken alone: people and animals feel. Animals with nervous systems are the clear case, and whether all living beings, bacteria included, are sentient is left open in Thompson’s later work.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "2afe7369-105a-46cb-b869-cc4a6bde156f",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "a16d6990-8b76-4ede-a57f-b794f8fd47fe",
+        "locator": "p. 26",
+        "quote": "neurons do not think and feel; people and animals do"
+      },
+      {
+        "source": "de4a8672-f5ac-4b37-8565-c9ca26778ee8",
+        "locator": "p. 229",
+        "quote": "Nevertheless, the case for zoopsychism"
+      }
+    ]
+  }
+}

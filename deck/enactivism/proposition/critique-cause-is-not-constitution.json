@@ -1,0 +1,45 @@
+{
+  "record": "proposition",
+  "id": "e7d36581-c1db-48ff-8eb3-44c6b273ea56",
+  "kind": "philosophical",
+  "epistemic_status": "inferred",
+  "title": "Critique: the body causes experience but does not constitute it",
+  "statements": [
+    {
+      "id": "7507b217-912b-4f45-a05c-59dc8eba9795",
+      "text": "Ned Block holds the orthodox brainbound view: experience depends causally on the body and on sensorimotor activity, but a specific pattern of brain activity directly determines it, so a brain in a vat with the right neural pattern would have the same experience. Enactive views mistake causes of experience for its constitution.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "7507b217-912b-4f45-a05c-59dc8eba9795",
+  "status": "active",
+  "voice": "critique",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "3465de18-e4a6-46eb-96a9-1b1ff5a61c0c",
+        "locator": "p. 3",
+        "quote": "Block contends that this view misidentifies what causes experience with what constitutes experience."
+      }
+    ]
+  }
+}

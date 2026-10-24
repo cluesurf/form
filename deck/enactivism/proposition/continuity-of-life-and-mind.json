@@ -1,0 +1,55 @@
+{
+  "record": "proposition",
+  "id": "9b49970b-caf6-457b-8154-0ac363284981",
+  "kind": "philosophical",
+  "epistemic_status": "hypothesized",
+  "title": "Life and mind are deeply continuous",
+  "statements": [
+    {
+      "id": "a167b712-81db-4e6b-9e70-c5990a31b770",
+      "text": "Life and mind share a common pattern of organization, and the organizational properties of mind are an enriched version of those fundamental to life. Adaptive autonomy is what grounds this deep continuity of life and mind.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "a167b712-81db-4e6b-9e70-c5990a31b770",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "342faff7-8c35-4e3a-b07b-eb656f5916f3",
+        "locator": "p. 385",
+        "quote": "life and mind share a common pattern or organization, and the organizational properties characteristic of mind are an enriched version of those fundamental to life"
+      },
+      {
+        "source": "a16d6990-8b76-4ede-a57f-b794f8fd47fe",
+        "locator": "p. 25",
+        "quote": "it is adaptive autonomy that grounds the deep continuity of life and mind"
+      },
+      {
+        "source": "39cd0f88-4316-4b99-a4bf-db7f4b6b9be5",
+        "locator": "whole work",
+        "quote": null
+      }
+    ]
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "record": "link",
+  "id": "ce2c0b09-44c4-4c92-986e-69f3f82145ee",
+  "from": "40516fe4-e9d9-4dd0-beca-8aaa6d85417b",
+  "to": "2e0b3782-7e83-4696-98b0-fa81f1c63837",
+  "relation": "answers",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "342faff7-8c35-4e3a-b07b-eb656f5916f3",
+        "locator": "p. 387",
+        "quote": "Sense-making is tantamount to cognition, in the minimal sense of viable sensorimotor conduct."
+      },
+      {
+        "source": "a16d6990-8b76-4ede-a57f-b794f8fd47fe",
+        "locator": "p. 26",
+        "quote": "this kind of narrow cognition presupposes the broader emotive cognition of sense-making"
+      }
+    ]
+  }
+}

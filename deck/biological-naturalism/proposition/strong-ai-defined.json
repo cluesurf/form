@@ -1,0 +1,45 @@
+{
+  "record": "proposition",
+  "id": "97b5a902-7c6d-4a41-9b99-6a878bbe0fb6",
+  "kind": "definitional",
+  "epistemic_status": "designed",
+  "title": "Strong AI and weak AI",
+  "statements": [
+    {
+      "id": "f558c368-f412-4451-bd53-0a1a3258fd24",
+      "text": "Weak AI holds that the computer is a powerful tool for studying the mind. Strong AI holds that an appropriately programmed computer really is a mind, literally understanding and having other cognitive states, so that its programs are themselves explanations of human cognition.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "f558c368-f412-4451-bd53-0a1a3258fd24",
+  "status": "active",
+  "voice": "framework",
+  "defines": "strong artificial intelligence",
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "6021411b-3296-4ed8-bddc-b15213e835f2",
+        "locator": "draft p. 2",
+        "quote": "the appropriately programmed computer really is a mind"
+      }
+    ]
+  }
+}

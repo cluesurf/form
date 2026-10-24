@@ -1,0 +1,33 @@
+{
+  "record": "link",
+  "id": "3389d116-4a35-4ee9-9e3a-cb1f6fc96fa5",
+  "from": "bc5eec7b-c680-4380-ae75-e78446441708",
+  "to": "e7d36581-c1db-48ff-8eb3-44c6b273ea56",
+  "relation": "weakens",
+  "strength": null,
+  "rationale": "A vat able to sustain the brain would itself be a body, so the brain is never shown working alone.",
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "3465de18-e4a6-46eb-96a9-1b1ff5a61c0c",
+        "locator": "p. 18",
+        "quote": "Any adequately functional"
+      },
+      {
+        "source": "3465de18-e4a6-46eb-96a9-1b1ff5a61c0c",
+        "locator": "p. 18",
+        "quote": "the null hypothesis is that the so-called vat would be no vat at all, but rather an embodied agent in the world"
+      }
+    ]
+  }
+}

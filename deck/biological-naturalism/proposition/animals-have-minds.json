@@ -1,0 +1,45 @@
+{
+  "record": "proposition",
+  "id": "9680df0b-4163-4bcd-97aa-b990e99e7a5e",
+  "kind": "empirical",
+  "epistemic_status": "inferred",
+  "title": "Apes, monkeys and dogs have mental states",
+  "statements": [
+    {
+      "id": "453e120a-bce0-48bc-9aba-a919e2d6af89",
+      "text": "It is natural to ascribe intentionality to apes, monkeys and dogs, because their behavior makes no sense otherwise and because they are made of the same kind of stuff as people, so their mental states are produced by mechanisms like ours.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "453e120a-bce0-48bc-9aba-a919e2d6af89",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "6021411b-3296-4ed8-bddc-b15213e835f2",
+        "locator": "draft p. 9",
+        "quote": "we find it completely natural to ascribe intentionality to members of certain other primate species such as apes and monkeys and to domestic animals such as dogs"
+      }
+    ]
+  }
+}

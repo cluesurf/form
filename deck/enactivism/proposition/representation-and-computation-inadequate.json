@@ -1,0 +1,45 @@
+{
+  "record": "proposition",
+  "id": "32515e3e-b1d1-486a-8bb5-e02456de82c2",
+  "kind": "philosophical",
+  "epistemic_status": "hypothesized",
+  "title": "Traditional representation and computation are inadequate",
+  "statements": [
+    {
+      "id": "7b232dc2-48b5-45d5-8d61-4a97423e4626",
+      "text": "Enactive cognitive science holds that understanding the interplay of brain, body and world needs nonlinear dynamical systems theory, that traditional notions of representation and computation are inadequate, and that decomposing cognition into inner modules misleads.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "7b232dc2-48b5-45d5-8d61-4a97423e4626",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "cc943012-eaf9-4b49-8888-0ddd651bc667",
+        "locator": "p. 418",
+        "quote": "traditional notions of representation and computation are inadequate"
+      }
+    ]
+  }
+}

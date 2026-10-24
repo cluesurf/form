@@ -1,0 +1,44 @@
+{
+  "record": "observation",
+  "id": "27ed4d3e-17fe-49a3-8db0-c33dfd3850e4",
+  "kind": "experimental_result",
+  "epistemic_status": "observed",
+  "description": "In one patient with a stable focal epileptic discharge recorded by a subdural grid, the intervals between spikes showed short periodic patterns that were modulated during visual and auditory discrimination tasks, with shifts in the gamma range, and trajectories approached unstable periodic orbits after perceptual tasks (studies of Le Van Quyen and colleagues, reviewed by Thompson and Varela).",
+  "method": "instrument",
+  "status": "reported",
+  "source": "cc943012-eaf9-4b49-8888-0ddd651bc667",
+  "procedure": null,
+  "variable": null,
+  "value": null,
+  "unit": null,
+  "uncertainty": null,
+  "sample_size": 1,
+  "replication_count": null,
+  "quality": null,
+  "limitations": "A single patient. The original studies are reviewed secondhand, and a causal link between interspike intervals and gamma coherence was not directly shown.",
+  "conflicts_of_interest": null,
+  "observed_at": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "cc943012-eaf9-4b49-8888-0ddd651bc667",
+        "locator": "p. 421",
+        "quote": "This periodic activity was differentially modulated during perceptual tasks engaged in by the patient"
+      },
+      {
+        "source": "cc943012-eaf9-4b49-8888-0ddd651bc667",
+        "locator": "p. 422",
+        "quote": "Although a causal relationship between the interspike intervals and cortical coherence in the gamma band was not directly demonstrated"
+      }
+    ]
+  }
+}

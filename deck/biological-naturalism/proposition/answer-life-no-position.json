@@ -1,0 +1,45 @@
+{
+  "record": "proposition",
+  "id": "805f5962-da9b-4be7-9aa4-ac65c9478220",
+  "kind": "philosophical",
+  "epistemic_status": "inferred",
+  "title": "Answer: takes no position on what life is",
+  "statements": [
+    {
+      "id": "5f3dccf1-32fb-4ae4-bfd3-0f0c9824eb11",
+      "text": "The view gives no theory of life. It treats mind as one more biological phenomenon of living things, like lactation and photosynthesis.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "5f3dccf1-32fb-4ae4-bfd3-0f0c9824eb11",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "6021411b-3296-4ed8-bddc-b15213e835f2",
+        "locator": "draft p. 14",
+        "quote": "it is as likely to be as causally dependent on the specific biochemistry of its origins as lactation, photosynthesis, or any other biological phenomena"
+      }
+    ]
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "record": "proposition",
+  "id": "eff81785-facc-40e6-a906-9b853204364d",
+  "kind": "philosophical",
+  "epistemic_status": "inferred",
+  "title": "Answer: particles organized into systems, as physics describes them",
+  "statements": [
+    {
+      "id": "85e25506-5002-495a-b7f5-795d7f69e12c",
+      "text": "What is fundamental is what atomic physics describes: particles organized into systems. Consciousness is not fundamental. It is a feature of some evolved living systems.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "85e25506-5002-495a-b7f5-795d7f69e12c",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "bc658235-3258-457e-84f6-db89bc9a7750",
+        "locator": "p. 6, quoting The Rediscovery of the Mind, pp. 92-93",
+        "quote": "According to the atomic theory, the world is made up of particles."
+      }
+    ]
+  }
+}

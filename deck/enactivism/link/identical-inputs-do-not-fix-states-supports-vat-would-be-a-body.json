@@ -1,0 +1,28 @@
+{
+  "record": "link",
+  "id": "cfb9ff66-7323-4285-8c5f-e761e1ad9476",
+  "from": "47aa3e75-6ff8-4668-a5da-a2c999d71d7e",
+  "to": "bc5eec7b-c680-4380-ae75-e78446441708",
+  "relation": "supports",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "3465de18-e4a6-46eb-96a9-1b1ff5a61c0c",
+        "locator": "p. 15",
+        "quote": "identical inputs don’t suffice for identical states"
+      }
+    ]
+  }
+}

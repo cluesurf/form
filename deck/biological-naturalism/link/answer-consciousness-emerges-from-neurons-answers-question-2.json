@@ -1,0 +1,28 @@
+{
+  "record": "link",
+  "id": "0859b4d2-d591-4e4f-b9ec-657bb07b9166",
+  "from": "6dc0f2d6-ceff-477c-8da6-ae02dbdcea0b",
+  "to": "455dff7d-b66c-449d-b2d7-52521b99cba5",
+  "relation": "answers",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "bc658235-3258-457e-84f6-db89bc9a7750",
+        "locator": "p. 6, quoting The Rediscovery of the Mind, p. 112",
+        "quote": "It is an emergent feature of certain systems of neurons"
+      }
+    ]
+  }
+}

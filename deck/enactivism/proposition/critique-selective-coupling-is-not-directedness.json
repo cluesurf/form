@@ -1,0 +1,50 @@
+{
+  "record": "proposition",
+  "id": "bf6f7650-4541-4942-a74f-6a5d7915d351",
+  "kind": "philosophical",
+  "epistemic_status": "inferred",
+  "title": "Critique: a candle couples selectively without seeking oxygen",
+  "statements": [
+    {
+      "id": "4ac52e0e-edaa-40ea-bf55-e166ad9ac613",
+      "text": "A candle flame couples with oxygen and not with inert gases, yet nothing is gained by saying it seeks oxygen or values it. Selective coupling does not suffice for directedness, closure does not suffice either, and the enactivist owes an explanation of why the two together should yield teleology.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "4ac52e0e-edaa-40ea-bf55-e166ad9ac613",
+  "status": "active",
+  "voice": "critique",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "7785e5eb-0cdc-4012-b2d3-586e40bd13bf",
+        "locator": "p. 25",
+        "quote": "Selective coupling does not suffice for a system to be directed toward its environment."
+      },
+      {
+        "source": "7785e5eb-0cdc-4012-b2d3-586e40bd13bf",
+        "locator": "p. 26",
+        "quote": "the enactivist needs to provide further explanation of why they should do so when combined"
+      }
+    ]
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "record": "proposition",
+  "id": "1a863ad4-e2ad-4f66-84ce-0faa52990251",
+  "kind": "definitional",
+  "epistemic_status": "designed",
+  "title": "Neurophenomenology",
+  "statements": [
+    {
+      "id": "72d5bfda-e22b-4916-9cd2-ebd46246aae3",
+      "text": "Neurophenomenology is a research program for the neuroscience of consciousness, proposed by Varela in 1996, that uses first-person data from phenomenologically trained subjects to describe and quantify the large-scale neural dynamics of consciousness. It joins first-person methods, dynamical systems theory and measures of large-scale brain integration.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "72d5bfda-e22b-4916-9cd2-ebd46246aae3",
+  "status": "active",
+  "voice": "framework",
+  "defines": "neurophenomenology",
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "5c64ca55-36f7-4b7e-9ca5-1d8839a98b17",
+        "locator": "p. 31",
+        "quote": "The paper presents a research programme for the neuroscience of consciousness"
+      },
+      {
+        "source": "5c64ca55-36f7-4b7e-9ca5-1d8839a98b17",
+        "locator": "p. 34",
+        "quote": "neurophenomenology is based on the synergistic use of three fields of knowledge"
+      }
+    ]
+  }
+}

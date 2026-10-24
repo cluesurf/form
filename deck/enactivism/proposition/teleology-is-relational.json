@@ -1,0 +1,45 @@
+{
+  "record": "proposition",
+  "id": "bbd2ccc1-aa15-4908-ac5d-eea022640df5",
+  "kind": "philosophical",
+  "epistemic_status": "hypothesized",
+  "title": "Teleology is an emergent relational property of living systems",
+  "statements": [
+    {
+      "id": "d2bc8800-6907-4843-880c-6db0aded7b30",
+      "text": "Autopoietic organization makes no reference to ends or purposes, but sense-making belongs to the coupling of a concrete autopoietic system with its environment. Teleology is therefore not an intrinsic organizational property but an emergent relational one, the intrinsic teleology of Weber and Varela.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "d2bc8800-6907-4843-880c-6db0aded7b30",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "342faff7-8c35-4e3a-b07b-eb656f5916f3",
+        "locator": "p. 392",
+        "quote": "teleology is not an intrinsic organizational property, but an emergent relational one"
+      }
+    ]
+  }
+}

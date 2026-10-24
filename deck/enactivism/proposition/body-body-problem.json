@@ -1,0 +1,50 @@
+{
+  "record": "proposition",
+  "id": "c58122e4-04fc-49dc-bfe3-198c6df62ab7",
+  "kind": "philosophical",
+  "epistemic_status": "hypothesized",
+  "title": "The hard problem recast as the body-body problem",
+  "statements": [
+    {
+      "id": "f08d0c34-27f7-4400-ae21-ef65d3b28bb2",
+      "text": "Substituting the body for the physical, the question becomes how a physical living body (Körper) is also a lived body (Leib). These are two modes of appearance of one body, so the gap lies within one typology of living being and is no longer absolute.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "f08d0c34-27f7-4400-ae21-ef65d3b28bb2",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "342faff7-8c35-4e3a-b07b-eb656f5916f3",
+        "locator": "p. 385",
+        "quote": "It’s tempting to call this problem the body–body problem."
+      },
+      {
+        "source": "342faff7-8c35-4e3a-b07b-eb656f5916f3",
+        "locator": "p. 385",
+        "quote": "this gap is no longer absolute, because in order to state it we need to make common reference on both sides to life or living being"
+      }
+    ]
+  }
+}

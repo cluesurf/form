@@ -1,0 +1,45 @@
+{
+  "record": "proposition",
+  "id": "c351258a-b76d-415d-a34b-cfdfe4a56ca8",
+  "kind": "philosophical",
+  "epistemic_status": "hypothesized",
+  "title": "Answer: life, selves, worlds and conscious acts are emergent processes",
+  "statements": [
+    {
+      "id": "35b96611-040d-4630-b70d-93ee384a8f33",
+      "text": "Emergent processes, with global-to-local influence on their components, include the autopoiesis that constitutes a living cell, the self and world it brings forth, neural assemblies, and conscious cognitive acts. Being alive is instantiated in the emergent process of autopoiesis.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "35b96611-040d-4630-b70d-93ee384a8f33",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "cc943012-eaf9-4b49-8888-0ddd651bc667",
+        "locator": "p. 420",
+        "quote": "the property of being alive as such does not emerge, but is instantiated in the emergent process of autopoiesis that constitutes living cells"
+      }
+    ]
+  }
+}

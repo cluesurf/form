@@ -1,0 +1,45 @@
+{
+  "record": "proposition",
+  "id": "6642b34b-117f-40c9-b4ca-d7563f7d0e60",
+  "kind": "philosophical",
+  "epistemic_status": "inferred",
+  "title": "Critique: an evolutionary role for consciousness contradicts the zombie case",
+  "statements": [
+    {
+      "id": "632236aa-1a7e-4131-8cca-885bed8b76fe",
+      "text": "If consciousness gives an organism flexibility, sensitivity and creativity, then a silicon brain that keeps those powers is likely conscious. Dennett argues that this contradicts the claim that consciousness is independent of control and behavior.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "632236aa-1a7e-4131-8cca-885bed8b76fe",
+  "status": "active",
+  "voice": "critique",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "2ecbb8c6-73e4-4343-8291-df1f5ac4d140",
+        "locator": "p. 203",
+        "quote": "These passages on evolution flatly contradict his earlier insistence that consciousness is entirely independent of"
+      }
+    ]
+  }
+}

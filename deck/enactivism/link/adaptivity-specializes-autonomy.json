@@ -1,0 +1,28 @@
+{
+  "record": "link",
+  "id": "263bbd02-25d7-43b0-9d6a-075c51775979",
+  "from": "40170589-5b8a-4507-8d8c-1adef564b798",
+  "to": "39cb8eeb-5f22-497f-a607-d75a0b464851",
+  "relation": "specializes",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "a16d6990-8b76-4ede-a57f-b794f8fd47fe",
+        "locator": "p. 25",
+        "quote": "An adaptive autopoietic system, however, is one that can regulate its states with respect to its conditions of viability in its environment"
+      }
+    ]
+  }
+}

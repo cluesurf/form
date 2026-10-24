@@ -1,0 +1,50 @@
+{
+  "record": "proposition",
+  "id": "759432f6-30bd-432c-841d-d4db31c50ba2",
+  "kind": "philosophical",
+  "epistemic_status": "hypothesized",
+  "title": "Answer: life is autopoiesis, with adaptivity for sense-making",
+  "statements": [
+    {
+      "id": "02751199-439f-4a63-b530-b6dcfc6b41f2",
+      "text": "Minimal life is autopoiesis, a self-producing chemical network with its own boundary. Adaptivity, regulating itself with respect to its viability, is what makes a living system a sense-maker.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "02751199-439f-4a63-b530-b6dcfc6b41f2",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "342faff7-8c35-4e3a-b07b-eb656f5916f3",
+        "locator": "p. 386",
+        "quote": "Life = autopoiesis."
+      },
+      {
+        "source": "a16d6990-8b76-4ede-a57f-b794f8fd47fe",
+        "locator": "p. 25",
+        "quote": "What is required is not autopoiesis but adaptive autonomy."
+      }
+    ]
+  }
+}

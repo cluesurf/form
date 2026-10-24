@@ -1,0 +1,45 @@
+{
+  "record": "proposition",
+  "id": "b6bda4e5-ffb4-4f86-82a3-5cd9c8c97709",
+  "kind": "philosophical",
+  "epistemic_status": "inferred",
+  "title": "Answer: real thinking needs intentionality, not just a program or behavior",
+  "statements": [
+    {
+      "id": "0a7bad32-0c7f-4112-8c67-92f1d2de847b",
+      "text": "Intelligent behavior and the running of a program are not enough for thinking or understanding, which need real intentionality, and that comes from the causal powers of brains or of machines with equal powers.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "0a7bad32-0c7f-4112-8c67-92f1d2de847b",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "6021411b-3296-4ed8-bddc-b15213e835f2",
+        "locator": "abstract, draft p. 1",
+        "quote": "no program by itself is sufficient for thinking"
+      }
+    ]
+  }
+}

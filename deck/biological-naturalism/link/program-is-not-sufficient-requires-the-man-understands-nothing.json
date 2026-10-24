@@ -1,0 +1,28 @@
+{
+  "record": "link",
+  "id": "1d0612d4-e1ac-4c3b-b024-7d68809eff83",
+  "from": "008a9697-49d8-48df-9678-7006dc8130be",
+  "to": "a5e87521-3e73-4f7c-ba7f-f0da691dff40",
+  "relation": "requires",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "6021411b-3296-4ed8-bddc-b15213e835f2",
+        "locator": "abstract, draft p. 1",
+        "quote": "Instantiating a computer program is never by itself a sufficient condition of intentionality"
+      }
+    ]
+  }
+}

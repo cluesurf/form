@@ -1,0 +1,28 @@
+{
+  "record": "link",
+  "id": "0eb2d436-ee1f-47d6-8cc8-18afeedfab1d",
+  "from": "40f820a1-65a9-4783-9012-075a3d826305",
+  "to": "123e6c54-cc09-4136-b593-8887ad2c6c4f",
+  "relation": "requires",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "cc943012-eaf9-4b49-8888-0ddd651bc667",
+        "locator": "p. 425",
+        "quote": "there may be no such thing as a minimal internal neural correlate whose intrinsic properties are sufficient to produce conscious experience"
+      }
+    ]
+  }
+}

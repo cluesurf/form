@@ -1,0 +1,50 @@
+{
+  "record": "proposition",
+  "id": "ea866ef1-6c96-4a08-be01-7b2961070cd3",
+  "kind": "philosophical",
+  "epistemic_status": "hypothesized",
+  "title": "Critique: other enactivisms do without autopoiesis",
+  "statements": [
+    {
+      "id": "6dd9ed9b-d979-4ff6-891d-7460de588abd",
+      "text": "Not every enactivism grounds cognition in autopoiesis. Views called enactivist by Hurley, Noë, and Hutto and Myin rest on the coupled dynamics of organism and environment alone, and Hutto and Myin’s radical enactivism holds that basic minds are without content. The autopoietic branch is one choice among several.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "6dd9ed9b-d979-4ff6-891d-7460de588abd",
+  "status": "active",
+  "voice": "critique",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "7785e5eb-0cdc-4012-b2d3-586e40bd13bf",
+        "locator": "p. 3",
+        "quote": "Some views have been dubbed enactivist only in virtue of their emphasis on the coupled dynamics of organism/environment interactions"
+      },
+      {
+        "source": "cd139bea-2050-4c1a-850a-3c72f10fbf72",
+        "locator": "whole work",
+        "quote": null
+      }
+    ]
+  }
+}

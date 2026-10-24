@@ -1,0 +1,45 @@
+{
+  "record": "proposition",
+  "id": "5923ca42-071a-46c0-831e-b4fa4e655ae8",
+  "kind": "philosophical",
+  "epistemic_status": "inferred",
+  "title": "Theories of consciousness move in an epistemological circle",
+  "statements": [
+    {
+      "id": "39566664-e444-4911-9332-acf21824a42d",
+      "text": "Judgments about how widespread sentience is rest on starting assumptions about sentience itself, so theorizing about consciousness occupies an apparently unavoidable epistemological circle. On the enactive view this calls for a transcendental perspective and, possibly, a participatory epistemology using phenomenological methods.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "39566664-e444-4911-9332-acf21824a42d",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "de4a8672-f5ac-4b37-8565-c9ca26778ee8",
+        "locator": "p. 260",
+        "quote": "we occupy an apparently unavoidable epistemological circle in theorizing about consciousness"
+      }
+    ]
+  }
+}

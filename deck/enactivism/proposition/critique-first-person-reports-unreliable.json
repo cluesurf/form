@@ -1,0 +1,50 @@
+{
+  "record": "proposition",
+  "id": "cd238be0-7169-4ca1-8f8a-6f31a091f5ed",
+  "kind": "empirical",
+  "epistemic_status": "inferred",
+  "title": "Critique: first-person reports are biased and alter what they report",
+  "statements": [
+    {
+      "id": "e78f3dd8-e0ec-4b32-95bc-4942ce21fcb9",
+      "text": "First-person reports can be biased or inaccurate, and producing a report about an experience may change that experience, so trained reports might describe a new kind of experience rather than the untrained one.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "e78f3dd8-e0ec-4b32-95bc-4942ce21fcb9",
+  "status": "active",
+  "voice": "critique",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "5c64ca55-36f7-4b7e-9ca5-1d8839a98b17",
+        "locator": "p. 31",
+        "quote": "first-person reports can be biased or inaccurate"
+      },
+      {
+        "source": "5c64ca55-36f7-4b7e-9ca5-1d8839a98b17",
+        "locator": "p. 31",
+        "quote": "the process of generating first-person reports about an experience can modify that experience"
+      }
+    ]
+  }
+}

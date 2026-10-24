@@ -1,0 +1,50 @@
+{
+  "record": "proposition",
+  "id": "59d1211f-21b5-415c-a05d-fea93309e59e",
+  "kind": "empirical",
+  "epistemic_status": "hypothesized",
+  "title": "Answer: humans, many animals, and anything with the brain’s causal powers",
+  "statements": [
+    {
+      "id": "25d0de62-bc6c-49ab-97df-7c09a69ec1c6",
+      "text": "Humans are conscious, and so are animals such as apes, monkeys and dogs. Searle has no view yet on fleas, grasshoppers, crabs or snails. A machine could be conscious if it had the causal powers of a brain, and no computer is conscious by its program alone.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "25d0de62-bc6c-49ab-97df-7c09a69ec1c6",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "6021411b-3296-4ed8-bddc-b15213e835f2",
+        "locator": "draft p. 9",
+        "quote": "we find it completely natural to ascribe intentionality to members of certain other primate species such as apes and monkeys and to domestic animals such as dogs"
+      },
+      {
+        "source": "2ecbb8c6-73e4-4343-8291-df1f5ac4d140",
+        "locator": "p. 200, quoting The Rediscovery of the Mind, p. 74",
+        "quote": "grasshoppers, crabs, or snails"
+      }
+    ]
+  }
+}

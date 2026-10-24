@@ -1,0 +1,45 @@
+{
+  "record": "proposition",
+  "id": "345da609-a69f-4854-8a9a-9980fdcbd032",
+  "kind": "philosophical",
+  "epistemic_status": "hypothesized",
+  "title": "Answer: a self emerges from operational closure",
+  "statements": [
+    {
+      "id": "09ecf5d2-addc-4452-97e2-dd5e821537eb",
+      "text": "A self is the individual that an operationally closed, autonomous system brings forth: a bodily self in metabolism, a sensorimotor self in animals with nervous systems, and in conscious experience a minimal self of pre-reflective self-awareness.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "09ecf5d2-addc-4452-97e2-dd5e821537eb",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "342faff7-8c35-4e3a-b07b-eb656f5916f3",
+        "locator": "p. 387",
+        "quote": "gives rise to an individual or self in the form of a living body"
+      }
+    ]
+  }
+}

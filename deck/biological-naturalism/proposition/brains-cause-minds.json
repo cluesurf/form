@@ -1,0 +1,45 @@
+{
+  "record": "proposition",
+  "id": "9d070907-53ba-42a3-b1c9-ca1df520c13d",
+  "kind": "empirical",
+  "epistemic_status": "inferred",
+  "title": "Brain processes cause intentionality",
+  "statements": [
+    {
+      "id": "f56e4992-7086-4189-81da-e7302ee75305",
+      "text": "Intentionality in human beings and animals is a product of causal features of the brain. Searle takes this as an empirical fact about the actual causal relations between mental processes and brains: certain brain processes are sufficient for intentionality.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "f56e4992-7086-4189-81da-e7302ee75305",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "6021411b-3296-4ed8-bddc-b15213e835f2",
+        "locator": "abstract, draft p. 1",
+        "quote": "Intentionality in human beings (and animals) is a product of causal features of the brain"
+      }
+    ]
+  }
+}

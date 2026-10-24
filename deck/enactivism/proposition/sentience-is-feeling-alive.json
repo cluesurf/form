@@ -1,0 +1,50 @@
+{
+  "record": "proposition",
+  "id": "b8f1fe99-cb32-4d5e-9a30-489186ce51d1",
+  "kind": "philosophical",
+  "epistemic_status": "hypothesized",
+  "title": "Sentience is the feeling of being alive",
+  "statements": [
+    {
+      "id": "e990e680-a336-4481-851f-a4c1b70559fd",
+      "text": "The affective side of organismic regulation can be called sentience, the feeling of being alive, which is the backdrop of every conscious state because every conscious state rests on the regulatory and emotional states of the whole organism.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "e990e680-a336-4481-851f-a4c1b70559fd",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "cc943012-eaf9-4b49-8888-0ddd651bc667",
+        "locator": "p. 424",
+        "quote": "could be called sentience"
+      },
+      {
+        "source": "cc943012-eaf9-4b49-8888-0ddd651bc667",
+        "locator": "p. 424",
+        "quote": "understood as the inescapable affective backdrop of every conscious state"
+      }
+    ]
+  }
+}

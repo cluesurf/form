@@ -1,0 +1,45 @@
+{
+  "record": "proposition",
+  "id": "123e6c54-cc09-4136-b593-8887ad2c6c4f",
+  "kind": "empirical",
+  "epistemic_status": "hypothesized",
+  "title": "The brain takes part in three cycles of operation",
+  "statements": [
+    {
+      "id": "dfb7a25a-6bb5-4ed0-b569-12f8669347f3",
+      "text": "Neural processes take part in the cycles that make up an agent’s life: cycles of organismic regulation of the whole body, cycles of sensorimotor coupling with the environment, and, in higher primates, cycles of intersubjective interaction.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "dfb7a25a-6bb5-4ed0-b569-12f8669347f3",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "cc943012-eaf9-4b49-8888-0ddd651bc667",
+        "locator": "p. 424",
+        "quote": "Three kinds of cycles need to be distinguished for higher primates"
+      }
+    ]
+  }
+}

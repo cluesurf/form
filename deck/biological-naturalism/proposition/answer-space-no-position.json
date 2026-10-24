@@ -1,0 +1,45 @@
+{
+  "record": "proposition",
+  "id": "e678ae09-eb10-43ce-8297-287bb696bb1c",
+  "kind": "philosophical",
+  "epistemic_status": "inferred",
+  "title": "Answer: takes no position on space",
+  "statements": [
+    {
+      "id": "ea344685-88a1-47d6-b8e8-e67163b113f0",
+      "text": "The view takes no position on the nature of space. It places consciousness in the brain, as a feature realized in the brain’s neural systems.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "ea344685-88a1-47d6-b8e8-e67163b113f0",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "bc658235-3258-457e-84f6-db89bc9a7750",
+        "locator": "p. 4",
+        "quote": "mental states are at the same time caused by the brain and realized in the brain"
+      }
+    ]
+  }
+}

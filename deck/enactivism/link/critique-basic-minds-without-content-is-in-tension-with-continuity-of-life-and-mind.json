@@ -1,0 +1,33 @@
+{
+  "record": "link",
+  "id": "0af4b6e6-2259-4837-abfb-34b35d6db72e",
+  "from": "ea866ef1-6c96-4a08-be01-7b2961070cd3",
+  "to": "9b49970b-caf6-457b-8154-0ac363284981",
+  "relation": "is_in_tension_with",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "7785e5eb-0cdc-4012-b2d3-586e40bd13bf",
+        "locator": "p. 3",
+        "quote": "Some views have been dubbed enactivist only in virtue of their emphasis on the coupled dynamics of organism/environment interactions"
+      },
+      {
+        "source": "cd139bea-2050-4c1a-850a-3c72f10fbf72",
+        "locator": "whole work",
+        "quote": null
+      }
+    ]
+  }
+}

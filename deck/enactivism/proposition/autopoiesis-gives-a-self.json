@@ -1,0 +1,45 @@
+{
+  "record": "proposition",
+  "id": "f370ad4c-e56d-4193-864f-bd4e1fd36d0c",
+  "kind": "philosophical",
+  "epistemic_status": "hypothesized",
+  "title": "Autopoiesis gives rise to a self",
+  "statements": [
+    {
+      "id": "fd711c67-8c3a-47e8-9889-609086d3bfd7",
+      "text": "A physical autopoietic system, by its operational closure, gives rise to an individual or self in the form of a living body, an organism.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "fd711c67-8c3a-47e8-9889-609086d3bfd7",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "342faff7-8c35-4e3a-b07b-eb656f5916f3",
+        "locator": "p. 387",
+        "quote": "A physical autopoietic system, by virtue of its operational closure, gives rise to an individual or self in the form of a living body, an organism."
+      }
+    ]
+  }
+}

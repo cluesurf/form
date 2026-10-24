@@ -1,0 +1,45 @@
+{
+  "record": "proposition",
+  "id": "177fe149-4e21-443e-af53-dbd7b9067ea9",
+  "kind": "philosophical",
+  "epistemic_status": "inferred",
+  "title": "Experience is irreducible because every theory presupposes it",
+  "statements": [
+    {
+      "id": "d16c91ca-522f-4c9f-ad8f-78c05eb634b9",
+      "text": "Experience is irreducible not because it has metaphysically peculiar properties but because it is always already presupposed by any statement, model or theory, and the lived body is an a priori invariant of lived experience. This is neither dualism nor idealism.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "d16c91ca-522f-4c9f-ad8f-78c05eb634b9",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "342faff7-8c35-4e3a-b07b-eb656f5916f3",
+        "locator": "p. 394",
+        "quote": "It’s irreducible because of its ineliminable transcendental character"
+      }
+    ]
+  }
+}

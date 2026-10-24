@@ -1,0 +1,33 @@
+{
+  "record": "link",
+  "id": "6176bbf6-98eb-4508-acc8-8ad61da22bf3",
+  "from": "59d1211f-21b5-415c-a05d-fea93309e59e",
+  "to": "fa149d96-d797-483c-a560-6a297c01c9b1",
+  "relation": "answers",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "6021411b-3296-4ed8-bddc-b15213e835f2",
+        "locator": "draft p. 9",
+        "quote": "we find it completely natural to ascribe intentionality to members of certain other primate species such as apes and monkeys and to domestic animals such as dogs"
+      },
+      {
+        "source": "2ecbb8c6-73e4-4343-8291-df1f5ac4d140",
+        "locator": "p. 200, quoting The Rediscovery of the Mind, p. 74",
+        "quote": "grasshoppers, crabs, or snails"
+      }
+    ]
+  }
+}

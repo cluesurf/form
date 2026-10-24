@@ -1,0 +1,28 @@
+{
+  "record": "link",
+  "id": "ec12af42-04c7-4709-82a4-2798717420d7",
+  "from": "9457b8cf-6206-47a0-9c97-ecc930fc507e",
+  "to": "40170589-5b8a-4507-8d8c-1adef564b798",
+  "relation": "requires",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "a16d6990-8b76-4ede-a57f-b794f8fd47fe",
+        "locator": "p. 25",
+        "quote": "Autopoiesis and adaptivity are jointly sufficient for sense-making, but mere autopoiesis is insufficient."
+      }
+    ]
+  }
+}

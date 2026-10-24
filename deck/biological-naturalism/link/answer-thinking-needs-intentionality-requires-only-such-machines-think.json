@@ -1,0 +1,28 @@
+{
+  "record": "link",
+  "id": "5139772d-8501-4a24-83cb-bb6994d087e3",
+  "from": "b6bda4e5-ffb4-4f86-82a3-5cd9c8c97709",
+  "to": "51bad06c-67c8-4249-b493-e3be0ff4861b",
+  "relation": "requires",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "6021411b-3296-4ed8-bddc-b15213e835f2",
+        "locator": "abstract, draft p. 1",
+        "quote": "no program by itself is sufficient for thinking"
+      }
+    ]
+  }
+}

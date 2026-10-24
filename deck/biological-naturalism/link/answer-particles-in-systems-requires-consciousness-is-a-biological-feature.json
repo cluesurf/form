@@ -1,0 +1,28 @@
+{
+  "record": "link",
+  "id": "e80c0030-9189-4b15-8904-2960afe1e017",
+  "from": "eff81785-facc-40e6-a906-9b853204364d",
+  "to": "25168224-e9ad-4da0-bff9-d4bd330d285d",
+  "relation": "requires",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "bc658235-3258-457e-84f6-db89bc9a7750",
+        "locator": "p. 6, quoting The Rediscovery of the Mind, pp. 92-93",
+        "quote": "According to the atomic theory, the world is made up of particles."
+      }
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "record": "link",
+  "id": "271edd90-1554-47ef-bed9-1115e4bfd068",
+  "from": "90b898a0-24f6-432e-be6c-2fdf55170205",
+  "to": "ca146773-60a4-418e-8582-86079a53f3fb",
+  "relation": "requires",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "2ecbb8c6-73e4-4343-8291-df1f5ac4d140",
+        "locator": "p. 195, quoting The Rediscovery of the Mind, p. 228",
+        "quote": "There are brute, blind neurophysiological processes and there is consciousness, but there is nothing else"
+      }
+    ]
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "record": "proposition",
+  "id": "cdac3468-d67e-4930-b6ea-140d2b54156e",
+  "kind": "philosophical",
+  "epistemic_status": "inferred",
+  "title": "The irreducibility of consciousness has no mysterious source",
+  "statements": [
+    {
+      "id": "82bf9123-84dd-40f0-8825-591c9f7f0b6e",
+      "text": "Consciousness fails to be reducible not because of a mysterious feature but because it falls outside the pattern of reduction chosen for pragmatic reasons. Before theory, consciousness is a surface feature of certain physical systems like solidity, and a future revolution in the idea of reduction cannot be ruled out.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "82bf9123-84dd-40f0-8825-591c9f7f0b6e",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "bc658235-3258-457e-84f6-db89bc9a7750",
+        "locator": "p. 7, quoting The Rediscovery of the Mind, pp. 122-124",
+        "quote": "falls outside the pattern of reduction that we have chosen to use for pragmatic reasons"
+      }
+    ]
+  }
+}

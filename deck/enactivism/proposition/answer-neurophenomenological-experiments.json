@@ -1,0 +1,45 @@
+{
+  "record": "proposition",
+  "id": "0e11601d-6425-4cab-9597-2190e7c6e587",
+  "kind": "empirical",
+  "epistemic_status": "hypothesized",
+  "title": "Answer: neurophenomenological experiments and tests of downward causation",
+  "statements": [
+    {
+      "id": "e310082c-22c3-4309-a76b-a0ea01e8edf7",
+      "text": "Checkable parts include whether trained first-person reports sort trials into distinct neural signatures, as in the pilot study of Lutz and colleagues, whether perception modulates local epileptic activity, and whether voluntary reversals of ambiguous figures shift neural dynamics in patients with implanted electrodes.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "e310082c-22c3-4309-a76b-a0ea01e8edf7",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "cc943012-eaf9-4b49-8888-0ddd651bc667",
+        "locator": "p. 421",
+        "quote": "This conjecture could eventually be tested by studying human clinical subjects with implanted electrodes"
+      }
+    ]
+  }
+}

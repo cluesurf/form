@@ -1,0 +1,45 @@
+{
+  "record": "proposition",
+  "id": "7a259f4d-fadc-4a8e-a29c-1a86668c70be",
+  "kind": "philosophical",
+  "epistemic_status": "inferred",
+  "title": "Critique: the brain simulator reply",
+  "statements": [
+    {
+      "id": "0db9077f-4861-44e4-9b35-96f50ac5e386",
+      "text": "A program that simulates the actual sequence of neuron firings in the brain of a native Chinese speaker would understand the stories, since at the level of synapses nothing would differ from the Chinese brain.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "0db9077f-4861-44e4-9b35-96f50ac5e386",
+  "status": "active",
+  "voice": "critique",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "6021411b-3296-4ed8-bddc-b15213e835f2",
+        "locator": "draft p. 8",
+        "quote": "simulates the actual sequence of neuron firings at the synapses of the brain of a native Chinese speaker"
+      }
+    ]
+  }
+}
