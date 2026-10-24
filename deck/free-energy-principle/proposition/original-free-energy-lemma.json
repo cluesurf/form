@@ -23,7 +23,14 @@
   "defines": null,
   "question": null,
   "prediction": null,
-  "standing": null,
+  "standing": {
+    "value": "rejected",
+    "reason": "Published counterexamples show the 2013 lemma does not hold at face value. Later formulations of the principle state it differently, so this rejects the 2013 statement only.",
+    "basis": [
+      "4772e272-02f0-4ef1-adf5-ecadedf78794"
+    ],
+    "proposal": null
+  },
   "origin": null,
   "provenance": {
     "written_by": "Lance Pollard",

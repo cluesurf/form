@@ -23,7 +23,12 @@
   "defines": null,
   "question": null,
   "prediction": null,
-  "standing": null,
+  "standing": {
+    "value": "open",
+    "reason": "Candidate for supported: fMRI of masked against visible words, and high-density ERPs across finely varied masking intervals, both show early sensory processing of stimuli that are not reported.",
+    "basis": [],
+    "proposal": null
+  },
   "origin": null,
   "provenance": {
     "written_by": "Lance Pollard",

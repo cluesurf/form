@@ -1,0 +1,54 @@
+{
+  "record": "proposition",
+  "id": "d99056a2-e89d-4517-8641-776add4c0df6",
+  "kind": "empirical",
+  "epistemic_status": "hypothesized",
+  "title": "Perception is inference about the hidden causes of signals",
+  "statements": [
+    {
+      "id": "44669c05-fd30-4922-8d00-ed5d6a5774c7",
+      "text": "Perceptual content is not read out from sensory signals. It is inferred: the system forms its best guess about the hidden causes of the signals at its boundary.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-23"
+    }
+  ],
+  "current_statement": "44669c05-fd30-4922-8d00-ed5d6a5774c7",
+  "status": "active",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "origin": [
+    {
+      "repository": "predictive-processing",
+      "id": "d06560be-270d-4cbc-97c7-5a2fb2967336"
+    },
+    {
+      "repository": "free-energy-principle",
+      "id": "32a89446-1c8e-4eb4-84c1-8580efffc7b7"
+    },
+    {
+      "repository": "free-energy-principle",
+      "id": "de4ece67-abb5-4cf5-9f67-d376a867e846"
+    },
+    {
+      "repository": "quantum-observers",
+      "id": "d51c1164-e6bf-46cb-8adc-1d6d303a322b"
+    }
+  ],
+  "provenance": {
+    "written_by": "github:lancejpollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": []
+  }
+}

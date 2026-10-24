@@ -24,9 +24,11 @@
   "question": null,
   "prediction": null,
   "standing": {
-    "value": "open",
-    "reason": "the paper's label is withdrawn. Regraded: L1, with the exchange sign an input. The dynamical result is open (OP-08)",
-    "basis": [],
+    "value": "rejected",
+    "reason": "Withdrawn by vibe's own 2026-08-31 audit of its published papers: the cited code does not support the label. Regraded: L1, with the exchange sign an input. The dynamical result is open (OP-08)",
+    "basis": [
+      "ef738159-6d9f-4b4d-b447-60e2b57bcff2"
+    ],
     "proposal": null
   },
   "origin": null,

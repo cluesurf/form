@@ -34,8 +34,8 @@ Four records the author deleted from Zenodo on 2026-07-26 (21531634,
 ## Commands
 
     form check .            validate. Must print PASS before any commit
-    form diff <shared>      claim-level difference from the shared model
-    form propose            open a proposal against the shared model
+    form diff               claim-level difference from the patterns folder
+    form propose            suggest a pattern to the patterns folder
 
 From the root of the form repository:
 

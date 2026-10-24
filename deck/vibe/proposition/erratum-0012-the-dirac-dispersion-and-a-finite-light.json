@@ -24,9 +24,11 @@
   "question": null,
   "prediction": null,
   "standing": {
-    "value": "open",
-    "reason": "the paper's label is withdrawn. Regraded: reproduced, L2, with prior art: Strauch 2006, Kurzynski 2008, Regensburger 2011, Kitagawa 2010, Asboth and Obuse 2013",
-    "basis": [],
+    "value": "rejected",
+    "reason": "Withdrawn by vibe's own 2026-08-31 audit of its published papers: the cited code does not support the label. Regraded: reproduced, L2, with prior art: Strauch 2006, Kurzynski 2008, Regensburger 2011, Kitagawa 2010, Asboth and Obuse 2013",
+    "basis": [
+      "10285f75-4250-42f8-860e-9548cb507e5e"
+    ],
     "proposal": null
   },
   "origin": null,

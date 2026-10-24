@@ -23,7 +23,12 @@
   "defines": null,
   "question": null,
   "prediction": null,
-  "standing": null,
+  "standing": {
+    "value": "open",
+    "reason": "Candidate for supported: TMS with high-density EEG found a local, short response in NREM sleep against a spreading one in wakefulness, and the perturbational complexity index separated wakefulness, sleep, three anesthetics and post-coma patients individually. The finding is the candidate, not its IIT reading.",
+    "basis": [],
+    "proposal": null
+  },
   "origin": null,
   "provenance": {
     "written_by": "Lance Pollard",

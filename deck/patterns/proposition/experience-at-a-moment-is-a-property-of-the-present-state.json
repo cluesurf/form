@@ -1,0 +1,58 @@
+{
+  "record": "proposition",
+  "id": "6ed6bd6a-7bf3-40f5-b4bf-02bc288964cd",
+  "kind": "philosophical",
+  "epistemic_status": "hypothesized",
+  "title": "Experience at a moment is a property of the present physical state",
+  "statements": [
+    {
+      "id": "0ae542a0-595d-4d63-8bf2-67aa7a15441f",
+      "text": "What is experienced at a moment is a property of the physical state, or event, at that moment. The frameworks that say so name different states: a topological pocket of a field, an orchestrated quantum reduction, the tones of a mesh at one beat, or whatever present property a theory identifies.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-23"
+    }
+  ],
+  "current_statement": "0ae542a0-595d-4d63-8bf2-67aa7a15441f",
+  "status": "active",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "origin": [
+    {
+      "repository": "present-state",
+      "id": "7b064350-7eaa-4ca3-a5e2-dbbe49d178f3"
+    },
+    {
+      "repository": "present-state",
+      "id": "03f83c7c-0e31-45fd-a108-9409b614ce40"
+    },
+    {
+      "repository": "orch-or",
+      "id": "9abc97e6-7a2f-4c55-9d2d-199f914c8d45"
+    },
+    {
+      "repository": "qualia-formalism",
+      "id": "e598f593-bef5-4555-b12b-bca6ef31a3aa"
+    },
+    {
+      "repository": "vibe",
+      "id": "c44f3a25-1608-4ac8-baa9-bd2467d283df"
+    }
+  ],
+  "provenance": {
+    "written_by": "github:lancejpollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": []
+  }
+}

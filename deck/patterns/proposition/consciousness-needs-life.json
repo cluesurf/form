@@ -1,0 +1,50 @@
+{
+  "record": "proposition",
+  "id": "b054483f-aed7-49ef-815b-c1b14b6f036b",
+  "kind": "philosophical",
+  "epistemic_status": "hypothesized",
+  "title": "Consciousness needs life",
+  "statements": [
+    {
+      "id": "dcdfa060-5c05-445c-9017-47d6112d87b3",
+      "text": "Consciousness depends on being alive, so an artificial system could be conscious only if it were in some relevant sense alive.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-23"
+    }
+  ],
+  "current_statement": "dcdfa060-5c05-445c-9017-47d6112d87b3",
+  "status": "active",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "origin": [
+    {
+      "repository": "predictive-processing",
+      "id": "64ce15ca-292e-414c-a199-f6796aed5316"
+    },
+    {
+      "repository": "predictive-processing",
+      "id": "27283751-985a-41db-b06f-46ff2a64bdbf"
+    },
+    {
+      "repository": "analytic-idealism",
+      "id": "5fa1fe00-d8af-49e8-9035-153850dc0420"
+    }
+  ],
+  "provenance": {
+    "written_by": "github:lancejpollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": []
+  }
+}

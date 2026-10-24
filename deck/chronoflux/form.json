@@ -4,7 +4,7 @@
   "name": "chronoflux",
   "title": "Chronoflux",
   "role": "model",
-  "summary": "Roy D. Herbert's program in which covariant continuity, a conserved temporal current, is the one primitive law, and relativity, gravity, quantum mechanics, thermodynamics, fluids and cosmology are recovered from it rung by rung. The papers are self-published on Zenodo, not peer-reviewed and not independently replicated.",
+  "summary": "Roy D. Herbert's program in which covariant continuity, a conserved temporal current, is the one primitive law, and relativity, gravity, quantum mechanics, thermodynamics, fluids and cosmology are recovered from it rung by rung.",
   "framework": {
     "originators": [
       "Roy D. Herbert"
@@ -16,7 +16,14 @@
       "Conservatio Continuum",
       "temporal continuity"
     ],
-    "homepage": "https://orcid.org/0009-0001-2132-2194"
+    "homepage": "https://orcid.org/0009-0001-2132-2194",
+    "publication": {
+      "venue": [
+        "self_published"
+      ],
+      "peer_review": "no",
+      "replication": "none"
+    }
   },
   "community_written": true,
   "curators": [
@@ -44,7 +51,7 @@
       "f529baea-9758-429b-a54c-20e8ec78fec9",
       "a1568aef-3ba6-4e21-aba7-1e2eba7e3196"
     ],
-    "flaws": [
+    "issues": [
       "7533bb10-ff79-48b4-a7dc-b1f7608323b1",
       "0a7c96b8-13d2-441b-8b10-be8f041f5cb8",
       "0267c83a-16f1-4e01-aaa3-dd717bbc1702",

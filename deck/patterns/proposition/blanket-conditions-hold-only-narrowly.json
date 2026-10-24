@@ -1,0 +1,46 @@
+{
+  "record": "proposition",
+  "id": "3fc0866f-2679-411e-800a-8e35e69d2265",
+  "kind": "mathematical",
+  "epistemic_status": "inferred",
+  "title": "Critique: the required conditions hold only in a narrow range",
+  "statements": [
+    {
+      "id": "8ce2f44e-fbf6-48e3-857c-67985f7d4489",
+      "text": "Even in weakly coupled linear stochastic systems, the Markov blanket condition and the restrictions on solenoidal flow hold only for a narrow range of parameters, and the step linking behavior to variational inference assumes an equivalence that does not hold in general.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-23"
+    }
+  ],
+  "current_statement": "8ce2f44e-fbf6-48e3-857c-67985f7d4489",
+  "status": "active",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "origin": [
+    {
+      "repository": "free-energy-principle",
+      "id": "4178c689-bab8-4711-a7fe-3286c7479ead"
+    },
+    {
+      "repository": "quantum-observers",
+      "id": "1abbde12-3116-4fbb-97d3-8d977e7f3e44"
+    }
+  ],
+  "provenance": {
+    "written_by": "github:lancejpollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": []
+  }
+}

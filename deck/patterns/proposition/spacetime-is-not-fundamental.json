@@ -1,0 +1,54 @@
+{
+  "record": "proposition",
+  "id": "38b0f09f-7f7d-4df6-a799-636d78b83f66",
+  "kind": "philosophical",
+  "epistemic_status": "hypothesized",
+  "title": "Spacetime is not fundamental",
+  "statements": [
+    {
+      "id": "d232a70f-e233-4caa-ad86-a567ef1d7092",
+      "text": "Spacetime is not fundamental: it is derived from something more basic, or is how something more basic appears.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-23"
+    }
+  ],
+  "current_statement": "d232a70f-e233-4caa-ad86-a567ef1d7092",
+  "status": "active",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "origin": [
+    {
+      "repository": "conscious-agents",
+      "id": "c868f77e-6dc9-45c4-9137-e79963d8977a"
+    },
+    {
+      "repository": "conscious-agents",
+      "id": "32cdef33-c3ab-44ac-b3f5-e633b389913f"
+    },
+    {
+      "repository": "quantum-observers",
+      "id": "b6f7752f-03b0-4521-9b4e-ab82da2f7ce6"
+    },
+    {
+      "repository": "analytic-idealism",
+      "id": "e1cbb8c7-7f5b-4aae-8757-8aa935b8234b"
+    }
+  ],
+  "provenance": {
+    "written_by": "github:lancejpollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": []
+  }
+}

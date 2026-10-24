@@ -1,17 +1,18 @@
 # form
 
 The records behind [form.surf](https://form.surf): theories of consciousness
-and reality, each stated as structured claims, evidence and links, and one
-shared model chiselled out of all of them.
+and reality, each stated as structured claims, evidence and links, and
+the patterns between them: what two or more have in common or at issue.
 
 Nobody competes here. Each folder states one framework's own claims from
-its public sources. The shared model keeps what survives evidence, marks
-what failed, and leaves every contradiction visible. Standing comes from
-evidence or derivation, never a vote.
+its public sources, with its own verdict on each. The patterns folder
+points at those claims: the same idea in several frameworks, each in its
+own words, and every contradiction and tension between them, kept
+visible. Standing comes from evidence or derivation, never a vote.
 
 | folder | what |
 | --- | --- |
-| [`shared-model/`](shared-model/) | The shared model, built from every folder below |
+| [`patterns/`](patterns/) | Patterns: what the folders below have in common or at issue |
 | [`analytic-idealism/`](analytic-idealism/) | Analytic idealism (Bernardo Kastrup) |
 | [`basal-cognition/`](basal-cognition/) | Basal cognition (Michael Levin) |
 | [`causal-emergence/`](causal-emergence/) | Causal emergence (Erik Hoel) |

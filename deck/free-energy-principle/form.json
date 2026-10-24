@@ -14,7 +14,15 @@
       "active inference",
       "Bayesian mechanics"
     ],
-    "homepage": "https://www.fil.ion.ucl.ac.uk/~karl/"
+    "homepage": "https://www.fil.ion.ucl.ac.uk/~karl/",
+    "publication": {
+      "venue": [
+        "peer_reviewed",
+        "book"
+      ],
+      "peer_review": "yes",
+      "replication": "partial"
+    }
   },
   "community_written": true,
   "curators": [
@@ -39,7 +47,7 @@
       "74e4c9e5-0753-4ca1-8441-99a3a976d322",
       "e7827c9f-e6f9-4c18-a8b4-16e1ad096361"
     ],
-    "flaws": [
+    "issues": [
       "0af8f6e7-b038-4ca5-a135-74215d4489cf",
       "8b5b4738-1b5d-49bf-a476-51c5ed1a140f",
       "4178c689-bab8-4711-a7fe-3286c7479ead",

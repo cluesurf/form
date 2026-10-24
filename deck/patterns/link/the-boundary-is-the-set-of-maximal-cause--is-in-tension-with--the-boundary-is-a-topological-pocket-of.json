@@ -1,0 +1,22 @@
+{
+  "record": "link",
+  "id": "6a756eb6-2fd4-4d23-a821-0ea793e98776",
+  "from": "47640b03-c621-46bf-a99f-c9eba092c00e",
+  "to": "7c8b99dc-d973-4835-900d-340b33ae0a12",
+  "relation": "is_in_tension_with",
+  "strength": null,
+  "rationale": "The two frameworks define the boundary differently, so the claims are kept apart rather than merged. One is a maximum over candidate sets of units, the other an edge in a continuous field.",
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "github:lancejpollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": []
+  }
+}

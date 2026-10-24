@@ -22,8 +22,9 @@ pages, and each quote is checked against its source on every run.
   hypothesized, designed, simulated).
 - **standing**: the repository's own verdict. `open` for every claim
   that holds or is untested, `rejected` for every negative result,
-  broken claim and refuted prediction, with the observation that failed
-  it. Nothing here is `integrated`.
+  broken claim and refuted prediction, and for every published label
+  the audit withdrew, with the observation that failed it. Nothing here
+  is `supported` yet.
 - **voice: critique**: an objection the program met or found in its own
   audits, linked `weakens` to the claims it targets. A claim an
   objection still stands against has `status: "disputed"`.

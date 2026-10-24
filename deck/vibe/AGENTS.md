@@ -25,14 +25,16 @@ into the research database and the next generation.
   Never set `reviewed` true: only a named person does that.
 - State the framework's own claims. A criticism is `voice: "critique"`
   with its source.
-- Never set a standing to `integrated` here. A negative result stays,
-  `rejected`, with the observation that failed it.
+- Set `supported` only with a basis link into the claim: `supports`
+  from an observation, or `entails` from a supported, mathematical or
+  definitional claim. A negative result stays, `rejected`, with the
+  observation that failed it.
 
 ## Commands
 
     form check .            validate. Must print PASS before any commit
-    form diff <shared>      claim-level difference from the shared model
-    form propose            open a proposal against the shared model
+    form diff               claim-level difference from the patterns folder
+    form propose            suggest a pattern to the patterns folder
 
 From the root of the form repository:
 

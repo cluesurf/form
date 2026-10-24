@@ -23,7 +23,12 @@
   "defines": null,
   "question": null,
   "prediction": null,
-  "standing": null,
+  "standing": {
+    "value": "open",
+    "reason": "Candidate for supported: the preregistered Cogitate adversarial test found 25 of 657 posterior intracranial electrodes with sustained activity tracking stimulus duration, passing the preregistered IIT duration criterion. Only 8 of 53 face-selective electrodes were sustained, so it holds for some posterior sites.",
+    "basis": [],
+    "proposal": null
+  },
   "origin": null,
   "provenance": {
     "written_by": "Lance Pollard",

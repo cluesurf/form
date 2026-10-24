@@ -1,0 +1,62 @@
+{
+  "record": "proposition",
+  "id": "78a9d476-89d2-44e7-94fa-8ce891162043",
+  "kind": "empirical",
+  "epistemic_status": "hypothesized",
+  "title": "Mind grows from self-maintenance",
+  "statements": [
+    {
+      "id": "e84d0dad-506c-4b69-ab84-4cff91cee92b",
+      "text": "Mind grows out of a living system's drive to keep itself within viable bounds: homeostasis, allostasis and the reduction of stress are where goals, selves and brains begin.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-23"
+    }
+  ],
+  "current_statement": "e84d0dad-506c-4b69-ab84-4cff91cee92b",
+  "status": "active",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "origin": [
+    {
+      "repository": "predictive-processing",
+      "id": "85798b18-5e70-437f-bd33-d5c5fcfb13e0"
+    },
+    {
+      "repository": "predictive-processing",
+      "id": "aa3d8ebd-d187-4b05-b746-0be0f45ab97c"
+    },
+    {
+      "repository": "basal-cognition",
+      "id": "9d71d7ec-cb23-46f0-b7d0-d47fdc3841c4"
+    },
+    {
+      "repository": "free-energy-principle",
+      "id": "4fa3bb7b-afdc-4a53-bd29-14eff8f2a27b"
+    },
+    {
+      "repository": "analytic-idealism",
+      "id": "bf3e61e0-36da-4450-bc48-e2237407f083"
+    },
+    {
+      "repository": "quantum-observers",
+      "id": "1c9acfdf-6d68-4978-ae24-4764b5552916"
+    }
+  ],
+  "provenance": {
+    "written_by": "github:lancejpollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": []
+  }
+}

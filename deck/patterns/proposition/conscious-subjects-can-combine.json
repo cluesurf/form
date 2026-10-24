@@ -1,0 +1,50 @@
+{
+  "record": "proposition",
+  "id": "483acd8a-eb6e-488a-ab53-9750bccfdb97",
+  "kind": "philosophical",
+  "epistemic_status": "hypothesized",
+  "title": "Conscious subjects can combine into a new subject",
+  "statements": [
+    {
+      "id": "97f75ef4-99da-4904-8cb4-1df613376ce6",
+      "text": "Conscious subjects can combine: two or more interacting agents or cells can form a new, larger agent or self.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-23"
+    }
+  ],
+  "current_statement": "97f75ef4-99da-4904-8cb4-1df613376ce6",
+  "status": "active",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "origin": [
+    {
+      "repository": "conscious-agents",
+      "id": "32feef21-5d38-4142-b2cf-17e91d9d47c5"
+    },
+    {
+      "repository": "conscious-agents",
+      "id": "c8d4361e-9e4d-48c6-b74a-473fb6721cb7"
+    },
+    {
+      "repository": "basal-cognition",
+      "id": "0ea669e5-1c9a-4e83-81fc-9a77105cd1a5"
+    }
+  ],
+  "provenance": {
+    "written_by": "github:lancejpollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": []
+  }
+}

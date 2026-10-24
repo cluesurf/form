@@ -23,7 +23,12 @@
   "defines": null,
   "question": null,
   "prediction": null,
-  "standing": null,
+  "standing": {
+    "value": "open",
+    "reason": "Candidate for supported: in a worked example, four noisy AND gates have 1.15 bits of effective information at the micro level and 1.55 bits at a two-element macro level, under the stated convention, which the normalization critique disputes as a measure of causation, not as arithmetic.",
+    "basis": [],
+    "proposal": null
+  },
   "origin": null,
   "provenance": {
     "written_by": "Lance Pollard",

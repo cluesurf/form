@@ -24,9 +24,11 @@
   "question": null,
   "prediction": null,
   "standing": {
-    "value": "open",
-    "reason": "the paper's label is withdrawn. Regraded: reproduced, and the verdict is fixed",
-    "basis": [],
+    "value": "rejected",
+    "reason": "Withdrawn by vibe's own 2026-08-31 audit of its published papers: the cited code does not support the label. Regraded: reproduced, and the verdict is fixed",
+    "basis": [
+      "1a45bfcf-ce74-4cb6-9f33-3f7db0d822ce"
+    ],
     "proposal": null
   },
   "origin": null,

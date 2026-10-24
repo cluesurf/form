@@ -26,8 +26,8 @@ This repository is community-written. Its records state Bernardo Kastrup's own c
 ## Commands
 
     form check .            validate. Must print PASS before any commit
-    form diff <shared>      claim-level difference from the shared model
-    form propose            open a proposal against the shared model
+    form diff               claim-level difference from the patterns folder
+    form propose            suggest a pattern to the patterns folder
 
 From the root of the form repository:
 

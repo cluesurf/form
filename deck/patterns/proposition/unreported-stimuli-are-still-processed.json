@@ -1,0 +1,50 @@
+{
+  "record": "proposition",
+  "id": "5c24f0f9-c678-40cf-97f1-1d6cb0055159",
+  "kind": "empirical",
+  "epistemic_status": "observed",
+  "title": "Stimuli people cannot report are still processed",
+  "statements": [
+    {
+      "id": "8b3893c1-660b-4ed8-8f66-32e87eeeb9de",
+      "text": "Stimuli that people cannot report, such as backward-masked words, are still processed in sensory cortex, while the same stimuli when reported also evoke a late, widespread fronto-parietal activation.",
+      "language": "en",
+      "scope": "masking studies of vision, as reported in the global-workspace repository",
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-23"
+    }
+  ],
+  "current_statement": "8b3893c1-660b-4ed8-8f66-32e87eeeb9de",
+  "status": "active",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "origin": [
+    {
+      "repository": "global-workspace",
+      "id": "531299ba-d038-40da-833a-b9daf54d142a"
+    },
+    {
+      "repository": "global-workspace",
+      "id": "1055d47d-5d1e-4e5f-ae45-d6e775e2fe73"
+    },
+    {
+      "repository": "analytic-idealism",
+      "id": "cd0d5d00-1ff3-4933-b1fe-e9a4481f53a8"
+    }
+  ],
+  "provenance": {
+    "written_by": "github:lancejpollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": []
+  }
+}

@@ -26,11 +26,13 @@ theory of it and spiraling down to the base.** Each folder in [`deck/`](deck/) s
 about consciousness and reality, from its public sources, as structured
 records: claims, the evidence for and against them, the experiments that
 test them, and the links between them. The
-[shared model](deck/shared-model/) is chiselled out of all of them.
+[patterns](deck/patterns/) folder records what two or more of them have
+in common or at issue.
 
-Nobody competes here. A claim two frameworks share becomes one claim. A
-claim that failed a test is marked rejected and kept, with the failure
-written down. A contradiction stays visible as an open claim until
+Nobody competes here. An idea several frameworks hold is one pattern,
+each framework's own wording kept beside it. A claim that failed a test
+is marked rejected in its own folder and kept, with the failure written
+down. A contradiction between frameworks stays visible as a pattern until
 evidence settles it. Standing comes from evidence or derivation, never a
 vote.
 
@@ -38,7 +40,7 @@ vote.
 
 | folder | framework |
 | :--- | :--- |
-| [`shared-model`](deck/shared-model/) | The shared model, built from every folder below |
+| [`patterns`](deck/patterns/) | Patterns: what the folders below have in common or at issue |
 | [`analytic-idealism`](deck/analytic-idealism/) | Analytic idealism (Bernardo Kastrup) |
 | [`basal-cognition`](deck/basal-cognition/) | Basal cognition (Michael Levin) |
 | [`causal-emergence`](deck/causal-emergence/) | Causal emergence (Erik Hoel) |
@@ -60,8 +62,7 @@ vote.
 Every record outside `vibe` is community-written, drafted by AI from the
 framework's published sources, and unreviewed unless its
 `provenance.reviewed` is true. No framework's authors wrote or endorsed
-their folder. The shared model holds 129 claims: 16 rejected, 113 open,
-and 5 proposed for integration, waiting on review.
+their folder.
 
 A framework's author is welcome to check their folder and reply in their
 own words. A way for authors to look after their own folder is planned,
@@ -74,7 +75,9 @@ that shows the error. Each folder is one repository in format
 `form.surf/1`: a `form.json`, one JSON file per record in `proposition/`,
 `observation/`, `procedure/`, `link/`, `source/` and `question/`, prose in
 `paper/`, and an `AGENTS.md` for any AI agent working in it. Every folder
-must pass `form check` before a commit.
+must pass `form check` before a commit. A new pattern, a correction to
+one, or its removal is a pull request with a `proposal/` record in
+`patterns/`.
 
 ## License
 
