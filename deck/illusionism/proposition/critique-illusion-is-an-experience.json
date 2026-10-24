@@ -1,0 +1,50 @@
+{
+  "record": "proposition",
+  "id": "b58b2caf-740d-426d-87cc-fc7823c4de83",
+  "kind": "philosophical",
+  "epistemic_status": "hypothesized",
+  "title": "Critique: an illusion of consciousness would itself be an experience",
+  "statements": [
+    {
+      "id": "c9df22ca-8112-4f34-af6e-740047288fe7",
+      "text": "Some philosophers hold that strong illusionism refutes itself: an illusion is an experience, so if consciousness is an illusion, the illusion is a phenomenally conscious state after all. Chalmers reports this charge and rejects it, since a strong illusionist can take illusions to be judgments, intuitions or dispositions to report.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "c9df22ca-8112-4f34-af6e-740047288fe7",
+  "status": "active",
+  "voice": "critique",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "a674a239-2ee2-4dff-968c-41e3daaa5217",
+        "locator": "p. 52",
+        "quote": "so that if consciousness is an illusion, the illusion is itself an experience"
+      },
+      {
+        "source": "a674a239-2ee2-4dff-968c-41e3daaa5217",
+        "locator": "p. 52",
+        "quote": "The strong illusionist can simply understand illusions non-experientially as judgments"
+      }
+    ]
+  }
+}

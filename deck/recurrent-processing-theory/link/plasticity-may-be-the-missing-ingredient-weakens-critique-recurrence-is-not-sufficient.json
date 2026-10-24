@@ -1,0 +1,33 @@
+{
+  "record": "link",
+  "id": "c092a36f-8963-43c4-a100-8bcce6507944",
+  "from": "426d18f5-7fc5-4c54-804f-1d1a789ad611",
+  "to": "163ee071-4b2b-41a1-a74e-47aa48414f51",
+  "relation": "weakens",
+  "strength": null,
+  "rationale": "If recurrence counts only when it drives plasticity, recurrence in unconscious states need not be conscious.",
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "6dd7dbf6-162b-4cc6-99d2-6ac597b93829",
+        "locator": "p. 1538",
+        "quote": "may be neural plasticity, since RP may satisfy Hebb’s rule"
+      },
+      {
+        "source": "6dd7dbf6-162b-4cc6-99d2-6ac597b93829",
+        "locator": "p. 1543",
+        "quote": "Lamme also discussed whether even RP between interconnected neuron pairs may perhaps generate some consciousness"
+      }
+    ]
+  }
+}

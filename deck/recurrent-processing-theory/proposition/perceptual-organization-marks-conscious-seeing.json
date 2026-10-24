@@ -1,0 +1,50 @@
+{
+  "record": "proposition",
+  "id": "8162d2a9-b3b1-4663-a32b-d2fba15a1a92",
+  "kind": "empirical",
+  "epistemic_status": "inferred",
+  "title": "Perceptual organization marks the step to conscious seeing",
+  "statements": [
+    {
+      "id": "23fd4d60-192d-412a-af7b-0ab321ec7b8d",
+      "text": "Grouping, figure-ground segregation and the integration of features into objects happen only when a stimulus is consciously seen, so perceptual organization is the function at the center of the step from unconscious to conscious vision. Recurrent connections carry it.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "23fd4d60-192d-412a-af7b-0ab321ec7b8d",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b9050313-e369-439d-a181-b751070bb3df",
+        "locator": "abstract, p. 1",
+        "quote": "It is argued that perceptual organization is the function that is central to understanding the transition from unconscious to conscious seeing."
+      },
+      {
+        "source": "b9050313-e369-439d-a181-b751070bb3df",
+        "locator": "p. 7",
+        "quote": "while conscious functions related to perceptual organization are mediated by recurrent (feedback, or re-entrant) cortico-cortical connections"
+      }
+    ]
+  }
+}

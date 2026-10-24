@@ -1,0 +1,33 @@
+{
+  "record": "link",
+  "id": "b1c4f626-df1d-4483-a7df-6e8d7353e95a",
+  "from": "e38a7ce8-39c2-4bca-858e-4f89758249f6",
+  "to": "25716c9d-d953-41e9-9e1f-c692adc69775",
+  "relation": "requires",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b9050313-e369-439d-a181-b751070bb3df",
+        "locator": "p. 4",
+        "quote": "All measurements of consciousness in one way or another rely on subjects reporting, mostly via button presses."
+      },
+      {
+        "source": "7f15335d-27d6-4836-856e-8f65bdffc569",
+        "locator": "p. 512",
+        "quote": "The neuroscience angle brings that out immediately, and much more convincingly"
+      }
+    ]
+  }
+}

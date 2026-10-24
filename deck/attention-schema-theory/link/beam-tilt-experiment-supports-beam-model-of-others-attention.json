@@ -1,0 +1,33 @@
+{
+  "record": "link",
+  "id": "2947d792-685f-4e72-8074-bfb7d812aade",
+  "from": "532f403c-8dcb-4d8b-a547-4f5c52ee45d8",
+  "to": "3eb0b972-b63c-457b-8da8-cf05a6fb834c",
+  "relation": "supports",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "dd561a28-a492-4c01-8a1a-71cbc9432dc1",
+        "locator": "Results for Experiment 1",
+        "quote": "This difference was statistically significant (two-tailed t test, t = 2.75, df 146, P = 0.006)."
+      },
+      {
+        "source": "dd561a28-a492-4c01-8a1a-71cbc9432dc1",
+        "locator": "Discussion",
+        "quote": "Other explanations of the data, for example involving a low-level visual tilt illusion, might still be possible."
+      }
+    ]
+  }
+}

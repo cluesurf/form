@@ -1,0 +1,50 @@
+{
+  "record": "proposition",
+  "id": "f284b5bc-b148-47d3-b1f2-b0d7cbf929fe",
+  "kind": "philosophical",
+  "epistemic_status": "inferred",
+  "title": "Apparent anomalousness is evidence for illusion",
+  "statements": [
+    {
+      "id": "723bd67e-38c2-4a8d-a36e-2959de6833ed",
+      "text": "If a property resists physical explanation or can be detected only from one perspective, the simplest explanation is that it is illusory. The explanatory gap, the conceivability of zombies and the perspectival nature of phenomenal knowledge then support illusionism as much as radical realism, and since introspection cannot check its own accuracy, there is an abductive inference that phenomenality is illusory.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "723bd67e-38c2-4a8d-a36e-2959de6833ed",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "60178d6b-6c55-4495-83a5-786a1c742af3",
+        "locator": "eprint p. 14",
+        "quote": "In general, apparent anomalousness is evidence for illusion."
+      },
+      {
+        "source": "60178d6b-6c55-4495-83a5-786a1c742af3",
+        "locator": "eprint p. 14",
+        "quote": "But we have no introspective way of checking the accuracy of our introspective representations"
+      }
+    ]
+  }
+}

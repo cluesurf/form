@@ -1,0 +1,28 @@
+{
+  "record": "link",
+  "id": "0515f136-9cb0-43b8-9936-624247549269",
+  "from": "fe4fee84-8063-480d-aa75-573a3d991974",
+  "to": "e78e5752-820f-44d0-842e-a62c8a216307",
+  "relation": "defines",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "61ac5725-c520-44e1-bde8-528292ef2815",
+        "locator": "p. 3",
+        "quote": "An embedding is a pattern of activity among neurons, a code that in this case stands for semantic concepts."
+      }
+    ]
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "record": "proposition",
+  "id": "886a22e5-5ade-488a-8113-a1975a704647",
+  "kind": "empirical",
+  "epistemic_status": "inferred",
+  "title": "The feedforward sweep is unconscious however deep it reaches",
+  "statements": [
+    {
+      "id": "8de8f0e5-eabc-407d-8a9e-623223276b2b",
+      "text": "Any visual operation carried out through feedforward connections, including feature extraction and categorization of shapes and faces, proceeds without consciousness. Information sweeps from visual to frontal areas without experience, and a deep enough sweep can even drive unconscious behavior.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "8de8f0e5-eabc-407d-8a9e-623223276b2b",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b9050313-e369-439d-a181-b751070bb3df",
+        "locator": "p. 4",
+        "quote": "any visual operation that is \"hardwired\" via feedforward connections does not depend on any form of consciousness"
+      },
+      {
+        "source": "7f15335d-27d6-4836-856e-8f65bdffc569",
+        "locator": "p. 512",
+        "quote": "Information sweeps from visual to frontal areas, not accompanied by conscious experience"
+      },
+      {
+        "source": "7f15335d-27d6-4836-856e-8f65bdffc569",
+        "locator": "p. 512",
+        "quote": "Unconscious behavioral effects (like priming) are possible only when the feedforward sweep penetrates deeply into the sensorimotor cascade."
+      }
+    ]
+  }
+}

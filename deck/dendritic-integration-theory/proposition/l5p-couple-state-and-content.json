@@ -1,0 +1,50 @@
+{
+  "record": "proposition",
+  "id": "b6acb562-981e-4628-afa6-9656f0e92451",
+  "kind": "empirical",
+  "epistemic_status": "hypothesized",
+  "title": "Layer 5 pyramidal neurons couple the state and contents of consciousness",
+  "statements": [
+    {
+      "id": "a00ea2c9-4449-4d1e-97fc-932e2c07d0fd",
+      "text": "Layer 5 pyramidal neurons receive input from and send output to both thalamus and cortex, so the thalamo-cortical and cortico-cortical loops meet in them. That coupling of the two loops is the neural counterpart of the coupling of the state and the contents of consciousness.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "a00ea2c9-4449-4d1e-97fc-932e2c07d0fd",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "e3de91d3-ef9c-49b2-a711-bf6966c2cca3",
+        "locator": "abstract, p. 1",
+        "quote": "both the state and the contents of consciousness depend on the activity of cortical layer 5 pyramidal (L5p) neurons"
+      },
+      {
+        "source": "e3de91d3-ef9c-49b2-a711-bf6966c2cca3",
+        "locator": "p. 2",
+        "quote": "couple these two loops in a unique way, hence functionally coupling the state and contents of consciousness"
+      }
+    ]
+  }
+}

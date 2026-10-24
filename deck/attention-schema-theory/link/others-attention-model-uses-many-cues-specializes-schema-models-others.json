@@ -1,0 +1,28 @@
+{
+  "record": "link",
+  "id": "ac25563a-70ec-4c8b-bf6c-b55d09e2771d",
+  "from": "80c742df-d8aa-4554-988f-2e8f8ea6e5ae",
+  "to": "a015f1a4-c9de-42a7-bd73-96eb95f5bf0b",
+  "relation": "specializes",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "fac99a9d-34e2-480f-a153-8579ad6cd3c0",
+        "locator": "abstract, p. 2",
+        "quote": "they construct a model of attention, or an attention schema, that is informed by a combination of surface cues"
+      }
+    ]
+  }
+}

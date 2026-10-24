@@ -1,0 +1,45 @@
+{
+  "record": "proposition",
+  "id": "7dd61f1c-1b39-4abe-9c09-8ecb60e2528b",
+  "kind": "philosophical",
+  "epistemic_status": "hypothesized",
+  "title": "Seeming to have an experience is representing oneself as having it",
+  "statements": [
+    {
+      "id": "896ee422-79e0-4a77-8ff0-aa37dc854103",
+      "text": "Seeming to have a greenish experience, in the illusionist sense, is introspectively representing oneself as having a greenish experience, which can occur without having one. The content of introspective representations is fixed by non-phenomenal, causal or functional factors, so no greenish mode of presentation is needed.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "896ee422-79e0-4a77-8ff0-aa37dc854103",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "60178d6b-6c55-4495-83a5-786a1c742af3",
+        "locator": "eprint p. 18",
+        "quote": "They mean introspectively representing oneself as having a greenish experience, and one can do this without having a greenish experience."
+      }
+    ]
+  }
+}

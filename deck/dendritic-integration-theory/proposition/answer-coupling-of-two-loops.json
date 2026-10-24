@@ -1,0 +1,45 @@
+{
+  "record": "proposition",
+  "id": "8d41031f-8985-412c-ac58-8d9c86ac43da",
+  "kind": "empirical",
+  "epistemic_status": "hypothesized",
+  "title": "Answer: consciousness is the joint completion of two loops in layer 5 neurons",
+  "statements": [
+    {
+      "id": "2e379609-7993-44a5-b1f2-ab4a815ba8e8",
+      "text": "Consciousness, both phenomenal and access, involves the simultaneous completion of the cortico-cortical and thalamo-cortical loops through dendritic processing in layer 5 pyramidal neurons. Its state and its contents are two sides of that coupling.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "2e379609-7993-44a5-b1f2-ab4a815ba8e8",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "18284858-8ad4-49e0-b7f6-d13c8a90227b",
+        "locator": "p. 1534",
+        "quote": "It hypothesizes that both AC and PC involve simultaneous completion of these loops due to dendritic processing."
+      }
+    ]
+  }
+}

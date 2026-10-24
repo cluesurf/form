@@ -1,0 +1,45 @@
+{
+  "record": "proposition",
+  "id": "4491dfd7-8f7d-46ac-8358-53bb0df3db43",
+  "kind": "empirical",
+  "epistemic_status": "inferred",
+  "title": "Whether local recurrence is conscious is an empirical question",
+  "statements": [
+    {
+      "id": "e0a5a1e4-2075-4410-9a3d-50b6b2855a81",
+      "text": "Since few dispute that the feedforward sweep is unconscious and that globally accessed states are conscious, whether local recurrence is conscious becomes the empirical question of which of the two it resembles, for example whether it shows perceptual binding.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "e0a5a1e4-2075-4410-9a3d-50b6b2855a81",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "7f15335d-27d6-4836-856e-8f65bdffc569",
+        "locator": "p. 512",
+        "quote": "the question becomes whether I2 is more like I1 (i.e., unconscious) or like I3 (conscious). This is an empirical issue."
+      }
+    ]
+  }
+}

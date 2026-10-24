@@ -1,0 +1,38 @@
+{
+  "record": "link",
+  "id": "4538002e-6bba-465b-9ece-ab10bb60e5bf",
+  "from": "f1a9e705-94df-4e15-baef-206d8ee3916e",
+  "to": "a8038f5d-325a-4fd5-aa58-a1b310a12e02",
+  "relation": "requires",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "75b3e491-bd2d-47a1-99af-07db4daaf2ae",
+        "locator": "p. 27",
+        "quote": "Heterophenomenology is the beginning of a science of consciousness, not the end."
+      },
+      {
+        "source": "75b3e491-bd2d-47a1-99af-07db4daaf2ae",
+        "locator": "p. 29",
+        "quote": "Nobody has yet pointed to any variety of data that are inaccessible to heterophenomenology."
+      },
+      {
+        "source": "75b3e491-bd2d-47a1-99af-07db4daaf2ae",
+        "locator": "p. 30",
+        "quote": "consciousness is more like stage magic than black magic, requiring no revolution in either physics or metaphysics"
+      }
+    ]
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "record": "link",
+  "id": "ab35c55e-958e-45a2-872d-80cebc27ede2",
+  "from": "bf2d8bf3-023c-4729-bd40-55e414f0ae0b",
+  "to": "4491dfd7-8f7d-46ac-8358-53bb0df3db43",
+  "relation": "weakens",
+  "strength": null,
+  "rationale": "If similarity depends on the chosen metric, which stage local recurrence resembles is not settled by neuroscience alone.",
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "e46f5f83-75f0-462e-b0d5-86b952498658",
+        "locator": "p. 541",
+        "quote": "He and I agree almost completely about what is conscious and what is not and the reasoning why, but not on the abstract methodological description."
+      },
+      {
+        "source": "e46f5f83-75f0-462e-b0d5-86b952498658",
+        "locator": "p. 541",
+        "quote": "There is no abstract issue of whether I2 is more like I1 than I3."
+      }
+    ]
+  }
+}

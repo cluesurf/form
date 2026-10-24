@@ -1,0 +1,33 @@
+{
+  "record": "link",
+  "id": "a97086f4-70aa-4924-9310-9de232597268",
+  "from": "ff0a3415-9052-4f99-ab34-09d88b0629de",
+  "to": "b6acb562-981e-4628-afa6-9656f0e92451",
+  "relation": "weakens",
+  "strength": null,
+  "rationale": "If separate cell classes serve the two loops, the loops do not meet in one neuron.",
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "e3de91d3-ef9c-49b2-a711-bf6966c2cca3",
+        "locator": "Limitations, p. 6",
+        "quote": "is it even meaningful to suggest that there is an intersection of these loops?"
+      },
+      {
+        "source": "e3de91d3-ef9c-49b2-a711-bf6966c2cca3",
+        "locator": "Limitations, p. 6",
+        "quote": "We note that the direct evidence for this last claim is scarce"
+      }
+    ]
+  }
+}

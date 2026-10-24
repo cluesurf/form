@@ -1,0 +1,50 @@
+{
+  "record": "proposition",
+  "id": "5b746f11-c8f7-486e-b807-58421d272567",
+  "kind": "empirical",
+  "epistemic_status": "inferred",
+  "title": "The theory works at the cellular level and is neutral on front versus back",
+  "statements": [
+    {
+      "id": "d616d684-abf8-44ff-88d1-5dadd8629217",
+      "text": "Dendritic integration theory focuses on the cellular basis of consciousness and takes no side in the debate over whether anterior or posterior cortex holds conscious vision. It is offered as a cellular basis compatible with network theories such as IIT, recurrent processing, neurorepresentationalism and the global workspace.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "d616d684-abf8-44ff-88d1-5dadd8629217",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "18284858-8ad4-49e0-b7f6-d13c8a90227b",
+        "locator": "p. 1544",
+        "quote": "DIT focuses more strongly on the cellular basis of consciousness"
+      },
+      {
+        "source": "18284858-8ad4-49e0-b7f6-d13c8a90227b",
+        "locator": "Figure 7, p. 1546",
+        "quote": "DIT is proposed to provide a cellular basis for brain network functions that appear to be necessary for consciousness (both PC and AC), and is compatible with"
+      }
+    ]
+  }
+}

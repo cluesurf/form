@@ -1,0 +1,33 @@
+{
+  "record": "link",
+  "id": "1915dc30-76ac-4de3-8748-50ffdb990989",
+  "from": "123dc4ed-3836-435a-87b8-47833eb83fa1",
+  "to": "4fb328f4-721a-4f9b-ab89-42eb37e7f101",
+  "relation": "supports",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "18284858-8ad4-49e0-b7f6-d13c8a90227b",
+        "locator": "p. 1539",
+        "quote": "Loss of consciousness due to anesthesia correlates with a decoupling of the apical from the basal dendrites in these neurons."
+      },
+      {
+        "source": "3519c086-a3e3-4b1c-9631-78b193482d93",
+        "locator": "p. 11",
+        "quote": "the authors provided suggestive evidence that the activity of the metabotropic receptors might be controlled by the higher-order thalamus"
+      }
+    ]
+  }
+}

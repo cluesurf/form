@@ -1,0 +1,33 @@
+{
+  "record": "link",
+  "id": "7c51964b-b076-4fdf-a72b-497d7b1d7cb6",
+  "from": "e53fb1f7-66d8-4110-93d1-db7473e42e5b",
+  "to": "32325989-5e0b-431e-b8b7-a3ba0134ebb3",
+  "relation": "supports",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "0ba5a059-2ae2-4142-85ea-f18a0a975bc1",
+        "locator": "abstract, p. 1488",
+        "quote": "we conclude that masking derives its effectiveness, at least partly, from disrupting reentrant processing"
+      },
+      {
+        "source": "0ba5a059-2ae2-4142-85ea-f18a0a975bc1",
+        "locator": "p. 1495",
+        "quote": "more posterior >110 msec activity is (at least) a necessary condition for awareness to arise"
+      }
+    ]
+  }
+}

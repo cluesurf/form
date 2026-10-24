@@ -1,0 +1,33 @@
+{
+  "record": "link",
+  "id": "66f9ccc1-03aa-4daa-b730-ea07fec1c5b4",
+  "from": "a0ea2783-fc54-488d-9a1c-7156bc7cc850",
+  "to": "80a13f1a-5792-4475-bf1f-277c495add10",
+  "relation": "requires",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "18284858-8ad4-49e0-b7f6-d13c8a90227b",
+        "locator": "p. 1534",
+        "quote": "DIT is a recently proposed theory, mainly operating at the cell"
+      },
+      {
+        "source": "3519c086-a3e3-4b1c-9631-78b193482d93",
+        "locator": "p. 10",
+        "quote": "This implies that consciousness relies on specific neural processes that are different in conscious and unconscious brains."
+      }
+    ]
+  }
+}

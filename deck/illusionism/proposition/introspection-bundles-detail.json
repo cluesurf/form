@@ -1,0 +1,45 @@
+{
+  "record": "proposition",
+  "id": "7cb2a504-f307-4d26-839a-4057dccecef6",
+  "kind": "philosophical",
+  "epistemic_status": "hypothesized",
+  "title": "Introspection bundles complex detail into a simple feel",
+  "statements": [
+    {
+      "id": "c64bd344-6de6-4fe7-89d2-6768ace4a424",
+      "text": "Sensory states have complex chemical and biological properties, representational content, and cognitive, motivational and emotional effects. Introspection does not represent all this detail but bundles it together as a simple, intrinsic phenomenal feel, as a conjuring audience sees sleight of hand as a simple magical effect.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "c64bd344-6de6-4fe7-89d2-6768ace4a424",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "60178d6b-6c55-4495-83a5-786a1c742af3",
+        "locator": "eprint p. 6",
+        "quote": "Rather, it bundles it all together, representing it as a simple, intrinsic phenomenal feel."
+      }
+    ]
+  }
+}

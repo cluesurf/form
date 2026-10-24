@@ -1,0 +1,33 @@
+{
+  "record": "link",
+  "id": "20953d90-ecdc-4f7f-be3f-88e60d55450c",
+  "from": "2ed7e3d4-d96e-48f6-9a41-114249b5740a",
+  "to": "207e4a3b-ad2b-4840-a03f-c87214551bd9",
+  "relation": "requires",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "61ac5725-c520-44e1-bde8-528292ef2815",
+        "locator": "p. 11",
+        "quote": "i-GW and AST are really just different versions of the same theory"
+      },
+      {
+        "source": "61ac5725-c520-44e1-bde8-528292ef2815",
+        "locator": "p. 8",
+        "quote": "Suppose that in addition to having a global workspace, Bob’s brain also constructs a model of its own global workspace."
+      }
+    ]
+  }
+}

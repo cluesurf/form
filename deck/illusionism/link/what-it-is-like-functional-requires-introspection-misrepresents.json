@@ -1,0 +1,28 @@
+{
+  "record": "link",
+  "id": "e486e368-fddb-4b18-a116-c726b976d130",
+  "from": "7cd5426e-6fcf-4800-8efc-5d2e01173e4c",
+  "to": "af6b4826-1c3c-4063-9d43-37fe2abd8c2b",
+  "relation": "requires",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "60178d6b-6c55-4495-83a5-786a1c742af3",
+        "locator": "eprint p. 10",
+        "quote": "Illusionists can say that one’s experiences are like something if one is aware of them in a functional sense, courtesy of introspective representational mechanisms."
+      }
+    ]
+  }
+}

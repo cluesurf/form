@@ -1,0 +1,50 @@
+{
+  "record": "proposition",
+  "id": "e53fb1f7-66d8-4110-93d1-db7473e42e5b",
+  "kind": "empirical",
+  "epistemic_status": "inferred",
+  "title": "Masking works by disrupting recurrent processing",
+  "statements": [
+    {
+      "id": "1dcf22bf-09a4-4621-9543-526b6cbf458f",
+      "text": "Backward masking derives its effect, at least in part, from interrupting recurrent processing while leaving the feedforward sweep intact. Activity before about 110 ms is unconscious, while posterior activity after 110 ms is at least a necessary condition for awareness.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "1dcf22bf-09a4-4621-9543-526b6cbf458f",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "0ba5a059-2ae2-4142-85ea-f18a0a975bc1",
+        "locator": "abstract, p. 1488",
+        "quote": "we conclude that masking derives its effectiveness, at least partly, from disrupting reentrant processing"
+      },
+      {
+        "source": "0ba5a059-2ae2-4142-85ea-f18a0a975bc1",
+        "locator": "p. 1495",
+        "quote": "more posterior >110 msec activity is (at least) a necessary condition for awareness to arise"
+      }
+    ]
+  }
+}

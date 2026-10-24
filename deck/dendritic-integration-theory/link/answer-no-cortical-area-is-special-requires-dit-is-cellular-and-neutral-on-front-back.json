@@ -1,0 +1,33 @@
+{
+  "record": "link",
+  "id": "9decca8d-1ab0-4fd2-b608-2b13339dd835",
+  "from": "eb48e9ee-965f-4d57-bdf3-5e2a2426271b",
+  "to": "5b746f11-c8f7-486e-b807-58421d272567",
+  "relation": "requires",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "e3de91d3-ef9c-49b2-a711-bf6966c2cca3",
+        "locator": "p. 2",
+        "quote": "there is no specific area of the cortex that is related to consciousness: it is the interplay with the thalamus that matters"
+      },
+      {
+        "source": "18284858-8ad4-49e0-b7f6-d13c8a90227b",
+        "locator": "p. 1544",
+        "quote": "DIT focuses more strongly on the cellular basis of consciousness"
+      }
+    ]
+  }
+}

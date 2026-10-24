@@ -1,0 +1,28 @@
+{
+  "record": "link",
+  "id": "6ab85582-7e02-4af5-872f-268aa11e2248",
+  "from": "ad06e01c-76a6-4c77-b194-2c88795dcd44",
+  "to": "5ffca435-7098-4879-88b9-acbab3b82b01",
+  "relation": "requires",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "6dd7dbf6-162b-4cc6-99d2-6ac597b93829",
+        "locator": "p. 1537",
+        "quote": "Victor Lamme developed RPT based on experiments on primate vision"
+      }
+    ]
+  }
+}

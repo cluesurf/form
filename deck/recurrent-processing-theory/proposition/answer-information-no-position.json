@@ -1,0 +1,45 @@
+{
+  "record": "proposition",
+  "id": "de66a2fe-9f28-4014-a9e1-f2eb8ef8dbcd",
+  "kind": "philosophical",
+  "epistemic_status": "inferred",
+  "title": "Answer: takes no position on information",
+  "statements": [
+    {
+      "id": "63ae0c5b-238c-4319-9e58-cebb2322a82d",
+      "text": "The theory gives no account of information. It holds that the information about features and categories in a scene is extracted in the feedforward sweep regardless of consciousness, so carrying information is not what makes a state conscious.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "63ae0c5b-238c-4319-9e58-cebb2322a82d",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b9050313-e369-439d-a181-b751070bb3df",
+        "locator": "p. 4",
+        "quote": "everything there is to \"know\" in terms of localized features and categories about the visual scene is extracted"
+      }
+    ]
+  }
+}

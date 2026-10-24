@@ -1,0 +1,33 @@
+{
+  "record": "link",
+  "id": "b3f7b7e9-e86c-4430-ae3a-f889b7b8a4a6",
+  "from": "755e590e-12f4-4041-9965-617a8306790d",
+  "to": "0b49e350-0d1e-4e8e-b324-b739138b652f",
+  "relation": "supports",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "1c1a3d37-7753-49f0-8609-a4446761a5ec",
+        "locator": "abstract, p. 2",
+        "quote": "Almost all people (89%) described consciousness as fundamentally receptive"
+      },
+      {
+        "source": "1c1a3d37-7753-49f0-8609-a4446761a5ec",
+        "locator": "p. 24",
+        "quote": "Only two participants mentioned any property resembling selective attention."
+      }
+    ]
+  }
+}

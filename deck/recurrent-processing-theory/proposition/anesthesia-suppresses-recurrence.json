@@ -1,0 +1,50 @@
+{
+  "record": "proposition",
+  "id": "e4a28076-6570-4331-b215-61cfbcdc688a",
+  "kind": "empirical",
+  "epistemic_status": "inferred",
+  "title": "Anesthesia suppresses recurrence and spares the feedforward sweep",
+  "statements": [
+    {
+      "id": "d3fbcadd-b1e5-4670-b8e1-c0ac4df52495",
+      "text": "Anesthesia suppresses recurrent processing while feedforward processing goes on, and it leaves every stimulus fully invisible.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "d3fbcadd-b1e5-4670-b8e1-c0ac4df52495",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "7f15335d-27d6-4836-856e-8f65bdffc569",
+        "locator": "p. 512",
+        "quote": "Finally, recurrent processing is suppressed by anesthesia, whereas feedforward is not"
+      },
+      {
+        "source": "b9050313-e369-439d-a181-b751070bb3df",
+        "locator": "p. 2",
+        "quote": "Anesthesia renders everything stage 1."
+      }
+    ]
+  }
+}

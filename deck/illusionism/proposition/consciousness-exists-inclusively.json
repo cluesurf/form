@@ -1,0 +1,45 @@
+{
+  "record": "proposition",
+  "id": "a541d56a-45a6-49ea-9520-534c06efd2e3",
+  "kind": "philosophical",
+  "epistemic_status": "inferred",
+  "title": "Consciousness exists in an inclusive sense, mischaracterized as phenomenal",
+  "statements": [
+    {
+      "id": "93acc1e5-aaf1-445b-913c-33d49ac60b2f",
+      "text": "Illusionism denies phenomenal consciousness properly so called, not consciousness. There is a form of consciousness that consists in having states with quasi-phenomenal properties and is commonly mischaracterized as phenomenal. In the inclusive sense of states that might turn out to be phenomenal or only quasi-phenomenal, realists and illusionists agree that consciousness exists.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "93acc1e5-aaf1-445b-913c-33d49ac60b2f",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "60178d6b-6c55-4495-83a5-786a1c742af3",
+        "locator": "eprint p. 8",
+        "quote": "In this sense realists and illusionists agree that consciousness exists."
+      }
+    ]
+  }
+}

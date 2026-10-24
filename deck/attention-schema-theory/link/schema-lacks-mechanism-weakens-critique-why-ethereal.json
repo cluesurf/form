@@ -1,0 +1,33 @@
+{
+  "record": "link",
+  "id": "be80e670-917c-4bf6-8de1-573c4f629397",
+  "from": "59510573-1c3e-4a8a-bb15-cf3023beedba",
+  "to": "4f8a9fb4-3e11-4683-83c6-1b51460c85b4",
+  "relation": "weakens",
+  "strength": null,
+  "rationale": "A model of a process that carries no mechanism depicts the process doing its work with no means, which reads as a nonphysical power.",
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "f683f12e-8037-4ca0-a414-6a305440e7ec",
+        "locator": "p. 4",
+        "quote": "The proposed attention schema lacks information about neurons, synapses, electrochemical signals, neural competition, and so on."
+      },
+      {
+        "source": "64858e60-e97c-4e3d-8d20-4e3e2c056209",
+        "locator": "p. 6",
+        "quote": "The brain has no need to model its own processes in that kind of physical detail."
+      }
+    ]
+  }
+}

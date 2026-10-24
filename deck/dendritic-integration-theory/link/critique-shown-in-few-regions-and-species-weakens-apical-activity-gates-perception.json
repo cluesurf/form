@@ -1,0 +1,28 @@
+{
+  "record": "link",
+  "id": "dc579422-cbc4-45b8-a46f-02113253f6b3",
+  "from": "4392217b-c16e-477e-9545-3152ec4b713b",
+  "to": "019560d9-3312-4c19-a112-4c04795f09c2",
+  "relation": "weakens",
+  "strength": null,
+  "rationale": "Findings from few regions and species leave open whether the mechanism generalizes, to humans above all.",
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "d02af59e-fe46-4e8e-9b13-3c1a29a6963f",
+        "locator": "section Reservations and Issues Arising",
+        "quote": "it is only in a few regions of a few species and at late stages of ontogenetic development that AA and arousal-dependent regulation of Ih-currents have been shown to occur"
+      }
+    ]
+  }
+}

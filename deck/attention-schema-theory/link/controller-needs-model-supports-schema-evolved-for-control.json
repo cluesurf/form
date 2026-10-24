@@ -1,0 +1,28 @@
+{
+  "record": "link",
+  "id": "b7ad5b62-830e-4186-aac8-67285c3aa03f",
+  "from": "ef87f373-0090-4bf6-856b-2cfd1b41e38b",
+  "to": "5bea01f5-7d73-4407-b571-61abc69a4f9a",
+  "relation": "supports",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "f683f12e-8037-4ca0-a414-6a305440e7ec",
+        "locator": "p. 5",
+        "quote": "One of the fundamental principles in control engineering is that a good controller contains a model of the item being controlled"
+      }
+    ]
+  }
+}

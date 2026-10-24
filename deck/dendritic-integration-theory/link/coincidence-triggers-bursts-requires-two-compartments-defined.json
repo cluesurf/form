@@ -1,0 +1,33 @@
+{
+  "record": "link",
+  "id": "0a8207d0-b589-4dfc-9469-b50deb4bf215",
+  "from": "b4ea6a85-d64a-4dbe-95dc-3267e9c4354e",
+  "to": "7e8af1bb-bcf9-4a5a-a0a6-41f5efaee995",
+  "relation": "requires",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "e3de91d3-ef9c-49b2-a711-bf6966c2cca3",
+        "locator": "p. 4",
+        "quote": "If basal and apical compartments are depolarized at around the same time, the probability that the neuron fires a burst of action potentials is greatly increased"
+      },
+      {
+        "source": "d93f4f87-4705-4962-a2cb-e907378989bf",
+        "locator": "section 2",
+        "quote": "converting a single somatic action potential into a brief burst of two to four action potentials within about 20 msec"
+      }
+    ]
+  }
+}

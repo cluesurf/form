@@ -1,0 +1,28 @@
+{
+  "record": "link",
+  "id": "607bd18e-73be-44b5-a119-c8f5f61fca9f",
+  "from": "7858af9e-3f6a-4d1b-9afc-5f64f8e90386",
+  "to": "aaf7f1c4-68f4-47cb-b34c-3e6e6d38745b",
+  "relation": "requires",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "64858e60-e97c-4e3d-8d20-4e3e2c056209",
+        "locator": "p. 7",
+        "quote": "It is in that gray area that the internal model of attention seems to fail."
+      }
+    ]
+  }
+}

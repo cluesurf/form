@@ -1,0 +1,28 @@
+{
+  "record": "link",
+  "id": "97dcd64d-9997-4838-9256-0c2590a59481",
+  "from": "b7011f93-f3ba-4907-a5dd-862b0ae7d618",
+  "to": "32325989-5e0b-431e-b8b7-a3ba0134ebb3",
+  "relation": "supports",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b9050313-e369-439d-a181-b751070bb3df",
+        "locator": "p. 5",
+        "quote": "When figures are not seen, feedforward V1 responses persist, but figure-ground modulation is selectively absent"
+      }
+    ]
+  }
+}

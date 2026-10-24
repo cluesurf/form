@@ -1,0 +1,45 @@
+{
+  "record": "proposition",
+  "id": "d4d3c098-1e3b-4968-8f23-0bf7b4d1508c",
+  "kind": "empirical",
+  "epistemic_status": "hypothesized",
+  "title": "Critique: partial report is explained by unconscious storage",
+  "statements": [
+    {
+      "id": "b570c91f-9559-49c6-bf30-b9fbe05b993d",
+      "text": "In Sperling-type experiments the identities of uncued items may be stored unconsciously until the cue brings them into attention. Before the cue, only a few attended items and the sense that other items are present are conscious, so the results need no experience beyond access.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "b570c91f-9559-49c6-bf30-b9fbe05b993d",
+  "status": "active",
+  "voice": "critique",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "fb234a73-1875-4c9a-b224-99e732ee4c31",
+        "locator": "p. 359",
+        "quote": "Participants can identify cued items because their identities are stored unconsciously until the cue brings them to the focus of"
+      }
+    ]
+  }
+}

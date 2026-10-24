@@ -1,0 +1,28 @@
+{
+  "record": "link",
+  "id": "1b6dd99d-05e9-4f34-b3e0-9a43710991b7",
+  "from": "725c7358-c587-4f44-bdb4-a6bb397bfe96",
+  "to": "2e0b3782-7e83-4696-98b0-fa81f1c63837",
+  "relation": "answers",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "f683f12e-8037-4ca0-a414-6a305440e7ec",
+        "locator": "p. 2",
+        "quote": "Without understanding the subjective awareness piece, it may be impossible to build artificial intelligence that has a human-like ability to focus its computational resources and intelligently control that focus."
+      }
+    ]
+  }
+}

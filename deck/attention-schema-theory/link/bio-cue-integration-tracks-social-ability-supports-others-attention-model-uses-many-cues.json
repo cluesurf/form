@@ -1,0 +1,28 @@
+{
+  "record": "link",
+  "id": "685e6d39-be9c-418a-9c6c-3a1153784449",
+  "from": "3477e224-0b68-428f-a195-363686249f78",
+  "to": "80c742df-d8aa-4554-988f-2e8f8ea6e5ae",
+  "relation": "supports",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "fac99a9d-34e2-480f-a153-8579ad6cd3c0",
+        "locator": "abstract, p. 2",
+        "quote": "social cognitive ability correlated best with the degree to which people successfully integrated the cues together"
+      }
+    ]
+  }
+}

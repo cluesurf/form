@@ -1,0 +1,33 @@
+{
+  "record": "link",
+  "id": "193fbe6e-3114-4944-91c7-71c9240d6443",
+  "from": "03ac2d65-fa81-4a8f-b922-fa734bec0c4a",
+  "to": "09bc6346-0ae2-49f1-82d0-95dd47e83071",
+  "relation": "requires",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "60178d6b-6c55-4495-83a5-786a1c742af3",
+        "locator": "eprint p. 19",
+        "quote": "There need be no unified audience for the illusion smaller than the organism as a whole"
+      },
+      {
+        "source": "60178d6b-6c55-4495-83a5-786a1c742af3",
+        "locator": "eprint p. 20",
+        "quote": "yielding multiple drafts of sensation"
+      }
+    ]
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "record": "link",
+  "id": "a7585794-f22e-4f58-b41c-bc9d65069cc9",
+  "from": "9684510a-5719-4d16-b384-5417480071c5",
+  "to": "968e2718-81d6-404c-ba73-22d61915a71c",
+  "relation": "weakens",
+  "strength": null,
+  "rationale": "If feedback often drives and feedforward often modulates, the split of content and context across the two compartments is not clean.",
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "11ecff74-e3d4-4bb8-84de-05045a9b264b",
+        "locator": "Unresolved issues and difficulties, p. 11",
+        "quote": "The evidence reviewed by Sherman clearly contradicts that assumption"
+      },
+      {
+        "source": "11ecff74-e3d4-4bb8-84de-05045a9b264b",
+        "locator": "Unresolved issues and difficulties, p. 11",
+        "quote": "feedforward modulation and feedback drive are also common"
+      }
+    ]
+  }
+}

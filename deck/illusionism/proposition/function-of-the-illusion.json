@@ -1,0 +1,45 @@
+{
+  "record": "proposition",
+  "id": "ef3c4128-5423-485a-b740-4c0f57a8f69a",
+  "kind": "philosophical",
+  "epistemic_status": "hypothesized",
+  "title": "The illusion may have a function",
+  "statements": [
+    {
+      "id": "613224dc-d632-4cb3-bf92-3148e99c04d3",
+      "text": "If consciousness involves an illusion, its function may be to give the impression of a magical, non-physical inner life. Humphrey’s account, in which internalized evaluative responses interact with sensory signals in monitored feedback loops, is one example, with the internal magic show shaped by natural selection.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "613224dc-d632-4cb3-bf92-3148e99c04d3",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "60178d6b-6c55-4495-83a5-786a1c742af3",
+        "locator": "eprint p. 15",
+        "quote": "Maybe its function is precisely to give us the impression that we have a magical, non-physical inner life."
+      }
+    ]
+  }
+}

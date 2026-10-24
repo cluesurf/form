@@ -1,0 +1,33 @@
+{
+  "record": "link",
+  "id": "3d0df519-64ad-485d-b147-87eab5c101ce",
+  "from": "5665ab5f-56ab-4094-b96f-b92f50521286",
+  "to": "4750a4cd-bb52-4a1f-9215-e9fafd4d674b",
+  "relation": "requires",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "e3de91d3-ef9c-49b2-a711-bf6966c2cca3",
+        "locator": "p. 4",
+        "quote": "one way to interpret the behavior of the animals is that when they reacted to the air-puff with a movement, they perceived it"
+      },
+      {
+        "source": "3519c086-a3e3-4b1c-9631-78b193482d93",
+        "locator": "p. 4",
+        "quote": "they are not formal objective measures of consciousness"
+      }
+    ]
+  }
+}

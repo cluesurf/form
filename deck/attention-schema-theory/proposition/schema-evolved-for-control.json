@@ -1,0 +1,50 @@
+{
+  "record": "proposition",
+  "id": "5bea01f5-7d73-4407-b571-61abc69a4f9a",
+  "kind": "empirical",
+  "epistemic_status": "hypothesized",
+  "title": "The schema first evolved to control attention",
+  "statements": [
+    {
+      "id": "f07ae8ed-6a07-4208-a811-8985cd79fce6",
+      "text": "The attention schema was proposed to account for the skilled endogenous control of attention in people and other primates, not as a theory of consciousness. In the hypothesis it first evolved as part of the control system for attention.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "f07ae8ed-6a07-4208-a811-8985cd79fce6",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "124d3bef-4ae5-42c5-98e9-c2bc87a493ce",
+        "locator": "A Theory of Consciousness that Embodies Principles 1 and 2",
+        "quote": "The proposal was not originally intended as an explanation of consciousness, but rather to account for the skillful endogenous control of attention"
+      },
+      {
+        "source": "f683f12e-8037-4ca0-a414-6a305440e7ec",
+        "locator": "p. 6",
+        "quote": "In our hypothesis, the attention schema first evolved as a crucial part of the control system for attention."
+      }
+    ]
+  }
+}

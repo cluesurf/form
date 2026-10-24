@@ -1,0 +1,50 @@
+{
+  "record": "proposition",
+  "id": "5d161d9b-1c0c-4b32-a6c4-103bbfc1c61d",
+  "kind": "philosophical",
+  "epistemic_status": "hypothesized",
+  "title": "Critique: consciousness is known with certainty to exist",
+  "statements": [
+    {
+      "id": "7bf13f8f-e29a-4788-9bf2-e9ce70f74c4a",
+      "text": "Galen Strawson describes the twentieth-century denial of consciousness as an episode without parallel in the history of ideas: thinkers denied the existence of something known with certainty to exist. Dennett reports that Strawson cannot bring himself to contemplate strong illusionism.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "7bf13f8f-e29a-4788-9bf2-e9ce70f74c4a",
+  "status": "active",
+  "voice": "critique",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "a674a239-2ee2-4dff-968c-41e3daaa5217",
+        "locator": "p. 55",
+        "quote": "A number of thinkers denied the existence of something we know with certainty to exist: consciousness, conscious experience."
+      },
+      {
+        "source": "32d0343d-c802-413c-a31b-2d55e8c6e02b",
+        "locator": "p. 48",
+        "quote": "who can’t bring himself to contemplate it"
+      }
+    ]
+  }
+}

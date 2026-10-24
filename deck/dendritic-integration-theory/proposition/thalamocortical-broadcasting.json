@@ -1,0 +1,45 @@
+{
+  "record": "proposition",
+  "id": "013cb2ec-56be-4b4b-9fb7-095146869ae8",
+  "kind": "empirical",
+  "epistemic_status": "hypothesized",
+  "title": "Layer 5 bursts are broadcast through the nonspecific thalamus",
+  "statements": [
+    {
+      "id": "2ecf419f-e78e-48c3-9523-c5738f352992",
+      "text": "Nonspecific thalamic nuclei project diffusely across the cortex, so a burst in a few cortical columns could reach the whole thalamo-cortical system. The nonspecific thalamus is the basis of a thalamo-cortical broadcasting system with layer 5 pyramidal neurons as its central elements.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "2ecf419f-e78e-48c3-9523-c5738f352992",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "e3de91d3-ef9c-49b2-a711-bf6966c2cca3",
+        "locator": "p. 4",
+        "quote": "the NSP thalamus is the basis for a thalamo-cortical broadcasting system and L5p cells are the central elements of it"
+      }
+    ]
+  }
+}

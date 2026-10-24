@@ -1,0 +1,50 @@
+{
+  "record": "proposition",
+  "id": "2d624267-1211-4b64-af41-d82a55237ddd",
+  "kind": "philosophical",
+  "epistemic_status": "inferred",
+  "title": "Critique: the model is of representation, not attention",
+  "statements": [
+    {
+      "id": "de7ab8c3-3aab-406c-a12d-787b3856e602",
+      "text": "Perceptual awareness presents itself as covering all perception, attended or not, so the complex relation that the model simplifies may be perception or representation in general rather than attention.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "de7ab8c3-3aab-406c-a12d-787b3856e602",
+  "status": "active",
+  "voice": "critique",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "8aeff1e7-e96d-49bc-890e-26f6d6b9f2d2",
+        "locator": "p. 29",
+        "quote": "Another difference with Graziano is that I am not sure that attention is the right choice for the complex relation that is being modelled."
+      },
+      {
+        "source": "8aeff1e7-e96d-49bc-890e-26f6d6b9f2d2",
+        "locator": "p. 29",
+        "quote": "our model of consciousness is a primitive model of complex relations of representation"
+      }
+    ]
+  }
+}

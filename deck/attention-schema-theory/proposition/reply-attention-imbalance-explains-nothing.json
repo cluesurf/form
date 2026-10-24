@@ -1,0 +1,45 @@
+{
+  "record": "proposition",
+  "id": "ac1b5bd1-99b1-4489-9aa3-5ba6564c4212",
+  "kind": "empirical",
+  "epistemic_status": "inferred",
+  "title": "Reply: attention imbalance did not predict the activity",
+  "statements": [
+    {
+      "id": "7cdb1506-4966-4981-953d-1e7be63b430a",
+      "text": "Equating attention is approximate, but across subjects the size and direction of attention imbalance were unrelated to activity in the networks found, discrimination accuracy did not differ, and the time course had been measured in an earlier behavioral study.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "7cdb1506-4966-4981-953d-1e7be63b430a",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "2c5a88d1-acd2-4cac-a83f-db02baabb95a",
+        "locator": "main text",
+        "quote": "An imbalance of attention did not explain the activity in those brain regions."
+      }
+    ]
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "record": "proposition",
+  "id": "a760741c-230f-4d66-b709-9c88857dbcac",
+  "kind": "philosophical",
+  "epistemic_status": "inferred",
+  "title": "Answer: takes no position on free will",
+  "statements": [
+    {
+      "id": "3fdabf48-8eed-48fe-be00-d3c6951c3f16",
+      "text": "The theory takes no position on free will or agency. Lamme holds that intention and agency do not explain seeing, since vision can be passive and survives severe disturbance of agency.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "3fdabf48-8eed-48fe-be00-d3c6951c3f16",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b9050313-e369-439d-a181-b751070bb3df",
+        "locator": "p. 7",
+        "quote": "Given that vision can also be entirely passive, and is not lost in patients with even severe disturbance of agency"
+      }
+    ]
+  }
+}

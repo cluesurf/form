@@ -1,0 +1,50 @@
+{
+  "record": "proposition",
+  "id": "ff0a3415-9052-4f99-ab34-09d88b0629de",
+  "kind": "empirical",
+  "epistemic_status": "hypothesized",
+  "title": "Open: distinct layer 5 classes may serve the two loops",
+  "statements": [
+    {
+      "id": "83549038-e29d-422c-b5b7-594ef14e9400",
+      "text": "If distinct classes of layer 5 neurons serve the cortico-cortical and the cortico-thalamo-cortical loops, it is unclear that the two loops intersect at all. The authors note that direct evidence for long-range cortical input onto the apical dendrites of layer 5B neurons is scarce.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "83549038-e29d-422c-b5b7-594ef14e9400",
+  "status": "active",
+  "voice": "critique",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "e3de91d3-ef9c-49b2-a711-bf6966c2cca3",
+        "locator": "Limitations, p. 6",
+        "quote": "is it even meaningful to suggest that there is an intersection of these loops?"
+      },
+      {
+        "source": "e3de91d3-ef9c-49b2-a711-bf6966c2cca3",
+        "locator": "Limitations, p. 6",
+        "quote": "We note that the direct evidence for this last claim is scarce"
+      }
+    ]
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "record": "observation",
+  "id": "755e590e-12f4-4041-9965-617a8306790d",
+  "kind": "statistical_result",
+  "epistemic_status": "observed",
+  "description": "Asked in their own words what consciousness is, 89% of 202 members of the public described it as receptive, a possessing, knowing or perceiving of content. 33% gave an agentic view and 10% a mystical one, and only two mentioned anything like selective attention.",
+  "method": "survey",
+  "status": "reported",
+  "source": "1c1a3d37-7753-49f0-8609-a4446761a5ec",
+  "procedure": null,
+  "variable": null,
+  "value": null,
+  "unit": null,
+  "uncertainty": null,
+  "sample_size": 202,
+  "replication_count": null,
+  "quality": null,
+  "limitations": "A preprint with an online sample. It describes folk usage and does not test AST.",
+  "conflicts_of_interest": null,
+  "observed_at": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "1c1a3d37-7753-49f0-8609-a4446761a5ec",
+        "locator": "abstract, p. 2",
+        "quote": "Almost all people (89%) described consciousness as fundamentally receptive"
+      },
+      {
+        "source": "1c1a3d37-7753-49f0-8609-a4446761a5ec",
+        "locator": "p. 24",
+        "quote": "Only two participants mentioned any property resembling selective attention."
+      }
+    ]
+  }
+}

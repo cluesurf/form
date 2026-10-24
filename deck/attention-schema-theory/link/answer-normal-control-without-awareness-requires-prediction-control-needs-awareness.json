@@ -1,0 +1,28 @@
+{
+  "record": "link",
+  "id": "a8009461-01d6-4010-ae61-d8530f6d95cf",
+  "from": "00d19558-0dac-4287-a738-7648d90be3e0",
+  "to": "daed49d9-48a3-4978-8456-07a83e3d4ff2",
+  "relation": "requires",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "9570fdf7-7608-4351-9753-097eee3f0203",
+        "locator": "introduction",
+        "quote": "If awareness of item X is compromised, and the endogenous control of attention with respect to item X is normal, then AST is falsified."
+      }
+    ]
+  }
+}

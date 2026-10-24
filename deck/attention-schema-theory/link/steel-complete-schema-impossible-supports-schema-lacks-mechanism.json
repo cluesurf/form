@@ -1,0 +1,28 @@
+{
+  "record": "link",
+  "id": "b55d7478-9f1c-4197-9962-3f5423905f56",
+  "from": "5a4a576d-52a2-429f-81b4-a55641c44b17",
+  "to": "59510573-1c3e-4a8a-bb15-cf3023beedba",
+  "relation": "supports",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "a62ca42f-3a1a-4dba-887b-a6c8c83bdf39",
+        "locator": "p. 8",
+        "quote": "then Proposition 1(i) need not hold"
+      }
+    ]
+  }
+}

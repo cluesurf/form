@@ -1,0 +1,28 @@
+{
+  "record": "link",
+  "id": "49f07daa-b15e-4f35-86a5-921c37d7187a",
+  "from": "96aa8c3d-66da-4693-a012-583df03899c2",
+  "to": "2ed7e3d4-d96e-48f6-9a41-114249b5740a",
+  "relation": "generalizes",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "61ac5725-c520-44e1-bde8-528292ef2815",
+        "locator": "p. 11",
+        "quote": "In this hypothesis, Item 1 is the deep selective processing of information in the brain."
+      }
+    ]
+  }
+}

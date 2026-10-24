@@ -1,0 +1,28 @@
+{
+  "record": "link",
+  "id": "97f5d215-f2e5-4861-a095-a34e3ef7f956",
+  "from": "887f5fc8-f187-49d3-81e6-d26c452f396f",
+  "to": "90c67235-cde5-4a56-afad-0a268e987db2",
+  "relation": "requires",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "64858e60-e97c-4e3d-8d20-4e3e2c056209",
+        "locator": "p. 2",
+        "quote": "a model of the self as a physical and mental agent (S), and a model of the relationship between them: attention (A)"
+      }
+    ]
+  }
+}

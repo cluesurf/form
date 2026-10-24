@@ -1,0 +1,50 @@
+{
+  "record": "proposition",
+  "id": "03ac2d65-fa81-4a8f-b922-fa734bec0c4a",
+  "kind": "philosophical",
+  "epistemic_status": "hypothesized",
+  "title": "The illusion needs no unified audience",
+  "statements": [
+    {
+      "id": "3894bc6a-1516-43fa-a0d4-bdde6ea2ccfd",
+      "text": "Illusionism may need an inner representer that generates introspective representations of sensory states, but not an inner observer. The work of reacting to the illusion can be distributed across many unintelligent subsystems, with no audience smaller than the organism as a whole, and there may be many micropresentations, multiple drafts of sensation.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "3894bc6a-1516-43fa-a0d4-bdde6ea2ccfd",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "60178d6b-6c55-4495-83a5-786a1c742af3",
+        "locator": "eprint p. 19",
+        "quote": "There need be no unified audience for the illusion smaller than the organism as a whole"
+      },
+      {
+        "source": "60178d6b-6c55-4495-83a5-786a1c742af3",
+        "locator": "eprint p. 20",
+        "quote": "yielding multiple drafts of sensation"
+      }
+    ]
+  }
+}

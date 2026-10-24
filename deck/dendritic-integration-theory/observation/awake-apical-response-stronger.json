@@ -1,0 +1,39 @@
+{
+  "record": "observation",
+  "id": "14ae937c-1c8b-47e9-b64f-d487aa1d9879",
+  "kind": "experimental_result",
+  "epistemic_status": "observed",
+  "description": "Fiberoptic calcium imaging of layer 5 apical dendrites in rats showed responses to hindlimb air puffs four times stronger when quietly awake than under anesthesia, and fourteen times stronger when the animal moved its limb in response (Murayama and Larkum 2009, as reported by Aru et al.).",
+  "method": "instrument",
+  "status": "reported",
+  "source": "e3de91d3-ef9c-49b2-a711-bf6966c2cca3",
+  "procedure": null,
+  "variable": null,
+  "value": null,
+  "unit": null,
+  "uncertainty": null,
+  "sample_size": null,
+  "replication_count": null,
+  "quality": null,
+  "limitations": "Reported secondhand in Aru et al. 2019. The original study is not read here. Reading the movement as perception is the authors’ interpretation.",
+  "conflicts_of_interest": null,
+  "observed_at": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "e3de91d3-ef9c-49b2-a711-bf6966c2cca3",
+        "locator": "p. 4",
+        "quote": "The apical dendritic response to hindlimb stimulation was 4-fold stronger in the quiet awake state than in the anesthetized state."
+      }
+    ]
+  }
+}

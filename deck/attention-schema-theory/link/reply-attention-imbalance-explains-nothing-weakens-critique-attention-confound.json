@@ -1,0 +1,28 @@
+{
+  "record": "link",
+  "id": "29bcbb67-bc9a-4f66-ab14-9da033b70807",
+  "from": "ac1b5bd1-99b1-4489-9aa3-5ba6564c4212",
+  "to": "c899e577-f8ca-4f6d-b958-921ab13e2018",
+  "relation": "weakens",
+  "strength": null,
+  "rationale": "Subject-by-subject attention imbalance did not predict the network activity, and discrimination accuracy did not differ.",
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "2c5a88d1-acd2-4cac-a83f-db02baabb95a",
+        "locator": "main text",
+        "quote": "An imbalance of attention did not explain the activity in those brain regions."
+      }
+    ]
+  }
+}

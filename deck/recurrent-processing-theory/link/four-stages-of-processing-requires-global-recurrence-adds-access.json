@@ -1,0 +1,33 @@
+{
+  "record": "link",
+  "id": "343e4114-e9a7-41c3-99f4-d2faf0e1690f",
+  "from": "8a4fc689-91c4-46e8-802f-be0f4cb0580d",
+  "to": "df913d93-6337-43f0-b209-4f96ca608b8a",
+  "relation": "requires",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "6dd7dbf6-162b-4cc6-99d2-6ac597b93829",
+        "locator": "p. 1537",
+        "quote": "RPT outlines four stages of visual processing"
+      },
+      {
+        "source": "7f15335d-27d6-4836-856e-8f65bdffc569",
+        "locator": "p. 512",
+        "quote": "Phenomenal sensation develops from I1 (unconscious), via I2 (P-conscious), to I3 (A-conscious)."
+      }
+    ]
+  }
+}

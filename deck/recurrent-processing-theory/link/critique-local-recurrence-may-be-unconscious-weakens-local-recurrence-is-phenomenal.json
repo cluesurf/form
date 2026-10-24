@@ -1,0 +1,28 @@
+{
+  "record": "link",
+  "id": "af00793d-0596-4db1-806c-e919ab2712cf",
+  "from": "b2e8f2d6-b0ae-4b6f-a4c7-20e4146dc3ac",
+  "to": "532ceb88-bd11-4104-9ad4-e3d054ccfee9",
+  "relation": "weakens",
+  "strength": null,
+  "rationale": "Without a report-based test, local recurrence can be read as unconscious processing as easily as experience.",
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "fb234a73-1875-4c9a-b224-99e732ee4c31",
+        "locator": "p. 362",
+        "quote": "Could local recurrency simply be a form of unconscious processing?"
+      }
+    ]
+  }
+}

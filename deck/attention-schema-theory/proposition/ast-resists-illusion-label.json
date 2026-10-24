@@ -1,0 +1,50 @@
+{
+  "record": "proposition",
+  "id": "3514db8a-b43e-413c-a244-54012a8b7801",
+  "kind": "philosophical",
+  "epistemic_status": "inferred",
+  "title": "Non-illusionist reading: the brain experiences no illusion",
+  "statements": [
+    {
+      "id": "8b7b8725-72e4-4510-a4ff-d559f98c86e2",
+      "text": "In the 2017 statement, the brain does not experience an illusion, because it does not subjectively experience anything. It has wrong or simplified information that tells it that it is having an experience, and calling that an illusion misapplies an everyday concept.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "8b7b8725-72e4-4510-a4ff-d559f98c86e2",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "f683f12e-8037-4ca0-a414-6a305440e7ec",
+        "locator": "p. 5",
+        "quote": "However, I remain uncomfortable with calling consciousness an illusion."
+      },
+      {
+        "source": "f683f12e-8037-4ca0-a414-6a305440e7ec",
+        "locator": "p. 5",
+        "quote": "Instead, the machine has wrong, or simplified information that tells it that it is having an experience."
+      }
+    ]
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "record": "proposition",
+  "id": "4750a4cd-bb52-4a1f-9215-e9fafd4d674b",
+  "kind": "empirical",
+  "epistemic_status": "inferred",
+  "title": "Surface recordings carry a marker of layer 5 dendritic output",
+  "statements": [
+    {
+      "id": "d30bda71-3c35-473d-a898-bfdca639412c",
+      "text": "Dendritic calcium spikes of layer 5 pyramidal neurons produce surface potentials as large as those from synaptic input, so surface potentials of this kind indicate that these output cells were recruited. Many surface positive potentials in awake EEG are likely to reflect such spikes, giving the theory EEG and LFP markers.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "d30bda71-3c35-473d-a898-bfdca639412c",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "8020e246-69f2-4226-8e55-f06fa2b0e190",
+        "locator": "p. 8",
+        "quote": "surface potentials evoked by dendritic Ca2+ spikes are an indication that activity has been recruited specifically in these cells"
+      },
+      {
+        "source": "18284858-8ad4-49e0-b7f6-d13c8a90227b",
+        "locator": "p. 1547",
+        "quote": "DIT, for instance, introduced EEG and LFP markers that align with dendritic Ca2+ spikes during distinct consciousness phases."
+      }
+    ]
+  }
+}

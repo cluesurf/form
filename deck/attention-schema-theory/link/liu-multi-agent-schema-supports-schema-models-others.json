@@ -1,0 +1,33 @@
+{
+  "record": "link",
+  "id": "979d87d9-2c7b-47c5-9521-27e3a8ced9fb",
+  "from": "9a6aabde-b5e0-4247-ae37-5731f452f1eb",
+  "to": "a015f1a4-c9de-42a7-bd73-96eb95f5bf0b",
+  "relation": "supports",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "9f422411-f3b4-4443-829e-aab3b8e12174",
+        "locator": "abstract, p. 1",
+        "quote": "these exploratory experiments suggest that equipping artificial agents with a model of attention can enhance their social intelligence"
+      },
+      {
+        "source": "9f422411-f3b4-4443-829e-aab3b8e12174",
+        "locator": "p. 5",
+        "quote": "Our preliminary results suggest that Hypothesis 5 shows marginal advantages over other hypotheses."
+      }
+    ]
+  }
+}

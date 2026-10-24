@@ -1,0 +1,50 @@
+{
+  "record": "proposition",
+  "id": "90c67235-cde5-4a56-afad-0a268e987db2",
+  "kind": "empirical",
+  "epistemic_status": "inferred",
+  "title": "The attention schema parallels the body schema",
+  "statements": [
+    {
+      "id": "181b277c-4afb-4704-85fc-b2f2209ef87c",
+      "text": "The brain controls the body with a simplified, sometimes wrong model of the body, the body schema, which also lets it understand the bodies of others and gives reportable knowledge of its own body. AST proposes the same three consequences for a model of attention.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "181b277c-4afb-4704-85fc-b2f2209ef87c",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "64858e60-e97c-4e3d-8d20-4e3e2c056209",
+        "locator": "abstract, p. 1",
+        "quote": "in much the same way that it constructs a schematic model of the body, the ‘body schema.’"
+      },
+      {
+        "source": "124d3bef-4ae5-42c5-98e9-c2bc87a493ce",
+        "locator": "A Theory of Consciousness that Embodies Principles 1 and 2",
+        "quote": "The attention schema is a bundle of information that represents attention and has similar consequences as the body schema."
+      }
+    ]
+  }
+}

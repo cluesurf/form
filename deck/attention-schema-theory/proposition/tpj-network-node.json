@@ -1,0 +1,50 @@
+{
+  "record": "proposition",
+  "id": "746231e2-d439-4134-aed5-11c41d9ceaeb",
+  "kind": "empirical",
+  "epistemic_status": "hypothesized",
+  "title": "The temporoparietal junction is a node of the attention schema network",
+  "statements": [
+    {
+      "id": "ee117291-4db3-48cc-ad08-af779d21c0aa",
+      "text": "The TPJ, especially on the right, is active when people reconstruct the attention of others and in relation to their own attention, and damage there causes neglect, the clearest deficit of consciousness. AST takes the TPJ to be a central node of a brain-wide network that computes the schema, and cautions against a single-area reading.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "ee117291-4db3-48cc-ad08-af779d21c0aa",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "f683f12e-8037-4ca0-a414-6a305440e7ec",
+        "locator": "p. 6",
+        "quote": "In our hypothesis, the TPJ is a central node in a brain-wide network that helps to compute an attention schema."
+      },
+      {
+        "source": "2c5a88d1-acd2-4cac-a83f-db02baabb95a",
+        "locator": "main text, last paragraph",
+        "quote": "However, I caution against over-interpreting specific brain areas. A network approach is more realistic"
+      }
+    ]
+  }
+}

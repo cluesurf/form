@@ -1,0 +1,28 @@
+{
+  "record": "link",
+  "id": "0f7b15ec-5ecd-44e6-8d54-01a18f8806a1",
+  "from": "9176cd43-47ad-4b7a-94ee-06d17db50b4d",
+  "to": "5284ff1e-5930-403b-9f53-484261e6b721",
+  "relation": "requires",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "cefa7948-88e5-4a3a-9d5a-11b94942b10f",
+        "locator": "section 6, 'Filling the vacuum'",
+        "quote": "In this instance I mean information in the formal information theory sense of the term."
+      }
+    ]
+  }
+}

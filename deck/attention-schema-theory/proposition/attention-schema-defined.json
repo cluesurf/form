@@ -1,0 +1,50 @@
+{
+  "record": "proposition",
+  "id": "4e35e155-d252-4816-a8ba-15bf5b865a6c",
+  "kind": "definitional",
+  "epistemic_status": "designed",
+  "title": "The attention schema",
+  "statements": [
+    {
+      "id": "b0c6ad8a-f5ea-49e2-968f-0441ee915100",
+      "text": "The attention schema is a constantly updated set of information that describes the basic properties and current state of attention and predicts how it will change and what it will do to behavior, decisions and memory. It is the brain's simplified self-account of attention, both descriptive and predictive.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "b0c6ad8a-f5ea-49e2-968f-0441ee915100",
+  "status": "active",
+  "voice": "framework",
+  "defines": "attention schema",
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "f683f12e-8037-4ca0-a414-6a305440e7ec",
+        "locator": "p. 4",
+        "quote": "The attention schema is a set of information that describes the act of focusing resources on something."
+      },
+      {
+        "source": "9570fdf7-7608-4351-9753-097eee3f0203",
+        "locator": "introduction",
+        "quote": "This attention schema is both descriptive and predictive and is the brain’s simplified self-account of attention."
+      }
+    ]
+  }
+}

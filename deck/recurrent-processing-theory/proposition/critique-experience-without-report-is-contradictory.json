@@ -1,0 +1,45 @@
+{
+  "record": "proposition",
+  "id": "8e0bd31b-44ca-4edf-b84a-a425e843f906",
+  "kind": "philosophical",
+  "epistemic_status": "inferred",
+  "title": "Critique: detecting experience a subject denies is contradictory",
+  "statements": [
+    {
+      "id": "f55fbf52-5189-4ac4-966c-80bf5e63c0f6",
+      "text": "If recurrent sensory activity were the basis of experience, an experimenter could detect experience in a patient who denies having it. Since experience is subjective by definition, a theory that sets aside subjective report as its measure leads to such contradictions.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "f55fbf52-5189-4ac4-966c-80bf5e63c0f6",
+  "status": "active",
+  "voice": "critique",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "e31c9bb7-0ea8-45b4-8369-43aa406075c6",
+        "locator": "p. 524",
+        "quote": "This contradicts the notion of phenomenal experience itself, which is, by definition, a subjective, firstperson experience."
+      }
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "record": "link",
+  "id": "36cc638d-b7af-4de7-a612-39ba60e362aa",
+  "from": "e784dac1-61ef-4c62-a7cc-90cecde1ad59",
+  "to": "38e33a90-03c3-495d-b6f7-439bf2f61eee",
+  "relation": "supports",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b9050313-e369-439d-a181-b751070bb3df",
+        "locator": "p. 6",
+        "quote": "It was found that masking selectively disrupts the neural processing of integration and inference"
+      }
+    ]
+  }
+}

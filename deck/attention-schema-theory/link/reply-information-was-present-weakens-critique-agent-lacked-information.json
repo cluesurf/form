@@ -1,0 +1,28 @@
+{
+  "record": "link",
+  "id": "00a67cd3-09da-49cb-a0da-2714924a2b2d",
+  "from": "cc17d61e-ef84-4654-973f-c9dcd89b488f",
+  "to": "b839e39a-4862-4bc1-be4e-8cac41afee5d",
+  "relation": "weakens",
+  "strength": null,
+  "rationale": "The location of the spotlight was present in the visual input, so an agent could in principle solve the task without a schema.",
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "3595df3f-fe9a-4f97-b178-2b1fe3de34f6",
+        "locator": "Discussion",
+        "quote": "In principle, an agent could solve the game without being given an attention schema."
+      }
+    ]
+  }
+}

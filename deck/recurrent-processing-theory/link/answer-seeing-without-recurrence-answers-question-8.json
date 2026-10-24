@@ -1,0 +1,33 @@
+{
+  "record": "link",
+  "id": "fe2340d8-3d92-4ad8-8375-0725f8109659",
+  "from": "5d0312c1-82a1-445c-b779-15d36433106e",
+  "to": "1742bbfe-92c2-4298-aa13-2df7e20acb32",
+  "relation": "answers",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "0ba5a059-2ae2-4142-85ea-f18a0a975bc1",
+        "locator": "p. 1495",
+        "quote": "more posterior >110 msec activity is (at least) a necessary condition for awareness to arise"
+      },
+      {
+        "source": "e46f5f83-75f0-462e-b0d5-86b952498658",
+        "locator": "p. 498",
+        "quote": "the representations of the unaccessed items will prove to involve recurrent loops"
+      }
+    ]
+  }
+}

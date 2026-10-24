@@ -1,0 +1,28 @@
+{
+  "record": "link",
+  "id": "9cd42a81-95e7-4aad-9a0c-211516d268fe",
+  "from": "850eec99-f7c2-4bf1-872b-3f32b2a65f59",
+  "to": "013cb2ec-56be-4b4b-9fb7-095146869ae8",
+  "relation": "requires",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "e3de91d3-ef9c-49b2-a711-bf6966c2cca3",
+        "locator": "p. 5",
+        "quote": "we claim that the temporal resolution of conscious experience stems from the propagation time between the L5p neurons, NSP thalamus and higher cortical areas"
+      }
+    ]
+  }
+}

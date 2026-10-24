@@ -1,0 +1,39 @@
+{
+  "record": "observation",
+  "id": "6b6bd39f-1eed-4297-8149-10a2767009ef",
+  "kind": "simulation_result",
+  "epistemic_status": "observed",
+  "description": "A deep Q-learning agent with a movable noise-free attention spotlight learned to catch a falling ball when it had a 10 by 10 descriptive attention schema. Disabling the schema after training, or withholding it from the start, greatly reduced performance or learning.",
+  "method": "simulation",
+  "status": "reported",
+  "source": "3595df3f-fe9a-4f97-b178-2b1fe3de34f6",
+  "procedure": null,
+  "variable": null,
+  "value": null,
+  "unit": null,
+  "uncertainty": null,
+  "sample_size": null,
+  "replication_count": null,
+  "quality": null,
+  "limitations": "A small three-layer network and a simple square spotlight, tested over 150,000 training games. A larger agent, or more training, might learn without the schema.",
+  "conflicts_of_interest": null,
+  "observed_at": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "3595df3f-fe9a-4f97-b178-2b1fe3de34f6",
+        "locator": "abstract",
+        "quote": "If the attention schema was removed before learning began, the agent was impaired at learning."
+      }
+    ]
+  }
+}

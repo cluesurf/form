@@ -1,0 +1,33 @@
+{
+  "record": "link",
+  "id": "b5e4303a-df2b-4a1b-95b3-9dbe961d8462",
+  "from": "59510573-1c3e-4a8a-bb15-cf3023beedba",
+  "to": "aaf7f1c4-68f4-47cb-b34c-3e6e6d38745b",
+  "relation": "requires",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "f683f12e-8037-4ca0-a414-6a305440e7ec",
+        "locator": "p. 4",
+        "quote": "The proposed attention schema lacks information about neurons, synapses, electrochemical signals, neural competition, and so on."
+      },
+      {
+        "source": "64858e60-e97c-4e3d-8d20-4e3e2c056209",
+        "locator": "p. 6",
+        "quote": "The brain has no need to model its own processes in that kind of physical detail."
+      }
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "record": "link",
+  "id": "21db04bd-44ff-4371-8899-c191397bd8b2",
+  "from": "3aee46db-e835-452a-949f-42c35f526c9b",
+  "to": "69682594-f49b-4d1e-a6a2-4142e5bc11c0",
+  "relation": "requires",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b9050313-e369-439d-a181-b751070bb3df",
+        "locator": "p. 6",
+        "quote": "What is added are cognitive functions that may operate on the visual representation that is now complete."
+      }
+    ]
+  }
+}

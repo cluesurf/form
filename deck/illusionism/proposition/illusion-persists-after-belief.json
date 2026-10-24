@@ -1,0 +1,45 @@
+{
+  "record": "proposition",
+  "id": "75581979-36d5-4d8c-b9b6-a2db05903df0",
+  "kind": "philosophical",
+  "epistemic_status": "hypothesized",
+  "title": "The illusion persists when one believes it is an illusion",
+  "statements": [
+    {
+      "id": "3edf78c9-6e6d-40c2-99b9-6804d706351d",
+      "text": "As with perceptual illusions, forming the theoretical belief that phenomenal properties are illusory does not change introspective representations. This suggests the illusion is adaptive and hardwired, though it may be partly dispelled by indirect means such as meditation and hypnotic suggestion.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "3edf78c9-6e6d-40c2-99b9-6804d706351d",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "60178d6b-6c55-4495-83a5-786a1c742af3",
+        "locator": "eprint p. 6",
+        "quote": "Forming the theoretical belief that phenomenal properties are illusory does not change one’s introspective representations"
+      }
+    ]
+  }
+}

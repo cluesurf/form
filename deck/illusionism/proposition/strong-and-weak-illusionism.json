@@ -1,0 +1,50 @@
+{
+  "record": "proposition",
+  "id": "38ef1349-47a3-4598-91d2-bf82a395c65b",
+  "kind": "definitional",
+  "epistemic_status": "designed",
+  "title": "Strong and weak illusionism",
+  "statements": [
+    {
+      "id": "b80fba6d-8399-4aa3-a5c7-8464aefc482a",
+      "text": "Weak illusionism holds that phenomenal properties are real but that some of their supposed features, such as being ineffable, intrinsic, private and infallibly known, are illusory. Strong illusionism denies that the properties introspection is sensitive to are qualitative at all: it is an illusion that there are phenomenal properties. Illusionism here always means the strong form.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "b80fba6d-8399-4aa3-a5c7-8464aefc482a",
+  "status": "active",
+  "voice": "framework",
+  "defines": "strong illusionism",
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "60178d6b-6c55-4495-83a5-786a1c742af3",
+        "locator": "eprint p. 4",
+        "quote": "Strong illusionism, by contrast, denies that the properties to which introspection is sensitive are qualitative: it is an illusion to think there are phenomenal properties at all."
+      },
+      {
+        "source": "60178d6b-6c55-4495-83a5-786a1c742af3",
+        "locator": "eprint p. 4",
+        "quote": "In what follows, ‘illusionism’ will always mean strong illusionism."
+      }
+    ]
+  }
+}

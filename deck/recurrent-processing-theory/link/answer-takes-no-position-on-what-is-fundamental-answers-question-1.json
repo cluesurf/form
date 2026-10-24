@@ -1,0 +1,33 @@
+{
+  "record": "link",
+  "id": "f64b5b99-00b5-40f0-a4e1-8fd9eed3b212",
+  "from": "5469f973-d811-4ee0-9b6b-1c6bfc6e0ebf",
+  "to": "ec8744b8-35ca-438f-b48c-63eb48570bc6",
+  "relation": "answers",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b9050313-e369-439d-a181-b751070bb3df",
+        "locator": "p. 4",
+        "quote": "Furthermore, I will here limit myself to visual functions only."
+      },
+      {
+        "source": "e46f5f83-75f0-462e-b0d5-86b952498658",
+        "locator": "p. 486",
+        "quote": "just that it is the only way to put the study of consciousness on a scientific footing"
+      }
+    ]
+  }
+}

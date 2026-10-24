@@ -1,0 +1,28 @@
+{
+  "record": "link",
+  "id": "22664ef1-2653-4638-b298-58f74b6346fb",
+  "from": "cca7f2d0-6071-4723-aecb-fc0a68f8ab86",
+  "to": "43fc6225-2526-4555-8128-80b38e2fbaf4",
+  "relation": "answers",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "1f1534c8-43bb-45eb-ba05-3549a6015b03",
+        "locator": "p. 70",
+        "quote": "the effects he provoked in his experiments could be accounted for as stage magic"
+      }
+    ]
+  }
+}

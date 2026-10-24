@@ -1,0 +1,28 @@
+{
+  "record": "link",
+  "id": "3f7f4550-6e5c-4417-95e8-c0c569054085",
+  "from": "a760741c-230f-4d66-b709-9c88857dbcac",
+  "to": "43fc6225-2526-4555-8128-80b38e2fbaf4",
+  "relation": "answers",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b9050313-e369-439d-a181-b751070bb3df",
+        "locator": "p. 7",
+        "quote": "Given that vision can also be entirely passive, and is not lost in patients with even severe disturbance of agency"
+      }
+    ]
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "record": "proposition",
+  "id": "36e55c0a-ba7a-4aad-9139-110ea6932b5b",
+  "kind": "philosophical",
+  "epistemic_status": "inferred",
+  "title": "Answer: takes no position on free will, the model depicts a will",
+  "statements": [
+    {
+      "id": "4895da1b-3d3e-4ee7-b76f-00da998e0498",
+      "text": "AST does not use consciousness to mean the part that has free will and chooses, and takes no position on free will. Its account of agency is that the self-model depicts an inner essence that can take possession of items and empower one to decide and act.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "4895da1b-3d3e-4ee7-b76f-00da998e0498",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "f683f12e-8037-4ca0-a414-6a305440e7ec",
+        "locator": "p. 2",
+        "quote": "To some it refers specifically to the part inside you that has free will and chooses one action over another. I mean none of these things."
+      },
+      {
+        "source": "124d3bef-4ae5-42c5-98e9-c2bc87a493ce",
+        "locator": "A Theory of Consciousness that Embodies Principles 1 and 2",
+        "quote": "take vivid mental possession of items, and empower oneself to decide and to act"
+      }
+    ]
+  }
+}

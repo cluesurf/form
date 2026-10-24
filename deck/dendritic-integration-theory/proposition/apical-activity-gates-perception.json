@@ -1,0 +1,50 @@
+{
+  "record": "proposition",
+  "id": "019560d9-3312-4c19-a112-4c04795f09c2",
+  "kind": "empirical",
+  "epistemic_status": "observed",
+  "title": "Apical activity and its thalamic targets gate detection of threshold stimuli",
+  "statements": [
+    {
+      "id": "4b7da131-6c27-4414-a73a-4229802ab570",
+      "text": "In mice detecting weak whisker stimuli, apical calcium signals in layer 5 neurons tracked and predicted detection, suppressing apical dendritic processes suppressed detection, and suppressing the subcortical targets of these neurons, chiefly higher-order thalamus, did the same.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "4b7da131-6c27-4414-a73a-4229802ab570",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "18284858-8ad4-49e0-b7f6-d13c8a90227b",
+        "locator": "p. 1539",
+        "quote": "Suppressing these apical dendritic processes (e.g., dendritic calcium spikes) in pyramidal neurons suppresses conscious perception."
+      },
+      {
+        "source": "e3de91d3-ef9c-49b2-a711-bf6966c2cca3",
+        "locator": "p. 4",
+        "quote": "the apical dendritic signals could predict the behavioral hits and misses of threshold stimuli"
+      }
+    ]
+  }
+}

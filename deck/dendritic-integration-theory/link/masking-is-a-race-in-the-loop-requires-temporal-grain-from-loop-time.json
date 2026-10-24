@@ -1,0 +1,28 @@
+{
+  "record": "link",
+  "id": "755f80db-ed16-4ba0-923c-3ae5a27c62c2",
+  "from": "92a620a6-fd5e-400f-930b-82e0bb85b36d",
+  "to": "850eec99-f7c2-4bf1-872b-3f32b2a65f59",
+  "relation": "requires",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "e3de91d3-ef9c-49b2-a711-bf6966c2cca3",
+        "locator": "p. 5",
+        "quote": "The target starts the loop, but the mask benefits from it."
+      }
+    ]
+  }
+}

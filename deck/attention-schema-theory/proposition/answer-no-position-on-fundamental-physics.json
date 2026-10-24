@@ -1,0 +1,50 @@
+{
+  "record": "proposition",
+  "id": "b2f4bce2-7c36-4aec-ab76-c80e5116874c",
+  "kind": "philosophical",
+  "epistemic_status": "inferred",
+  "title": "Answer: takes no position on physics, and experience is not fundamental",
+  "statements": [
+    {
+      "id": "07eaf868-681c-45b0-b3b5-3f4df603339a",
+      "text": "AST takes no position on what physics is fundamental. It operates only within the physical world, and it rejects the view that experience is an irreducible fundamental, which it holds has blocked explanation.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "07eaf868-681c-45b0-b3b5-3f4df603339a",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "3595df3f-fe9a-4f97-b178-2b1fe3de34f6",
+        "locator": "Discussion",
+        "quote": "AST is an engineering theory that operates only within the physical world."
+      },
+      {
+        "source": "124d3bef-4ae5-42c5-98e9-c2bc87a493ce",
+        "locator": "Two General Principles",
+        "quote": "By turning experience into an irreducible fundamental, the view has blocked progress in understanding consciousness."
+      }
+    ]
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "record": "proposition",
+  "id": "96aa8c3d-66da-4693-a012-583df03899c2",
+  "kind": "philosophical",
+  "epistemic_status": "hypothesized",
+  "title": "Deep illusionism: the item is deep selective processing",
+  "statements": [
+    {
+      "id": "3d299a8e-74ab-45a2-b830-7d2b5a4ec0d9",
+      "text": "Attention, the global workspace and integrated information are descriptions of one object, the deep selective processing of information in the cortex. The brain models that processing to monitor and control it, and rival theories each describe a feature of the same model.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "3d299a8e-74ab-45a2-b830-7d2b5a4ec0d9",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "61ac5725-c520-44e1-bde8-528292ef2815",
+        "locator": "p. 11",
+        "quote": "In this hypothesis, Item 1 is the deep selective processing of information in the brain."
+      }
+    ]
+  }
+}

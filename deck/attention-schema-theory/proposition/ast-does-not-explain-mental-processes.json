@@ -1,0 +1,50 @@
+{
+  "record": "proposition",
+  "id": "2a70d000-7cef-45a9-b781-71052d30de2e",
+  "kind": "philosophical",
+  "epistemic_status": "designed",
+  "title": "AST does not explain decisions, emotion, memory or creativity",
+  "statements": [
+    {
+      "id": "99c2784a-fe51-43f8-aa52-6dbae51ccf85",
+      "text": "AST does not explain most mental processes, such as deciding, feeling emotions, remembering or creativity. It explains why, having done these, people sometimes claim the process came with a conscious experience, and it does not posit an actual intangible feeling.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "99c2784a-fe51-43f8-aa52-6dbae51ccf85",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "124d3bef-4ae5-42c5-98e9-c2bc87a493ce",
+        "locator": "What AST Can and Cannot Explain",
+        "quote": "First, it cannot explain most mental processes, such as how we make decisions, have emotions, or remember the past."
+      },
+      {
+        "source": "124d3bef-4ae5-42c5-98e9-c2bc87a493ce",
+        "locator": "What AST Can and Cannot Explain",
+        "quote": "Second, an attention schema cannot explain creativity."
+      }
+    ]
+  }
+}

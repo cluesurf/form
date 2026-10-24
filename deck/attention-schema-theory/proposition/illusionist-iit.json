@@ -1,0 +1,45 @@
+{
+  "record": "proposition",
+  "id": "ce1fc743-b76c-41d3-b27b-569e9d0db0ad",
+  "kind": "philosophical",
+  "epistemic_status": "hypothesized",
+  "title": "An illusionist IIT treats integration as the item modeled",
+  "statements": [
+    {
+      "id": "82eb1549-4ed7-40fe-b230-54c94a900457",
+      "text": "If the brain modeled its own state of integrated information, consciousness would resemble integration because it is a distorted representation of it. This version removes the panpsychism of IIT, though it is unclear whether neurons could detect integration and what the model would be for.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "82eb1549-4ed7-40fe-b230-54c94a900457",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "61ac5725-c520-44e1-bde8-528292ef2815",
+        "locator": "p. 7",
+        "quote": "consciousness resembles integrated information because consciousness is a distorted representation of integrated information"
+      }
+    ]
+  }
+}

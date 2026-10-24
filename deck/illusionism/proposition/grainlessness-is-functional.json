@@ -1,0 +1,45 @@
+{
+  "record": "proposition",
+  "id": "d9fa7bcf-6383-4ddb-8bbe-8dd23f230378",
+  "kind": "philosophical",
+  "epistemic_status": "hypothesized",
+  "title": "Apparent grainlessness is functional invariability, and training changes it",
+  "statements": [
+    {
+      "id": "4494d53d-1f87-4925-b23b-262f3283256d",
+      "text": "The apparent homogeneity of qualia is a functional invariability akin to cognitive impenetrability, and it is plastic. Training a palate or an ear makes what was atomic and unanalyzable compound and describable, as a listener can come to hear the harmonic in a plucked guitar string.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "4494d53d-1f87-4925-b23b-262f3283256d",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "cefa7948-88e5-4a3a-9d5a-11b94942b10f",
+        "locator": "section 6, 'Filling the vacuum'",
+        "quote": "This putative grainlessness, I hypothesize, is nothing but a sort of functional invariability"
+      }
+    ]
+  }
+}

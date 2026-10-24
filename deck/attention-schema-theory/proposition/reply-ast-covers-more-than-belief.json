@@ -1,0 +1,50 @@
+{
+  "record": "proposition",
+  "id": "22ee8cf3-4768-4cf4-ad39-31b954a09ef6",
+  "kind": "philosophical",
+  "epistemic_status": "inferred",
+  "title": "Reply: AST covers attention, an in-the-moment model, beliefs and output",
+  "statements": [
+    {
+      "id": "e4a8e68c-9985-42b6-a96b-b00e6ad6fa84",
+      "text": "AST is not only a theory of a folk belief. It includes changing attention, an automatic moment-by-moment model of it, beliefs drawn from that model and their output, and it explains attention control and the modeling of others as well as the claim to experience.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "e4a8e68c-9985-42b6-a96b-b00e6ad6fa84",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "124d3bef-4ae5-42c5-98e9-c2bc87a493ce",
+        "locator": "A Theory of Consciousness that Embodies Principles 1 and 2",
+        "quote": "A common misunderstanding about AST is that it merely explains how people have a general, cognitive belief in a nonphysical mind"
+      },
+      {
+        "source": "2cb939ab-6f91-4eb0-9b6f-8312ab0bb184",
+        "locator": "Attention schema theory",
+        "quote": "Yes, AST explains why we believe we have consciousness, but to insist only on that facet of AST misses the bigger picture."
+      }
+    ]
+  }
+}

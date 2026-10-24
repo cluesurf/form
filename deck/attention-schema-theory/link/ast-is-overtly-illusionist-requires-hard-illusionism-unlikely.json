@@ -1,0 +1,33 @@
+{
+  "record": "link",
+  "id": "2bde61e7-9312-47fe-9645-b756c4e31a66",
+  "from": "640aaf2c-e208-4804-9a71-17826d82cd5e",
+  "to": "5f91f2e3-4fd9-43ca-9fd1-f8d930e98eab",
+  "relation": "requires",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "61ac5725-c520-44e1-bde8-528292ef2815",
+        "locator": "p. 1",
+        "quote": "the only cognitive neuroscience theory in the literature that is overtly illusionist is the Attention Schema Theory"
+      },
+      {
+        "source": "61ac5725-c520-44e1-bde8-528292ef2815",
+        "locator": "abstract, p. 1",
+        "quote": "some element of illusionism is almost certainly necessary for any working theory of consciousness"
+      }
+    ]
+  }
+}

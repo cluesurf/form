@@ -1,0 +1,33 @@
+{
+  "record": "link",
+  "id": "31032a54-454c-469f-8e72-f7cd50a21fb1",
+  "from": "afa8f79e-2101-4598-b5b2-987ba07b8c5d",
+  "to": "97137e66-5a4c-4fe5-9416-9b278079f19b",
+  "relation": "supports",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "6b250a16-3a5f-4cbc-9c31-1fbc84d6607d",
+        "locator": "abstract, p. 1",
+        "quote": "a four seconds lasting fragile VSTM store with a capacity that is at least a factor of two higher than 3) the robust and capacity-limited form of VSTM"
+      },
+      {
+        "source": "6b250a16-3a5f-4cbc-9c31-1fbc84d6607d",
+        "locator": "abstract, p. 1",
+        "quote": "Fragile VSTM representations were not affected by light masks, but were completely overwritten by irrelevant pattern masks that spatially overlapped the memory array."
+      }
+    ]
+  }
+}

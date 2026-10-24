@@ -1,0 +1,50 @@
+{
+  "record": "proposition",
+  "id": "ef8d9490-5cea-47f8-8cbc-f71591ede8c3",
+  "kind": "philosophical",
+  "epistemic_status": "hypothesized",
+  "title": "Answer: the physical world, with no new fundamental property",
+  "statements": [
+    {
+      "id": "717ec054-6f22-475d-993d-f720324f40c6",
+      "text": "What is fundamental is the physical world as current science describes it. Illusionism rejects radical theoretical innovation, adds no fundamental experiential property, and expects consciousness to need no revolution in physics or metaphysics.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "717ec054-6f22-475d-993d-f720324f40c6",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "60178d6b-6c55-4495-83a5-786a1c742af3",
+        "locator": "eprint p. 3",
+        "quote": "conservative realism’s rejection of radical theoretical innovation"
+      },
+      {
+        "source": "75b3e491-bd2d-47a1-99af-07db4daaf2ae",
+        "locator": "p. 30",
+        "quote": "requiring no revolution in either physics or metaphysics"
+      }
+    ]
+  }
+}

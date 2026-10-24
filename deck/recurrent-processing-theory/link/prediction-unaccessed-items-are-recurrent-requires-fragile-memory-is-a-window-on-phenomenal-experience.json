@@ -1,0 +1,28 @@
+{
+  "record": "link",
+  "id": "71ed8b28-98e9-4ab7-8ee8-d8eef91d880c",
+  "from": "94bc2287-a35d-4449-a615-4f8e552c83f1",
+  "to": "97137e66-5a4c-4fe5-9416-9b278079f19b",
+  "relation": "requires",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "e46f5f83-75f0-462e-b0d5-86b952498658",
+        "locator": "p. 498",
+        "quote": "One prediction is that in the Sperling, Landman et al., and Sligte et al. experiments the representations of the unaccessed items will prove to involve recurrent loops."
+      }
+    ]
+  }
+}

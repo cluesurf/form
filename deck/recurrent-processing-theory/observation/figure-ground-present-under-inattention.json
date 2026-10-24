@@ -1,0 +1,39 @@
+{
+  "record": "observation",
+  "id": "5a2d38ff-1833-4312-8495-49f1aad780a7",
+  "kind": "experimental_result",
+  "epistemic_status": "observed",
+  "description": "Neural signals of perceptual organization and figure-ground segregation, absent under masking, are present when stimuli go unreported for lack of attention, in change detection and inattentional blindness studies (Landman et al. 2003, Scholte et al. 2001, as reported by Lamme).",
+  "method": "instrument",
+  "status": "reported",
+  "source": "b9050313-e369-439d-a181-b751070bb3df",
+  "procedure": null,
+  "variable": null,
+  "value": null,
+  "unit": null,
+  "uncertainty": null,
+  "sample_size": null,
+  "replication_count": null,
+  "quality": null,
+  "limitations": "Reported secondhand in Lamme 2020. The original studies, from Lamme's group, are not read here.",
+  "conflicts_of_interest": null,
+  "observed_at": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b9050313-e369-439d-a181-b751070bb3df",
+        "locator": "p. 6",
+        "quote": "which are absent in stage 2, are present during stage 3"
+      }
+    ]
+  }
+}

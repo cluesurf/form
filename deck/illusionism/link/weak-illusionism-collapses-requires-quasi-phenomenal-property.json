@@ -1,0 +1,33 @@
+{
+  "record": "link",
+  "id": "d2bf779d-a376-434a-8899-f2314abb664b",
+  "from": "8cf3914e-10cd-4837-a1e2-cfa2732ab1e8",
+  "to": "a1b7af33-0806-4666-ab97-40cd96d1c117",
+  "relation": "requires",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "60178d6b-6c55-4495-83a5-786a1c742af3",
+        "locator": "eprint p. 4",
+        "quote": "if weak illusionism is not to collapse into strong illusionism, then it must employ a concept of phenomenality stronger than that of quasi-phenomenality"
+      },
+      {
+        "source": "60178d6b-6c55-4495-83a5-786a1c742af3",
+        "locator": "eprint p. 4",
+        "quote": "then radical realism and strong illusionism will be the only options"
+      }
+    ]
+  }
+}

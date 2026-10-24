@@ -1,0 +1,28 @@
+{
+  "record": "link",
+  "id": "220ca8bd-aaf0-4388-a336-07bb0e8b2381",
+  "from": "0a9f6b79-5cdf-47d5-a198-8e47298c5dbb",
+  "to": "94d1e6cc-101d-4e1b-9fc7-56d44571b271",
+  "relation": "answers",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "124d3bef-4ae5-42c5-98e9-c2bc87a493ce",
+        "locator": "Two General Principles",
+        "quote": "We believe we have experience; belief derives from information."
+      }
+    ]
+  }
+}

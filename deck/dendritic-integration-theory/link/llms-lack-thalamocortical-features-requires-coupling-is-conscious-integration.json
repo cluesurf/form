@@ -1,0 +1,28 @@
+{
+  "record": "link",
+  "id": "b59d0ae7-0bfd-4b81-bcaf-12115e146031",
+  "from": "b016ce88-7dbb-4acd-9a64-064927e58623",
+  "to": "44275afa-efe4-45b8-b986-cef4f56df909",
+  "relation": "requires",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "3519c086-a3e3-4b1c-9631-78b193482d93",
+        "locator": "p. 9",
+        "quote": "there is no LLM equivalent of dual-compartment pyramidal neurons, nor a centralised thalamic architecture"
+      }
+    ]
+  }
+}

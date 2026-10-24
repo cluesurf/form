@@ -1,0 +1,50 @@
+{
+  "record": "proposition",
+  "id": "b3c98e6c-e35c-4294-a9b2-f7f3b985af6b",
+  "kind": "empirical",
+  "epistemic_status": "inferred",
+  "title": "Widespread recurrence needs attention from prefrontal cortex",
+  "statements": [
+    {
+      "id": "dd7be11f-a715-441e-9cb6-4f4ea8caa54b",
+      "text": "Visual cortex alone does not reach the global stage: widespread recurrent processing needs attention, which depends on interactions between visual and prefrontal cortex. On this point the theory is closer to global workspace theory than its definitions suggest.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "dd7be11f-a715-441e-9cb6-4f4ea8caa54b",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "6dd7dbf6-162b-4cc6-99d2-6ac597b93829",
+        "locator": "p. 1544",
+        "quote": "According to RPT, widespread recurrent processing requires attention, and for this, interactions between the visual cortex and prefrontal areas are deemed necessary."
+      },
+      {
+        "source": "6dd7dbf6-162b-4cc6-99d2-6ac597b93829",
+        "locator": "p. 1544",
+        "quote": "RPT is more compatible with GNWT than their different definitions would suggest"
+      }
+    ]
+  }
+}

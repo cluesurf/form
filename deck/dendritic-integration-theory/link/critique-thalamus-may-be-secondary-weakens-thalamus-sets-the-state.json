@@ -1,0 +1,28 @@
+{
+  "record": "link",
+  "id": "80ca7f2c-5b5c-48a0-bb05-915ca7aa5379",
+  "from": "b8e29666-52f0-46b7-8b87-991febecf7dc",
+  "to": "4c670115-fba8-4b57-9111-7e4844c08243",
+  "relation": "weakens",
+  "strength": null,
+  "rationale": "If thalamic changes follow cortical ones, the thalamus does not set the state.",
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "e3de91d3-ef9c-49b2-a711-bf6966c2cca3",
+        "locator": "p. 2",
+        "quote": "for counter-arguments suggesting that the effects in thalamus are only secondary to those in cortex"
+      }
+    ]
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "record": "proposition",
+  "id": "844426bf-3a77-41ba-a783-34acd993130b",
+  "kind": "philosophical",
+  "epistemic_status": "hypothesized",
+  "title": "Phenomenal properties are causally potent as intentional objects",
+  "statements": [
+    {
+      "id": "5d7e914a-9d20-40db-9985-3b27efc60015",
+      "text": "Phenomenal properties exist as intentional objects, a sort of mental fiction, and move people the way ideas, stories and theories do, by figuring as the objects of intentional states. This lets illusionism acknowledge both how magical they seem and how powerfully they affect people.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "5d7e914a-9d20-40db-9985-3b27efc60015",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "60178d6b-6c55-4495-83a5-786a1c742af3",
+        "locator": "eprint p. 13",
+        "quote": "they can say that phenomenal properties are causally potent, considered as intentional objects"
+      },
+      {
+        "source": "60178d6b-6c55-4495-83a5-786a1c742af3",
+        "locator": "eprint p. 14",
+        "quote": "But if phenomenal properties are intentional objects, a sort of mental fiction"
+      }
+    ]
+  }
+}

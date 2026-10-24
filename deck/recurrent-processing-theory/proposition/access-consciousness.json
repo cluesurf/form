@@ -1,0 +1,45 @@
+{
+  "record": "proposition",
+  "id": "2a4cd3d5-3d54-4ffb-88fc-5f5b5da723cb",
+  "kind": "definitional",
+  "epistemic_status": "designed",
+  "title": "Access consciousness",
+  "statements": [
+    {
+      "id": "6914b79d-f33c-4d79-b21f-33f3d373f9bc",
+      "text": "Access consciousness is the set of properties of an experience that are available for reasoning, report and the voluntary control of action.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "6914b79d-f33c-4d79-b21f-33f3d373f9bc",
+  "status": "active",
+  "voice": "framework",
+  "defines": "access consciousness",
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "6dd7dbf6-162b-4cc6-99d2-6ac597b93829",
+        "locator": "p. 1532",
+        "quote": "AC refers to those properties of experience that are accessible for use in reasoning, report, and the control of action"
+      }
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "record": "link",
+  "id": "1336facb-28c5-4dcb-a76d-e0d530c59560",
+  "from": "0fd6c5a1-67ae-4529-990c-422e1106ec63",
+  "to": "37167c2b-e8fa-4557-8850-f7a3bd50dd7f",
+  "relation": "requires",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "0cf2e254-a8cc-4350-8ab9-f8157c866e32",
+        "locator": "p. 183",
+        "quote": "The temporal order ofsubjective events is a product of the brain's interpretational processes"
+      }
+    ]
+  }
+}

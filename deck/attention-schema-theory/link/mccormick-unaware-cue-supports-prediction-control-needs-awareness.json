@@ -1,0 +1,28 @@
+{
+  "record": "link",
+  "id": "d38ff79f-02ff-4cd5-bbac-991f2fa645cd",
+  "from": "cb677fab-3e35-44bd-a37d-13f9cf7e59bc",
+  "to": "daed49d9-48a3-4978-8456-07a83e3d4ff2",
+  "relation": "supports",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "64858e60-e97c-4e3d-8d20-4e3e2c056209",
+        "locator": "p. 8",
+        "quote": "Without awareness of the cue, attention to the cue could no longer be controlled in a top–down manner."
+      }
+    ]
+  }
+}

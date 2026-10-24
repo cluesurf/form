@@ -1,0 +1,55 @@
+{
+  "record": "proposition",
+  "id": "a57f8772-b6af-4152-89ee-f866ce986930",
+  "kind": "empirical",
+  "epistemic_status": "hypothesized",
+  "title": "The method is to build a detailed illusionist theory from cognitive science",
+  "statements": [
+    {
+      "id": "60d9639a-806b-4999-a2c8-0064d5da76b3",
+      "text": "The illusion problem is to be solved by forming hypotheses about the cognitive mechanisms behind the illusion and their bases in neurophysiology and neuroanatomy, drawing on evidence from across the cognitive sciences. No detailed theory is offered yet. Whether a hard problem would remain once such a theory explained reports, judgments and intuitions is to be found by constructing one.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "60d9639a-806b-4999-a2c8-0064d5da76b3",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "60178d6b-6c55-4495-83a5-786a1c742af3",
+        "locator": "eprint p. 21",
+        "quote": "The method is to form hypotheses about the underlying cognitive mechanisms and their bases in neurophysiology and neuroanatomy"
+      },
+      {
+        "source": "60178d6b-6c55-4495-83a5-786a1c742af3",
+        "locator": "eprint p. 22",
+        "quote": "The best way to find out will be to try to construct such a theory."
+      },
+      {
+        "source": "60178d6b-6c55-4495-83a5-786a1c742af3",
+        "locator": "eprint p. 1",
+        "quote": "It will not propose a detailed illusionist theory"
+      }
+    ]
+  }
+}

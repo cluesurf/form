@@ -1,0 +1,33 @@
+{
+  "record": "link",
+  "id": "31542911-dae5-46de-a333-6aea394a3471",
+  "from": "e3e44d34-6715-4762-8ce1-3efdcd8b3a60",
+  "to": "4e35e155-d252-4816-a8ba-15bf5b865a6c",
+  "relation": "requires",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "64858e60-e97c-4e3d-8d20-4e3e2c056209",
+        "locator": "p. 1",
+        "quote": "In a nutshell, the theory proposes that subjective awareness is the brain’s internal model of the process of attention."
+      },
+      {
+        "source": "64858e60-e97c-4e3d-8d20-4e3e2c056209",
+        "locator": "p. 9",
+        "quote": "the content of this model is the basis of subjective reports"
+      }
+    ]
+  }
+}

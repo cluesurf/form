@@ -1,0 +1,28 @@
+{
+  "record": "link",
+  "id": "6ac04ddb-265f-4b44-96c6-692643b50ea9",
+  "from": "e4c6d763-703c-4db5-994d-ce86cde5d8e7",
+  "to": "f211964e-b084-4efa-adb9-23cc2581729f",
+  "relation": "supports",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "1f1534c8-43bb-45eb-ba05-3549a6015b03",
+        "locator": "p. 67",
+        "quote": "that’s a fact of personal psychology, at best an unshakable intuition, not a datum"
+      }
+    ]
+  }
+}

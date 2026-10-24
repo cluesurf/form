@@ -1,0 +1,50 @@
+{
+  "record": "proposition",
+  "id": "f736227f-e32c-4f57-9c53-c6601d764ec0",
+  "kind": "philosophical",
+  "epistemic_status": "inferred",
+  "title": "Critique: weak illusionism leaves the hard problem in place",
+  "statements": [
+    {
+      "id": "c6b2acd8-49ba-4582-a3f8-b761eac98e0c",
+      "text": "Graziano is among illusionists who reject strong illusionism. The hard problem needs only that there is something it is like to be us, not that experience is nonphysical or intrinsic, so showing those appearances false leaves it standing. Only strong illusionism could dissolve it.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "c6b2acd8-49ba-4582-a3f8-b761eac98e0c",
+  "status": "active",
+  "voice": "critique",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "8aeff1e7-e96d-49bc-890e-26f6d6b9f2d2",
+        "locator": "p. 49",
+        "quote": "To generate the hard problem of consciousness, all we need is the basic fact that there is something it is like to be us."
+      },
+      {
+        "source": "8aeff1e7-e96d-49bc-890e-26f6d6b9f2d2",
+        "locator": "p. 50",
+        "quote": "So, to dissolve the hard problem of consciousness, illusionists need to be strong illusionists."
+      }
+    ]
+  }
+}

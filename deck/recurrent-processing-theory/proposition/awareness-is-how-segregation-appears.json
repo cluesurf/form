@@ -1,0 +1,45 @@
+{
+  "record": "proposition",
+  "id": "704b7497-d0df-417d-8bd9-0c4a8cf5393f",
+  "kind": "philosophical",
+  "epistemic_status": "hypothesized",
+  "title": "Awareness may be how surface segregation shows up in experience",
+  "statements": [
+    {
+      "id": "1cced4b0-1a49-4665-b80d-82757fc8fd20",
+      "text": "The view that recurrent processing serves figure-ground segmentation and the view that it serves awareness need not conflict, since visual awareness might be the way surface segregation and related processes express themselves in experience.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "1cced4b0-1a49-4665-b80d-82757fc8fd20",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "0ba5a059-2ae2-4142-85ea-f18a0a975bc1",
+        "locator": "p. 1495",
+        "quote": "visual awareness might simply be the way surface segregation and related processes express themselves phenomenologically"
+      }
+    ]
+  }
+}

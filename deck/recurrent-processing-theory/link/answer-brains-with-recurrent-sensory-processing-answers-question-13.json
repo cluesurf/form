@@ -1,0 +1,33 @@
+{
+  "record": "link",
+  "id": "e9d8b142-dc69-4cab-a1d2-f339de237f15",
+  "from": "a4ec81f9-00e1-4d99-ab44-7a7dce512890",
+  "to": "fa149d96-d797-483c-a560-6a297c01c9b1",
+  "relation": "answers",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b9050313-e369-439d-a181-b751070bb3df",
+        "locator": "p. 2",
+        "quote": "Anesthesia renders everything stage 1."
+      },
+      {
+        "source": "6dd7dbf6-162b-4cc6-99d2-6ac597b93829",
+        "locator": "p. 1543",
+        "quote": "Lamme also discussed whether even RP between interconnected neuron pairs may perhaps generate some consciousness"
+      }
+    ]
+  }
+}

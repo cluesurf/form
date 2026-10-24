@@ -1,0 +1,28 @@
+{
+  "record": "link",
+  "id": "f4e03ba4-5998-492d-82f5-5a99505b61a0",
+  "from": "686aa425-f705-4a7f-82f1-8770071270c5",
+  "to": "455dff7d-b66c-449d-b2d7-52521b99cba5",
+  "relation": "answers",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "61ac5725-c520-44e1-bde8-528292ef2815",
+        "locator": "p. 12",
+        "quote": "Illusionism explains the behavior of the system without postulating the existence of a consciousness stuff that emerges from or resides in any part of the system."
+      }
+    ]
+  }
+}

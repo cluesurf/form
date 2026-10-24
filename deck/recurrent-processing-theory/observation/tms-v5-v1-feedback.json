@@ -1,0 +1,39 @@
+{
+  "record": "observation",
+  "id": "68ac5f40-6ccc-4474-86f6-2374442b09a1",
+  "kind": "experimental_result",
+  "epistemic_status": "observed",
+  "description": "With magnetic pulses to V5 and V1, moving phosphenes from V5 became mostly stationary when the V1 pulse came about 50 ms after the V5 pulse, at the timing of feedback from V5 to V1 (Pascual-Leone and Walsh 2001, as reported by Block). Silvanto and colleagues found that disrupting V1 50 ms after the critical V5 time also impaired motion perception.",
+  "method": "experiment",
+  "status": "reported",
+  "source": "e46f5f83-75f0-462e-b0d5-86b952498658",
+  "procedure": null,
+  "variable": null,
+  "value": null,
+  "unit": null,
+  "uncertainty": null,
+  "sample_size": null,
+  "replication_count": null,
+  "quality": null,
+  "limitations": "Reported secondhand in Block 2007. Studies from laboratories outside Lamme's group, not read here.",
+  "conflicts_of_interest": null,
+  "observed_at": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "e46f5f83-75f0-462e-b0d5-86b952498658",
+        "locator": "p. 496",
+        "quote": "When the pulse to V1 was applied roughly 50 msecs later than to V5, subjects said that their phosphenes were mostly stationary instead of moving."
+      }
+    ]
+  }
+}

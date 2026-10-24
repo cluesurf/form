@@ -1,0 +1,45 @@
+{
+  "record": "proposition",
+  "id": "eededfcb-ab51-4973-bd98-1fc77b9a0eaf",
+  "kind": "philosophical",
+  "epistemic_status": "inferred",
+  "title": "Answer: takes no position on the self",
+  "statements": [
+    {
+      "id": "268d2f46-bdd2-4704-8c12-16c8d273482a",
+      "text": "The theory gives no account of the self. Aru, Larkum and Shine raise the question whether basic self- and agency-related processes are needed for consciousness to emerge, without answering it.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "268d2f46-bdd2-4704-8c12-16c8d273482a",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "3519c086-a3e3-4b1c-9631-78b193482d93",
+        "locator": "p. 7",
+        "quote": "re-evaluate the necessity of more basic self- and agency-related processes for the emergence of consciousness"
+      }
+    ]
+  }
+}

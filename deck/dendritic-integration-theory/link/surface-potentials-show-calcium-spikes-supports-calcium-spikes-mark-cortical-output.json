@@ -1,0 +1,33 @@
+{
+  "record": "link",
+  "id": "9ac9e0f1-ddff-473b-954d-42a07fc2236f",
+  "from": "93e1e156-e813-4b5d-ab3e-01774a6d297d",
+  "to": "4750a4cd-bb52-4a1f-9215-e9fafd4d674b",
+  "relation": "supports",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "8020e246-69f2-4226-8e55-f06fa2b0e190",
+        "locator": "abstract, p. 1",
+        "quote": "are clearly detectable in cortical surface potentials"
+      },
+      {
+        "source": "8020e246-69f2-4226-8e55-f06fa2b0e190",
+        "locator": "Figure 7, p. 8",
+        "quote": "Strong correlation between the amplitude of surface potential and peak fluorescence change during the late spike (n = 38 dendrites from four animals)"
+      }
+    ]
+  }
+}

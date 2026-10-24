@@ -1,0 +1,50 @@
+{
+  "record": "proposition",
+  "id": "fed1d196-c7d2-42be-9730-5932cb7d11c6",
+  "kind": "definitional",
+  "epistemic_status": "designed",
+  "title": "State and contents of consciousness",
+  "statements": [
+    {
+      "id": "3cadf13f-5a64-4753-b797-11086d865468",
+      "text": "The state of consciousness is whether and how far a subject is conscious, as in waking, dreaming, deep sleep or anesthesia. The contents of consciousness are what the subject is conscious of, such as a dog, a taste or an itch.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "3cadf13f-5a64-4753-b797-11086d865468",
+  "status": "active",
+  "voice": "framework",
+  "defines": "state and contents of consciousness",
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "e3de91d3-ef9c-49b2-a711-bf6966c2cca3",
+        "locator": "introduction, p. 1",
+        "quote": "These are typical states of consciousness."
+      },
+      {
+        "source": "e3de91d3-ef9c-49b2-a711-bf6966c2cca3",
+        "locator": "introduction, p. 1",
+        "quote": "These are examples of the contents of consciousness"
+      }
+    ]
+  }
+}

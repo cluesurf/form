@@ -1,0 +1,50 @@
+{
+  "record": "proposition",
+  "id": "85cfc0de-cec9-436a-b8fe-5c351620ca89",
+  "kind": "empirical",
+  "epistemic_status": "hypothesized",
+  "title": "Driving the apical compartment can create an illusory percept",
+  "statements": [
+    {
+      "id": "69fbf6d3-7dce-4901-ace8-7009f22f1305",
+      "text": "Optogenetic enhancement of apical activity made mice respond as if a whisker stimulus were present. The authors read these false alarms as a sign that the animal experienced an illusory stimulus, as humans do when they expect one.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "69fbf6d3-7dce-4901-ace8-7009f22f1305",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "e3de91d3-ef9c-49b2-a711-bf6966c2cca3",
+        "locator": "p. 5",
+        "quote": "Optogenetic enhancement of apical dendritic activity also led to false alarms."
+      },
+      {
+        "source": "e3de91d3-ef9c-49b2-a711-bf6966c2cca3",
+        "locator": "p. 5",
+        "quote": "A bold but highly plausible interpretation would be that the animal experienced an illusory stimulus"
+      }
+    ]
+  }
+}

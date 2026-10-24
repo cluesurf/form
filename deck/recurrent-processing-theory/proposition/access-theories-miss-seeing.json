@@ -1,0 +1,50 @@
+{
+  "record": "proposition",
+  "id": "bbbc5470-db01-4658-b0b7-ccd94675a8a9",
+  "kind": "philosophical",
+  "epistemic_status": "inferred",
+  "title": "Access and higher-order functions do not explain seeing",
+  "statements": [
+    {
+      "id": "f92f0078-d082-46a0-858b-7aebb6fd0dff",
+      "text": "Global workspace access and higher-order re-representation may be needed to report or remember what is seen, but they operate after the integration that marks conscious seeing. They speak to knowing, wanting and remembering rather than to seeing.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "f92f0078-d082-46a0-858b-7aebb6fd0dff",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b9050313-e369-439d-a181-b751070bb3df",
+        "locator": "p. 7",
+        "quote": "HOTT offers no explanation of the \"integration\" and \"unity\" aspect of consciousness"
+      },
+      {
+        "source": "b9050313-e369-439d-a181-b751070bb3df",
+        "locator": "p. 7",
+        "quote": "I have a hard time seeing the explanatory power of these functions toward understanding seeing"
+      }
+    ]
+  }
+}

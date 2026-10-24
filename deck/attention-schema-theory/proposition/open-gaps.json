@@ -1,0 +1,45 @@
+{
+  "record": "proposition",
+  "id": "0676a467-92e5-4e2d-a7e0-e44e87b2568c",
+  "kind": "empirical",
+  "epistemic_status": "hypothesized",
+  "title": "Open: networks, content, partial states, relation to other theories",
+  "statements": [
+    {
+      "id": "24faef5c-a482-4438-9598-c76a5824ab52",
+      "text": "Which networks compute the schema, what exactly it contains, whether it can be partial or is all or nothing, and how it relates to global workspace and higher-order theories are open questions, some under experimental study.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "24faef5c-a482-4438-9598-c76a5824ab52",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "2cb939ab-6f91-4eb0-9b6f-8312ab0bb184",
+        "locator": "AST is a proper theory",
+        "quote": "The theory may have many gaps. For example, what networks in the brain compute this information? What exactly is the informational content of the attention schema?"
+      }
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "record": "link",
+  "id": "f5faa63e-0678-4a06-bd5a-7f6046e95ed9",
+  "from": "aeb0e4b9-d4d2-4874-8186-9570473a3b56",
+  "to": "850eec99-f7c2-4bf1-872b-3f32b2a65f59",
+  "relation": "requires",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "e3de91d3-ef9c-49b2-a711-bf6966c2cca3",
+        "locator": "p. 5",
+        "quote": "if conscious perception is based on the processing within the thalamocortical loop, then it is hard for conscious perception to resolve anything that happens faster than the processing time of this loop"
+      }
+    ]
+  }
+}

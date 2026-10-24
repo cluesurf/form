@@ -1,0 +1,33 @@
+{
+  "record": "link",
+  "id": "a1cdc742-c989-4881-9c2b-8f21cc69ee5d",
+  "from": "085ac288-cf60-4017-8bbe-e25993d3cafa",
+  "to": "532ceb88-bd11-4104-9ad4-e3d054ccfee9",
+  "relation": "requires",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "ce6a7eee-f599-4aa2-bf3b-b9ab168179bf",
+        "locator": "project 0567 page",
+        "quote": null
+      },
+      {
+        "source": "6dd7dbf6-162b-4cc6-99d2-6ac597b93829",
+        "locator": "p. 1541",
+        "quote": "Five such projects have been sponsored by the Templeton World Charity Foundation, including tests of GNWT, IIT, PP/NREP, and RPT."
+      }
+    ]
+  }
+}

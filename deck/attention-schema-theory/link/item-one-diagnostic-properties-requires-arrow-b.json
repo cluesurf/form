@@ -1,0 +1,28 @@
+{
+  "record": "link",
+  "id": "c9540441-93db-4041-81ec-fe72a7485616",
+  "from": "51c2e13e-342c-4bf3-b8ae-6dd8b681e44a",
+  "to": "f366e70f-732f-468e-9683-fba4f86e2943",
+  "relation": "requires",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "61ac5725-c520-44e1-bde8-528292ef2815",
+        "locator": "p. 9",
+        "quote": "We’re looking for something with three diagnostic properties."
+      }
+    ]
+  }
+}

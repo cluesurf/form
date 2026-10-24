@@ -1,0 +1,28 @@
+{
+  "record": "link",
+  "id": "0c0be652-49db-464e-881e-921f51e62dc9",
+  "from": "14ae937c-1c8b-47e9-b64f-d487aa1d9879",
+  "to": "b6acb562-981e-4628-afa6-9656f0e92451",
+  "relation": "supports",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "e3de91d3-ef9c-49b2-a711-bf6966c2cca3",
+        "locator": "p. 4",
+        "quote": "The apical dendritic response to hindlimb stimulation was 4-fold stronger in the quiet awake state than in the anesthetized state."
+      }
+    ]
+  }
+}

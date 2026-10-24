@@ -1,0 +1,28 @@
+{
+  "record": "link",
+  "id": "36b1193f-ff2a-4b98-9fe6-e52a0af2ad09",
+  "from": "9ac67cb6-0a50-4619-adc9-6e5fc58838c3",
+  "to": "e7b3d2b7-7a2f-4579-af45-7df207492c21",
+  "relation": "supports",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "cefa7948-88e5-4a3a-9d5a-11b94942b10f",
+        "locator": "section 3, 'The Traditional Paradox Regained'",
+        "quote": "the link via memory, is analogous to the imaginary cable that might link two subjects in the original version"
+      }
+    ]
+  }
+}

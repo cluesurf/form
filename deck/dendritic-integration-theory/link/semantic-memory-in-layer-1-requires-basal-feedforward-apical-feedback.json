@@ -1,0 +1,28 @@
+{
+  "record": "link",
+  "id": "873ff74a-cf07-4dba-911f-9ab07d7d9fce",
+  "from": "32c0d207-e9b7-4c4c-871a-7b421d83fd8d",
+  "to": "968e2718-81d6-404c-ba73-22d61915a71c",
+  "relation": "requires",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "18284858-8ad4-49e0-b7f6-d13c8a90227b",
+        "locator": "p. 1540",
+        "quote": "Evidence that consolidated semantic memories are stored in the connections in layer 1"
+      }
+    ]
+  }
+}

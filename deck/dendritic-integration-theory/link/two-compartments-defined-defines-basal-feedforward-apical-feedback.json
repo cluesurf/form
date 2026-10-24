@@ -1,0 +1,28 @@
+{
+  "record": "link",
+  "id": "bb498703-b16e-4795-b0ad-e4645d160c70",
+  "from": "7e8af1bb-bcf9-4a5a-a0a6-41f5efaee995",
+  "to": "968e2718-81d6-404c-ba73-22d61915a71c",
+  "relation": "defines",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "e3de91d3-ef9c-49b2-a711-bf6966c2cca3",
+        "locator": "p. 4",
+        "quote": "Cortical L5p neurons have two functionally distinct sites of integration, one in the soma (somatic compartment) and one near the top of their apical trunk (apical compartment"
+      }
+    ]
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "record": "link",
+  "id": "f3466b1e-73fd-44a5-abaa-7a5dc230df56",
+  "from": "d773240a-1ceb-415f-b60a-4beac91f7d9e",
+  "to": "b6acb562-981e-4628-afa6-9656f0e92451",
+  "relation": "weakens",
+  "strength": null,
+  "rationale": "A mechanism that appears late in development and only in neocortex cannot be required for every form of consciousness without denying it to infants and other species.",
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "d02af59e-fe46-4e8e-9b13-3c1a29a6963f",
+        "locator": "section Implications for Theories Relating Apical Amplification to States of Consciousness",
+        "quote": "the capability for AA within pyramidal cells arises late in the course of both phylogenetic and ontogenetic development"
+      },
+      {
+        "source": "d02af59e-fe46-4e8e-9b13-3c1a29a6963f",
+        "locator": "section Implications for Theories Relating Apical Amplification to States of Consciousness",
+        "quote": "unless we deny any form of consciousness to infants or to species lacking a neocortex"
+      }
+    ]
+  }
+}

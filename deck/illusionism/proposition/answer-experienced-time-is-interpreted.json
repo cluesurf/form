@@ -1,0 +1,45 @@
+{
+  "record": "proposition",
+  "id": "0fd6c5a1-67ae-4529-990c-422e1106ec63",
+  "kind": "philosophical",
+  "epistemic_status": "hypothesized",
+  "title": "Answer: experienced temporal order is an interpretation, physical time is out of scope",
+  "statements": [
+    {
+      "id": "921a1ec0-51a2-46b0-9b88-164f4858b02c",
+      "text": "The view takes no position on physical time. On experienced time, the multiple drafts model holds that the subjective order of events is a product of the brain’s interpretation, not a direct reflection of when the underlying processes occur.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "921a1ec0-51a2-46b0-9b88-164f4858b02c",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "0cf2e254-a8cc-4350-8ab9-f8157c866e32",
+        "locator": "p. 183",
+        "quote": "The temporal order ofsubjective events is a product of the brain's interpretational processes"
+      }
+    ]
+  }
+}

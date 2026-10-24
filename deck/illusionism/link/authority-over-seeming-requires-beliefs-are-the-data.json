@@ -1,0 +1,28 @@
+{
+  "record": "link",
+  "id": "bee00f39-e162-448c-89a6-33c00db4f655",
+  "from": "2b486211-dfd8-4bed-b8a9-d8e2838f6e97",
+  "to": "28c40da9-9358-450b-bfdc-f2932277a526",
+  "relation": "requires",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "75b3e491-bd2d-47a1-99af-07db4daaf2ae",
+        "locator": "p. 22",
+        "quote": "You are not authoritative about what is happening in you, but only about what seems to be happening in you"
+      }
+    ]
+  }
+}

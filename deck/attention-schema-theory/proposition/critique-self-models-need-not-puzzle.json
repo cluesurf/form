@@ -1,0 +1,50 @@
+{
+  "record": "proposition",
+  "id": "ec8c1730-816b-4d21-ae58-eae3ddeb2c04",
+  "kind": "philosophical",
+  "epistemic_status": "inferred",
+  "title": "Critique: self-models alone do not produce problem intuitions",
+  "statements": [
+    {
+      "id": "faacf07b-be35-4a3d-ae27-ddc9128af7f7",
+      "text": "An internal model of one’s own states does not by itself yield the sense of a hard problem: people model their own beliefs without such intuitions. An account built on introspective models, as AST is, owes an explanation of why the phenomenal case differs.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "faacf07b-be35-4a3d-ae27-ddc9128af7f7",
+  "status": "active",
+  "voice": "critique",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "8aeff1e7-e96d-49bc-890e-26f6d6b9f2d2",
+        "locator": "p. 20",
+        "quote": "I have occasionally heard it suggested that internal self-models will inevitably produce problem intuitions, but this seems clearly false."
+      },
+      {
+        "source": "8aeff1e7-e96d-49bc-890e-26f6d6b9f2d2",
+        "locator": "p. 20",
+        "quote": "Introspective models are especially central in Graziano’s (2013) ‘attention schema’ theory of consciousness"
+      }
+    ]
+  }
+}

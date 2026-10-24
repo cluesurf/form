@@ -1,0 +1,50 @@
+{
+  "record": "proposition",
+  "id": "5665ab5f-56ab-4094-b96f-b92f50521286",
+  "kind": "empirical",
+  "epistemic_status": "inferred",
+  "title": "Answer: consciousness is read from behavior, complexity and surface markers",
+  "statements": [
+    {
+      "id": "f65ae5a4-c293-47a6-b7f8-0f1e33ffdb19",
+      "text": "In animals, conscious perception is read from behavior, such as a mouse licking to report a whisker stimulus near threshold or moving in response to an air puff. Conversation alone is not an objective measure. State is read from complexity measures, and dendritic activity from surface potentials.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "f65ae5a4-c293-47a6-b7f8-0f1e33ffdb19",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "e3de91d3-ef9c-49b2-a711-bf6966c2cca3",
+        "locator": "p. 4",
+        "quote": "one way to interpret the behavior of the animals is that when they reacted to the air-puff with a movement, they perceived it"
+      },
+      {
+        "source": "3519c086-a3e3-4b1c-9631-78b193482d93",
+        "locator": "p. 4",
+        "quote": "they are not formal objective measures of consciousness"
+      }
+    ]
+  }
+}

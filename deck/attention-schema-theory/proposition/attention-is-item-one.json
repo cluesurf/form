@@ -1,0 +1,50 @@
+{
+  "record": "proposition",
+  "id": "207e4a3b-ad2b-4840-a03f-c87214551bd9",
+  "kind": "empirical",
+  "epistemic_status": "hypothesized",
+  "title": "Attention is the item that the consciousness model represents",
+  "statements": [
+    {
+      "id": "78c38c1e-c10f-41b9-aec6-1be525089b24",
+      "text": "Selective attention passes the three tests: it is a physical process that affects neurons, reported consciousness reads as an abstracted description of it, and a century of data shows the two covary. AST proposes that attention is Item 1 and the attention schema is Item 2.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "78c38c1e-c10f-41b9-aec6-1be525089b24",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "61ac5725-c520-44e1-bde8-528292ef2815",
+        "locator": "p. 10",
+        "quote": "Attention is Item 1. It is a process of selectively enhancing some representations over others."
+      },
+      {
+        "source": "61ac5725-c520-44e1-bde8-528292ef2815",
+        "locator": "p. 10",
+        "quote": "Attention appears to match the three diagnostic properties described above."
+      }
+    ]
+  }
+}

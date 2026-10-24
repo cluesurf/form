@@ -1,0 +1,28 @@
+{
+  "record": "link",
+  "id": "02942e08-78b8-4d7a-95f2-278c0e8fcceb",
+  "from": "2c1356ee-ac96-4c27-8486-b8c222f8f7da",
+  "to": "74e87691-55c5-45d4-bcbe-85fb62e5912d",
+  "relation": "answers",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b9050313-e369-439d-a181-b751070bb3df",
+        "locator": "p. 7",
+        "quote": "it was recently proposed (in the context of IIT) that the perception of space, as it unfolds in front of our eyes, is supported by brain areas whose units are linked by a grid-like connectivity"
+      }
+    ]
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "record": "link",
+  "id": "12607af6-68f3-4cfd-8231-48c16f4445ec",
+  "from": "163ee071-4b2b-41a1-a74e-47aa48414f51",
+  "to": "7b5ff611-b80c-437d-91ad-8407905826c7",
+  "relation": "weakens",
+  "strength": null,
+  "rationale": "Recurrence present in dreamless sleep and anesthesia would make recurrence alone too widespread to be consciousness.",
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "6dd7dbf6-162b-4cc6-99d2-6ac597b93829",
+        "locator": "p. 1538",
+        "quote": "RP seems far more ubiquitous than consciousness, suggesting that RP alone is not sufficient for consciousness"
+      },
+      {
+        "source": "6dd7dbf6-162b-4cc6-99d2-6ac597b93829",
+        "locator": "p. 1541",
+        "quote": "the commonly embraced principle of recurrent processing may be necessary for consciousness but is unlikely to be sufficient"
+      }
+    ]
+  }
+}

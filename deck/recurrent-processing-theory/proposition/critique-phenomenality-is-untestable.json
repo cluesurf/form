@@ -1,0 +1,50 @@
+{
+  "record": "proposition",
+  "id": "d65bca7c-e054-40ac-96d8-26db487be00e",
+  "kind": "philosophical",
+  "epistemic_status": "inferred",
+  "title": "Critique: phenomenality without access lacks empirical testability",
+  "statements": [
+    {
+      "id": "3c276534-81fe-4af3-912e-80a4408fd1f4",
+      "text": "Phenomenal consciousness without access is supported only by subjects' reports, so availability for report remains the only criterion for conscious perception, and a separate phenomenality cannot be tested.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "3c276534-81fe-4af3-912e-80a4408fd1f4",
+  "status": "active",
+  "voice": "critique",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "f43c721d-288e-4e19-9de2-ccdb54b9ab8b",
+        "locator": "p. 519",
+        "quote": "The key problem that we have with his thesis is its lack of empirical testability."
+      },
+      {
+        "source": "f43c721d-288e-4e19-9de2-ccdb54b9ab8b",
+        "locator": "p. 519",
+        "quote": "Availability for report remains the sole criterion for conscious perception."
+      }
+    ]
+  }
+}

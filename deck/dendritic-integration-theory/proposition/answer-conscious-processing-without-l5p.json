@@ -1,0 +1,45 @@
+{
+  "record": "proposition",
+  "id": "532dd9f1-3a9e-48ca-bb63-f9708281472c",
+  "kind": "empirical",
+  "epistemic_status": "hypothesized",
+  "title": "Answer: conscious processing that bypasses layer 5 neurons",
+  "statements": [
+    {
+      "id": "34bb4432-9018-435f-b08c-75022d893fa3",
+      "text": "The theory would be refuted by conscious content arising from cortical processing that does not reach layer 5 neurons and the nonspecific thalamus, or by preserved consciousness while the apical and basal compartments stay decoupled.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "34bb4432-9018-435f-b08c-75022d893fa3",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "e3de91d3-ef9c-49b2-a711-bf6966c2cca3",
+        "locator": "abstract, p. 1",
+        "quote": "This perspective makes one quite specific prediction: cortical processing that does not include L5p neurons will be unconscious."
+      }
+    ]
+  }
+}

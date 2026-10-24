@@ -1,0 +1,45 @@
+{
+  "record": "proposition",
+  "id": "7858af9e-3f6a-4d1b-9afc-5f64f8e90386",
+  "kind": "empirical",
+  "epistemic_status": "inferred",
+  "title": "The model fails at the threshold of detection",
+  "statements": [
+    {
+      "id": "3c94f37c-665d-4f4a-947c-a459a0cc28bc",
+      "text": "Models evolve to be fast and useful most of the time, not perfect. Attention without awareness is reported mostly with dim or masked stimuli near threshold, where the model of attention seems to fail, as the body schema fails with weak proprioceptive signals.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "3c94f37c-665d-4f4a-947c-a459a0cc28bc",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "64858e60-e97c-4e3d-8d20-4e3e2c056209",
+        "locator": "p. 7",
+        "quote": "It is in that gray area that the internal model of attention seems to fail."
+      }
+    ]
+  }
+}

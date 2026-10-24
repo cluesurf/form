@@ -1,0 +1,45 @@
+{
+  "record": "proposition",
+  "id": "4d59b40b-cab9-4c5e-9a11-78dd23c2fb96",
+  "kind": "philosophical",
+  "epistemic_status": "hypothesized",
+  "title": "Critique: the hard problem needs only that there is something it is like",
+  "statements": [
+    {
+      "id": "4e373e91-2f30-4914-aae7-3f5084cd7228",
+      "text": "The hard problem does not depend on consciousness being intrinsic, non-physical or ineffable. All it needs is the fact that there is something it is like to be us, so showing those further features illusory leaves it untouched.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "4e373e91-2f30-4914-aae7-3f5084cd7228",
+  "status": "active",
+  "voice": "critique",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "a674a239-2ee2-4dff-968c-41e3daaa5217",
+        "locator": "p. 49",
+        "quote": "To generate the hard problem of consciousness, all we need is the basic fact that there is something it is like to be us."
+      }
+    ]
+  }
+}

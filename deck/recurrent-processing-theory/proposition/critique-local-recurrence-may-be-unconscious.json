@@ -1,0 +1,45 @@
+{
+  "record": "proposition",
+  "id": "b2e8f2d6-b0ae-4b6f-a4c7-20e4146dc3ac",
+  "kind": "philosophical",
+  "epistemic_status": "inferred",
+  "title": "Critique: local recurrence may be unconscious processing",
+  "statements": [
+    {
+      "id": "0a083112-e07c-40f8-81bd-42e35f7a23e1",
+      "text": "No report can show that local recurrence is experience, since reports are products of cognitive function. Nothing then rules out that local recurrence is simply a form of unconscious processing.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "0a083112-e07c-40f8-81bd-42e35f7a23e1",
+  "status": "active",
+  "voice": "critique",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "fb234a73-1875-4c9a-b224-99e732ee4c31",
+        "locator": "p. 362",
+        "quote": "Could local recurrency simply be a form of unconscious processing?"
+      }
+    ]
+  }
+}

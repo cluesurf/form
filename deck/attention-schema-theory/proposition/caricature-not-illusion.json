@@ -1,0 +1,50 @@
+{
+  "record": "proposition",
+  "id": "ddab98b3-05e6-448f-9599-b29f769c7ffb",
+  "kind": "philosophical",
+  "epistemic_status": "inferred",
+  "title": "Consciousness is a caricature of attention, not an empty illusion",
+  "statements": [
+    {
+      "id": "b1d1e53d-bd00-4ada-bd9a-f0b5fecf8cba",
+      "text": "AST agrees with the idea behind illusionism but calls consciousness a caricature: a distorted model of something real, selective attention, that is built automatically and serves the control of attention.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "b1d1e53d-bd00-4ada-bd9a-f0b5fecf8cba",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "3595df3f-fe9a-4f97-b178-2b1fe3de34f6",
+        "locator": "Discussion",
+        "quote": "we argue that consciousness is probably better described as a caricature than an illusion"
+      },
+      {
+        "source": "2cb939ab-6f91-4eb0-9b6f-8312ab0bb184",
+        "locator": "Attention schema theory",
+        "quote": "Consciousness is not an empty illusion. It is a distortion or caricature of something real: selective attention."
+      }
+    ]
+  }
+}

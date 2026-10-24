@@ -1,0 +1,28 @@
+{
+  "record": "link",
+  "id": "988c46b2-730c-4a13-bcee-6358c1d165de",
+  "from": "b839e39a-4862-4bc1-be4e-8cac41afee5d",
+  "to": "6b6bd39f-1eed-4297-8149-10a2767009ef",
+  "relation": "weakens",
+  "strength": null,
+  "rationale": "If the agent without a schema lacked the information for the task, its failure says nothing about the benefit of a model.",
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "3595df3f-fe9a-4f97-b178-2b1fe3de34f6",
+        "locator": "Discussion",
+        "quote": "One possible criticism of the present findings might be that, when the artificial agent was robbed of its attention schema, it did not have sufficient information to solve the game"
+      }
+    ]
+  }
+}

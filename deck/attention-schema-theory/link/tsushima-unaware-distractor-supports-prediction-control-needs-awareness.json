@@ -1,0 +1,28 @@
+{
+  "record": "link",
+  "id": "cb33f23e-2a6e-43fc-b7f6-76049a958bb2",
+  "from": "22ba0ab3-a8eb-40d3-84f6-963c45989400",
+  "to": "daed49d9-48a3-4978-8456-07a83e3d4ff2",
+  "relation": "supports",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "64858e60-e97c-4e3d-8d20-4e3e2c056209",
+        "locator": "p. 8",
+        "quote": "performance was most impaired when the distracting motion was subthreshold and subjects were unaware of it"
+      }
+    ]
+  }
+}

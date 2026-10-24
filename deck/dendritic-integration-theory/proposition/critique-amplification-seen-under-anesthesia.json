@@ -1,0 +1,45 @@
+{
+  "record": "proposition",
+  "id": "d76e32ec-f0e1-4e04-954c-27e35f305755",
+  "kind": "empirical",
+  "epistemic_status": "observed",
+  "title": "Critique: contextual amplification has been seen under anesthesia",
+  "statements": [
+    {
+      "id": "288f6ab0-4023-4279-ae5e-ddbf4cbacba5",
+      "text": "If anesthesia blocks the amplifying effects of context tied to consciousness, it is unclear how those effects have been observed in anesthetized animals, including regulation of apical amplification by norepinephrine under isoflurane.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "288f6ab0-4023-4279-ae5e-ddbf4cbacba5",
+  "status": "active",
+  "voice": "critique",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "11ecff74-e3d4-4bb8-84de-05045a9b264b",
+        "locator": "Unresolved issues and difficulties, p. 11",
+        "quote": "If anesthesia is interpreted as blocking the amplifying effects of context that we have related to consciousness, then how can they be observed in animals under anesthesia"
+      }
+    ]
+  }
+}

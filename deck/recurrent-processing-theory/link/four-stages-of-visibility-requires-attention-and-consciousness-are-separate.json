@@ -1,0 +1,33 @@
+{
+  "record": "link",
+  "id": "8216a5ae-036c-4773-a10a-dfe10fab67aa",
+  "from": "4b4bfdfa-8f6a-41b4-ba4d-7e09ba9b2f09",
+  "to": "27788643-fd77-4093-9363-1efdbdc881b2",
+  "relation": "requires",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b9050313-e369-439d-a181-b751070bb3df",
+        "locator": "abstract, p. 1",
+        "quote": "Four stages of vision are identified, going from the fully invisible, to subjectively invisible, unattended, and clearly visible."
+      },
+      {
+        "source": "b9050313-e369-439d-a181-b751070bb3df",
+        "locator": "p. 6",
+        "quote": "The two types of invisibility thus are clearly different \"beasts,\""
+      }
+    ]
+  }
+}

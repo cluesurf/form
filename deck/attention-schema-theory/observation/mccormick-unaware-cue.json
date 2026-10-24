@@ -1,0 +1,39 @@
+{
+  "record": "observation",
+  "id": "cb677fab-3e35-44bd-a37d-13f9cf7e59bc",
+  "kind": "experimental_result",
+  "epistemic_status": "observed",
+  "description": "In an anti-correlated cueing task, people aware of the cue pulled attention away from it to the likely target side, while people unaware of the cue had attention stuck at the cue, to the cost of task performance (McCormick 1997, as reported by Webb and Graziano).",
+  "method": "experiment",
+  "status": "reported",
+  "source": "64858e60-e97c-4e3d-8d20-4e3e2c056209",
+  "procedure": null,
+  "variable": null,
+  "value": null,
+  "unit": null,
+  "uncertainty": null,
+  "sample_size": null,
+  "replication_count": null,
+  "quality": null,
+  "limitations": "Reported secondhand in Webb and Graziano 2015. The original study is not read here, and it was not designed to test AST.",
+  "conflicts_of_interest": null,
+  "observed_at": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "64858e60-e97c-4e3d-8d20-4e3e2c056209",
+        "locator": "p. 8",
+        "quote": "Without awareness of the cue, attention to the cue could no longer be controlled in a top–down manner."
+      }
+    ]
+  }
+}

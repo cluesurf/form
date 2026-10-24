@@ -1,0 +1,45 @@
+{
+  "record": "proposition",
+  "id": "d025fc93-ab27-4fee-ac14-59529da8762c",
+  "kind": "empirical",
+  "epistemic_status": "inferred",
+  "title": "Consciousness is necessary for the control of attention",
+  "statements": [
+    {
+      "id": "885e3aae-d15a-4c65-b589-72eb2ba89262",
+      "text": "Studies in which a stimulus stays outside awareness show that attention to it is still possible while its control almost entirely breaks down. The relation AST draws is that consciousness is needed to control attention, not that consciousness is attention.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "885e3aae-d15a-4c65-b589-72eb2ba89262",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "124d3bef-4ae5-42c5-98e9-c2bc87a493ce",
+        "locator": "Evidence of an Attention Schema",
+        "quote": "without consciousness of an item, attention on the item is still possible, but the control of attention with respect to that item almost entirely breaks down"
+      }
+    ]
+  }
+}

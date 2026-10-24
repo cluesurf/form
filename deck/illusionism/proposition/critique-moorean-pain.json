@@ -1,0 +1,50 @@
+{
+  "record": "proposition",
+  "id": "e3eee960-3856-4824-a7cd-bba2bd44fca9",
+  "kind": "philosophical",
+  "epistemic_status": "hypothesized",
+  "title": "Critique: strong illusionism denies that people feel pain",
+  "statements": [
+    {
+      "id": "e0c2843d-b0b7-4347-a1f6-564286e5bece",
+      "text": "Only strong illusionism can dissolve the hard problem, and it is false by a Moorean argument: people sometimes feel pain, and if strong illusionism is true no one feels pain. Chalmers finds strong illusionism coherent but empirically false, and holds that the datum is that people feel pain, not that they find it obvious.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "e0c2843d-b0b7-4347-a1f6-564286e5bece",
+  "status": "active",
+  "voice": "critique",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "a674a239-2ee2-4dff-968c-41e3daaa5217",
+        "locator": "p. 53",
+        "quote": "Strong illusionism is not incoherent, but I think it is empirically false."
+      },
+      {
+        "source": "a674a239-2ee2-4dff-968c-41e3daaa5217",
+        "locator": "p. 54",
+        "quote": "I think illusionism is obviously false, because it is obvious that people feel pain."
+      }
+    ]
+  }
+}

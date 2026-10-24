@@ -1,0 +1,33 @@
+{
+  "record": "link",
+  "id": "5f654a04-df2c-4991-980a-399bec6b606e",
+  "from": "daed49d9-48a3-4978-8456-07a83e3d4ff2",
+  "to": "5bea01f5-7d73-4407-b571-61abc69a4f9a",
+  "relation": "requires",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "64858e60-e97c-4e3d-8d20-4e3e2c056209",
+        "locator": "abstract, p. 1",
+        "quote": "without awareness, attention should still be possible but should suffer deficits in control"
+      },
+      {
+        "source": "9570fdf7-7608-4351-9753-097eee3f0203",
+        "locator": "introduction",
+        "quote": "If awareness of item X is compromised, and the endogenous control of attention with respect to item X is normal, then AST is falsified."
+      }
+    ]
+  }
+}

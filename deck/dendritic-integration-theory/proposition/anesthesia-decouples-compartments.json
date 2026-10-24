@@ -1,0 +1,55 @@
+{
+  "record": "proposition",
+  "id": "4fb328f4-721a-4f9b-ab89-42eb37e7f101",
+  "kind": "empirical",
+  "epistemic_status": "observed",
+  "title": "General anesthetics decouple the apical from the somatic compartment",
+  "statements": [
+    {
+      "id": "069d3b91-3473-4d0e-a9ea-7af3afe93485",
+      "text": "Several anesthetic agents functionally decouple the two compartments of layer 5 pyramidal neurons: the neurons stay intact and fire action potentials, but top-down input to the apical dendrites no longer influences their output. The finding is from rodents.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "069d3b91-3473-4d0e-a9ea-7af3afe93485",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "3519c086-a3e3-4b1c-9631-78b193482d93",
+        "locator": "p. 10",
+        "quote": "it has been demonstrated that various different anesthetic agents"
+      },
+      {
+        "source": "3519c086-a3e3-4b1c-9631-78b193482d93",
+        "locator": "p. 11",
+        "quote": "lead to functional decoupling between the two compartments"
+      },
+      {
+        "source": "18284858-8ad4-49e0-b7f6-d13c8a90227b",
+        "locator": "p. 1539",
+        "quote": "Loss of consciousness due to anesthesia correlates with a decoupling of the apical from the basal dendrites in these neurons."
+      }
+    ]
+  }
+}

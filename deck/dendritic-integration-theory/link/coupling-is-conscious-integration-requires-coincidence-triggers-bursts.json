@@ -1,0 +1,33 @@
+{
+  "record": "link",
+  "id": "5ead2130-befd-4a11-9427-aea1dbd428d7",
+  "from": "44275afa-efe4-45b8-b986-cef4f56df909",
+  "to": "b4ea6a85-d64a-4dbe-95dc-3267e9c4354e",
+  "relation": "requires",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "3519c086-a3e3-4b1c-9631-78b193482d93",
+        "locator": "p. 9",
+        "quote": "it is proposed that global conscious integration also depends on local integration on the level of single layer 5 pyramidal neurons"
+      },
+      {
+        "source": "3519c086-a3e3-4b1c-9631-78b193482d93",
+        "locator": "p. 9",
+        "quote": "during conscious states, these two compartments are coupled, i.e., integrated"
+      }
+    ]
+  }
+}

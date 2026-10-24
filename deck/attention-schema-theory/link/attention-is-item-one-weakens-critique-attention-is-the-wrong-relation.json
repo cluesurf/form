@@ -1,0 +1,33 @@
+{
+  "record": "link",
+  "id": "4b899758-0b15-47d7-96e5-aa9d0430de04",
+  "from": "207e4a3b-ad2b-4840-a03f-c87214551bd9",
+  "to": "2d624267-1211-4b64-af41-d82a55237ddd",
+  "relation": "weakens",
+  "strength": null,
+  "rationale": "Attention covaries with reported consciousness, as inattentional blindness shows, which is the third test the item must pass.",
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "61ac5725-c520-44e1-bde8-528292ef2815",
+        "locator": "p. 10",
+        "quote": "Attention is Item 1. It is a process of selectively enhancing some representations over others."
+      },
+      {
+        "source": "61ac5725-c520-44e1-bde8-528292ef2815",
+        "locator": "p. 10",
+        "quote": "Attention appears to match the three diagnostic properties described above."
+      }
+    ]
+  }
+}

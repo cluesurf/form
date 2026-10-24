@@ -1,0 +1,55 @@
+{
+  "record": "proposition",
+  "id": "968e2718-81d6-404c-ba73-22d61915a71c",
+  "kind": "empirical",
+  "epistemic_status": "hypothesized",
+  "title": "Basal dendrites take feedforward input, apical dendrites take feedback",
+  "statements": [
+    {
+      "id": "d26100d4-1046-463a-905e-11ad9764d3ed",
+      "text": "The basal compartment of layer 5 pyramidal neurons receives mostly feedforward information about the feature processed in its column, while long-range feedback from other cortical areas and nonspecific thalamus reaches mostly the apical compartment, carrying context about processes elsewhere in the brain.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "d26100d4-1046-463a-905e-11ad9764d3ed",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "18284858-8ad4-49e0-b7f6-d13c8a90227b",
+        "locator": "p. 1540",
+        "quote": "DIT hypothesizes firstly that the basal compartment of these neurons receives predominantly feedforward information"
+      },
+      {
+        "source": "18284858-8ad4-49e0-b7f6-d13c8a90227b",
+        "locator": "p. 1540",
+        "quote": "long-range feedback information impinges predominantly on the apical compartment"
+      },
+      {
+        "source": "e3de91d3-ef9c-49b2-a711-bf6966c2cca3",
+        "locator": "p. 4",
+        "quote": "the apical tuft receives diverse input from higher cortical areas and NSP thalamic nuclei"
+      }
+    ]
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "record": "link",
+  "id": "ec79e2ae-d71f-43a3-ab5b-fb71281e850d",
+  "from": "f211964e-b084-4efa-adb9-23cc2581729f",
+  "to": "96dc38ad-ca39-482e-bb3b-2498114775f3",
+  "relation": "requires",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "1f1534c8-43bb-45eb-ba05-3549a6015b03",
+        "locator": "p. 65",
+        "quote": "should be considered the front runner, a conservative theory to be developed in detail, and abandoned only if it demonstrably fails to account for phenomena"
+      },
+      {
+        "source": "1f1534c8-43bb-45eb-ba05-3549a6015b03",
+        "locator": "p. 68",
+        "quote": "the default view that should be assumed true until proven otherwise"
+      }
+    ]
+  }
+}

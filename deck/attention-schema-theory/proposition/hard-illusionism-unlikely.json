@@ -1,0 +1,50 @@
+{
+  "record": "proposition",
+  "id": "5f91f2e3-4fd9-43ca-9fd1-f8d930e98eab",
+  "kind": "philosophical",
+  "epistemic_status": "inferred",
+  "title": "Hard illusionism is unlikely, subtle illusionism is necessary",
+  "statements": [
+    {
+      "id": "247f7eee-cb11-49ed-aac5-61a5b5b6a831",
+      "text": "A model of nothing at all, present across cultures, would be an improbable product of evolution, so hard illusionism is unlikely. That every brain model simplifies what it models is necessary, so subtle illusionism must hold of consciousness too.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "247f7eee-cb11-49ed-aac5-61a5b5b6a831",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "61ac5725-c520-44e1-bde8-528292ef2815",
+        "locator": "p. 6",
+        "quote": "Though I think it is unlikely to be correct, it helps define the conceptual boundaries."
+      },
+      {
+        "source": "61ac5725-c520-44e1-bde8-528292ef2815",
+        "locator": "p. 7",
+        "quote": "Subtle illusionism is necessarily true of all models in the brain and must be true of consciousness as well."
+      }
+    ]
+  }
+}

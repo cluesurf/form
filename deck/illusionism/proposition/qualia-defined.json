@@ -1,0 +1,45 @@
+{
+  "record": "proposition",
+  "id": "c6a649e8-d816-41a7-8d2e-f0160b53382f",
+  "kind": "definitional",
+  "epistemic_status": "designed",
+  "title": "Qualia as the tradition describes them",
+  "statements": [
+    {
+      "id": "59115a93-98cf-4493-9113-e8b1ff149c27",
+      "text": "Qualia, the ways things seem, are by tradition properties of a subject’s mental states that are ineffable, intrinsic, private, and directly or immediately apprehensible in consciousness.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "59115a93-98cf-4493-9113-e8b1ff149c27",
+  "status": "active",
+  "voice": "framework",
+  "defines": "qualia",
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "cefa7948-88e5-4a3a-9d5a-11b94942b10f",
+        "locator": "section 2, 'The Special Properties of Qualia'",
+        "quote": "qualia are supposed to be properties of a subject's mental states that are"
+      }
+    ]
+  }
+}

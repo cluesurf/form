@@ -1,0 +1,45 @@
+{
+  "record": "proposition",
+  "id": "258eb68f-ce2d-4f77-995a-33f9370f485e",
+  "kind": "philosophical",
+  "epistemic_status": "hypothesized",
+  "title": "Answer: experience is derived, and phenomenal experience does not exist",
+  "statements": [
+    {
+      "id": "3417eb32-ec1d-4cc3-8d7b-13b773623d10",
+      "text": "Experience in the inclusive sense is derived: it is the possession of sensory states with quasi-phenomenal properties, physical properties that introspection misrepresents as phenomenal. Phenomenal experience properly so called is not basic, because it is not instantiated at all.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "3417eb32-ec1d-4cc3-8d7b-13b773623d10",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "60178d6b-6c55-4495-83a5-786a1c742af3",
+        "locator": "eprint p. 8",
+        "quote": "which consists in the possession of states with quasiphenomenal properties and is commonly mischaracterized as phenomenal"
+      }
+    ]
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "record": "proposition",
+  "id": "8ae58376-c9bd-4670-b767-e544bfa4967d",
+  "kind": "philosophical",
+  "epistemic_status": "hypothesized",
+  "title": "Critique: the meta-problem is the neutral form of the illusion problem",
+  "statements": [
+    {
+      "id": "d33f7a79-c9a6-4fde-958f-5a510703a913",
+      "text": "The meta-problem, explaining why people think consciousness poses a hard problem, subsumes the illusion problem while staying neutral on whether consciousness exists. The illusion problem presupposes a very strong view held by a small minority, so the wider field is better served by working on the meta-problem.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "d33f7a79-c9a6-4fde-958f-5a510703a913",
+  "status": "active",
+  "voice": "critique",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "a674a239-2ee2-4dff-968c-41e3daaa5217",
+        "locator": "p. 6",
+        "quote": "the problem of explaining why we think that there is a problem of consciousness"
+      },
+      {
+        "source": "a674a239-2ee2-4dff-968c-41e3daaa5217",
+        "locator": "p. 10",
+        "quote": "In effect, the meta-problem subsumes the illusion problem while being more general and more neutral."
+      }
+    ]
+  }
+}

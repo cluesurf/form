@@ -1,0 +1,33 @@
+{
+  "record": "link",
+  "id": "4818f9e6-e9f4-4523-8bc3-0199b3634d75",
+  "from": "76f2bb42-491a-40f6-b676-60d479820de7",
+  "to": "27a65bd0-bba3-4c32-aaaf-e66396055c4f",
+  "relation": "specializes",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "32d0343d-c802-413c-a31b-2d55e8c6e02b",
+        "locator": "p. 50",
+        "quote": "Suppose that there is a ‘familiarity detector’ whose normal function is to tag current perceptual input as either novel or familiar"
+      },
+      {
+        "source": "32d0343d-c802-413c-a31b-2d55e8c6e02b",
+        "locator": "p. 50",
+        "quote": "which may not be confirmed"
+      }
+    ]
+  }
+}

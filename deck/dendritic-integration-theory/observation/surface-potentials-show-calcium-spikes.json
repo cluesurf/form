@@ -1,0 +1,44 @@
+{
+  "record": "observation",
+  "id": "93e1e156-e813-4b5d-ab3e-01774a6d297d",
+  "kind": "experimental_result",
+  "epistemic_status": "observed",
+  "description": "Optogenetically and sensory evoked dendritic calcium spikes in layer 5 pyramidal neurons of the rat somatosensory cortex were clearly detectable as positive potentials at the cortical surface, and their amplitude correlated with calcium fluorescence in imaged dendrites.",
+  "method": "experiment",
+  "status": "reported",
+  "source": "8020e246-69f2-4226-8e55-f06fa2b0e190",
+  "procedure": null,
+  "variable": null,
+  "value": null,
+  "unit": null,
+  "uncertainty": null,
+  "sample_size": 38,
+  "replication_count": null,
+  "quality": null,
+  "limitations": "Rats, mostly anesthetized, with a small awake group. Evoked rather than spontaneous spikes. The sample size counts imaged dendrites in four animals.",
+  "conflicts_of_interest": null,
+  "observed_at": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "8020e246-69f2-4226-8e55-f06fa2b0e190",
+        "locator": "abstract, p. 1",
+        "quote": "are clearly detectable in cortical surface potentials"
+      },
+      {
+        "source": "8020e246-69f2-4226-8e55-f06fa2b0e190",
+        "locator": "Figure 7, p. 8",
+        "quote": "Strong correlation between the amplitude of surface potential and peak fluorescence change during the late spike (n = 38 dendrites from four animals)"
+      }
+    ]
+  }
+}

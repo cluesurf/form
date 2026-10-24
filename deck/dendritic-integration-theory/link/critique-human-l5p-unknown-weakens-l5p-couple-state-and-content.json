@@ -1,0 +1,33 @@
+{
+  "record": "link",
+  "id": "babe1efe-8f3d-4caf-a652-7069dbab4be3",
+  "from": "b0aa8f96-8ef7-4174-b049-41dc69099a0a",
+  "to": "b6acb562-981e-4628-afa6-9656f0e92451",
+  "relation": "weakens",
+  "strength": null,
+  "rationale": "Without data on human layer 5 neurons and their projections, the claim rests on rodent anatomy.",
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "e3de91d3-ef9c-49b2-a711-bf6966c2cca3",
+        "locator": "Limitations, p. 6",
+        "quote": "First, not much is known about human L5p cells."
+      },
+      {
+        "source": "e3de91d3-ef9c-49b2-a711-bf6966c2cca3",
+        "locator": "Limitations, p. 6",
+        "quote": "virtually nothing is known about the projection patterns of human L5p neurons"
+      }
+    ]
+  }
+}

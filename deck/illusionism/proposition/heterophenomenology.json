@@ -1,0 +1,50 @@
+{
+  "record": "proposition",
+  "id": "a8038f5d-325a-4fd5-aa58-a1b310a12e02",
+  "kind": "definitional",
+  "epistemic_status": "designed",
+  "title": "Heterophenomenology",
+  "statements": [
+    {
+      "id": "29d76da6-e1de-4480-939c-d62ca5e4ec2d",
+      "text": "Heterophenomenology, the phenomenology of another, is a third-person method for studying consciousness: interpret subjects’ utterances as speech acts and compose a catalogue of what each subject believes about their conscious experience, a heterophenomenological world. That catalogue, with all data about concurrent brain and environmental events, is the total data set for a theory of human consciousness.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "29d76da6-e1de-4480-939c-d62ca5e4ec2d",
+  "status": "active",
+  "voice": "framework",
+  "defines": "heterophenomenology",
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "75b3e491-bd2d-47a1-99af-07db4daaf2ae",
+        "locator": "p. 19",
+        "quote": "This third-person methodology, dubbed heterophenomenology (phenomenology of another not oneself)"
+      },
+      {
+        "source": "75b3e491-bd2d-47a1-99af-07db4daaf2ae",
+        "locator": "p. 20",
+        "quote": "comprise the total data set for a theory of human consciousness"
+      }
+    ]
+  }
+}

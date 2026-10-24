@@ -1,0 +1,33 @@
+{
+  "record": "link",
+  "id": "be5aa450-ff46-43f0-a82c-4e9a26aaf305",
+  "from": "27a65bd0-bba3-4c32-aaaf-e66396055c4f",
+  "to": "09bc6346-0ae2-49f1-82d0-95dd47e83071",
+  "relation": "requires",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "1f1534c8-43bb-45eb-ba05-3549a6015b03",
+        "locator": "p. 68",
+        "quote": "the Hard Question: ‘And then what happens?’"
+      },
+      {
+        "source": "32d0343d-c802-413c-a31b-2d55e8c6e02b",
+        "locator": "p. 51",
+        "quote": "There is a pejorative term in computer modelling for models that don’t explain how the representations get consumed: vapourware."
+      }
+    ]
+  }
+}

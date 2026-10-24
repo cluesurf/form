@@ -1,0 +1,33 @@
+{
+  "record": "link",
+  "id": "3a6b9da4-9da7-48a4-9f88-df7c479fe6e5",
+  "from": "a8038f5d-325a-4fd5-aa58-a1b310a12e02",
+  "to": "28c40da9-9358-450b-bfdc-f2932277a526",
+  "relation": "defines",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "75b3e491-bd2d-47a1-99af-07db4daaf2ae",
+        "locator": "p. 19",
+        "quote": "This third-person methodology, dubbed heterophenomenology (phenomenology of another not oneself)"
+      },
+      {
+        "source": "75b3e491-bd2d-47a1-99af-07db4daaf2ae",
+        "locator": "p. 20",
+        "quote": "comprise the total data set for a theory of human consciousness"
+      }
+    ]
+  }
+}

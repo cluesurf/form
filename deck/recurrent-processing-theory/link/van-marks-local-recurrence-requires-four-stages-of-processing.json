@@ -1,0 +1,33 @@
+{
+  "record": "link",
+  "id": "048e7e18-b2db-4585-890a-ca173ea3274a",
+  "from": "a8403d5f-288d-483b-94c2-d77e5643b575",
+  "to": "8a4fc689-91c4-46e8-802f-be0f4cb0580d",
+  "relation": "requires",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "6dd7dbf6-162b-4cc6-99d2-6ac597b93829",
+        "locator": "p. 1538",
+        "quote": "seems to match (in timing and topology) local RP"
+      },
+      {
+        "source": "6dd7dbf6-162b-4cc6-99d2-6ac597b93829",
+        "locator": "p. 1538",
+        "quote": "Similar early ERP waves are found also for other sensory modalities"
+      }
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "record": "link",
+  "id": "71ee3df6-7501-466d-9507-aa7fb81aafb2",
+  "from": "7b5ff611-b80c-437d-91ad-8407905826c7",
+  "to": "df913d93-6337-43f0-b209-4f96ca608b8a",
+  "relation": "requires",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "6dd7dbf6-162b-4cc6-99d2-6ac597b93829",
+        "locator": "p. 1537",
+        "quote": "recurrent (feedback, reentrant) processing (RP) is essential and perhaps even sufficient for conscious experience"
+      }
+    ]
+  }
+}

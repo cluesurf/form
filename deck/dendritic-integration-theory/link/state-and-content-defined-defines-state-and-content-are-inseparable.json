@@ -1,0 +1,33 @@
+{
+  "record": "link",
+  "id": "c59ef941-6eb9-47f0-a02e-be71e74b333b",
+  "from": "fed1d196-c7d2-42be-9730-5932cb7d11c6",
+  "to": "e6f5895a-ade3-4248-a4b9-51a337990521",
+  "relation": "defines",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "e3de91d3-ef9c-49b2-a711-bf6966c2cca3",
+        "locator": "introduction, p. 1",
+        "quote": "These are typical states of consciousness."
+      },
+      {
+        "source": "e3de91d3-ef9c-49b2-a711-bf6966c2cca3",
+        "locator": "introduction, p. 1",
+        "quote": "These are examples of the contents of consciousness"
+      }
+    ]
+  }
+}

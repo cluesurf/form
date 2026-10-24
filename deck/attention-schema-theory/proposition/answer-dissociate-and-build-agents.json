@@ -1,0 +1,45 @@
+{
+  "record": "proposition",
+  "id": "fd44f4cd-3049-4e47-a7f7-8bf791aea3ae",
+  "kind": "empirical",
+  "epistemic_status": "hypothesized",
+  "title": "Answer: dissociate awareness from attention, image the brain, build agents",
+  "statements": [
+    {
+      "id": "bdd95b2d-4a7c-463e-87ce-f2ad34410412",
+      "text": "AST is checked by keeping attention on a stimulus outside awareness and measuring whether its control fails, by imaging which networks track awareness-dependent control, by testing whether people model others’ attention, and by giving artificial agents an attention schema or withholding it.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "bdd95b2d-4a7c-463e-87ce-f2ad34410412",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "124d3bef-4ae5-42c5-98e9-c2bc87a493ce",
+        "locator": "Evidence of an Attention Schema",
+        "quote": "Recently, this control-theory prediction was tested using artificial neural-network models trained to engage in simple forms of spatial attention"
+      }
+    ]
+  }
+}

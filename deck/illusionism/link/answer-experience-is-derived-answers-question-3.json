@@ -1,0 +1,28 @@
+{
+  "record": "link",
+  "id": "becf0cc8-46cb-4f5a-9bb4-e4db58b378fb",
+  "from": "258eb68f-ce2d-4f77-995a-33f9370f485e",
+  "to": "94d1e6cc-101d-4e1b-9fc7-56d44571b271",
+  "relation": "answers",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "60178d6b-6c55-4495-83a5-786a1c742af3",
+        "locator": "eprint p. 8",
+        "quote": "which consists in the possession of states with quasiphenomenal properties and is commonly mischaracterized as phenomenal"
+      }
+    ]
+  }
+}

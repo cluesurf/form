@@ -1,0 +1,28 @@
+{
+  "record": "link",
+  "id": "a35f0bd2-4283-40cb-ae9c-454cedc1a17f",
+  "from": "704b7497-d0df-417d-8bd9-0c4a8cf5393f",
+  "to": "e53fb1f7-66d8-4110-93d1-db7473e42e5b",
+  "relation": "requires",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "0ba5a059-2ae2-4142-85ea-f18a0a975bc1",
+        "locator": "p. 1495",
+        "quote": "visual awareness might simply be the way surface segregation and related processes express themselves phenomenologically"
+      }
+    ]
+  }
+}

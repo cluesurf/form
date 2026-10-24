@@ -1,0 +1,45 @@
+{
+  "record": "proposition",
+  "id": "19536ed4-0db5-4548-a216-e2ccb442dd41",
+  "kind": "empirical",
+  "epistemic_status": "hypothesized",
+  "title": "Complex plans depend on awareness through attention control",
+  "statements": [
+    {
+      "id": "d0006755-6488-4051-97bc-ed9992e2e024",
+      "text": "A plan needs attention to move strategically from item to item. Since the control of attention fails without awareness, complex planning and behavior depend on awareness, one of few known functions that categorically break down without it.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "d0006755-6488-4051-97bc-ed9992e2e024",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "3595df3f-fe9a-4f97-b178-2b1fe3de34f6",
+        "locator": "Discussion",
+        "quote": "it is for this reason that our complex planning and behavior depends on awareness"
+      }
+    ]
+  }
+}

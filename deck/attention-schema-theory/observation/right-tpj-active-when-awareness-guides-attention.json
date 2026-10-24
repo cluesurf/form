@@ -1,0 +1,39 @@
+{
+  "record": "observation",
+  "id": "39523bba-e267-4d66-89e8-8d5c318056fa",
+  "kind": "experimental_result",
+  "epistemic_status": "observed",
+  "description": "In fMRI, when people were aware of a cue that implicitly predicted a target, the right TPJ responded to the predictive cue and target relation. When the cue was outside awareness, it still drew exogenous attention but did not guide endogenous attention, and the right TPJ showed no such response. The difference was significant, and precuneus and medial frontal cortex showed the same pattern.",
+  "method": "instrument",
+  "status": "reported",
+  "source": "9570fdf7-7608-4351-9753-097eee3f0203",
+  "procedure": null,
+  "variable": null,
+  "value": null,
+  "unit": null,
+  "uncertainty": null,
+  "sample_size": null,
+  "replication_count": null,
+  "quality": null,
+  "limitations": "Eye movements were not measured in the scanner. The effect sits in a network rather than one area, and the authors weigh five alternative readings, including exogenous attention shifts, which they argue against.",
+  "conflicts_of_interest": null,
+  "observed_at": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "9570fdf7-7608-4351-9753-097eee3f0203",
+        "locator": "abstract",
+        "quote": "The right TPJ was active in relation to the effect of the cue on attention in task 1; it was not measurably active in task 2."
+      }
+    ]
+  }
+}

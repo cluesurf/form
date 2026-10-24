@@ -1,0 +1,45 @@
+{
+  "record": "proposition",
+  "id": "ad06e01c-76a6-4c77-b194-2c88795dcd44",
+  "kind": "philosophical",
+  "epistemic_status": "inferred",
+  "title": "Answer: takes no position on life",
+  "statements": [
+    {
+      "id": "40b6f4c8-cede-46f8-b5bd-92de9e175301",
+      "text": "The theory takes no position on what life is. Its claims concern visual processing in primate brains.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "40b6f4c8-cede-46f8-b5bd-92de9e175301",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "6dd7dbf6-162b-4cc6-99d2-6ac597b93829",
+        "locator": "p. 1537",
+        "quote": "Victor Lamme developed RPT based on experiments on primate vision"
+      }
+    ]
+  }
+}

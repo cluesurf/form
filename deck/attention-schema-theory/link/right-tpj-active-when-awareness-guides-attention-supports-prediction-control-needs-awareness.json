@@ -1,0 +1,28 @@
+{
+  "record": "link",
+  "id": "21a2caae-6594-4813-98d8-91cb1cd3db8e",
+  "from": "39523bba-e267-4d66-89e8-8d5c318056fa",
+  "to": "daed49d9-48a3-4978-8456-07a83e3d4ff2",
+  "relation": "supports",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "9570fdf7-7608-4351-9753-097eee3f0203",
+        "locator": "abstract",
+        "quote": "The right TPJ was active in relation to the effect of the cue on attention in task 1; it was not measurably active in task 2."
+      }
+    ]
+  }
+}

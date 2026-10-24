@@ -1,0 +1,45 @@
+{
+  "record": "proposition",
+  "id": "00d19558-0dac-4287-a738-7648d90be3e0",
+  "kind": "empirical",
+  "epistemic_status": "hypothesized",
+  "title": "Answer: normal attention control without awareness would refute it",
+  "statements": [
+    {
+      "id": "042e1342-a82f-43be-a5dd-37f7b993e73e",
+      "text": "AST is falsified if awareness of an item is compromised while the endogenous control of attention to that item stays normal.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "042e1342-a82f-43be-a5dd-37f7b993e73e",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "9570fdf7-7608-4351-9753-097eee3f0203",
+        "locator": "introduction",
+        "quote": "If awareness of item X is compromised, and the endogenous control of attention with respect to item X is normal, then AST is falsified."
+      }
+    ]
+  }
+}

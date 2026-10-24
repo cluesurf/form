@@ -1,0 +1,50 @@
+{
+  "record": "proposition",
+  "id": "640aaf2c-e208-4804-9a71-17826d82cd5e",
+  "kind": "philosophical",
+  "epistemic_status": "inferred",
+  "title": "Illusionist reading: AST is an overtly illusionist theory",
+  "statements": [
+    {
+      "id": "ac268bea-7dc6-462d-ab77-9aa7c25825d2",
+      "text": "In the 2024 statement, illusionism is a general framework rather than one theory, and AST is described as the only overtly illusionist theory in cognitive neuroscience. Some element of illusionism is held to be needed in any working theory of an introspected property.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "ac268bea-7dc6-462d-ab77-9aa7c25825d2",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "61ac5725-c520-44e1-bde8-528292ef2815",
+        "locator": "p. 1",
+        "quote": "the only cognitive neuroscience theory in the literature that is overtly illusionist is the Attention Schema Theory"
+      },
+      {
+        "source": "61ac5725-c520-44e1-bde8-528292ef2815",
+        "locator": "abstract, p. 1",
+        "quote": "some element of illusionism is almost certainly necessary for any working theory of consciousness"
+      }
+    ]
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "record": "proposition",
+  "id": "38e33a90-03c3-495d-b6f7-439bf2f61eee",
+  "kind": "empirical",
+  "epistemic_status": "hypothesized",
+  "title": "Unattended stimuli are seen, not invisible",
+  "statements": [
+    {
+      "id": "6fd63c9d-2cd0-48c1-96c8-8d7abdcc065e",
+      "text": "The line between unconscious and conscious seeing lies between subjective invisibility and inattention. A stimulus missed for lack of attention is not truly invisible: it is seen but fails to be accessed and reported.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "6fd63c9d-2cd0-48c1-96c8-8d7abdcc065e",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b9050313-e369-439d-a181-b751070bb3df",
+        "locator": "p. 2",
+        "quote": "supporting the somewhat counterintuitive view that \"invisibility\" due to inattention is in fact not true invisibility, yet a case of failure to \"internally report\" or otherwise cognitively access and manipulate the information"
+      }
+    ]
+  }
+}

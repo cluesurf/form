@@ -1,0 +1,28 @@
+{
+  "record": "link",
+  "id": "f65c6526-ceaf-4f75-ad2f-ecbe0e220c05",
+  "from": "d9fa7bcf-6383-4ddb-8bbe-8dd23f230378",
+  "to": "7cb2a504-f307-4d26-839a-4057dccecef6",
+  "relation": "explains",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "cefa7948-88e5-4a3a-9d5a-11b94942b10f",
+        "locator": "section 6, 'Filling the vacuum'",
+        "quote": "This putative grainlessness, I hypothesize, is nothing but a sort of functional invariability"
+      }
+    ]
+  }
+}

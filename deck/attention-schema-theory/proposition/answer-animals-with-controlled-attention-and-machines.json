@@ -1,0 +1,45 @@
+{
+  "record": "proposition",
+  "id": "d967dd71-a1e2-4273-9310-bee0033c197a",
+  "kind": "empirical",
+  "epistemic_status": "hypothesized",
+  "title": "Answer: animals with controlled attention, and machines that model it",
+  "statements": [
+    {
+      "id": "8bd26f2b-a8a4-479c-8a70-4110562c23c1",
+      "text": "Components of consciousness are likely present in many mammals, birds and nonavian reptiles, not in a human-like form. A machine with a model of its attention would claim consciousness, and a simple agent with a schema is conscious only in a simple sense.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "8bd26f2b-a8a4-479c-8a70-4110562c23c1",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "124d3bef-4ae5-42c5-98e9-c2bc87a493ce",
+        "locator": "Evolution of Consciousness",
+        "quote": "I am not suggesting that all of these animals are conscious in a human-like manner, but some of the same mechanisms are likely to be present."
+      }
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "record": "link",
+  "id": "85d2a3f3-0586-4105-bfca-e7c36e68a3a8",
+  "from": "8ad58a37-321e-409c-ac54-0638797f4595",
+  "to": "af6b4826-1c3c-4063-9d43-37fe2abd8c2b",
+  "relation": "explains",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "60178d6b-6c55-4495-83a5-786a1c742af3",
+        "locator": "eprint p. 21",
+        "quote": "Another possibility is that phenomenal concepts are hybrid ones."
+      }
+    ]
+  }
+}

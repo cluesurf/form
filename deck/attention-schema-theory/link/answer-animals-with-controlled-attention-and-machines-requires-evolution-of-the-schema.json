@@ -1,0 +1,28 @@
+{
+  "record": "link",
+  "id": "a2be61fe-66c9-4609-b871-2f3f31b3e7f8",
+  "from": "d967dd71-a1e2-4273-9310-bee0033c197a",
+  "to": "11d655bc-1249-4003-a2ca-0ea97be677ad",
+  "relation": "requires",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "124d3bef-4ae5-42c5-98e9-c2bc87a493ce",
+        "locator": "Evolution of Consciousness",
+        "quote": "I am not suggesting that all of these animals are conscious in a human-like manner, but some of the same mechanisms are likely to be present."
+      }
+    ]
+  }
+}

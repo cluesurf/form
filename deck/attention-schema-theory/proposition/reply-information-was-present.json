@@ -1,0 +1,45 @@
+{
+  "record": "proposition",
+  "id": "cc17d61e-ef84-4654-973f-c9dcd89b488f",
+  "kind": "empirical",
+  "epistemic_status": "inferred",
+  "title": "Reply: the location of attention was present in the visual input",
+  "statements": [
+    {
+      "id": "d2e159ea-2e25-4d99-a683-56b77cb11c36",
+      "text": "The clear patch in the noisy visual array carried the location of the spotlight, so the agent could in principle solve the task without a schema, and an extra 100 inputs could even have hurt learning. Whether the schema helps was an empirical question.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "d2e159ea-2e25-4d99-a683-56b77cb11c36",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "3595df3f-fe9a-4f97-b178-2b1fe3de34f6",
+        "locator": "Discussion",
+        "quote": "In principle, an agent could solve the game without being given an attention schema."
+      }
+    ]
+  }
+}

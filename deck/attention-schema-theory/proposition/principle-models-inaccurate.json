@@ -1,0 +1,50 @@
+{
+  "record": "proposition",
+  "id": "aaf7f1c4-68f4-47cb-b34c-3e6e6d38745b",
+  "kind": "philosophical",
+  "epistemic_status": "inferred",
+  "title": "Principle 2: the brain’s models are never accurate",
+  "statements": [
+    {
+      "id": "6a504f2c-02e7-4823-baeb-97780e586a3e",
+      "text": "The brain builds simplified models of reality that can be computed fast and cheaply, as color simplifies a reflectance spectrum and the body schema simplifies the body. Such models are caricatures, not empty illusions: they represent something real but never accurately.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "6a504f2c-02e7-4823-baeb-97780e586a3e",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "124d3bef-4ae5-42c5-98e9-c2bc87a493ce",
+        "locator": "Two General Principles",
+        "quote": "The brain’s models are never accurate."
+      },
+      {
+        "source": "124d3bef-4ae5-42c5-98e9-c2bc87a493ce",
+        "locator": "Two General Principles",
+        "quote": "These models are not empty illusions: they are caricatures."
+      }
+    ]
+  }
+}

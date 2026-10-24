@@ -1,0 +1,33 @@
+{
+  "record": "link",
+  "id": "37d0eac6-474b-4973-bc98-136833e22136",
+  "from": "b6acb562-981e-4628-afa6-9656f0e92451",
+  "to": "e6f5895a-ade3-4248-a4b9-51a337990521",
+  "relation": "requires",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "e3de91d3-ef9c-49b2-a711-bf6966c2cca3",
+        "locator": "abstract, p. 1",
+        "quote": "both the state and the contents of consciousness depend on the activity of cortical layer 5 pyramidal (L5p) neurons"
+      },
+      {
+        "source": "e3de91d3-ef9c-49b2-a711-bf6966c2cca3",
+        "locator": "p. 2",
+        "quote": "couple these two loops in a unique way, hence functionally coupling the state and contents of consciousness"
+      }
+    ]
+  }
+}

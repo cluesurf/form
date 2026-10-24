@@ -1,0 +1,45 @@
+{
+  "record": "proposition",
+  "id": "fe4fee84-8063-480d-aa75-573a3d991974",
+  "kind": "definitional",
+  "epistemic_status": "designed",
+  "title": "Answer: information is a neural embedding that drives claims",
+  "statements": [
+    {
+      "id": "c6e217a3-8bdf-4d81-b6ee-96b1bd93cd51",
+      "text": "AST gives no formal measure of information. Information is a pattern of neural activity, an embedding, that encodes a model, and every belief and claim depends on such information, which Graziano calls a computational conservation of information.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "c6e217a3-8bdf-4d81-b6ee-96b1bd93cd51",
+  "status": "active",
+  "voice": "framework",
+  "defines": "information embedding",
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "61ac5725-c520-44e1-bde8-528292ef2815",
+        "locator": "p. 3",
+        "quote": "An embedding is a pattern of activity among neurons, a code that in this case stands for semantic concepts."
+      }
+    ]
+  }
+}

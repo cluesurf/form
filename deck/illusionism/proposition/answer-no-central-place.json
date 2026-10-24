@@ -1,0 +1,45 @@
+{
+  "record": "proposition",
+  "id": "3142b555-166a-4081-af0e-0b56cad82be2",
+  "kind": "philosophical",
+  "epistemic_status": "hypothesized",
+  "title": "Answer: no position on physical space, and no central place in the brain",
+  "statements": [
+    {
+      "id": "3f8531e1-aeef-4e95-965b-26d184424cd8",
+      "text": "The view takes no position on physical space. Its one spatial claim is about the brain: there is no central place where it all comes together, since nothing in functional neuroanatomy suggests such a meeting place and discriminations are distributed in space and time.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "3f8531e1-aeef-4e95-965b-26d184424cd8",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "0cf2e254-a8cc-4350-8ab9-f8157c866e32",
+        "locator": "p. 185",
+        "quote": "nothing in the functional neuroanatomy of the brain suggests such a general meeting place"
+      }
+    ]
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "record": "proposition",
+  "id": "a8fb6bc4-53bc-4de3-b85a-aaa590503193",
+  "kind": "empirical",
+  "epistemic_status": "inferred",
+  "title": "Awareness must be computed, not just integrated",
+  "statements": [
+    {
+      "id": "1ed08b7e-24f0-4501-ba42-7e041f039285",
+      "text": "AST agrees that awareness needs information integrated across the brain, as in workspace and integration theories, but holds that awareness does not arise from integration alone: the construct of awareness must first be computed, as color is, and then bound with other information.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "1ed08b7e-24f0-4501-ba42-7e041f039285",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "64858e60-e97c-4e3d-8d20-4e3e2c056209",
+        "locator": "p. 3",
+        "quote": "In the attention schema theory, awareness does not arise just because the brain integrates information or settles into a network state"
+      }
+    ]
+  }
+}

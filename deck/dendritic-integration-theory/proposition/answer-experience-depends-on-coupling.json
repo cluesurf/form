@@ -1,0 +1,45 @@
+{
+  "record": "proposition",
+  "id": "c3750215-bfcf-4183-88cf-13bd1b0dc60c",
+  "kind": "empirical",
+  "epistemic_status": "hypothesized",
+  "title": "Answer: experience depends on coupled neurons, why it is felt is left open",
+  "statements": [
+    {
+      "id": "e99ca3ce-4663-4412-a31a-e51d8730b2cf",
+      "text": "The theory proposes mechanisms for both phenomenal and access consciousness, placing experience in the coupling of layer 5 neurons within the thalamo-cortical system. It does not say why that coupling is felt, which the review it appears in counts as a critique of all neural theories.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "e99ca3ce-4663-4412-a31a-e51d8730b2cf",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "18284858-8ad4-49e0-b7f6-d13c8a90227b",
+        "locator": "p. 1534",
+        "quote": "DIT has suggested mechanisms for both AC and PC."
+      }
+    ]
+  }
+}

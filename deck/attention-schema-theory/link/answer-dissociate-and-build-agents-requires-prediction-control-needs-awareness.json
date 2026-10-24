@@ -1,0 +1,28 @@
+{
+  "record": "link",
+  "id": "a99f0790-0744-49d6-b93c-a3367fbb58ee",
+  "from": "fd44f4cd-3049-4e47-a7f7-8bf791aea3ae",
+  "to": "daed49d9-48a3-4978-8456-07a83e3d4ff2",
+  "relation": "requires",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "124d3bef-4ae5-42c5-98e9-c2bc87a493ce",
+        "locator": "Evidence of an Attention Schema",
+        "quote": "Recently, this control-theory prediction was tested using artificial neural-network models trained to engage in simple forms of spatial attention"
+      }
+    ]
+  }
+}

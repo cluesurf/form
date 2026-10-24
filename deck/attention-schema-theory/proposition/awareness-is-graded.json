@@ -1,0 +1,45 @@
+{
+  "record": "proposition",
+  "id": "7e0af488-849d-442a-863c-871f3aa19758",
+  "kind": "empirical",
+  "epistemic_status": "inferred",
+  "title": "Awareness is graded as attention is graded",
+  "statements": [
+    {
+      "id": "3d216a5c-945e-435f-b90a-fad6fd42570f",
+      "text": "Attention can be more or less focused on an item, so awareness, its model, should also be graded, which fits continuous measures such as confidence ratings and the perceptual awareness scale.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "3d216a5c-945e-435f-b90a-fad6fd42570f",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "64858e60-e97c-4e3d-8d20-4e3e2c056209",
+        "locator": "p. 4",
+        "quote": "Attention can be graded, with more or less attention focused on an item, and therefore awareness, the internal model of attention, should also be graded."
+      }
+    ]
+  }
+}

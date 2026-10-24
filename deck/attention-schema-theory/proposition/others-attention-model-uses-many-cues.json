@@ -1,0 +1,45 @@
+{
+  "record": "proposition",
+  "id": "80c742df-d8aa-4554-988f-2e8f8ea6e5ae",
+  "kind": "empirical",
+  "epistemic_status": "inferred",
+  "title": "Models of others’ attention integrate many cues, not gaze alone",
+  "statements": [
+    {
+      "id": "fc93e228-5190-4617-84fc-dc13ea278340",
+      "text": "When judging whether another face is conscious of an object, people combine gaze and emotional expression, and the integration of cues tracks social ability, which suggests a deeper model of attention constrained by surface cues.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "fc93e228-5190-4617-84fc-dc13ea278340",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "fac99a9d-34e2-480f-a153-8579ad6cd3c0",
+        "locator": "abstract, p. 2",
+        "quote": "they construct a model of attention, or an attention schema, that is informed by a combination of surface cues"
+      }
+    ]
+  }
+}

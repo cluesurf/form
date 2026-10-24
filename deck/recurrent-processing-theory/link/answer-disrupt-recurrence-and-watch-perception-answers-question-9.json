@@ -1,0 +1,33 @@
+{
+  "record": "link",
+  "id": "77e7fe53-1113-474f-83b0-8bd2361dfdce",
+  "from": "ca813d73-f5ee-43a3-9614-2d4bae2e0f0f",
+  "to": "89daaa69-7198-4608-a93d-8a520820bbb9",
+  "relation": "answers",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b9050313-e369-439d-a181-b751070bb3df",
+        "locator": "p. 6",
+        "quote": "I have devoted a career to studying the neural mechanisms behind this stimulus"
+      },
+      {
+        "source": "6b250a16-3a5f-4cbc-9c31-1fbc84d6607d",
+        "locator": "p. 7",
+        "quote": "By selectively disrupting RP, but leaving FFS intact it is observed that visual awareness never arises."
+      }
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "record": "link",
+  "id": "7344ef74-b7a3-482d-bdc1-3bab9ddeab82",
+  "from": "5595ca42-760c-4dcd-b7eb-06e2e4414955",
+  "to": "e78e5752-820f-44d0-842e-a62c8a216307",
+  "relation": "requires",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "124d3bef-4ae5-42c5-98e9-c2bc87a493ce",
+        "locator": "Two General Principles",
+        "quote": "Almost all theories conflate two processes: having consciousness and believing you have it."
+      }
+    ]
+  }
+}

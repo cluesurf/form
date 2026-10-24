@@ -1,0 +1,45 @@
+{
+  "record": "proposition",
+  "id": "11d655bc-1249-4003-a2ca-0ea97be677ad",
+  "kind": "empirical",
+  "epistemic_status": "hypothesized",
+  "title": "The schema evolved with forebrain attention, long before humans",
+  "statements": [
+    {
+      "id": "b6aa314f-4f9d-4e5c-817c-4512131eae1f",
+      "text": "Signal competition began with the first nervous systems, covert endogenously controlled attention evolved in the vertebrate forebrain, and an attention schema to control it is probably present to some degree in many mammals, birds and nonavian reptiles. Modeling the attention of others came later, and human culture and language built beliefs on these models.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "b6aa314f-4f9d-4e5c-817c-4512131eae1f",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "124d3bef-4ae5-42c5-98e9-c2bc87a493ce",
+        "locator": "Evolution of Consciousness",
+        "quote": "That complex form of attention, and an attention schema to help control it, are probably present, to some degree, in a huge range of species"
+      }
+    ]
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "record": "proposition",
+  "id": "5469f973-d811-4ee0-9b6b-1c6bfc6e0ebf",
+  "kind": "philosophical",
+  "epistemic_status": "inferred",
+  "title": "Answer: takes no position, a neural theory of seeing",
+  "statements": [
+    {
+      "id": "d5ecb37e-145a-4e95-bb8e-93f1e0ba043f",
+      "text": "The theory takes no position on what is fundamental. It is a neural theory that starts from the brain's visual processing and asks which part of it is conscious, and it proposes defining consciousness by neural criteria.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "d5ecb37e-145a-4e95-bb8e-93f1e0ba043f",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b9050313-e369-439d-a181-b751070bb3df",
+        "locator": "p. 4",
+        "quote": "Furthermore, I will here limit myself to visual functions only."
+      },
+      {
+        "source": "e46f5f83-75f0-462e-b0d5-86b952498658",
+        "locator": "p. 486",
+        "quote": "just that it is the only way to put the study of consciousness on a scientific footing"
+      }
+    ]
+  }
+}

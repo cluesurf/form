@@ -1,0 +1,50 @@
+{
+  "record": "proposition",
+  "id": "4f8a9fb4-3e11-4683-83c6-1b51460c85b4",
+  "kind": "philosophical",
+  "epistemic_status": "inferred",
+  "title": "Critique: AST does not explain why the model depicts awareness as ethereal",
+  "statements": [
+    {
+      "id": "99ddc908-bf06-4200-9dff-b7d8c996b2ce",
+      "text": "AST says the model describes awareness as ethereal or nonphysical but does not explain why a simplified model should represent it that way, and says little to apply the model to the problem of why people find consciousness puzzling.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "99ddc908-bf06-4200-9dff-b7d8c996b2ce",
+  "status": "active",
+  "voice": "critique",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "8aeff1e7-e96d-49bc-890e-26f6d6b9f2d2",
+        "locator": "p. 28",
+        "quote": "Graziano does not speak of primitiveness here, and he says surprisingly little to apply his attention schema model to the meta-problem."
+      },
+      {
+        "source": "8aeff1e7-e96d-49bc-890e-26f6d6b9f2d2",
+        "locator": "p. 28",
+        "quote": "Graziano occasionally says that the model describes awareness as ‘ethereal’, but he does not really explain why the model should represent awareness as ethereal"
+      }
+    ]
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "record": "proposition",
+  "id": "f6d53351-9ce5-4f90-884f-966649716f76",
+  "kind": "philosophical",
+  "epistemic_status": "hypothesized",
+  "title": "Abstracting a brain into network computation may abstract consciousness away",
+  "statements": [
+    {
+      "id": "29de2418-6423-493c-ade7-7a3e17a79b1c",
+      "text": "AI systems may mimic brains at the level of network computation while leaving out the other levels of processing that contribute causally to consciousness in the living brain. If so, they abstract consciousness itself away and may stay a compelling simulation of its signatures without experience.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "29de2418-6423-493c-ade7-7a3e17a79b1c",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "3519c086-a3e3-4b1c-9631-78b193482d93",
+        "locator": "p. 13",
+        "quote": "abstracted away all the other levels of processing that causally contribute to consciousness in the living brain"
+      },
+      {
+        "source": "3519c086-a3e3-4b1c-9631-78b193482d93",
+        "locator": "p. 14",
+        "quote": "trapped in a compelling simulation of the signatures of consciousness, without any conscious experience"
+      }
+    ]
+  }
+}

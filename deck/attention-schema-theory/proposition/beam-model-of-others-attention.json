@@ -1,0 +1,50 @@
+{
+  "record": "proposition",
+  "id": "3eb0b972-b63c-457b-8da8-cf05a6fb834c",
+  "kind": "empirical",
+  "epistemic_status": "inferred",
+  "title": "Others’ attention is modeled as a force-carrying beam from the eyes",
+  "statements": [
+    {
+      "id": "0f9aad20-9c53-4006-83ad-8cb20579938f",
+      "text": "People automatically and implicitly model the vision of others as beams that leave the eyes and gently push on objects, a simplifying construct present even in people who reject extramission. The model may help track who attends to what, by exaptation of motion processing.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "0f9aad20-9c53-4006-83ad-8cb20579938f",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "dd561a28-a492-4c01-8a1a-71cbc9432dc1",
+        "locator": "abstract",
+        "quote": "people automatically and implicitly generate a model of other people’s vision that uses the simplifying construct of beams coming out of the eyes"
+      },
+      {
+        "source": "124d3bef-4ae5-42c5-98e9-c2bc87a493ce",
+        "locator": "Evidence of an Attention Schema",
+        "quote": "We suggest that these illusory motion signals are an example of evolutionary exaptation"
+      }
+    ]
+  }
+}

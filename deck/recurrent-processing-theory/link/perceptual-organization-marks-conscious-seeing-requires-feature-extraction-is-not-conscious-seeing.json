@@ -1,0 +1,33 @@
+{
+  "record": "link",
+  "id": "de199bbe-efe0-490e-a0a0-236b0fa1449c",
+  "from": "8162d2a9-b3b1-4663-a32b-d2fba15a1a92",
+  "to": "a5c271c3-59b4-4204-92f1-d106d4222363",
+  "relation": "requires",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b9050313-e369-439d-a181-b751070bb3df",
+        "locator": "abstract, p. 1",
+        "quote": "It is argued that perceptual organization is the function that is central to understanding the transition from unconscious to conscious seeing."
+      },
+      {
+        "source": "b9050313-e369-439d-a181-b751070bb3df",
+        "locator": "p. 7",
+        "quote": "while conscious functions related to perceptual organization are mediated by recurrent (feedback, or re-entrant) cortico-cortical connections"
+      }
+    ]
+  }
+}

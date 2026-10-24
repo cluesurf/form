@@ -1,0 +1,92 @@
+{
+  "format": "form.surf/1",
+  "id": "74082aa3-7614-41fa-96fb-ea3cdc43fc51",
+  "name": "attention-schema-theory",
+  "title": "Attention Schema Theory",
+  "role": "model",
+  "summary": "Michael Graziano's Attention Schema Theory: the brain controls its own selective attention with a simplified model of it, the attention schema. The schema lacks mechanistic detail, so it depicts attention as a nonphysical inner possession, and that depiction, read by higher cognition, is the source of the claim to have subjective experience.",
+  "framework": {
+    "originators": [
+      "Michael S. A. Graziano"
+    ],
+    "aliases": [
+      "AST",
+      "attention schema theory of consciousness"
+    ],
+    "homepage": null,
+    "publication": {
+      "venue": [
+        "peer_reviewed",
+        "preprint",
+        "book"
+      ],
+      "peer_review": "yes",
+      "replication": "partial"
+    }
+  },
+  "community_written": true,
+  "curators": [
+    {
+      "name": "Lance Pollard",
+      "github": "lancejpollard"
+    }
+  ],
+  "license": "CC-BY-4.0",
+  "atlas": {
+    "scope": [
+      "e3e44d34-6715-4762-8ce1-3efdcd8b3a60",
+      "5bea01f5-7d73-4407-b571-61abc69a4f9a",
+      "daed49d9-48a3-4978-8456-07a83e3d4ff2",
+      "a015f1a4-c9de-42a7-bd73-96eb95f5bf0b",
+      "3eb0b972-b63c-457b-8da8-cf05a6fb834c",
+      "746231e2-d439-4134-aed5-11c41d9ceaeb",
+      "8dbc7630-278a-4196-9b64-48bffb21e5bc"
+    ],
+    "limits": [
+      "f0b533c0-5124-4306-a1ee-116e3d95ee96",
+      "2a70d000-7cef-45a9-b781-71052d30de2e",
+      "0676a467-92e5-4e2d-a7e0-e44e87b2568c",
+      "1ab94ddd-b089-4d9f-b6d1-20b5cf065280"
+    ],
+    "issues": [
+      "91c00719-3b8d-43c1-acad-19dd8bb4c7fb",
+      "451935e7-d71b-4bda-b779-493c89af1226",
+      "9a8c33d0-0515-4b38-bf9b-dcad6adc304e",
+      "f736227f-e32c-4f57-9c53-c6601d764ec0",
+      "4f8a9fb4-3e11-4683-83c6-1b51460c85b4",
+      "2d624267-1211-4b64-af41-d82a55237ddd",
+      "ec8c1730-816b-4d21-ae58-eae3ddeb2c04",
+      "c899e577-f8ca-4f6d-b958-921ab13e2018",
+      "b839e39a-4862-4bc1-be4e-8cac41afee5d"
+    ],
+    "dead_ends": []
+  },
+  "draws_from": [],
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "89d1beab-5828-4c90-ab6f-50bbb7660249",
+        "locator": null,
+        "quote": null
+      },
+      {
+        "source": "64858e60-e97c-4e3d-8d20-4e3e2c056209",
+        "locator": "abstract, p. 1",
+        "quote": "In a nutshell, the theory proposes that subjective awareness is the brain’s internal model of the process of attention."
+      },
+      {
+        "source": "124d3bef-4ae5-42c5-98e9-c2bc87a493ce",
+        "locator": "abstract",
+        "quote": "The second part describes a specific theory that embodies those background principles, the Attention Schema Theory."
+      }
+    ]
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "record": "observation",
+  "id": "22ba0ab3-a8eb-40d3-84f6-963c45989400",
+  "kind": "experimental_result",
+  "epistemic_status": "observed",
+  "description": "A peripheral moving distractor disrupted a central letter task most when it was below threshold and unseen, and less when people were aware of it and could keep attention off it (Tsushima et al. 2006, as reported by Webb and Graziano).",
+  "method": "experiment",
+  "status": "reported",
+  "source": "64858e60-e97c-4e3d-8d20-4e3e2c056209",
+  "procedure": null,
+  "variable": null,
+  "value": null,
+  "unit": null,
+  "uncertainty": null,
+  "sample_size": null,
+  "replication_count": null,
+  "quality": null,
+  "limitations": "Reported secondhand in Webb and Graziano 2015. The original study is not read here, and it was not designed to test AST.",
+  "conflicts_of_interest": null,
+  "observed_at": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "64858e60-e97c-4e3d-8d20-4e3e2c056209",
+        "locator": "p. 8",
+        "quote": "performance was most impaired when the distracting motion was subthreshold and subjects were unaware of it"
+      }
+    ]
+  }
+}

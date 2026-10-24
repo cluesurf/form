@@ -1,0 +1,45 @@
+{
+  "record": "proposition",
+  "id": "7b5ff611-b80c-437d-91ad-8407905826c7",
+  "kind": "empirical",
+  "epistemic_status": "hypothesized",
+  "title": "Answer: consciousness is recurrent processing in sensory cortex",
+  "statements": [
+    {
+      "id": "2e41ad6d-42dc-4014-97a9-fb069136b81e",
+      "text": "Consciousness is recurrent processing: within sensory areas it is phenomenal experience, and extended to frontal and motor areas it is also accessible. Recurrence is essential and perhaps sufficient.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "2e41ad6d-42dc-4014-97a9-fb069136b81e",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "6dd7dbf6-162b-4cc6-99d2-6ac597b93829",
+        "locator": "p. 1537",
+        "quote": "recurrent (feedback, reentrant) processing (RP) is essential and perhaps even sufficient for conscious experience"
+      }
+    ]
+  }
+}

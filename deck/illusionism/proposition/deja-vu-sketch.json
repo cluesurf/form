@@ -1,0 +1,50 @@
+{
+  "record": "proposition",
+  "id": "76f2bb42-491a-40f6-b676-60d479820de7",
+  "kind": "empirical",
+  "epistemic_status": "hypothesized",
+  "title": "Déjà vu as a false positive from a familiarity detector",
+  "statements": [
+    {
+      "id": "cfb34d0b-83da-4f92-ba05-001aed719290",
+      "text": "Déjà vu may be a familiarity detector, whose normal function is to tag input as novel or familiar, issuing a false positive that is consumed by varied higher-level receivers. The sketch is offered as unconfirmed, to show how a phenomenal property might be located in the typical sequelae of inner states rather than in non-functional properties.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "cfb34d0b-83da-4f92-ba05-001aed719290",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "32d0343d-c802-413c-a31b-2d55e8c6e02b",
+        "locator": "p. 50",
+        "quote": "Suppose that there is a ‘familiarity detector’ whose normal function is to tag current perceptual input as either novel or familiar"
+      },
+      {
+        "source": "32d0343d-c802-413c-a31b-2d55e8c6e02b",
+        "locator": "p. 50",
+        "quote": "which may not be confirmed"
+      }
+    ]
+  }
+}

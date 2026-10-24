@@ -1,0 +1,28 @@
+{
+  "record": "link",
+  "id": "e6a8bd9e-4ce9-4704-abb0-32be304b8630",
+  "from": "9a8c33d0-0515-4b38-bf9b-dcad6adc304e",
+  "to": "ddab98b3-05e6-448f-9599-b29f769c7ffb",
+  "relation": "contradicts",
+  "strength": null,
+  "rationale": "If AST says consciousness does not exist, there is no real thing for the model to caricature.",
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "2cb939ab-6f91-4eb0-9b6f-8312ab0bb184",
+        "locator": "Attention schema theory",
+        "quote": "One could assert that, according to AST, consciousness simply does not exist. We only believe it does, and it is an illusion."
+      }
+    ]
+  }
+}

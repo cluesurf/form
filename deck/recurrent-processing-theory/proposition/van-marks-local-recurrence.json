@@ -1,0 +1,50 @@
+{
+  "record": "proposition",
+  "id": "a8403d5f-288d-483b-94c2-d77e5643b575",
+  "kind": "empirical",
+  "epistemic_status": "hypothesized",
+  "title": "An early negative ERP wave may mark local recurrence",
+  "statements": [
+    {
+      "id": "fba5dd97-2689-4663-9d0a-e45496292a75",
+      "text": "An early event-related potential, the visual awareness negativity before 200 ms, matches local recurrent processing in timing and scalp layout and may reflect phenomenal experience, while the late positivity near 300 ms may reflect access. Similar early waves in other senses suggest the same split outside vision.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "fba5dd97-2689-4663-9d0a-e45496292a75",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "6dd7dbf6-162b-4cc6-99d2-6ac597b93829",
+        "locator": "p. 1538",
+        "quote": "seems to match (in timing and topology) local RP"
+      },
+      {
+        "source": "6dd7dbf6-162b-4cc6-99d2-6ac597b93829",
+        "locator": "p. 1538",
+        "quote": "Similar early ERP waves are found also for other sensory modalities"
+      }
+    ]
+  }
+}

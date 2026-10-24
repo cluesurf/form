@@ -1,0 +1,33 @@
+{
+  "record": "link",
+  "id": "244d63f1-d5e6-4730-ac02-770c9552df8b",
+  "from": "d98add4e-00a3-41c9-98ac-138bc4ee1afb",
+  "to": "4e35e155-d252-4816-a8ba-15bf5b865a6c",
+  "relation": "defines",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "124d3bef-4ae5-42c5-98e9-c2bc87a493ce",
+        "locator": "A Theory of Consciousness that Embodies Principles 1 and 2",
+        "quote": "Attention here refers specifically to selective attention, a process by which one set of cortical signals is enhanced and competing signals are suppressed"
+      },
+      {
+        "source": "64858e60-e97c-4e3d-8d20-4e3e2c056209",
+        "locator": "p. 4",
+        "quote": "To attend to a stimulus is to have its representation win a competition, thus gaining greater signal strength"
+      }
+    ]
+  }
+}

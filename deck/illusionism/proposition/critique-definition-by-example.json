@@ -1,0 +1,50 @@
+{
+  "record": "proposition",
+  "id": "ba0c965c-c09b-41db-932c-52798d34894b",
+  "kind": "definitional",
+  "epistemic_status": "designed",
+  "title": "Critique: phenomenal consciousness can be defined innocently by example",
+  "statements": [
+    {
+      "id": "66e80245-f456-4da8-84f4-c8aa34201d26",
+      "text": "Schwitzgebel answers Frankish’s inflate-or-deflate dilemma with a definition by example. Positive examples are sensory experiences, imagery, vivid emotions, conscious thoughts and dreams. Negative examples are growth hormone release, dispositional knowledge, standing intentions and masked visual displays. Phenomenal consciousness is the most folk psychologically obvious feature the first have and the second lack, with no commitment to being ineffable, intrinsic, private or non-physical.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "66e80245-f456-4da8-84f4-c8aa34201d26",
+  "status": "active",
+  "voice": "critique",
+  "defines": "phenomenal consciousness",
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "61db5205-6fcd-4062-8393-0d00c1ba2c28",
+        "locator": "section 2, 'Defining Consciousness by Example'",
+        "quote": "Phenomenal consciousness is the most folk psychologically obvious thing or feature that the positive examples possess and that the negative examples lack."
+      },
+      {
+        "source": "61db5205-6fcd-4062-8393-0d00c1ba2c28",
+        "locator": "section 4, 'Problematic Assumptions?'",
+        "quote": "Phenomenally conscious experiences need not be simple, nor ineffable, nor intrinsic, nor private, nor immediately apprehended."
+      }
+    ]
+  }
+}

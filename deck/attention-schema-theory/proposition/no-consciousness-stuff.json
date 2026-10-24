@@ -1,0 +1,45 @@
+{
+  "record": "proposition",
+  "id": "37dabfa2-6204-48e4-af33-692a41fe4e07",
+  "kind": "philosophical",
+  "epistemic_status": "inferred",
+  "title": "No part of the system holds a consciousness essence",
+  "statements": [
+    {
+      "id": "29199feb-c61c-496a-8ae3-4108af528619",
+      "text": "Asking whether consciousness resides in the attended process, the model or higher cognition misreads the framework. It explains the behavior of an agent that says it is conscious without positing a consciousness stuff in any part.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "29199feb-c61c-496a-8ae3-4108af528619",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "61ac5725-c520-44e1-bde8-528292ef2815",
+        "locator": "p. 12",
+        "quote": "Illusionism explains the behavior of the system without postulating the existence of a consciousness stuff that emerges from or resides in any part of the system."
+      }
+    ]
+  }
+}

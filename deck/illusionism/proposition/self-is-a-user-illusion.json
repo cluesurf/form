@@ -1,0 +1,45 @@
+{
+  "record": "proposition",
+  "id": "31ab134b-7101-48d8-a9f3-53a0db8520ee",
+  "kind": "philosophical",
+  "epistemic_status": "hypothesized",
+  "title": "The person is a user illusion created by robots made of robots",
+  "statements": [
+    {
+      "id": "78e39d32-4a52-42ec-b741-eb5dfe682d5b",
+      "text": "Humans are robots made of robots who together create a user illusion of a conscious person, a single unified agent, a self as a center of narrative gravity. The illusion is needed to describe others, each other and oneself.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "78e39d32-4a52-42ec-b741-eb5dfe682d5b",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "32d0343d-c802-413c-a31b-2d55e8c6e02b",
+        "locator": "p. 55",
+        "quote": "create a user illusion of a Conscious Person, a single, unified agent, a self as a centre of narrative gravity"
+      }
+    ]
+  }
+}

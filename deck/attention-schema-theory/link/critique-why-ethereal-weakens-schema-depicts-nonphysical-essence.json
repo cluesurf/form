@@ -1,0 +1,33 @@
+{
+  "record": "link",
+  "id": "13b3b6fc-2666-40f1-8ebb-4df56aeab8e1",
+  "from": "4f8a9fb4-3e11-4683-83c6-1b51460c85b4",
+  "to": "0b49e350-0d1e-4e8e-b324-b739138b652f",
+  "relation": "weakens",
+  "strength": null,
+  "rationale": "A model that leaves out detail need not depict its object as nonphysical, so the step from simplification to an ethereal depiction needs its own argument.",
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "8aeff1e7-e96d-49bc-890e-26f6d6b9f2d2",
+        "locator": "p. 28",
+        "quote": "Graziano does not speak of primitiveness here, and he says surprisingly little to apply his attention schema model to the meta-problem."
+      },
+      {
+        "source": "8aeff1e7-e96d-49bc-890e-26f6d6b9f2d2",
+        "locator": "p. 28",
+        "quote": "Graziano occasionally says that the model describes awareness as ‘ethereal’, but he does not really explain why the model should represent awareness as ethereal"
+      }
+    ]
+  }
+}

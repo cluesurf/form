@@ -1,0 +1,45 @@
+{
+  "record": "proposition",
+  "id": "8ce6d4b8-f000-49e3-a008-6ea28f26204c",
+  "kind": "empirical",
+  "epistemic_status": "hypothesized",
+  "title": "Answer: the global dynamics of consciousness emerge from coupled cells",
+  "statements": [
+    {
+      "id": "c59fe89c-473c-4931-9a6e-049a4a356290",
+      "text": "Coupling inside single layer 5 neurons lets activity spread through cortico-cortical connections and higher-order thalamus, and that evolving activity gives rise to the global dynamics of consciousness measured at the macroscale.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "c59fe89c-473c-4931-9a6e-049a4a356290",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "18284858-8ad4-49e0-b7f6-d13c8a90227b",
+        "locator": "p. 1541",
+        "quote": "According to DIT, the evolving activity gives rise to the rich global dynamics of consciousness measured at the macroscale."
+      }
+    ]
+  }
+}

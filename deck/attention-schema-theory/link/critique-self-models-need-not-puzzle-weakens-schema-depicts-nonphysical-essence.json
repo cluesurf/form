@@ -1,0 +1,33 @@
+{
+  "record": "link",
+  "id": "b16946e5-5f28-4b60-8cbb-6c1941306379",
+  "from": "ec8c1730-816b-4d21-ae58-eae3ddeb2c04",
+  "to": "0b49e350-0d1e-4e8e-b324-b739138b652f",
+  "relation": "weakens",
+  "strength": null,
+  "rationale": "Self-models of belief do not yield problem intuitions, so a self-model of attention needs a further reason to yield them.",
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "8aeff1e7-e96d-49bc-890e-26f6d6b9f2d2",
+        "locator": "p. 20",
+        "quote": "I have occasionally heard it suggested that internal self-models will inevitably produce problem intuitions, but this seems clearly false."
+      },
+      {
+        "source": "8aeff1e7-e96d-49bc-890e-26f6d6b9f2d2",
+        "locator": "p. 20",
+        "quote": "Introspective models are especially central in Graziano’s (2013) ‘attention schema’ theory of consciousness"
+      }
+    ]
+  }
+}

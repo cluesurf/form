@@ -1,0 +1,50 @@
+{
+  "record": "proposition",
+  "id": "bf2d8bf3-023c-4729-bd40-55e414f0ae0b",
+  "kind": "philosophical",
+  "epistemic_status": "inferred",
+  "title": "Critique: similarity between stages is always in a respect",
+  "statements": [
+    {
+      "id": "1e02d03a-7323-4f7d-9d59-f5df8ad52782",
+      "text": "Block agrees with Lamme about what is conscious but rejects his method. Whether local recurrence is more like the feedforward sweep or like global access depends on the metric: in involving no frontal activity it is more like the sweep. The choice of figure-ground and binding as the metric is an inference to the best explanation, not a criterion intrinsic to neuroscience.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "1e02d03a-7323-4f7d-9d59-f5df8ad52782",
+  "status": "active",
+  "voice": "critique",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "e46f5f83-75f0-462e-b0d5-86b952498658",
+        "locator": "p. 541",
+        "quote": "He and I agree almost completely about what is conscious and what is not and the reasoning why, but not on the abstract methodological description."
+      },
+      {
+        "source": "e46f5f83-75f0-462e-b0d5-86b952498658",
+        "locator": "p. 541",
+        "quote": "There is no abstract issue of whether I2 is more like I1 than I3."
+      }
+    ]
+  }
+}

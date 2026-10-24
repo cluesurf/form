@@ -1,0 +1,50 @@
+{
+  "record": "proposition",
+  "id": "2dcaa1e8-a7f8-46e9-95d6-48183879a059",
+  "kind": "empirical",
+  "epistemic_status": "hypothesized",
+  "title": "The junction between the compartments gates cortical output",
+  "statements": [
+    {
+      "id": "62910a28-c07d-478e-b178-1fd8c9c67841",
+      "text": "A junction between the apical and basal compartments acts as a gate. In the conscious state the gate is open and signals reach higher-order thalamus, which projects back to the cortex and keeps the coupling. In the unconscious state the neurons are decoupled and activity no longer spreads through the thalamo-cortical system.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "62910a28-c07d-478e-b178-1fd8c9c67841",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "18284858-8ad4-49e0-b7f6-d13c8a90227b",
+        "locator": "Figure 5, p. 1540",
+        "quote": "Between the two compartments, there is a junction (nexus point) that acts like a gate and controls the coupling between them."
+      },
+      {
+        "source": "18284858-8ad4-49e0-b7f6-d13c8a90227b",
+        "locator": "Figure 5, p. 1540",
+        "quote": "In the conscious state, the gate within the pyramidal cells is open"
+      }
+    ]
+  }
+}

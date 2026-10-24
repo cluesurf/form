@@ -1,0 +1,28 @@
+{
+  "record": "link",
+  "id": "294f6f22-c443-4741-a75b-f30ac8fd3569",
+  "from": "013cb2ec-56be-4b4b-9fb7-095146869ae8",
+  "to": "b4ea6a85-d64a-4dbe-95dc-3267e9c4354e",
+  "relation": "requires",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "e3de91d3-ef9c-49b2-a711-bf6966c2cca3",
+        "locator": "p. 4",
+        "quote": "the NSP thalamus is the basis for a thalamo-cortical broadcasting system and L5p cells are the central elements of it"
+      }
+    ]
+  }
+}

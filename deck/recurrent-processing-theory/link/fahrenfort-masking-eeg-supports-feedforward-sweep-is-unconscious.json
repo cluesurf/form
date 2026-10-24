@@ -1,0 +1,38 @@
+{
+  "record": "link",
+  "id": "3aa29155-4ef8-49f9-8889-916db85a0750",
+  "from": "a74a44bf-ec2b-4c73-a388-0aad2760c0e4",
+  "to": "886a22e5-5ade-488a-8113-a1975a704647",
+  "relation": "supports",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "0ba5a059-2ae2-4142-85ea-f18a0a975bc1",
+        "locator": "p. 1491",
+        "quote": "For the masked trials, the detection rate was at chance at 51.4%"
+      },
+      {
+        "source": "0ba5a059-2ae2-4142-85ea-f18a0a975bc1",
+        "locator": "abstract, p. 1488",
+        "quote": "This conclusively shows that feedforward processing is preserved, even when subject performance is at chance as determined by objective measures."
+      },
+      {
+        "source": "0ba5a059-2ae2-4142-85ea-f18a0a975bc1",
+        "locator": "p. 1494",
+        "quote": "Such accounts cannot be ruled out entirely by these data"
+      }
+    ]
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "record": "proposition",
+  "id": "2ed7e3d4-d96e-48f6-9a41-114249b5740a",
+  "kind": "philosophical",
+  "epistemic_status": "hypothesized",
+  "title": "An illusionist global workspace and AST are one theory",
+  "statements": [
+    {
+      "id": "11e246b6-5bce-450c-b99b-cd11aec2660c",
+      "text": "Global workspace theory lacks an account of why people claim experience. Adding a model of the workspace supplies one, and since attentional enhancement is what lifts information into the workspace, a model of the workspace is a model of attention.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "11e246b6-5bce-450c-b99b-cd11aec2660c",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "61ac5725-c520-44e1-bde8-528292ef2815",
+        "locator": "p. 11",
+        "quote": "i-GW and AST are really just different versions of the same theory"
+      },
+      {
+        "source": "61ac5725-c520-44e1-bde8-528292ef2815",
+        "locator": "p. 8",
+        "quote": "Suppose that in addition to having a global workspace, Bob’s brain also constructs a model of its own global workspace."
+      }
+    ]
+  }
+}

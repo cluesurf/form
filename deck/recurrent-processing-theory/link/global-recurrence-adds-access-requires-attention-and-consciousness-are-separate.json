@@ -1,0 +1,33 @@
+{
+  "record": "link",
+  "id": "16da489e-8594-4069-863c-4068f0c28840",
+  "from": "df913d93-6337-43f0-b209-4f96ca608b8a",
+  "to": "27788643-fd77-4093-9363-1efdbdc881b2",
+  "relation": "requires",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "7f15335d-27d6-4836-856e-8f65bdffc569",
+        "locator": "p. 512",
+        "quote": "when frontal or motor areas are involved, a report is possible, otherwise not"
+      },
+      {
+        "source": "6dd7dbf6-162b-4cc6-99d2-6ac597b93829",
+        "locator": "p. 1537",
+        "quote": "Within RPT, attention is crucial for determining which stimuli cause global (stage 4) RP and AC"
+      }
+    ]
+  }
+}

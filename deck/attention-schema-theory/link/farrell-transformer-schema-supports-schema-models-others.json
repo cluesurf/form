@@ -1,0 +1,28 @@
+{
+  "record": "link",
+  "id": "cfc43d7d-aa7a-43d9-88f5-2df9cb0edcd9",
+  "from": "9ff88970-063e-4a94-b1a3-faf0b3b8d37b",
+  "to": "a015f1a4-c9de-42a7-bd73-96eb95f5bf0b",
+  "relation": "supports",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "20514fe2-4b9b-4b9d-9b14-1c6218137575",
+        "locator": "abstract, p. 1",
+        "quote": "we found that an agent with an attention schema is better at categorizing the attention states of other agents (higher accuracy)"
+      }
+    ]
+  }
+}

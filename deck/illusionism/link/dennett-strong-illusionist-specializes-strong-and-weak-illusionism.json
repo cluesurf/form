@@ -1,0 +1,33 @@
+{
+  "record": "link",
+  "id": "2af22251-a804-4e2f-ac08-56f59a0e52d5",
+  "from": "9861ecc5-c1ec-42a4-a5d5-91d75f82603e",
+  "to": "38ef1349-47a3-4598-91d2-bf82a395c65b",
+  "relation": "specializes",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "32d0343d-c802-413c-a31b-2d55e8c6e02b",
+        "locator": "p. 48",
+        "quote": "I am, and have always been, a card-carrying strong illusionist"
+      },
+      {
+        "source": "32d0343d-c802-413c-a31b-2d55e8c6e02b",
+        "locator": "p. 48",
+        "quote": "will make both the hard problem and the meta-problem of consciousness evaporate"
+      }
+    ]
+  }
+}

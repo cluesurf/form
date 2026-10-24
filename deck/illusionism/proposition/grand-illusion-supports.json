@@ -1,0 +1,45 @@
+{
+  "record": "proposition",
+  "id": "d5e66434-f567-4c6b-a416-607c59e113c4",
+  "kind": "empirical",
+  "epistemic_status": "hypothesized",
+  "title": "Change blindness and the grand illusion lend support",
+  "statements": [
+    {
+      "id": "be9a6354-1960-4f25-be3e-589ed981c073",
+      "text": "Illusionism is distinct from the thesis that the visual world is a grand illusion, which concerns the extent of experience, not its nature. Evidence for the grand illusion, such as change blindness, still lends support, since it shows people can be under an illusion about their own consciousness and undermines intuitions about phenomenal properties.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "be9a6354-1960-4f25-be3e-589ed981c073",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "60178d6b-6c55-4495-83a5-786a1c742af3",
+        "locator": "eprint p. 8",
+        "quote": "evidence for the grand illusion view, such as the existence of change blindness, does lend support to illusionism"
+      }
+    ]
+  }
+}

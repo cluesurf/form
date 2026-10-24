@@ -1,0 +1,28 @@
+{
+  "record": "link",
+  "id": "8b9c5cc2-2341-4f1a-860a-6feb353e66c4",
+  "from": "6266a821-2f98-4442-bc2d-ba8e0216a8ec",
+  "to": "9f88ef8a-4545-41f6-a06b-8e77aeefc6f2",
+  "relation": "requires",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "e3de91d3-ef9c-49b2-a711-bf6966c2cca3",
+        "locator": "p. 6",
+        "quote": "it is possible to specifically affect the different compartments of L5p neurons"
+      }
+    ]
+  }
+}

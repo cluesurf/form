@@ -1,0 +1,45 @@
+{
+  "record": "proposition",
+  "id": "441c9faf-1a44-49e1-88aa-c765cb920d61",
+  "kind": "philosophical",
+  "epistemic_status": "inferred",
+  "title": "Answer: takes no position on space, awareness is depicted vaguely inside the head",
+  "statements": [
+    {
+      "id": "2606a421-c714-48bc-9bb5-5f6e6fdd4c4b",
+      "text": "AST takes no position on physical space. It says only that the schema depicts awareness without a precise location, vaguely inside the head, because attention has no precise location to model.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "2606a421-c714-48bc-9bb5-5f6e6fdd4c4b",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "64858e60-e97c-4e3d-8d20-4e3e2c056209",
+        "locator": "p. 3",
+        "quote": "Attention has no highly precise location. It is vaguely inside the head."
+      }
+    ]
+  }
+}

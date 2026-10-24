@@ -1,0 +1,45 @@
+{
+  "record": "proposition",
+  "id": "05d3fdc3-b1e6-4f8c-b7ad-5018957a8f4c",
+  "kind": "empirical",
+  "epistemic_status": "hypothesized",
+  "title": "Directed attention is selective maintenance of dendritic coupling",
+  "statements": [
+    {
+      "id": "61b8c970-2779-47d0-a58c-101c8af4fad6",
+      "text": "Directed attention, an aspect of access consciousness, is controlled by keeping dendritic coupling in selected cortical columns, which in turn can regulate coupling of pyramidal neurons in posterior regions tied to phenomenal consciousness.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "61b8c970-2779-47d0-a58c-101c8af4fad6",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "18284858-8ad4-49e0-b7f6-d13c8a90227b",
+        "locator": "p. 1540",
+        "quote": "directed attention, an aspect of AC, is controlled by the selective maintenance of dendritic coupling in different cortical columns"
+      }
+    ]
+  }
+}

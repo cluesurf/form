@@ -1,0 +1,50 @@
+{
+  "record": "proposition",
+  "id": "7953903d-36bd-4b09-a3f9-9a52143bc62a",
+  "kind": "empirical",
+  "epistemic_status": "inferred",
+  "title": "Awareness and attention covary but are not the same",
+  "statements": [
+    {
+      "id": "8f773fe4-1049-4298-958d-e520f27a3215",
+      "text": "Awareness is part of the control machinery of attention, so the two normally covary, as inattentional blindness shows, and yet they are dissociable, because a model can come apart from what it models.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "8f773fe4-1049-4298-958d-e520f27a3215",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "64858e60-e97c-4e3d-8d20-4e3e2c056209",
+        "locator": "p. 7",
+        "quote": "Attention and awareness are not the same thing, but they do normally covary."
+      },
+      {
+        "source": "124d3bef-4ae5-42c5-98e9-c2bc87a493ce",
+        "locator": "Evidence of an Attention Schema",
+        "quote": "The finding that reportable consciousness closely covaries with attention, yet can dissociate from it in some cases"
+      }
+    ]
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "record": "proposition",
+  "id": "163ee071-4b2b-41a1-a74e-47aa48414f51",
+  "kind": "empirical",
+  "epistemic_status": "inferred",
+  "title": "Critique: recurrence is more widespread than consciousness",
+  "statements": [
+    {
+      "id": "c24ef606-bd99-4599-8ea5-514e1d511529",
+      "text": "Recurrent processing seems far more common in the brain than consciousness and is not lost in dreamless sleep, anesthesia or coma, so recurrence alone is likely necessary but not sufficient. The theory is underconstrained until it names what else is needed.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "c24ef606-bd99-4599-8ea5-514e1d511529",
+  "status": "active",
+  "voice": "critique",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "6dd7dbf6-162b-4cc6-99d2-6ac597b93829",
+        "locator": "p. 1538",
+        "quote": "RP seems far more ubiquitous than consciousness, suggesting that RP alone is not sufficient for consciousness"
+      },
+      {
+        "source": "6dd7dbf6-162b-4cc6-99d2-6ac597b93829",
+        "locator": "p. 1541",
+        "quote": "the commonly embraced principle of recurrent processing may be necessary for consciousness but is unlikely to be sufficient"
+      }
+    ]
+  }
+}

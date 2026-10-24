@@ -1,0 +1,28 @@
+{
+  "record": "link",
+  "id": "04386e76-3811-47d8-835a-a23d9b6f58bd",
+  "from": "532dd9f1-3a9e-48ca-bb63-f9708281472c",
+  "to": "8b9ced59-dab1-47f9-a3d3-1a931d78ff0b",
+  "relation": "requires",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "e3de91d3-ef9c-49b2-a711-bf6966c2cca3",
+        "locator": "abstract, p. 1",
+        "quote": "This perspective makes one quite specific prediction: cortical processing that does not include L5p neurons will be unconscious."
+      }
+    ]
+  }
+}

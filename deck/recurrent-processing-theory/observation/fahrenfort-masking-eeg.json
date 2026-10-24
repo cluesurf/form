@@ -1,0 +1,49 @@
+{
+  "record": "observation",
+  "id": "a74a44bf-ec2b-4c73-a388-0aad2760c0e4",
+  "kind": "experimental_result",
+  "epistemic_status": "observed",
+  "description": "Sixteen subjects detected a texture-defined square while EEG was recorded. Unmasked squares were detected on 96.5% of trials and masked squares at chance, 51.4%. Early occipito-temporal activity before about 110 ms was the same for seen and unseen squares, while posterior activity from 110 to 140 ms and activity from 200 to 300 ms appeared only when the square was seen.",
+  "method": "experiment",
+  "status": "reported",
+  "source": "0ba5a059-2ae2-4142-85ea-f18a0a975bc1",
+  "procedure": null,
+  "variable": null,
+  "value": null,
+  "unit": null,
+  "uncertainty": null,
+  "sample_size": 16,
+  "replication_count": null,
+  "quality": null,
+  "limitations": "Single study from Lamme's group, with 5 of 21 subjects excluded. The authors note that ERP spatial resolution is limited, and they cannot rule out interchannel inhibition accounts of masking.",
+  "conflicts_of_interest": null,
+  "observed_at": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "0ba5a059-2ae2-4142-85ea-f18a0a975bc1",
+        "locator": "p. 1491",
+        "quote": "For the masked trials, the detection rate was at chance at 51.4%"
+      },
+      {
+        "source": "0ba5a059-2ae2-4142-85ea-f18a0a975bc1",
+        "locator": "abstract, p. 1488",
+        "quote": "This conclusively shows that feedforward processing is preserved, even when subject performance is at chance as determined by objective measures."
+      },
+      {
+        "source": "0ba5a059-2ae2-4142-85ea-f18a0a975bc1",
+        "locator": "p. 1494",
+        "quote": "Such accounts cannot be ruled out entirely by these data"
+      }
+    ]
+  }
+}

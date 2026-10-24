@@ -1,0 +1,50 @@
+{
+  "record": "proposition",
+  "id": "30e6e5be-6c66-490a-9fea-3d09f35dd905",
+  "kind": "definitional",
+  "epistemic_status": "designed",
+  "title": "Phenomenal properties",
+  "statements": [
+    {
+      "id": "c7bd2481-f3cb-4ca5-934f-c71649418adf",
+      "text": "Phenomenal properties, also called phenomenal feels or phenomenal character, are the putative introspectable qualitative properties of experiences that determine what it is like to undergo them. An experience with such properties is phenomenally conscious. \"Experience\" itself is used in a functional sense, for the mental states that are the direct output of sensory systems, so it is not definitional that experiences are phenomenally conscious.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "c7bd2481-f3cb-4ca5-934f-c71649418adf",
+  "status": "active",
+  "voice": "framework",
+  "defines": "phenomenal property",
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "60178d6b-6c55-4495-83a5-786a1c742af3",
+        "locator": "eprint p. 2",
+        "quote": "conscious experiences have introspectable qualitative properties, or ‘feels’, which determine what it is like to undergo them"
+      },
+      {
+        "source": "60178d6b-6c55-4495-83a5-786a1c742af3",
+        "locator": "eprint p. 2",
+        "quote": "In this sense it is not definitional that experiences are phenomenally conscious."
+      }
+    ]
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "record": "proposition",
+  "id": "1ab94ddd-b089-4d9f-b6d1-20b5cf065280",
+  "kind": "empirical",
+  "epistemic_status": "inferred",
+  "title": "Awareness without attention is possible but unlikely to be reported",
+  "statements": [
+    {
+      "id": "bb88d9ef-94b8-4630-8113-1fe05b741469",
+      "text": "The schema could be wrongly attached to an unattended item, giving awareness without attention, but an unattended item may not bind with the schema and has weak signal, so such a state would rarely be reported.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "bb88d9ef-94b8-4630-8113-1fe05b741469",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "64858e60-e97c-4e3d-8d20-4e3e2c056209",
+        "locator": "p. 8",
+        "quote": "while attention without awareness is predicted, awareness without attention is more complex and seems less likely, but is not entirely ruled out"
+      }
+    ]
+  }
+}

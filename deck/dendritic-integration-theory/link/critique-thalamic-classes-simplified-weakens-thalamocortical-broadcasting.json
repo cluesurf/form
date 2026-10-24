@@ -1,0 +1,28 @@
+{
+  "record": "link",
+  "id": "6335a53a-0a1a-4c72-bd8f-8dfb769bb7c1",
+  "from": "a98596c0-6125-4821-88b6-81fbbf69975d",
+  "to": "013cb2ec-56be-4b4b-9fb7-095146869ae8",
+  "relation": "weakens",
+  "strength": null,
+  "rationale": "The broadcasting account leans on a split of thalamic projections that is not settled.",
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "e3de91d3-ef9c-49b2-a711-bf6966c2cca3",
+        "locator": "Limitations, p. 6",
+        "quote": "the thalamic projection patterns as presented here are necessarily simplified"
+      }
+    ]
+  }
+}

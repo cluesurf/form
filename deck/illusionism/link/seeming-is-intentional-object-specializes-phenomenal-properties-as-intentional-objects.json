@@ -1,0 +1,33 @@
+{
+  "record": "link",
+  "id": "0a0defa7-08d4-4d6b-80cb-196ee72774a2",
+  "from": "bd3c99f3-4b59-4a90-9eab-43364a7af70b",
+  "to": "844426bf-3a77-41ba-a783-34acd993130b",
+  "relation": "specializes",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "1f1534c8-43bb-45eb-ba05-3549a6015b03",
+        "locator": "p. 71",
+        "quote": "The red stripe you seem to see is not the cause or source of your convictions but the intentional object of your convictions."
+      },
+      {
+        "source": "1f1534c8-43bb-45eb-ba05-3549a6015b03",
+        "locator": "p. 71",
+        "quote": "we shouldn’t postulate figment as the stuff of ‘phenomenal properties’"
+      }
+    ]
+  }
+}

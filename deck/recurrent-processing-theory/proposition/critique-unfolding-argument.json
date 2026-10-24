@@ -1,0 +1,50 @@
+{
+  "record": "proposition",
+  "id": "8db91e18-05d8-4b1e-80e7-5635c46ed037",
+  "kind": "philosophical",
+  "epistemic_status": "inferred",
+  "title": "Critique: the unfolding argument",
+  "statements": [
+    {
+      "id": "f5505a19-f26a-4f6f-8bc5-1ba764f8ac02",
+      "text": "The unfolding argument, by its title, holds that IIT and other causal structure theories cannot explain consciousness. A theory that ties experience to recurrent rather than feedforward structure is such a theory, since a feedforward network can match a recurrent one in behavior. The paper was not read for this record and is known here by its title and by citation in the 2024 review.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "f5505a19-f26a-4f6f-8bc5-1ba764f8ac02",
+  "status": "active",
+  "voice": "critique",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "61e7ddc8-f484-4228-bec4-f835d76c307e",
+        "locator": "title",
+        "quote": null
+      },
+      {
+        "source": "6dd7dbf6-162b-4cc6-99d2-6ac597b93829",
+        "locator": "p. 1543",
+        "quote": "but see Doerig et al."
+      }
+    ]
+  }
+}

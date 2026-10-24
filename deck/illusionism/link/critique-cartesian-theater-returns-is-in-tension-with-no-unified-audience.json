@@ -1,0 +1,28 @@
+{
+  "record": "link",
+  "id": "6c0ec4ad-9ec4-4d8d-b661-5821da6bad81",
+  "from": "7dd6a232-8efa-4921-a291-5d1d8e9e6ed2",
+  "to": "03ac2d65-fa81-4a8f-b922-fa734bec0c4a",
+  "relation": "is_in_tension_with",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "60178d6b-6c55-4495-83a5-786a1c742af3",
+        "locator": "eprint p. 19",
+        "quote": "aren’t they committed to reinstating a Cartesian theatre as an arena where the illusion of phenomenality is presented?"
+      }
+    ]
+  }
+}

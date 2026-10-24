@@ -1,0 +1,50 @@
+{
+  "record": "proposition",
+  "id": "059e796b-b860-4102-978f-342291e70ac9",
+  "kind": "philosophical",
+  "epistemic_status": "hypothesized",
+  "title": "The malignant theorists’ illusion and the benign user illusion",
+  "statements": [
+    {
+      "id": "c14d0693-413e-4412-a9d4-213004f5b7a5",
+      "text": "Two illusions differ. The benign user illusion, shared by dogs, clams and bacteria, is tracking only some properties of the environment. The theorists’ illusion afflicts those who try to explain the phenomena with a theory. The hard problem needs only the fact that people think there is something it is like to be them, so it is a problem only for reflective humans.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "c14d0693-413e-4412-a9d4-213004f5b7a5",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "32d0343d-c802-413c-a31b-2d55e8c6e02b",
+        "locator": "p. 54",
+        "quote": "the malignant theorists’ illusion and the benign user illusion"
+      },
+      {
+        "source": "32d0343d-c802-413c-a31b-2d55e8c6e02b",
+        "locator": "p. 54",
+        "quote": "No, all we need is the fact that we think there is something it is like to be us."
+      }
+    ]
+  }
+}

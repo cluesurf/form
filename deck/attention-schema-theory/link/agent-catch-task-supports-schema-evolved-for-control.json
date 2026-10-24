@@ -1,0 +1,28 @@
+{
+  "record": "link",
+  "id": "1ee00d6e-8b2f-4c41-b2c5-6351634a6b5c",
+  "from": "6b6bd39f-1eed-4297-8149-10a2767009ef",
+  "to": "5bea01f5-7d73-4407-b571-61abc69a4f9a",
+  "relation": "supports",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "3595df3f-fe9a-4f97-b178-2b1fe3de34f6",
+        "locator": "abstract",
+        "quote": "If the attention schema was removed before learning began, the agent was impaired at learning."
+      }
+    ]
+  }
+}

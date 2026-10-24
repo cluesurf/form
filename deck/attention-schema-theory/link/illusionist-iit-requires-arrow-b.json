@@ -1,0 +1,28 @@
+{
+  "record": "link",
+  "id": "8fd66b49-74ae-4715-8823-c35b0fa194b8",
+  "from": "ce1fc743-b76c-41d3-b27b-569e9d0db0ad",
+  "to": "f366e70f-732f-468e-9683-fba4f86e2943",
+  "relation": "requires",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "61ac5725-c520-44e1-bde8-528292ef2815",
+        "locator": "p. 7",
+        "quote": "consciousness resembles integrated information because consciousness is a distorted representation of integrated information"
+      }
+    ]
+  }
+}

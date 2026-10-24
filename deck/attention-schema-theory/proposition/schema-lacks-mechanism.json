@@ -1,0 +1,50 @@
+{
+  "record": "proposition",
+  "id": "59510573-1c3e-4a8a-bb15-cf3023beedba",
+  "kind": "empirical",
+  "epistemic_status": "hypothesized",
+  "title": "The attention schema leaves out the mechanism of attention",
+  "statements": [
+    {
+      "id": "2e8ef206-8a12-4e28-85f1-d639620fcd15",
+      "text": "Like the body schema, which carries no bones or tendons, the attention schema carries no information about neurons, synapses, signal competition or pathways, since the brain needs none of it to track attention.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "2e8ef206-8a12-4e28-85f1-d639620fcd15",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "f683f12e-8037-4ca0-a414-6a305440e7ec",
+        "locator": "p. 4",
+        "quote": "The proposed attention schema lacks information about neurons, synapses, electrochemical signals, neural competition, and so on."
+      },
+      {
+        "source": "64858e60-e97c-4e3d-8d20-4e3e2c056209",
+        "locator": "p. 6",
+        "quote": "The brain has no need to model its own processes in that kind of physical detail."
+      }
+    ]
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "record": "observation",
+  "id": "12580dd1-3b51-4d0f-9cf4-4fd5e4b6b579",
+  "kind": "experimental_result",
+  "epistemic_status": "observed",
+  "description": "Masked stimuli that are not seen still activate prefrontal cortex, so frontal workspace neurons can be active during fully unconscious feedforward processing (Lau and Passingham 2007, Thompson and Schall 1999, as reported by Lamme).",
+  "method": "instrument",
+  "status": "reported",
+  "source": "7f15335d-27d6-4836-856e-8f65bdffc569",
+  "procedure": null,
+  "variable": null,
+  "value": null,
+  "unit": null,
+  "uncertainty": null,
+  "sample_size": null,
+  "replication_count": null,
+  "quality": null,
+  "limitations": "Reported secondhand in Lamme 2007. The original studies, from other laboratories, are not read here.",
+  "conflicts_of_interest": null,
+  "observed_at": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "7f15335d-27d6-4836-856e-8f65bdffc569",
+        "locator": "p. 512",
+        "quote": "as is shown by masked stimuli activating prefrontal cortex"
+      }
+    ]
+  }
+}

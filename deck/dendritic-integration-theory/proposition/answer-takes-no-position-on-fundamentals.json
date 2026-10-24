@@ -1,0 +1,50 @@
+{
+  "record": "proposition",
+  "id": "a0ea2783-fc54-488d-9a1c-7156bc7cc850",
+  "kind": "philosophical",
+  "epistemic_status": "inferred",
+  "title": "Answer: takes no position on what is fundamental",
+  "statements": [
+    {
+      "id": "796ecab2-d0fe-4ead-808c-1c4611e55589",
+      "text": "The theory takes no position on what is fundamental. It works at the level of cells and circuits, asking which neural processes differ between conscious and unconscious brains, and leaves metaphysics aside.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "796ecab2-d0fe-4ead-808c-1c4611e55589",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "18284858-8ad4-49e0-b7f6-d13c8a90227b",
+        "locator": "p. 1534",
+        "quote": "DIT is a recently proposed theory, mainly operating at the cell"
+      },
+      {
+        "source": "3519c086-a3e3-4b1c-9631-78b193482d93",
+        "locator": "p. 10",
+        "quote": "This implies that consciousness relies on specific neural processes that are different in conscious and unconscious brains."
+      }
+    ]
+  }
+}

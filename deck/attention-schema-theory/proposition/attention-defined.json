@@ -1,0 +1,50 @@
+{
+  "record": "proposition",
+  "id": "d98add4e-00a3-41c9-98ac-138bc4ee1afb",
+  "kind": "definitional",
+  "epistemic_status": "designed",
+  "title": "Attention is selective signal competition",
+  "statements": [
+    {
+      "id": "a0e2fc93-1eb8-45f3-9336-8b8334e2820c",
+      "text": "In AST, attention is selective attention: a process in which one set of cortical signals is enhanced and competing signals are suppressed, so that the enhanced signals have a much larger effect on decision, memory and behavior. It covers bottom up capture and top down control, and applies to any representable item, external or internal.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "a0e2fc93-1eb8-45f3-9336-8b8334e2820c",
+  "status": "active",
+  "voice": "framework",
+  "defines": "attention",
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "124d3bef-4ae5-42c5-98e9-c2bc87a493ce",
+        "locator": "A Theory of Consciousness that Embodies Principles 1 and 2",
+        "quote": "Attention here refers specifically to selective attention, a process by which one set of cortical signals is enhanced and competing signals are suppressed"
+      },
+      {
+        "source": "64858e60-e97c-4e3d-8d20-4e3e2c056209",
+        "locator": "p. 4",
+        "quote": "To attend to a stimulus is to have its representation win a competition, thus gaining greater signal strength"
+      }
+    ]
+  }
+}

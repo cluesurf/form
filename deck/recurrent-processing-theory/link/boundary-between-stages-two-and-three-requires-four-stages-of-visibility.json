@@ -1,0 +1,28 @@
+{
+  "record": "link",
+  "id": "ad0483d4-8e2f-498d-8e66-2384aa8dc99c",
+  "from": "38e33a90-03c3-495d-b6f7-439bf2f61eee",
+  "to": "4b4bfdfa-8f6a-41b4-ba4d-7e09ba9b2f09",
+  "relation": "requires",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b9050313-e369-439d-a181-b751070bb3df",
+        "locator": "p. 2",
+        "quote": "supporting the somewhat counterintuitive view that \"invisibility\" due to inattention is in fact not true invisibility, yet a case of failure to \"internally report\" or otherwise cognitively access and manipulate the information"
+      }
+    ]
+  }
+}

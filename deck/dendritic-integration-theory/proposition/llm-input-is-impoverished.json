@@ -1,0 +1,50 @@
+{
+  "record": "proposition",
+  "id": "3b74aef4-048c-4490-ad56-cbb22d8d890c",
+  "kind": "empirical",
+  "epistemic_status": "inferred",
+  "title": "The input of a language model is far poorer than a body’s",
+  "statements": [
+    {
+      "id": "915ffe03-696c-41e6-a808-7a1de5439730",
+      "text": "A language model receives only abstract binary-coded text, which makes no rich contact with the world. Its input differs more from human sensory input than human input differs from a bat’s, and adding data streams alone would not yield consciousness, since an Umwelt presupposes an agent.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "915ffe03-696c-41e6-a808-7a1de5439730",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "3519c086-a3e3-4b1c-9631-78b193482d93",
+        "locator": "p. 6",
+        "quote": "the information stream provided to LLMs is more different from the one presented to humans than ours is from bats"
+      },
+      {
+        "source": "3519c086-a3e3-4b1c-9631-78b193482d93",
+        "locator": "p. 6",
+        "quote": "consciousness does not arise merely from data, and hence that simply adding massive data streams to future AI systems will not lead to consciousness"
+      }
+    ]
+  }
+}

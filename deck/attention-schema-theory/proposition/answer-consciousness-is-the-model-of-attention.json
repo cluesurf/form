@@ -1,0 +1,45 @@
+{
+  "record": "proposition",
+  "id": "bb9b582d-f14e-42b9-99c5-535781319d89",
+  "kind": "empirical",
+  "epistemic_status": "hypothesized",
+  "title": "Answer: consciousness is the brain’s model of its attention, and the beliefs drawn from it",
+  "statements": [
+    {
+      "id": "869dd4ba-a3b9-4ddb-a2ce-b7ca307a8fe4",
+      "text": "Consciousness, as people claim it, is the brain's simplified model of its own attention together with the beliefs higher cognition draws from that model. AST is a theory of attention, of the in-the-moment feature called experience, and of those beliefs.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "869dd4ba-a3b9-4ddb-a2ce-b7ca307a8fe4",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "124d3bef-4ae5-42c5-98e9-c2bc87a493ce",
+        "locator": "A Theory of Consciousness that Embodies Principles 1 and 2",
+        "quote": "AST is therefore a theory of attention, a theory of the in-the-moment feature we call experience, and a theory of the more abstract, cognitive beliefs that people develop as a result."
+      }
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "record": "link",
+  "id": "e07bc3d9-37e2-44e8-922b-cadcf10561b7",
+  "from": "a0baf532-487f-42ea-92bb-5c58c56d1414",
+  "to": "886a22e5-5ade-488a-8113-a1975a704647",
+  "relation": "specializes",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "6dd7dbf6-162b-4cc6-99d2-6ac597b93829",
+        "locator": "p. 1537",
+        "quote": "while the subject is unaware of both stimulus and action"
+      }
+    ]
+  }
+}

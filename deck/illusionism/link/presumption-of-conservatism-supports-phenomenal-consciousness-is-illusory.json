@@ -1,0 +1,28 @@
+{
+  "record": "link",
+  "id": "548aab76-f773-4d07-897b-87d657ec8179",
+  "from": "96dc38ad-ca39-482e-bb3b-2498114775f3",
+  "to": "5eb9d0b6-5fe3-4d17-a47a-b14d497871df",
+  "relation": "supports",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "60178d6b-6c55-4495-83a5-786a1c742af3",
+        "locator": "eprint p. 11",
+        "quote": "we should not make radical theoretical moves if modest ones will do"
+      }
+    ]
+  }
+}

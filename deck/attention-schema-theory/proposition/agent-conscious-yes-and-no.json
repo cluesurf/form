@@ -1,0 +1,45 @@
+{
+  "record": "proposition",
+  "id": "a1d1103e-b69d-428e-8078-5b52b49bb272",
+  "kind": "philosophical",
+  "epistemic_status": "inferred",
+  "title": "An agent with a simple schema is conscious in a simple sense only",
+  "statements": [
+    {
+      "id": "6fa3fc79-42e3-4934-b83f-d29a785562d3",
+      "text": "An artificial agent with an attention schema has a simple version of the information that in humans leads to the belief in subjective consciousness, so it has a simple form of consciousness without cognitive complexity or report. The aim is to deflate consciousness to information and cognitive operations.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "6fa3fc79-42e3-4934-b83f-d29a785562d3",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "3595df3f-fe9a-4f97-b178-2b1fe3de34f6",
+        "locator": "Discussion",
+        "quote": "In that sense, one could say the agent has a simple form of consciousness, without cognitive complexity or the ability to verbally report."
+      }
+    ]
+  }
+}

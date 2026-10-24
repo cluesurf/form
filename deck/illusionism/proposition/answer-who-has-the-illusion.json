@@ -1,0 +1,50 @@
+{
+  "record": "proposition",
+  "id": "a4dee38f-e8a9-48f8-91bf-a438debda20a",
+  "kind": "philosophical",
+  "epistemic_status": "hypothesized",
+  "title": "Answer: no one is phenomenally conscious, and the illusion depends on introspective capacities",
+  "statements": [
+    {
+      "id": "a1e60966-4850-4daa-84c5-aa3a4e37b55a",
+      "text": "No system is phenomenally conscious in the strong sense. Humans are conscious in the inclusive sense, and any system with functionally identical introspective mechanisms, including a zombie or a suitably built robot, would be too. Animals such as dogs share a benign user illusion but, not being theorists, not the theorists’ illusion behind the hard problem.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "a1e60966-4850-4daa-84c5-aa3a4e37b55a",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "60178d6b-6c55-4495-83a5-786a1c742af3",
+        "locator": "eprint p. 10",
+        "quote": "there is something it is like to be a zombie, since zombies have introspective mechanisms functionally identical to our own"
+      },
+      {
+        "source": "32d0343d-c802-413c-a31b-2d55e8c6e02b",
+        "locator": "p. 54",
+        "quote": "The hard problem and meta-problem are only problems for us humans"
+      }
+    ]
+  }
+}

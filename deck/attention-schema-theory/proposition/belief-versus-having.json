@@ -1,0 +1,45 @@
+{
+  "record": "proposition",
+  "id": "5595ca42-760c-4dcd-b7eb-06e2e4414955",
+  "kind": "philosophical",
+  "epistemic_status": "inferred",
+  "title": "Having consciousness and believing in it are separable",
+  "statements": [
+    {
+      "id": "3c2ad376-a64c-4d89-bd88-c32117190b7d",
+      "text": "Almost all theories conflate having consciousness with believing one has it. The two can be told apart as having an apple and believing one is present can be told apart, and the belief and claim follow from information in the brain, whatever else is present.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "3c2ad376-a64c-4d89-bd88-c32117190b7d",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "124d3bef-4ae5-42c5-98e9-c2bc87a493ce",
+        "locator": "Two General Principles",
+        "quote": "Almost all theories conflate two processes: having consciousness and believing you have it."
+      }
+    ]
+  }
+}

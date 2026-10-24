@@ -1,0 +1,45 @@
+{
+  "record": "proposition",
+  "id": "887f5fc8-f187-49d3-81e6-d26c452f396f",
+  "kind": "empirical",
+  "epistemic_status": "hypothesized",
+  "title": "Answer: the self is a model of a physical and mental agent",
+  "statements": [
+    {
+      "id": "d6d9ff9f-ba6f-44d1-8c41-a5045c69ca9e",
+      "text": "The self is a model the brain builds, of a physical and mental agent, bound together with a model of an object and a model of attention linking the two. Reports of being aware of something read from that larger model.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "d6d9ff9f-ba6f-44d1-8c41-a5045c69ca9e",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "64858e60-e97c-4e3d-8d20-4e3e2c056209",
+        "locator": "p. 2",
+        "quote": "a model of the self as a physical and mental agent (S), and a model of the relationship between them: attention (A)"
+      }
+    ]
+  }
+}

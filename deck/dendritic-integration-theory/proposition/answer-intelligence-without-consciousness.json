@@ -1,0 +1,45 @@
+{
+  "record": "proposition",
+  "id": "32f137f9-a14a-45a5-bb8a-215d72d66282",
+  "kind": "empirical",
+  "epistemic_status": "hypothesized",
+  "title": "Answer: intelligent behavior can come without consciousness",
+  "statements": [
+    {
+      "id": "00880025-c3a1-4ba2-91b2-e49ef9048968",
+      "text": "Language models converse with a skill that in humans indicates consciousness, yet the authors hold they are not conscious. Their competence mimics the signatures of consciousness embedded in human language, so intelligent behavior and consciousness come apart.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "00880025-c3a1-4ba2-91b2-e49ef9048968",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "3519c086-a3e3-4b1c-9631-78b193482d93",
+        "locator": "p. 14",
+        "quote": "they mimic signatures of consciousness that are implicitly embedded within the language that humans use"
+      }
+    ]
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "record": "proposition",
+  "id": "e7b3d2b7-7a2f-4579-af45-7df207492c21",
+  "kind": "philosophical",
+  "epistemic_status": "hypothesized",
+  "title": "There are no qualia",
+  "statements": [
+    {
+      "id": "7bbff927-d75b-4197-a354-94a0de76c196",
+      "text": "Conscious experience is real and has properties, but no properties special in any of the ways qualia were supposed to be. The pretheoretical notion is so confused that the better course is to declare that there are no qualia at all, and to put the burden of proof on anyone who appeals to private, subjective properties.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "7bbff927-d75b-4197-a354-94a0de76c196",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "cefa7948-88e5-4a3a-9d5a-11b94942b10f",
+        "locator": "section 1, 'Corralling the Quicksilver'",
+        "quote": "conscious experience has no properties that are special in any of the ways qualia have been supposed to be special"
+      },
+      {
+        "source": "cefa7948-88e5-4a3a-9d5a-11b94942b10f",
+        "locator": "section 1, 'Corralling the Quicksilver'",
+        "quote": "Far better, tactically, to declare that there simply are no qualia at all."
+      }
+    ]
+  }
+}

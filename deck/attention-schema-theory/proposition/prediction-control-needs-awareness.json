@@ -1,0 +1,50 @@
+{
+  "record": "proposition",
+  "id": "daed49d9-48a3-4978-8456-07a83e3d4ff2",
+  "kind": "empirical",
+  "epistemic_status": "hypothesized",
+  "title": "Without awareness, attention remains but its control fails",
+  "statements": [
+    {
+      "id": "25ffbf4f-a277-45d8-831a-94e5c16db19d",
+      "text": "If awareness is the control model of attention, then without awareness of an item, attention to it should still be possible, but its endogenous control should break down: it cannot be sustained, suppressed or shifted away on purpose.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": "Awareness of an item is absent while the endogenous control of attention to that item is normal.",
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "25ffbf4f-a277-45d8-831a-94e5c16db19d",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "64858e60-e97c-4e3d-8d20-4e3e2c056209",
+        "locator": "abstract, p. 1",
+        "quote": "without awareness, attention should still be possible but should suffer deficits in control"
+      },
+      {
+        "source": "9570fdf7-7608-4351-9753-097eee3f0203",
+        "locator": "introduction",
+        "quote": "If awareness of item X is compromised, and the endogenous control of attention with respect to item X is normal, then AST is falsified."
+      }
+    ]
+  }
+}

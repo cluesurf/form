@@ -1,0 +1,45 @@
+{
+  "record": "proposition",
+  "id": "a98596c0-6125-4821-88b6-81fbbf69975d",
+  "kind": "empirical",
+  "epistemic_status": "observed",
+  "title": "Open: the thalamic projection classes are simplified",
+  "statements": [
+    {
+      "id": "c76e0761-7348-4dfe-948f-c7fc2fa1f40e",
+      "text": "The split between specific and nonspecific thalamic projections that the theory uses is a simplification. Projections are intermingled and there is no clear consensus on how to classify thalamo-cortical projections.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "c76e0761-7348-4dfe-948f-c7fc2fa1f40e",
+  "status": "active",
+  "voice": "critique",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "e3de91d3-ef9c-49b2-a711-bf6966c2cca3",
+        "locator": "Limitations, p. 6",
+        "quote": "the thalamic projection patterns as presented here are necessarily simplified"
+      }
+    ]
+  }
+}

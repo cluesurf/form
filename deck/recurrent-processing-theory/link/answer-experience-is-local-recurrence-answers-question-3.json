@@ -1,0 +1,33 @@
+{
+  "record": "link",
+  "id": "35e8ea0a-d2dc-484f-95be-351888ce34ed",
+  "from": "5bebcd2b-325b-46ee-91de-900aa5eb51b8",
+  "to": "94d1e6cc-101d-4e1b-9fc7-56d44571b271",
+  "relation": "answers",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "7f15335d-27d6-4836-856e-8f65bdffc569",
+        "locator": "p. 512",
+        "quote": "localized recurrent processing is conscious processing"
+      },
+      {
+        "source": "b9050313-e369-439d-a181-b751070bb3df",
+        "locator": "p. 4",
+        "quote": "any visual operation that is \"hardwired\" via feedforward connections does not depend on any form of consciousness"
+      }
+    ]
+  }
+}

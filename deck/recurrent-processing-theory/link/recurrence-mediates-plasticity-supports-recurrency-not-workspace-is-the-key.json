@@ -1,0 +1,33 @@
+{
+  "record": "link",
+  "id": "203fa4df-450d-479b-a190-9a847f387984",
+  "from": "848a16fd-a664-4318-9f85-ed618f979584",
+  "to": "599464a8-6b71-4a3b-997a-0f0bcfa4fb28",
+  "relation": "supports",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "7f15335d-27d6-4836-856e-8f65bdffc569",
+        "locator": "p. 512",
+        "quote": "It is likely that feedforward activation is not mediating synaptic plasticity and learning, while recurrent processing (of whatever extent) does do so"
+      },
+      {
+        "source": "6dd7dbf6-162b-4cc6-99d2-6ac597b93829",
+        "locator": "p. 1544",
+        "quote": "RPT: to enable plasticity, learning, and feature binding"
+      }
+    ]
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "record": "proposition",
+  "id": "5afc8a0e-857b-4327-bf5c-549e17fcc4ef",
+  "kind": "philosophical",
+  "epistemic_status": "hypothesized",
+  "title": "No residual quale can be isolated from reactions and dispositions",
+  "statements": [
+    {
+      "id": "a5d77b0d-d9bd-4bba-88fc-6222a0012812",
+      "text": "Talk of how something tastes to a person at a time presumes the quale can be separated from accompaniments, causes and later dispositions to behave or believe. The deeper mistake is supposing there is such a residual property at all.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "a5d77b0d-d9bd-4bba-88fc-6222a0012812",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "cefa7948-88e5-4a3a-9d5a-11b94942b10f",
+        "locator": "section 2, 'The Special Properties of Qualia'",
+        "quote": "the more fundamental mistake of supposing that there is such a residual property to take seriously"
+      }
+    ]
+  }
+}

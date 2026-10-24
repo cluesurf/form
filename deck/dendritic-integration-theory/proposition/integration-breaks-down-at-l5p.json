@@ -1,0 +1,45 @@
+{
+  "record": "proposition",
+  "id": "f72736b1-b310-4f6f-be85-466d6d491d15",
+  "kind": "empirical",
+  "epistemic_status": "hypothesized",
+  "title": "Integration breaks down in unconscious states at layer 5 neurons",
+  "statements": [
+    {
+      "id": "dc706739-574f-46e7-bc99-46ca94e5dc78",
+      "text": "Measures such as the perturbational complexity index show a breakdown of effective connectivity in deep sleep and anesthesia. The theory predicts that the reason information integration breaks down in the unconscious state lies in layer 5 pyramidal neurons and their interactions with the thalamo-cortical system.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "dc706739-574f-46e7-bc99-46ca94e5dc78",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "e3de91d3-ef9c-49b2-a711-bf6966c2cca3",
+        "locator": "p. 6",
+        "quote": "we predict that the central reason for why information integration breaks down in the unconscious state is to be found on the level of L5p neurons"
+      }
+    ]
+  }
+}

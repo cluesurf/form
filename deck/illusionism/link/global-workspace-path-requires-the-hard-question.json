@@ -1,0 +1,28 @@
+{
+  "record": "link",
+  "id": "c6f80f0a-0643-4e3f-bc16-928eeb9c01ee",
+  "from": "7c6df021-feb2-4865-b1b9-6ad96f9a8c60",
+  "to": "27a65bd0-bba3-4c32-aaaf-e66396055c4f",
+  "relation": "requires",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "32d0343d-c802-413c-a31b-2d55e8c6e02b",
+        "locator": "p. 53",
+        "quote": "the only paths I can see for answering the hard question invoke one version or another of a global workspace theory"
+      }
+    ]
+  }
+}

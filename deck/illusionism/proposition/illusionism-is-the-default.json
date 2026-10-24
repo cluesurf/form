@@ -1,0 +1,50 @@
+{
+  "record": "proposition",
+  "id": "f211964e-b084-4efa-adb9-23cc2581729f",
+  "kind": "philosophical",
+  "epistemic_status": "hypothesized",
+  "title": "Illusionism is the default theory",
+  "statements": [
+    {
+      "id": "abd56aae-8f45-4c97-b3ae-2731365287fd",
+      "text": "As stage magic is assumed to work by everyday physical causes until shown otherwise, illusionism should be the front runner: a conservative theory to be developed in detail and abandoned only if it demonstrably fails to account for the phenomena, not dismissed as counterintuitive.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "abd56aae-8f45-4c97-b3ae-2731365287fd",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "1f1534c8-43bb-45eb-ba05-3549a6015b03",
+        "locator": "p. 65",
+        "quote": "should be considered the front runner, a conservative theory to be developed in detail, and abandoned only if it demonstrably fails to account for phenomena"
+      },
+      {
+        "source": "1f1534c8-43bb-45eb-ba05-3549a6015b03",
+        "locator": "p. 68",
+        "quote": "the default view that should be assumed true until proven otherwise"
+      }
+    ]
+  }
+}

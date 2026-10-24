@@ -1,0 +1,45 @@
+{
+  "record": "proposition",
+  "id": "32c0d207-e9b7-4c4c-871a-7b421d83fd8d",
+  "kind": "empirical",
+  "epistemic_status": "hypothesized",
+  "title": "Prior knowledge acts through synapses on the apical compartment",
+  "statements": [
+    {
+      "id": "90f8ea99-50d7-4d43-ae2c-d7711c134dde",
+      "text": "A corollary of the theory is that prior knowledge tied to perception, such as semantic memory, depends on synapses onto the apical compartment. Evidence that consolidated semantic memories are stored in layer 1 connections has been obtained in rodents.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "90f8ea99-50d7-4d43-ae2c-d7711c134dde",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "18284858-8ad4-49e0-b7f6-d13c8a90227b",
+        "locator": "p. 1540",
+        "quote": "Evidence that consolidated semantic memories are stored in the connections in layer 1"
+      }
+    ]
+  }
+}

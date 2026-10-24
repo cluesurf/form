@@ -1,0 +1,50 @@
+{
+  "record": "proposition",
+  "id": "f46c9fea-bba3-4165-9e67-9eb20ad8f834",
+  "kind": "empirical",
+  "epistemic_status": "hypothesized",
+  "title": "Large language models are not conscious and likely will not be soon",
+  "statements": [
+    {
+      "id": "c5db1c23-af71-462d-a4b5-67d91f0906f5",
+      "text": "Given their impoverished input, their architecture and their lack of living organization, present large language models are very unlikely to have phenomenal consciousness. They mimic signatures of consciousness embedded in the language humans use to describe experience.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "c5db1c23-af71-462d-a4b5-67d91f0906f5",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "3519c086-a3e3-4b1c-9631-78b193482d93",
+        "locator": "p. 14",
+        "quote": "LLMs are not conscious, and will likely not be conscious soon"
+      },
+      {
+        "source": "3519c086-a3e3-4b1c-9631-78b193482d93",
+        "locator": "p. 14",
+        "quote": "they mimic signatures of consciousness that are implicitly embedded within the language that humans use"
+      }
+    ]
+  }
+}

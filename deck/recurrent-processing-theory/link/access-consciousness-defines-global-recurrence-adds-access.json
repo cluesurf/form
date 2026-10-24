@@ -1,0 +1,28 @@
+{
+  "record": "link",
+  "id": "64a477b0-c835-4b1b-936e-b1b7ec9acfff",
+  "from": "2a4cd3d5-3d54-4ffb-88fc-5f5b5da723cb",
+  "to": "df913d93-6337-43f0-b209-4f96ca608b8a",
+  "relation": "defines",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "6dd7dbf6-162b-4cc6-99d2-6ac597b93829",
+        "locator": "p. 1532",
+        "quote": "AC refers to those properties of experience that are accessible for use in reasoning, report, and the control of action"
+      }
+    ]
+  }
+}

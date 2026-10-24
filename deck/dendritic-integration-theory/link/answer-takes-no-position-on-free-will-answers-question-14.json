@@ -1,0 +1,28 @@
+{
+  "record": "link",
+  "id": "53e1bef8-4490-4255-8d79-41a329584642",
+  "from": "3dd8554d-47a2-4358-9dec-7ecbf933c1bb",
+  "to": "43fc6225-2526-4555-8128-80b38e2fbaf4",
+  "relation": "answers",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "3519c086-a3e3-4b1c-9631-78b193482d93",
+        "locator": "abstract, p. 1",
+        "quote": "multi-level cellular, inter-cellular, and organismal processes culminating in agency and consciousness"
+      }
+    ]
+  }
+}

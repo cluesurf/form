@@ -1,0 +1,28 @@
+{
+  "record": "link",
+  "id": "a0470f26-d41f-4316-bb07-9c49db7e5fbf",
+  "from": "7eefb396-48be-4f7a-bc80-f78cf649c284",
+  "to": "4c670115-fba8-4b57-9111-7e4844c08243",
+  "relation": "supports",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "e3de91d3-ef9c-49b2-a711-bf6966c2cca3",
+        "locator": "p. 2",
+        "quote": "stimulation of the NSP ventromedial (VM) thalamic nucleus awoke mice from NREM sleep and anesthesia"
+      }
+    ]
+  }
+}

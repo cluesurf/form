@@ -1,0 +1,33 @@
+{
+  "record": "link",
+  "id": "86bdcdd6-4534-47fb-87b4-54be2e478219",
+  "from": "5284ff1e-5930-403b-9f53-484261e6b721",
+  "to": "e7b3d2b7-7a2f-4579-af45-7df207492c21",
+  "relation": "explains",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "cefa7948-88e5-4a3a-9d5a-11b94942b10f",
+        "locator": "section 6, 'Filling the vacuum'",
+        "quote": "In their place are relatively or practically ineffable public properties we can refer to indirectly via reference to our private property-detectors"
+      },
+      {
+        "source": "cefa7948-88e5-4a3a-9d5a-11b94942b10f",
+        "locator": "section 6, 'Filling the vacuum'",
+        "quote": "That idiosyncracy is the extent of our privacy."
+      }
+    ]
+  }
+}

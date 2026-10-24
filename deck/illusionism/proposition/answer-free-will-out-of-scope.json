@@ -1,0 +1,45 @@
+{
+  "record": "proposition",
+  "id": "cca7f2d0-6071-4723-aecb-fc0a68f8ab86",
+  "kind": "philosophical",
+  "epistemic_status": "hypothesized",
+  "title": "Answer: no position on free will in these sources",
+  "statements": [
+    {
+      "id": "bdd1b270-3765-4704-8fba-d04129ee93c8",
+      "text": "These sources take no position on free will. Dennett reads Wegner’s experiments on the illusion of conscious will as accountable as stage magic, a remark on how the portrayal of agency is produced, not a verdict on free will.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "bdd1b270-3765-4704-8fba-d04129ee93c8",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "1f1534c8-43bb-45eb-ba05-3549a6015b03",
+        "locator": "p. 70",
+        "quote": "the effects he provoked in his experiments could be accounted for as stage magic"
+      }
+    ]
+  }
+}

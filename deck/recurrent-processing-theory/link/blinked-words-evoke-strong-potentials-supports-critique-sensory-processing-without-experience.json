@@ -1,0 +1,28 @@
+{
+  "record": "link",
+  "id": "6f0c76ee-2a19-4e96-bf17-7bfde0ac049d",
+  "from": "dc441f67-76ea-49ac-a10c-c9c11eb4f4a7",
+  "to": "0eac1991-9e5a-4956-be1c-68b589f99513",
+  "relation": "supports",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "e31c9bb7-0ea8-45b4-8369-43aa406075c6",
+        "locator": "p. 524",
+        "quote": "elicited strong, long-lasting brain potentials up to 300 msecs after they had been presented"
+      }
+    ]
+  }
+}

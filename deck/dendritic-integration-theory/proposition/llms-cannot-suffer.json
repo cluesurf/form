@@ -1,0 +1,45 @@
+{
+  "record": "proposition",
+  "id": "ff3be8d8-38b1-4f12-9dda-b46a8d9a0fa3",
+  "kind": "empirical",
+  "epistemic_status": "hypothesized",
+  "title": "Language models do not have experiences that count as suffering",
+  "statements": [
+    {
+      "id": "5d0b00a8-c526-4158-9090-af4201797d8b",
+      "text": "Language models do not and will not have experiences that count as suffering in a sense that matters to society. A model has nothing to lose when shut down, while a living system has something to lose at every level of its organization.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "5d0b00a8-c526-4158-9090-af4201797d8b",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "3519c086-a3e3-4b1c-9631-78b193482d93",
+        "locator": "p. 15",
+        "quote": "we predict that LLMs do not (and will not) have experiences that can be considered suffering in any sense that should matter to human society"
+      }
+    ]
+  }
+}

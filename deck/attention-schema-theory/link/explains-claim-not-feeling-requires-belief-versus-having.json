@@ -1,0 +1,33 @@
+{
+  "record": "link",
+  "id": "5abb8638-bc1b-48e2-8fc7-0fcbdd3c8198",
+  "from": "f0b533c0-5124-4306-a1ee-116e3d95ee96",
+  "to": "5595ca42-760c-4dcd-b7eb-06e2e4414955",
+  "relation": "requires",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "f683f12e-8037-4ca0-a414-6a305440e7ec",
+        "locator": "abstract, p. 1",
+        "quote": "The theory does not address how the brain might actually possess a non-physical essence."
+      },
+      {
+        "source": "f683f12e-8037-4ca0-a414-6a305440e7ec",
+        "locator": "p. 5",
+        "quote": "the theory emphatically does not explain how we have a subjective experience"
+      }
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "record": "link",
+  "id": "80eacf5a-909b-42c8-aa01-2812711f18f5",
+  "from": "80a13f1a-5792-4475-bf1f-277c495add10",
+  "to": "b3ae98d7-bf08-41e4-a111-a8d1172d14a5",
+  "relation": "supports",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "3519c086-a3e3-4b1c-9631-78b193482d93",
+        "locator": "p. 10",
+        "quote": "the structure of the thalamocortical system does not change when we are in deep sleep or undergo anesthesia, yet consciousness disappears"
+      }
+    ]
+  }
+}

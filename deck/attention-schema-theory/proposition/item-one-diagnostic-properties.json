@@ -1,0 +1,45 @@
+{
+  "record": "proposition",
+  "id": "51c2e13e-342c-4bf3-b8ae-6dd8b681e44a",
+  "kind": "philosophical",
+  "epistemic_status": "designed",
+  "title": "Three tests for what the consciousness model represents",
+  "statements": [
+    {
+      "id": "54d33b2b-a7c6-497b-88a9-b5a4528737c2",
+      "text": "The real item modeled, Item 1, should be able to affect neural activity, should resemble reported consciousness in its outline while having granular detail the report lacks, and should change state as reported consciousness changes, as the arm schema matches and covaries with the arm.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "54d33b2b-a7c6-497b-88a9-b5a4528737c2",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "61ac5725-c520-44e1-bde8-528292ef2815",
+        "locator": "p. 9",
+        "quote": "We’re looking for something with three diagnostic properties."
+      }
+    ]
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "record": "link",
+  "id": "72e7440b-f55a-4100-bde4-cdafd1328cc3",
+  "from": "45ea14c4-5e07-4b1a-9155-52df0ee0b617",
+  "to": "532ceb88-bd11-4104-9ad4-e3d054ccfee9",
+  "relation": "defines",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "6dd7dbf6-162b-4cc6-99d2-6ac597b93829",
+        "locator": "p. 1532",
+        "quote": "PC refers to those properties of experience that correspond to"
+      },
+      {
+        "source": "6dd7dbf6-162b-4cc6-99d2-6ac597b93829",
+        "locator": "p. 1532",
+        "quote": "That an item is part of PC does not imply that it is part of AC."
+      }
+    ]
+  }
+}

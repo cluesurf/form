@@ -1,0 +1,45 @@
+{
+  "record": "proposition",
+  "id": "ed7751a2-bf66-4702-afbe-9889028cb100",
+  "kind": "philosophical",
+  "epistemic_status": "hypothesized",
+  "title": "Critique: the illusionist owes an account of why it seems like this",
+  "statements": [
+    {
+      "id": "f4dc5de9-a9a7-455c-92b6-3e88dae293a9",
+      "text": "Neither illusionism nor realism yet has a satisfactory answer to the charge of absurdity. The illusionist needs to explain how having a mind without phenomenal consciousness could be like this, though not at all as it seems, doing more than explaining reactions and judgments, which seems to miss the phenomenon.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "f4dc5de9-a9a7-455c-92b6-3e88dae293a9",
+  "status": "active",
+  "voice": "critique",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "a674a239-2ee2-4dff-968c-41e3daaa5217",
+        "locator": "p. 56",
+        "quote": "For the illusionist, what is needed is an explanation of how having a mind without phenomenal consciousness could be like this, even though it is not at all the way that it seems."
+      }
+    ]
+  }
+}

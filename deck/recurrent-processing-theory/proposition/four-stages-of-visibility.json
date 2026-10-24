@@ -1,0 +1,50 @@
+{
+  "record": "proposition",
+  "id": "4b4bfdfa-8f6a-41b4-ba4d-7e09ba9b2f09",
+  "kind": "empirical",
+  "epistemic_status": "inferred",
+  "title": "Four stages of visibility, from fully invisible to seen and attended",
+  "statements": [
+    {
+      "id": "80297a0d-a43a-4418-8bdb-5dda26751135",
+      "text": "Stimuli fall into four stages: fully invisible (objectively undetectable), subjectively invisible (detectable but reported unseen), unattended (potentially visible but not accessed now), and visible and attended. Masking, flash suppression and blindsight act on the first two, while attentional blink, inattention and change blindness act on the step from the third to the fourth.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "80297a0d-a43a-4418-8bdb-5dda26751135",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b9050313-e369-439d-a181-b751070bb3df",
+        "locator": "abstract, p. 1",
+        "quote": "Four stages of vision are identified, going from the fully invisible, to subjectively invisible, unattended, and clearly visible."
+      },
+      {
+        "source": "b9050313-e369-439d-a181-b751070bb3df",
+        "locator": "p. 6",
+        "quote": "The two types of invisibility thus are clearly different \"beasts,\""
+      }
+    ]
+  }
+}

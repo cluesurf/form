@@ -1,0 +1,50 @@
+{
+  "record": "proposition",
+  "id": "ee6773c2-ec65-44b6-9911-e1c4ca7cb650",
+  "kind": "definitional",
+  "epistemic_status": "designed",
+  "title": "The illusion problem",
+  "statements": [
+    {
+      "id": "e6956eb6-6abc-499f-ad04-b2c9d84a386e",
+      "text": "The illusion problem is the problem of explaining why experiences seem to have phenomenal properties: how the illusion of phenomenality arises and why it is so powerful. Illusionism puts it in place of the hard problem.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "e6956eb6-6abc-499f-ad04-b2c9d84a386e",
+  "status": "active",
+  "voice": "framework",
+  "defines": "illusion problem",
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "60178d6b-6c55-4495-83a5-786a1c742af3",
+        "locator": "eprint p. 1",
+        "quote": "I shall refer to the problem of explaining why experiences seem to have phenomenal properties as the illusion problem."
+      },
+      {
+        "source": "60178d6b-6c55-4495-83a5-786a1c742af3",
+        "locator": "eprint p. 21",
+        "quote": "Illusionism replaces the hard problem with the illusion problem"
+      }
+    ]
+  }
+}

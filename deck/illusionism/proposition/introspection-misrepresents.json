@@ -1,0 +1,45 @@
+{
+  "record": "proposition",
+  "id": "af6b4826-1c3c-4063-9d43-37fe2abd8c2b",
+  "kind": "philosophical",
+  "epistemic_status": "hypothesized",
+  "title": "Introspection is partial and distorted, and misrepresents sensory states",
+  "statements": [
+    {
+      "id": "737a11d9-60a3-463c-afcb-66953ed69b82",
+      "text": "There is introspective awareness of sensory states, but it is partial and distorted, and it misrepresents those states as having phenomenal properties. Introspection may issue directly in dispositions to make phenomenal judgments, or generate intermediate, perhaps quasi-perceptual, representations that ground them. Either way their content must be explained in broadly functional terms.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "737a11d9-60a3-463c-afcb-66953ed69b82",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "60178d6b-6c55-4495-83a5-786a1c742af3",
+        "locator": "eprint p. 3",
+        "quote": "this awareness is partial and distorted, leading us to misrepresent the states as having phenomenal properties"
+      }
+    ]
+  }
+}

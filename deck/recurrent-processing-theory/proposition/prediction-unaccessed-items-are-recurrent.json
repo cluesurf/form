@@ -1,0 +1,45 @@
+{
+  "record": "proposition",
+  "id": "94bc2287-a35d-4449-a615-4f8e552c83f1",
+  "kind": "empirical",
+  "epistemic_status": "hypothesized",
+  "title": "Unaccessed items in partial report will prove recurrent",
+  "statements": [
+    {
+      "id": "5293a41d-c393-4238-acd9-5912462d95f5",
+      "text": "Block, arguing on the theory's side, predicts that in the Sperling, Landman and Sligte partial report experiments the representations of items that are never accessed will turn out to involve recurrent loops.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": "Neural recordings during partial report show that unaccessed items are held only by feedforward or nonrecurrent activity.",
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "5293a41d-c393-4238-acd9-5912462d95f5",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "e46f5f83-75f0-462e-b0d5-86b952498658",
+        "locator": "p. 498",
+        "quote": "One prediction is that in the Sperling, Landman et al., and Sligte et al. experiments the representations of the unaccessed items will prove to involve recurrent loops."
+      }
+    ]
+  }
+}

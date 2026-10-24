@@ -1,0 +1,33 @@
+{
+  "record": "link",
+  "id": "bab1d68a-3e76-4778-8710-10a930015013",
+  "from": "a015f1a4-c9de-42a7-bd73-96eb95f5bf0b",
+  "to": "4e35e155-d252-4816-a8ba-15bf5b865a6c",
+  "relation": "requires",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "124d3bef-4ae5-42c5-98e9-c2bc87a493ce",
+        "locator": "A Theory of Consciousness that Embodies Principles 1 and 2",
+        "quote": "an attention schema could also be used to model the attention states of others, thus contributing to social cognition"
+      },
+      {
+        "source": "f683f12e-8037-4ca0-a414-6a305440e7ec",
+        "locator": "p. 6",
+        "quote": "we are in effect constructing a simplified model of other people’s state of attention"
+      }
+    ]
+  }
+}

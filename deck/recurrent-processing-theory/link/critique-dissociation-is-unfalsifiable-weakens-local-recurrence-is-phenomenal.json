@@ -1,0 +1,33 @@
+{
+  "record": "link",
+  "id": "42ee33f5-b858-40f7-b662-2acdc2f7f3c2",
+  "from": "c2686f51-efb3-4a73-9d2f-4b645a05aed6",
+  "to": "532ceb88-bd11-4104-9ad4-e3d054ccfee9",
+  "relation": "weakens",
+  "strength": null,
+  "rationale": "If no report can show experience apart from access, the claim that local recurrence is experience without access cannot be confirmed or refuted.",
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "fb234a73-1875-4c9a-b224-99e732ee4c31",
+        "locator": "abstract, p. 358",
+        "quote": "we argue that any neurobiological theory based on an experience/function division cannot be empirically confirmed or falsified and is thus outside the scope of science"
+      },
+      {
+        "source": "fb234a73-1875-4c9a-b224-99e732ee4c31",
+        "locator": "Box 1, p. 359",
+        "quote": "The best-known theory that embraces the separation between experience and function is the local recurrency theory put forth by Lamme"
+      }
+    ]
+  }
+}

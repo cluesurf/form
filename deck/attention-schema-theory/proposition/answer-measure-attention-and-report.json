@@ -1,0 +1,45 @@
+{
+  "record": "proposition",
+  "id": "2bc1e9d5-945f-424d-b654-bfe316258539",
+  "kind": "definitional",
+  "epistemic_status": "designed",
+  "title": "Answer: measurement is objective attention and subjective report",
+  "statements": [
+    {
+      "id": "90723a3e-4461-445e-942f-c72b38e3a937",
+      "text": "AST takes no position on measurement in physics. For awareness it uses two measures: objective awareness, discrimination above chance, and subjective awareness, a report of having seen. Attention is measured objectively and set against reports.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "90723a3e-4461-445e-942f-c72b38e3a937",
+  "status": "active",
+  "voice": "framework",
+  "defines": "measurement of awareness",
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "64858e60-e97c-4e3d-8d20-4e3e2c056209",
+        "locator": "p. 4",
+        "quote": "There are two common ways of measuring awareness, and therefore two experimental concepts of awareness: objective and subjective awareness."
+      }
+    ]
+  }
+}

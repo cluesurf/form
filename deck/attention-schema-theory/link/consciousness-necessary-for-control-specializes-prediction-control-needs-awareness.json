@@ -1,0 +1,28 @@
+{
+  "record": "link",
+  "id": "12d7cce2-bf63-4e7a-ab76-812f6b3bc295",
+  "from": "d025fc93-ab27-4fee-ac14-59529da8762c",
+  "to": "daed49d9-48a3-4978-8456-07a83e3d4ff2",
+  "relation": "specializes",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "124d3bef-4ae5-42c5-98e9-c2bc87a493ce",
+        "locator": "Evidence of an Attention Schema",
+        "quote": "without consciousness of an item, attention on the item is still possible, but the control of attention with respect to that item almost entirely breaks down"
+      }
+    ]
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "record": "proposition",
+  "id": "8a4fc689-91c4-46e8-802f-be0f4cb0580d",
+  "kind": "empirical",
+  "epistemic_status": "hypothesized",
+  "title": "Four stages of processing, two unconscious and two conscious",
+  "statements": [
+    {
+      "id": "2443c94d-1f32-49ca-a0e0-5e6241c96b72",
+      "text": "Visual processing passes through four stages: a local feedforward sweep, a deep feedforward sweep that reaches motor and prefrontal areas, local recurrent processing within visual areas, and global recurrent processing that includes frontal areas. The first two are unconscious, the third is phenomenal without access, and the fourth adds access.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "2443c94d-1f32-49ca-a0e0-5e6241c96b72",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "6dd7dbf6-162b-4cc6-99d2-6ac597b93829",
+        "locator": "p. 1537",
+        "quote": "RPT outlines four stages of visual processing"
+      },
+      {
+        "source": "7f15335d-27d6-4836-856e-8f65bdffc569",
+        "locator": "p. 512",
+        "quote": "Phenomenal sensation develops from I1 (unconscious), via I2 (P-conscious), to I3 (A-conscious)."
+      }
+    ]
+  }
+}

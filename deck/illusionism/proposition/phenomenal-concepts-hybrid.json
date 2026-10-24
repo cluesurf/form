@@ -1,0 +1,45 @@
+{
+  "record": "proposition",
+  "id": "8ad58a37-321e-409c-ac54-0638797f4595",
+  "kind": "philosophical",
+  "epistemic_status": "hypothesized",
+  "title": "Phenomenal concepts may be hybrid and fail to refer",
+  "statements": [
+    {
+      "id": "e82f7889-5e09-473e-b863-1441a7b4f55d",
+      "text": "A phenomenal concept may combine a general theoretical concept of a simple, intrinsic, immediately known property of experience with a recognitional concept for a type of sensory state. Since the recognitional capacity picks out a complex physical property, the hybrid concept fails to refer, and the theoretical concept may shape introspection so that sensory states are introspected as phenomenal.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "e82f7889-5e09-473e-b863-1441a7b4f55d",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "60178d6b-6c55-4495-83a5-786a1c742af3",
+        "locator": "eprint p. 21",
+        "quote": "Another possibility is that phenomenal concepts are hybrid ones."
+      }
+    ]
+  }
+}

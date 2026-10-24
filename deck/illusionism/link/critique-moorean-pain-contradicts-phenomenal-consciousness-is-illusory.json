@@ -1,0 +1,33 @@
+{
+  "record": "link",
+  "id": "03b57196-cb8e-487b-8bc1-b2474cc6df7b",
+  "from": "e3eee960-3856-4824-a7cd-bba2bd44fca9",
+  "to": "5eb9d0b6-5fe3-4d17-a47a-b14d497871df",
+  "relation": "contradicts",
+  "strength": null,
+  "rationale": "If people feel pain in the phenomenal sense, there is phenomenal consciousness.",
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "a674a239-2ee2-4dff-968c-41e3daaa5217",
+        "locator": "p. 53",
+        "quote": "Strong illusionism is not incoherent, but I think it is empirically false."
+      },
+      {
+        "source": "a674a239-2ee2-4dff-968c-41e3daaa5217",
+        "locator": "p. 54",
+        "quote": "I think illusionism is obviously false, because it is obvious that people feel pain."
+      }
+    ]
+  }
+}

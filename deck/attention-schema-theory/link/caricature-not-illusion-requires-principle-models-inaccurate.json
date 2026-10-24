@@ -1,0 +1,33 @@
+{
+  "record": "link",
+  "id": "6b42d398-fa82-4b73-9ff0-8c85dd7a6446",
+  "from": "ddab98b3-05e6-448f-9599-b29f769c7ffb",
+  "to": "aaf7f1c4-68f4-47cb-b34c-3e6e6d38745b",
+  "relation": "requires",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "3595df3f-fe9a-4f97-b178-2b1fe3de34f6",
+        "locator": "Discussion",
+        "quote": "we argue that consciousness is probably better described as a caricature than an illusion"
+      },
+      {
+        "source": "2cb939ab-6f91-4eb0-9b6f-8312ab0bb184",
+        "locator": "Attention schema theory",
+        "quote": "Consciousness is not an empty illusion. It is a distortion or caricature of something real: selective attention."
+      }
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "record": "link",
+  "id": "26cd3031-916b-469d-814f-ef5828134b2c",
+  "from": "a6707918-63ff-42cb-9ec1-6ed33012be56",
+  "to": "013cb2ec-56be-4b4b-9fb7-095146869ae8",
+  "relation": "supports",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "e3de91d3-ef9c-49b2-a711-bf6966c2cca3",
+        "locator": "p. 4",
+        "quote": "After chemically deactivating the respective thalamic nucleus, the activation of S2 was eliminated"
+      }
+    ]
+  }
+}

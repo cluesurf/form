@@ -1,0 +1,50 @@
+{
+  "record": "proposition",
+  "id": "8dbc7630-278a-4196-9b64-48bffb21e5bc",
+  "kind": "empirical",
+  "epistemic_status": "hypothesized",
+  "title": "If AST is right, machine consciousness is buildable",
+  "statements": [
+    {
+      "id": "4255d52d-67df-49e9-a968-569d065ca205",
+      "text": "A machine with attention, a rich model of attention it applies to itself and to others, and cognitive access to that model would believe and claim it is conscious in the sense in which people do, and this can be built with current technology.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "4255d52d-67df-49e9-a968-569d065ca205",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "f683f12e-8037-4ca0-a414-6a305440e7ec",
+        "locator": "p. 7",
+        "quote": "If AST is correct, then consciousness is buildable with current technology."
+      },
+      {
+        "source": "f683f12e-8037-4ca0-a414-6a305440e7ec",
+        "locator": "abstract, p. 1",
+        "quote": "Such a machine would “believe” it is conscious and act like it is conscious, in the same sense that the human machine believes and acts."
+      }
+    ]
+  }
+}

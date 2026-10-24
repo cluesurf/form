@@ -1,0 +1,45 @@
+{
+  "record": "proposition",
+  "id": "fd632122-e8e2-48d2-abef-fd53fabc8f19",
+  "kind": "empirical",
+  "epistemic_status": "hypothesized",
+  "title": "Answer: conscious seeing emerges as recurrence integrates features",
+  "statements": [
+    {
+      "id": "b67cba7c-ad21-4835-9d7b-2cbaf351f798",
+      "text": "Conscious seeing emerges when recurrent interactions among visual areas integrate separately extracted features into an organized, unitary percept, which the feedforward sweep alone does not produce.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "b67cba7c-ad21-4835-9d7b-2cbaf351f798",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b9050313-e369-439d-a181-b751070bb3df",
+        "locator": "p. 7",
+        "quote": "is probably best explained by visual processing going from (low and high level) feature extraction toward integrating those features into a coherent and integrated whole"
+      }
+    ]
+  }
+}

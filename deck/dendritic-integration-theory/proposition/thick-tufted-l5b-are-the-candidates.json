@@ -1,0 +1,45 @@
+{
+  "record": "proposition",
+  "id": "de0c1d54-5a4d-412f-a4a6-beda001adcb8",
+  "kind": "empirical",
+  "epistemic_status": "hypothesized",
+  "title": "Thick-tufted layer 5B neurons are the cell type most tied to consciousness",
+  "statements": [
+    {
+      "id": "73df9704-e02e-4791-9c20-51ec7d6aa526",
+      "text": "If one cell type had to be picked, it would be the thick-tufted layer 5B neurons: the major output neurons of the cortex, which project heavily to the nonspecific thalamus and receive long-range cortico-cortical input on their apical dendrites.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "73df9704-e02e-4791-9c20-51ec7d6aa526",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "e3de91d3-ef9c-49b2-a711-bf6966c2cca3",
+        "locator": "p. 6",
+        "quote": "If we would have to pick one specific type of neuron, then it would be the thick-tufted L5B neurons"
+      }
+    ]
+  }
+}

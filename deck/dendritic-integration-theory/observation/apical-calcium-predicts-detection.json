@@ -1,0 +1,44 @@
+{
+  "record": "observation",
+  "id": "920c0dfa-a8d0-4adb-b903-966096b5a03b",
+  "kind": "experimental_result",
+  "epistemic_status": "observed",
+  "description": "In awake mice detecting weak whisker stimuli near threshold, apical calcium signals in layer 5 neurons matched the psychometric curve and predicted hits and misses, and pharmacological or optogenetic modulation of apical activity shifted the curve, with apical enhancement causing false alarms (Takahashi et al. 2016, as reported by Aru et al.).",
+  "method": "experiment",
+  "status": "reported",
+  "source": "e3de91d3-ef9c-49b2-a711-bf6966c2cca3",
+  "procedure": null,
+  "variable": null,
+  "value": null,
+  "unit": null,
+  "uncertainty": null,
+  "sample_size": null,
+  "replication_count": null,
+  "quality": null,
+  "limitations": "Reported secondhand in Aru et al. 2019. The original Science paper is not read here. Mice, one laboratory, with detection behavior standing in for conscious report.",
+  "conflicts_of_interest": null,
+  "observed_at": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "e3de91d3-ef9c-49b2-a711-bf6966c2cca3",
+        "locator": "p. 4",
+        "quote": "the apical dendritic signals could predict the behavioral hits and misses of threshold stimuli"
+      },
+      {
+        "source": "e3de91d3-ef9c-49b2-a711-bf6966c2cca3",
+        "locator": "p. 5",
+        "quote": "had a measurable influence on the detection behavior of the animal by shifting the psychometric curve"
+      }
+    ]
+  }
+}

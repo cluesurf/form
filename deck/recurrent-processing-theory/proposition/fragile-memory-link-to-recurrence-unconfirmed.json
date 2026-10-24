@@ -1,0 +1,50 @@
+{
+  "record": "proposition",
+  "id": "99da74e1-54d5-4118-a385-5d31ab28e96d",
+  "kind": "empirical",
+  "epistemic_status": "hypothesized",
+  "title": "The link of fragile memory to recurrence awaits neural evidence",
+  "statements": [
+    {
+      "id": "b230648e-10b5-42c2-8517-17ff974ffdb2",
+      "text": "Whether fragile visual short-term memory is carried by recurrent processing is not yet shown. Its few-second lifetime suggests a reverberating cortical process, but neurophysiological measures have to confirm it.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "b230648e-10b5-42c2-8517-17ff974ffdb2",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "6b250a16-3a5f-4cbc-9c31-1fbc84d6607d",
+        "locator": "p. 7",
+        "quote": "Still, neurophysiologic measures will have to confirm this link."
+      },
+      {
+        "source": "acc436b3-6915-42a4-a77a-ad2804301daf",
+        "locator": "p. 513",
+        "quote": "Preliminary data provides some indirect evidence for this, by showing a cortical origin and a long-lasting, reverberating nature."
+      }
+    ]
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "record": "proposition",
+  "id": "52bc7e6b-ee7c-4309-944c-03f1da72299c",
+  "kind": "empirical",
+  "epistemic_status": "hypothesized",
+  "title": "Answer: two kinds of information meet in one neuron",
+  "statements": [
+    {
+      "id": "48973645-1936-4cec-a0e1-0c13f2a3c76a",
+      "text": "The theory gives no formal definition of information. It distinguishes two categorically distinct kinds that meet in a layer 5 neuron: externally grounded information processed by the basal compartment and internally generated information processed by the apical compartment.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "48973645-1936-4cec-a0e1-0c13f2a3c76a",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "3519c086-a3e3-4b1c-9631-78b193482d93",
+        "locator": "p. 9",
+        "quote": "the basal compartment (red) processes externally-grounded information whereas the apical compartment (orange) processes internally-generated information"
+      }
+    ]
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "record": "observation",
+  "id": "dc441f67-76ea-49ac-a10c-c9c11eb4f4a7",
+  "kind": "experimental_result",
+  "epistemic_status": "observed",
+  "description": "Words missed during the attentional blink and rated at zero visibility still evoked strong, long-lasting brain potentials up to 300 ms after presentation (Sergent et al. 2005, as reported by Sergent and Rees).",
+  "method": "instrument",
+  "status": "reported",
+  "source": "e31c9bb7-0ea8-45b4-8369-43aa406075c6",
+  "procedure": null,
+  "variable": null,
+  "value": null,
+  "unit": null,
+  "uncertainty": null,
+  "sample_size": null,
+  "replication_count": null,
+  "quality": null,
+  "limitations": "Reported secondhand in a commentary. The original study is not read here.",
+  "conflicts_of_interest": null,
+  "observed_at": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "e31c9bb7-0ea8-45b4-8369-43aa406075c6",
+        "locator": "p. 524",
+        "quote": "elicited strong, long-lasting brain potentials up to 300 msecs after they had been presented"
+      }
+    ]
+  }
+}

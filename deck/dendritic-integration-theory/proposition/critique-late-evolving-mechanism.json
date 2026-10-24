@@ -1,0 +1,50 @@
+{
+  "record": "proposition",
+  "id": "d773240a-1ceb-415f-b60a-4beac91f7d9e",
+  "kind": "empirical",
+  "epistemic_status": "inferred",
+  "title": "Critique: the apical mechanism appears late in development and evolution",
+  "statements": [
+    {
+      "id": "5c3e9c2d-a3a0-481a-87a6-f112f35617cb",
+      "text": "Apical amplification arises late in both phylogenetic and ontogenetic development and has not been found in hippocampus, olfactory cortex or subcortical regions. Tying consciousness to it would deny consciousness to infants and to species without a neocortex, unless different forms of consciousness are distinguished.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "5c3e9c2d-a3a0-481a-87a6-f112f35617cb",
+  "status": "active",
+  "voice": "critique",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "d02af59e-fe46-4e8e-9b13-3c1a29a6963f",
+        "locator": "section Implications for Theories Relating Apical Amplification to States of Consciousness",
+        "quote": "the capability for AA within pyramidal cells arises late in the course of both phylogenetic and ontogenetic development"
+      },
+      {
+        "source": "d02af59e-fe46-4e8e-9b13-3c1a29a6963f",
+        "locator": "section Implications for Theories Relating Apical Amplification to States of Consciousness",
+        "quote": "unless we deny any form of consciousness to infants or to species lacking a neocortex"
+      }
+    ]
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "record": "link",
+  "id": "0f4bb595-5f83-49b9-a72d-3d8bef548716",
+  "from": "8ae58376-c9bd-4670-b767-e544bfa4967d",
+  "to": "ee6773c2-ec65-44b6-9911-e1c4ca7cb650",
+  "relation": "generalizes",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "a674a239-2ee2-4dff-968c-41e3daaa5217",
+        "locator": "p. 6",
+        "quote": "the problem of explaining why we think that there is a problem of consciousness"
+      },
+      {
+        "source": "a674a239-2ee2-4dff-968c-41e3daaa5217",
+        "locator": "p. 10",
+        "quote": "In effect, the meta-problem subsumes the illusion problem while being more general and more neutral."
+      }
+    ]
+  }
+}

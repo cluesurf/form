@@ -1,0 +1,50 @@
+{
+  "record": "proposition",
+  "id": "44275afa-efe4-45b8-b986-cef4f56df909",
+  "kind": "empirical",
+  "epistemic_status": "hypothesized",
+  "title": "During conscious states the two compartments are coupled",
+  "statements": [
+    {
+      "id": "fe46108d-9f27-4a73-a394-10a45c82d723",
+      "text": "Global conscious integration depends on local integration within single layer 5 pyramidal neurons. During conscious states their apical and basal compartments are coupled, which lets information flow through thalamo-cortical and cortico-cortical connections and enables system-wide integration.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "fe46108d-9f27-4a73-a394-10a45c82d723",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "3519c086-a3e3-4b1c-9631-78b193482d93",
+        "locator": "p. 9",
+        "quote": "it is proposed that global conscious integration also depends on local integration on the level of single layer 5 pyramidal neurons"
+      },
+      {
+        "source": "3519c086-a3e3-4b1c-9631-78b193482d93",
+        "locator": "p. 9",
+        "quote": "during conscious states, these two compartments are coupled, i.e., integrated"
+      }
+    ]
+  }
+}

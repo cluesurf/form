@@ -1,0 +1,39 @@
+{
+  "record": "observation",
+  "id": "3477e224-0b68-428f-a195-363686249f78",
+  "kind": "experimental_result",
+  "epistemic_status": "observed",
+  "description": "Judging whether a face was conscious of a nearby object, some people relied on gaze, some on expression and some integrated both, and scores on two standard social cognition tests correlated with how well people integrated the cues, not with reliance on gaze.",
+  "method": "experiment",
+  "status": "reported",
+  "source": "fac99a9d-34e2-480f-a153-8579ad6cd3c0",
+  "procedure": null,
+  "variable": null,
+  "value": null,
+  "unit": null,
+  "uncertainty": null,
+  "sample_size": null,
+  "replication_count": null,
+  "quality": null,
+  "limitations": "A preprint, from Graziano’s group, using pictured faces.",
+  "conflicts_of_interest": null,
+  "observed_at": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "fac99a9d-34e2-480f-a153-8579ad6cd3c0",
+        "locator": "abstract, p. 2",
+        "quote": "social cognitive ability correlated best with the degree to which people successfully integrated the cues together"
+      }
+    ]
+  }
+}

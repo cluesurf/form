@@ -1,0 +1,50 @@
+{
+  "record": "proposition",
+  "id": "9861ecc5-c1ec-42a4-a5d5-91d75f82603e",
+  "kind": "philosophical",
+  "epistemic_status": "hypothesized",
+  "title": "Dennett is and has always been a strong illusionist",
+  "statements": [
+    {
+      "id": "68229e87-00a7-4486-b0cc-ec4672dc0257",
+      "text": "Dennett confirms that he is, and has always been, a strong illusionist, and holds that answering the hard question may make both the hard problem and the meta-problem evaporate.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "68229e87-00a7-4486-b0cc-ec4672dc0257",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "32d0343d-c802-413c-a31b-2d55e8c6e02b",
+        "locator": "p. 48",
+        "quote": "I am, and have always been, a card-carrying strong illusionist"
+      },
+      {
+        "source": "32d0343d-c802-413c-a31b-2d55e8c6e02b",
+        "locator": "p. 48",
+        "quote": "will make both the hard problem and the meta-problem of consciousness evaporate"
+      }
+    ]
+  }
+}

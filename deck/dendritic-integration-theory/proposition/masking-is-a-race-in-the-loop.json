@@ -1,0 +1,45 @@
+{
+  "record": "proposition",
+  "id": "92a620a6-fd5e-400f-930b-82e0bb85b36d",
+  "kind": "empirical",
+  "epistemic_status": "hypothesized",
+  "title": "Backward masking is a race through the thalamic loop",
+  "statements": [
+    {
+      "id": "314d4c9a-8d0c-4a04-b923-936b4ad2ed5d",
+      "text": "A masked target activates layer 5 neurons and starts the thalamocortical loop, but by the time activity returns from the nonspecific thalamus to the apical dendrites, the mask has taken over the early cortical representation. The target starts the loop and the mask benefits from it.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "314d4c9a-8d0c-4a04-b923-936b4ad2ed5d",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "e3de91d3-ef9c-49b2-a711-bf6966c2cca3",
+        "locator": "p. 5",
+        "quote": "The target starts the loop, but the mask benefits from it."
+      }
+    ]
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "record": "proposition",
+  "id": "9684510a-5719-4d16-b384-5417480071c5",
+  "kind": "empirical",
+  "epistemic_status": "observed",
+  "title": "Critique: feedback is not only modulatory",
+  "statements": [
+    {
+      "id": "d96d736a-5d63-447f-9673-4811ae827edf",
+      "text": "Apical accounts assume that feedforward signals drive and feedback signals modulate. Evidence on class 1 and class 2 synapses contradicts that assumption, since feedforward modulation and feedback drive are also common, and whether class follows dendritic site is unknown.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "d96d736a-5d63-447f-9673-4811ae827edf",
+  "status": "active",
+  "voice": "critique",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "11ecff74-e3d4-4bb8-84de-05045a9b264b",
+        "locator": "Unresolved issues and difficulties, p. 11",
+        "quote": "The evidence reviewed by Sherman clearly contradicts that assumption"
+      },
+      {
+        "source": "11ecff74-e3d4-4bb8-84de-05045a9b264b",
+        "locator": "Unresolved issues and difficulties, p. 11",
+        "quote": "feedforward modulation and feedback drive are also common"
+      }
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "record": "link",
+  "id": "6fb7f4bb-fedf-470f-ae8e-6b92395f0671",
+  "from": "8d41031f-8985-412c-ac58-8d9c86ac43da",
+  "to": "b6acb562-981e-4628-afa6-9656f0e92451",
+  "relation": "requires",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "18284858-8ad4-49e0-b7f6-d13c8a90227b",
+        "locator": "p. 1534",
+        "quote": "It hypothesizes that both AC and PC involve simultaneous completion of these loops due to dendritic processing."
+      }
+    ]
+  }
+}

@@ -1,0 +1,11 @@
+# Recurrent Processing Theory
+
+Community-written from public sources, AI-extracted, unreviewed. Not written or endorsed by Victor Lamme. To propose a correction, open an issue or pull request that changes the record and cites the source.
+
+This is a [form.surf](https://form.surf) model repository for the recurrent processing theory of Victor Lamme: visual information first sweeps forward through the cortex without any experience, and seeing begins when higher visual areas feed back to lower ones. Recurrent processing confined to visual areas is phenomenal consciousness, and recurrent processing that reaches frontal and motor areas adds access, the ability to report and use what is seen. The distinction between a feedforward and a recurrent mode of vision comes from the 2000 paper by Lamme and Pieter Roelfsema. This repository names Lamme alone as originator, since the theory of consciousness built on that distinction, its stage model and its identification of local recurrence with experience, are his. Roelfsema is credited here as coauthor of the 2000 paper. The 2000 paper and several other founding papers were not read for this repository. Their claims are cited through Lamme's 2020 review, his 2007 commentary in Behavioral and Brain Sciences, and later reviews that summarize them.
+
+Each claim is one JSON record in `proposition/`, with its kind (definitional, empirical, philosophical, normative), its epistemic status, and the source and page it was taken from. Experimental findings are in `observation/`, each pointing at the paper that reports it, with a note on whether the finding comes from Lamme's own group or from other laboratories. `link/` joins claims to each other and to evidence. Published objections, from Cohen and Dennett, from commentators on Block's 2007 target article, and from the 2024 multiscale review in Neuron, are kept as claims with `voice: "critique"`. A Templeton World Charity Foundation adversarial collaboration testing the theory against higher-order theories is recorded with its outcome not yet reported.
+
+Every record has `provenance.ai_written: true` and `reviewed: false` until a named person checks it against its sources.
+
+Format: form.surf/1. Check with `form check .`.

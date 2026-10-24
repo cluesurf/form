@@ -1,0 +1,28 @@
+{
+  "record": "link",
+  "id": "b385b3e5-61a8-4540-b448-206d82ff3923",
+  "from": "fd632122-e8e2-48d2-abef-fd53fabc8f19",
+  "to": "c48f4fda-c825-4879-b6b6-14b0a9e8799f",
+  "relation": "requires",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b9050313-e369-439d-a181-b751070bb3df",
+        "locator": "p. 7",
+        "quote": "is probably best explained by visual processing going from (low and high level) feature extraction toward integrating those features into a coherent and integrated whole"
+      }
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "record": "link",
+  "id": "86c731f9-8402-404a-8ee6-768ea91eb9e4",
+  "from": "de0c1d54-5a4d-412f-a4a6-beda001adcb8",
+  "to": "b6acb562-981e-4628-afa6-9656f0e92451",
+  "relation": "specializes",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "e3de91d3-ef9c-49b2-a711-bf6966c2cca3",
+        "locator": "p. 6",
+        "quote": "If we would have to pick one specific type of neuron, then it would be the thick-tufted L5B neurons"
+      }
+    ]
+  }
+}

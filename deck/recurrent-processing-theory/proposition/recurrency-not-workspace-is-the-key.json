@@ -1,0 +1,50 @@
+{
+  "record": "proposition",
+  "id": "599464a8-6b71-4a3b-997a-0f0bcfa4fb28",
+  "kind": "empirical",
+  "epistemic_status": "inferred",
+  "title": "Recurrency, not frontal workspace activation, makes a state conscious",
+  "statements": [
+    {
+      "id": "83eba217-5c75-4abc-b8ef-f5be905efedc",
+      "text": "Fully unconscious feedforward activity can already activate prefrontal workspace neurons, so the feature that separates conscious from unconscious states is recurrence, not the activation of the frontal workspace.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "83eba217-5c75-4abc-b8ef-f5be905efedc",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "7f15335d-27d6-4836-856e-8f65bdffc569",
+        "locator": "p. 512",
+        "quote": "also in fully unconscious feedforward activation (I1), there is activation of workspace neurons"
+      },
+      {
+        "source": "7f15335d-27d6-4836-856e-8f65bdffc569",
+        "locator": "p. 512",
+        "quote": "seems to be the recurrency, not the activation of workspace (frontal) neurons"
+      }
+    ]
+  }
+}

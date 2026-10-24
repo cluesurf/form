@@ -1,0 +1,33 @@
+{
+  "record": "link",
+  "id": "bc74da08-8f3f-4882-bd55-b4a0b355eebb",
+  "from": "2bd74d06-d3af-4947-b73f-315d458e5461",
+  "to": "b016ce88-7dbb-4acd-9a64-064927e58623",
+  "relation": "requires",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "3519c086-a3e3-4b1c-9631-78b193482d93",
+        "locator": "p. 9",
+        "quote": "we are hesitant to ascribe phenomenal consciousness to present-day LLMs, which are topologically extremely simple in comparison"
+      },
+      {
+        "source": "3519c086-a3e3-4b1c-9631-78b193482d93",
+        "locator": "p. 9",
+        "quote": "Although we are not arguing that the mammalian brain is the only architecture capable of supporting conscious awareness"
+      }
+    ]
+  }
+}

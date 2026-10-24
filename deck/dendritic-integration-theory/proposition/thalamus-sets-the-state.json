@@ -1,0 +1,45 @@
+{
+  "record": "proposition",
+  "id": "4c670115-fba8-4b57-9111-7e4844c08243",
+  "kind": "empirical",
+  "epistemic_status": "inferred",
+  "title": "Nonspecific thalamic nuclei set the state of consciousness",
+  "statements": [
+    {
+      "id": "d9bd1aaf-5429-4999-b9f7-4de5c5c8d8c7",
+      "text": "Sleep and waking transitions, the common thalamic target of general anesthetics, arousal from thalamic stimulation and loss of consciousness after thalamic injury place the nonspecific thalamus in a position to control the state and level of consciousness.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "d9bd1aaf-5429-4999-b9f7-4de5c5c8d8c7",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "e3de91d3-ef9c-49b2-a711-bf6966c2cca3",
+        "locator": "p. 2",
+        "quote": "thalamus is in an optimal position to modulate and control the state and level of consciousness"
+      }
+    ]
+  }
+}

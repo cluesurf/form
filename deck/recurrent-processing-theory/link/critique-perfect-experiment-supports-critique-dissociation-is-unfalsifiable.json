@@ -1,0 +1,33 @@
+{
+  "record": "link",
+  "id": "939a615f-ca1f-4110-9711-62e0377518ee",
+  "from": "9341b8ea-39e6-4101-b73e-22833f2dcf5a",
+  "to": "c2686f51-efb3-4a73-9d2f-4b645a05aed6",
+  "relation": "supports",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "fb234a73-1875-4c9a-b224-99e732ee4c31",
+        "locator": "p. 361",
+        "quote": "imagine that, in the future, surgeons are able to isolate the parts of the visual cortex that represent color while wholly preserving their activation patterns"
+      },
+      {
+        "source": "fb234a73-1875-4c9a-b224-99e732ee4c31",
+        "locator": "p. 362",
+        "quote": "If this 'perfect experiment' could not definitively disprove dissociative theories, then what could?"
+      }
+    ]
+  }
+}

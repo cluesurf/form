@@ -1,0 +1,28 @@
+{
+  "record": "link",
+  "id": "f81ff35d-e1c5-4d5f-a57f-6cc24a8a5279",
+  "from": "d4d3c098-1e3b-4968-8f23-0bf7b4d1508c",
+  "to": "97137e66-5a4c-4fe5-9416-9b278079f19b",
+  "relation": "weakens",
+  "strength": null,
+  "rationale": "If uncued items are held unconsciously until the cue, the high-capacity store shows unconscious storage, not experience without access.",
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "fb234a73-1875-4c9a-b224-99e732ee4c31",
+        "locator": "p. 359",
+        "quote": "Participants can identify cued items because their identities are stored unconsciously until the cue brings them to the focus of"
+      }
+    ]
+  }
+}

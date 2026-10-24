@@ -1,0 +1,50 @@
+{
+  "record": "proposition",
+  "id": "532ceb88-bd11-4104-9ad4-e3d054ccfee9",
+  "kind": "empirical",
+  "epistemic_status": "hypothesized",
+  "title": "Recurrence confined to visual areas is phenomenal experience",
+  "statements": [
+    {
+      "id": "4ca8b27d-262d-442e-883f-953e476fd140",
+      "text": "Recurrent processing that stays within visual areas, without reaching frontal or motor cortex, is phenomenal experience without access. Such states are grouped with fully reportable states rather than with the unconscious feedforward sweep.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": "States of local recurrence in visual cortex turn out to lack the marks of conscious percepts, such as binding and figure-ground organization, and to behave like feedforward processing.",
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "4ca8b27d-262d-442e-883f-953e476fd140",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "7f15335d-27d6-4836-856e-8f65bdffc569",
+        "locator": "p. 512",
+        "quote": "localized recurrent processing is conscious processing"
+      },
+      {
+        "source": "7f15335d-27d6-4836-856e-8f65bdffc569",
+        "locator": "p. 512",
+        "quote": "Occam’s razor thus obliges us to group I2 with I3, not with I1, and to attribute phenomenality to both I3 and I2."
+      }
+    ]
+  }
+}

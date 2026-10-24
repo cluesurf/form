@@ -1,0 +1,45 @@
+{
+  "record": "proposition",
+  "id": "ff2b3546-1528-41c3-8b29-a9090e362ee7",
+  "kind": "definitional",
+  "epistemic_status": "designed",
+  "title": "Awareness, consciousness and subjective experience name one target",
+  "statements": [
+    {
+      "id": "2a04a765-2b74-4958-a524-490548564bfa",
+      "text": "AST uses awareness, consciousness and subjective experience interchangeably for subjective awareness: a person judging, in their own opinion, that they perceived something. This is the component lost in blindsight and neglect, distinct from objective awareness, the ability to discriminate a stimulus above chance.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "2a04a765-2b74-4958-a524-490548564bfa",
+  "status": "active",
+  "voice": "framework",
+  "defines": "subjective awareness",
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "64858e60-e97c-4e3d-8d20-4e3e2c056209",
+        "locator": "p. 4",
+        "quote": "The attention schema theory aims to explain the nature and possible function of subjective awareness, the component that is lost in blindsight and neglect."
+      }
+    ]
+  }
+}

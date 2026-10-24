@@ -1,0 +1,50 @@
+{
+  "record": "proposition",
+  "id": "a5c271c3-59b4-4204-92f1-d106d4222363",
+  "kind": "empirical",
+  "epistemic_status": "inferred",
+  "title": "Feature extraction and categorization are not the correlate of seeing",
+  "statements": [
+    {
+      "id": "9ae7d769-1bf7-4272-96b9-0217f708e349",
+      "text": "Feature extraction, categorization and some perceptual interference and inference occur whether or not a stimulus is seen, so they are excluded from the neural correlate of conscious seeing. Face-selective cells signal the category face without that being the same as seeing a face.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "9ae7d769-1bf7-4272-96b9-0217f708e349",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b9050313-e369-439d-a181-b751070bb3df",
+        "locator": "p. 7",
+        "quote": "feature extraction, categorization, some interference and inference occur regardless of whether one is conscious of the visual stimulus or not"
+      },
+      {
+        "source": "b9050313-e369-439d-a181-b751070bb3df",
+        "locator": "p. 7",
+        "quote": "this is by no means similar to consciously seeing a face"
+      }
+    ]
+  }
+}

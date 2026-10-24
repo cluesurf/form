@@ -1,0 +1,33 @@
+{
+  "record": "link",
+  "id": "166596af-6e7b-49ca-b0cd-9972ffe5c6b0",
+  "from": "994db9c6-5800-475c-9e9b-4ec9d80c2ba9",
+  "to": "a1b7af33-0806-4666-ab97-40cd96d1c117",
+  "relation": "requires",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "60178d6b-6c55-4495-83a5-786a1c742af3",
+        "locator": "eprint p. 12",
+        "quote": "it is an unstable position, continually on the verge of collapsing into illusionism"
+      },
+      {
+        "source": "60178d6b-6c55-4495-83a5-786a1c742af3",
+        "locator": "eprint p. 13",
+        "quote": "There is a conflation of phenomenality with the representation of phenomenality, and thus of realism with illusionism."
+      }
+    ]
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "record": "proposition",
+  "id": "6cb6a9db-db88-45c6-a5d1-5536e48c64e0",
+  "kind": "philosophical",
+  "epistemic_status": "inferred",
+  "title": "AST is an illusionized higher-order theory",
+  "statements": [
+    {
+      "id": "06f1993c-dd93-4876-a086-5d6a3be3c1dc",
+      "text": "A model of attention is one cognitive process applied to another, so AST is a form of higher-order theory. The model is not a volitional thought but as automatic as the body schema, and it does not make a state conscious: it is the information behind the claim to be conscious.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "06f1993c-dd93-4876-a086-5d6a3be3c1dc",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "61ac5725-c520-44e1-bde8-528292ef2815",
+        "locator": "p. 10",
+        "quote": "One might call AST an illusionized version of HOT, or i-HOT."
+      },
+      {
+        "source": "2cb939ab-6f91-4eb0-9b6f-8312ab0bb184",
+        "locator": "Computational models and computer simulations",
+        "quote": "It is not a theory in which having a HOT makes you conscious. Rather it is a theory in which you have a HOT that tells you that you have consciousness."
+      },
+      {
+        "source": "98cf8e41-7fe4-43ac-8c49-6fbe3fde4e3e",
+        "locator": null,
+        "quote": null
+      }
+    ]
+  }
+}

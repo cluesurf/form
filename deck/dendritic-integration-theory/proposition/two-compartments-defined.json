@@ -1,0 +1,45 @@
+{
+  "record": "proposition",
+  "id": "7e8af1bb-bcf9-4a5a-a0a6-41f5efaee995",
+  "kind": "definitional",
+  "epistemic_status": "designed",
+  "title": "The somatic and apical compartments of a layer 5 pyramidal neuron",
+  "statements": [
+    {
+      "id": "b6214b84-af2f-489c-99e0-26e157bf0950",
+      "text": "A cortical layer 5 pyramidal neuron has two functionally distinct sites of integration: the somatic compartment at the cell body, fed by the basal dendrites, and the apical compartment near the top of the apical trunk, fed by the tuft dendrites in layer 1.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "b6214b84-af2f-489c-99e0-26e157bf0950",
+  "status": "active",
+  "voice": "framework",
+  "defines": "somatic and apical compartments",
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "e3de91d3-ef9c-49b2-a711-bf6966c2cca3",
+        "locator": "p. 4",
+        "quote": "Cortical L5p neurons have two functionally distinct sites of integration, one in the soma (somatic compartment) and one near the top of their apical trunk (apical compartment"
+      }
+    ]
+  }
+}

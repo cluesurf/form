@@ -1,0 +1,50 @@
+{
+  "record": "proposition",
+  "id": "73221609-56f8-412d-b85a-a5c19b9cffef",
+  "kind": "empirical",
+  "epistemic_status": "hypothesized",
+  "title": "A thought experiment: emancipating a remotely piloted drone",
+  "statements": [
+    {
+      "id": "30ef8ff6-cf2b-4691-a4ea-2dd900f4bc54",
+      "text": "Frankish and Dennett sketch the design of an autonomous drone made by moving a human pilot’s controls into the drone, with simpler surrogate representation-users that achieve the same control with less comprehension and no consciousness. The goal is a drone that can report what it is like to be it, which needs it to notice its own noticing. The project is a thought experiment, not built.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "30ef8ff6-cf2b-4691-a4ea-2dd900f4bc54",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "32d0343d-c802-413c-a31b-2d55e8c6e02b",
+        "locator": "p. 56",
+        "quote": "We are looking at the task of taking a military drone, controlled remotely by a human pilot, and emancipating it"
+      },
+      {
+        "source": "32d0343d-c802-413c-a31b-2d55e8c6e02b",
+        "locator": "p. 57",
+        "quote": "We want our robot drone to be able to tell us what it is like to be it"
+      }
+    ]
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "record": "link",
+  "id": "e4cf537a-786b-4ad0-adac-02a66a2a57fc",
+  "from": "b2f4bce2-7c36-4aec-ab76-c80e5116874c",
+  "to": "ec8744b8-35ca-438f-b48c-63eb48570bc6",
+  "relation": "answers",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "3595df3f-fe9a-4f97-b178-2b1fe3de34f6",
+        "locator": "Discussion",
+        "quote": "AST is an engineering theory that operates only within the physical world."
+      },
+      {
+        "source": "124d3bef-4ae5-42c5-98e9-c2bc87a493ce",
+        "locator": "Two General Principles",
+        "quote": "By turning experience into an irreducible fundamental, the view has blocked progress in understanding consciousness."
+      }
+    ]
+  }
+}

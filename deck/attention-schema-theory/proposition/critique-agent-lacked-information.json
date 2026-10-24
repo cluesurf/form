@@ -1,0 +1,45 @@
+{
+  "record": "proposition",
+  "id": "b839e39a-4862-4bc1-be4e-8cac41afee5d",
+  "kind": "empirical",
+  "epistemic_status": "inferred",
+  "title": "Critique: the agent without a schema lacked the information",
+  "statements": [
+    {
+      "id": "8be8063d-b108-4f25-aa37-5c3892a00553",
+      "text": "An agent deprived of its attention schema may have failed simply because it no longer had the information needed for the task, which would make the result trivial.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "8be8063d-b108-4f25-aa37-5c3892a00553",
+  "status": "active",
+  "voice": "critique",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "3595df3f-fe9a-4f97-b178-2b1fe3de34f6",
+        "locator": "Discussion",
+        "quote": "One possible criticism of the present findings might be that, when the artificial agent was robbed of its attention schema, it did not have sufficient information to solve the game"
+      }
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "record": "link",
+  "id": "ed6aa786-c27e-4256-96c7-78b315c23d74",
+  "from": "19536ed4-0db5-4548-a216-e2ccb442dd41",
+  "to": "d025fc93-ab27-4fee-ac14-59529da8762c",
+  "relation": "requires",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "3595df3f-fe9a-4f97-b178-2b1fe3de34f6",
+        "locator": "Discussion",
+        "quote": "it is for this reason that our complex planning and behavior depends on awareness"
+      }
+    ]
+  }
+}

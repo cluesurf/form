@@ -1,0 +1,45 @@
+{
+  "record": "proposition",
+  "id": "e1b6d910-f7e5-4f20-aa65-d781d2d50003",
+  "kind": "empirical",
+  "epistemic_status": "inferred",
+  "title": "Awareness covers whatever attention covers",
+  "statements": [
+    {
+      "id": "52e091f5-dd21-47cb-9200-6e8bf662f85c",
+      "text": "Attention applies to every sense and to thoughts, emotions and memories, so a model of attention should apply to the same domains, which accounts for awareness of both external and internal events.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "52e091f5-dd21-47cb-9200-6e8bf662f85c",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "64858e60-e97c-4e3d-8d20-4e3e2c056209",
+        "locator": "p. 9",
+        "quote": "Therefore awareness, the internal representation of attention, should apply to the same range of information."
+      }
+    ]
+  }
+}

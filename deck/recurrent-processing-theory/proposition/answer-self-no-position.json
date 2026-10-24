@@ -1,0 +1,50 @@
+{
+  "record": "proposition",
+  "id": "68e0bc79-3940-4e96-8943-407da83de308",
+  "kind": "philosophical",
+  "epistemic_status": "inferred",
+  "title": "Answer: takes no position on the self",
+  "statements": [
+    {
+      "id": "76e8c85d-2d4c-44be-a097-26fcc73de28e",
+      "text": "The theory takes no position on what a self is. The first-person perspective is hard to define, and since conscious and unconscious vision share the same subject, it does not bear on the step from unconscious to conscious seeing. Lamme suggests perceptual organization might generate the perspective vision has.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "76e8c85d-2d4c-44be-a097-26fcc73de28e",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b9050313-e369-439d-a181-b751070bb3df",
+        "locator": "p. 7",
+        "quote": "Perhaps the most difficult aspect of conscious experience is that of it having this ego-perspective"
+      },
+      {
+        "source": "b9050313-e369-439d-a181-b751070bb3df",
+        "locator": "p. 7",
+        "quote": "It is also conceivable that the process of perceptual organization generates the ego-perspective that vision has."
+      }
+    ]
+  }
+}

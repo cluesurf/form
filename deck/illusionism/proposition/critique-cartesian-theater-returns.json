@@ -1,0 +1,45 @@
+{
+  "record": "proposition",
+  "id": "7dd6a232-8efa-4921-a291-5d1d8e9e6ed2",
+  "kind": "philosophical",
+  "epistemic_status": "hypothesized",
+  "title": "Critique: an illusion needs an audience, which brings back the Cartesian theater",
+  "statements": [
+    {
+      "id": "20804e7e-0198-439b-8bd4-b08601a5ee46",
+      "text": "An illusion presupposes an audience, so illusionists who reject the Cartesian theater seem committed to reinstating one as the place where the illusion of phenomenality is presented.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "20804e7e-0198-439b-8bd4-b08601a5ee46",
+  "status": "active",
+  "voice": "critique",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "60178d6b-6c55-4495-83a5-786a1c742af3",
+        "locator": "eprint p. 19",
+        "quote": "aren’t they committed to reinstating a Cartesian theatre as an arena where the illusion of phenomenality is presented?"
+      }
+    ]
+  }
+}

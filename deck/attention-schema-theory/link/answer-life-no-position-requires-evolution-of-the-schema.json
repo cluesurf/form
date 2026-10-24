@@ -1,0 +1,28 @@
+{
+  "record": "link",
+  "id": "b2d46d18-6fdb-4e8f-9de8-afec037a600e",
+  "from": "42c256ab-aa74-4cb7-97f2-d7fe7b689a18",
+  "to": "11d655bc-1249-4003-a2ca-0ea97be677ad",
+  "relation": "requires",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "124d3bef-4ae5-42c5-98e9-c2bc87a493ce",
+        "locator": "Evolution of Consciousness",
+        "quote": "almost certainly began to evolve with the first nervous systems, 600 million or more years ago"
+      }
+    ]
+  }
+}

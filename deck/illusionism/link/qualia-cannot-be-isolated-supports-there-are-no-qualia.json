@@ -1,0 +1,28 @@
+{
+  "record": "link",
+  "id": "114e95e1-6e71-4f51-b6ba-496d0a891b8d",
+  "from": "5afc8a0e-857b-4327-bf5c-549e17fcc4ef",
+  "to": "e7b3d2b7-7a2f-4579-af45-7df207492c21",
+  "relation": "supports",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "cefa7948-88e5-4a3a-9d5a-11b94942b10f",
+        "locator": "section 2, 'The Special Properties of Qualia'",
+        "quote": "the more fundamental mistake of supposing that there is such a residual property to take seriously"
+      }
+    ]
+  }
+}

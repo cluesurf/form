@@ -1,0 +1,28 @@
+{
+  "record": "link",
+  "id": "0f0e4983-ade5-46af-a9d2-1d5fd89a4965",
+  "from": "ff3be8d8-38b1-4f12-9dda-b46a8d9a0fa3",
+  "to": "f46c9fea-bba3-4165-9e67-9eb20ad8f834",
+  "relation": "requires",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "3519c086-a3e3-4b1c-9631-78b193482d93",
+        "locator": "p. 15",
+        "quote": "we predict that LLMs do not (and will not) have experiences that can be considered suffering in any sense that should matter to human society"
+      }
+    ]
+  }
+}

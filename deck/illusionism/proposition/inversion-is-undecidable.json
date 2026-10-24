@@ -1,0 +1,45 @@
+{
+  "record": "proposition",
+  "id": "9ac67cb6-0a50-4619-adc9-6e5fc58838c3",
+  "kind": "philosophical",
+  "epistemic_status": "inferred",
+  "title": "Qualia inversion cannot be told from inverted memory-linked reactions",
+  "statements": [
+    {
+      "id": "1f2db36a-174e-4595-8d4a-7bcfa2419194",
+      "text": "A surgeon could create the effect of inverted color qualia either by inverting an early channel or by inverting only the memory links that compare present hues with past ones. The memory link plays the role of the cable between two subjects, so the intrapersonal inverted spectrum does not make qualia comparison possible.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "1f2db36a-174e-4595-8d4a-7bcfa2419194",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "cefa7948-88e5-4a3a-9d5a-11b94942b10f",
+        "locator": "section 3, 'The Traditional Paradox Regained'",
+        "quote": "the link via memory, is analogous to the imaginary cable that might link two subjects in the original version"
+      }
+    ]
+  }
+}

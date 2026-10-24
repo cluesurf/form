@@ -1,0 +1,33 @@
+{
+  "record": "link",
+  "id": "a6d42eb8-57bb-4c6c-a4da-fe0cd8293ae5",
+  "from": "1747ef0c-7286-4e05-a3c8-40b83b5a7786",
+  "to": "019560d9-3312-4c19-a112-4c04795f09c2",
+  "relation": "supports",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "e3de91d3-ef9c-49b2-a711-bf6966c2cca3",
+        "locator": "p. 5",
+        "quote": "the positive relationship between dendritic activity and animal behavior is largely constrained to the pyramidal cells in layer 5B that project to subcortical regions"
+      },
+      {
+        "source": "18284858-8ad4-49e0-b7f6-d13c8a90227b",
+        "locator": "p. 1539",
+        "quote": "Suppressing the subcortical targets (particularly higherorder thalamus) of L5 pyramidal neurons suppresses conscious perception."
+      }
+    ]
+  }
+}
