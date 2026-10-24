@@ -1,0 +1,65 @@
+{
+  "record": "proposition",
+  "id": "fc5fb824-c9e1-474c-be88-e3936cd88611",
+  "kind": "empirical",
+  "epistemic_status": "designed",
+  "title": "Answer: the structure is checked against controls, never the feeling",
+  "statements": [
+    {
+      "id": "61dfbf0f-1c20-4de1-b91d-22e6d9bea36e",
+      "text": "The physics under the premise is checked, never the feeling. Every rule is finite, integer and deterministic, so every result reproduces exactly. Each deep claim carries a control where the answer should be no, a numerical match counts only through a pre-registered null, a verdict is judged over 17 link starts, and each result is reported as held, partial or failed, with the failures kept.",
+      "language": "en",
+      "scope": "the experiments in the vibe repository, each with its code",
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "61dfbf0f-1c20-4de1-b91d-22e6d9bea36e",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": {
+    "value": "open",
+    "reason": "vibe's own answer to the questionnaire",
+    "basis": [],
+    "proposal": null
+  },
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "7d868dbb-9fb1-455b-8d46-8cf0dce8e24e",
+        "locator": "The reading, and what is falsifiable",
+        "quote": "Each deep claim carries a control where the answer should be no, and the failures are kept."
+      },
+      {
+        "source": "7d868dbb-9fb1-455b-8d46-8cf0dce8e24e",
+        "locator": "The reading, and what is falsifiable",
+        "quote": "the experiments test structure, never feeling."
+      },
+      {
+        "source": "7d868dbb-9fb1-455b-8d46-8cf0dce8e24e",
+        "locator": "Where it stands",
+        "quote": "a numerical match counted only through a pre-registered null"
+      },
+      {
+        "source": "7d868dbb-9fb1-455b-8d46-8cf0dce8e24e",
+        "locator": "The experiments",
+        "quote": "Everything is finite and deterministic, so every result reproduces exactly."
+      }
+    ]
+  }
+}

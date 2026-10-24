@@ -1,0 +1,45 @@
+{
+  "record": "proposition",
+  "id": "b50f0b4f-031f-4640-8bad-8d1dec3d6e5a",
+  "kind": "empirical",
+  "epistemic_status": "hypothesized",
+  "title": "Harmony feels good because it is symmetry",
+  "statements": [
+    {
+      "id": "35f89543-dadf-4961-81c8-de55c384da1b",
+      "text": "Harmony feels good because harmony is symmetry over time.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-23"
+    }
+  ],
+  "current_statement": "35f89543-dadf-4961-81c8-de55c384da1b",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "6f8f1612-4ddf-4fed-9dd3-4070a070fa8b",
+        "locator": "main text",
+        "quote": "harmony basically feels good because it's symmetry"
+      }
+    ]
+  }
+}

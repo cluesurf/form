@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "70f2c24f-0d65-4941-805d-5fc6e7ec5440",
+  "title": "E-FRC-0165: light in the knit's U(1) link sector: the leapfrog of $Z_{8192}$ angles and integer flux carries a...",
+  "purpose": "Experiment E-FRC-0165 in the gauge arena: light in the knit's U(1) link sector: the leapfrog of $Z_{8192}$ angles and integer flux carries a massless transverse wave on the D4 box (the bulk substrate, not physical space), 3 polarizations in the bulk substrate with the longitudinal one pinned by Gauss's law, at the speed the renormalized coupling predicts and isotropic through order $k^4$, a Coulomb phase whose Wilson loops are the free photon's, lost at a beta = K N / (2 pi T) shared across K and N, and a static love and fear whose flux relaxes to the Coulomb field of the four-dimensional bulk substrate, not a string.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L2 (L2: known physics reproduced on a stated model).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/gauge/photon-light.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-FRC-0165",
+        "quote": null
+      }
+    ]
+  }
+}

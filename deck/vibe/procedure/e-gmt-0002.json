@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "7b607e8a-e54e-4bb1-a6b6-556b44a77ef1",
+  "title": "E-GMT-0002: the {3,4,3,4} cusp is a flat 3D sheet inside an exponential bulk, so the bulk is 4D, and {5,3,4} reads...",
+  "purpose": "Experiment E-GMT-0002 in the geometry arena: the {3,4,3,4} cusp is a flat 3D sheet inside an exponential bulk, so the bulk is 4D, and {5,3,4} reads one dimension lower.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L2 (L2: known physics reproduced on a stated model).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/geometry/bulk-dimension-3434.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-GMT-0002",
+        "quote": null
+      }
+    ]
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "0dde1086-20cc-4156-9bf2-982d127e534c",
+  "title": "E-FND-0078: the self-assembly negative is real, not a dead optimizer: the same descent reaches four of five...",
+  "purpose": "Experiment E-FND-0078 in the foundations arena: the self-assembly negative is real, not a dead optimizer: the same descent reaches four of five universally optimal configurations exactly and misses only the dock, at a trap stable under a sixteenfold step budget.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L1 (L1: known mathematics, correctly confirmed).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/foundations/generator-reachability.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-FND-0078",
+        "quote": null
+      }
+    ]
+  }
+}

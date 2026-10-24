@@ -1,0 +1,28 @@
+{
+  "record": "link",
+  "id": "b8942d9a-f16d-423f-8f5b-58796c33a490",
+  "from": "9ff0f052-ee39-4913-948e-fa529b259194",
+  "to": "d7ead889-69d2-4ac3-ba19-b5e082cdb6a6",
+  "relation": "requires",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "fd7382f9-52a5-4beb-9680-fc341ff15b98",
+        "locator": "section Philosophical Foundations of an Approach to Diverse Intelligences",
+        "quote": "the correct answer to how much agency a system has cannot be settled by philosophy"
+      }
+    ]
+  }
+}

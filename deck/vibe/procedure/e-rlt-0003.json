@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "af6ffc34-2cdc-4608-b9db-c5ddf60d62a7",
+  "title": "E-RLT-0003: boosts are genuine Lorentz transformations",
+  "purpose": "Experiment E-RLT-0003 in the relativity arena: boosts are genuine Lorentz transformations.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L2 (L2: known physics reproduced on a stated model).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/relativity/boost-velocity-addition.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-RLT-0003",
+        "quote": null
+      }
+    ]
+  }
+}

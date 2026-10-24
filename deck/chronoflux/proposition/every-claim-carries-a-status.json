@@ -1,0 +1,55 @@
+{
+  "record": "proposition",
+  "id": "fbeac49f-7cea-4e21-82e2-17223c257291",
+  "kind": "definitional",
+  "epistemic_status": "designed",
+  "title": "Every claim carries a recovery status and a separate mathematical status",
+  "statements": [
+    {
+      "id": "2577a464-1e44-4a6a-9175-b8502108f5da",
+      "text": "The author grades every claim of the framework. Its mathematical status (open, conditional, closed, obstructed or superseded) is kept apart from whether it has been recovered into the dependency graph, and in the Atlas each claim carries one standing: primitive, derived, recovered, selected, effective, conditional, open or rejected. No claim is promoted by interpretive agreement alone.",
+      "language": "en",
+      "scope": "the grading used in the July 2026 rebuild and the Chronoflux Atlas",
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "2577a464-1e44-4a6a-9175-b8502108f5da",
+  "status": "active",
+  "voice": "framework",
+  "defines": "claim status",
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "70117ac1-ee1b-4cf6-97ae-d5d2dd95f970",
+        "locator": "abstract",
+        "quote": "I separate recovery status from mathematical status. A node may be completely recovered while its claim remains open, conditional, obstructed or superseded."
+      },
+      {
+        "source": "1cf60bbd-3fa2-4d65-8956-21024b44ab0b",
+        "locator": "Definition DPL-00.D10, section 9",
+        "quote": "Every authority carries one explicit scientific standing."
+      },
+      {
+        "source": "1cf60bbd-3fa2-4d65-8956-21024b44ab0b",
+        "locator": "Condition DPL-00.C1, section 9",
+        "quote": "No authority is promoted by interpretive agreement alone."
+      }
+    ]
+  }
+}

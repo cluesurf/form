@@ -1,0 +1,28 @@
+{
+  "record": "link",
+  "id": "abab1464-8036-43d2-b43b-71fc2d5cb2ba",
+  "from": "88b041e8-3a15-4ee0-a920-06ec490e3b25",
+  "to": "ad4a64d0-7c5f-43d3-b6e0-ef17bceb3739",
+  "relation": "requires",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "8ed62dfe-4468-4f53-9b70-f009ba2dbe4f",
+        "locator": "p. 567",
+        "quote": "This leads to an interpretation of attention as the optimization of precision weighting, balancing the relative influence of prediction errors and prior expectations on perceptual inference"
+      }
+    ]
+  }
+}

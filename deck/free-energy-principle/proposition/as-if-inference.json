@@ -1,0 +1,50 @@
+{
+  "record": "proposition",
+  "id": "295fa581-ab54-4410-8062-e6b04806f468",
+  "kind": "philosophical",
+  "epistemic_status": "inferred",
+  "title": "Things with blankets look as if they infer",
+  "statements": [
+    {
+      "id": "d351c941-c549-4191-b964-9770855f49ad",
+      "text": "The inference description is an as-if description: the internal states of a blanketed system will appear to model and act on their world to preserve their own integrity.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-23"
+    }
+  ],
+  "current_statement": "d351c941-c549-4191-b964-9770855f49ad",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "a528c72c-55f5-422d-b6c3-61a840e5810d",
+        "locator": "abstract",
+        "quote": "Therefore, the internal states (and their blanket) will appear to engage in active Bayesian inference."
+      },
+      {
+        "source": "a528c72c-55f5-422d-b6c3-61a840e5810d",
+        "locator": "abstract",
+        "quote": "they will appear to model—and act on—their world to preserve their functional and structural integrity, leading to homoeostasis and a simple form of autopoiesis."
+      }
+    ]
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "dccc6194-18d5-4b1e-99d6-963ec9875973",
+  "title": "E-SLF-0048: no finite direction group (not even the 600-cell) is fine enough for a stable discrete dynamics, the...",
+  "purpose": "Experiment E-SLF-0048 in the selves arena: no finite direction group (not even the 600-cell) is fine enough for a stable discrete dynamics, the self is forced emergent.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L2 (L2: known physics reproduced on a stated model).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/selves/fine-group-too-coarse.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-SLF-0048",
+        "quote": null
+      }
+    ]
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "8679d8bd-8723-4558-b999-a4ad9c6e7c86",
+  "title": "E-FRC-0061: a chiral octonion Z3 mass operator with diagonal at the F4 long-root scale and coupling at the...",
+  "purpose": "Experiment E-FRC-0061 in the gauge arena: a chiral octonion Z3 mass operator with diagonal at the F4 long-root scale and coupling at the short-root scale gives |c|/a = 1/sqrt(2) hence Q = 2/3 for every phase in the eigenvalue-positivity window (and for all phases only in the signed-root Brannen convention), realizing the Koide RELATION from the short/long ratio phase-independently, while the assignment is a motivated input and the phase (the individual masses) stays free.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L1 (L1: known mathematics, correctly confirmed).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/gauge/koide-relation-from-short-long.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-FRC-0061",
+        "quote": null
+      }
+    ]
+  }
+}

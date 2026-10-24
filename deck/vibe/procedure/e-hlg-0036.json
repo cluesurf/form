@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "a503a17d-26f4-47f7-bb19-d2e84f99c00c",
+  "title": "E-HLG-0036: the Page curve from the coined Dirac walk model: the interval entanglement entropy of the gapless walk...",
+  "purpose": "Experiment E-HLG-0036 in the holography arena: the Page curve from the coined Dirac walk model: the interval entanglement entropy of the gapless walk rises to a peak at half the ring and falls back symmetrically (information returns, total stays pure), while the gapped walk saturates to the area law with no tent.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L1 (L1: known mathematics, correctly confirmed).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/holography/page-curve-from-scrambling.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-HLG-0036",
+        "quote": null
+      }
+    ]
+  }
+}

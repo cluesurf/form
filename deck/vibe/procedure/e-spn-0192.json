@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "6baac9a5-053a-4513-8d7a-97de9a805ccb",
+  "title": "E-SPN-0192: three like-tone register members on one level carry charge one with spin one half under fermionic...",
+  "purpose": "Experiment E-SPN-0192 in the spin arena: three like-tone register members on one level carry charge one with spin one half under fermionic exchange, partial as derived: of the 56 like-tone wedge states per tone, 40 are J = 1/2 (10 doublets, 2, 8, 8, 2 at n+ = 3, 2, 1, 0) and 16 are J = 3/2, read from the register's own rotation and the vibe count, exactly; |Q| = 1/3 fills 448 states, but |Q| = 2/3 has no three-member state at all (3Q is odd), only two-member ones; the unprojected table differs and the twisted rotation gives no half-integer J.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L1 (L1: known mathematics, correctly confirmed).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/spin/three-member-census.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-SPN-0192",
+        "quote": null
+      }
+    ]
+  }
+}

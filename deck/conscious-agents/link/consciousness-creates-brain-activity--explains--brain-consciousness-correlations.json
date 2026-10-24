@@ -1,0 +1,28 @@
+{
+  "record": "link",
+  "id": "89b2dbb1-6fb4-49e9-9480-4e71d1430592",
+  "from": "fccaa18c-26ed-48d8-94a9-67b02d34e5f9",
+  "to": "285443a9-0d55-424e-8033-24c3c822202f",
+  "relation": "explains",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "a7e70d05-b690-4622-b9c7-93120625ba04",
+        "locator": "abstract, p. 87",
+        "quote": "these correlations arise because consciousness creates brain activity"
+      }
+    ]
+  }
+}

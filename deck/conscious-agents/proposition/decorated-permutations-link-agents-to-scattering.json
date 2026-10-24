@@ -1,0 +1,45 @@
+{
+  "record": "proposition",
+  "id": "e233ace7-82e9-4e56-9eb5-e8d19bc6298d",
+  "kind": "mathematical",
+  "epistemic_status": "inferred",
+  "title": "Decorated permutations link agent dynamics to scattering",
+  "statements": [
+    {
+      "id": "b6f1a189-0ab4-4032-8126-a2510ba690a6",
+      "text": "Markovian agent dynamics can be mapped to decorated permutations, the combinatorial objects that label cells of the positive geometries used to compute particle scattering amplitudes.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-23"
+    }
+  ],
+  "current_statement": "b6f1a189-0ab4-4032-8126-a2510ba690a6",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "2207dc33-f8a8-469f-99b2-286f1139ed74",
+        "locator": "section 6",
+        "quote": "The amplitude of a particular scattering process is obtained by computing the volume of its corresponding amplituhedron."
+      }
+    ]
+  }
+}

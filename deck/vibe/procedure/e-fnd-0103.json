@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "1862e17d-9046-4282-a2c3-4fbd4a3266c4",
+  "title": "E-FND-0103: the palindrome traveller knit measured in full: exactly reversible (echo Hamming zero) and conserving...",
+  "purpose": "Experiment E-FND-0103 in the foundations arena: the palindrome traveller knit measured in full: exactly reversible (echo Hamming zero) and conserving (charge drift zero), a lone tone is a speed-one one-slot particle with one free phase at two sizes, two travellers superpose with zero mismatched slots, the particle sits at its exact free-flight position at every checked beat through the offset slab (emission-with-survival carried over), and the trade-off is reported (the medium response is earlier and less offset-selective than lineHop's), so with its exact CPT from E-FND-0102 this is the current best base-decision candidate: the one-clause traveller with nature's discrete symmetry pattern.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L2 (L2: known physics reproduced on a stated model).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/foundations/palindrome-knit.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-FND-0103",
+        "quote": null
+      }
+    ]
+  }
+}

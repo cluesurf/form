@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "97010616-88fe-457b-aa94-832d93c223ea",
+  "title": "E-FND-0028: the knit is one of 10395 by conservation alone, and the crystallographic B4 symmetry (verified order-192...",
+  "purpose": "Experiment E-FND-0028 in the foundations arena: the knit is one of 10395 by conservation alone, and the crystallographic B4 symmetry (verified order-192 on the lines) forces it UNIQUE along a descending curve 10395 to 75 to 3 to 1, while the full F4 (triality) over-constrains to ZERO, so the knit respects B4 but breaks triality.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L2 (L2: known physics reproduced on a stated model).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/foundations/knit-rule-forced.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-FND-0028",
+        "quote": null
+      }
+    ]
+  }
+}

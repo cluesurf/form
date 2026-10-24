@@ -1,0 +1,50 @@
+{
+  "record": "proposition",
+  "id": "cf15d1e8-03f9-45b0-b04c-e7cfd622048e",
+  "kind": "empirical",
+  "epistemic_status": "simulated",
+  "title": "E-FLD-0026: the scatter weave reaches hydrodynamics when a lone tone may also scatter against a pair member whose...",
+  "statements": [
+    {
+      "id": "ea1805f1-4ac0-48b5-9f58-bb9ed612c969",
+      "text": "The scatter weave reaches hydrodynamics when a lone tone may also scatter against a pair member whose partner line holds a lone tone and every beat tries 36 scatterings: a shear of the particle momentum decays as nu $k^2$ with one viscosity (nu about 0.47, constant to within 10 percent from L = 12 to 24, exponent near 2), with the vacuum period, CPT, reversal, charge, P and local color exact; but no member measured reaches both a constant viscosity and the committed dressing, the dressing growing with every step toward hydrodynamics.",
+      "language": "en",
+      "scope": "experiment E-FLD-0026, arena fluids, depth L2 (L2: known physics reproduced on a stated model)",
+      "conditions": "substrates: 3434. In a paper: false",
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-22"
+    }
+  ],
+  "current_statement": "ea1805f1-4ac0-48b5-9f58-bb9ed612c969",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": {
+    "value": "open",
+    "reason": "holds in the vibe claim graph",
+    "basis": [],
+    "proposal": null
+  },
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "research/objection.ts",
+        "quote": null
+      }
+    ]
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "b8a7636e-efac-4635-a4e6-f029f9d9ad7b",
+  "title": "E-QTM-0054: the classical codes under D4 and E8 lift by CSS to the [[4,2,2]] and [[8,3,2]] quantum codes exactly...",
+  "purpose": "Experiment E-QTM-0054 in the quantum arena: the classical codes under D4 and E8 lift by CSS to the [[4,2,2]] and [[8,3,2]] quantum codes exactly (commuting stabilizers, k and distance reproduced) while a non-nested pair anticommutes, the quantum-code ladder from the geometric ladder.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L1 (L1: known mathematics, correctly confirmed).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/quantum/css-codes-from-ladder.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-QTM-0054",
+        "quote": null
+      }
+    ]
+  }
+}

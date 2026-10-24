@@ -1,0 +1,39 @@
+{
+  "record": "observation",
+  "id": "3873cfa5-04fa-4014-956b-41cfcc4f6e4f",
+  "kind": "counterexample",
+  "epistemic_status": "inferred",
+  "description": "In weakly coupled nonequilibrium linear stochastic systems, the Markov blanket condition and the restrictions on solenoidal flow hold only in a very narrow region of parameters, and the averaging step behind the variational reading does not hold in general.",
+  "method": "derived",
+  "status": "reported",
+  "source": "3871b0fc-d743-488a-8d26-6f123424ab40",
+  "procedure": null,
+  "variable": null,
+  "value": null,
+  "unit": null,
+  "uncertainty": null,
+  "sample_size": null,
+  "replication_count": null,
+  "quality": null,
+  "limitations": "Linear systems only. The authors call for further development rather than rejecting the theory.",
+  "conflicts_of_interest": null,
+  "observed_at": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "3871b0fc-d743-488a-8d26-6f123424ab40",
+        "locator": "abstract (arXiv record)",
+        "quote": "This equivalence does not hold in general even for linear systems, since it requires an effective decoupling from the system's history of interactions."
+      }
+    ]
+  }
+}

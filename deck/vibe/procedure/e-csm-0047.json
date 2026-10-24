@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "39cc05fc-29ad-4bf1-a1fb-0371022c33ab",
+  "title": "E-CSM-0047: slow-roll integration on the alpha-attractor potential V = tanh^2(phi/sqrt(6 alpha)) measures the...",
+  "purpose": "Experiment E-CSM-0047 in the cosmology arena: slow-roll integration on the alpha-attractor potential V = tanh^2(phi/sqrt(6 alpha)) measures the attractor: $n_s$ is the same across alpha from 0.5 to 8 (spread under 5e-4), agrees with 1 - 2/N, and matches Planck, while r roughly doubles per doubling of alpha, so if the inflaton field-space inherits the mesh hyperbolic geometry the spectral index is a robust measured prediction and alpha (bounded near 15 by r < 0.06) is the one remaining input.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L2 (L2: known physics reproduced on a stated model).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/cosmology/alpha-attractor-from-hyperbolic.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-CSM-0047",
+        "quote": null
+      }
+    ]
+  }
+}

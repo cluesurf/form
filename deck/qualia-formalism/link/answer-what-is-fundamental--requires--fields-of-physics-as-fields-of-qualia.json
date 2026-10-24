@@ -1,0 +1,28 @@
+{
+  "record": "link",
+  "id": "ce7f18a7-f5ee-43f0-9d26-deb9b380693c",
+  "from": "bac24831-7f8f-4fa5-bfb1-0328ed2b27d4",
+  "to": "23ce0685-b606-435a-a473-964a97a40b31",
+  "relation": "requires",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "5aaa6bc4-6581-4a09-8249-33c9872090bd",
+        "locator": "main text",
+        "quote": "If the fields of physics are fields of qualia"
+      }
+    ]
+  }
+}

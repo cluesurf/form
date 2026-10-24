@@ -1,0 +1,28 @@
+{
+  "record": "link",
+  "id": "77d32e1f-8947-412b-8962-31f710c5d4e3",
+  "from": "f871a722-c5fb-4065-848c-ee180113b0b5",
+  "to": "de4ece67-abb5-4cf5-9f67-d376a867e846",
+  "relation": "requires",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "a6941f16-a2de-4b67-b9c7-f026073173fc",
+        "locator": "abstract",
+        "quote": "It predicts the attenuation of responses encoding prediction error with perceptual learning and explains many phenomena such as repetition suppression, mismatch negativity (MMN) and the P300 in electroencephalography."
+      }
+    ]
+  }
+}

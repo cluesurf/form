@@ -1,0 +1,50 @@
+{
+  "record": "proposition",
+  "id": "e8036409-4a61-4d73-8138-e9f5c64ff91b",
+  "kind": "empirical",
+  "epistemic_status": "simulated",
+  "title": "E-FRC-0150: one Sigma(648) element per link: the rule of E-FRC-0144 with each link's grid move replaced by the full...",
+  "statements": [
+    {
+      "id": "01de58a8-e4ba-4508-88ce-57f956188cb3",
+      "text": "One Sigma(648) element per link: the rule of E-FRC-0144 with each link's grid move replaced by the full element of the classical color group, priced on Re Tr so the field feels the center, the grid move its quotient (a homomorphism with kernel exactly the 3 center elements), reversing exactly, conserving energy to the unit, love and fear, keeping Gauss's law and commuting with a frame change by all 648 elements, while identifying the link's center phase with E mod 3 would break Gauss's law under a center frame change.",
+      "language": "en",
+      "scope": "experiment E-FRC-0150, arena gauge, depth L2 (L2: known physics reproduced on a stated model)",
+      "conditions": "substrates: 3434. In a paper: false",
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-22"
+    }
+  ],
+  "current_statement": "01de58a8-e4ba-4508-88ce-57f956188cb3",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": {
+    "value": "open",
+    "reason": "holds in the vibe claim graph",
+    "basis": [],
+    "proposal": null
+  },
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "research/result.ts R-FRC-0006",
+        "quote": null
+      }
+    ]
+  }
+}

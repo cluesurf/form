@@ -1,0 +1,45 @@
+{
+  "record": "proposition",
+  "id": "ac6d2767-9d05-437d-b9fc-3abc9bc8e44c",
+  "kind": "philosophical",
+  "epistemic_status": "inferred",
+  "title": "Postulate: cause-effect power is specific",
+  "statements": [
+    {
+      "id": "ed425041-dc83-4f5f-a641-5326dac451ba",
+      "text": "The substrate's cause-effect power must be specific: it must be in this state and select this cause-effect state, the one with maximal intrinsic information.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-23"
+    }
+  ],
+  "current_statement": "ed425041-dc83-4f5f-a641-5326dac451ba",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "8443eb2e-406e-4acc-94e8-33cbabbd3679",
+        "locator": "section \"Postulates of physical existence\" (full text)",
+        "quote": "Its cause–effect power must be specific: it must be in this state and select this cause–effect state."
+      }
+    ]
+  }
+}

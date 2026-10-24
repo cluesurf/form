@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "39479bc0-cc30-4c82-9c1a-5a47871861c4",
+  "title": "E-SLF-0023: a structured coarse map keeps more effective information than a random one, measured on real self dynamics",
+  "purpose": "Experiment E-SLF-0023 in the selves arena: a structured coarse map keeps more effective information than a random one, measured on real self dynamics.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L2 (L2: known physics reproduced on a stated model).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/selves/coarse-causal-emergence.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-SLF-0023",
+        "quote": null
+      }
+    ]
+  }
+}

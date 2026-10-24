@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "17d9fd87-3354-44a2-8b08-3c5f02d5eb17",
+  "title": "E-MTH-0012: one omega, measured: left multiplication by a Hurwitz cube root of unity is the center of the bulk's...",
+  "purpose": "Experiment E-MTH-0012 in the method arena: one omega, measured: left multiplication by a Hurwitz cube root of unity is the center of the bulk's U(2), its orbits on the 24 root directions are exactly the 32 zero-sum triangles (knot = momentum closure), on each of its 4 kept color planes it is the generation cycle times the color cycle, and its invariant states all have charge 0 mod 3 (the lock); but no knit in the repo keeps any fixed-point-free order-3 element, so the same-omega rule is a constraint no current knit meets.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L2 (L2: known physics reproduced on a stated model).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/method/one-omega.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-MTH-0012",
+        "quote": null
+      }
+    ]
+  }
+}

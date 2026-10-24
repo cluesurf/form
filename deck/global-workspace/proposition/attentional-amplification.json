@@ -1,0 +1,45 @@
+{
+  "record": "proposition",
+  "id": "c9dde85b-c378-4106-97e2-729ac044e37d",
+  "kind": "empirical",
+  "epistemic_status": "hypothesized",
+  "title": "Information becomes conscious through top-down amplification into a brain-scale state",
+  "statements": [
+    {
+      "id": "9aa3f2ff-6ff4-46bb-afa2-39298a261847",
+      "text": "A piece of information becomes conscious when the neural population that represents it is mobilized by top-down attentional amplification into a brain-scale state of coherent activity involving many distributed neurons.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-23"
+    }
+  ],
+  "current_statement": "9aa3f2ff-6ff4-46bb-afa2-39298a261847",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "9b21a09b-835f-4256-afbf-19425df2597e",
+        "locator": "abstract",
+        "quote": "An information becomes conscious, however, if the neural population that represents it is mobilized by top-down attentional amplification into a brain-scale state of coherent activity"
+      }
+    ]
+  }
+}

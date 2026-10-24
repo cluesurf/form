@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "44613cb6-9749-4930-9997-fcb6c13a448e",
+  "title": "E-SPN-0135: three holes in the flat love sea on a slab of the husk (two lines of one frame, the route-free Steiner...",
+  "purpose": "Experiment E-SPN-0135 in the spin arena: three holes in the flat love sea on a slab of the husk (two lines of one frame, the route-free Steiner string at pi/7 a link, the Pauli-blocked mixer turning in the plane) are not held at the working angle nor at any angle down to 14 degrees, partial (H1, H2 fail; CN and one check fail as written): the window is 36,973 x 64 amplitudes against 4d's 2.8e9; the one-line limit is E-SPN-0104's level exactly (residual 3e-14, E 0.3300185184, m* 24.116, m*/E_rest 73.07, the holes' and loves' curvature equal to 1e-11), and with the mixer off the slab trio stays a one-line level; at rate 3 the dominant reading is no level (start weight 0.04, fidelity 0.005 by beat 8, tail 1.00 by beat 64), and least fidelity over 128 beats is 1e-6, 1e-4, 0.014, 0.017, 0.18, 0.69 at rates 2, 1, 1/2, 1/4, 1/8, 1/16; with the cost off at rate 0 a contact-bound three-hole level holds (fidelity 0.999999, mean Steiner 2.33, the same at cuts 12 to 28), so the cost-off control does not read clean; the lone hole reads -0.28868 I in the slab, half its line's.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L2 (L2: known physics reproduced on a stated model).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/spin/slab-three-holes.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-SPN-0135",
+        "quote": null
+      }
+    ]
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "3d8bd938-2a56-445b-b301-12ac846eb8f1",
+  "title": "E-FRC-0097: over several beats the committed rule does produce three-tone joint effects, but only around a tone pair...",
+  "purpose": "Experiment E-FRC-0097 in the gauge arena: over several beats the committed rule does produce three-tone joint effects, but only around a tone pair that already interacts, and never with the third tone that closes a zero-sum triangle, so the multi-beat coupling is generic re-scattering and not a triangle (A2) vertex.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L3 (L3: one base rule produced the result as a measured consequence, with a computed control that could have failed).",
+  "status": "completed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/gauge/rule-triangle-coupling.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "research/result.ts R-FRC-0003",
+        "quote": null
+      }
+    ]
+  }
+}

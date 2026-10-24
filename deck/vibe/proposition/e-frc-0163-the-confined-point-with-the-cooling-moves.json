@@ -1,0 +1,50 @@
+{
+  "record": "proposition",
+  "id": "a0d8c6cd-1e0f-4779-8c49-9443a46e7b52",
+  "kind": "empirical",
+  "epistemic_status": "simulated",
+  "title": "E-FRC-0163: the confined point with the cooling moves: the covariant moves of E-FRC-0162 cool the coupled Sigma(648)...",
+  "statements": [
+    {
+      "id": "a72bcc4f-ab7c-455c-9822-af8172d7d81f",
+      "text": "The confined point with the cooling moves: the covariant moves of E-FRC-0162 cool the coupled Sigma(648) field and hold beta0 near 13 (13.0 to 13.6 across three starts), but on the D4 lattice that point is deconfined (Polyakov 0.20 to 0.26, chi(2,2) -0.031 +- 0.011), the field-borne potential rises (23, 37, 65 per slice) with no area law behind it, and the meson is frozen, so the physics gates fail.",
+      "language": "en",
+      "scope": "experiment E-FRC-0163, arena gauge, depth L2 (L2: known physics reproduced on a stated model)",
+      "conditions": "substrates: 3434. In a paper: false",
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-22"
+    }
+  ],
+  "current_statement": "a72bcc4f-ab7c-455c-9822-af8172d7d81f",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": {
+    "value": "open",
+    "reason": "holds in the vibe claim graph",
+    "basis": [],
+    "proposal": null
+  },
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "research/result.ts R-FRC-0006",
+        "quote": null
+      }
+    ]
+  }
+}

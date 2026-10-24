@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "4436184f-63b6-4015-8c57-dd779e372ce4",
+  "title": "E-SPN-0156: the line law survives the true mesh, and the flat box was a faithful stand-in for it, fail on one gate...",
+  "purpose": "Experiment E-SPN-0156 in the spin arena: the line law survives the true mesh, and the flat box was a faithful stand-in for it, fail on one gate: on {3,4,3,4} the slot labels carry no holonomy (the loop a, -b, a, -b around each of the 96 triangles returns the identity frame; balls of 8,857 and 162,049 docks, 0 inconsistent steps) while the geometry does (the Levi-Civita holonomy around each loop is an order-3 rotation, exactly $(R_a R_b)^2$ on 96 of 96, generating a group of 96, and is what the translation-like labelling carries), every line is a geodesic with cosh s = 3, no mesh line holds two dock lines of one dock, and a lone love keeps every line's tone on 28 of 28 runs with K firing on 0 docks; the gate H2c failed: the saturated store vacuum breaks 536,506 line readings through K, but it breaks all 6,144 lines on the flat box the same way, so the failure is the vacuum recipe, not curvature; every cross-line move in every run is made on a K dock (0 on B docks); the flat box reproduces E-SPN-0098's 6,144 of 6,144 on five keys; what curvature changes is the husk: a line meets the cusp layer in at most 2 docks (6 lines with 2 and 6 with 1 at 63 of 63 layer docks) and its husk shadow is bounded, at most 1.414 lattice units, its increments shrinking by 17 - 12 sqrt 2 a step (to 6e-6), so no lone vibe travels on the true husk.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L2 (L2: known physics reproduced on a stated model).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/spin/curved-line-law.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-SPN-0156",
+        "quote": null
+      }
+    ]
+  }
+}

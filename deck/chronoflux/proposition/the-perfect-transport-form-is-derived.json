@@ -1,0 +1,50 @@
+{
+  "record": "proposition",
+  "id": "5195841c-18f5-4370-a7a5-dd654712427f",
+  "kind": "mathematical",
+  "epistemic_status": "inferred",
+  "title": "The perfect transport form is derived from a minimal current action",
+  "statements": [
+    {
+      "id": "156ec968-ff53-4200-be12-5871dd5ad67e",
+      "text": "With an independent future-directed current as the one root object, a minimal ideal action returns current continuity, potential flow, constitutive pressure and the metric stress tensor by independent variations, so the perfect transport form is a derived branch and not an axiom.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "156ec968-ff53-4200-be12-5871dd5ad67e",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "82963668-7b1e-477f-a1bd-9a65e5fc3104",
+        "locator": "abstract",
+        "quote": "The perfect transport form is therefore a derived ideal branch rather than a defining axiom."
+      },
+      {
+        "source": "82963668-7b1e-477f-a1bd-9a65e5fc3104",
+        "locator": "section 1",
+        "quote": "This paper supersedes the March 2022 action formulation."
+      }
+    ]
+  }
+}

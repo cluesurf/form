@@ -1,0 +1,90 @@
+{
+  "record": "proposition",
+  "id": "93be7682-3fd8-43c7-a29f-6a9272d8d11d",
+  "kind": "philosophical",
+  "epistemic_status": "hypothesized",
+  "title": "Experience is a property of physical events themselves",
+  "statements": [
+    {
+      "id": "29d190ca-1d5e-4790-8dc0-fdabdc7019e8",
+      "text": "Experience belongs to physical events themselves: the fields of physics are fields of qualia, or each objective reduction carries a proto-experience, or experience is a property of systems with the right causal properties.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-23"
+    }
+  ],
+  "current_statement": "29d190ca-1d5e-4790-8dc0-fdabdc7019e8",
+  "status": "active",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": {
+    "value": "open",
+    "reason": null,
+    "basis": [],
+    "proposal": null
+  },
+  "origin": [
+    {
+      "repository": "qualia-formalism",
+      "id": "23ce0685-b606-435a-a473-964a97a40b31"
+    },
+    {
+      "repository": "orch-or",
+      "id": "f56dab04-6b73-4361-be6b-38d338bc3c94"
+    },
+    {
+      "repository": "orch-or",
+      "id": "f03eaec7-a5cd-4015-8f83-d3012021ec34"
+    },
+    {
+      "repository": "iit",
+      "id": "341c2d11-7ee3-4f23-a594-602e26a90f85"
+    },
+    {
+      "repository": "quantum-observers",
+      "id": "7ed79d97-ef0f-44e2-ba35-147eb646881f"
+    }
+  ],
+  "provenance": {
+    "written_by": "github:lancejpollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "68674292-2a74-41a6-8d0f-9eb907ff2123",
+        "locator": "main text",
+        "quote": "If the fields of physics are fields of qualia"
+      },
+      {
+        "source": "d496f824-2bdc-4e84-93d0-d8813496083c",
+        "locator": "section 1, option (C)",
+        "quote": "Consciousness results from discrete physical events; such events have always existed in the universe as non-cognitive, proto-conscious events"
+      },
+      {
+        "source": "d496f824-2bdc-4e84-93d0-d8813496083c",
+        "locator": "section 4.1",
+        "quote": "the DP proposal suggests each OR event, which is a purely physical process, is itself a primitive kind of ‘observation’, a moment of ‘proto-conscious experience’"
+      },
+      {
+        "source": "1b7e0869-7945-448c-93ed-2e34b04584f8",
+        "locator": "abstract",
+        "quote": "The theory holds that consciousness is a fundamental property possessed by physical systems having specific causal properties."
+      },
+      {
+        "source": "43a138a3-627b-44ff-a9ed-32f4c1e128d3",
+        "locator": "section 5.3",
+        "quote": "the framework presented here is consistent with [13, 14, 154] in supporting a panpsychist perspective on questions of agency, sentience, and cognition"
+      }
+    ]
+  }
+}

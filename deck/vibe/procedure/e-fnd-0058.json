@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "170215d5-4efc-43c5-aa9a-bb2b080c8633",
+  "title": "E-FND-0058: observers live on the flat cusp by a stability theorem, not a premise: degree-controlled, a diffusing...",
+  "purpose": "Experiment E-FND-0058 in the foundations arena: observers live on the flat cusp by a stability theorem, not a premise: degree-controlled, a diffusing packet on the curved {3,4,3,4} bulk spreads over several times more cells than on the flat 24-neighbour cusp and the ratio grows with time (the exponential dispersal of the non-amenable bulk), so bound states disperse in the bulk and persist on the cusp, and observers form where structure is stable.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L2 (L2: known physics reproduced on a stated model).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/foundations/cusp-observer-stability.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-FND-0058",
+        "quote": null
+      }
+    ]
+  }
+}

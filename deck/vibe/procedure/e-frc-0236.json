@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "492f20c3-4e56-4bb1-a2e8-7959b2c21a75",
+  "title": "E-FRC-0236: the low-excitation restriction of the atom-light rule, held to the exact rule: on a six-square closed...",
+  "purpose": "Experiment E-FRC-0236 in the gauge arena: the low-excitation restriction of the atom-light rule, held to the exact rule: on a six-square closed strip a STAND-IN atom's emission under the full register rule and under the light held to at most two quanta (the coupling's matrix elements exact, no rotating-wave cut) agree, the sector leaks nothing measurable, and the force-off light takes nothing.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L2 (L2: known physics reproduced on a stated model).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/gauge/few-quanta-restriction.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-FRC-0236",
+        "quote": null
+      }
+    ]
+  }
+}

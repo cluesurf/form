@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "165a7e79-0660-4fb2-8b16-710c448d0427",
+  "title": "E-SPN-0024: the nuclear binding curve peaks at iron (about 8.8 MeV per nucleon) and declines for heavy nuclei, the...",
+  "purpose": "Experiment E-SPN-0024 in the spin arena: the nuclear binding curve peaks at iron (about 8.8 MeV per nucleon) and declines for heavy nuclei, the no-Coulomb monotonic curve the control.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L1 (L1: known mathematics, correctly confirmed).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/spin/nuclear-binding-curve.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-SPN-0024",
+        "quote": null
+      }
+    ]
+  }
+}

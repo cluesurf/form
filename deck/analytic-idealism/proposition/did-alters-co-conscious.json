@@ -1,0 +1,45 @@
+{
+  "record": "proposition",
+  "id": "0d04a593-bcf0-496f-94b9-bb2db7ced0ad",
+  "kind": "empirical",
+  "epistemic_status": "inferred",
+  "title": "Alters in DID are concurrently conscious subjects",
+  "statements": [
+    {
+      "id": "0afe8f01-2373-4750-9de2-c3b7bf07e9a8",
+      "text": "Clinical evidence shows that alters in dissociative identity disorder can be concurrently conscious and vie for control of the body, so different alters are different subjects.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-23"
+    }
+  ],
+  "current_statement": "0afe8f01-2373-4750-9de2-c3b7bf07e9a8",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "9c8de529-0562-4ede-9748-a99db6ec0056",
+        "locator": "section 9, p. 142",
+        "quote": "There is compelling empirical evidence that different alters can remain concurrently conscious."
+      }
+    ]
+  }
+}

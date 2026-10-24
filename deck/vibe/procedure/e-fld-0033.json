@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "4927ced9-f412-4db0-be46-6c3d1287e845",
+  "title": "E-FLD-0033: the fear clock's vacuum fluctuates where the classical cold vacuum stands still (tone-count variance 2.1...",
+  "purpose": "Experiment E-FLD-0033 in the fluids arena: the fear clock's vacuum fluctuates where the classical cold vacuum stands still (tone-count variance 2.1 to 4.3 on rings of 3 to 6 docks against exactly 0 for the committed flash, the two slots of a line anticorrelated, pair density 0.65 to 0.69 per dock beside the flash's 2/3, depending on the ring size), but these are not fluctuations of a cold vacuum: the quantum step makes pairs from calm at no cost (the first beat is a full flash) and keeps no energy, and a step that keeps an exact energy leaves the empty vacuum, that energy's only zero state, where it is, so no cold vacuum in this configuration model can fluctuate.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L2 (L2: known physics reproduced on a stated model).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/fluids/quantum-vacuum.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-FLD-0033",
+        "quote": null
+      }
+    ]
+  }
+}

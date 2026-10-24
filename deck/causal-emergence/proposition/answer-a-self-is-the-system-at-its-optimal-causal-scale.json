@@ -1,0 +1,45 @@
+{
+  "record": "proposition",
+  "id": "aa8ddd9a-c285-4b3b-8a3c-cb8c2793d2df",
+  "kind": "philosophical",
+  "epistemic_status": "hypothesized",
+  "title": "Answer: a self is the system at its optimal causal scale",
+  "statements": [
+    {
+      "id": "f6e3a98a-fe5b-41c5-9206-ab4fe409e368",
+      "text": "A system defines itself causally at the macro level where its causal interactions come into focus, so agents can be causes at their own scale even though they are made of atoms.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-23"
+    }
+  ],
+  "current_statement": "f6e3a98a-fe5b-41c5-9206-ab4fe409e368",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "8360d34d-30cb-44f8-89c9-41768fb53f0d",
+        "locator": "Discussion, Causal Exclusion and Its Implications",
+        "quote": "implies causal “self-definition” at the optimal macro level—the one at which its causal interactions “come into focus”"
+      }
+    ]
+  }
+}

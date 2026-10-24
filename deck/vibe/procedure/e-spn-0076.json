@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "73e1a021-754c-4746-a516-ad2ffe5de529",
+  "title": "E-SPN-0076: the string's cost is the light's own drift term read on the flux, zeta^(-c l) with c = N the classical...",
+  "purpose": "Experiment E-SPN-0076 in the spin arena: the string's cost is the light's own drift term read on the flux, zeta^(-c l) with c = N the classical light's split, and it never wraps inside the column (the longest string costs 2D pi / (2D + 1) < pi); a STAND-IN on locked tokens: the rule stays exact and reversible, and with the particle sector read in momentum space and each level unwrapped by its own content the lightest level is defined, unique, and the most compact, its size set by the cost and not the wall.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L2 (L2: known physics reproduced on a stated model).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/spin/string-cost-lightest.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-SPN-0076",
+        "quote": null
+      }
+    ]
+  }
+}

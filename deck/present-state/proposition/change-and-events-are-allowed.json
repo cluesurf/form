@@ -1,0 +1,45 @@
+{
+  "record": "proposition",
+  "id": "4f74235b-b2d8-4dda-a095-e45585c979ab",
+  "kind": "philosophical",
+  "epistemic_status": "inferred",
+  "title": "Accounts built on change or events are allowed",
+  "statements": [
+    {
+      "id": "d1075387-34ea-4189-8083-661915ba9427",
+      "text": "An account is not excluded because it invokes change or an instantaneous event. The requirement is that the attribution be fixed by the complete physical state at the time of attribution, which may lie at an event boundary, not by an extended prior history.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "d1075387-34ea-4189-8083-661915ba9427",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "ac2774e1-a04c-4c89-9db2-7848c6f5ce0b",
+        "locator": "section 5.4",
+        "quote": "Such accounts are not excluded merely because they invoke change or an instantaneous event."
+      }
+    ]
+  }
+}

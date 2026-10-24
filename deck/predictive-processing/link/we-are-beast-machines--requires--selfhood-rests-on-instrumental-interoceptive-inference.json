@@ -1,0 +1,28 @@
+{
+  "record": "link",
+  "id": "835e0e1e-5493-47a3-97dc-e2d14d43e215",
+  "from": "e3f35112-cf88-494c-abd6-b0d3463d9642",
+  "to": "aa3d8ebd-d187-4b05-b746-0be0f45ab97c",
+  "relation": "requires",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "bfa85443-4b77-43f1-b5f2-ec1850a4bc3c",
+        "locator": "accepted manuscript p. 2, abstract",
+        "quote": "experiences of embodied selfhood arise because of, and not in spite of, our nature as 'beast machines'"
+      }
+    ]
+  }
+}

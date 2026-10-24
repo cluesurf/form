@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "4b9a7444-25c5-4cf8-80b2-ed1c518a6ade",
+  "title": "E-GRV-0068: no distance from shared information on the quantum state of the working vacuum either, fail on C3 and...",
+  "purpose": "Experiment E-GRV-0068 in the gravity arena: no distance from shared information on the quantum state of the working vacuum either, fail on C3 and C4: the von Neumann mutual information of husk columns, read on the coined no-veto store's own superposed state (reader calibrated on the like knot, 1.622556 bits = 2 h(1/4)), is exactly 0 on the vacuum as run, which is one term at every one of 48 beats (side 8, 17 starts); the all-open vacuum ($2^{480}$ terms after one beat on side 4, too large to hold, read exactly through its product of 480 met pairs) correlates each pair only at its own separation, mesh distance 2, with 0 bits at axis 1; a lone love in superposition (16 to 130 terms) correlates only the 4 to 8 columns of its own line, about 1e-3 bits that do not fall from axis 1 to axis 4 and exactly 0 on every body diagonal; so neither form of emergent distance gives back the mesh distance.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L2 (L2: known physics reproduced on a stated model).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/gravity/quantum-shared-distance.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-GRV-0068",
+        "quote": null
+      }
+    ]
+  }
+}

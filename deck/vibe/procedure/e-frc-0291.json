@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "b8b243e2-c2e8-44f7-b2f3-8f1c23635106",
+  "title": "E-FRC-0291: explores whether a Sigma(648) colour field can carry a wall index that breaks the one-wall member...",
+  "purpose": "Experiment E-FRC-0291 in the gauge arena: explores whether a Sigma(648) colour field can carry a wall index that breaks the one-wall member number: the register bulk gap stays open up to flux 1/6 per cell and closes at 2/9; the uniform and the lumpy group-valued fields close it, but dilute sheets of the order-9 element (h on one strip of every second to fourth column) keep it open and each colour component flows 4 p on wall A and -4 p on wall B at depths 12 and 16.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L2 (L2: known physics reproduced on a stated model).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/gauge/wall-index.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-FRC-0291",
+        "quote": null
+      }
+    ]
+  }
+}

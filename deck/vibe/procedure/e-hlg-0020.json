@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "c899308a-5553-497c-b5b3-f83711ed2532",
+  "title": "E-HLG-0020: a signal crosses the whole universe through the bulk to a far self",
+  "purpose": "Experiment E-HLG-0020 in the holography arena: a signal crosses the whole universe through the bulk to a far self.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L3 (L3: one base rule produced the result as a measured consequence, with a computed control that could have failed).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/holography/signaling.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-HLG-0020",
+        "quote": null
+      }
+    ]
+  }
+}

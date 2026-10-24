@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "6ca18354-2b32-4a03-939e-824fe0fc18ba",
+  "title": "E-QTM-0019: a drain coupled along one spatial axis writes a record along that axis and not the orthogonal one, an...",
+  "purpose": "Experiment E-QTM-0019 in the quantum arena: a drain coupled along one spatial axis writes a record along that axis and not the orthogonal one, an axis-selection consistency result for the coupling direction.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L1 (L1: known mathematics, correctly confirmed).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/quantum/pointer-basis-selection.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-QTM-0019",
+        "quote": null
+      }
+    ]
+  }
+}

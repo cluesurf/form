@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "f9667472-0aea-43f8-bedf-2990bea41463",
+  "title": "E-QTM-0143: Bell on net records: the net record counts of the two parties' in-model apparatus are non-negative...",
+  "purpose": "Experiment E-QTM-0143 in the quantum arena: Bell on net records: the net record counts of the two parties' in-model apparatus are non-negative counts at every setting pair, local and non-signaling, with no setting dependence, and they violate CHSH up to 2.5298 on the comoving beat (62/27 on four histories), while the fear-off runs never pass 2: the violation is carried by signed hidden joint points under non-negative outcome statistics, the known negative-probability loophole.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L2 (L2: known physics reproduced on a stated model).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/quantum/bell-on-net-records.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-QTM-0143",
+        "quote": null
+      }
+    ]
+  }
+}

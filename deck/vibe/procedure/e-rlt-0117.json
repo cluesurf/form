@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "945ec6f0-086c-4a0a-a197-f5945675f70a",
+  "title": "E-RLT-0117: no part of the bound register pair stays behind on a body diagonal, open on the axis (gates fixed before...",
+  "purpose": "Experiment E-RLT-0117 in the relativity arena: no part of the bound register pair stays behind on a body diagonal, open on the axis (gates fixed before the run): line branches with n . u = 0 would keep 1/4 of the K = 0 line at its energy on a body diagonal and 1/2 on an axis (the same solve reads 0.2500 and 0.5000 on them), and the pair keeps 0 at K 0.20 and 0.24 on the body diagonal, its line moving whole (0.80 and 0.78 of 0.82) by 2 to 3% less than a kappa^2 + b kappa^4; on the axis at 0.24 a neighboring level puts 0.126 there, between the 0.05 and 0.15 bounds.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L2 (L2: known physics reproduced on a stated model).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/relativity/bound-pair-still-branch.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-RLT-0117",
+        "quote": null
+      }
+    ]
+  }
+}

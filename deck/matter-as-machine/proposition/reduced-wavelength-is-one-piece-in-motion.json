@@ -1,0 +1,45 @@
+{
+  "record": "proposition",
+  "id": "606cccf9-d90d-4e8b-836f-c7b43b9d9385",
+  "kind": "definitional",
+  "epistemic_status": "designed",
+  "title": "Reduced wavelength is one discrete piece in motion",
+  "statements": [
+    {
+      "id": "f2ae473d-c10a-4ccf-b8f7-2cbe1b38cb23",
+      "text": "The reduced wavelength is the contribution of one discrete piece of the machine in motion.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "f2ae473d-c10a-4ccf-b8f7-2cbe1b38cb23",
+  "status": "active",
+  "voice": "framework",
+  "defines": "reduced wavelength",
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "f1f9bdb8-14c9-4c62-9e48-01ecc2870699",
+        "locator": "Reduced wavelength",
+        "quote": "Reduced wavelength is the contribution of one discrete piece in motion."
+      }
+    ]
+  }
+}

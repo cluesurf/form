@@ -1,0 +1,34 @@
+{
+  "record": "link",
+  "id": "c48d5b8d-130d-4b71-b012-ec4a04fca3fa",
+  "from": "13e765fa-f137-4486-a49a-0a4bb277a7c0",
+  "to": "5c24f0f9-c678-40cf-97f1-1d6cb0055159",
+  "relation": "supports",
+  "strength": null,
+  "rationale": "Considerable subliminal processing occurred early in the occipito-temporal pathway, and a late distributed activation went with report.",
+  "rule": null,
+  "status": "accepted",
+  "origin": [
+    {
+      "repository": "global-workspace",
+      "id": "6a909894-7c7f-4f41-b8c2-32bfa6c74e12"
+    }
+  ],
+  "provenance": {
+    "written_by": "github:lancejpollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "a5ef8951-86bf-4bd3-9698-d3a3a6940398",
+        "locator": "abstract",
+        "quote": "pointing to a late (>270 ms) and highly distributed fronto-parieto-temporal activation as a correlate of conscious reportability."
+      }
+    ]
+  }
+}

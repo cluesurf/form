@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "cc762a91-e0d1-4a07-b338-5566716c0bce",
+  "title": "E-FLD-0024: a four-line binary scattering block (two lone tones on u and v leave on w and x when...",
+  "purpose": "Experiment E-FLD-0024 in the fluids arena: a four-line binary scattering block (two lone tones on u and v leave on w and x when $e_u + e_v = e_w + e_x$, an involution on a fixed 24-beat schedule placed around the CPT mirror phase) makes the twelve line momenta exchange while charge, P, reversal, Gauss, local color, the frame change and CPT stay exact; local color leaves one more invariant than P, the sum of the twelve line momenta, since a dock counts its calm slots by side and every binary scattering that changes that sum changes it by 2, not a multiple of 3, so the 144 color-keeping scatterings of the 216 leave five free invariants where all 216 leave four; on the head-on turn weave (the color turn schedule with the FHP rotation of a like head-on pair as its exchange), the one momentum-keeping base a search of 2,690 finds that the block carries through every committed acceptance gate, a lone love dressing no more than the committed rule, the block joining the three dense line components the base leaves into one.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L2 (L2: known physics reproduced on a stated model).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/fluids/scatter-weave.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-FLD-0024",
+        "quote": null
+      }
+    ]
+  }
+}

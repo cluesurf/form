@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "51e02982-b756-46d9-b88b-bc891efc5ed1",
+  "title": "E-FRC-0189: does the paid string on the E-FRC-0129 line, with demons that can pay for a pair, sample its own exact...",
+  "purpose": "Experiment E-FRC-0189 in the gauge arena: does the paid string on the E-FRC-0129 line, with demons that can pay for a pair, sample its own exact measure: the vacuum's charge density, paid fraction and meson profile against the transfer matrix at the demons' temperature.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L2 (L2: known physics reproduced on a stated model).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/gauge/pair-string-line.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-FRC-0189",
+        "quote": null
+      }
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "record": "link",
+  "id": "f95db538-b490-48c4-a9e3-2602cf3fb1e0",
+  "from": "d5638976-781f-4dff-bc12-a640a314100a",
+  "to": "2bbcd9a3-eddc-40d7-bc35-e965cd139f7a",
+  "relation": "supports",
+  "strength": null,
+  "rationale": "For computers the assembled copy is preparable in fact.",
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "ac2774e1-a04c-4c89-9db2-7848c6f5ce0b",
+        "locator": null,
+        "quote": null
+      }
+    ]
+  }
+}

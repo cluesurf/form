@@ -1,0 +1,50 @@
+{
+  "record": "proposition",
+  "id": "5c6cc4ff-185e-41b0-b6f0-b48982227290",
+  "kind": "empirical",
+  "epistemic_status": "inferred",
+  "title": "attractor memory fails on the bare reversible rule",
+  "statements": [
+    {
+      "id": "eb4f12f5-72f8-415c-ba85-a90c6e3df0ed",
+      "text": "Attractor memory fails on the bare reversible rule.",
+      "language": "en",
+      "scope": "verdict stands: the objection is correct about the program today",
+      "conditions": "Measured: recall 0 on the bare rule against 1 on a dissipative Hopfield layer, chance 0.167, 6 patterns, 256 docks. Evidence named: E-MMR-0007.",
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-22"
+    }
+  ],
+  "current_statement": "eb4f12f5-72f8-415c-ba85-a90c6e3df0ed",
+  "status": "active",
+  "voice": "critique",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": {
+    "value": "open",
+    "reason": "verdict stands",
+    "basis": [],
+    "proposal": null
+  },
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "research/objection.ts",
+        "quote": null
+      }
+    ]
+  }
+}

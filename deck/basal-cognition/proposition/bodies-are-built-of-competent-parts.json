@@ -1,0 +1,45 @@
+{
+  "record": "proposition",
+  "id": "77b3dfc0-77eb-4047-8602-516a8a17905a",
+  "kind": "empirical",
+  "epistemic_status": "inferred",
+  "title": "Bodies are built of competent, goal-seeking parts",
+  "statements": [
+    {
+      "id": "4faa81f4-39bd-47ca-905f-7535bee80f60",
+      "text": "Bodies consist of components that are themselves competent: goal-seeking modules that navigate their own spaces and reach specific outcomes despite perturbation.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-23"
+    }
+  ],
+  "current_statement": "4faa81f4-39bd-47ca-905f-7535bee80f60",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "fd7382f9-52a5-4beb-9680-fc341ff15b98",
+        "locator": "Table 3",
+        "quote": "Bodies consist of components which are themselves competent (goal-seeking modules that navigate their own spaces) and can achieve specific outcomes despite perturbations and changing conditions."
+      }
+    ]
+  }
+}

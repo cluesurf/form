@@ -1,0 +1,50 @@
+{
+  "record": "proposition",
+  "id": "a308d248-a093-4d9e-bee2-f7b4bc3714a0",
+  "kind": "empirical",
+  "epistemic_status": "simulated",
+  "title": "E-HLG-0004: distant surface points are joined by a short hidden path through the bulk",
+  "statements": [
+    {
+      "id": "368c2a2b-e029-4079-8ff4-f6c3a690d069",
+      "text": "Distant surface points are joined by a short hidden path through the bulk.",
+      "language": "en",
+      "scope": "experiment E-HLG-0004, arena holography, depth L3 (L3: one base rule produced the result as a measured consequence, with a computed control that could have failed)",
+      "conditions": "substrates: 534. In a paper: true",
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-22"
+    }
+  ],
+  "current_statement": "368c2a2b-e029-4079-8ff4-f6c3a690d069",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": {
+    "value": "open",
+    "reason": "holds in the vibe claim graph",
+    "basis": [],
+    "proposal": null
+  },
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "research/result.ts R-HLG-0002",
+        "quote": null
+      }
+    ]
+  }
+}

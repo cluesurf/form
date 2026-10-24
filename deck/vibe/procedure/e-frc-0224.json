@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "2aef6e3f-fa9d-433b-bb17-5eeeee83d740",
+  "title": "E-FRC-0224: spontaneous emission from a light in the signed whole: a STAND-IN excited emitter meeting the registers...",
+  "purpose": "Experiment E-FRC-0224 in the gauge arena: spontaneous emission from a light in the signed whole: a STAND-IN excited emitter meeting the registers the stream copies past it, through the fear beat, decays exactly as 4^-n from a pure 2p where the semiclassical rule gives 0, and the photon leaves with the magic; the rate is not the golden rule, the meeting is strong.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L2 (L2: known physics reproduced on a stated model).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/gauge/stream-spontaneous-emission.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-FRC-0224",
+        "quote": null
+      }
+    ]
+  }
+}

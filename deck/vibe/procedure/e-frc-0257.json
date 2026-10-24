@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "379fb82f-0589-48e0-8d25-c1303ce51894",
+  "title": "E-FRC-0257: holding the gauge field's resolution fixed and letting only the metric divisors read depth makes alpha...",
+  "purpose": "Experiment E-FRC-0257 in the gauge arena: holding the gauge field's resolution fixed and letting only the metric divisors read depth makes alpha flat in local units, pass (a consistency result): with the angle windows and Peierls root at D0 = 16 and the kick's and span's divisors at metric depths 8 .. 32 ($q_m$ 17 .. 65), alpha_local reads 1/443.4 at every metric depth, flat to 2.8e-8, sqrt(3) / (48 D0) to 2.9e-8, hbar in the light's units D0 / pi = 5.093 throughout, so k_alpha = 7e-9 where the unfixed light (resolution tied to the metric) reads 1/221.7 .. 1/886.8 = $1 / D_m$ and k_alpha = 2.07; the light's Coulomb growth is the unfixed light's value for value in 15 of 15 runs (the rule reads the resolution only at a window crossing, and none occurs), every run reversed with Gauss exact and 0 wraps, and a gauge map that crosses 2,120 windows on the radion's slab is covariant on 256 of 256 beats, where the unfixed light over the same slab is covariant on 0 (its wraps move a boundary triangle's field by 4 $D_l$, not a multiple of its 4 $D_P$); the counters and remainders are then registers of the metric, not columns of the bulk.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L2 (L2: known physics reproduced on a stated model).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/gauge/fixed-resolution-alpha.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-FRC-0257",
+        "quote": null
+      }
+    ]
+  }
+}

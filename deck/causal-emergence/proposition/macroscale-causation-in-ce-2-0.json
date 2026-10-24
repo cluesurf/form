@@ -1,0 +1,45 @@
+{
+  "record": "proposition",
+  "id": "e5b37246-c587-47b1-976d-ceb8107ca3c8",
+  "kind": "definitional",
+  "epistemic_status": "designed",
+  "title": "Macroscale causation in CE 2.0",
+  "statements": [
+    {
+      "id": "df33a292-7044-4c09-8419-3086cbe01d4a",
+      "text": "In Causal Emergence 2.0, macroscale causation is the gain in information-theoretic forms of sufficiency and necessity along a path of coarse-grains from the microscale to the top scale, and causal emergence is the sum of that gain.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-23"
+    }
+  ],
+  "current_statement": "df33a292-7044-4c09-8419-3086cbe01d4a",
+  "status": "active",
+  "voice": "framework",
+  "defines": "macroscale causation",
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "c40bbd28-a2c5-4730-84c0-90f7ae0644de",
+        "locator": "section 7",
+        "quote": "macroscale causation is measurable via the gain in information-theoretic generalizations of the causal primitives (sufficiency and necessity) along a specified path"
+      }
+    ]
+  }
+}

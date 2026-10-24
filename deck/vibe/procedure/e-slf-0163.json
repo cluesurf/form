@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "897cdebd-eb59-471a-8e57-15136d08cf56",
+  "title": "E-SLF-0163: unified experience switches on sharply as two selves combine, a threshold integration gain (the...",
+  "purpose": "Experiment E-SLF-0163 in the selves arena: unified experience switches on sharply as two selves combine, a threshold integration gain (the combination problem as a phase transition).",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L2 (L2: known physics reproduced on a stated model).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/selves/combination-transition.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-SLF-0163",
+        "quote": null
+      }
+    ]
+  }
+}

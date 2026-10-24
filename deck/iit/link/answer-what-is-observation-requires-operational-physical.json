@@ -1,0 +1,28 @@
+{
+  "record": "link",
+  "id": "726fa991-9af8-42b2-b808-bc48cb3c39dd",
+  "from": "38826a39-6d88-47a3-84da-df7027edddd1",
+  "to": "fe908ff5-b089-4454-9110-70c5ce980b1d",
+  "relation": "requires",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "8443eb2e-406e-4acc-94e8-33cbabbd3679",
+        "locator": "section \"Axioms\" (full text)",
+        "quote": "something can be said to exist physically if it can “take and make a difference”—bear a cause and produce an effect—as judged by a conscious observer/manipulator."
+      }
+    ]
+  }
+}

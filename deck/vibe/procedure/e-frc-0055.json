@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "7ac854a3-6428-45bb-973a-648bd3666985",
+  "title": "E-FRC-0055: the weak mixing angle sin^2(theta_W) = 3/8 is pinned by the discrete charge content, and an altered...",
+  "purpose": "Experiment E-FRC-0055 in the gauge arena: the weak mixing angle sin^2(theta_W) = 3/8 is pinned by the discrete charge content, and an altered charge breaks it.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L1 (L1: known mathematics, correctly confirmed).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/gauge/weinberg-angle-geometric.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-FRC-0055",
+        "quote": null
+      }
+    ]
+  }
+}

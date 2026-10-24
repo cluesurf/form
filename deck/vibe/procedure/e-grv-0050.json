@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "280c1ecb-a977-4d61-98e5-3bcd3de73f2c",
+  "title": "E-GRV-0050: the bulk gravity screening is a clean size-independent spectral gap, not a finite-size artifact: the...",
+  "purpose": "Experiment E-GRV-0050 in the gravity arena: the bulk gravity screening is a clean size-independent spectral gap, not a finite-size artifact: the random-walk decay rate (spectral radius) on {3,4,3,4} is 0.572 at BOTH 9000 and 170000 cells (size-independent), well below one (a gap, Yukawa mass -ln(0.572)), while the flat lattice rate rises toward one (no gap, no screening), upgrading the earlier size-dependent Green's-function drop.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L2 (L2: known physics reproduced on a stated model).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/gravity/gravity-screening-size-independent.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-GRV-0050",
+        "quote": null
+      }
+    ]
+  }
+}

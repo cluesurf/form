@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "48fccfa0-d8f8-4d19-9fb2-9d586181e78b",
+  "title": "E-SLF-0042: more goal-directed effort gives a better determined outcome and zero effort a worse one, so it does not...",
+  "purpose": "Experiment E-SLF-0042 in the selves arena: more goal-directed effort gives a better determined outcome and zero effort a worse one, so it does not happen anyway.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L2 (L2: known physics reproduced on a stated model).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/selves/effort-is-a-cause.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-SLF-0042",
+        "quote": null
+      }
+    ]
+  }
+}

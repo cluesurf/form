@@ -1,0 +1,50 @@
+{
+  "record": "proposition",
+  "id": "fe2cf869-caef-4cc0-8f4d-265e79684e6e",
+  "kind": "empirical",
+  "epistemic_status": "simulated",
+  "title": "E-FRC-0085: three quarks bound by SU(3) gluons into a nucleon weigh many times three free quarks, and the nucleon...",
+  "statements": [
+    {
+      "id": "261eb091-d75c-40aa-bf1a-020221726b94",
+      "text": "Three quarks bound by SU(3) gluons into a nucleon weigh many times three free quarks, and the nucleon stays heavy as the quark mass goes to zero while the pion becomes light.",
+      "language": "en",
+      "scope": "experiment E-FRC-0085, arena gauge, depth L2 (L2: known physics reproduced on a stated model)",
+      "conditions": "substrates: any. In a paper: false",
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-22"
+    }
+  ],
+  "current_statement": "261eb091-d75c-40aa-bf1a-020221726b94",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": {
+    "value": "open",
+    "reason": "holds in the vibe claim graph",
+    "basis": [],
+    "proposal": null
+  },
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "research/result.ts R-FRC-0001",
+        "quote": null
+      }
+    ]
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "91aedd4d-569d-4daa-9154-e8602790ad59",
+  "title": "E-GMT-0025: the {4,3,4} cusp reads spectral dimension ~3, so spacetime is 3 space plus 1 beat",
+  "purpose": "Experiment E-GMT-0025 in the geometry arena: the {4,3,4} cusp reads spectral dimension ~3, so spacetime is 3 space plus 1 beat.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L1 (L1: known mathematics, correctly confirmed).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/geometry/why-3plus1.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-GMT-0025",
+        "quote": null
+      }
+    ]
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "59fb8a6a-89d5-4be3-98f8-da56cbe5a784",
+  "title": "E-GRV-0100: a husk backed by four shrinking layers keeps a long-range 1/r pull near the zero mode's share, with a...",
+  "purpose": "Experiment E-GRV-0100 in the gravity arena: a husk backed by four shrinking layers keeps a long-range 1/r pull near the zero mode's share, with a positive short-range correction that falls as about 1/r and not as Randall-Sundrum II's $1 / r^2$, partial: exact and bounded (Gauss 0 off, no line off the husk, curl 0, 0 wraps, reversal bit for bit), the stack's fitted k is 0.02272, 0.549 of the husk alone's against the layered prediction's 0.566 and the zero mode's 16/31 = 0.516, but its long-range force runs 2 to 3 percent under the layered prediction (worst 3.08 against a 3 percent gate) and the control's husk-alone k is 0.04139, 1.04 percent under E-GRV-0090's 0.0418217 (gate 1); the correction is positive at every r and within 24 percent of the layered prediction on r = 4 .. 11 (0.34 and 0.15 at r = 4 and 8), log slope 1.16 against the layered 1.02 and RS's 1.87, a quarter to a half of RS's size there, because every dock beats one clock and the bulk's time is not warped.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L2 (L2: known physics reproduced on a stated model).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/gravity/shrink-husk-static.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-GRV-0100",
+        "quote": null
+      }
+    ]
+  }
+}

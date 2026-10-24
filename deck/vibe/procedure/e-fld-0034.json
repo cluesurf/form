@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "a144b482-e22e-4a73-8875-415547bed059",
+  "title": "E-FLD-0034: is the rule's collision an FCHC collision? fail as predicted, on momentum and never on mass, at the coin...",
+  "purpose": "Experiment E-FLD-0034 in the fluids arena: is the rule's collision an FCHC collision? fail as predicted, on momentum and never on mass, at the coin and not at the knit's collision: the knit's collision (pair move and dock permutation, all four kinds) keeps mass and momentum on every two-body, three-body and full table (0 breaks over all $2^{24}$ occupations) and has exactly FCHC's 5 invariants from three bodies up, but its two-body table is the identity (0 of 1,128 contents move, 24 invariants: the deterministic -1 never turns a head-on pair), while its coin changes the momentum on 63,552 of 63,808 moving transitions and coin with collision keeps the mass alone; on the register rule the pair piece itself breaks it (two-body commutator^2 128 in both sectors, 328,392 of 331,776 slot-pair transitions change the pair's momentum), as do the mixers (8) and the swap coin, which reverses it; controls: FCHC's isometric collision keeps both with exactly 5 invariants at two and three bodies, FHP gives 4 and 3, a slot-diagonal pair piece commutes.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L1 (L1: known mathematics, correctly confirmed).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/fluids/fchc-comparison.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-FLD-0034",
+        "quote": null
+      }
+    ]
+  }
+}

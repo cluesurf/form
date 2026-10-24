@@ -1,0 +1,45 @@
+{
+  "record": "proposition",
+  "id": "5aa7e297-0d71-4527-ade4-af3d11f896b9",
+  "kind": "philosophical",
+  "epistemic_status": "inferred",
+  "title": "Denying P3 makes consciousness untestable",
+  "statements": [
+    {
+      "id": "47b31d41-13c6-4cfb-a0f0-8e635da0f968",
+      "text": "A theory may deny that consciousness is causally efficacious, but then rival consciousness assignments produce the same neural activity, behavior and reports, and no observation can tell them apart.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "47b31d41-13c6-4cfb-a0f0-8e635da0f968",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "ac2774e1-a04c-4c89-9db2-7848c6f5ce0b",
+        "locator": "Discussion",
+        "quote": "rival consciousness assignments produce the same subsequent neural activity, behavior, and reports and are observationally indistinguishable"
+      }
+    ]
+  }
+}

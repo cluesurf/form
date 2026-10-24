@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "b38a662a-49da-41f6-b49e-25a7bf1b6f9c",
+  "title": "E-FRC-0089: pure SU(3) gauge theory has a mass gap: the variational 0++ glueball mass, on a plateau from t = 0 to 2...",
+  "purpose": "Experiment E-FRC-0089 in the gauge arena: pure SU(3) gauge theory has a mass gap: the variational 0++ glueball mass, on a plateau from t = 0 to 2, matches the published Wilson-action lattice mass at beta 5.7, and sits below the continuum m r0 = 4.21 by the known scalar dip of a coarse lattice.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L2 (L2: known physics reproduced on a stated model).",
+  "status": "completed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/gauge/static-quarks.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "research/result.ts R-FRC-0001",
+        "quote": null
+      }
+    ]
+  }
+}

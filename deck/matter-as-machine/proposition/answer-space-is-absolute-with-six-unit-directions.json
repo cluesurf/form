@@ -1,0 +1,50 @@
+{
+  "record": "proposition",
+  "id": "3a2ddba4-1ea3-47db-b90f-ca773ee850ac",
+  "kind": "philosophical",
+  "epistemic_status": "hypothesized",
+  "title": "Answer: space is absolute, crossed in six unit directions",
+  "statements": [
+    {
+      "id": "f5828a7f-df26-4947-a62a-cd6cfcd47956",
+      "text": "Space is shared and absolute. A machine moves in it only along six directions, left, right, up, down, forward and back, by one fixed distance per tick, so motion has the taxicab geometry of a grid, from which Euclidean rotation is expected to emerge through interaction.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "f5828a7f-df26-4947-a62a-cd6cfcd47956",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "f1f9bdb8-14c9-4c62-9e48-01ecc2870699",
+        "locator": "opening",
+        "quote": "moves in the corresponding direction of space by the same discrete distance on each tick of time."
+      },
+      {
+        "source": "57bea3cc-6106-4840-8c2d-ebfa28886156",
+        "locator": "opening",
+        "quote": "how Euclidean rotation can emerge in taxicab space, how repulsion, attraction, and gravity can emerge"
+      }
+    ]
+  }
+}

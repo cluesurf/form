@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "a8ea8dcc-d1ef-454e-b579-b6c91e182b0f",
+  "title": "E-SLF-0151: with the will a self moves toward a target and away from a threat, unbiased does not",
+  "purpose": "Experiment E-SLF-0151 in the selves arena: with the will a self moves toward a target and away from a threat, unbiased does not.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L2 (L2: known physics reproduced on a stated model).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/selves/will-steering.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-SLF-0151",
+        "quote": null
+      }
+    ]
+  }
+}

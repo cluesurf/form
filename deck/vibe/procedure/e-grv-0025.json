@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "5e357f01-0fdc-46c7-8386-4510875b7cae",
+  "title": "E-GRV-0025: a common-ancestor tree-path propagator on the real cell graph, calibrated against {5,3,4}",
+  "purpose": "Experiment E-GRV-0025 in the gravity arena: a common-ancestor tree-path propagator on the real cell graph, calibrated against {5,3,4}.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L1 (L1: known mathematics, correctly confirmed).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/gravity/gravity-treepath.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-GRV-0025",
+        "quote": null
+      }
+    ]
+  }
+}

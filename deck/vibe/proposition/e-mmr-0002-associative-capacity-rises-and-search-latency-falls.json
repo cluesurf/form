@@ -1,0 +1,50 @@
+{
+  "record": "proposition",
+  "id": "96684556-9f00-4fa3-a4f9-ebffe7450445",
+  "kind": "empirical",
+  "epistemic_status": "simulated",
+  "title": "E-MMR-0002: associative capacity rises and search latency falls with curvature across the tessellation catalog, the...",
+  "statements": [
+    {
+      "id": "144c605a-3487-4d01-9345-8cc7de1e9c19",
+      "text": "Associative capacity rises and search latency falls with curvature across the tessellation catalog, the flat cubic lattice being the worst on both.",
+      "language": "en",
+      "scope": "experiment E-MMR-0002, arena associative, depth L3 (L3: one base rule produced the result as a measured consequence, with a computed control that could have failed)",
+      "conditions": "substrates: any. In a paper: true",
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-22"
+    }
+  ],
+  "current_statement": "144c605a-3487-4d01-9345-8cc7de1e9c19",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": {
+    "value": "open",
+    "reason": "holds in the vibe claim graph",
+    "basis": [],
+    "proposal": null
+  },
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "research/result.ts R-MMR-0001",
+        "quote": null
+      }
+    ]
+  }
+}

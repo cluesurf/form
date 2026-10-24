@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "9bcb10ae-551a-477e-b397-98b6d014a6a1",
+  "title": "E-FLD-0019: with hbar derived from the unit-kick law (one kick event is one lattice action unit shifting phase by...",
+  "purpose": "Experiment E-FLD-0019 in the fluids arena: with hbar derived from the unit-kick law (one kick event is one lattice action unit shifting phase by exactly two pi over three, so hbar equals three over two pi) the momentum-conserving gas has a viscosity-to-entropy ratio about eight times the KSS quantum bound: above the bound, so the conjectured inequality is respected, and within one order of it, the near-perfect-fluid band the graphene Dirac fluid occupies while classical fluids sit orders higher, with the identification predicting as its falsifiable companion that the period-six breather carries exactly one half lattice energy unit.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L2 (L2: known physics reproduced on a stated model).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/fluids/quantum-bound-viscosity-ratio.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-FLD-0019",
+        "quote": null
+      }
+    ]
+  }
+}

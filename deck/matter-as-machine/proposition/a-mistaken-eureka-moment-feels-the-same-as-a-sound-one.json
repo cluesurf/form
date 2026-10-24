@@ -1,0 +1,57 @@
+{
+  "record": "proposition",
+  "id": "c6ff8d75-f78e-4754-97e4-316b8e4bff9a",
+  "kind": "empirical",
+  "epistemic_status": "hypothesized",
+  "title": "A mistaken eureka moment feels the same as a sound one",
+  "statements": [
+    {
+      "id": "2003b1d4-5c20-427a-a494-3ef4b79a7dc1",
+      "text": "A eureka moment about a mistaken idea should be able to bring happiness and conviction indistinguishable from one about a sound idea. The first feeling alone would not tell the two apart, and the attachment could outlast the moment by days or years.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "2003b1d4-5c20-427a-a494-3ef4b79a7dc1",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": {
+    "resolution_criterion": "A study of rare, emotionally intense insights, not task-based ones, finds that insights later judged mistaken came with happiness and conviction no different from those later judged sound, and that the attachment lasted beyond the moment.",
+    "resolver": "independent_review",
+    "locked_at": "2026-10-19",
+    "outcome": null,
+    "resolved_at": null,
+    "observation": null
+  },
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "e6dbdcc2-6236-4a28-8cc2-6ae671d7b6af",
+        "locator": "Prediction",
+        "quote": "Even when the idea is mistaken, such an experience should be capable of producing happiness and conviction indistinguishable from those accompanying a sound idea."
+      },
+      {
+        "source": "e6dbdcc2-6236-4a28-8cc2-6ae671d7b6af",
+        "locator": "Prediction",
+        "quote": "The initial feeling alone would not reliably distinguish the two, and the attachment could persist long after the moment itself."
+      }
+    ]
+  }
+}

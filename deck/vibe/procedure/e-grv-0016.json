@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "6ad9af19-a1aa-4d18-af67-a73fc95a40ba",
+  "title": "E-GRV-0016: the assumed general-relativistic waveform formulas are internally self-consistent",
+  "purpose": "Experiment E-GRV-0016 in the gravity arena: the assumed general-relativistic waveform formulas are internally self-consistent.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L0 (L0: circular: the answer reaches the verdict as a typed constant).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/gravity/gr-gravitational-waves.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-GRV-0016",
+        "quote": null
+      }
+    ]
+  }
+}

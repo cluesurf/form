@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "f98e87e1-7ce4-4ad6-bf67-03e2bcac12e8",
+  "title": "E-FND-0173: a BCS mean field on the register rule's band, with the rule's contact phases as the pair potential...",
+  "purpose": "Experiment E-FND-0173 in the foundations arena: a BCS mean field on the register rule's band, with the rule's contact phases as the pair potential, pairs at all three fillings, partial (the gap gate's normal-state reference fails at filling 0.625, where the number equation moves mu into the Dirac gap and the normal state is already gapped, 0.335 against 0.333): beat 1's contact repels in S and beat 2's conjugate attracts in D (g = +-2.668 on the principal branch), the D channel pairs at strong coupling (|Delta_D| 1.54, 1.81, 1.59 at fillings 0.625, 0.75, 0.875, Omega lowered by 0.28 to 0.91, BdG gap 0.672 against 0.046 normal at 0.75, mu outside the band at 0.625 and 0.875: the Bose side), the repulsive S contact alone gives 0 (6.6e-12, as concavity demands), and the other branch pairs in S instead; a first-order reading of a cycle whose contact phase is not small, and the pairs' mobility is not read.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L2 (L2: known physics reproduced on a stated model).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/foundations/register-pairing-gap.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-FND-0173",
+        "quote": null
+      }
+    ]
+  }
+}

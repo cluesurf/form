@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "25774ec7-3cbb-4ab4-ae73-bbd434c1ab60",
+  "title": "E-GRV-0138: the dock slide picks E-GRV-0125's coupling but not its extras or its speed, partial at L1 (pass on U1...",
+  "purpose": "Experiment E-GRV-0138 in the gravity arena: the dock slide picks E-GRV-0125's coupling but not its extras or its speed, partial at L1 (pass on U1, fail on U2 and U3): of the 231 cube-symmetric range-2 quadratic operators on the 12 class depths, 83 are invariant under the static slide delta d_a = (n_a . D)(n_a . xi) (central difference, exact ranks over two primes), and every one of them has a metric block that is a multiple of E-GRV-0125's linearized Einstein-Hilbert operator, at $p^2$ and to all orders in range 2 (rank 1 of 9 without the slide); but the central slide never moves the 6 extras, so 71 invariant dimensions give them derivative terms (3 masses, 7 $p^2$ forms, 2 couplings to curvature), and a static slide leaves the kinetic form free: with the rule's equal inertia per class the two TT polarizations along an axis run at omega^2 ratio 2.5, a register holding $\\delta (l^2)$ (weight $|u|^4$) makes it isotropic exactly, and the scalar depth's operator is not slide-invariant (624 and 1008 rows off) with a uniform-mode stiffness of -8 $k^2$, so nothing ties the TT speed to c; the own-link slide, the cube $|r_i|$ <= 2 and $O_h$ x (w -> -w) give the same metric rank 1 and the same free extras; E-GRV-0125's evolution is this member with the DeWitt kinetic metric up to the Hamiltonian constraint (3.6e-16).",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L1 (L1: known mathematics, correctly confirmed).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/gravity/slide-invariant-spin-two.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-GRV-0138",
+        "quote": null
+      }
+    ]
+  }
+}

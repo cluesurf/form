@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "7b16739a-a8b2-4a1b-ac0b-2d082eeea729",
+  "title": "E-SPN-0178: a register pair pulled from its knot comes back under the weak string and leaves without it, pass: with...",
+  "purpose": "Experiment E-SPN-0178 in the spin arena: a register pair pulled from its knot comes back under the weak string and leaves without it, pass: with E-SPN-0174's string (tau 0.0936, cap 24, held exactly) a pair set at rest at string length 8 or 10 swings back into the knot region V <= 5 (knot weight from 3e-17 and 6e-46 to late means 0.23 and 0.10 over cycles 65 to 128) and keeps its norm to 4e-10 with nothing past V0 + 10, while the same pull with no string leaves through an absorbing layer (norm 0.38 and 0.39, late knot weight 0.03 and 0.02), on a radius-32 ball run exactly on its signed-permutation sector; E-SPN-0177's free pair stayed because its ball's edge reflects; the return is the pair's swing in the rising string, not the bound level ($|c_b|^2$ 7e-3), and a fixed string returns a part only from a finite distance (about 26 here) before its cap or the D D ladder.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L2 (L2: known physics reproduced on a stated model).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/spin/pulled-pair-weak.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-SPN-0178",
+        "quote": null
+      }
+    ]
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "record": "proposition",
+  "id": "cbc4387b-630e-4213-8afe-398812b9c755",
+  "kind": "empirical",
+  "epistemic_status": "hypothesized",
+  "title": "Vigilance and reward signals modulate the workspace",
+  "statements": [
+    {
+      "id": "de1d6199-2f0e-4a48-9b16-08a59285d4a1",
+      "text": "Workspace activity is modulated by vigilance signals and selected by reward signals.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-23"
+    }
+  ],
+  "current_statement": "de1d6199-2f0e-4a48-9b16-08a59285d4a1",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "0e8a27d1-8b93-45f2-a326-74fe69301c54",
+        "locator": "abstract",
+        "quote": "subject to modulation by vigilance signals and to selection by reward signals"
+      }
+    ]
+  }
+}

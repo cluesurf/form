@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "a6582f15-63a3-48a9-a5ce-f9b0a1868051",
+  "title": "E-FND-0158: two holes of the full sea started on one dock on two different lines lift the knit's line law on the...",
+  "purpose": "Experiment E-FND-0158 in the foundations arena: two holes of the full sea started on one dock on two different lines lift the knit's line law on the many-body register rule, pass (the OPEN-FND-03 reruns this engine can read; no ledger row moves, since it is two holes on the 4d torus): the rule keeps the exchange sign exactly (the other sector below 2e-30 for 64 cycles, while a rule that treats the members differently puts 0.145 there), so the rule's own exchange is +1 or -1, and with $L(e_{01})^2 = -1$ a two-member composite turns and exchanges as a boson; under the member mixers a distinguishable pair reaches one mode (8.8e-3) and an antisymmetric pair never does (4e-33), so Pauli acts across lines; the pair pieces move up to 2.1e-3 of the pair's weight between relative momenta, which the free rule never does (1.2e-13: one-body, the register rule cannot equilibrate); and member 1's line weights differ by up to 1.0e-2 with member 2 interacting rather than free, where the knit's integration across lines is 0; with the mixers off every one-slot weight is exactly 0 (the line law), and a member held in the flats is changed by 1.8e-15.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L2 (L2: known physics reproduced on a stated model).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/foundations/register-crossing.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-FND-0158",
+        "quote": null
+      }
+    ]
+  }
+}

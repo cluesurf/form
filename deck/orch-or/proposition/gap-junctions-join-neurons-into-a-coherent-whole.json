@@ -1,0 +1,45 @@
+{
+  "record": "proposition",
+  "id": "92f40433-4a45-4be4-b217-69e320d66d0a",
+  "kind": "empirical",
+  "epistemic_status": "hypothesized",
+  "title": "Gap junctions join neurons into a coherent whole",
+  "statements": [
+    {
+      "id": "f960d541-694f-482c-b7d2-b842d03aa35a",
+      "text": "Neurons linked by dendritic gap junctions share synchronized membranes and continuous interiors, so quantum states in their microtubules could extend across many neurons.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-23"
+    }
+  ],
+  "current_statement": "f960d541-694f-482c-b7d2-b842d03aa35a",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "c0602528-f093-4705-abc3-e13d7657a680",
+        "locator": "section 2",
+        "quote": "Gap junction-connected cells have fused, synchronized membranes, and also continuous intracellular volumes"
+      }
+    ]
+  }
+}

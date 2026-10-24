@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "a72b9c7e-d628-450c-ac0f-98cea4af76a7",
+  "title": "E-FRC-0123: the vibe weave as one rule, with a flow on every link: charge exact, reversal exact with the flows...",
+  "purpose": "Experiment E-FRC-0123 in the gauge arena: the vibe weave as one rule, with a flow on every link: charge exact, reversal exact with the flows, Gauss's law exact at every cell on every beat, and a change of role frame in every cell commuting with it, with the color made at pair creation and the string a lone love leaves measured.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L2 (L2: known physics reproduced on a stated model).",
+  "status": "completed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/gauge/vibe-weave.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "research/result.ts R-FRC-0003",
+        "quote": null
+      }
+    ]
+  }
+}

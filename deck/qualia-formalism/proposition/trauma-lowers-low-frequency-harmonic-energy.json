@@ -1,0 +1,45 @@
+{
+  "record": "proposition",
+  "id": "7a589564-af76-482d-aa28-87f6657594a7",
+  "kind": "empirical",
+  "epistemic_status": "hypothesized",
+  "title": "Trauma lowers low-frequency harmonic energy",
+  "statements": [
+    {
+      "id": "a8037bc0-c1a5-4c98-9a9a-a3bc61c830ae",
+      "text": "After trauma there should be substantially less energy in low-frequency connectome harmonics, and more during therapeutic psychedelic use and integration work.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": "Low-frequency CSHW energy does not fall after trauma.",
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-23"
+    }
+  ],
+  "current_statement": "a8037bc0-c1a5-4c98-9a9a-a3bc61c830ae",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "5119e232-06a9-431f-820d-84f3120be6f7",
+        "locator": "predictions",
+        "quote": "I'd expect to see substantially less energy in low-frequency CSHWs after trauma."
+      }
+    ]
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "8fa4a1dc-070b-4736-9e51-c024f0c88e45",
+  "title": "E-FRC-0112: any reversible rule that respects a color triality, pairs chosen from the data included, can move tones...",
+  "purpose": "Experiment E-FRC-0112 in the gauge arena: any reversible rule that respects a color triality, pairs chosen from the data included, can move tones between a color line and its orbit only in threes: checked on all 531,441 triality-fixed cell states through every beat of the triality weave, with the lone-tone images listed exhaustively.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L1 (L1: known mathematics, correctly confirmed).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/gauge/one-for-three-is-forced.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-FRC-0112",
+        "quote": null
+      }
+    ]
+  }
+}

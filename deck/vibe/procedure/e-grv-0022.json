@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "762a1cce-c9c0-4b6e-93a6-5aee1aba57b6",
+  "title": "E-GRV-0022: the free-space 3D lattice Green function is exactly 1/(4 pi r), the clean 1/r Newton law",
+  "purpose": "Experiment E-GRV-0022 in the gravity arena: the free-space 3D lattice Green function is exactly 1/(4 pi r), the clean 1/r Newton law.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L1 (L1: known mathematics, correctly confirmed).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/gravity/gravity-freespace.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-GRV-0022",
+        "quote": null
+      }
+    ]
+  }
+}

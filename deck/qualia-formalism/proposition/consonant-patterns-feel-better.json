@@ -1,0 +1,45 @@
+{
+  "record": "proposition",
+  "id": "82b3c28a-af04-47da-b6c0-285dea5f835a",
+  "kind": "empirical",
+  "epistemic_status": "hypothesized",
+  "title": "Injected consonant patterns feel better",
+  "statements": [
+    {
+      "id": "046d488c-358a-49fc-8951-a5a6514a2a1b",
+      "text": "Highly consonant, harmonious or symmetric patterns injected directly into the brain should feel dramatically better than similar but dissonant patterns.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": "Consonant and dissonant stimulation patterns of matched energy produce no difference in reported valence.",
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-23"
+    }
+  ],
+  "current_statement": "046d488c-358a-49fc-8951-a5a6514a2a1b",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "18748a2a-239c-4c8a-84be-d6db8f91e70d",
+        "locator": "section XI, p. 42",
+        "quote": "Highly consonant/harmonious/symmetric patterns injected directly into the brain should feel dramatically better than similar but dissonant patterns"
+      }
+    ]
+  }
+}

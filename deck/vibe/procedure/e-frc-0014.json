@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "1a022923-d1b5-4d5d-a60d-3c9f56824b6a",
+  "title": "E-FRC-0014: the bare rule locally conserves charge, a U(1) Gauss law, but not a generic internal current",
+  "purpose": "Experiment E-FRC-0014 in the gauge arena: the bare rule locally conserves charge, a U(1) Gauss law, but not a generic internal current.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L2 (L2: known physics reproduced on a stated model).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/gauge/emergent-gauge.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-FRC-0014",
+        "quote": null
+      }
+    ]
+  }
+}

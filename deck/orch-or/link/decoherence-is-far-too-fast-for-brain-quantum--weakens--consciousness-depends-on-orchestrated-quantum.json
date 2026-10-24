@@ -1,0 +1,28 @@
+{
+  "record": "link",
+  "id": "cdda1fa6-4c25-4dd3-bd9e-c2f36e00fcdb",
+  "from": "ae11fdf9-7319-4218-aef1-ba8f8ce65088",
+  "to": "f992f9e0-4750-4368-93d8-934fbf1a78f2",
+  "relation": "weakens",
+  "strength": null,
+  "rationale": "The calculated decoherence times are ten or more orders of magnitude shorter than neural dynamics, which argues that brain processes relevant to cognition are classical.",
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "972bb3f3-ae60-45cd-87b7-252f91d8de27",
+        "locator": "abstract",
+        "quote": "This conclusion disagrees with suggestions by Penrose and others that the brain acts as a quantum computer, and that quantum coherence is related to consciousness in a fundamental way."
+      }
+    ]
+  }
+}

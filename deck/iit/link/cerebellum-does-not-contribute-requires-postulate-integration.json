@@ -1,0 +1,28 @@
+{
+  "record": "link",
+  "id": "556256da-ca14-48bd-882b-3c7e20ed8f3e",
+  "from": "fe84cdaf-4167-4497-8f6a-b43309d0c77f",
+  "to": "5e7bdd89-3f68-4664-8201-fca0e796541e",
+  "relation": "requires",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "cd180db3-bb1d-4ab0-814c-72898fb077ef",
+        "locator": "abstract",
+        "quote": "why the cerebral cortex gives rise to consciousness but the cerebellum does not, though it has even more neurons and appears to be just as complicated."
+      }
+    ]
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "record": "proposition",
+  "id": "3eeb041c-a8d5-4fd1-85ff-76c3ef152637",
+  "kind": "empirical",
+  "epistemic_status": "simulated",
+  "title": "E-FRC-0117: the three-trit slot as one rule: vibes move by the committed rule, role points ride the links and swap...",
+  "statements": [
+    {
+      "id": "564caf98-ac0a-4551-bac1-9abe7ed8e1e6",
+      "text": "The three-trit slot as one rule: vibes move by the committed rule, role points ride the links and swap where vibes meet, and the whole conserves charge, reverses exactly, and is exactly invariant under an independent change of role frame in every cell, which neither links-free transport nor a fixed move per direction is.",
+      "language": "en",
+      "scope": "experiment E-FRC-0117, arena gauge, depth L2 (L2: known physics reproduced on a stated model)",
+      "conditions": "substrates: 3434. In a paper: false",
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-22"
+    }
+  ],
+  "current_statement": "564caf98-ac0a-4551-bac1-9abe7ed8e1e6",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": {
+    "value": "open",
+    "reason": "holds in the vibe claim graph",
+    "basis": [],
+    "proposal": null
+  },
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "research/result.ts R-FRC-0003",
+        "quote": null
+      }
+    ]
+  }
+}

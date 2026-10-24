@@ -1,0 +1,45 @@
+{
+  "record": "proposition",
+  "id": "357c6638-59be-4013-8687-025f9d0ecd4c",
+  "kind": "empirical",
+  "epistemic_status": "inferred",
+  "title": "Conscious AI is unlikely on current trajectories",
+  "statements": [
+    {
+      "id": "1444e2a1-60ce-4952-9e20-72e1dc78cd21",
+      "text": "Real artificial consciousness is unlikely along current AI trajectories, and becomes more plausible only as AI becomes more brain-like or life-like.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-23"
+    }
+  ],
+  "current_statement": "1444e2a1-60ce-4952-9e20-72e1dc78cd21",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "e391f78a-61b9-464c-883b-2181082dabd3",
+        "locator": "accepted manuscript p. 1, abstract",
+        "quote": "real artificial consciousness is unlikely along current trajectories, but becomes more plausible as AI becomes more brain-like and/or life-like"
+      }
+    ]
+  }
+}

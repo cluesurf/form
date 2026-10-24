@@ -1,0 +1,28 @@
+{
+  "record": "link",
+  "id": "ad3d1beb-486b-4aa3-b705-da2fadc35a07",
+  "from": "afede6f2-6458-436f-839c-8896dea8a612",
+  "to": "f3e07445-9afa-4d95-bdce-df173801be7b",
+  "relation": "requires",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "c0602528-f093-4705-abc3-e13d7657a680",
+        "locator": "section 4.5",
+        "quote": "one ought to begin to see the effects of this OR scheme if a small object, such as a 10-µm cube of crystalline material could be held in a coherent superposition of two locations"
+      }
+    ]
+  }
+}

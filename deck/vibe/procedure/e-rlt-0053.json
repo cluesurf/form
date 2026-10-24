@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "128aa9fd-0c21-4f95-947b-1e2e873a94f7",
+  "title": "E-RLT-0053: rotation symmetry does not emerge at scale in the CPT knit: the combined knit's long-wave anisotropy...",
+  "purpose": "Experiment E-RLT-0053 in the relativity arena: rotation symmetry does not emerge at scale in the CPT knit: the combined knit's long-wave anisotropy, averaged over a full period of start times, reads 0.80, 0.77, 0.76, 0.77 and 0.76 at sides 9, 13, 17, 21 and 25 (0.96 of itself kept, where a lattice correction would keep under 0.19), unchanged by averaging (0.83 over 2 starts at side 9), while the forced-isotropic quaternion knit's reading is noise that halves with averaging and falls with volume (1.35 to 0.32), against a streaming floor of 0.03 or less.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L2 (L2: known physics reproduced on a stated model).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/relativity/emergent-isotropy-at-scale.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-RLT-0053",
+        "quote": null
+      }
+    ]
+  }
+}

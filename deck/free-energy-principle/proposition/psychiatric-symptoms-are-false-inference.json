@@ -1,0 +1,45 @@
+{
+  "record": "proposition",
+  "id": "760791c0-eab3-4401-a005-0ed06f2c6b7c",
+  "kind": "empirical",
+  "epistemic_status": "hypothesized",
+  "title": "Psychiatric symptoms are false inference",
+  "statements": [
+    {
+      "id": "421064c0-3526-426a-b3f0-a4a3d31bdc7d",
+      "text": "The signs and symptoms of psychiatric disorders can be understood as false inference, an altered conscious state being altered inference.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-23"
+    }
+  ],
+  "current_statement": "421064c0-3526-426a-b3f0-a4a3d31bdc7d",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "c3908a50-f858-42d6-8c6b-be810bd5a82f",
+        "locator": "full text",
+        "quote": "the ability to understand the signs and symptoms of psychiatric disorder as false inference."
+      }
+    ]
+  }
+}

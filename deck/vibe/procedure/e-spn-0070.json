@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "73c37e79-c401-4f97-98c0-b1c8872943f0",
+  "title": "E-SPN-0070: the fear beat cannot see the electron channel, fail on the trimer gate: every meeting keeps each 2T...",
+  "purpose": "Experiment E-SPN-0070 in the spin arena: the fear beat cannot see the electron channel, fail on the trimer gate: every meeting keeps each 2T channel and acts through its pair content, and in (4, 1) the natural spin one half holds no meson-singlet love-fear pair (singlet share 0, the projector annihilates all 4 dimensions to 2e-15), so its fear is exactly free; in (3, 0) only the determinant (2 pi sign +1) feels meetings (every pair antisymmetric) and the twisted doublet feels none; three STAND-IN loves in the determinant from distinct slots stay compact 0.232 against 0.136 without meetings (gate 2 times fails), falling as 1/L as a bound pair with a free third, while from one dock a three-love bound state holds about 0.2 at every ring size.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L2 (L2: known physics reproduced on a stated model).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/spin/fear-beat-charge-one.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-SPN-0070",
+        "quote": null
+      }
+    ]
+  }
+}

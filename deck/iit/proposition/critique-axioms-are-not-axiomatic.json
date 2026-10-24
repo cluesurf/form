@@ -1,0 +1,45 @@
+{
+  "record": "proposition",
+  "id": "0fa8261a-f75d-49a7-9764-893ace04a5d3",
+  "kind": "philosophical",
+  "epistemic_status": "inferred",
+  "title": "Critique: none of the axioms does the work required",
+  "statements": [
+    {
+      "id": "3c3f912c-ea9a-47f4-87c8-f89afa52b885",
+      "text": "Each of IIT's five axioms either fails to qualify as axiomatic or fails to impose a substantive constraint on a theory of consciousness.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-23"
+    }
+  ],
+  "current_statement": "3c3f912c-ea9a-47f4-87c8-f89afa52b885",
+  "status": "active",
+  "voice": "critique",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "61898cf9-1dfd-44e2-95ca-67b9bf511632",
+        "locator": "abstract",
+        "quote": "I argue that none of the five alleged axioms is able to play the role that is required of it, either because it fails to qualify as axiomatic or because it fails to impose a substantive constraint on a theory of consciousness."
+      }
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "record": "link",
+  "id": "9bb421c9-7fee-46a6-83a5-ecd6a945ca37",
+  "from": "6efd0152-7cea-4964-b856-56d7d9d55f7a",
+  "to": "f992f9e0-4750-4368-93d8-934fbf1a78f2",
+  "relation": "supports",
+  "strength": 0.2,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "25d6d72b-eed5-4bff-b2c3-979ceaf1b769",
+        "locator": "abstract",
+        "quote": "EpoB-treated rats took an average of 69 seconds longer to become unconscious as measured by latency to LORR."
+      }
+    ]
+  }
+}

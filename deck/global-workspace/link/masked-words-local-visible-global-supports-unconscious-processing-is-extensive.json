@@ -1,0 +1,28 @@
+{
+  "record": "link",
+  "id": "3bcc77ba-480f-4fe4-92d5-c292e85006d5",
+  "from": "a2c011c0-c5a7-442e-86f9-e6b7aa103225",
+  "to": "531299ba-d038-40da-833a-b9daf54d142a",
+  "relation": "supports",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "27d49895-2a70-4caf-8a9d-44136817650c",
+        "locator": "p. 47 and Fig. 1",
+        "quote": "backward-masked visual words activate mainly visual cortex, whereas identical conscious words evoke widespread visual, parietal and frontal activation"
+      }
+    ]
+  }
+}

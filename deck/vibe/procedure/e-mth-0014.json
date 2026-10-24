@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "b58c1dc1-91a2-4082-ad43-cf3642fb0b41",
+  "title": "E-MTH-0014: an audit of E-FRC-0169's 0.005 percent husk light isotropy: the exact linear symbol puts the (3,0,0) and...",
+  "purpose": "Experiment E-MTH-0014 in the method arena: an audit of E-FRC-0169's 0.005 percent husk light isotropy: the exact linear symbol puts the (3,0,0) and (2,2,1) orbits apart by its own amount, the lagged estimator on the exactly linear leapfrog reproduces it, and four deterministic thermal starts give the corrected thermal ratio with a noise floor from the symmetry-equivalent modes.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L2 (L2: known physics reproduced on a stated model).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/method/husk-light-isotropy-audit.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-MTH-0014",
+        "quote": null
+      }
+    ]
+  }
+}

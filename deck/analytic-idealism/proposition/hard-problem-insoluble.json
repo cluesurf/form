@@ -1,0 +1,45 @@
+{
+  "record": "proposition",
+  "id": "04d4f968-e9c7-4122-bf33-a28003618459",
+  "kind": "philosophical",
+  "epistemic_status": "inferred",
+  "title": "The hard problem defeats physicalism",
+  "statements": [
+    {
+      "id": "9629624f-bb2e-4252-b463-b852568863b2",
+      "text": "No fact about physical ultimates entails a fact about experience: the qualities of experience cannot even in principle be deduced from the relational parameters of physical arrangements.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-23"
+    }
+  ],
+  "current_statement": "9629624f-bb2e-4252-b463-b852568863b2",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "9c8de529-0562-4ede-9748-a99db6ec0056",
+        "locator": "section 2, pp. 126-127",
+        "quote": "there is no entailment from facts about ultimates to facts about experience"
+      }
+    ]
+  }
+}

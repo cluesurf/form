@@ -1,0 +1,50 @@
+{
+  "record": "proposition",
+  "id": "a3af4b1b-7765-4176-8927-679fe3835d67",
+  "kind": "philosophical",
+  "epistemic_status": "hypothesized",
+  "title": "Answer: measurement recovers a finite part of the structure, and collapse is not derived",
+  "statements": [
+    {
+      "id": "53402e86-e5f1-426c-a4b9-c49d15515a9e",
+      "text": "Observation is finite interaction that recovers only part of the total structure, and decoherence is the loss of accessible coherence. A single realized outcome is not derived from continuity: it needs an added stochastic law.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "53402e86-e5f1-426c-a4b9-c49d15515a9e",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "74dae0ca-ffc6-4827-bce0-5561d176e0ee",
+        "locator": "section 13.1",
+        "quote": "Observation proceeds through finite interaction, finite duration, finite accessibility, and incomplete recoverability."
+      },
+      {
+        "source": "e0b16253-e8ff-4136-bcf1-b5d93c6dc769",
+        "locator": "abstract",
+        "quote": "The deterministic density equation does not by itself produce a realised outcome."
+      }
+    ]
+  }
+}

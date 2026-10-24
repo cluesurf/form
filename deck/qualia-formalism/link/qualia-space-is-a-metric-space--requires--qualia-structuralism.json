@@ -1,0 +1,28 @@
+{
+  "record": "link",
+  "id": "846bb61a-8b31-41e5-96ec-318b812e9d48",
+  "from": "65b824fb-47fb-42d9-b92e-4d3a4ca4acfe",
+  "to": "925869e2-5b89-4f0d-b1c9-e3a38de19872",
+  "relation": "requires",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "18748a2a-239c-4c8a-84be-d6db8f91e70d",
+        "locator": "section VII, p. 25 and footnote 12",
+        "quote": "I propose that Qualia space also likely satisfies the requirements of being a metric space"
+      }
+    ]
+  }
+}

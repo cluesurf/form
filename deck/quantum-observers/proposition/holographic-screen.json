@@ -1,0 +1,45 @@
+{
+  "record": "proposition",
+  "id": "7102c6c3-3527-4ccd-b662-81bb2e97e4ac",
+  "kind": "definitional",
+  "epistemic_status": "designed",
+  "title": "Holographic screen",
+  "statements": [
+    {
+      "id": "de3d076d-02f7-4ee1-85fa-7f6d83661f93",
+      "text": "A holographic screen is the boundary between two separable systems at which their interaction is defined, an ancillary array of bits that each side alternately prepares and measures, and not part of either system.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-23"
+    }
+  ],
+  "current_statement": "de3d076d-02f7-4ee1-85fa-7f6d83661f93",
+  "status": "active",
+  "voice": "framework",
+  "defines": "holographic screen",
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "4489b7d7-7273-4b67-a1c2-b53ddab0eeb5",
+        "locator": "section 2.3",
+        "quote": "The screen B is, as is any holographic screen, an ancillary construct, not “part of” either A or B."
+      }
+    ]
+  }
+}

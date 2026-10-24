@@ -1,0 +1,28 @@
+{
+  "record": "link",
+  "id": "25088c32-b171-4e87-9c42-16e501cf6dac",
+  "from": "ce4d3c74-2a9a-4d7c-9632-e5f9bc30bf22",
+  "to": "f03eaec7-a5cd-4015-8f83-d3012021ec34",
+  "relation": "requires",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "c0602528-f093-4705-abc3-e13d7657a680",
+        "locator": "section 4.4",
+        "quote": "the ‘choice’ involved in any quantum state-reduction process would be accompanied by a (miniscule) proto-element of experience"
+      }
+    ]
+  }
+}

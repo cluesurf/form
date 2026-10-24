@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "b7462c66-63c0-4534-8765-628415d35557",
+  "title": "E-RLT-0112: E-RLT-0057's frozen shears have exactly zero overlap with the per-line love and fear counts, fail (the...",
+  "purpose": "Experiment E-RLT-0112 in the relativity arena: E-RLT-0057's frozen shears have exactly zero overlap with the per-line love and fear counts, fail (the route's kill fires, as derived): a shear's amplitude is odd under d <-> -d on every line and the counts are even, so on the rebuilt knit (order 16, 30 moves) at L 12 every one of the 24 k-resolved and 24 global count overlaps is 0 on all six orientations, while the line-momentum overlaps are nonzero; axes01, axes20, axes10 keep 0.552, 0.547, 0.554 of their amplitude over 60 beats and the rest decay (0.0009 .. 0.10); the global line counts are not even kept by this knit (they move 21 .. 31 percent), and the frozen amplitude sits on the line momenta of lines perpendicular to the wave vector (share 1.01), three of four such lines keeping theirs to 1 percent.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L1 (L1: known mathematics, correctly confirmed).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/relativity/shear-line-counts.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-RLT-0112",
+        "quote": null
+      }
+    ]
+  }
+}

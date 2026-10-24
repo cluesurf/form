@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "7b381ace-3f20-425b-be86-9e59df7dafc0",
+  "title": "E-GRV-0148: the pull's falloff under the register count, pass: one hole (a column packet on the slab, sides 40 and...",
+  "purpose": "Experiment E-GRV-0148 in the gravity arena: the pull's falloff under the register count, pass: one hole (a column packet on the slab, sides 40 and 48 by 2) in a static hole's sector field is pulled 4.09e-2, 2.65e-2, 1.76e-2, 1.22e-2, 8.90e-3, 6.72e-3 at r 3..8 after 6 cycles, following the kernel's own gradient (ratio flat to 3.3 percent on r 5..8, short near the source) with power -2.02 at side 48 against the gradient's -2.09 and Newton's -2, while a planar ramp read the same way gives a flat pull (spread 0.010): the dynamics shows the kernel's shape, and the kernel is 1/r to within its lattice drift ($r^2$ dk/dr 0.341 to 0.327) and a torus term of 1.9 percent; the husk solve failed on the sea's uniform count because its absolute stop cannot clear the rounding left in the singular Laplacian's null space, and counting from the sea before the solve bypasses it (the raw depth is exactly minus the hole's).",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L2 (L2: known physics reproduced on a stated model).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/gravity/register-falloff.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-GRV-0148",
+        "quote": null
+      }
+    ]
+  }
+}

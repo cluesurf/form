@@ -1,0 +1,50 @@
+{
+  "record": "proposition",
+  "id": "1af7db15-7962-48b6-ad5e-436609832bb4",
+  "kind": "philosophical",
+  "epistemic_status": "hypothesized",
+  "title": "A physics of every thing that can be told apart",
+  "statements": [
+    {
+      "id": "56c4a44c-5114-422b-9011-445b21f64e6f",
+      "text": "The principle applies to any thing that can be distinguished statistically from other things, and the resulting Bayesian mechanics is compatible with quantum, statistical and classical mechanics.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-23"
+    }
+  ],
+  "current_statement": "56c4a44c-5114-422b-9011-445b21f64e6f",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b1118d9b-3a6a-44ee-9978-b5529cc7637f",
+        "locator": "abstract (arXiv record)",
+        "quote": "This monograph attempts a theory of every 'thing' that can be distinguished from other things in a statistical sense."
+      },
+      {
+        "source": "b1118d9b-3a6a-44ee-9978-b5529cc7637f",
+        "locator": "abstract (arXiv record)",
+        "quote": "The ensuing Bayesian mechanics is compatible with quantum, statistical and classical mechanics and may offer a formal description of lifelike particles."
+      }
+    ]
+  }
+}

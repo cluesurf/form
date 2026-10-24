@@ -1,0 +1,45 @@
+{
+  "record": "proposition",
+  "id": "85798b18-5e70-437f-bd33-d5c5fcfb13e0",
+  "kind": "empirical",
+  "epistemic_status": "hypothesized",
+  "title": "Staying alive is the basic reason for having a brain",
+  "statements": [
+    {
+      "id": "3b617e0b-4b07-4da2-b92c-3cbd62bb05ac",
+      "text": "All living organisms try to keep their physiological integrity, and this is arguably the basic evolutionary and functional imperative for having a brain.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-23"
+    }
+  ],
+  "current_statement": "3b617e0b-4b07-4da2-b92c-3cbd62bb05ac",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "bfa85443-4b77-43f1-b5f2-ec1850a4bc3c",
+        "locator": "accepted manuscript p. 6",
+        "quote": "All living organisms attempt to maintain their physiological integrity in the face of danger and opportunity. Arguably, this is the basic evolutionary and functional imperative for having a brain."
+      }
+    ]
+  }
+}

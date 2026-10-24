@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "a055a2fc-7545-4b57-aba9-4fbf0c3e6c87",
+  "title": "E-RLT-0060: the cold knits run at L = 8 to 20, partial: the husk shear anisotropy among the six cubic-equivalent...",
+  "purpose": "Experiment E-RLT-0060 in the relativity arena: the cold knits run at L = 8 to 20, partial: the husk shear anisotropy among the six cubic-equivalent axis orientations stays of order one, falling as $k^{0.50}$ +- 0.06 for the cold weave (2.02 to 1.25, its decay not yet diffusive, Gamma ~ $k^{1.62}$) and flat for the cold quaternion knit ($k^{0.07}$ +- 0.10, 2.2 to 2.5, which does not decay diffusively at all), while the husk sound speed is equal on the three axes to 3 to 6 percent (cold weave) and 0.1 to 0.4 percent (cold quaternion) with no resolved trend; E is exact in every run, but the free-streaming control gives no usable noise floor for the shear and the sound exponents are unresolved.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L2 (L2: known physics reproduced on a stated model).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/relativity/cold-knit-anisotropy-order.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-RLT-0060",
+        "quote": null
+      }
+    ]
+  }
+}

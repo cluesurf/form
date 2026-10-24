@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "9fe13f00-8ce7-4a32-b78a-e2b70ee71a2b",
+  "title": "E-SPN-0162: a light register meson holds exactly but is 35 times too heavy, fail (H4): two members at m 0.190126...",
+  "purpose": "Experiment E-SPN-0162 in the spin arena: a light register meson holds exactly but is 35 times too heavy, fail (H4): two members at m 0.190126 carrying the Cl+(4) register, bound by a string on the pair's singlet sector alone ($u^2$ rho^min(V, 8) on S S, its conjugate on D D), evolve exactly inside the 16 x 16 moving block (witnessed against the full 192 x 192 rule to 1e-16, where E-SPN-0147's member mass string is off by 7.7e-4 and couples the flats); every channel is closed at every separation, the cap closing the D D ladder that an uncapped string would meet at V 9.4, so the pair is bound in a finite well and not confined; the level at eps 1.978945 (NR 2.005) holds 128 beats with the norm kept to 8e-10 and fidelity 1 - 4e-10, isotropic to 5e-7, but R = 34.65 (NR 0.69): in this strong-coupling lattice regime the bound pair's centre moves 90 times less readily than two free members.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L2 (L2: known physics reproduced on a stated model).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/spin/register-meson-hold.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-SPN-0162",
+        "quote": null
+      }
+    ]
+  }
+}

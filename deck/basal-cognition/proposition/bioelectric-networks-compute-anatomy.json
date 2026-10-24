@@ -1,0 +1,45 @@
+{
+  "record": "proposition",
+  "id": "04db1e3f-0f4e-429d-b375-dfcd08314d6f",
+  "kind": "empirical",
+  "epistemic_status": "inferred",
+  "title": "Bioelectric networks make decisions about growth and form",
+  "statements": [
+    {
+      "id": "33af07b2-fba0-46ad-af45-cf2f4c97c62d",
+      "text": "Patterns of membrane potential, produced by ion channels and gap junctions in all tissues, process morphogenetic information that controls gene expression and lets cell collectives decide large-scale growth and form.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-23"
+    }
+  ],
+  "current_statement": "33af07b2-fba0-46ad-af45-cf2f4c97c62d",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "9d75093c-3ef2-4491-bd47-00ad3ce4a51e",
+        "locator": "abstract",
+        "quote": "These bioelectrical networks process morphogenetic information that controls gene expression, enabling cell collectives to make decisions about large-scale growth and form."
+      }
+    ]
+  }
+}

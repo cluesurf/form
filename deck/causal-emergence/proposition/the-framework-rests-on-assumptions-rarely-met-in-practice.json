@@ -1,0 +1,45 @@
+{
+  "record": "proposition",
+  "id": "608545dd-a6d5-43bf-b0ee-4d26ef0c0a3e",
+  "kind": "empirical",
+  "epistemic_status": "inferred",
+  "title": "The framework rests on assumptions rarely met in practice",
+  "statements": [
+    {
+      "id": "df0b1a4c-68fa-4bca-b632-4e49621090d4",
+      "text": "Hoel’s causal emergence framework relies on strong assumptions, such as a known coarse-graining and full interventions, that are rarely satisfied by real data, which limits where it applies.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-23"
+    }
+  ],
+  "current_statement": "df0b1a4c-68fa-4bca-b632-4e49621090d4",
+  "status": "active",
+  "voice": "critique",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "4379cf9e-06ad-431d-98bb-a788c79ec880",
+        "locator": "introduction",
+        "quote": "this framework relies on strong assumptions that are rarely satisfied in practice, which severely hinders its applicability"
+      }
+    ]
+  }
+}

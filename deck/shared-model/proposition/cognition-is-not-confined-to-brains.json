@@ -1,0 +1,90 @@
+{
+  "record": "proposition",
+  "id": "7c252c42-dd91-4dec-83ba-d5dcf5dd57f5",
+  "kind": "empirical",
+  "epistemic_status": "hypothesized",
+  "title": "Cognition is not confined to brains",
+  "statements": [
+    {
+      "id": "d26871f2-c162-4242-8953-1af6726ea822",
+      "text": "Cognition is not confined to brains: cells, tissues and other non-neural systems process information and pursue goals, with no bright line between cognition and mere physics.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-23"
+    }
+  ],
+  "current_statement": "d26871f2-c162-4242-8953-1af6726ea822",
+  "status": "active",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": {
+    "value": "open",
+    "reason": null,
+    "basis": [],
+    "proposal": null
+  },
+  "origin": [
+    {
+      "repository": "basal-cognition",
+      "id": "25da7545-7e6d-4674-afb7-e7e2191e1ec8"
+    },
+    {
+      "repository": "basal-cognition",
+      "id": "77b3dfc0-77eb-4047-8602-516a8a17905a"
+    },
+    {
+      "repository": "basal-cognition",
+      "id": "89ae12d1-c509-42fd-a88b-e4426a6a1d99"
+    },
+    {
+      "repository": "quantum-observers",
+      "id": "4f941517-e7bd-49d5-bc3b-ee40a60511d3"
+    },
+    {
+      "repository": "free-energy-principle",
+      "id": "c0876ba3-9b6a-43c1-9193-32ffb865784c"
+    }
+  ],
+  "provenance": {
+    "written_by": "github:lancejpollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "483bd2e4-b56f-4564-9b55-9b48c0af0291",
+        "locator": "Table 1",
+        "quote": "no binary categories, no bright line separating true cognition from"
+      },
+      {
+        "source": "483bd2e4-b56f-4564-9b55-9b48c0af0291",
+        "locator": "Table 3",
+        "quote": "Bodies consist of components which are themselves competent (goal-seeking modules that navigate their own spaces) and can achieve specific outcomes despite perturbations and changing conditions."
+      },
+      {
+        "source": "483bd2e4-b56f-4564-9b55-9b48c0af0291",
+        "locator": "Figure 6 caption",
+        "quote": "The results of complex morphogenesis are the behavior in morphospace of a collective intelligence of cells."
+      },
+      {
+        "source": "1d7355fd-09dd-4f09-b56d-fa1379448518",
+        "locator": "abstract",
+        "quote": "we advance a scale-free characterization of consciousness and cognition that regards basal systems, including synthetic constructs, as not only informative about the structure and function of experience in more complex systems"
+      },
+      {
+        "source": "cbb7f75a-bb5f-4c46-9080-6e412bc0434d",
+        "locator": "abstract",
+        "quote": "This means that all biological processes can be construed as performing some form of inference, from evolution through to conscious processing."
+      }
+    ]
+  }
+}

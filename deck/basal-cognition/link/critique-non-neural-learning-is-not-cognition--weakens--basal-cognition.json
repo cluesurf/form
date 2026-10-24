@@ -1,0 +1,28 @@
+{
+  "record": "link",
+  "id": "923f23c1-4354-4c33-bb43-e9558d6a2f00",
+  "from": "7b1d50d3-cfb3-4dcc-abb8-70e32c8f64f7",
+  "to": "d97bfdbc-ab5c-4844-8f3e-738792f24f3f",
+  "relation": "weakens",
+  "strength": null,
+  "rationale": "If non-neural learning and memory differ in kind from the capacities cognitive science studies, calling them cognition stretches the word.",
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "a2a9b88f-95b0-40d1-87f3-456af2e14117",
+        "locator": "section Introduction: two approaches for addressing the scope of cognition, reporting Loy et al. 2021",
+        "quote": "is remotely similar to what cognitive scientists are interested in when investigating learning and memory"
+      }
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "record": "link",
+  "id": "69eafeec-f799-42b4-933c-bc29270d46d6",
+  "from": "32a89446-1c8e-4eb4-84c1-8580efffc7b7",
+  "to": "f9bffa23-3e9e-4811-ad6a-06bdd3048a14",
+  "relation": "requires",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "550e8bd7-62b0-4fdd-964e-95f8e9dcd664",
+        "locator": "abstract (arXiv record)",
+        "quote": "The variational principle at hand allows one to interpret internal dynamics - of certain kinds of particles - as inferring external states that are hidden behind blanket states."
+      }
+    ]
+  }
+}

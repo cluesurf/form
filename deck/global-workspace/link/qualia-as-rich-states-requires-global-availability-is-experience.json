@@ -1,0 +1,33 @@
+{
+  "record": "link",
+  "id": "51ccca9d-9d10-4222-b27f-3e868b33ae69",
+  "from": "6f1b6ed0-2632-4592-9aa3-5f36bd4f6623",
+  "to": "9b2a360b-2d76-4efb-8a4a-603e641ad90a",
+  "relation": "requires",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "9b21a09b-835f-4256-afbf-19425df2597e",
+        "locator": "section 6.2, p. 30",
+        "quote": "These biological properties seem potentially capable of substantiating philosophers’ intuitions about the ‘qualia’ of conscious experience"
+      },
+      {
+        "source": "9b21a09b-835f-4256-afbf-19425df2597e",
+        "locator": "section 6.2, p. 30",
+        "quote": "Both, however, would be facets of the same underlying phenomenon."
+      }
+    ]
+  }
+}

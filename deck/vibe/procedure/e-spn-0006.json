@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "f26a66a6-bc9a-4ea8-ba90-3bdd1d33f7ee",
+  "title": "E-SPN-0006: a delocalized collective mode carries the disclination spinor sign for every mode, the topological spin...",
+  "purpose": "Experiment E-SPN-0006 in the spin arena: a delocalized collective mode carries the disclination spinor sign for every mode, the topological spin is a field property.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L2 (L2: known physics reproduced on a stated model).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/spin/collective-spinor-534.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-SPN-0006",
+        "quote": null
+      }
+    ]
+  }
+}

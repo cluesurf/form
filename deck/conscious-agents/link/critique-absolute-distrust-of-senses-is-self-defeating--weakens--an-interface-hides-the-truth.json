@@ -1,0 +1,28 @@
+{
+  "record": "link",
+  "id": "897c1816-9a9f-476d-9026-862102b34631",
+  "from": "1baa3710-e837-48eb-a44c-7502f6f33ab5",
+  "to": "d50b900c-8c08-4555-a6f5-75e315eededc",
+  "relation": "weakens",
+  "strength": null,
+  "rationale": "An absolute claim that perception hides the truth undercuts the perceptual evidence used to argue for it.",
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "0508848c-f673-40ec-bce2-7d77b2bbc0a3",
+        "locator": "main text",
+        "quote": "At face value, such an absolute interpretation is self-defeating."
+      }
+    ]
+  }
+}

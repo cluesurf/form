@@ -1,0 +1,28 @@
+{
+  "record": "link",
+  "id": "ea90db2c-3df8-42aa-9ac0-aae5cc82b856",
+  "from": "1be17bb2-46b2-4b0d-845d-914d9e0a940a",
+  "to": "79c54001-d62b-4535-9bf1-5ca0a2766a35",
+  "relation": "requires",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "8443eb2e-406e-4acc-94e8-33cbabbd3679",
+        "locator": "Introduction (full text)",
+        "quote": "Ongoing work is applying the identity to provide a basic account of the feeling of temporal flow [24] and that of objects [25]."
+      }
+    ]
+  }
+}

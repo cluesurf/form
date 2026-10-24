@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "4eafb9e3-b2d2-43df-b460-1e6f6ea7fb5a",
+  "title": "E-SLF-0020: a choice replays exactly yet resists a one-step shortcut, and the self structure is what makes it...",
+  "purpose": "Experiment E-SLF-0020 in the selves arena: a choice replays exactly yet resists a one-step shortcut, and the self structure is what makes it irreducible.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L2 (L2: known physics reproduced on a stated model).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/selves/choice-determined-yet-irreducible.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-SLF-0020",
+        "quote": null
+      }
+    ]
+  }
+}

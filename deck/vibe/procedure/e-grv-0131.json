@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "5a78fb20-24fb-4bea-a0ce-933829669457",
+  "title": "E-GRV-0131: a headroom horizon whose tear carries every torn value onto its surface's cut-link registers holds no...",
+  "purpose": "Experiment E-GRV-0131 in the gravity arena: a headroom horizon whose tear carries every torn value onto its surface's cut-link registers holds no interior state, and its hidden count is an area law, pass (A1 bookkeeping): at $r_h = 3.5$ .. 20.5 (M 502 .. 2955) the push n <- n r + v with carry forms exactly when every surface dock's number fits its $c_s$ base-span digits (BigInt witness agrees; the largest fitting dock at 0.9999984 of capacity, the smallest refused at 1.0000425), fills to capacity form and 1.25 and 2 times are refused, and a refused formation changes nothing; 0 interior registers vary, S = T_cut ln(span) = 18.18 nats a cut link ($R^2$ 1, spread 0, exponent 1.994); the outside is bit for bit the unformed state's, every formation reverses bit for bit; E-GRV-0124's held tear reproduces its volume law ($R^2$ 0.99989 against |H|, spread 3.92); E-GRV-0124's generic infall is 2.4 .. 11.8 times the surface's capacity and never forms, and a 3.5-dock ball of infall is refused at every M because nearest-dock ownership piles it on a few docks; S / 4 pi $r_h^2$ is 1.44 .. 1.47 times 1/4G at every M, so one G (2.4e-3) fits to 2 percent where E-GRV-0124's ran 3.5 .. 17.2.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L2 (L2: known physics reproduced on a stated model).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/gravity/membrane-horizon-entropy.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-GRV-0131",
+        "quote": null
+      }
+    ]
+  }
+}

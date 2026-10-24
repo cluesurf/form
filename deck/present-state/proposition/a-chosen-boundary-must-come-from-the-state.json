@@ -1,0 +1,45 @@
+{
+  "record": "proposition",
+  "id": "723b48ec-647d-4cd9-8bcf-fe81a4151f8e",
+  "kind": "philosophical",
+  "epistemic_status": "inferred",
+  "title": "A boundary that fixes the attribution must come from the state",
+  "statements": [
+    {
+      "id": "ca20d8ea-3b2a-400f-9301-8f0674db613c",
+      "text": "A causal-structure theory whose chosen boundary helps determine the consciousness attribution must either derive that boundary from the present physical state or show that every admissible boundary yields the same attribution.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "ca20d8ea-3b2a-400f-9301-8f0674db613c",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "ac2774e1-a04c-4c89-9db2-7848c6f5ce0b",
+        "locator": "section 5.2",
+        "quote": "It must either derive that boundary from the present physical state or show that every admissible boundary yields the same attribution."
+      }
+    ]
+  }
+}

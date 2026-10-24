@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "1674046e-1f86-4c53-9eb3-03e8552293c0",
+  "title": "E-FND-0161: the many-hole engine for the register rule, exact and validated, pass: the flats are exact spectators...",
+  "purpose": "Experiment E-FND-0161 in the foundations arena: the many-hole engine for the register rule, exact and validated, pass: the flats are exact spectators and each hole keeps its half, so n holes run on the 16 moving states a momentum (8 in one half) with the sector states as coordinates and the pair piece as a phase product over pairs in the sector; it matches E-SPN-0175 amplitude for amplitude and reproduces E-FND-0158 from the moving part alone, and it reaches three holes on the L = 4 torus exactly (8.4e6 amplitudes in one half against 1.2e11 dense) while four holes stay out of reach there.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L1 (L1: known mathematics, correctly confirmed).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/foundations/register-holes.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-FND-0161",
+        "quote": null
+      }
+    ]
+  }
+}

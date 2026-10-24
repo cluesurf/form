@@ -1,0 +1,45 @@
+{
+  "record": "proposition",
+  "id": "a18398e0-e2ae-4467-ac49-b84019ef4361",
+  "kind": "empirical",
+  "epistemic_status": "inferred",
+  "title": "Long-term learning depends on conscious input",
+  "statements": [
+    {
+      "id": "87ad7ed1-cc4f-45a8-a036-9f006b22da0d",
+      "text": "Conscious information enables many types of learning through different brain mechanisms, and there is no robust evidence for long-term learning of unconscious input.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-23"
+    }
+  ],
+  "current_statement": "87ad7ed1-cc4f-45a8-a036-9f006b22da0d",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "27d49895-2a70-4caf-8a9d-44136817650c",
+        "locator": "prediction 4, p. 50",
+        "quote": "there appears to be no robust evidence so far for long-term learning of unconscious input."
+      }
+    ]
+  }
+}

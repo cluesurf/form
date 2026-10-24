@@ -1,0 +1,34 @@
+{
+  "record": "link",
+  "id": "c9b232f8-8cde-4231-befa-c732ffbf2e2f",
+  "from": "7a74b731-78af-4798-9c46-968ae63d6a4d",
+  "to": "93103fc2-6fb9-4de8-81fc-e3bf82f7974d",
+  "relation": "contradicts",
+  "strength": null,
+  "rationale": "The preregistered GNWT profile was an onset and an offset response in prefrontal cortex, and no prefrontal electrode showed it, while the method found it elsewhere.",
+  "rule": null,
+  "status": "accepted",
+  "origin": [
+    {
+      "repository": "global-workspace",
+      "id": "0c486f20-8a43-4d79-a975-62b4df3f7ee9"
+    }
+  ],
+  "provenance": {
+    "written_by": "github:lancejpollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "5acfdefa-f208-419c-af36-1ae64e17cdcf",
+        "locator": "Results, maintenance of conscious content",
+        "quote": "However, none of the 655 electrodes measured the temporal profile predicted by GNWT (that is, onset and offset)."
+      }
+    ]
+  }
+}

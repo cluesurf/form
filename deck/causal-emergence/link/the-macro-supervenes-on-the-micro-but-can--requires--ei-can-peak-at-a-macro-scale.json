@@ -1,0 +1,28 @@
+{
+  "record": "link",
+  "id": "f060c47f-c493-44ba-adb9-2df746fb231b",
+  "from": "747e80d6-8e82-4e22-986a-2fb0b6e3d007",
+  "to": "c04c8e7c-e80f-4e0a-953b-f5376e5dc677",
+  "relation": "requires",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "8360d34d-30cb-44f8-89c9-41768fb53f0d",
+        "locator": "abstract",
+        "quote": "Thus, although the macro level supervenes upon the micro, it can supersede it causally"
+      }
+    ]
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "record": "proposition",
+  "id": "2ea675b2-c7ed-4034-9af4-22403f8f24d4",
+  "kind": "empirical",
+  "epistemic_status": "hypothesized",
+  "title": "A particle is a projection of a communicating class",
+  "statements": [
+    {
+      "id": "07aeb015-2ea4-4e5e-8241-0c86f64ca8e5",
+      "text": "A particle in spacetime is a projection of the Markovian dynamics of a communicating class of conscious agents.",
+      "language": "en",
+      "scope": "stated as a conjecture in section 7",
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-23"
+    }
+  ],
+  "current_statement": "07aeb015-2ea4-4e5e-8241-0c86f64ca8e5",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "2207dc33-f8a8-469f-99b2-286f1139ed74",
+        "locator": "abstract and section 7",
+        "quote": "a particle in spacetime is a projection of the Markovian dynamics of a communicating class of conscious agents."
+      }
+    ]
+  }
+}

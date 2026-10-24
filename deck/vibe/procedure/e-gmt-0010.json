@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "9ee9e19f-5013-401c-aa51-c47f437c4a1d",
+  "title": "E-GMT-0010: the 3D hyperbolic honeycomb {5,3,4} is Lorentz-safe, a flat cubic lattice is not",
+  "purpose": "Experiment E-GMT-0010 in the geometry arena: the 3D hyperbolic honeycomb {5,3,4} is Lorentz-safe, a flat cubic lattice is not.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L2 (L2: known physics reproduced on a stated model).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/geometry/dodecagrid.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-GMT-0010",
+        "quote": null
+      }
+    ]
+  }
+}

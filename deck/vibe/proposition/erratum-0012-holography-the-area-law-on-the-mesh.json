@@ -1,0 +1,50 @@
+{
+  "record": "proposition",
+  "id": "293e2c37-832a-4ded-bfaa-63abf63b62e1",
+  "kind": "empirical",
+  "epistemic_status": "hypothesized",
+  "title": "Paper 0012: holography: the area law on the mesh. Derived",
+  "statements": [
+    {
+      "id": "6145a76d-1714-4b65-b0de-dae1c65ec014",
+      "text": "Holography: the area law on the mesh. Derived.",
+      "language": "en",
+      "scope": "as stated in published paper 0012",
+      "conditions": "The 2026-08-31 audit regraded it: reproduced, L2.",
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-22"
+    }
+  ],
+  "current_statement": "6145a76d-1714-4b65-b0de-dae1c65ec014",
+  "status": "retracted",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": {
+    "value": "open",
+    "reason": "the paper's label is withdrawn. Regraded: reproduced, L2",
+    "basis": [],
+    "proposal": null
+  },
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "research/paper.ts ERRATA",
+        "quote": null
+      }
+    ]
+  }
+}

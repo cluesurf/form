@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "6089c4a2-c6e9-4f6d-9b22-d059ef0bf90f",
+  "title": "E-FLD-0007: the substrate is a superfluid, a finite Landau critical velocity (sound) and quantized circulation, vs...",
+  "purpose": "Experiment E-FLD-0007 in the fluids arena: the substrate is a superfluid, a finite Landau critical velocity (sound) and quantized circulation, vs the zero-critical-velocity normal fluid.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L2 (L2: known physics reproduced on a stated model).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/fluids/superfluid-signatures.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-FLD-0007",
+        "quote": null
+      }
+    ]
+  }
+}

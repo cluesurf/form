@@ -1,0 +1,50 @@
+{
+  "record": "proposition",
+  "id": "4f5a612c-61c4-4cd1-9f23-fc00228a6fc5",
+  "kind": "philosophical",
+  "epistemic_status": "inferred",
+  "title": "The theorem is the diachronic case of causal exclusion",
+  "statements": [
+    {
+      "id": "4b23d276-07ab-495c-9d7a-aa2e6d3c9ccd",
+      "text": "Kim's causal exclusion argument concerns mental properties supervening on a simultaneous physical base, which a process attribution denies. The theorem supplies the diachronic case and rests on P2 as a premise of physics rather than of causal metaphysics.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "4b23d276-07ab-495c-9d7a-aa2e6d3c9ccd",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "ac2774e1-a04c-4c89-9db2-7848c6f5ce0b",
+        "locator": "section 5.1",
+        "quote": "the present theorem supplies the diachronic case, resting on P2 as a premise of physics rather than causal metaphysics"
+      },
+      {
+        "source": "4ee42f22-5868-4d7c-8c01-d75f5080231a",
+        "locator": null,
+        "quote": null
+      }
+    ]
+  }
+}

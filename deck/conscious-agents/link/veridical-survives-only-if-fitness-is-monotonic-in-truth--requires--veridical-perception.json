@@ -1,0 +1,28 @@
+{
+  "record": "link",
+  "id": "e8500851-f299-4115-9491-118b32ba1926",
+  "from": "5c0dd0b0-c3b9-4113-b8f6-0e50dca88cb3",
+  "to": "ca51afd3-8f2f-4edd-b83f-b7214e48b9ae",
+  "relation": "requires",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "326bc60f-bdd5-4190-a828-88d73ad2daba",
+        "locator": "abstract, p. 2",
+        "quote": "Veridical perceptions escape extinction only if fitness varies monotonically with truth."
+      }
+    ]
+  }
+}

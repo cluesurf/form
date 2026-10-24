@@ -1,0 +1,50 @@
+{
+  "record": "proposition",
+  "id": "f96b4b74-96a2-4884-847a-c820191fb600",
+  "kind": "philosophical",
+  "epistemic_status": "hypothesized",
+  "title": "Human invention and biological evolution are one process",
+  "statements": [
+    {
+      "id": "835fa780-97c5-4751-86dc-f8e49a9d12f3",
+      "text": "People create by trial and error with ideas and competition, and evolution creates by trial and error with mutations and survival. Both are kinds of one global evolution of algorithms, made of spontaneous changes and competition, except that useful ideas are copied much faster than useful genes.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "835fa780-97c5-4751-86dc-f8e49a9d12f3",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "e88bfc42-89ab-4c5d-9e67-48eda79cb678",
+        "locator": "closing",
+        "quote": "Those are just different types of the same global evolution of algorithms, which consists of spontaneous changes and competition."
+      },
+      {
+        "source": "e88bfc42-89ab-4c5d-9e67-48eda79cb678",
+        "locator": "closing",
+        "quote": "It is just that useful ideas are copied much faster than useful genes."
+      }
+    ]
+  }
+}

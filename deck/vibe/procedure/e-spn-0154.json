@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "e5ab2abe-e684-4766-b3f0-6e2e771ad1db",
+  "title": "E-SPN-0154: a small-angle 2I beat keeps the ordered vacuum of a husk tetrahedron prethermally, partial (one Floquet...",
+  "purpose": "Experiment E-SPN-0154 in the spin arena: a small-angle 2I beat keeps the ordered vacuum of a husk tetrahedron prethermally, partial (one Floquet residual 1.3e-8 against its 1e-8 gate): on the exact register (1,728,000 gauge-fixed values, 29,288 Gauss states, 1,589 symmetric) with integer electric and magnetic exponents and exact small-angle ring units of Z[w][1/7], at the coupling whose plaquette is 0.856 (r 8), the prepared ground state is lost in one beat for 1/delta up to 12, survives 3, 10, 40, 40 beats at 1/delta 16, 24, 32, 49 (ln tau = 0.35 + 0.078/delta, worst miss 0.83, slope inside the predicted 0.018 to 0.157), and is kept from 1/delta 64 (leak 0.096, then 1e-3 to 1e-4), where delta times one term bandwidth is near pi, far above the whole-patch fold 1/delta 107; the strong beat heats to infinite temperature (0.999), the commuting beat keeps to 1e-13, the trivial group is exactly 1; the link-by-link beat matches the sector to 2e-15 with Gauss to 1e-16, and on the unfixed Q8 register Gauss holds at every dock to 2e-17; the smaller patches are kept from larger delta (triangle 12, rhombus 24); the string needs separations the tetrahedron lacks (a 6-loop strip has 5.0e10 Gauss states).",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L2 (L2: known physics reproduced on a stated model).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/spin/icosian-prethermal-patch.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-SPN-0154",
+        "quote": null
+      }
+    ]
+  }
+}

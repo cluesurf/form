@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "3d96bcc4-3cff-47e1-8ea1-4faadc548692",
+  "title": "E-GRV-0092: a husk light whose link stiffness reads the depth it spans stays exact and predicts general relativity's...",
+  "purpose": "Experiment E-GRV-0092 in the gravity arena: a husk light whose link stiffness reads the depth it spans stays exact and predicts general relativity's light-bending factor 2, pass: dividing each link's step by the mean count of the two columns it joins, the remainder carried in the link and the kick in three shaped levels, the light reverses bit for bit with 0 Gauss violations and 0 wraps on uniform depths 16 .. 28 and on the radion's slab, is gauge covariant under the unchanged gauge map on 256 of 256 beats on both, and keeps its shadow invariant to 3e-10 on a uniform depth (3.8 percent on the slab, where a boundary link is read in its triangle's radix); its speed goes as $q^{-0.99999}$ against the unchanged light's $q^{-0.499}$, and matter given the same change keeps the clock's rest rate $q^{-0.500}$ and $q^{-0.501}$, so the factor from the read exponents is 1.999 and 1.995 (the unchanged light's 0.996); the prediction follows from the change by construction (permittivity and permeability both proportional to the column count), so this checks the integer rule, not the model.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L2 (L2: known physics reproduced on a stated model).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/gravity/depth-span-rule.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-GRV-0092",
+        "quote": null
+      }
+    ]
+  }
+}

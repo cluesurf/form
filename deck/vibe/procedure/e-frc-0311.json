@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "82478431-b664-4670-a409-604110a4c29a",
+  "title": "E-FRC-0311: explores whether a pair piece linear in separation in the coins mixing angle could keep the mirror and...",
+  "purpose": "Experiment E-FRC-0311 in the gauge arena: explores whether a pair piece linear in separation in the coins mixing angle could keep the mirror and localize two walkers separation.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L2 (L2: known physics reproduced on a stated model).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/gauge/scalar-string.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-FRC-0311",
+        "quote": null
+      }
+    ]
+  }
+}

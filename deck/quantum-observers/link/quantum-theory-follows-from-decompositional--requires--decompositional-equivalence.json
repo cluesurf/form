@@ -1,0 +1,28 @@
+{
+  "record": "link",
+  "id": "d3034b9c-0ee8-4225-b7bf-104c1a73b5dd",
+  "from": "956bf5ed-d330-4dea-8288-14a14be6fe10",
+  "to": "b0a2543b-7fc2-4e58-96e2-c948d8893284",
+  "relation": "requires",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "74508b9f-1e20-4e6b-921a-b8c0a71321ad",
+        "locator": "abstract",
+        "quote": "It is shown here, by using a simple thought experiment, that quantum theory follows from decompositional equivalence together with Landauer’s principle."
+      }
+    ]
+  }
+}

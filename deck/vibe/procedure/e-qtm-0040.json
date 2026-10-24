@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "ba55a034-fe18-49ef-a84a-2ed4372e34ef",
+  "title": "E-QTM-0040: the classical two-ended correlation is causal but does not strengthen with a larger future boundary (it...",
+  "purpose": "Experiment E-QTM-0040 in the quantum arena: the classical two-ended correlation is causal but does not strengthen with a larger future boundary (it washes out), so the strong flat correlation must come from the emergent quantum layer, not the classical rule.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L2 (L2: known physics reproduced on a stated model).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/quantum/two-ended-classical-ceiling.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-QTM-0040",
+        "quote": null
+      }
+    ]
+  }
+}

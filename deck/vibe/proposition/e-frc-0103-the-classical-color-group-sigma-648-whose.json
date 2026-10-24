@@ -1,0 +1,50 @@
+{
+  "record": "proposition",
+  "id": "67b3cf0a-014d-4839-b83b-fd6293563724",
+  "kind": "empirical",
+  "epistemic_status": "simulated",
+  "title": "E-FRC-0103: the classical color group Sigma(648), whose links are three tones and a coin direction, freezes under...",
+  "statements": [
+    {
+      "id": "cc7be45d-2207-45e4-8c71-ca79cbf10cea",
+      "text": "The classical color group Sigma(648), whose links are three tones and a coin direction, freezes under the Wilson action long before the couplings where hadrons are measured, but with a $\\operatorname{Re} \\operatorname{Tr} U^2$ term it stays unfrozen, deconfines at $N_t = 4$, and there gives the same Creutz ratios as SU(3) at its $N_t = 4$ transition, so at that spacing SU(3) needs no golden-ratio element.",
+      "language": "en",
+      "scope": "experiment E-FRC-0103, arena gauge, depth L2 (L2: known physics reproduced on a stated model)",
+      "conditions": "substrates: any. In a paper: false",
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-22"
+    }
+  ],
+  "current_statement": "cc7be45d-2207-45e4-8c71-ca79cbf10cea",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": {
+    "value": "open",
+    "reason": "holds in the vibe claim graph",
+    "basis": [],
+    "proposal": null
+  },
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "research/result.ts R-FRC-0003",
+        "quote": null
+      }
+    ]
+  }
+}

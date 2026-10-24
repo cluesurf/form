@@ -1,0 +1,28 @@
+{
+  "record": "link",
+  "id": "de56b8e6-21e6-4330-b02e-4c340b9bb056",
+  "from": "bd07871e-04bf-496b-b599-2848576d75f5",
+  "to": "2a196211-3758-4f49-84f7-54dea848daa4",
+  "relation": "supports",
+  "strength": null,
+  "rationale": "A non-Markovian quantum formulation can still meet state sufficiency.",
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "ac2774e1-a04c-4c89-9db2-7848c6f5ce0b",
+        "locator": null,
+        "quote": null
+      }
+    ]
+  }
+}

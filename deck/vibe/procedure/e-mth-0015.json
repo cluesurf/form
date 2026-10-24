@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "7760cc4e-e344-4433-8dd6-004fa31cdb98",
+  "title": "E-MTH-0015: no file in code, test or research calls Math.random, imports the retired seeded generator or hash, or...",
+  "purpose": "Experiment E-MTH-0015 in the method arena: no file in code, test or research calls Math.random, imports the retired seeded generator or hash, or carries a pseudo-random generator constant, and the lint enforces the same rule.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L1 (L1: known mathematics, correctly confirmed).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/method/no-random-anywhere.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-MTH-0015",
+        "quote": null
+      }
+    ]
+  }
+}

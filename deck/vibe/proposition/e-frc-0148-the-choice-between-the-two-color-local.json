@@ -1,0 +1,50 @@
+{
+  "record": "proposition",
+  "id": "6f28c146-674e-41ae-98aa-e766069c3402",
+  "kind": "empirical",
+  "epistemic_status": "simulated",
+  "title": "E-FRC-0148: the choice between the two color-local knit candidates by a rule written before the numbers: eligibility...",
+  "statements": [
+    {
+      "id": "a0ae9092-1fd5-4660-9a56-4e7c70df86c0",
+      "text": "The choice between the two color-local knit candidates by a rule written before the numbers: eligibility on every gate of E-FRC-0136 at sides 7, 9 and 11 for both signs, then the lowest worst-period dressing ratio against the committed rule.",
+      "language": "en",
+      "scope": "experiment E-FRC-0148, arena gauge, depth L2 (L2: known physics reproduced on a stated model)",
+      "conditions": "substrates: 3434. In a paper: false",
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-22"
+    }
+  ],
+  "current_statement": "a0ae9092-1fd5-4660-9a56-4e7c70df86c0",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": {
+    "value": "open",
+    "reason": "holds in the vibe claim graph",
+    "basis": [],
+    "proposal": null
+  },
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "research/result.ts R-FRC-0006",
+        "quote": null
+      }
+    ]
+  }
+}

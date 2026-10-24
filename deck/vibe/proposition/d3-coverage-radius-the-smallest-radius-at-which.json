@@ -1,0 +1,50 @@
+{
+  "record": "proposition",
+  "id": "28e93deb-19c5-4a8f-816e-00bd43ec12fb",
+  "kind": "definitional",
+  "epistemic_status": "designed",
+  "title": "D3: coverage radius: the smallest radius at which a breadth-first spread from a dock reaches every stored dock",
+  "statements": [
+    {
+      "id": "01969790-3274-4e0f-9f5a-989c0c4ea78a",
+      "text": "Coverage radius: the smallest radius at which a breadth-first spread from a dock reaches every stored dock.",
+      "language": "en",
+      "scope": "a defined quantity, so a number means one thing",
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-22"
+    }
+  ],
+  "current_statement": "01969790-3274-4e0f-9f5a-989c0c4ea78a",
+  "status": "active",
+  "voice": "framework",
+  "defines": "coverage radius",
+  "question": null,
+  "prediction": null,
+  "standing": {
+    "value": "open",
+    "reason": "holds in the vibe claim graph",
+    "basis": [],
+    "proposal": null
+  },
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "research/node.ts D3",
+        "quote": null
+      }
+    ]
+  }
+}

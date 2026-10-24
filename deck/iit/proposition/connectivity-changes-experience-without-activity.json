@@ -1,0 +1,50 @@
+{
+  "record": "proposition",
+  "id": "7b7234a4-d7b1-428d-a844-307b2bb85f39",
+  "kind": "empirical",
+  "epistemic_status": "hypothesized",
+  "title": "Changing connection strength changes experience without changing activity",
+  "statements": [
+    {
+      "id": "61aa093f-a361-4427-85dc-330eb4eccc66",
+      "text": "Changes in the strength of connections within the neural substrate of consciousness should change experience even if neural activity does not change. For spatial experience, such changes should warp experienced space.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": "A change in connection strength within the substrate, with unchanged activity, that leaves experience unchanged.",
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-23"
+    }
+  ],
+  "current_statement": "61aa093f-a361-4427-85dc-330eb4eccc66",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "8443eb2e-406e-4acc-94e8-33cbabbd3679",
+        "locator": "Discussion (full text)",
+        "quote": "A related prediction is that changes in the strength of connections within the neural substrate of consciousness should be associated with changes in experience, even if neural activity does not change"
+      },
+      {
+        "source": "12c87943-a0d5-4ab6-b179-9c3bd1bbff77",
+        "locator": "abstract",
+        "quote": "They also predict that changes in connectivity, even in the absence of changes in activity, should lead to a warping of experienced space."
+      }
+    ]
+  }
+}

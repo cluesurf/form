@@ -1,0 +1,28 @@
+{
+  "record": "link",
+  "id": "8fb3f521-7446-45f6-9574-3eb92cffede0",
+  "from": "0a31dfdd-b3d4-4909-a1cc-537f06584398",
+  "to": "74e4c9e5-0753-4ca1-8441-99a3a976d322",
+  "relation": "requires",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "af609f54-2cd2-4ae6-ae79-caf621fe443a",
+        "locator": "abstract",
+        "quote": "As predicted, changes in effective synaptic connectivity reduced variational free energy, where the connection strengths encoded parameters of the generative model."
+      }
+    ]
+  }
+}

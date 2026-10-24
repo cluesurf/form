@@ -1,0 +1,45 @@
+{
+  "record": "proposition",
+  "id": "9d930f00-fa6b-4a5a-9310-4b3966b807c9",
+  "kind": "definitional",
+  "epistemic_status": "designed",
+  "title": "Macro perturbation",
+  "statements": [
+    {
+      "id": "3e93b921-6763-4f58-8482-eea732c2aa5e",
+      "text": "To measure EI at a macro level, the system is set into every macro state with equal probability, by spreading each macro intervention evenly over the micro states it groups and averaging their effects.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-23"
+    }
+  ],
+  "current_statement": "3e93b921-6763-4f58-8482-eea732c2aa5e",
+  "status": "active",
+  "voice": "framework",
+  "defines": "macro perturbation",
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "8360d34d-30cb-44f8-89c9-41768fb53f0d",
+        "locator": "Theory, Level-Specific Perturbations",
+        "quote": "To causally assess any macro state, then, one must set S into all of the nmicro micro states {sm} that are grouped into the corresponding macro state sM, and average over the effects."
+      }
+    ]
+  }
+}

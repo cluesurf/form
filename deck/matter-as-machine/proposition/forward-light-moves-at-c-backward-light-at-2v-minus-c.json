@@ -1,0 +1,50 @@
+{
+  "record": "proposition",
+  "id": "8a7d8d89-b016-4735-a048-b85907281e6c",
+  "kind": "mathematical",
+  "epistemic_status": "inferred",
+  "title": "Forward light moves at $c$, backward light at $2v - c$",
+  "statements": [
+    {
+      "id": "f293464d-483d-441c-aa12-8a33ee2ee725",
+      "text": "Under the emission rule, forward light moves at $v + (c - v) = c$ in the absolute frame and backward light at $v - (c - v) = 2v - c$. Below $v = c/2$ backward light moves backward at $c - 2v$, at $v = c/2$ it stands still, and above it even backward light moves forward.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "f293464d-483d-441c-aa12-8a33ee2ee725",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "ce59e052-9c70-46a0-8b8d-89266cb60dd8",
+        "locator": "The prediction",
+        "quote": "Below v = c/2, backward-emitted light travels backwards at speed c − 2v."
+      },
+      {
+        "source": "ce59e052-9c70-46a0-8b8d-89266cb60dd8",
+        "locator": "The prediction",
+        "quote": "At v = c/2, it is stationary in the absolute frame."
+      }
+    ]
+  }
+}

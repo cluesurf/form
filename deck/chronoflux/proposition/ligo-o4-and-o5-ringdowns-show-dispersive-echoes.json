@@ -1,0 +1,57 @@
+{
+  "record": "proposition",
+  "id": "5f75f523-4eb1-48f7-91a6-344fc1a7d62c",
+  "kind": "empirical",
+  "epistemic_status": "hypothesized",
+  "title": "Prediction: LIGO O4b and O5 ringdown stacks show dispersive echoes",
+  "statements": [
+    {
+      "id": "9bb1b17e-38c6-4a31-a1f4-f8cbc1720777",
+      "text": "Stacked post-merger ringdowns in LIGO O4b and O5, with reflectivity $R_0 \\gtrsim 0.03$ and shear relaxation time $\\tau_s \\sim 10^{-3}$ s, favor a dispersive echo template over a clean Kerr ringdown with a Bayes factor of at least $10^2$ at a false-positive rate of 10 percent.",
+      "language": "en",
+      "scope": null,
+      "conditions": "The July 2026 rebuild withdrew the mock-anchored O4 posterior of the March 2026 program, since no public joint analysis produced it. No source reports an outcome.",
+      "falsification_criteria": "GW stacks favor $R_0$ or $\\tau_s$ outside the prior region consistent with O3 and EHT, for example $R_0 \\gtrsim 0.1$ with a millisecond $\\tau_s$, or a verified EHT ring modulation $\\delta I / I \\geq 10^{-4}$ at the GW-favored $\\tau_s$.",
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "9bb1b17e-38c6-4a31-a1f4-f8cbc1720777",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": {
+    "resolution_criterion": "A hierarchical analysis of stacked O4b and O5 post-merger ringdowns with shared $(\\epsilon, R_0, \\tau_s)$ returns a Bayes factor of at least $10^2$ for the dispersive template over clean Kerr at a false-positive rate of 10 percent.",
+    "resolver": "specified_source",
+    "locked_at": "2026-03-21",
+    "outcome": null,
+    "resolved_at": null,
+    "observation": null
+  },
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "4e122635-26fc-4d42-bb3b-7e7af6cafd45",
+        "locator": "section 7",
+        "quote": "With R0 ≳ 0.03, τs ∼ 10−3 s, the dispersive template beats clean Kerr with Bayes factor ≥ 102 at FPR = 10%."
+      },
+      {
+        "source": "9fa9fb29-0013-440b-b0d5-57de1d1c2c72",
+        "locator": "abstract",
+        "quote": "The earlier mock-anchored posterior is removed because no public joint analysis produced it."
+      }
+    ]
+  }
+}

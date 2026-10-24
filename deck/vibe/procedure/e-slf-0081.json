@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "be084fba-433f-4d60-919a-5ebd8834fcf4",
+  "title": "E-SLF-0081: coupled sub-selves bind into one higher self that repairs its own parts, the upward step on the ladder",
+  "purpose": "Experiment E-SLF-0081 in the selves arena: coupled sub-selves bind into one higher self that repairs its own parts, the upward step on the ladder.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L2 (L2: known physics reproduced on a stated model).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/selves/nested-selves-form-a-higher-self.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-SLF-0081",
+        "quote": null
+      }
+    ]
+  }
+}

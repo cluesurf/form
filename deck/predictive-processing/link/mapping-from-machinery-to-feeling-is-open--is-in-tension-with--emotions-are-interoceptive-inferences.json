@@ -1,0 +1,28 @@
+{
+  "record": "link",
+  "id": "22dd7d1f-7dcb-4390-90e3-9fe000c990dd",
+  "from": "b59f7b43-fcd7-4596-a1cd-fd0b476977e4",
+  "to": "bfea6bd6-b8c9-44e5-938d-61bbd85e353d",
+  "relation": "is_in_tension_with",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "bfa85443-4b77-43f1-b5f2-ec1850a4bc3c",
+        "locator": "accepted manuscript p. 15",
+        "quote": "it remains an open question as to how interoceptive experiences map onto the computational machinery of interoceptive inference"
+      }
+    ]
+  }
+}

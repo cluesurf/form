@@ -1,0 +1,26 @@
+{
+  "record": "question",
+  "id": "6956ce90-65e8-40b0-9b2c-4b249ea5aa0e",
+  "text": "Do greedy routing stretch and search radius stay flat on the {3,4,3,4} honeycomb as it grows?",
+  "kind": "missing_evidence",
+  "status": "open",
+  "parent": null,
+  "description": "OP-04: routing and search on {3,4,3,4} with finite-size scaling.\n\nKnown: on {5,4}, stretch 1.002 (R-NVG-0001). On {3,4,3,4}, radius 3 at 750 and 3,000 docks (R-MMR-0001).\n\nUnknown: the {3,4,3,4} routing at all, and either quantity at more than two sizes.\n\nWhy it matters: planned paper 2 needs it, and R-NVG-0001 is on the wrong tiling until it exists.\n\nScope: a small computational investigation.\n\nSkills: network science, hyperbolic geometry, TypeScript.\n\nWhere to start: test/experiment/addressing/greedy-walkway.ts; test/experiment/associative/search-latency.ts; Kleinberg 2007. Krioukov et al. 2010.\n\nThe claims it would move: R-MMR-0001, R-NVG-0001.\n\nEvidence named: E-NVG-0010, E-MMR-0013.",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "research/problem.ts OP-04",
+        "quote": null
+      }
+    ]
+  }
+}

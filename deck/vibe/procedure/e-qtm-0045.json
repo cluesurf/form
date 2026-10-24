@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "a7808eb4-c732-4e53-b885-5b4475f78db3",
+  "title": "E-QTM-0045: the sharp either-or the base rule lacks (E-QTM-0043) is demonstrated at the emergent-self layer in a toy...",
+  "purpose": "Experiment E-QTM-0045 in the quantum arena: the sharp either-or the base rule lacks (E-QTM-0043) is demonstrated at the emergent-self layer in a toy nucleation model: a seed below the critical radius dies to the null outcome while a seed above it persists as a definite localized self holding exactly its seed mass, a sharp persistence threshold with the shape of the E-QTM-0044 bifurcation, the tie to the committed rule staying open.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L1 (L1: known mathematics, correctly confirmed).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/quantum/selection-at-the-selves-layer.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-QTM-0045",
+        "quote": null
+      }
+    ]
+  }
+}

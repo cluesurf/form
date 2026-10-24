@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "1acd561e-b173-4917-aaec-0c9de7641171",
+  "title": "E-HLG-0033: a far cusp signal arrives through the bulk in logarithmic time (break-even separation six, speedup...",
+  "purpose": "Experiment E-HLG-0033 in the holography arena: a far cusp signal arrives through the bulk in logarithmic time (break-even separation six, speedup unbounded to sixty-eight-fold at separation 1024) with the bulk route the graph geodesic (no light-cone violation), while the along-cusp route is linear.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L2 (L2: known physics reproduced on a stated model).",
+  "status": "completed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/holography/bulk-shortcut-reachability.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "research/result.ts R-HLG-0002",
+        "quote": null
+      }
+    ]
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "record": "proposition",
+  "id": "f13d3c43-2948-4c0e-beac-1085c35c9802",
+  "kind": "philosophical",
+  "epistemic_status": "inferred",
+  "title": "Functional equivalents can be unconscious",
+  "statements": [
+    {
+      "id": "8c5ecdcb-8fff-424c-9663-cf6fff83a2a7",
+      "text": "Any behavior of a recurrent conscious system can be performed by a feed-forward system, so there can be unconscious systems that are functionally equivalent to conscious ones. Systems can be equivalent in what they do and differ in what they are.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-23"
+    }
+  ],
+  "current_statement": "8c5ecdcb-8fff-424c-9663-cf6fff83a2a7",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "ff525f31-2442-4b42-b21f-827bf3c74628",
+        "locator": "abstract",
+        "quote": "unconscious feed-forward systems that are functionally equivalent to conscious complexes."
+      }
+    ]
+  }
+}

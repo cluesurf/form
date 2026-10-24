@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "32532e11-2bea-462e-a8d0-8e6f7c88cfd9",
+  "title": "E-FND-0041: the uniform-measure sampler reproduces the exact manifold fraction at small size",
+  "purpose": "Experiment E-FND-0041 in the foundations arena: the uniform-measure sampler reproduces the exact manifold fraction at small size.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L1 (L1: known mathematics, correctly confirmed).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/foundations/uniform.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-FND-0041",
+        "quote": null
+      }
+    ]
+  }
+}

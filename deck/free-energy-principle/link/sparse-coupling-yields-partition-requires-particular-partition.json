@@ -1,0 +1,28 @@
+{
+  "record": "link",
+  "id": "5304b192-c9e7-402e-9668-c79080dd32a7",
+  "from": "b7c70840-e081-4b00-8e24-4bec8218b285",
+  "to": "22163c81-aa83-40dd-adc9-21775bac8bcd",
+  "relation": "requires",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "951a63ba-fbb2-4b78-af38-52646f22dbe0",
+        "locator": "abstract (arXiv record)",
+        "quote": "establishing a particular partition of states based upon conditional independencies that inherit from sparsely coupled dynamics"
+      }
+    ]
+  }
+}

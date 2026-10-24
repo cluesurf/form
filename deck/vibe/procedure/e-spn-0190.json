@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "8eae9c84-0a0e-41bc-8afc-4a23bb584435",
+  "title": "E-SPN-0190: H2+ with one register member on two fixed husk-Coulomb sources, fail on the tracking rule: the atom...",
+  "purpose": "Experiment E-SPN-0190 in the spin arena: H2+ with one register member on two fixed husk-Coulomb sources, fail on the tracking rule: the atom binds at 1.171 $E_b$ at $a_B$ 3 and the field-free cycle is the member cycle to 7e-16, but the bonding line, at |modulus - 1| up to 1e-4, fell outside the genuine cut at 7 of 16 separations and the read jumped to the two cores' deep lines (weight under 0.02), so no bond curve was read.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L2 (L2: known physics reproduced on a stated model).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/spin/register-member-h2plus.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-SPN-0190",
+        "quote": null
+      }
+    ]
+  }
+}

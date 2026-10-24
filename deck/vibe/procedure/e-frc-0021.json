@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "ed213ab5-18a0-4ec4-941f-ba5f7c598c76",
+  "title": "E-FRC-0021: the spinor g-factor is measured as 2 from the Dirac Landau spectrum, not assumed",
+  "purpose": "Experiment E-FRC-0021 in the gauge arena: the spinor g-factor is measured as 2 from the Dirac Landau spectrum, not assumed.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L2 (L2: known physics reproduced on a stated model).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/gauge/g-factor-3434.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-FRC-0021",
+        "quote": null
+      }
+    ]
+  }
+}

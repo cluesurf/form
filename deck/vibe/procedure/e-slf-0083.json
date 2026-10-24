@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "b8b9c16e-148c-492f-8ea0-4b18c33521c1",
+  "title": "E-SLF-0083: no emergent bound body: even a vortex disperses, its persistence is only reversible recurrence",
+  "purpose": "Experiment E-SLF-0083 in the selves arena: no emergent bound body: even a vortex disperses, its persistence is only reversible recurrence.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L2 (L2: known physics reproduced on a stated model).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/selves/no-emergent-bound-body.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-SLF-0083",
+        "quote": null
+      }
+    ]
+  }
+}

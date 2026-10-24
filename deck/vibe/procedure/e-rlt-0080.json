@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "fb65072c-4440-4b10-a30f-5bd272ad4f86",
+  "title": "E-RLT-0080: a living vacuum that breaks W(F4) dock by dock and forces isotropic husk transport exists, fail on its...",
+  "purpose": "Experiment E-RLT-0080 in the relativity arena: a living vacuum that breaks W(F4) dock by dock and forces isotropic husk transport exists, fail on its wake: only the full 12 lines are a 4-design, so isotropy needs every line equally; no forcing group lets every dock store a line (every one of the 48 found holds -1 and a vector-free order-3 element, whose image fixes a dock of every periodic cell); the least cell is 16 docks and carries the HUB pattern (a line on every midpoint of the doubled lattice, (Z) by pairs, line pattern kept by all 1,152); no translation-invariant orientation keeps Q8 and no lift of W(F4) orients it, but an orientation of period 4 D4 keeps 576 elements (the short reflections, no long one), which force the husk scalars through $k^4$ and the shear at leading order; it runs with period 6 and no veto, its cell-averaged transport is 4.00, 4.09, 4.02 and 2.02, but a lone love wakes 8,896 trits per period on side 8 against the one-line vacuum's 210, since every hub holds 24 vacuum vibes at beat 1; no such vacuum fits the battery's odd boxes except the full one, which melts.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L2 (L2: known physics reproduced on a stated model).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/relativity/dock-varying-vacuum.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-RLT-0080",
+        "quote": null
+      }
+    ]
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "f6313959-6977-49b6-a182-e4358389e21a",
+  "title": "E-FND-0160: roles, a tone, flat Sigma(648) links and the fear beat put on the many-body register rule (C*) keep one...",
+  "purpose": "Experiment E-FND-0160 in the foundations arena: roles, a tone, flat Sigma(648) links and the fear beat put on the many-body register rule (C*) keep one branch, the frozen flats, K blocked and chirality, and an unlike pair meeting through the sector entangles its roles, pass: the role is a qutrit (the grid's 9 points are its phase space; the central grid move fixes 0 of 8 nonzero points while -1 acts on the register with trace +-8, so the grid is not the register's 8 parts), the tone a species (a love-sea hole is fear-tone), the fear-tone role in 3-bar (forced by the singlet), and Sigma(648) acts on the role as exactly the 216 grid moves; the fear beat as a sector contact keeps the flats within 6e-14 while the knit-literal placement releases 0.115, K stays blocked (least occupancy 46 of 48) and 24 $Q_S$, 48 $Q_D$ commute with J and all 1,152 W(F4) elements; an unlike pair's traced role state is fixed by one overlap g (|g| 0.57 to 0.92) and reaches CHSH 2.060 from |0>|+> and 2.159 from |0>|0>, never past 2 sqrt 2, and is contextual for the model's readings (least context sum 3.615), none of it with the fear beat off; the mirrored pair agrees to 3e-13; the kernels read no isospin and join no halves.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L2 (L2: known physics reproduced on a stated model).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/foundations/register-roles.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-FND-0160",
+        "quote": null
+      }
+    ]
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "record": "proposition",
+  "id": "c4c788c1-75ef-477b-98ee-3c80bb19e293",
+  "kind": "definitional",
+  "epistemic_status": "designed",
+  "title": "Cosmic consciousness",
+  "statements": [
+    {
+      "id": "077bfcf9-95ba-4407-8999-a281e911cf3d",
+      "text": "Cosmic consciousness is phenomenal consciousness taken as the sole ontological primitive: nothing exists outside or independent of it, so the perceivable cosmos is in consciousness rather than being conscious.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-23"
+    }
+  ],
+  "current_statement": "077bfcf9-95ba-4407-8999-a281e911cf3d",
+  "status": "active",
+  "voice": "framework",
+  "defines": "cosmic consciousness",
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "9c8de529-0562-4ede-9748-a99db6ec0056",
+        "locator": "section 6, p. 135",
+        "quote": "the sole ontological primitive there is is cosmic phenomenal consciousness — or simply ‘cosmic consciousness’ for ease of reference. Nothing exists outside or independent of cosmic consciousness."
+      }
+    ]
+  }
+}

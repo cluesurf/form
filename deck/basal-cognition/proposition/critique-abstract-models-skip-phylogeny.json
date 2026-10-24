@@ -1,0 +1,45 @@
+{
+  "record": "proposition",
+  "id": "dfc0bcd7-7318-4dee-b058-a0bd0a84bc75",
+  "kind": "philosophical",
+  "epistemic_status": "inferred",
+  "title": "Critique: shared control models do not show shared cognition",
+  "statements": [
+    {
+      "id": "df17b2d0-58d0-4c9c-b307-6da8d7e4edcd",
+      "text": "Describing cells and animals with the same feedback-control models leaves out how those behaviors relate, by descent and in concept, to those of organisms already accepted as cognitive.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-23"
+    }
+  ],
+  "current_statement": "df17b2d0-58d0-4c9c-b307-6da8d7e4edcd",
+  "status": "active",
+  "voice": "critique",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "a2a9b88f-95b0-40d1-87f3-456af2e14117",
+        "locator": "section Introduction: two approaches for addressing the scope of cognition, reporting Figdor 2024",
+        "quote": "the phylogenetic and conceptual relationships of these feedback-controlled behaviours to those of organisms we already accept as cognitive is left out of the models"
+      }
+    ]
+  }
+}

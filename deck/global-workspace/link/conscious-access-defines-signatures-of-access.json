@@ -1,0 +1,28 @@
+{
+  "record": "link",
+  "id": "e4cf5127-96e2-4fba-bf5f-ca561360be0b",
+  "from": "ce589f30-d6aa-49bd-9cf4-179935dfe1ff",
+  "to": "71b4b41d-876a-468e-bd04-70b823272d0f",
+  "relation": "defines",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "2374e38b-3bde-4e20-9ad5-8edab14a34c3",
+        "locator": "Introduction",
+        "quote": "how does an external or internal piece of information gain access to conscious processing, defined as a reportable subjective experience?"
+      }
+    ]
+  }
+}

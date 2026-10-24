@@ -1,0 +1,50 @@
+{
+  "record": "proposition",
+  "id": "f0aa2d47-0957-463c-829c-3641725cc9df",
+  "kind": "definitional",
+  "epistemic_status": "designed",
+  "title": "Ignition",
+  "statements": [
+    {
+      "id": "c4ec7b7f-56ee-4142-80bc-814d2e5a68ce",
+      "text": "Ignition is the sudden, coherent and exclusive activation of a subset of workspace neurons, a collective reverberant state that mediates global broadcasting.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-23"
+    }
+  ],
+  "current_statement": "c4ec7b7f-56ee-4142-80bc-814d2e5a68ce",
+  "status": "active",
+  "voice": "framework",
+  "defines": "ignition",
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "48959277-86d2-4076-9942-58a24f753040",
+        "locator": "Central Tenets and Neuroanatomical Basis of the GNW Hypothesis",
+        "quote": "Ignition is characterized by the sudden, coherent, and exclusive activation of a subset of workspace neurons"
+      },
+      {
+        "source": "48959277-86d2-4076-9942-58a24f753040",
+        "locator": "p. 777",
+        "quote": "the triggering of a sudden collective and reverberant coordinated activity that mediates global broadcasting"
+      }
+    ]
+  }
+}

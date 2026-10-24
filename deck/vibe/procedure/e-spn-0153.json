@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "5fb94a23-89ab-413d-93a8-faebe04730b3",
+  "title": "E-SPN-0153: a 2I link register on the husk has a wide window before it freezes, but no exact register state the beat...",
+  "purpose": "Experiment E-SPN-0153 in the spin arena: a 2I link register on the husk has a wide window before it freezes, but no exact register state the beat keeps can use it, fail (H3): the transfer matrix is out of reach (8.6e16 states on the thinnest slab), so freezing is read from the one-loop SU(2) branch against the frozen branch, calibrated on the hypercubic lattice (2I 5.40 against Monte Carlo 5.70, 2T and 2O at 15 and 10%); on the husk x beat (isotropic, 29 plaquettes a dock) 2I freezes at beta 2.818 with one-loop deficit 0.18, at a tadpole-matched hypercubic beta 9.77 (bare 10.9), where the tension is 1.6e-18 of its strong-coupling value; 2I characters lie in Z[phi], so the exact beat lives in Z[w, phi][1/210] with integer electric exponents and a two-unit magnetic phase; the flat register (tension exactly 0 in the flat sector for any group) keeps a link at 0.813 a beat and the E = 0 register keeps a face at 0.630, so neither is kept; the estimator loses validity toward the Hamiltonian limit (deficit 0.44 at xi 2); E-SPN-0152 reproduced, the trivial group has no window.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L2 (L2: known physics reproduced on a stated model).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/spin/icosian-husk-window.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-SPN-0153",
+        "quote": null
+      }
+    ]
+  }
+}

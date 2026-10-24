@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "b961d02c-e875-4dca-97c9-8759f3f07374",
+  "title": "E-FND-0130: the breather ladder survives the adopted rule: two of the four at-rest species are exact ladder states...",
+  "purpose": "Experiment E-FND-0130 in the foundations arena: the breather ladder survives the adopted rule: two of the four at-rest species are exact ladder states, their temporal spectra carrying power at precisely the harmonic ladder of one half lattice energy unit with machine-zero power off the ladder and the same weights the static-weave breather showed, while the other two rest species are broadband non-oscillator states, the sharp two-class split measured under one instrument with the broadband pair as the control.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L2 (L2: known physics reproduced on a stated model).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/foundations/rest-spectra.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-FND-0130",
+        "quote": null
+      }
+    ]
+  }
+}

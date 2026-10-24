@@ -1,0 +1,28 @@
+{
+  "record": "link",
+  "id": "d022e733-b681-49b8-949b-b1218d30a1ff",
+  "from": "5e3e8519-290a-44e2-afce-36a4247ecbf7",
+  "to": "bbdc8dc8-7214-4370-81ad-544bb2783081",
+  "relation": "is_equivalent_to",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "9f6802be-e2fa-4f89-b303-461db4c74e7e",
+        "locator": "Conscious realism, Hypothesis 1",
+        "quote": "The world W consists entirely of conscious agents."
+      }
+    ]
+  }
+}

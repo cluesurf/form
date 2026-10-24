@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "5b04d303-1b4c-4e99-8e57-8c3e73c19bbd",
+  "title": "E-GMT-0033: a physical horospheric step is an exact bulk isometry (every hyperbolic distance preserved to machine...",
+  "purpose": "Experiment E-GMT-0033 in the geometry arena: a physical horospheric step is an exact bulk isometry (every hyperbolic distance preserved to machine precision) that composes as a group (step t then s equals step t+s, inverse returns home), so walking 3D applies a symmetry of the 4D bulk, while a naive shear breaks the metric.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L2 (L2: known physics reproduced on a stated model).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/geometry/horocyclic-step-isometry.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-GMT-0033",
+        "quote": null
+      }
+    ]
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "7c3aaca3-6d95-4501-b65b-652d5816378a",
+  "title": "E-FND-0102: the adoption gate on the committed substrate, all 4,608 torus-acting conjugations tested for three knits...",
+  "purpose": "Experiment E-FND-0102 in the foundations arena: the adoption gate on the committed substrate, all 4,608 torus-acting conjugations tested for three knits on generic states: the charge knit has exact CPT on the d4 mesh (negation, full inversion, velocity reversal), lineHop keeps only the identity (not one exact reversal anywhere, so adopting it as-is adopts total discrete-symmetry violation including CPT), and the one-line palindrome repair (swap, clock, swap, linePalindrome) has exactly one nontrivial exact conjugation, the CPT reversal, with C and CP still violated, so the repaired candidate carries the weak-interaction symmetry pattern nature shows.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L2 (L2: known physics reproduced on a stated model).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/foundations/adoption-gate-sweep.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-FND-0102",
+        "quote": null
+      }
+    ]
+  }
+}

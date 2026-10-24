@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "b3366112-b571-435c-907f-83f55364d2db",
+  "title": "E-RLT-0044: the gravitational-wave speed bound applied to the withdrawn Chronoflux action through its...",
+  "purpose": "Experiment E-RLT-0044 in the relativity arena: the gravitational-wave speed bound applied to the withdrawn Chronoflux action through its Einstein-aether correspondence: the spin-2 speed 1/(1 - alpha_1) with the GW170817 bound |s - 1| < 3e-15 pins |alpha_1| below 6e-15, excluding the order-one values the corpus's flow sector uses by fifteen orders of magnitude, with the alpha_1 = 0 limit exact as the control.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L1 (L1: known mathematics, correctly confirmed).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/relativity/chronoflux-aether-bound.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-RLT-0044",
+        "quote": null
+      }
+    ]
+  }
+}

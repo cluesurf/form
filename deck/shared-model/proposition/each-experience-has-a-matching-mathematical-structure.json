@@ -1,0 +1,77 @@
+{
+  "record": "proposition",
+  "id": "db7bd169-ece2-49e6-b137-6522acd6d5f1",
+  "kind": "philosophical",
+  "epistemic_status": "hypothesized",
+  "title": "Each experience has a matching mathematical structure",
+  "statements": [
+    {
+      "id": "65fad5f6-fa00-40c5-addf-e3ceed30bd65",
+      "text": "For each experience there is a mathematical structure that is identical or isomorphic to it, so the properties of experience can in principle be measured and computed.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-23"
+    }
+  ],
+  "current_statement": "65fad5f6-fa00-40c5-addf-e3ceed30bd65",
+  "status": "active",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": {
+    "value": "open",
+    "reason": null,
+    "basis": [],
+    "proposal": null
+  },
+  "origin": [
+    {
+      "repository": "iit",
+      "id": "79c54001-d62b-4535-9bf1-5ca0a2766a35"
+    },
+    {
+      "repository": "qualia-formalism",
+      "id": "87fa58ba-a6c1-4a5d-b47a-ba298a93a00d"
+    },
+    {
+      "repository": "qualia-formalism",
+      "id": "925869e2-5b89-4f0d-b1c9-e3a38de19872"
+    }
+  ],
+  "provenance": {
+    "written_by": "github:lancejpollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "6bb4f0a7-1584-464c-ad61-663d2ad0353b",
+        "locator": "section \"The explanatory identity\" (full text)",
+        "quote": "IIT proposes a fundamental explanatory identity: an experience is identical to the cause–effect structure unfolded from a maximal substrate"
+      },
+      {
+        "source": "88c540e3-3056-4e37-8da4-5d2e98506a4b",
+        "locator": "section VII, p. 25",
+        "quote": "a mathematical object isomorphic to its phenomenology"
+      },
+      {
+        "source": "67e56f67-951e-474b-bcf3-89c015766a2e",
+        "locator": "main text",
+        "quote": "for any conscious experience, there exists a mathematical object isomorphic to it"
+      },
+      {
+        "source": "88c540e3-3056-4e37-8da4-5d2e98506a4b",
+        "locator": "section VII, p. 25",
+        "quote": "this mathematical object has a rich set of formal structures."
+      }
+    ]
+  }
+}

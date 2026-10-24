@@ -1,0 +1,52 @@
+{
+  "record": "proposition",
+  "id": "600e7d7c-8bb8-4f42-a7e6-0055bfe707bb",
+  "kind": "empirical",
+  "epistemic_status": "hypothesized",
+  "title": "Induced interoceptive imprecision should lower presence",
+  "statements": [
+    {
+      "id": "339d2a93-8a78-4dcb-a5ba-70ac57da004c",
+      "text": "Artificially making interoceptive predictions imprecise should diminish conscious presence and alter anterior insula activity, while simply raising interoceptive prediction error should increase anxiety instead.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": "Interoceptive predictions made imprecise without any drop in presence, or raised interoceptive prediction error without any rise in anxiety.",
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-23"
+    }
+  ],
+  "current_statement": "339d2a93-8a78-4dcb-a5ba-70ac57da004c",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": {
+    "resolution_criterion": "An experiment that makes interoceptive predictions imprecise reports lower presence and abnormal anterior insula activity, and one that raises interoceptive prediction error reports more anxiety.",
+    "resolver": "independent_review",
+    "locked_at": "2012-01-10",
+    "outcome": null,
+    "resolved_at": null,
+    "observation": null
+  },
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "329d2407-0571-4ab3-ab6b-0b58f67fd54d",
+        "locator": "Summary",
+        "quote": "artificially induced imprecision in interoceptive predictions should lead to diminished conscious presence and abnormal AIC activity; by contrast, simple elevation of interoceptive prediction error signals should lead instead to increased anxiety."
+      }
+    ]
+  }
+}

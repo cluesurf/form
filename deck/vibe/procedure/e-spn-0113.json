@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "4e5eec1e-722a-4a89-a9a0-173d5fc342f5",
+  "title": "E-SPN-0113: the string-bound love-fear meson on the joint path D = 2 D(n), with D(n) derived from the gap leak...",
+  "purpose": "Experiment E-SPN-0113 in the spin arena: the string-bound love-fear meson on the joint path D = 2 D(n), with D(n) derived from the gap leak exp(-pi $m^2 / \\sigma$) <= 1e-3 (N >= 6.30 $n^2$: D 3, 13, 50, 202, 806 at n = 1, 2, 4, 8, 16), partial and failing: its total m*/E_rest falls 1.793, 1.112, 1.024, 1.006, 1.003 (R 1.084, 1.009, 1.000, 1.000, 1.001, size 0.86 to 18.9 docks), but at n >= 4 no level is held, since the tail is small from D(n) on while the band followed in fixed K steps of pi/64 loses overlap (0.987 at n 4, 0.83 at n 16 on the path, and another level crosses at D(n) itself), so the held-band and top-velocity gates fail; E-SPN-0112 reproduced, no cost holds nothing, and the box control at n = 8, D 202 fails (2.6e-8, the not-held level).",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L2 (L2: known physics reproduced on a stated model).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/spin/meson-joint-limit.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-SPN-0113",
+        "quote": null
+      }
+    ]
+  }
+}

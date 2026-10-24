@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "2ea6fcc1-2bcf-48bc-89b1-e5c2ab4bcbea",
+  "title": "E-GRV-0079: an even-spin depth field makes like sources attract with positive wave energy, fail on S3's tolerance...",
+  "purpose": "Experiment E-GRV-0079 in the gravity arena: an even-spin depth field makes like sources attract with positive wave energy, fail on S3's tolerance only: the husk column's depth given its own integer wave rule (a STAND-IN, added by hand; phi carried in three levels as the shaped light carries its remainder, kappa = 2 / (9 (2D + 1)) so its waves run at the light's c(D)) has static pair energy W(r) = 0.1266 .. 0.1587 at r = 1 .. 7 on the side-16 husk, rising with r (like sources attract, the sign derived from the source entering the energy linearly, not put in), equal to the torus Green's to 1.3e-10 and fitting k = 0.04182 against sa sb / (24 D) = 0.04167, where the vector even field of E-GRV-0074 gives exactly minus it and repels; love and fear source it identically (by construction); kappa lambda_max = 0.2155 < 4 so the wave energy is positive, a free bump keeps it to 2.0e-7 and every run reverses bit for bit, but a standing lump's energy wanders by 1.9e-5 of its static energy against a gate of 1e-6 (not heating: both signs; one level climbs 34 fold of it; the wander falls by about Q = 297 per level, 9.2e-8 at four).",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L2 (L2: known physics reproduced on a stated model).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/gravity/radion-static.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-GRV-0079",
+        "quote": null
+      }
+    ]
+  }
+}

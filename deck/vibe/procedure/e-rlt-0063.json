@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "6816e4e8-2921-4e8b-8763-fdd7866d02a5",
+  "title": "E-RLT-0063: the trade table of the isotropic knits, partial: over 1,780 two-generated subgroups of W(F4) up to order...",
+  "purpose": "Experiment E-RLT-0063 in the relativity arena: the trade table of the isotropic knits, partial: over 1,780 two-generated subgroups of W(F4) up to order 192, the least that forces the husk diffusion and sound through $k^4$ has order 24 (the binary tetrahedral group by left quaternion multiplication, one class, acting freely on the 24 slots) and none below 1,152 forces the husk shear at leading order; the knit built on that group alone gets husk exponents 4.05 (charge), 4.02 (trace), 4.00 (sound) and 0.20 (shear, anisotropy 0.018), W(F4) itself 3.99, 3.98, 3.96, 2.01; the color-exact W(F4) knit keeps exact local color, CPT and the charge law (3.95) but freezes all 12 line momenta, so its shear anisotropy stays 1.47 and its momentum-sector trace is unresolved (2.90 +- 0.50, the registered gate that fails); all four candidates keep CPT, charge, count, momentum and reversal, couple all 66 line pairs, and dress nothing (support 1) with a still vacuum.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L2 (L2: known physics reproduced on a stated model).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/relativity/isotropic-knit-trade-table.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-RLT-0063",
+        "quote": null
+      }
+    ]
+  }
+}

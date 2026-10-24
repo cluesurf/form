@@ -1,0 +1,28 @@
+{
+  "record": "link",
+  "id": "1667ade2-9699-4e4c-891d-7b4e83b4c2cc",
+  "from": "2e969d2f-3751-4c5f-84dd-c6bc78f095c7",
+  "to": "bfea6bd6-b8c9-44e5-938d-61bbd85e353d",
+  "relation": "requires",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "8ed62dfe-4468-4f53-9b70-f009ba2dbe4f",
+        "locator": "p. 571",
+        "quote": "Overall, 'interoceptive inference' highlights common predictive mechanisms that underlie affect, self, and perception"
+      }
+    ]
+  }
+}

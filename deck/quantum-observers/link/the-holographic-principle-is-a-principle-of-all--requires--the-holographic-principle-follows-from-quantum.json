@@ -1,0 +1,28 @@
+{
+  "record": "link",
+  "id": "49f0da2a-f3b5-4993-b387-1e4830c0ba1c",
+  "from": "3e2ed2e9-2649-40ca-8eec-1cab4ccf44e7",
+  "to": "102d84fd-a709-466c-8fe2-e23cc9d957fd",
+  "relation": "requires",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b187d010-15da-4476-b407-2a7922c1dcf1",
+        "locator": "abstract",
+        "quote": "suggesting that the HP is not just a fundamental principle of physics, but of all of science"
+      }
+    ]
+  }
+}

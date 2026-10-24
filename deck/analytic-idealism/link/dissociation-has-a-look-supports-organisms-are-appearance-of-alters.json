@@ -1,0 +1,28 @@
+{
+  "record": "link",
+  "id": "2a15dd88-d26f-4fab-abe6-9b43046f47c1",
+  "from": "e931eed1-4c79-4f55-97e6-0da38cbc8371",
+  "to": "9deb305f-4536-4346-b8a7-5feacbe6f034",
+  "relation": "supports",
+  "strength": 0.2,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "9c8de529-0562-4ede-9748-a99db6ec0056",
+        "locator": "section 12, p. 150",
+        "quote": "showing that dissociation has an identifiable extrinsic appearance"
+      }
+    ]
+  }
+}

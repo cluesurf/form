@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "ed50d8bd-b785-422c-ac59-aff93f2e5391",
+  "title": "E-GRV-0112: a lump accreted under the clock criterion forms its horizon without a slip but freezes more history into...",
+  "purpose": "Experiment E-GRV-0112 in the gravity arena: a lump accreted under the clock criterion forms its horizon without a slip but freezes more history into it, fail on G2 and G3: E-GRV-0109's M = 1600 lump built one unit every 2 beats with the horizon joined where the found depth exceeds the reference's by 3/2 runs 4,223 beats with 0 wraps (E-GRV-0109's order under the same criterion 61, untorn 9,852), curl 0, energy to 3e-9 and every event reversed bit for bit, the husk's step never above 1.11; the horizon forms at unit 589 (statics 604) and grows to 761 docks at radius 5.83, matching the statics except 0.55 dock ahead at M = 800 (gate 0.5); but docks tear while the lump fills and hold their steps (up to 1.11), so the settled force is 36 percent off the placed lump's at r = 8 .. 11 (E-GRV-0109: 22) and 407 of 894 horizon verticals carry flux back up, 761 units returning through the bulk outside the horizon.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L2 (L2: known physics reproduced on a stated model).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/gravity/clock-horizon-growth.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-GRV-0112",
+        "quote": null
+      }
+    ]
+  }
+}

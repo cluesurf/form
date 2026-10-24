@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "684479fb-97e2-441e-a0e9-253fc3431f09",
+  "title": "E-FLD-0021: the committed rule breaks the particle momentum in exactly two places, the hop of a lone tone on a wire...",
+  "purpose": "Experiment E-FLD-0021 in the fluids arena: the committed rule breaks the particle momentum in exactly two places, the hop of a lone tone on a wire (a reversal, 2 roots per act, 96 percent of the broken momentum on a dense state) and the palindromic exchange (a turn of a lone tone between the couple's lines), while the create, flip and annihilate of the pair clock move no particle momentum and all of the charge current; no residue of either momentum survives (the Smith form of every possible change leaves only charge parity), and removing the hop leaves one exact line invariant, the sum of the twelve line momenta.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L2 (L2: known physics reproduced on a stated model).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/fluids/momentum-ledger.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-FLD-0021",
+        "quote": null
+      }
+    ]
+  }
+}

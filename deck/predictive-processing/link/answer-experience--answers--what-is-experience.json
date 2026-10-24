@@ -1,0 +1,28 @@
+{
+  "record": "link",
+  "id": "c4c21ef0-f9b9-4bc5-83ef-e4f59ff4944d",
+  "from": "914846a5-d143-42ca-ab36-c6016a6c8e1d",
+  "to": "94d1e6cc-101d-4e1b-9fc7-56d44571b271",
+  "relation": "answers",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "e391f78a-61b9-464c-883b-2181082dabd3",
+        "locator": "accepted manuscript p. 18",
+        "quote": "conscious contents are actively generated, rather than passively registered"
+      }
+    ]
+  }
+}

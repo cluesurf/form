@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "ebac5cbd-5a65-49c0-8162-ab263d1290b8",
+  "title": "E-SPN-0037: C, P, T, and CPT are exact on the {3,4,3,4} substrate",
+  "purpose": "Experiment E-SPN-0037 in the spin arena: C, P, T, and CPT are exact on the {3,4,3,4} substrate.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L2 (L2: known physics reproduced on a stated model).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/spin/sy-discrete-symmetries.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-SPN-0037",
+        "quote": null
+      }
+    ]
+  }
+}

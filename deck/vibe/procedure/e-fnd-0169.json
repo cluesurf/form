@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "22f53808-d663-4858-8fcb-de784b46e15b",
+  "title": "E-FND-0169: one disturbed dock in the working vacuum: the rule is not linear over Z3 and its footprint is bounded...",
+  "purpose": "Experiment E-FND-0169 in the foundations arena: one disturbed dock in the working vacuum: the rule is not linear over Z3 and its footprint is bounded, fail on both as predicted: superposition mod 3 fails at every beat for two disturbances on one slot (up to 31 trits), one dock line (30) and one mesh line (35), while two disturbances that never share a dock add exactly and the bare stream adds exactly; a lone love's footprint grows to 15 docks by beat 23 and stays at 10 to 15 through beat 48, so its space-time count grows as t; the log-log slope over beats 8 to 48 reads 1.65, a crossover into the plateau and not a fractal dimension, whatever its nearness to Pascal's log 6 / log 3; the linear rule with the mesh's 24 neighbors fills 868,752 docks by beat 26 with dimension 4.24.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L2 (L2: known physics reproduced on a stated model).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/foundations/disturbance-footprint.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-FND-0169",
+        "quote": null
+      }
+    ]
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "71527dd5-180a-4aef-be5e-1e2f5248a671",
+  "title": "E-FND-0012: the rich regime is broad so there is no fine-tuning signature",
+  "purpose": "Experiment E-FND-0012 in the foundations arena: the rich regime is broad so there is no fine-tuning signature.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L2 (L2: known physics reproduced on a stated model).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/foundations/design-signature.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-FND-0012",
+        "quote": null
+      }
+    ]
+  }
+}

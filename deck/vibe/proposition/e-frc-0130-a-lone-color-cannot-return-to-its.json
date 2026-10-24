@@ -1,0 +1,50 @@
+{
+  "record": "proposition",
+  "id": "a81f12b5-6e3a-4f5c-9111-e7341a89c3f6",
+  "kind": "empirical",
+  "epistemic_status": "simulated",
+  "title": "E-FRC-0130: a lone color cannot return to its partner under the committed orientation: color-local moves keep a lone...",
+  "statements": [
+    {
+      "id": "3143f076-1459-4b48-b773-e9bb4f1e999f",
+      "text": "A lone color cannot return to its partner under the committed orientation: color-local moves keep a lone vibe in its sign class, and the committed class of 12 directions lies in an open half-space, so it drifts one way forever, while some of the 4,096 orientations of the lines hold closed walks and would let a part come back.",
+      "language": "en",
+      "scope": "experiment E-FRC-0130, arena gauge, depth L1 (L1: known mathematics, correctly confirmed)",
+      "conditions": "substrates: 3434. In a paper: false",
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-22"
+    }
+  ],
+  "current_statement": "3143f076-1459-4b48-b773-e9bb4f1e999f",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": {
+    "value": "open",
+    "reason": "holds in the vibe claim graph",
+    "basis": [],
+    "proposal": null
+  },
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "research/result.ts R-FRC-0006",
+        "quote": null
+      }
+    ]
+  }
+}

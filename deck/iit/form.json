@@ -1,0 +1,72 @@
+{
+  "format": "form.surf/1",
+  "id": "0088aaac-9330-4b7f-b630-8229ed5a6357",
+  "name": "iit",
+  "title": "Integrated information theory",
+  "role": "model",
+  "summary": "Giulio Tononi and Christof Koch's theory that an experience is identical to the maximally irreducible cause-effect structure of a physical substrate, derived from five axioms of experience, with integrated information (phi) as its quantity.",
+  "framework": {
+    "originators": [
+      "Giulio Tononi",
+      "Christof Koch"
+    ],
+    "aliases": [
+      "IIT",
+      "IIT 4.0",
+      "integrated information"
+    ],
+    "homepage": null
+  },
+  "community_written": true,
+  "curators": [
+    {
+      "name": "Lance Pollard",
+      "github": "lancejpollard"
+    }
+  ],
+  "license": "CC-BY-4.0",
+  "atlas": {
+    "scope": [
+      "79c54001-d62b-4535-9bf1-5ca0a2766a35",
+      "c5fbd6c2-34c4-4d64-a7e8-5a4419b5bb9c",
+      "4b140503-af00-4104-982a-a6a0a54d3532",
+      "fe84cdaf-4167-4497-8f6a-b43309d0c77f",
+      "81b3a047-3ca5-4a22-a2aa-c1d8e961f0ae",
+      "54bb8e6a-aef1-4018-98af-7f25828cb702"
+    ],
+    "limits": [
+      "2a02e520-4b5c-40e4-b1b6-b428ead428a9",
+      "1be17bb2-46b2-4b0d-845d-914d9e0a940a"
+    ],
+    "flaws": [
+      "bdc50fe4-f024-4141-bfdc-e266c86a3b32",
+      "e8d14b31-39e3-4636-80ff-896520a8cae7",
+      "354ce4c7-87f2-4596-8d5d-25a4bc29266e",
+      "d1f75ebe-f126-4131-b8f5-2e21b0ee7f3a",
+      "0fa8261a-f75d-49a7-9764-893ace04a5d3",
+      "474a57ce-7346-4ca0-a170-e468260ee6db",
+      "968bcd88-0486-44c2-a3f7-2060e252f67a"
+    ],
+    "dead_ends": [
+      "09acad59-7163-4633-b357-ed609e4b3567"
+    ]
+  },
+  "draws_from": [],
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "8443eb2e-406e-4acc-94e8-33cbabbd3679",
+        "locator": "abstract",
+        "quote": "This paper presents Integrated Information Theory (IIT) 4.0."
+      }
+    ]
+  }
+}

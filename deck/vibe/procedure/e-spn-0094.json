@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "2b92df99-a62f-4e6f-861f-c0b10898b41a",
+  "title": "E-SPN-0094: which covariant maps on a dock's slots let a vibe leave its line: three linear classes (inner product 1...",
+  "purpose": "Experiment E-SPN-0094 in the spin arena: which covariant maps on a dock's slots let a vibe leave its line: three linear classes (inner product 1, 0, -1), none a permutation; in the rule's ring Z[w][1/2] the unitaries reduce to 216, whose line mixing is only to the orthogonal lines of the vibe's frame, a sixth root on each frame's uniform vector, and the one real involution G = I - 2Q (the Grover diffusion on each frame) is the canonical mixer, fixed by the algebra.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L1 (L1: known mathematics, correctly confirmed).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/spin/line-mixing-theorem.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-SPN-0094",
+        "quote": null
+      }
+    ]
+  }
+}

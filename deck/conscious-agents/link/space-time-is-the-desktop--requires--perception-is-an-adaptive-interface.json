@@ -1,0 +1,28 @@
+{
+  "record": "link",
+  "id": "638978c3-b8c8-41c3-a2e7-9a7c8f01b9cd",
+  "from": "4f1fce69-f254-4fe8-8357-3f0ac9445794",
+  "to": "15eb5784-eda9-416f-b2d6-865b0d94a29c",
+  "relation": "requires",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "326bc60f-bdd5-4190-a828-88d73ad2daba",
+        "locator": "abstract, p. 2",
+        "quote": "space-time is the desktop and physical objects are the icons"
+      }
+    ]
+  }
+}

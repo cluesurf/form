@@ -1,0 +1,28 @@
+{
+  "record": "link",
+  "id": "34d85dc9-2140-4823-bb30-576124f67d41",
+  "from": "a634a152-bb87-4d87-92fd-a989da5bb22e",
+  "to": "c04c8e7c-e80f-4e0a-953b-f5376e5dc677",
+  "relation": "weakens",
+  "strength": 0.5,
+  "rationale": "The toy gain depends on choosing the uniform macro distribution. With the macro distribution derived from the micro one, the micro has at least as much information.",
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "e3443755-ce71-4132-994c-b609c7b95871",
+        "locator": "post body",
+        "quote": "So knowing the initial macrostate gives us 1 full bit of information about the final state, which is more than the ~0.54 bits that looking at the microstate gave us!"
+      }
+    ]
+  }
+}

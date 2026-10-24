@@ -1,0 +1,28 @@
+{
+  "record": "link",
+  "id": "9d633585-f8d4-41fd-bb77-69b3df999697",
+  "from": "f3203c1c-491e-4630-973a-90b14bed5c5c",
+  "to": "1be17bb2-46b2-4b0d-845d-914d9e0a940a",
+  "relation": "requires",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "ff525f31-2442-4b42-b21f-827bf3c74628",
+        "locator": "abstract",
+        "quote": "exclusion says that it has unique borders and a particular spatio-temporal grain."
+      }
+    ]
+  }
+}

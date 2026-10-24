@@ -1,0 +1,50 @@
+{
+  "record": "proposition",
+  "id": "e8066fa4-15b6-4afe-87c3-6cffda02b541",
+  "kind": "mathematical",
+  "epistemic_status": "inferred",
+  "title": "L4: on a graph whose shells grow by a factor lambda, the outer shell holds (lambda - 1) / lambda of the ball in the...",
+  "statements": [
+    {
+      "id": "a6fe9980-ca01-434b-8105-e6324e4d1a8f",
+      "text": "On a graph whose shells grow by a factor lambda, the outer shell holds (lambda - 1) / lambda of the ball in the limit.",
+      "language": "en",
+      "scope": "a mathematical step, proved or cited",
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-22"
+    }
+  ],
+  "current_statement": "a6fe9980-ca01-434b-8105-e6324e4d1a8f",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": {
+    "value": "open",
+    "reason": "holds in the vibe claim graph",
+    "basis": [],
+    "proposal": null
+  },
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "research/node.ts L4",
+        "quote": null
+      }
+    ]
+  }
+}

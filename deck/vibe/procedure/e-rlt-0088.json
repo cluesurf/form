@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "c06d3f45-eef4-45dd-baaf-5dff377317ed",
+  "title": "E-RLT-0088: the frame change of four batteries fixed to carry the comoving own points, partial (the swap-phase...",
+  "purpose": "Experiment E-RLT-0088 in the relativity arena: the frame change of four batteries fixed to carry the comoving own points, partial (the swap-phase control): at four frames the fixed and old frame changes agree on every gate and every non-frame metric (32 runs), and every frame gate holds under both (0 matter and vacuum mismatches, so E-RLT-0082's 3,670 was specific to its golden start); the fix moves only the control, 465 -> 0 at the battery's own frame on E-RLT-0075, 0079 and 0082, while at the other frames it reads 1,767 (twice) or 0 under both: the control is start-sensitive, and the three experiments go fail -> partial on their control gate alone.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L1 (L1: known mathematics, correctly confirmed).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/relativity/frame-carry-batteries.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-RLT-0088",
+        "quote": null
+      }
+    ]
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "record": "proposition",
+  "id": "32080c5a-18ef-4114-9219-e0220beac301",
+  "kind": "empirical",
+  "epistemic_status": "hypothesized",
+  "title": "Particles are vibrations of interacting agents",
+  "statements": [
+    {
+      "id": "06d6891b-51a9-44bb-9a3b-30e0611eb01e",
+      "text": "Particles may be vibrations not of strings but of interacting conscious agents, read from the asymptotic dynamics of joined agents.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-23"
+    }
+  ],
+  "current_statement": "06d6891b-51a9-44bb-9a3b-30e0611eb01e",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "9f6802be-e2fa-4f89-b303-461db4c74e7e",
+        "locator": "abstract and Microphysical objects",
+        "quote": "particles are vibrations not of strings but of interacting conscious agents"
+      }
+    ]
+  }
+}

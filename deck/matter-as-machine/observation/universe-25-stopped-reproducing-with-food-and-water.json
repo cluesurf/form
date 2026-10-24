@@ -1,0 +1,44 @@
+{
+  "record": "observation",
+  "id": "17b2556f-358a-419b-9c45-d8f55e3366aa",
+  "kind": "documentary_record",
+  "epistemic_status": "observed",
+  "description": "The self-selection page reports Calhoun's Universe 25 mouse colony, which had abundant food and water, grew at first, then stopped reproducing and died out.",
+  "method": "document_review",
+  "status": "reported",
+  "source": "c01a576c-01a5-46ae-8a4e-5fed54687b5c",
+  "procedure": null,
+  "variable": null,
+  "value": null,
+  "unit": null,
+  "uncertainty": null,
+  "sample_size": null,
+  "replication_count": null,
+  "quality": null,
+  "limitations": "The page itself says this does not establish depression as the cause. The cited paper was not opened for this record.",
+  "conflicts_of_interest": null,
+  "observed_at": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "c01a576c-01a5-46ae-8a4e-5fed54687b5c",
+        "locator": "Direct: Depression",
+        "quote": "It grew at first, but eventually reproduction stopped and the colony died out."
+      },
+      {
+        "source": "c01a576c-01a5-46ae-8a4e-5fed54687b5c",
+        "locator": "Direct: Depression",
+        "quote": "This does not establish depression as the cause"
+      }
+    ]
+  }
+}

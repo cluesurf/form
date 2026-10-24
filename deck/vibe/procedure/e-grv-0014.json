@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "85e18441-c75e-4b5a-833d-afd1816581e7",
+  "title": "E-GRV-0014: on the measured area-law entropy, the horizon first law, Smarr, Bekenstein, and M cubed evaporation follow",
+  "purpose": "Experiment E-GRV-0014 in the gravity arena: on the measured area-law entropy, the horizon first law, Smarr, Bekenstein, and M cubed evaporation follow.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L1 (L1: known mathematics, correctly confirmed).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/gravity/gr-black-hole-thermo.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-GRV-0014",
+        "quote": null
+      }
+    ]
+  }
+}

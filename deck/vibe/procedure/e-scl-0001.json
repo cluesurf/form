@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "8bc342b9-d422-4cdd-a166-a2c79a1fd9e0",
+  "title": "E-SCL-0001: no scale-free avalanches at any background, perturbations spread ballistically to a fixed size",
+  "purpose": "Experiment E-SCL-0001 in the renormalization arena: no scale-free avalanches at any background, perturbations spread ballistically to a fixed size.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L2 (L2: known physics reproduced on a stated model).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/renormalization/avalanche-criticality.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-SCL-0001",
+        "quote": null
+      }
+    ]
+  }
+}

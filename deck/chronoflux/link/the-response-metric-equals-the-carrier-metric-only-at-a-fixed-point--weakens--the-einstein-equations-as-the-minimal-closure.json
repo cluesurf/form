@@ -1,0 +1,33 @@
+{
+  "record": "link",
+  "id": "f6274fc9-60bc-47a7-a2f9-df3ca8d94ee5",
+  "from": "7533bb10-ff79-48b4-a7dc-b1f7608323b1",
+  "to": "a1b82fcd-e11b-4960-b8de-a618e59fe757",
+  "relation": "weakens",
+  "strength": null,
+  "rationale": "Until the response metric is shown equal to the carrier metric, the recovered geometry and the geometry in the Einstein equation are two objects, so the closure is conditional.",
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "e731e152-07fe-4e9c-bb57-f298772da6af",
+        "locator": "abstract",
+        "quote": null
+      },
+      {
+        "source": "74dae0ca-ffc6-4827-bce0-5561d176e0ee",
+        "locator": "Proposition 1, section 2.3",
+        "quote": null
+      }
+    ]
+  }
+}

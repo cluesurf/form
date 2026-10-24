@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "e79dedf7-05d4-4b36-8aa2-09091bea1526",
+  "title": "E-QTM-0098: the Planck spectrum from exact counting on the measured dispersion: the gas rings harmonically (omega...",
+  "purpose": "Experiment E-QTM-0098 in the quantum arena: the Planck spectrum from exact counting on the measured dispersion: the gas rings harmonically (omega proportional to k, re-measured at three wavenumbers), occupancy vectors of 210 discrete modes are counted exactly by dynamic programming, the temperature is read from the entropy slope, and the mean occupancies match the Planck form within five percent at every sampled frequency at two energies, deep tail included, while the classical equipartition branch (the one the coarse gas actually has, E-FLD-0018) overshoots the tail by factors up to seven, so quantized occupancy plus counting cures the ultraviolet catastrophe and the blackbody law lives at the quantum layer exactly as located.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L2 (L2: known physics reproduced on a stated model).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/quantum/planck-spectrum-from-counting.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-QTM-0098",
+        "quote": null
+      }
+    ]
+  }
+}

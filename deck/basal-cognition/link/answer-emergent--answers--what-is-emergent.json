@@ -1,0 +1,28 @@
+{
+  "record": "link",
+  "id": "af5e53e8-50ec-44c7-8ec6-520590ff122f",
+  "from": "eea2fa27-d393-41ec-b1c7-85c7e6f75c56",
+  "to": "455dff7d-b66c-449d-b2d7-52521b99cba5",
+  "relation": "answers",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "fd7382f9-52a5-4beb-9680-fc341ff15b98",
+        "locator": "Table 3",
+        "quote": "Biological Selves scale up by cells' joining into computational networks that can pursue larger-scale (anatomical, not just metabolic) goals."
+      }
+    ]
+  }
+}

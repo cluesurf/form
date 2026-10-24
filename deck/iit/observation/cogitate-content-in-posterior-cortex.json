@@ -1,0 +1,39 @@
+{
+  "record": "observation",
+  "id": "5dc13910-212a-414a-a1aa-7e85a0071e23",
+  "kind": "experimental_result",
+  "epistemic_status": "observed",
+  "description": "Cogitate (2025) found information about conscious content in visual, ventrotemporal and inferior frontal cortex, with sustained responses in occipital and lateral temporal cortex that tracked stimulus duration. The authors say these results align with some predictions of IIT.",
+  "method": "experiment",
+  "status": "reported",
+  "source": "b84809ac-0650-4173-b863-4ba1c946fcca",
+  "procedure": null,
+  "variable": null,
+  "value": null,
+  "unit": null,
+  "uncertainty": null,
+  "sample_size": 256,
+  "replication_count": null,
+  "quality": null,
+  "limitations": "Content was also found in inferior frontal cortex, so the posterior result is partial support.",
+  "conflicts_of_interest": null,
+  "observed_at": "2025-04-30",
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b84809ac-0650-4173-b863-4ba1c946fcca",
+        "locator": "abstract",
+        "quote": "We found information about conscious content in visual, ventrotemporal and inferior frontal cortex, with sustained responses in occipital and lateral temporal cortex reflecting stimulus duration, and content-specific synchronization between frontal and early visual areas."
+      }
+    ]
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "record": "proposition",
+  "id": "fe385ecd-8cae-433e-8444-db4840e2afe5",
+  "kind": "empirical",
+  "epistemic_status": "hypothesized",
+  "title": "Attention selects among potential conscious contents",
+  "statements": [
+    {
+      "id": "69515c37-e848-4bea-a073-11e2e3db97d4",
+      "text": "Selective attention is selection among potential conscious contents: many attentional mechanisms exist whose function is to bring different events to consciousness, where their information is globally distributed.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-23"
+    }
+  ],
+  "current_statement": "69515c37-e848-4bea-a073-11e2e3db97d4",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "27d49895-2a70-4caf-8a9d-44136817650c",
+        "locator": "prediction 6, p. 50",
+        "quote": "selective attention can be defined as selection among potential conscious contents"
+      }
+    ]
+  }
+}

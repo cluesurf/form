@@ -1,0 +1,45 @@
+{
+  "record": "proposition",
+  "id": "9e9ae824-6716-4a51-9b67-b3c4bdad1ce0",
+  "kind": "definitional",
+  "epistemic_status": "designed",
+  "title": "Answer: measuring causation means intervening on every state",
+  "statements": [
+    {
+      "id": "469e9811-d20f-4cfe-bda8-925017bd3f36",
+      "text": "Causation is measured by intervening on a system, setting it into all its possible states with equal probability, and recording the effects. The scale found this way is the system’s own, though an observer may still study other scales.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-23"
+    }
+  ],
+  "current_statement": "469e9811-d20f-4cfe-bda8-925017bd3f36",
+  "status": "active",
+  "voice": "framework",
+  "defines": "causal measurement",
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "8360d34d-30cb-44f8-89c9-41768fb53f0d",
+        "locator": "Discussion, Emergence as an Intrinsic Property of a System",
+        "quote": "This in no way precludes an observer from profitably investigating the system’s properties at other macro levels"
+      }
+    ]
+  }
+}

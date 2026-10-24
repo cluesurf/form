@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "6cf34268-1d42-402c-a136-48b6ba1d2689",
+  "title": "E-RLT-0062: symmetry by schedule does not give the $k^4$ law, partial: cycling the first-mirror knit through its 576...",
+  "purpose": "Experiment E-RLT-0062 in the relativity arena: symmetry by schedule does not give the $k^4$ law, partial: cycling the first-mirror knit through its 576 W(F4) conjugates, the exact period group is {I, -I} (coset combinatorics, exhaustive), which forces nothing; run forward then back (period 1,152) it keeps exact CPT at mirror 1,151, run once through it has none, while every beat keeps CPT alone; the husk charge, trace and shear anisotropies stay finite as k falls (exponent 0.00 for both orders, charge 0.0050, trace 0.0010, shear 0.022) where the base knit holds 0.68, 0.31, 0.82 and the W(F4)-averaged matrix falls as $k^4$: averaging over the schedule shrinks the leading anisotropy 137-fold in charge and leaves it; partial because the Rayleigh-Ritz cross-check gate failed on its period-one case (0.71), a case the method cannot resolve and the readings did not use; on 24- and 96-beat pieces it agrees to 4e-13.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L2 (L2: known physics reproduced on a stated model).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/relativity/conjugate-schedule-knit.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-RLT-0062",
+        "quote": null
+      }
+    ]
+  }
+}

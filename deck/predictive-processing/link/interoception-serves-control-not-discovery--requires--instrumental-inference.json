@@ -1,0 +1,28 @@
+{
+  "record": "link",
+  "id": "b74fa53c-cce5-43e7-b323-ceb6fb93d376",
+  "from": "9f4551d6-03c3-4827-ab08-ccd9515fbe1b",
+  "to": "97f96ed7-c7e0-4a7e-a7f9-e34ce06c3e8a",
+  "relation": "requires",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "e391f78a-61b9-464c-883b-2181082dabd3",
+        "locator": "accepted manuscript p. 18",
+        "quote": "the functional role of interoceptive inference is likely to be more concerned with physiological regulation than with discovering what's there"
+      }
+    ]
+  }
+}

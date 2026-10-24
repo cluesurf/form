@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "03eb82fb-93db-464d-8fcc-e3737842a633",
+  "title": "E-QTM-0067: the conserved norm concentrates branch weight on the Born frequency (deviant norm falling ten orders...",
+  "purpose": "Experiment E-QTM-0067 in the quantum arena: the conserved norm concentrates branch weight on the Born frequency (deviant norm falling ten orders across the copy sweep) while branch counting concentrates at one half for every state and breaks under unitary refinement.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L1 (L1: known mathematics, correctly confirmed).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/quantum/born-norm-concentration.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-QTM-0067",
+        "quote": null
+      }
+    ]
+  }
+}

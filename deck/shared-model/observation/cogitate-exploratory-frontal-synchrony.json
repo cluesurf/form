@@ -1,0 +1,44 @@
+{
+  "record": "observation",
+  "id": "2d00b34b-961e-4078-8f9f-8320454cda6f",
+  "kind": "experimental_result",
+  "epistemic_status": "observed",
+  "description": "Cogitate (2025): an exploratory dynamic functional connectivity analysis found content-selective synchrony between frontal and early visual areas, and in iEEG significant content-selective synchrony for both categories in the prefrontal region.",
+  "method": "experiment",
+  "status": "reported",
+  "source": "5acfdefa-f208-419c-af36-1ae64e17cdcf",
+  "procedure": "dc8b8d17-965f-4093-babd-3c8c28458622",
+  "variable": null,
+  "value": null,
+  "unit": null,
+  "uncertainty": null,
+  "sample_size": 256,
+  "replication_count": null,
+  "quality": null,
+  "limitations": "One adversarial study of visual consciousness with suprathreshold faces, objects, letters and false fonts. Tests only the predictions both teams preregistered. Exploratory, not preregistered.",
+  "conflicts_of_interest": null,
+  "observed_at": "2025-04-30",
+  "origin": [
+    {
+      "repository": "global-workspace",
+      "id": "ac604b90-536a-4e82-a424-4b1844826c69"
+    }
+  ],
+  "provenance": {
+    "written_by": "github:lancejpollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "5acfdefa-f208-419c-af36-1ae64e17cdcf",
+        "locator": "abstract",
+        "quote": "content-specific synchronization between frontal and early visual areas"
+      }
+    ]
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "d20759dd-aefd-4d51-bf44-f61abf9cfa9d",
+  "title": "E-FRC-0211: emission on trits: in the trit-column light a stand-in dimer decays at the husk dipole rate at every...",
+  "purpose": "Experiment E-FRC-0211 in the gauge arena: emission on trits: in the trit-column light a stand-in dimer decays at the husk dipole rate at every depth, the stand-in hydrogen at the coupling the depth sets (alpha about 1/77 at D = 16) sits deep in the dipole regime, its full-current rate (1 + alpha^2 / 16)^-4 of the dipole rate, a moving trit charge radiates the linear light's coherent field, and stimulated emission goes as n + 1.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L2 (L2: known physics reproduced on a stated model).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/gauge/trit-emission.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-FRC-0211",
+        "quote": null
+      }
+    ]
+  }
+}

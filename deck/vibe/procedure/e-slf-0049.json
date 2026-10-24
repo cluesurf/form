@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "0691cce8-24de-498e-8f92-c74fe26199ab",
+  "title": "E-SLF-0049: a self divides on the flat layer where the hyperbolic bulk cannot",
+  "purpose": "Experiment E-SLF-0049 in the selves arena: a self divides on the flat layer where the hyperbolic bulk cannot.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L2 (L2: known physics reproduced on a stated model).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/selves/fission-flat-layer.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-SLF-0049",
+        "quote": null
+      }
+    ]
+  }
+}

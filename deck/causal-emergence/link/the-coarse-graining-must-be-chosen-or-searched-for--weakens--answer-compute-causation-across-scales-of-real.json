@@ -1,0 +1,28 @@
+{
+  "record": "link",
+  "id": "9dacfae2-390e-41c8-a012-2107d62328cb",
+  "from": "324b16e9-976d-4efd-b30c-e20f65999bf7",
+  "to": "37a38bce-e27f-41de-8400-94fe642f49f0",
+  "relation": "weakens",
+  "strength": null,
+  "rationale": "The search over coarse-grains is computationally hard for large systems, which limits the checks.",
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "ff8b024e-e312-4bb5-a6fc-2e3fde746c2f",
+        "locator": "section 1",
+        "quote": "However, in Hoel’s theory of causal emergence, it is essential to establish a coarse-graining strategy beforehand."
+      }
+    ]
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "record": "observation",
+  "id": "c43b9d2e-f55b-4e99-96c7-53dc2dd0e5da",
+  "kind": "experimental_result",
+  "epistemic_status": "observed",
+  "description": "Designs found by an evolutionary algorithm in simulation were built from frog cells into living reconfigurable organisms (xenobots) that showed the predicted behaviors.",
+  "method": "experiment",
+  "status": "reported",
+  "source": "17f35253-060e-4e9b-8b47-01ee8cf43fdd",
+  "procedure": null,
+  "variable": null,
+  "value": null,
+  "unit": null,
+  "uncertainty": null,
+  "sample_size": null,
+  "replication_count": null,
+  "quality": null,
+  "limitations": "Some steps of the pipeline still required manual intervention.",
+  "conflicts_of_interest": null,
+  "observed_at": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "17f35253-060e-4e9b-8b47-01ee8cf43fdd",
+        "locator": "abstract",
+        "quote": "Although some steps in this pipeline still require manual intervention"
+      }
+    ]
+  }
+}

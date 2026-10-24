@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "f39283a8-e530-433b-9f24-3b0e7588ff78",
+  "title": "E-SPN-0161: no gauge string binds a light member of the swap-coin rule, fail as derived (F4): the free coin beat...",
+  "purpose": "Experiment E-SPN-0161 in the spin arena: no gauge string binds a light member of the swap-coin rule, fail as derived (F4): the free coin beat $U0 = S_g$ X is an involution in every static field of every group, so exactly 11 flat states per color per dock survive at each sign, 11 c N + dim ker(I -+ T) with T the averaged hop (9 Weyl fields of 2I, 2T, Q8 on the husk box, sides 4, 6, 8: 11 c N exactly, flat vectors to 2.4e-16), and a flat member is a static color source; any gauge string reads the members only through Gauss, blind to the band, so the (S, F) channel is the S member held to a static source, which an area law turns into a dense ladder the composite meets at V* = 2m/sigma (11.19 at E-SPN-0146, where its tail flattened); the moving pair obeys sin w = sin(theta/2) lambda (to 3.1e-14), so a disordered field makes the member heavy, lambda_top 0.368 to 0.406 (the Kesten floor 0.39965) and mass 1.16 to 1.20 against 0.190, and a dilute 2I field on the nearest elements triples it at share 1; E-SPN-0143, 0150 and 0154 reproduced; next: remove the flats on the member (a Clifford register, or a coin that is not an involution).",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L2 (L2: known physics reproduced on a stated model).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/spin/icosian-string-flat-source.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-SPN-0161",
+        "quote": null
+      }
+    ]
+  }
+}

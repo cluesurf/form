@@ -1,0 +1,28 @@
+{
+  "record": "link",
+  "id": "d7e76428-765e-4bc9-8c90-588c3ae3eb18",
+  "from": "6d1318a4-66c5-4026-9c52-2f9d3e958b46",
+  "to": "94d1e6cc-101d-4e1b-9fc7-56d44571b271",
+  "relation": "answers",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "8443eb2e-406e-4acc-94e8-33cbabbd3679",
+        "locator": "section \"The explanatory identity\" (full text)",
+        "quote": "IIT proposes a fundamental explanatory identity: an experience is identical to the cause–effect structure unfolded from a maximal substrate"
+      }
+    ]
+  }
+}

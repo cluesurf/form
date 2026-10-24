@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "ec8f1a97-ace9-4a94-9288-c60752e74cef",
+  "title": "E-FRC-0179: light derived exactly: the leapfrog U(1) sector linearized about the cold vacuum has the symbol [[I, I]...",
+  "purpose": "Experiment E-FRC-0179 in the gauge arena: light derived exactly: the leapfrog U(1) sector linearized about the cold vacuum has the symbol [[I, I], [-kappa M, I - kappa M]], read off the rule's own beats, so 4 sin^2(omega / 2) = kappa lambda(k) exactly; gauge invariance puts every linear form in the kernel of M(0) and makes the photon massless; the husk is the depth-even part of the bulk at k4 = 0, a closed system with 2 photons, and its love-fear reference is the husk lattice's own Green's function, whose r = 1 core departs from 1 / (24 pi r) as lattice structure.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L2 (L2: known physics reproduced on a stated model).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/gauge/photon-symbol.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-FRC-0179",
+        "quote": null
+      }
+    ]
+  }
+}

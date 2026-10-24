@@ -1,0 +1,50 @@
+{
+  "record": "proposition",
+  "id": "1da6f985-5c56-4266-b065-ddba8aa4449b",
+  "kind": "empirical",
+  "epistemic_status": "simulated",
+  "title": "E-FRC-0158: one knit carrying the head-on turn base, the four-line scatter block, the folded round robin with lone...",
+  "statements": [
+    {
+      "id": "239c7074-2eff-42f1-93b1-4b9c8fe9cf3e",
+      "text": "One knit carrying the head-on turn base, the four-line scatter block, the folded round robin with lone steering, and the fear beat in color mode: each piece switched on alone reproduces the rule of the experiment that owns it bit for bit, the classical layer is the same whether or not tokens are open, and with everything on the rule reverses exactly with the whole.",
+      "language": "en",
+      "scope": "experiment E-FRC-0158, arena gauge, depth L2 (L2: known physics reproduced on a stated model)",
+      "conditions": "substrates: 3434. In a paper: false",
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-22"
+    }
+  ],
+  "current_statement": "239c7074-2eff-42f1-93b1-4b9c8fe9cf3e",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": {
+    "value": "open",
+    "reason": "holds in the vibe claim graph",
+    "basis": [],
+    "proposal": null
+  },
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "research/result.ts R-FRC-0006",
+        "quote": null
+      }
+    ]
+  }
+}

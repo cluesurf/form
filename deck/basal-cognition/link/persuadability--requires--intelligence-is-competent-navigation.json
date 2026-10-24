@@ -1,0 +1,28 @@
+{
+  "record": "link",
+  "id": "ca59dab2-08d8-46b8-9d28-609d98f4fdb8",
+  "from": "d7ead889-69d2-4ac3-ba19-b5e082cdb6a6",
+  "to": "3ddf4084-fdd1-4b1b-8c51-a272ec5478e3",
+  "relation": "requires",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "fd7382f9-52a5-4beb-9680-fc341ff15b98",
+        "locator": "Introduction, axis of persuadability",
+        "quote": "Persuadability refers to the type of conceptual and practical tools that are optimal to rationally modify a given system's behavior."
+      }
+    ]
+  }
+}

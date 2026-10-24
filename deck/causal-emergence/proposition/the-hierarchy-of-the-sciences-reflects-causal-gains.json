@@ -1,0 +1,45 @@
+{
+  "record": "proposition",
+  "id": "993cdb15-0d4a-4ef9-b783-fc98fb4bc556",
+  "kind": "philosophical",
+  "epistemic_status": "hypothesized",
+  "title": "The hierarchy of the sciences reflects causal gains",
+  "statements": [
+    {
+      "id": "da89cc71-ca5d-467d-b895-b8364f68c1e6",
+      "text": "The hierarchy of the sciences, from microphysics to macroeconomics, may reflect real causal gains at each level of organization and not only convenience.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-23"
+    }
+  ],
+  "current_statement": "da89cc71-ca5d-467d-b895-b8364f68c1e6",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "8360d34d-30cb-44f8-89c9-41768fb53f0d",
+        "locator": "Conclusions",
+        "quote": "the hierarchy of the sciences, from microphysics to macroeconomics, may not just be a matter of convenience but a genuine reflection of causal gains at the relevant levels of organization"
+      }
+    ]
+  }
+}

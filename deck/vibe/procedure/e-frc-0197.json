@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "03d469f1-529e-4017-b812-89fd8259702d",
+  "title": "E-FRC-0197: the lightest color-singlet levels of the paid-string rule on the D4 box against their exact count (every...",
+  "purpose": "Experiment E-FRC-0197 in the gauge arena: the lightest color-singlet levels of the paid-string rule on the D4 box against their exact count (every measured ratio 3 to 10 percent below it, the excluded-volume sign), and a three-love baryon (a stand-in proton) held as one singlet in 94 to 99 percent of readings where E-FRC-0171 found no triple held without a paid string, its tensionless control empty.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L2 (L2: known physics reproduced on a stated model).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/gauge/nucleon-spectrum.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-FRC-0197",
+        "quote": null
+      }
+    ]
+  }
+}

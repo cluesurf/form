@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "43485121-8c63-4533-af74-245243a3912d",
+  "title": "E-SPN-0103: the drift cost and the fermion sign written as rule pieces are exactly the stand-in's binding, but the...",
+  "purpose": "Experiment E-SPN-0103 in the spin arena: the drift cost and the fermion sign written as rule pieces are exactly the stand-in's binding, but the working rule still does not hold E-SPN-0093's cluster on the mesh's own links, fail on B1 and B3 for every variant: the cost as one trit on the cut link plus a clock count in $Z_{14}$ (the ring grows to Z[zeta_42][1/2]) and the sign as the line block's reordering parity (a store is an even block) run exactly (both exact windows: norm and reversal exact, 0 leak, 0 branches disturbed, the ring form equal to the rule to 3e-16), the sign's holonomy is consistent (an exchange loop -1, a winding loop +1 on sides 8 and 12), and on flat links the two pieces reproduce the bound state (fidelity at least 0.9991, share 0.98223, energy 0.33002); on the mesh's links the cost alone spreads to R90 7 (fidelity 0.03), the sign alone 7 (0.28), both 7 by beat 128 with the level's energy 0.33002 kept but fidelity 0.24 to 0.64 and share 0.81 to 0.90: what still unbinds it is the links splitting the points at unequal-point meetings; the cost also confines a lone love (weight past a quarter of its reach 1.7e-4 against 0.63); both unbound controls are refused.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L2 (L2: known physics reproduced on a stated model).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/spin/held-cluster-pieces.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-SPN-0103",
+        "quote": null
+      }
+    ]
+  }
+}

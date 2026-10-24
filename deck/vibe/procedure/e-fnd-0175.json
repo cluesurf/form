@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "cb0c8656-0c40-4765-a6c9-fbba153ccbba",
+  "title": "E-FND-0175: the Fermi half of the register sea's statistics on a thin level, open (unreachable by the exact engine)...",
+  "purpose": "Experiment E-FND-0175 in the foundations arena: the Fermi half of the register sea's statistics on a thin level, open (unreachable by the exact engine): over 26 tori with sides from 6 (sides may differ) and a 3-hole store under 8 GB, no extreme band level is one momentum class; the bottom level is never under 8 classes and the top never under 4, so three holes fill the thinnest extreme to at most 0.19, under the 0.5 a Fermi-Dirac read needs; the stand-in frame equals the real one to the bit and reproduces E-FND-0165's L = 6 level table.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L1 (L1: known mathematics, correctly confirmed).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/foundations/register-fermi.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-FND-0175",
+        "quote": null
+      }
+    ]
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "record": "proposition",
+  "id": "09683d22-f443-4e26-87cb-ee3188e6547f",
+  "kind": "empirical",
+  "epistemic_status": "hypothesized",
+  "title": "Binocular rivalry is competition between perceptual hypotheses",
+  "statements": [
+    {
+      "id": "f00999a7-a66a-4877-bf23-37e6616bed0f",
+      "text": "In binocular rivalry two perceptual hypotheses compete. Unexplained signals from the losing hypothesis build up as prediction error until perception switches, and the cycle repeats.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-23"
+    }
+  ],
+  "current_statement": "f00999a7-a66a-4877-bf23-37e6616bed0f",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b26cbe1f-9462-4264-82be-b5d3dc8992ac",
+        "locator": "accepted manuscript p. 10",
+        "quote": "PP envisages two competing perceptual hypotheses (best-guesses), one of which 'wins', leading to perceptual dominance"
+      }
+    ]
+  }
+}

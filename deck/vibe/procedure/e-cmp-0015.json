@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "a277a3f6-6fc7-44e3-ba52-fe118f7cd0a2",
+  "title": "E-CMP-0015: the difference engine runs the knit only where it differs from its vacuum: bit-identical to the dense...",
+  "purpose": "Experiment E-CMP-0015 in the computation arena: the difference engine runs the knit only where it differs from its vacuum: bit-identical to the dense lattice gas on wrapping boxes and on the unbounded lattice, at a cost per differing dock that stays flat while the support grows a thousandfold, and on an unbounded lattice it shows a lone vibe either travelling as an exactly recurring particle or dressing the vacuum without bound, where a side-9 box caps the dressing at its volume.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L2 (L2: known physics reproduced on a stated model).",
+  "status": "completed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/computation/difference-engine.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "research/result.ts R-FRC-0006",
+        "quote": null
+      }
+    ]
+  }
+}

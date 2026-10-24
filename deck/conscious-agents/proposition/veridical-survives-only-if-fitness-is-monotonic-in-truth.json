@@ -1,0 +1,45 @@
+{
+  "record": "proposition",
+  "id": "5c0dd0b0-c3b9-4113-b8f6-0e50dca88cb3",
+  "kind": "empirical",
+  "epistemic_status": "simulated",
+  "title": "Veridical perception survives only if fitness is monotonic in truth",
+  "statements": [
+    {
+      "id": "1b56b478-b232-45e0-9a52-9bcfe81a42f8",
+      "text": "Veridical perceptual strategies escape extinction only when fitness varies monotonically with the true state of the world.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-23"
+    }
+  ],
+  "current_statement": "1b56b478-b232-45e0-9a52-9bcfe81a42f8",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "326bc60f-bdd5-4190-a828-88d73ad2daba",
+        "locator": "abstract, p. 2",
+        "quote": "Veridical perceptions escape extinction only if fitness varies monotonically with truth."
+      }
+    ]
+  }
+}

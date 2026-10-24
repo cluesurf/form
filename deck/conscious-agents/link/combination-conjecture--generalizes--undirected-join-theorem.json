@@ -1,0 +1,28 @@
+{
+  "record": "link",
+  "id": "35c88b03-7355-43e7-bd29-becbcb9bfc83",
+  "from": "32feef21-5d38-4142-b2cf-17e91d9d47c5",
+  "to": "3d701485-fb7c-476d-89f0-7bafdc660393",
+  "relation": "generalizes",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "9f6802be-e2fa-4f89-b303-461db4c74e7e",
+        "locator": "The combination problem, Conjecture 3",
+        "quote": "can be combined to create a new conscious agent."
+      }
+    ]
+  }
+}

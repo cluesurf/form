@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "6980cec2-a301-45f2-a962-86690ddd8d64",
+  "title": "E-GRV-0103: with the bulk's clock warped every layer and the zero mode run at c in the derivation, and the pull's...",
+  "purpose": "Experiment E-GRV-0103 in the gravity arena: with the bulk's clock warped every layer and the zero mode run at c in the derivation, and the pull's front on the husk reads 1.14 c (first 10 percent) and 1.23 c (first 25 percent), fail on D2, but the husk alone with no bulk reads 1.17 c and 1.40 c by the same method on nearly the same beats, so the excess is the front method's near-field bias and not a path through the bulk (E-GRV-0101's 1.26 and 1.40 c sit on it too); nothing changes on the next beat and the first change stays inside the link cone; 15 hops over 4,096 beats keep Gauss, curl 0, 0 wraps, every remainder in its window and reverse bit for bit, the largest husk step 0.85 .. 0.89; lumps fall alike to 2.2e-11 at -5.04e-4 per unit content, the one-clock stack's value; energy drifts 8.0e-6 of the static at three digits.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L2 (L2: known physics reproduced on a stated model).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/gravity/warp-husk-moving.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-GRV-0103",
+        "quote": null
+      }
+    ]
+  }
+}

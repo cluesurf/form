@@ -1,0 +1,55 @@
+{
+  "record": "proposition",
+  "id": "aa9618a0-1211-41ce-be57-1579d821e780",
+  "kind": "philosophical",
+  "epistemic_status": "hypothesized",
+  "title": "Answer: slow photons, running wheels and eureka moments",
+  "statements": [
+    {
+      "id": "bb9304f7-cc14-46a1-8f87-1c50df3aee6e",
+      "text": "Three tests are proposed. Light reflected from a receding surface is timed against a direct pulse, looking for slow photons. Crowded mouse colonies with and without running wheels are compared on reproduction and behavior. And mistaken eureka moments are compared with sound ones for happiness and conviction.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "bb9304f7-cc14-46a1-8f87-1c50df3aee6e",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "ce59e052-9c70-46a0-8b8d-89266cb60dd8",
+        "locator": "How could we test it?",
+        "quote": "Compare the arrival times of reflected light and a direct reference pulse, accounting for their different path lengths."
+      },
+      {
+        "source": "c01a576c-01a5-46ae-8a4e-5fed54687b5c",
+        "locator": "Direct: Depression",
+        "quote": "Birth rates, survival, and behavior could be compared between the groups."
+      },
+      {
+        "source": "70a5f849-a0f5-42f2-a963-34f855b07d21",
+        "locator": "opening",
+        "quote": "Finding a genuinely new prediction is difficult, especially now, with so many scientists testing so many ideas."
+      }
+    ]
+  }
+}

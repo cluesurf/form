@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "b1fe6a88-5cf8-4e01-a46c-cf4368c0af44",
+  "title": "E-FRC-0272: the chiral mass keeps an exact husk parity on the true mesh, fail as derived: the one labelling...",
+  "purpose": "Experiment E-FRC-0272 in the gauge arena: the chiral mass keeps an exact husk parity on the true mesh, fail as derived: the one labelling {3,4,3,4} admits reverses orientation at every step (24 of 24 transports det -1, 0 neighbour pairs of equal orientation on regions of 481 to 16,800 docks), so a rule written in labels holds each register half left-handed on even docks and right-handed on odd ones; the cusp's face mirror r4 acts on the labels as -I, the register identity, so the chiral mass keeps it and the husk's point inversion about a face center (3.6e-16 over 6 beats) while it breaks the cube-center mirrors, the cube-center inversion and the half-turns such as r1 r4 (by 5.7e-2, and 0.22 against a massless half); E-FRC-0258's argument that the cusp picks the depth-keeping reflection is refuted; a rule that reads each dock's orientation keeps every husk rotation and breaks all 128 husk-mirror readings; controls: the achiral rule keeps all 64 elements (3.8e-16), and the flat box reproduces E-SPN-0167 in real space (-I kept, P_imp and R4 broken by 7.5e-2).",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L2 (L2: known physics reproduced on a stated model).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/gauge/cusp-parity.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-FRC-0272",
+        "quote": null
+      }
+    ]
+  }
+}

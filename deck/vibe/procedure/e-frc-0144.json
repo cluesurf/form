@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "9d965e3c-5d48-43e0-b818-dd1db202351a",
+  "title": "E-FRC-0144: the whole three-trit link: each link holds the grid move (priced with the hopping term) and the center...",
+  "purpose": "Experiment E-FRC-0144 in the gauge arena: the whole three-trit link: each link holds the grid move (priced with the hopping term) and the center flux (Gauss's law, a tension on E mod 3) together, every link, flux loop, role and hop move paid to a demon, reversing exactly, conserving the energy to the unit and love and fear, keeping Gauss's law at every cell and commuting with a change of role frame in every cell, where a hop that leaves its flux behind breaks Gauss's law, unpaid flux leaks energy and matter carried without the link breaks the frame change.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L2 (L2: known physics reproduced on a stated model).",
+  "status": "completed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/gauge/center-flux-links.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "research/result.ts R-FRC-0006",
+        "quote": null
+      }
+    ]
+  }
+}

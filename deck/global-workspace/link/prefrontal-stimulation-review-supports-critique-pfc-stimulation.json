@@ -1,0 +1,28 @@
+{
+  "record": "link",
+  "id": "e70e9a52-3742-4a88-8e78-bc735b3e20af",
+  "from": "3d4bfbf2-85f4-46c9-9dec-12ff5433771d",
+  "to": "2f22ccd3-0506-4c6f-8ed4-eecf7d24ddfe",
+  "relation": "supports",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "29f40e6a-5d69-4dfe-8a4c-acdc32dd15d6",
+        "locator": "abstract",
+        "quote": "seldom elicits any reportable alterations in consciousness"
+      }
+    ]
+  }
+}

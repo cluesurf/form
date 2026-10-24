@@ -1,0 +1,28 @@
+{
+  "record": "link",
+  "id": "8e2b6ce0-d720-414a-8771-7b18f260446d",
+  "from": "c576ec69-647e-40e1-8bfb-6eb2f675b20f",
+  "to": "1742bbfe-92c2-4298-aa13-2df7e20acb32",
+  "relation": "answers",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "951a63ba-fbb2-4b78-af38-52646f22dbe0",
+        "locator": "section 1",
+        "quote": "the FEP is not falsifiable as a mathematical statement, but it may as well be falsifiable to the extent that its postulates refer to a specific class of empirical phenomena that the principle aims to describe."
+      }
+    ]
+  }
+}

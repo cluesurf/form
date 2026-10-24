@@ -1,0 +1,50 @@
+{
+  "record": "proposition",
+  "id": "12a02a23-7a7f-4a98-b340-cbe7d4d1b99e",
+  "kind": "empirical",
+  "epistemic_status": "hypothesized",
+  "title": "People have an instinct to change the world their way",
+  "statements": [
+    {
+      "id": "14ba4237-f7ff-4621-896a-3ebb6a2e081e",
+      "text": "People, like other animals, have an instinct they do not see as one: a biological drive to make the world more like they want it to be. What each person wants changed differs, but the need to change it is shared.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "14ba4237-f7ff-4621-896a-3ebb6a2e081e",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "983ce19a-a7da-4801-9728-4eca49c1b243",
+        "locator": "opening",
+        "quote": "The common need is to make the world more like we want it to be."
+      },
+      {
+        "source": "983ce19a-a7da-4801-9728-4eca49c1b243",
+        "locator": "Why is it an instinct?",
+        "quote": "we are guided by a biological instinct"
+      }
+    ]
+  }
+}

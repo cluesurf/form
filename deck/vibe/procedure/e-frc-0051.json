@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "4a913f1c-69fd-4004-8ee6-be0f507545f4",
+  "title": "E-FRC-0051: every one of the 16 spinor weights leaves 20 unbroken roots, so any self-condensate breaks so(10) to su(5)",
+  "purpose": "Experiment E-FRC-0051 in the gauge arena: every one of the 16 spinor weights leaves 20 unbroken roots, so any self-condensate breaks so(10) to su(5).",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L1 (L1: known mathematics, correctly confirmed).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/gauge/vacuum-selection.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-FRC-0051",
+        "quote": null
+      }
+    ]
+  }
+}

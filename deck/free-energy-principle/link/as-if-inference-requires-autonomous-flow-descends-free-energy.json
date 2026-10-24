@@ -1,0 +1,28 @@
+{
+  "record": "link",
+  "id": "8a93054d-a883-43ed-bfbe-006a1453ec7e",
+  "from": "295fa581-ab54-4410-8062-e6b04806f468",
+  "to": "e47aadcb-f881-4a3b-bb08-92040f1ccec3",
+  "relation": "requires",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "a528c72c-55f5-422d-b6c3-61a840e5810d",
+        "locator": "abstract",
+        "quote": "Therefore, the internal states (and their blanket) will appear to engage in active Bayesian inference."
+      }
+    ]
+  }
+}

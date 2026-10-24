@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "335042f1-a3ef-4a9e-9559-bfd4aa527984",
+  "title": "E-FRC-0315: light from a moving source, resolved, open: on a box twice as long, 2400 beats, eighth-dock steps and a...",
+  "purpose": "Experiment E-FRC-0315 in the gauge arena: light from a moving source, resolved, open: on a box twice as long, 2400 beats, eighth-dock steps and a 32-dock baseline, the E-FRC-0314 sheet emitter at 0.124 to 0.622 c sends its front behind within 0.0024 c of the rest front (0.9943 c) and ahead within 0.0072 c, where light leaving at c - v would give 0.751 to 0 c, so the front gate E-FRC-0314 missed now holds; the period behind reads 107.84, 119.87, 136.36 beats within 0.41 percent of the mesh Doppler, but 190.71 against 155.70 at the fastest source, where the registered half-peak hysteresis skips two early rises (diagnosed after the run: the rises it keeps are 155.75 apart).",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L2 (L2: known physics reproduced on a stated model).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/gauge/moving-source-light-speed-resolved.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-FRC-0315",
+        "quote": null
+      }
+    ]
+  }
+}

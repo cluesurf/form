@@ -1,0 +1,28 @@
+{
+  "record": "link",
+  "id": "4c7d5676-bcb9-4a25-8c0c-d462f23858c8",
+  "from": "b7b40107-cee5-4ca5-8f0a-37b6d98f0bd1",
+  "to": "bfea6bd6-b8c9-44e5-938d-61bbd85e353d",
+  "relation": "supports",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "8ed62dfe-4468-4f53-9b70-f009ba2dbe4f",
+        "locator": "p. 568",
+        "quote": "false cardiac feedback led to increased fMRI responses in the right AIC"
+      }
+    ]
+  }
+}

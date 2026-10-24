@@ -1,0 +1,49 @@
+{
+  "record": "observation",
+  "id": "1ff53adb-66af-4ab8-9a3e-1189fa3ed183",
+  "kind": "documentary_record",
+  "epistemic_status": "observed",
+  "description": "To apply IIT, scientists decompose a substrate into units, assign their states, select a system boundary and temporal grain, and evaluate causal effects under interventions. In the reference implementation, PyPhi, these are supplied as inputs rather than derived from the physical substrate.",
+  "method": "document_review",
+  "status": "reported",
+  "source": "ac2774e1-a04c-4c89-9db2-7848c6f5ce0b",
+  "procedure": null,
+  "variable": null,
+  "value": null,
+  "unit": null,
+  "uncertainty": null,
+  "sample_size": null,
+  "replication_count": null,
+  "quality": null,
+  "limitations": "As reported in the preprint. IIT proposes intrinsic criteria for selecting units and grains (Marshall et al., 2026), and the paper asks whether those are uniquely grounded in the present state.",
+  "conflicts_of_interest": null,
+  "observed_at": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "ac2774e1-a04c-4c89-9db2-7848c6f5ce0b",
+        "locator": "section 5.2",
+        "quote": "In the reference implementation, these are supplied as inputs rather than derived from the physical substrate"
+      },
+      {
+        "source": "f7826102-0963-43d8-ae82-67e6a99e341f",
+        "locator": null,
+        "quote": null
+      },
+      {
+        "source": "f4d2173d-4048-4a49-9ecd-7c9d73b228ce",
+        "locator": null,
+        "quote": null
+      }
+    ]
+  }
+}

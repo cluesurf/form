@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "6c35b7c9-9482-4b66-bb22-50150f23a753",
+  "title": "E-GRV-0104: a front witness calibrated on the husk alone, the time the change behind a hopping rod reaches a third...",
+  "purpose": "Experiment E-GRV-0104 in the gravity arena: a front witness calibrated on the husk alone, the time the change behind a hopping rod reaches a third of the front's height (the Airy point, where a dispersive front's smear drops out), reads the husk alone at 1.0023 c where fractions of a maximum read 1.17 to 1.40 c, and reads the warped stack at 0.980 c, never above c but 2.02 percent under against a 2 percent gate, fail on F2 by a hair: the stack's level behind the front is only 0.55 to 0.65 of the husk's height, so a third of the husk's height comes later; the one-clock control reads 1.126 c, so the witness sees a superluminal bulk where there is one; every run exact and reversed bit for bit.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L2 (L2: known physics reproduced on a stated model).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/gravity/rod-front.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-GRV-0104",
+        "quote": null
+      }
+    ]
+  }
+}

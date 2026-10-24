@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "721635de-2fd2-46eb-a275-5a21a5ce138f",
+  "title": "E-FND-0018: the emergent-mesh Hamiltonian (graph Laplacian) is local and bounded below at once",
+  "purpose": "Experiment E-FND-0018 in the foundations arena: the emergent-mesh Hamiltonian (graph Laplacian) is local and bounded below at once.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L2 (L2: known physics reproduced on a stated model).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/foundations/emergent.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-FND-0018",
+        "quote": null
+      }
+    ]
+  }
+}

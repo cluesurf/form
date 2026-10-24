@@ -1,0 +1,28 @@
+{
+  "record": "link",
+  "id": "1ae4199d-9c90-4f1a-ba3c-6b12b21a9c09",
+  "from": "e48c906f-0e86-4e53-8894-ef4fa7281542",
+  "to": "9deb305f-4536-4346-b8a7-5feacbe6f034",
+  "relation": "requires",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "9c8de529-0562-4ede-9748-a99db6ec0056",
+        "locator": "section 11, p. 149",
+        "quote": "In our case, the dissociative boundary of an alter is the Markov blanket, whose revealed appearance is our skin and other sense organs."
+      }
+    ]
+  }
+}

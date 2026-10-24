@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "98ed0752-a237-45ab-9875-c6ae7753dae4",
+  "title": "E-FRC-0229: can a quantum link stay a relation between vibes: its conjugate angle is no function of the vibes'...",
+  "purpose": "Experiment E-FRC-0229 in the gauge arena: can a quantum link stay a relation between vibes: its conjugate angle is no function of the vibes' history (no state starts with flow and angle both sharp, the plaquette step makes the flow depend on the initial angle, the plaquette term is a coherent sum of windings no history performs, and a light the matter only reads is unital), but the link IS a relation of its two end slots when each slot holds a port register mod N, with u + w = 0 kept exactly and Gauss local to each dock.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L2 (L2: known physics reproduced on a stated model).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/gauge/quantum-link-relation.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-FRC-0229",
+        "quote": null
+      }
+    ]
+  }
+}

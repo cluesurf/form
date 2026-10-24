@@ -1,0 +1,28 @@
+{
+  "record": "link",
+  "id": "fa2846bc-fd2f-4cc3-92b7-05c53b0fe6bb",
+  "from": "54bb8e6a-aef1-4018-98af-7f25828cb702",
+  "to": "aeb693ff-5e69-426a-a805-053ab62099da",
+  "relation": "requires",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "c436283a-54a1-4d6f-82d7-f9ab987f993a",
+        "locator": "abstract",
+        "quote": "Theoretical considerations suggest that consciousness depends on the brain's ability to support complex activity patterns that are, at once, distributed among interacting cortical areas (integrated) and differentiated in space and time (information-rich)."
+      }
+    ]
+  }
+}

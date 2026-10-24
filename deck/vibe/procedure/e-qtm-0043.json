@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "4b69ac22-43d9-4082-952f-619ce34710db",
+  "title": "E-QTM-0043: the single measurement outcome is determinism (a one-sided drain settles a definite reproducible...",
+  "purpose": "Experiment E-QTM-0043 in the quantum arena: the single measurement outcome is determinism (a one-sided drain settles a definite reproducible record), but SELECTION among symmetric alternatives is not provided by the reversible rule (symmetric drains hold the pointer at exactly zero, on the homogeneous ensemble and on a structured dynamically mirror-symmetric state, and a microscopic seed is not amplified), the same no-spontaneous-breaking obstruction as the three generations.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L1 (L1: known mathematics, correctly confirmed).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/quantum/single-outcome-no-spontaneous-selection.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-QTM-0043",
+        "quote": null
+      }
+    ]
+  }
+}

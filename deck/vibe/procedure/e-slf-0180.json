@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "9b91039d-6752-4c3f-afb1-1cd641941ce7",
+  "title": "E-SLF-0180: a meeting of two holes on R* shares one hole's L(s) spin at one rate for every axis, pass: on the L = 6...",
+  "purpose": "Experiment E-SLF-0180 in the selves arena: a meeting of two holes on R* shares one hole's L(s) spin at one rate for every axis, pass: on the L = 6 torus with A at class 0 and B at (0, 0, 0, 1), whose 24 fixing rotations are a unitary 2-design on the member doublet (F2 = 2), B's class picks up A's polarization 0.707 by cycle 16 (free rule 1.3e-14) while A keeps 0.185, the same to 3e-15 along x, y, z and the diagonal; the Sigma(648) numbers 1/4 and 2/3 belong to the C*-deferred qutrit and are not expected; 4d bulk torus, no ledger row held.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L2 (L2: known physics reproduced on a stated model).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/selves/register-meeting.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-SLF-0180",
+        "quote": null
+      }
+    ]
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "6d8d70be-ce1e-4513-a0e0-76702cd8f294",
+  "title": "E-FRC-0234: the balanced split lives in the column, not in the mode: the virial theorem makes every mode fill its...",
+  "purpose": "Experiment E-FRC-0234 in the gauge arena: the balanced split lives in the column, not in the mode: the virial theorem makes every mode fill its link columns and its square columns in the ratio f / s alone, so one integer split, f / s = links per square, balances every mode at once, and with it a hot box of the plaquette ladder's quantum light reaches Planck where E-FRC-0232's drift-carried split fell short.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L2 (L2: known physics reproduced on a stated model).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/gauge/column-balanced-split.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-FRC-0234",
+        "quote": null
+      }
+    ]
+  }
+}

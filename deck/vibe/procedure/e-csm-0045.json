@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "8e641b73-aa7c-4169-9fed-d28347d4b4cb",
+  "title": "E-CSM-0045: the everpresent-Lambda mechanism predicts dark energy tracks $H^2$ so Omega_Lambda is of order one at...",
+  "purpose": "Experiment E-CSM-0045 in the cosmology arena: the everpresent-Lambda mechanism predicts dark energy tracks $H^2$ so Omega_Lambda is of order one at all epochs, resolving the cosmic coincidence and keeping dark energy present at high redshift where LambdaCDM predicts it negligible (0.03 at z=3), a deterministic falsifiable difference DESI-class w(z) surveys probe.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L2 (L2: known physics reproduced on a stated model).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/cosmology/everpresent-coincidence-prediction.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-CSM-0045",
+        "quote": null
+      }
+    ]
+  }
+}

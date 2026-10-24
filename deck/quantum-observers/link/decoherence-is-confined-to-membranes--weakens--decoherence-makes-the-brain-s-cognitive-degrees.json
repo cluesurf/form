@@ -1,0 +1,28 @@
+{
+  "record": "link",
+  "id": "d1420516-70a1-41e9-962a-34bb1ce50c7c",
+  "from": "7da1c485-3b41-4586-8571-d2beaace8450",
+  "to": "690fedee-89d2-4e2a-bf63-f5794e39c7fd",
+  "relation": "weakens",
+  "strength": null,
+  "rationale": "Fields and Levin place decoherence at membranes and compartment boundaries only, leaving bulk biochemistry free to remain coherent.",
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "1a235d11-40a1-4047-a972-4206bd4007b2",
+        "locator": "abstract",
+        "quote": "We suggest that decoherence is limited to the immediate surroundings of the cell membrane and of intercompartmental boundaries within the cell, and that bulk cellular biochemistry implements quantum information processing."
+      }
+    ]
+  }
+}

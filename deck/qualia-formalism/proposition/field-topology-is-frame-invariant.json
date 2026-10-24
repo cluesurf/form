@@ -1,0 +1,45 @@
+{
+  "record": "proposition",
+  "id": "5680717a-66e7-4d47-9197-53d63f145c14",
+  "kind": "empirical",
+  "epistemic_status": "inferred",
+  "title": "Field topology is frame-invariant",
+  "statements": [
+    {
+      "id": "366c8c5a-97c0-4fc7-9212-f67a2c391cd4",
+      "text": "The topology of a field is absolute, not relative to a frame: a Lorentz transformation squeezes and shears but never changes topology, so topological boundaries are objective.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-23"
+    }
+  ],
+  "current_statement": "366c8c5a-97c0-4fc7-9212-f67a2c391cd4",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "5aaa6bc4-6581-4a09-8249-33c9872090bd",
+        "locator": "main text",
+        "quote": "The topology of the field is absolute, not relativistic."
+      }
+    ]
+  }
+}

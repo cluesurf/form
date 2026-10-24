@@ -1,0 +1,50 @@
+{
+  "record": "proposition",
+  "id": "2ee92b80-80c2-44e2-9d6d-f84f34d71ea5",
+  "kind": "empirical",
+  "epistemic_status": "simulated",
+  "title": "E-FRC-0083: the coupling grows with distance at a rate proportional to the gluon color charge $C_A$, the same per...",
+  "statements": [
+    {
+      "id": "7541d698-9d50-449f-9e80-d68e3e0fcb2f",
+      "text": "The coupling grows with distance at a rate proportional to the gluon color charge $C_A$, the same per unit $C_A$ in SU(2), SU(3) and SU(4), and the same for adjoint and fundamental sources, on top of the color-blind U(1) lattice artifact.",
+      "language": "en",
+      "scope": "experiment E-FRC-0083, arena gauge, depth L2 (L2: known physics reproduced on a stated model)",
+      "conditions": "substrates: any. In a paper: false",
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-22"
+    }
+  ],
+  "current_statement": "7541d698-9d50-449f-9e80-d68e3e0fcb2f",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": {
+    "value": "open",
+    "reason": "holds in the vibe claim graph",
+    "basis": [],
+    "proposal": null
+  },
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "research/result.ts R-FRC-0004",
+        "quote": null
+      }
+    ]
+  }
+}

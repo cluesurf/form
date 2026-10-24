@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "8188b3fa-1dd7-4324-b572-4793cf357924",
+  "title": "E-FRC-0199: nuclei on the confined point of the D4 field, read through Polyakov lines: two static color singlets...",
+  "purpose": "Experiment E-FRC-0199 in the gauge arena: nuclei on the confined point of the D4 field, read through Polyakov lines: two static color singlets (stand-ins for nucleons) on the coupled Sigma(648) rule at fill 0.08 show no residual at any of 14 separations (under 5e-4 of their weight), the quark-antiquark pair is a 7-error signal only at the closest separation, the static baryon and the saturation readings are at noise, a substrate reading.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L2 (L2: known physics reproduced on a stated model).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/gauge/static-singlets-on-the-confined-field.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-FRC-0199",
+        "quote": null
+      }
+    ]
+  }
+}

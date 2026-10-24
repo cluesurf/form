@@ -1,0 +1,50 @@
+{
+  "record": "proposition",
+  "id": "332e575d-d3e2-4a8c-9c1c-fea529b4eb00",
+  "kind": "philosophical",
+  "epistemic_status": "hypothesized",
+  "title": "Competent navigation of spaces is an invariant of cognition",
+  "statements": [
+    {
+      "id": "146e0c64-432b-43ed-bd66-c301d5da094a",
+      "text": "Competent navigation in arbitrary spaces, metabolic, transcriptional, morphological and three-dimensional, is the invariant that tracks the scaling of cognition across evolution, independent of scale and implementation.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-23"
+    }
+  ],
+  "current_statement": "146e0c64-432b-43ed-bd66-c301d5da094a",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "ace9be22-0f28-4934-89ff-c29f4e6bb2aa",
+        "locator": "abstract",
+        "quote": "propose competent navigation in arbitrary spaces as an invariant for thinking about the scaling of cognition during evolution"
+      },
+      {
+        "source": "ace9be22-0f28-4934-89ff-c29f4e6bb2aa",
+        "locator": "abstract",
+        "quote": "We propose an observer-focused viewpoint that is agnostic about scale and implementation"
+      }
+    ]
+  }
+}

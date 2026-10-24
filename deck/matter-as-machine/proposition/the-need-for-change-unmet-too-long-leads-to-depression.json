@@ -1,0 +1,50 @@
+{
+  "record": "proposition",
+  "id": "1aeb9dd7-59d2-49b2-920e-0344e7b110f7",
+  "kind": "empirical",
+  "epistemic_status": "hypothesized",
+  "title": "Unmet too long, the need for change leads to depression",
+  "statements": [
+    {
+      "id": "63da19f5-2fc0-4288-9bc5-7f4efe6313cc",
+      "text": "Seeing the world change in a liked way also satisfies the need, while disliked changes do not. Left unmet for too long, the need can lead to depression.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "63da19f5-2fc0-4288-9bc5-7f4efe6313cc",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "983ce19a-a7da-4801-9728-4eca49c1b243",
+        "locator": "opening",
+        "quote": "Seeing the world change in a way we like can also satisfy this need."
+      },
+      {
+        "source": "983ce19a-a7da-4801-9728-4eca49c1b243",
+        "locator": "opening",
+        "quote": "Within this model, leaving this need unfulfilled for too long can lead to depression."
+      }
+    ]
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "record": "proposition",
+  "id": "631b3566-40bc-4720-992e-9ca576c5d8a5",
+  "kind": "empirical",
+  "epistemic_status": "inferred",
+  "title": "Voltage-sensitive channels make bioelectric circuits",
+  "statements": [
+    {
+      "id": "272c0f2d-192f-48a8-ae7b-be42dc7906ad",
+      "text": "Ion channels and gap junctions are themselves voltage-sensitive, in effect transistors, which lets evolution build complex bioelectric circuits with memory.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-23"
+    }
+  ],
+  "current_statement": "272c0f2d-192f-48a8-ae7b-be42dc7906ad",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "fd7382f9-52a5-4beb-9680-fc341ff15b98",
+        "locator": "section Non-neural Bioelectricity: What Bodies Think About",
+        "quote": "both ion channels and gap junctions are themselves voltage sensitive"
+      }
+    ]
+  }
+}

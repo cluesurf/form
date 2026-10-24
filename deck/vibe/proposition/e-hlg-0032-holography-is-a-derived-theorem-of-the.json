@@ -1,0 +1,50 @@
+{
+  "record": "proposition",
+  "id": "34b935c2-a39c-452a-83d2-bfd1bbadfe47",
+  "kind": "empirical",
+  "epistemic_status": "simulated",
+  "title": "E-HLG-0032: holography is a derived theorem of the mesh, not a postulate: the {3,4,3,4} boundary shell holds a...",
+  "statements": [
+    {
+      "id": "b9b7e39b-9def-4706-a0dc-80d840f2d15e",
+      "text": "Holography is a derived theorem of the mesh, not a postulate: the {3,4,3,4} boundary shell holds a constant 94.5 percent of the ball, exactly (lambda-1)/lambda set by the warp factor (non-amenable, holographic), while the flat lattice boundary fraction tends to zero (amenable, not holographic), so vibe holographic cusp is real and derived and TD refusal to postulate it is honored, the contradiction dissolved.",
+      "language": "en",
+      "scope": "experiment E-HLG-0032, arena holography, depth L2 (L2: known physics reproduced on a stated model)",
+      "conditions": "substrates: 3434. In a paper: true",
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-22"
+    }
+  ],
+  "current_statement": "b9b7e39b-9def-4706-a0dc-80d840f2d15e",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": {
+    "value": "open",
+    "reason": "holds in the vibe claim graph",
+    "basis": [],
+    "proposal": null
+  },
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "research/result.ts R-HLG-0001",
+        "quote": null
+      }
+    ]
+  }
+}

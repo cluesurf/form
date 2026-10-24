@@ -1,0 +1,50 @@
+{
+  "record": "proposition",
+  "id": "3db9420d-63a5-4d59-9ab1-418d682e9ddb",
+  "kind": "empirical",
+  "epistemic_status": "simulated",
+  "title": "R-MMR-0001: Search radius that does not grow with memory size on {3,4,3,4}",
+  "statements": [
+    {
+      "id": "dd680872-a5c9-4376-9484-cccf5893a211",
+      "text": "On the {3,4,3,4} honeycomb the coverage radius of a breadth-first spread stays at 3 from 750 to 3,000 docks, while on a flat cubic lattice it grows from 12 to 21. Across four other hyperbolic tilings, coverage radius falls and growth rises with curvature.",
+      "language": "en",
+      "scope": "network geometry. status simulated. category reproduction (an established result recovered, by a method brought in from outside. Worth: evidence the machinery works. Not evidence that nature uses it). depth L3 (L3: one base rule produced the result as a measured consequence, with a computed control that could have failed)",
+      "conditions": "Limits: two sizes only, so no logarithmic fit is made. the curvature ladder (E-MMR-0002) runs {5,3,4} to {5,3,3,5} and leaves {3,4,3,4} out. the ladder claim fails at half size: at 600 docks the cubic radius ties the least-curved one. Its measured floor is about 1,000 docks. Launch gate. Pass: quantitative, auditable. Fail: prior_art_reviewed, novel, derived, differentiating, falsifiable, skeptic_reviewed, independently_reproduced. Unknown: interesting. Novelty: known. Free parameters: 0. Fitted: false. Known before: true.",
+      "falsification_criteria": "a reproduction at more sizes showing polynomial growth",
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-22"
+    }
+  ],
+  "current_statement": "dd680872-a5c9-4376-9484-cccf5893a211",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": "6956ce90-65e8-40b0-9b2c-4b249ea5aa0e",
+  "prediction": null,
+  "standing": {
+    "value": "open",
+    "reason": "holds in the vibe claim graph",
+    "basis": [],
+    "proposal": null
+  },
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "research/result.ts R-MMR-0001",
+        "quote": null
+      }
+    ]
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "68dd6496-23be-46d4-9cca-9bb2f57eab1b",
+  "title": "E-FND-0174: the seed's low entropy is a tie and the frontier renews nothing beyond the seed's light cone, partial...",
+  "purpose": "Experiment E-FND-0174 in the foundations arena: the seed's low entropy is a tie and the frontier renews nothing beyond the seed's light cone, partial (one control missed): on E-FND-0146's coarse map (side-4 box, 8 husk blocks) all 82,944 starts that differ from the empty mesh on one dock read coarse entropy exactly 0, the seed among them, so none is lower and the seed is not singled out (two docks read 0 or ln 2 by block); on the coset-union vacuum a one-dock start's entropy depends only on its energy change and is least for the full dock on one of 64 store-free docks, so the full origin dock (+40) is not minimal there; under register growth with chi empty the born shells' occupation entropy depends on birth beat (spread 2.67 or more from row 3) and the newest shell is least while the region grows, but the grown run equals a full seed in an already-born empty region one beat later to 5e-15; the control that the newest shell can lose its place after growth held at L = 4 and not at L = 6 in 10 rows.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L2 (L2: known physics reproduced on a stated model).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/foundations/seed-minimal-entropy.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-FND-0174",
+        "quote": null
+      }
+    ]
+  }
+}

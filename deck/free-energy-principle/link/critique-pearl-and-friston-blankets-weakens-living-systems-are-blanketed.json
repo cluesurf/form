@@ -1,0 +1,28 @@
+{
+  "record": "link",
+  "id": "955794f0-b0cc-4ce4-920d-d0c4524d8593",
+  "from": "0af8f6e7-b038-4ca5-a135-74215d4489cf",
+  "to": "33289d6a-81c8-4116-8de1-5eff214b85dc",
+  "relation": "weakens",
+  "strength": null,
+  "rationale": "Treating a Markov blanket as the physical boundary of a living thing is the metaphysical use the critique says needs further premises.",
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "8a38f5d0-9906-4d31-b024-1e52193a4717",
+        "locator": "abstract",
+        "quote": "We then identify a persistent confusion in the literature between the formal use of Markov blankets as an epistemic tool for Bayesian inference, and their novel metaphysical use in the free energy framework to demarcate the physical boundary between an agent and its environment."
+      }
+    ]
+  }
+}

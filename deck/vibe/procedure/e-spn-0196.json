@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "216ba190-d256-4759-8519-141a5af8f151",
+  "title": "E-SPN-0196: the link holonomy cages a register member carried as a Sigma(648) role triplet, pass narrowly: on side...",
+  "purpose": "Experiment E-SPN-0196 in the spin arena: the link holonomy cages a register member carried as a Sigma(648) role triplet, pass narrowly: on side 20 in E-SPN-0132's frozen working links the triplet's rms spread grows 0.0468 a beat over beats 16 to 64 against the trivial carriage's 0.1558 (ratio 0.300, pass at 1/3), sub-diffusively (rms ~ beat^0.40 against 0.81), the same under a second Z3 centre section (0.299), with the flat triplet equal to the trivial run exactly and every one of the 648 lifts keeping the delta and epsilon singlets exactly; the brief's side-8 box saturates the free member by beat 24 and reads 2.56.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L2 (L2: known physics reproduced on a stated model).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/spin/holonomy-caging.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-SPN-0196",
+        "quote": null
+      }
+    ]
+  }
+}

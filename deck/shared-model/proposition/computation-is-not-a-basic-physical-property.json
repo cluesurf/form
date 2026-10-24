@@ -1,0 +1,91 @@
+{
+  "record": "proposition",
+  "id": "15c56cff-d23d-415e-ada4-9f5e385318e0",
+  "kind": "philosophical",
+  "epistemic_status": "hypothesized",
+  "title": "Computation is not a basic physical property",
+  "statements": [
+    {
+      "id": "93501ef9-00c3-4c81-bbc7-161e4fce2a65",
+      "text": "Computation is not a basic physical property of a system: calling a system a computation depends on a description or a purpose brought to it. The frameworks that say so put it differently: a computation names no present physical property its different hardware shares, or computation is execution with a goal that someone sets.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-23"
+    }
+  ],
+  "current_statement": "93501ef9-00c3-4c81-bbc7-161e4fce2a65",
+  "status": "active",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": {
+    "value": "open",
+    "reason": null,
+    "basis": [],
+    "proposal": null
+  },
+  "origin": [
+    {
+      "repository": "present-state",
+      "id": "d9bef6a0-567c-4551-8396-d17b6db4d4cd"
+    },
+    {
+      "repository": "present-state",
+      "id": "487573a3-679a-44e8-a22a-52a520d0d9e7"
+    },
+    {
+      "repository": "matter-as-machine",
+      "id": "0e7dbe21-d460-4e72-a8d2-35adfc08af0a"
+    },
+    {
+      "repository": "matter-as-machine",
+      "id": "31ae8955-a4a2-4823-941b-94df711441a4"
+    }
+  ],
+  "provenance": {
+    "written_by": "github:lancejpollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "5d97e1e3-0f25-4bf8-b5ec-780fc621c55d",
+        "locator": "section 5.3",
+        "quote": "These implementations need share no evident intrinsic physical property corresponding to the computation they implement"
+      },
+      {
+        "source": "5d97e1e3-0f25-4bf8-b5ec-780fc621c55d",
+        "locator": "section 5.3",
+        "quote": "The burden therefore falls on proponents of digital consciousness to identify an observer-independent present physical invariant shared across these materially and geometrically disparate implementations."
+      },
+      {
+        "source": "22a0c591-bbee-4cca-971e-b2c390a6a54f",
+        "locator": "Execution and computation",
+        "quote": "It is only one specific type of execution: execution with a goal."
+      },
+      {
+        "source": "22a0c591-bbee-4cca-971e-b2c390a6a54f",
+        "locator": "Execution and computation",
+        "quote": "A computer program computes because someone defines input, output, and purpose."
+      },
+      {
+        "source": "22a0c591-bbee-4cca-971e-b2c390a6a54f",
+        "locator": "Execution and computation",
+        "quote": "Computation is not even fundamental."
+      },
+      {
+        "source": "22a0c591-bbee-4cca-971e-b2c390a6a54f",
+        "locator": "Execution and computation",
+        "quote": "If our universe has no goal, then how can everything be computation?"
+      }
+    ]
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "7e3fa62d-ed6f-4acb-b287-d24cf6d2caf0",
+  "title": "E-FRC-0209: whether the cold weave's integer stores can be column sums of trits: their range fits a small column...",
+  "purpose": "Experiment E-FRC-0209 in the gauge arena: whether the cold weave's integer stores can be column sums of trits: their range fits a small column, but they live on bulk slots, whose depth fiber belongs to other docks, and reading them as stacks of the column's own vibes breaks charge or the energy count.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L1 (L1: known mathematics, correctly confirmed).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/gauge/trit-column-stores.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-FRC-0209",
+        "quote": null
+      }
+    ]
+  }
+}

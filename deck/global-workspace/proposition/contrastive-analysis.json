@@ -1,0 +1,45 @@
+{
+  "record": "proposition",
+  "id": "f5374366-eaec-469a-8412-79211615dc68",
+  "kind": "definitional",
+  "epistemic_status": "designed",
+  "title": "Contrastive analysis",
+  "statements": [
+    {
+      "id": "4210d531-6c69-430e-bff9-06605a74b187",
+      "text": "Contrastive analysis studies conscious functions by comparing them with closely matched unconscious processes, so that consciousness becomes an experimental variable.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-23"
+    }
+  ],
+  "current_statement": "4210d531-6c69-430e-bff9-06605a74b187",
+  "status": "active",
+  "voice": "framework",
+  "defines": "contrastive analysis",
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "27d49895-2a70-4caf-8a9d-44136817650c",
+        "locator": "p. 47",
+        "quote": "conscious functions are studied experimentally by comparison with closely matched unconscious processes, an approach I have called ‘contrastive analysis’"
+      }
+    ]
+  }
+}

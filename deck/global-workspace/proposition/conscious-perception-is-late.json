@@ -1,0 +1,45 @@
+{
+  "record": "proposition",
+  "id": "1055d47d-5d1e-4e5f-ae45-d6e775e2fe73",
+  "kind": "empirical",
+  "epistemic_status": "hypothesized",
+  "title": "Conscious perception is slow and late",
+  "statements": [
+    {
+      "id": "4eea687f-ee68-4a3a-8ca6-79105013cf23",
+      "text": "Early bottom-up sensory events before global ignition, in roughly the first 200 to 300 ms, contribute only to nonconscious percept construction and do not systematically distinguish seen from unseen stimuli.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-23"
+    }
+  ],
+  "current_statement": "4eea687f-ee68-4a3a-8ca6-79105013cf23",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "2374e38b-3bde-4e20-9ad5-8edab14a34c3",
+        "locator": "Is Conscious Perception Slow and Late?",
+        "quote": "early bottom-up sensory events, prior to global ignition (<200–300 ms), contribute solely to nonconscious percept construction"
+      }
+    ]
+  }
+}

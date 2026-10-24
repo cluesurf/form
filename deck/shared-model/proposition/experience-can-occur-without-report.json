@@ -1,0 +1,72 @@
+{
+  "record": "proposition",
+  "id": "be3c404e-6efc-41b2-9159-9acedc5e6920",
+  "kind": "empirical",
+  "epistemic_status": "hypothesized",
+  "title": "Experience can occur without report",
+  "statements": [
+    {
+      "id": "0d8d6e13-e9a4-4c8c-b7b5-ff1e81004e2a",
+      "text": "Conscious experience can occur without any report of it, so report and the neural machinery of report must be separated from consciousness itself, as no-report paradigms try to do.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-23"
+    }
+  ],
+  "current_statement": "0d8d6e13-e9a4-4c8c-b7b5-ff1e81004e2a",
+  "status": "active",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": {
+    "value": "open",
+    "reason": null,
+    "basis": [],
+    "proposal": null
+  },
+  "origin": [
+    {
+      "repository": "global-workspace",
+      "id": "8c1aa655-a9df-43ef-a1cf-691b604fcf5e"
+    },
+    {
+      "repository": "analytic-idealism",
+      "id": "ab640973-6168-430b-bfdd-4f7700761afa"
+    },
+    {
+      "repository": "global-workspace",
+      "id": "28e89614-15d7-4d51-af0c-9457c26dd491"
+    }
+  ],
+  "provenance": {
+    "written_by": "github:lancejpollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "08b902e4-5dff-41a5-9b20-8b9a87b26443",
+        "locator": "Introduction",
+        "quote": "conscious access can occur with or without overt behavioral report"
+      },
+      {
+        "source": "837f7d25-4439-4106-a1b4-eb4d29a9819b",
+        "locator": "section 12, p. 151",
+        "quote": "we now know that much is experienced that cannot be reported even to self"
+      },
+      {
+        "source": "1a4c2cf8-f25d-43a0-8e3e-52073cc8638f",
+        "locator": "abstract, p. 481",
+        "quote": "data that show that in a certain sense phenomenal consciousness overflows cognitive accessibility"
+      }
+    ]
+  }
+}

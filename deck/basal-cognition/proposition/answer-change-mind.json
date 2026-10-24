@@ -1,0 +1,50 @@
+{
+  "record": "proposition",
+  "id": "01aab6ed-e7e7-444e-8dd2-37397cf9f223",
+  "kind": "philosophical",
+  "epistemic_status": "inferred",
+  "title": "Answer: if treating cells as goal-seekers gave no gain in control",
+  "statements": [
+    {
+      "id": "1ad81358-288c-4bef-877f-b63cde77141e",
+      "text": "The framework is judged by its yield. If treating cell collectives as goal-directed agents, and rewriting their setpoints, gave no better prediction and control than micromanaging molecules, the framework would fail.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-23"
+    }
+  ],
+  "current_statement": "1ad81358-288c-4bef-877f-b63cde77141e",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "fd7382f9-52a5-4beb-9680-fc341ff15b98",
+        "locator": "section Philosophical Foundations of an Approach to Diverse Intelligences",
+        "quote": "The goal is to produce a framework that drives experimental research programs, not only philosophical debate"
+      },
+      {
+        "source": "9d7dc0d8-1f18-43d2-b86a-16d31ae12fd3",
+        "locator": "section Predictions and Research Program",
+        "quote": "Future empirical work will reveal whether Scale Free Cognition is a useful way to organize what we know"
+      }
+    ]
+  }
+}

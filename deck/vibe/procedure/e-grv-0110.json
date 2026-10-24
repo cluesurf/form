@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "83daecc7-2183-4128-b140-977420819ae9",
+  "title": "E-GRV-0110: the working vacuum's rule does not hold E-SPN-0093's cluster, so its energy sources a line's depth and...",
+  "purpose": "Experiment E-GRV-0110 in the gravity arena: the working vacuum's rule does not hold E-SPN-0093's cluster, so its energy sources a line's depth and not a lump's, fail on D1: averaged over 64 beats the cluster's 3 units lie 0.16 to 0.25 on every column of its husk line (the rule's expected energy excess equals the ring form's love density to 4e-16, the vacuum untouched), and E-GRV-0090's static field of that source reads 0.37 to 0.90 of the same-energy point lump's at r = 1 .. 6, k 0.0151 against 0.0324; the stand-in's own held packet gives the lump's 1/r (0.95 to 1.00 at r = 2 .. 6, k 0.0307, core 2), so the chain holds where the source holds; the core gate passes only vacuously (the source fills the ring).",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L2 (L2: known physics reproduced on a stated model).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/gravity/held-cluster-depth.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-GRV-0110",
+        "quote": null
+      }
+    ]
+  }
+}

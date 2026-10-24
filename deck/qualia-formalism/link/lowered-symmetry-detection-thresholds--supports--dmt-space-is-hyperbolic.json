@@ -1,0 +1,28 @@
+{
+  "record": "link",
+  "id": "bfb5480b-916b-4d41-a14d-dbeaf6aacc88",
+  "from": "a19c1917-0576-45ed-8e85-a6c3b8284f34",
+  "to": "a45d95c5-17cb-470a-9c48-163ccf4492d5",
+  "relation": "supports",
+  "strength": null,
+  "rationale": null,
+  "rule": "abduction",
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "be442aa3-8a4a-44e8-a460-d57745249930",
+        "locator": "proposed mechanisms",
+        "quote": "extremely lowered symmetry detection thresholds experienced in quick succession"
+      }
+    ]
+  }
+}

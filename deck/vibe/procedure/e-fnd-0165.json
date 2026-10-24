@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "01903013-b58c-425c-ba98-e2d8b4e35d15",
+  "title": "E-FND-0165: three holes of the register sea on the L = 6 torus reach a temperature, partial (every physics gate...",
+  "purpose": "Experiment E-FND-0165 in the foundations arena: three holes of the register sea on the L = 6 torus reach a temperature, partial (every physics gate passes, the instrument fails): with 11 band levels the relaxed occupation is a Gibbs form in the band level on the levels the start left empty (rms 0.040 to 0.072 in the log, the flat line 0.233 to 0.356), two starts of one band energy with different level content read one beta (2.662 and 2.647; -1.990 and -2.012 above the band's middle, a negative temperature), and every level fills where a kept free band energy would leave 7 of 11 empty, so the pair pieces act as the bath; Fermi-Dirac cannot be told from Gibbs at a filling of 1.2e-3 (1e-5 in rms); the free rule moves nothing (5.0e-14); the store's redundant tie entries grow 1.25 times a cycle at L = 6 (8.6e-7 at cycle 128), a defect that moves no reported digit.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L2 (L2: known physics reproduced on a stated model).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/foundations/register-temperature.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-FND-0165",
+        "quote": null
+      }
+    ]
+  }
+}

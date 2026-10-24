@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "5c178226-6bd2-43a5-800d-bdf8fb960955",
+  "title": "E-QTM-0096: reflection positivity measured where it must hold and fail: the beating vacuum's clock-field Toeplitz...",
+  "purpose": "Experiment E-QTM-0096 in the quantum arena: reflection positivity measured where it must hold and fail: the beating vacuum's clock-field Toeplitz matrix is positive semidefinite to machine precision and the thermal gas positive with a large margin (the Osterwalder-Schrader analog for the free and thermal sectors, on an estimator that is not automatically positive), while the traveller wake's amplifying support series violates positivity by three orders of magnitude (an amplifier is not a stationary field), with the whole-period estimator window the method correction that separates truncation artifacts from physics.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L2 (L2: known physics reproduced on a stated model).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/quantum/clock-field-positivity.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-QTM-0096",
+        "quote": null
+      }
+    ]
+  }
+}

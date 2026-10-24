@@ -1,0 +1,45 @@
+{
+  "record": "proposition",
+  "id": "1d18ff99-91ea-4b12-8dea-28469dbb50c8",
+  "kind": "empirical",
+  "epistemic_status": "hypothesized",
+  "title": "Answer: experience sits at the scale where integrated information peaks",
+  "statements": [
+    {
+      "id": "2fb0051e-4638-41b1-a9da-d73c2f6e89c0",
+      "text": "Causal emergence does not itself explain experience. With integrated information theory, it holds that consciousness occurs at the spatiotemporal scale where integrated information peaks, which can be a macro scale.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-23"
+    }
+  ],
+  "current_statement": "2fb0051e-4638-41b1-a9da-d73c2f6e89c0",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "43accee2-70fd-4090-88e9-d71562ee222f",
+        "locator": "abstract",
+        "quote": "These results are relevant to a theoretical account of consciousness, because for integrated information theory the spatiotemporal maximum of integrated information fixes the spatiotemporal scale of consciousness."
+      }
+    ]
+  }
+}

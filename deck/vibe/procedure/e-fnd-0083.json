@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "557e127f-61ca-43c8-ac56-ea502f9e04da",
+  "title": "E-FND-0083: the induced map of the momentum rule on two-tone pairs at one cell is a permutation: all 1104 two-tone...",
+  "purpose": "Experiment E-FND-0083 in the foundations arena: the induced map of the momentum rule on two-tone pairs at one cell is a permutation: all 1104 two-tone states land on 1104 distinct images (the head-on rotation swaps two lines and fixes everything else), so a pair is as classical as a single tone, while the irreversible sorting collision merges the same states.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L1 (L1: known mathematics, correctly confirmed).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/foundations/pair-coarse-map-is-permutation.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-FND-0083",
+        "quote": null
+      }
+    ]
+  }
+}

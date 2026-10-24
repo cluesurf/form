@@ -1,0 +1,50 @@
+{
+  "record": "proposition",
+  "id": "8a0f0010-8eb0-42fc-a96e-b621944c3c31",
+  "kind": "empirical",
+  "epistemic_status": "hypothesized",
+  "title": "Cosmic expansion is the expansion of the temporal flow",
+  "statements": [
+    {
+      "id": "5fe91455-f388-454b-aba5-2f7020b41e47",
+      "text": "The expansion scalar $\\Theta = \\nabla_\\mu u^\\mu$ of the flow governs density along it: where the congruence expands, temporal density falls. Large-scale cosmic expansion is that same expansion on the homogeneous background.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "5fe91455-f388-454b-aba5-2f7020b41e47",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "e9bae950-bb2d-4846-bc12-5f19b8e973a1",
+        "locator": "section 2",
+        "quote": "If Θ > 0, the congruence expands and the density decreases along the flow."
+      },
+      {
+        "source": "e9bae950-bb2d-4846-bc12-5f19b8e973a1",
+        "locator": "section 9",
+        "quote": "Equation (37) states that cosmological density evolution is controlled by expansion of the congruence and the effective enthalpy ρt + pt ."
+      }
+    ]
+  }
+}

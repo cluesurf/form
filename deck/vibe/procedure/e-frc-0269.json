@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "bf782d0f-91ed-4cef-b16a-3333ea637e68",
+  "title": "E-FRC-0269: what a quantum light's seams balance: one modulus reaches every husk register and the harmonic fills are...",
+  "purpose": "Experiment E-FRC-0269 in the gauge arena: what a quantum light's seams balance: one modulus reaches every husk register and the harmonic fills are E-FRC-0262's, so a quantum light decides only which statistic of the fills its seams balance; measured on the ladder's exact quantum light by the Planck-optimal split against a box where the average and the worst-register readings agree.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L2 (L2: known physics reproduced on a stated model).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/gauge/quantum-balance.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-FRC-0269",
+        "quote": null
+      }
+    ]
+  }
+}

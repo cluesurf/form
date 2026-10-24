@@ -1,0 +1,45 @@
+{
+  "record": "proposition",
+  "id": "2ddfd3a2-f36c-4b8e-aa39-04ff8f859c63",
+  "kind": "empirical",
+  "epistemic_status": "hypothesized",
+  "title": "Multi-scale competency increases evolvability",
+  "statements": [
+    {
+      "id": "c40fe6a9-f29b-4c50-ba9b-5ed9f5b93aac",
+      "text": "Multi-scale competency of biological systems makes bodies and minds plastic and greatly potentiates evolvability.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-23"
+    }
+  ],
+  "current_statement": "c40fe6a9-f29b-4c50-ba9b-5ed9f5b93aac",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "fd7382f9-52a5-4beb-9680-fc341ff15b98",
+        "locator": "abstract",
+        "quote": "This architecture of multi-scale competency of biological systems has important implications for plasticity of bodies and minds, greatly potentiating evolvability."
+      }
+    ]
+  }
+}

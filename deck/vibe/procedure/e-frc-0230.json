@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "676bac67-6e2d-4236-ba05-1969ccbc8355",
+  "title": "E-FRC-0230: why the depth column quantizes a mode of light: a column of 2D + 1 values is one Weyl pair with a Planck...",
+  "purpose": "Experiment E-FRC-0230 in the gauge arena: why the depth column quantizes a mode of light: a column of 2D + 1 values is one Weyl pair with a Planck cell of 2D + 1 phase points, its quarter turn is exactly an oscillator's cut at 2D + 1 rungs, and the rule's one-mode light holds the oscillator rungs that fit inside the column's phase square, pi/4 of 2D + 1 when kappa's split between drift and force is balanced and only about sqrt(2D + 1) with the classical light's split; the column's own spectrum is Planck's, the same points read classically are Rayleigh-Jeans.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L2 (L2: known physics reproduced on a stated model).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/gauge/column-quantizes-the-mode.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-FRC-0230",
+        "quote": null
+      }
+    ]
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "record": "proposition",
+  "id": "65b12cef-74af-4deb-8914-296496dce9be",
+  "kind": "empirical",
+  "epistemic_status": "hypothesized",
+  "title": "Discrete rules can give circular motion",
+  "statements": [
+    {
+      "id": "b4c55e41-2c9a-4996-893f-4387582700ca",
+      "text": "Circular motion can arise from discrete rules of this kind.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "b4c55e41-2c9a-4996-893f-4387582700ca",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "f1f9bdb8-14c9-4c62-9e48-01ecc2870699",
+        "locator": "Circular motion",
+        "quote": "Discrete rules can lead to circular motion."
+      }
+    ]
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "record": "proposition",
+  "id": "8a9c261e-fc1e-426c-a85a-f729bc185c5a",
+  "kind": "empirical",
+  "epistemic_status": "hypothesized",
+  "title": "PC-09: the early universe needs no inflation: a single seed on a flat husk has no horizon problem and no flatness...",
+  "statements": [
+    {
+      "id": "c29edb43-dd8a-4712-923c-2532ffe23c7d",
+      "text": "The early universe needs no inflation: a single seed on a flat husk has no horizon problem and no flatness problem.",
+      "language": "en",
+      "scope": "a prediction candidate, not a frozen prediction row",
+      "conditions": "Where it stands: measured on the true {3,4,3,4} mesh: the husk is a horosphere, flat by geometry, and every pair of husk docks a single seed reaches shares a causal past at every beat (0 of 8,256 disjoint at beat 4), where a start everywhere at once leaves 171 of 300 pairs with none (E-CSM-0058). The husk itself grows as a cubic ball, 3.22 e-folds in all, so it does not inflate (E-CSM-0059). The thermal uniformity of the reached docks is not read. What it needs: the primordial ripple spectrum from a seed without inflation, a spectral index and a tensor-to-scalar ratio, set against Planck and BICEP measurements.",
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-22"
+    }
+  ],
+  "current_statement": "c29edb43-dd8a-4712-923c-2532ffe23c7d",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": {
+    "value": "open",
+    "reason": "a candidate: it has not passed the prediction gate",
+    "basis": [],
+    "proposal": null
+  },
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "research/prediction.ts PC-09",
+        "quote": null
+      }
+    ]
+  }
+}

@@ -1,0 +1,72 @@
+{
+  "record": "proposition",
+  "id": "cb502bcb-4691-4fda-a1a9-8c5fba295ac7",
+  "kind": "empirical",
+  "epistemic_status": "hypothesized",
+  "title": "Living cells use quantum coherence",
+  "statements": [
+    {
+      "id": "3689949b-f2c5-4b68-9898-365f26b45185",
+      "text": "Living cells, neurons included, sustain quantum coherence long enough to use it in processing information.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-23"
+    }
+  ],
+  "current_statement": "3689949b-f2c5-4b68-9898-365f26b45185",
+  "status": "active",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": {
+    "value": "open",
+    "reason": null,
+    "basis": [],
+    "proposal": null
+  },
+  "origin": [
+    {
+      "repository": "quantum-observers",
+      "id": "224433cd-8238-413f-8ece-673f8b5669b4"
+    },
+    {
+      "repository": "orch-or",
+      "id": "f992f9e0-4750-4368-93d8-934fbf1a78f2"
+    },
+    {
+      "repository": "orch-or",
+      "id": "904d9de7-897f-45d4-b40f-fe7c6558e080"
+    }
+  ],
+  "provenance": {
+    "written_by": "github:lancejpollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "43a138a3-627b-44ff-a9ed-32f4c1e128d3",
+        "locator": "section 5.4, prediction 1",
+        "quote": "The internal, molecular-scale dynamics of both prokaryotic and eukaryotic cells implement quantum information processing, i.e., make essential use of quantum coherence as a computational and memory resource."
+      },
+      {
+        "source": "d496f824-2bdc-4e84-93d0-d8813496083c",
+        "locator": "abstract",
+        "quote": "consciousness depends on biologically ‘orchestrated’ coherent quantum processes in collections of microtubules within brain neurons"
+      },
+      {
+        "source": "d496f824-2bdc-4e84-93d0-d8813496083c",
+        "locator": "section 4.5",
+        "quote": "Further research has shown warm quantum effects in bird-brain navigation [128], ion channels [129], sense of smell"
+      }
+    ]
+  }
+}

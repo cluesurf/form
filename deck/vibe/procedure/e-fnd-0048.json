@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "937ceca6-4096-4917-989b-b803d5b79c6b",
+  "title": "E-FND-0048: the fixed-mesh reversible knit is NOT TD emergent time: read honestly (occupancy, not the cancelling net...",
+  "purpose": "Experiment E-FND-0048 in the foundations arena: the fixed-mesh reversible knit is NOT TD emergent time: read honestly (occupancy, not the cancelling net charge) a localized packet traces a recurrent closed loop in distinguishability space with near-maximal discrete steps and a path length far exceeding the direct distance, so it is not a geodesic and carries no arrow, and the monotone TD time is the wake, not the knit.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L2 (L2: known physics reproduced on a stated model).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/foundations/emergent-time-distinguishability.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-FND-0048",
+        "quote": null
+      }
+    ]
+  }
+}

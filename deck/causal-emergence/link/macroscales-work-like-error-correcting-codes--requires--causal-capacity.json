@@ -1,0 +1,28 @@
+{
+  "record": "link",
+  "id": "54128991-b31c-483a-bc95-3574b3e4d136",
+  "from": "63ded878-de1e-426b-8256-8bdbba1c9ae2",
+  "to": "775140e3-0836-44dc-a9d8-23e9038fed9d",
+  "relation": "requires",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "af04362c-992c-4063-8ee0-0860e42624ed",
+        "locator": "abstract",
+        "quote": "via the same mathematical principles of how error-correcting codes take advantage of an information channel’s capacity"
+      }
+    ]
+  }
+}

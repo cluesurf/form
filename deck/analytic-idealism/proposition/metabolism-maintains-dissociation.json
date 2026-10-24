@@ -1,0 +1,45 @@
+{
+  "record": "proposition",
+  "id": "bf3e61e0-36da-4450-bc48-e2237407f083",
+  "kind": "empirical",
+  "epistemic_status": "hypothesized",
+  "title": "Metabolism is the appearance of dissociation",
+  "statements": [
+    {
+      "id": "ac5af21a-48ca-4b94-b62f-675f8e3508f0",
+      "text": "Normal metabolism is what a dissociated phenomenal field looks like from outside and is needed to maintain it: when metabolism slows or stops, the dissociative boundary becomes phenomenally porous.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-23"
+    }
+  ],
+  "current_statement": "ac5af21a-48ca-4b94-b62f-675f8e3508f0",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "9c8de529-0562-4ede-9748-a99db6ec0056",
+        "locator": "section 10, p. 145",
+        "quote": "normal metabolism is essential for the maintenance of our dissociated phenomenal fields, for when it slows down or stops the dissociative boundary seems to become phenomenally porous"
+      }
+    ]
+  }
+}

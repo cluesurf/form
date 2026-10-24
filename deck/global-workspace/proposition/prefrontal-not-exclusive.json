@@ -1,0 +1,50 @@
+{
+  "record": "proposition",
+  "id": "576ed6d6-a568-4859-a504-740e4c178e17",
+  "kind": "empirical",
+  "epistemic_status": "hypothesized",
+  "title": "Prefrontal cortex is a key node but not the exclusive site",
+  "statements": [
+    {
+      "id": "206b523f-8032-4b69-9eb8-692aa5448a68",
+      "text": "The prefrontal cortex is a key node of the workspace but not its exclusive territory: other hubs such as anterior temporal cortex, cingulate cortex and precuneus may be equally important.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-23"
+    }
+  ],
+  "current_statement": "206b523f-8032-4b69-9eb8-692aa5448a68",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "48959277-86d2-4076-9942-58a24f753040",
+        "locator": "Central Tenets",
+        "quote": "it is not proposed as the exclusive territory for conscious access"
+      },
+      {
+        "source": "48959277-86d2-4076-9942-58a24f753040",
+        "locator": "p. 777",
+        "quote": "Other cortical hubs, such as the anterior temporal cortex, anterior and posterior cingulate cortex, and precuneus, may be equally important."
+      }
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "record": "link",
+  "id": "6703b62c-363a-489e-bf2d-5777e1924b85",
+  "from": "b32d0b1a-3132-4d57-b313-31e553e1db2f",
+  "to": "7110befd-f85e-4040-a198-6d9ff07dd9b3",
+  "relation": "supports",
+  "strength": 0.6,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "6f63aea4-d10a-4463-b181-5f13f525dd17",
+        "locator": "results section",
+        "quote": "That is, the majority of the nodes in the network actually form macro-nodes."
+      }
+    ]
+  }
+}

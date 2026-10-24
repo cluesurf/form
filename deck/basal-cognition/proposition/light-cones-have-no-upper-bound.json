@@ -1,0 +1,45 @@
+{
+  "record": "proposition",
+  "id": "ff66b667-e447-4b3a-b22e-783b973f4109",
+  "kind": "philosophical",
+  "epistemic_status": "inferred",
+  "title": "Cognitive light cones have no upper bound",
+  "statements": [
+    {
+      "id": "e8fd454f-a90d-4b95-a151-1cfdc7ddbc05",
+      "text": "The volume of possible cognitive light cones has grown over evolution in leaps, and nothing in the formalism caps how large one can be.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-23"
+    }
+  ],
+  "current_statement": "e8fd454f-a90d-4b95-a151-1cfdc7ddbc05",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "9d7dc0d8-1f18-43d2-b86a-16d31ae12fd3",
+        "locator": "section Defining Individuation From a Cognitive Perspective",
+        "quote": "The formalism places no upper bound on the size of the cognitive light cone."
+      }
+    ]
+  }
+}

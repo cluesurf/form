@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "496abdbb-e02e-49f0-8868-1b06be6e5ac4",
+  "title": "E-RLT-0069: the hot vacuum breaks W(F4) and hides it, fail on one hypothesis: every calm dock with any of the...",
+  "purpose": "Experiment E-RLT-0069 in the relativity arena: the hot vacuum breaks W(F4) and hides it, fail on one hypothesis: every calm dock with any of the $3^{12}$ stores returns calm with the store negated (0 failures), so the vacua are chosen dock by dock (19.02 bits per dock) and a one-trit store change is an exact still zero mode (a flat band, no Goldstone mode, no stiffness); the uniform hot vacuum keeps the diagram S3 (order 6, orbit 192, 24 with the half-period shift and charge conjugation), which forces no transport isotropic, yet the rule stays covariant on it (0 failures), a lone vibe goes straight at its root (48 of 48, second moment $(T^{2/2})$ I exactly), and the one- and two-body collisions on it keep all 1,152 elements (predicted a proper subgroup: the H3 that fails), so binary transport on the hot vacuum is forced isotropic as on the symmetric background; the orientation shows only from three vibes in a dock on.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L2 (L2: known physics reproduced on a stated model).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/relativity/hot-vacuum-symmetry-breaking.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-RLT-0069",
+        "quote": null
+      }
+    ]
+  }
+}

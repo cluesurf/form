@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "80e05d28-f836-4915-ba07-61fee60f3cfd",
+  "title": "E-GRV-0124: the headroom horizon hides exactly its torn registers, and their count goes as the horizon's dock count...",
+  "purpose": "Experiment E-GRV-0124 in the gravity arena: the headroom horizon hides exactly its torn registers, and their count goes as the horizon's dock count but not as its husk area, fail on E1b: at $r_h = 3.5$ .. 20.5 (M 502 .. 2955) the count rule, asked from a generic state, leaves every other register equal for 48 beats when every torn step and interior line is changed, sees a surface line, a live step and a horizon rate on beat 1, and sees the same change with no horizon; a full headroom register holds one value and hides nothing, so S = 9 |H| ln(3 span) + T_cut (ln span - ln 3) / 2 exactly, $R^2$ 0.99989 against |H| (181 nats a dock, limit 173.5) but 43.8 .. 215.4 nats per cut link (gate 10 percent), exponents in $r_h$ 2.89 (S), 2.99 (|H|), 1.99 (cut); a no-horizon ball's full count spreads the same 3.93, so the area test cannot tell this horizon from a volume; per 4 pi $r_h^2$ the count is 3.5 .. 17.2 times 1/4G = cap / 2 $k_u = 72$, so no single G or C fits S = A / 4G.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L2 (L2: known physics reproduced on a stated model).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/gravity/headroom-horizon-entropy.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-GRV-0124",
+        "quote": null
+      }
+    ]
+  }
+}

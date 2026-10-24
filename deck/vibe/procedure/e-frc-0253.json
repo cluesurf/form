@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "d3e3f7e0-3def-4d44-8454-be171fe76784",
+  "title": "E-FRC-0253: the even second-order residue between two neutral lumps is van der Waals, not gravity, fail on V3 alone...",
+  "purpose": "Experiment E-FRC-0253 in the gauge arena: the even second-order residue between two neutral lumps is van der Waals, not gravity, fail on V3 alone: two two-level love-fear lumps on the husk x axis reading the light's static Coulomb form (D 32, tunneling 2 pi / 1024, non-retarded) attract charge-blind by -1.96e-7 at r = 4 falling to -1.04e-10 at r = 12, as $r^{-6.49}$ over r = 6 .. 12 (London's $r^{-6}$ with higher multipoles; second order -K^2 / (4 t) at 0.94 of it by r = 12), where fixed lumps give exactly 0; the odd first-order quadrupole term f1 f2 a(r), about $r^{-5.3}$, is 56 to 312 times larger, so like lumps repel and a lump and its flipped copy attract; degenerate lumps (no tunneling) orient and attract as $r^{-3.41}$; no charge-blind 1/r term.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L2 (L2: known physics reproduced on a stated model).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/gauge/induced-neutral-residue.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-FRC-0253",
+        "quote": null
+      }
+    ]
+  }
+}

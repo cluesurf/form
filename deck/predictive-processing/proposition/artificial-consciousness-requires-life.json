@@ -1,0 +1,45 @@
+{
+  "record": "proposition",
+  "id": "27283751-985a-41db-b06f-46ff2a64bdbf",
+  "kind": "philosophical",
+  "epistemic_status": "inferred",
+  "title": "Artificial consciousness would require machines that are alive",
+  "statements": [
+    {
+      "id": "da8c60e8-044e-4571-88fa-178346899b52",
+      "text": "If the positive case for biological naturalism holds, real artificial consciousness will be possible only in machines that are in some relevant sense alive.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-23"
+    }
+  ],
+  "current_statement": "da8c60e8-044e-4571-88fa-178346899b52",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "e391f78a-61b9-464c-883b-2181082dabd3",
+        "locator": "accepted manuscript p. 24",
+        "quote": "then real artificial consciousness will only be possible if we create machines that are also in some relevant sense alive"
+      }
+    ]
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "record": "proposition",
+  "id": "fe02a59f-4a93-4f35-9d54-34725cd7dff6",
+  "kind": "empirical",
+  "epistemic_status": "hypothesized",
+  "title": "The main complex is mostly in posterior cortex",
+  "statements": [
+    {
+      "id": "d9d4a090-5577-4370-9cef-2d1ff9081e4e",
+      "text": "A set of brain regions arranged in a dense three-dimensional lattice, mainly in posterior cortex, may reach a much higher integrated information than any other subset and so form the main complex.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-23"
+    }
+  ],
+  "current_statement": "d9d4a090-5577-4370-9cef-2d1ff9081e4e",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "8443eb2e-406e-4acc-94e8-33cbabbd3679",
+        "locator": "section on substrates (full text)",
+        "quote": "a subset of brain regions, arranged in a dense 3D lattice primarily located in posterior cortex, may achieve a much higher value of integrated information than any other subset."
+      }
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "record": "link",
+  "id": "9aa1b6a3-27eb-441e-ae54-86842d5281d9",
+  "from": "c0876ba3-9b6a-43c1-9193-32ffb865784c",
+  "to": "b2d84737-dc3b-4959-af84-d1c5b7edd8c6",
+  "relation": "requires",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "c3908a50-f858-42d6-8c6b-be810bd5a82f",
+        "locator": "abstract",
+        "quote": "This means that all biological processes can be construed as performing some form of inference, from evolution through to conscious processing."
+      }
+    ]
+  }
+}

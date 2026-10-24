@@ -1,0 +1,28 @@
+{
+  "record": "link",
+  "id": "571a7e64-7559-4c97-9b3b-fe32ffa3aa3c",
+  "from": "f992f9e0-4750-4368-93d8-934fbf1a78f2",
+  "to": "3b7b1f70-7173-4c7b-a64c-65b8705402f5",
+  "relation": "assumes",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "c0602528-f093-4705-abc3-e13d7657a680",
+        "locator": "abstract",
+        "quote": "consciousness depends on biologically ‘orchestrated’ coherent quantum processes in collections of microtubules within brain neurons"
+      }
+    ]
+  }
+}

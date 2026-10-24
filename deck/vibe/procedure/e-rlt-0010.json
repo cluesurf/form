@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "f56c3bdd-5cdc-4420-b5d6-7f30f042d195",
+  "title": "E-RLT-0010: vibe's fixed-lattice dispersion recovers Lorentz at low momentum and deforms to a doubly-special form...",
+  "purpose": "Experiment E-RLT-0010 in the relativity arena: vibe's fixed-lattice dispersion recovers Lorentz at low momentum and deforms to a doubly-special form with a cell-scale maximum frequency (D'Ariano), absent in the continuum.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L2 (L2: known physics reproduced on a stated model).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/relativity/doubly-special-dispersion.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-RLT-0010",
+        "quote": null
+      }
+    ]
+  }
+}

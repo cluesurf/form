@@ -1,0 +1,50 @@
+{
+  "record": "proposition",
+  "id": "dce754fd-dd29-45cc-a67c-1297423256ce",
+  "kind": "empirical",
+  "epistemic_status": "hypothesized",
+  "title": "PC-03: low-multipole suppression in the CMB from a finite hyperbolic substrate",
+  "statements": [
+    {
+      "id": "d04c6253-3193-4119-a7e1-62edc055dd71",
+      "text": "Low-multipole suppression in the CMB from a finite hyperbolic substrate.",
+      "language": "en",
+      "scope": "a prediction candidate, not a frozen prediction row",
+      "conditions": "Where it stands: E-CSM-0051, on a {7,3} tiling, finds the suppression is a generic finite-size effect and reports the hyperbolic-persistence conjecture falsified. No preferred-axis experiment exists. What it needs: a suppression specific to {3,4,3,4}, set against the measured low-$\\ell$ power.",
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-22"
+    }
+  ],
+  "current_statement": "d04c6253-3193-4119-a7e1-62edc055dd71",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": {
+    "value": "open",
+    "reason": "a candidate: it has not passed the prediction gate",
+    "basis": [],
+    "proposal": null
+  },
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "research/prediction.ts PC-03",
+        "quote": null
+      }
+    ]
+  }
+}

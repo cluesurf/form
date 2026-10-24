@@ -1,0 +1,45 @@
+{
+  "record": "proposition",
+  "id": "70e3bf2b-27b5-4330-97cd-9e7be6326c9a",
+  "kind": "philosophical",
+  "epistemic_status": "designed",
+  "title": "The theorem asks only for an attribution at a time",
+  "statements": [
+    {
+      "id": "d624249c-0ede-44c8-91b0-d66a6ac82e03",
+      "text": "The theorem assumes only that a theory gives a consciousness attribution at a specified time. It does not assume that consciousness is instantaneous, and does not deny that experience may be temporally extended.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "d624249c-0ede-44c8-91b0-d66a6ac82e03",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "ac2774e1-a04c-4c89-9db2-7848c6f5ce0b",
+        "locator": "section 1",
+        "quote": "it does not assume that consciousness itself is instantaneous or deny that experience may be temporally extended"
+      }
+    ]
+  }
+}

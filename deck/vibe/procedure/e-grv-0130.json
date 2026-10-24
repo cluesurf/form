@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "b9d82b35-6059-4a45-9848-14377a80f9f7",
+  "title": "E-GRV-0130: one plaquette move on the held trio's energy lines keeps Gauss exactly and relaxes their curl, but as a...",
+  "purpose": "Experiment E-GRV-0130 in the gravity arena: one plaquette move on the held trio's energy lines keeps Gauss exactly and relaxes their curl, but as a reversible wave it reaches the depth only slowly, fail on P2 (and on P1 and P4 through the pair control's window): on E-GRV-0127's source with kappa 14/63 the trio's arms keep div E equal to the bare drag's on every dock and beat, never wrap and run back bit for bit, and the curl near the source falls to 0.033 of the tube's; the 64-beat field drops from 98.8 to 22.3 percent divergence free, but its summed depth gives k 0.0062 against 0.0307 (0.19 of the lines' own Poisson k 0.0325; 0.74 over 128 beats), because the wave moves its curl around the torus without losing it; the drift string carried mod 3 gives no monopole (k -0.0014, the trio is Z3 neutral); the move spreads a string instead of bending it (on-line share 1.00 to 0.03, no line over 0.81 off the line); the bare arm reproduces k -0.2364 and the spreading pair misses (0.321), but its husk lines reach 8 and wrap the 9-line window, which breaks Gauss on that control's arm.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L2 (L2: known physics reproduced on a stated model).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/gravity/trio-line-plaquette-depth.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-GRV-0130",
+        "quote": null
+      }
+    ]
+  }
+}

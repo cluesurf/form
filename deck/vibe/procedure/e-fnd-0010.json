@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "473c671a-b64a-47c0-9a27-fd3e44bf8ff3",
+  "title": "E-FND-0010: a negative-control battery, each property test catches a deliberately broken rule",
+  "purpose": "Experiment E-FND-0010 in the foundations arena: a negative-control battery, each property test catches a deliberately broken rule.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L1 (L1: known mathematics, correctly confirmed).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/foundations/controls-battery.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-FND-0010",
+        "quote": null
+      }
+    ]
+  }
+}

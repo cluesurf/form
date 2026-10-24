@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "384ead7b-6978-4bf9-9d98-797025fb881b",
+  "title": "E-FND-0157: a disturbance of the full sea reaches every line and every dock under the dock-wide mixer, exactly: on...",
+  "purpose": "Experiment E-FND-0157 in the foundations arena: a disturbance of the full sea reaches every line and every dock under the dock-wide mixer, exactly: on the register rule (E-SPN-0160) and its chiral Wilson variant, one member (a hole of the sea, by E-SPN-0163) started on one slot holds a nonzero amplitude on all 12 lines of every dock of D4 boxes of side 4 and 6, proved mod p in the map Z[w][1/42] -> $F_p$, inside a cone of two root steps a cycle; the run reverses exactly, commutes with every translation (momentum as the Noether charge of translation is kept exactly, while the root sum, a velocity, is not), and keeps the full sea as one branch with unit amplitude; with no mixer the start returns to its slot and with a mixer inside one line the reach is one line, which is the line law of the adopted knit.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L2 (L2: known physics reproduced on a stated model).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/foundations/sea-reach.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-FND-0157",
+        "quote": null
+      }
+    ]
+  }
+}

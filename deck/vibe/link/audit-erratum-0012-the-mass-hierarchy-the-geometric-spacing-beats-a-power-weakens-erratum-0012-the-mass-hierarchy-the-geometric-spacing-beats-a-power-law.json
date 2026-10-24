@@ -1,0 +1,28 @@
+{
+  "record": "link",
+  "id": "7bd91907-cc14-4300-aa62-98ef2ebe8e5d",
+  "from": "ddaf9b62-fbb7-4049-a48d-92a23210bcc7",
+  "to": "cb4b4ff2-ff64-4607-a290-14f4fc1f22dd",
+  "relation": "weakens",
+  "strength": null,
+  "rationale": "the 2026-08-31 audit: a consistency check, not a derivation",
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "research/paper.ts ERRATA",
+        "quote": null
+      }
+    ]
+  }
+}

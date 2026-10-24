@@ -1,0 +1,45 @@
+{
+  "record": "proposition",
+  "id": "7110befd-f85e-4040-a198-6d9ff07dd9b3",
+  "kind": "empirical",
+  "epistemic_status": "hypothesized",
+  "title": "The molecular scale is not always the best model of biology",
+  "statements": [
+    {
+      "id": "dde8c23d-63dd-484a-9375-c04725ab2535",
+      "text": "The assumption that molecular interactions give the most effective description of biological processes can be tested, and coarser models often reduce noise and give an experimenter more information about what affects what.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-23"
+    }
+  ],
+  "current_statement": "dde8c23d-63dd-484a-9375-c04725ab2535",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "6f63aea4-d10a-4463-b181-5f13f525dd17",
+        "locator": "abstract",
+        "quote": "It is generally assumed that the most effective description of these processes is in terms of molecular interactions."
+      }
+    ]
+  }
+}

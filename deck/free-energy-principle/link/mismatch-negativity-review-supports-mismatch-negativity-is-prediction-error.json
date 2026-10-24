@@ -1,0 +1,28 @@
+{
+  "record": "link",
+  "id": "2a183443-cd5c-4e29-86ee-ff72449e70a8",
+  "from": "0067d47d-9402-4284-a3d4-e35daee79229",
+  "to": "f871a722-c5fb-4065-848c-ee180113b0b5",
+  "relation": "supports",
+  "strength": 0.4,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "fa171de0-e5de-44aa-8b15-739f50ee933b",
+        "locator": "abstract",
+        "quote": "This paper presents a review of studies that focus on neuronal mechanisms underlying the MMN generation, discusses the two major explanatory hypotheses, and proposes predictive coding as a general framework that attempts to unify both."
+      }
+    ]
+  }
+}

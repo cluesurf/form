@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "356db948-88d1-4e1f-a313-522d030f3715",
+  "title": "E-SPN-0114: the string-bound love-fear meson on the joint path D = 2 D(n), its band read in K steps set by its own...",
+  "purpose": "Experiment E-SPN-0114 in the spin arena: the string-bound love-fear meson on the joint path D = 2 D(n), its band read in K steps set by its own quantum metric (Var(d)/4 + $g_B / 2$, predicted rotation at most 1e-3 per step: pi/57 at n = 1 to pi/931 at n = 16) up to K = E_rest, fails: the metric predicts the measured per-step loss to 0.97 to 1.14, but at n = 4, 8, 16 the band drops under 0.99 at one step (K 0.244, 0.216, 0.084, a narrow crossing, not the step size), so the held gate fails; the total m*/E_rest still falls 1.793, 1.112, 1.024, 1.004, 1.003, and the top speed misses cos m at every n (0.354 against 0.500 at n = 1); E-SPN-0113 reproduced, no cost holds nothing, and the scaled step agrees with pi/64 at n = 1, 2.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L2 (L2: known physics reproduced on a stated model).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/spin/meson-scaled-step.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-SPN-0114",
+        "quote": null
+      }
+    ]
+  }
+}

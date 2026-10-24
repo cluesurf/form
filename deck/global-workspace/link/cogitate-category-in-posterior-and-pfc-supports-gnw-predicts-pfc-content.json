@@ -1,0 +1,28 @@
+{
+  "record": "link",
+  "id": "96bc40da-6341-4ff4-8e37-c97f8a319d15",
+  "from": "4b35ae2d-385b-473d-8737-798df94dacb6",
+  "to": "34e0e798-3df3-44f4-b361-54ed55a7afb3",
+  "relation": "supports",
+  "strength": 0.5,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "dbe9b66c-4ffb-4615-9fd2-aa5c75424db8",
+        "locator": "Results, decoding of conscious content",
+        "quote": "Hence, across modalities, face–object decoding occurred in both posterior and prefrontal ROIs, consistent with IIT and GNWT predictions."
+      }
+    ]
+  }
+}

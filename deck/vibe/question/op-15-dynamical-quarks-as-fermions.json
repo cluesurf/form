@@ -1,0 +1,26 @@
+{
+  "record": "question",
+  "id": "1cf35a1f-9bb1-490d-aca9-29f3f458cf56",
+  "text": "Can the dynamical color matter on the Sigma(648) automaton be fermions in a dilute regime, and screen at every separation?",
+  "kind": "missing_evidence",
+  "status": "open",
+  "parent": null,
+  "description": "OP-15: dynamical quarks as fermions.\n\nKnown: triplets that hop break the center (<Re P> = 0.0853 against 0.0005) and screen a static pair, but the matter is a classical color vector (the gauge-Higgs form), it condenses (0.998 of sites), no dilute regime exists at this bond scale, and the R = 3 screening gate fails by 3.02 standard errors against a gate of 3 (E-FRC-0138, E-FRC-0139).\n\nUnknown: fermion matter on the automaton, a dilute regime, and the screening gate at half the box.\n\nWhy it matters: string breaking by dynamical quarks is a reproduction in R-FRC-0001 and not yet a measurement of the base.\n\nScope: a bond and mass grid, then larger boxes.\n\nSkills: lattice gauge theory, fermion algorithms.\n\nWhere to start: test/experiment/gauge/finite-color-quarks.ts; test/experiment/gauge/finite-color-screening.ts.\n\nThe claims it would move: R-FRC-0006.\n\nEvidence named: E-FRC-0138, E-FRC-0139.",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "research/problem.ts OP-15",
+        "quote": null
+      }
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "record": "link",
+  "id": "efff99a1-c12b-4637-95b1-cf94ece50434",
+  "from": "826d85ad-45dc-43a3-8258-6c5a85d5b8fd",
+  "to": "6f1b6ed0-2632-4592-9aa3-5f36bd4f6623",
+  "relation": "requires",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "48959277-86d2-4076-9942-58a24f753040",
+        "locator": "The GNW and Other Theories of Consciousness, p. 789",
+        "quote": "brings into question the very distinction between phenomenal and access consciousness"
+      }
+    ]
+  }
+}

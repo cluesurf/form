@@ -1,0 +1,50 @@
+{
+  "record": "proposition",
+  "id": "fe84cdaf-4167-4497-8f6a-b43309d0c77f",
+  "kind": "empirical",
+  "epistemic_status": "inferred",
+  "title": "The cerebellum does not contribute to consciousness",
+  "statements": [
+    {
+      "id": "8136bc63-9566-418d-8fba-29e355b07b4c",
+      "text": "The cerebellum has several times more neurons than the cerebral cortex but does not contribute to consciousness, because its modular organization yields low integrated information.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-23"
+    }
+  ],
+  "current_statement": "8136bc63-9566-418d-8fba-29e355b07b4c",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "cd180db3-bb1d-4ab0-814c-72898fb077ef",
+        "locator": "abstract",
+        "quote": "why the cerebral cortex gives rise to consciousness but the cerebellum does not, though it has even more neurons and appears to be just as complicated."
+      },
+      {
+        "source": "8443eb2e-406e-4acc-94e8-33cbabbd3679",
+        "locator": "section on substrates (full text)",
+        "quote": "Intriguingly, a brain region such as the cerebellum, whose anatomical organization is highly modular, does not contribute to consciousness [44, 45]"
+      }
+    ]
+  }
+}

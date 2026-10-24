@@ -1,0 +1,45 @@
+{
+  "record": "proposition",
+  "id": "52885c43-259e-4b14-9261-817547fafc21",
+  "kind": "empirical",
+  "epistemic_status": "hypothesized",
+  "title": "The instinct to change is also destructive",
+  "statements": [
+    {
+      "id": "e15fbbce-74d0-4832-9e17-21d88f1a9920",
+      "text": "When two people or societies hold conflicting views of how the world should be, the instinct can lead to conflict or war, the price of its success.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "e15fbbce-74d0-4832-9e17-21d88f1a9920",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "983ce19a-a7da-4801-9728-4eca49c1b243",
+        "locator": "Result",
+        "quote": "When 2 people or societies have conflicting views of what the world should look like, it can lead to conflicts or even wars."
+      }
+    ]
+  }
+}

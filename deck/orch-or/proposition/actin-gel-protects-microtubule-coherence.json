@@ -1,0 +1,45 @@
+{
+  "record": "proposition",
+  "id": "79f1ab9d-70f5-4428-872a-7c776b15c01a",
+  "kind": "empirical",
+  "epistemic_status": "hypothesized",
+  "title": "Actin gel protects microtubule coherence",
+  "statements": [
+    {
+      "id": "15f81745-121c-4b91-98bb-dfc4c049a43e",
+      "text": "Dendritic microtubules are intermittently surrounded by tight actin gel, whose cycles of gelation, driven by calcium flux, shield quantum coherence and track gamma EEG.",
+      "language": "en",
+      "scope": "predictions 11 to 13 of 20, called moot by the authors in 2014",
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-23"
+    }
+  ],
+  "current_statement": "15f81745-121c-4b91-98bb-dfc4c049a43e",
+  "status": "archived",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "c0602528-f093-4705-abc3-e13d7657a680",
+        "locator": "section 5.7, predictions 11 to 13",
+        "quote": "This is perhaps a moot point, now, in view of recent results by Bandyopadhyay’s group, as it now appears that coherence occurs at warm temperature without actin gel."
+      }
+    ]
+  }
+}

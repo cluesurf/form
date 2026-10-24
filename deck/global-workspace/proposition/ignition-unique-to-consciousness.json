@@ -1,0 +1,45 @@
+{
+  "record": "proposition",
+  "id": "34addf56-c0ff-480f-b1a4-c26ddcc93cab",
+  "kind": "empirical",
+  "epistemic_status": "hypothesized",
+  "title": "Global ignition is unique to conscious states",
+  "statements": [
+    {
+      "id": "92805e62-c93f-4d93-9527-22d1e0b994d9",
+      "text": "Global ignition occurs only for conscious contents: nonconscious stimuli do not reproducibly evoke intense prefrontal activation, P3b waves, or late distributed brain-scale synchronization.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": "Nonconscious stimuli found to reproducibly evoke intense PFC activations, P3b waves, or late and distributed patterns of brain-scale synchronization.",
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-23"
+    }
+  ],
+  "current_statement": "92805e62-c93f-4d93-9527-22d1e0b994d9",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "2374e38b-3bde-4e20-9ad5-8edab14a34c3",
+        "locator": "Can Nonconscious Stimuli Produce a Global Ignition?",
+        "quote": "Another pillar of the proposed theoretical synthesis is that global ignition is unique to conscious states."
+      }
+    ]
+  }
+}

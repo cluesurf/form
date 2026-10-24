@@ -1,0 +1,50 @@
+{
+  "record": "proposition",
+  "id": "93a1814a-fa24-4455-a033-6feaeaa59026",
+  "kind": "empirical",
+  "epistemic_status": "simulated",
+  "title": "E-FLD-0020: the committed rule conserves charge exactly and its long-wavelength charge modes obey a law nothing...",
+  "statements": [
+    {
+      "id": "f28f61b1-9335-452e-8566-52e2ce7b312e",
+      "text": "The committed rule conserves charge exactly and its long-wavelength charge modes obey a law nothing typed in: the propagating half moves at exactly one cell per beat (omega = k) and the mode relaxes at a rate that does not depend on wavelength (Gamma about 0.0015 per beat, exponent near 0 over k = 0.57 to 2.79 at two sizes), neither diffusive (2) nor a damped front (1), at each of four background densities (Gamma 0.0011 to 0.0022 rising with the empty fraction), a nearly collisionless gas whose diffusive regime lies beyond every mesh run here, while pure streaming relaxes nothing. The rate spread across k is the sampling scatter of one background, and the rate depends on direction (1.8 times faster along axis 1 than axis 0).",
+      "language": "en",
+      "scope": "experiment E-FLD-0020, arena fluids, depth L3 (L3: one base rule produced the result as a measured consequence, with a computed control that could have failed)",
+      "conditions": "substrates: 3434. In a paper: false",
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-22"
+    }
+  ],
+  "current_statement": "f28f61b1-9335-452e-8566-52e2ce7b312e",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": {
+    "value": "open",
+    "reason": "holds in the vibe claim graph",
+    "basis": [],
+    "proposal": null
+  },
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "research/objection.ts",
+        "quote": null
+      }
+    ]
+  }
+}

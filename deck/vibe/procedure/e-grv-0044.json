@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "cc51ac9f-4cde-4900-b6d6-760fa00569cc",
+  "title": "E-GRV-0044: the standard quadrupole strain formula h = (2G/r) Qddot is internally consistent: numerical exponent...",
+  "purpose": "Experiment E-GRV-0044 in the gravity arena: the standard quadrupole strain formula h = (2G/r) Qddot is internally consistent: numerical exponent extraction on the stated formula recovers $G^1 r^{-1}$ omega^2 $a^2 \\mu ^1$ exactly (a dimensional-analysis check of the formula, not a measurement of substrate radiation), and the same extraction on a dipole formula h = (2G/r) Ddot gives omega^1 $a^1$, so the extraction machinery discriminates quadrupole from dipole scaling.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L1 (L1: known mathematics, correctly confirmed).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/gravity/quadrupole-amplitude-scale.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-GRV-0044",
+        "quote": null
+      }
+    ]
+  }
+}

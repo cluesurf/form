@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "cc6955d6-56af-4ae5-8bc6-be4e973f5ace",
+  "title": "E-FND-0055: the wake is forced as the escape from Poincare recurrence: the reversible knit is a bijection on a...",
+  "purpose": "Experiment E-FND-0055 in the foundations arena: the wake is forced as the escape from Poincare recurrence: the reversible knit is a bijection on a finite mesh, so every state recurs with a finite (state-dependent, 12/132/60) period, a return to a past state that bounds the accumulated distinction, so unbounded distinction accumulation is impossible on a fixed mesh and only growth escapes it, which is the wake, whose record count grows without bound.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L2 (L2: known physics reproduced on a stated model).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/foundations/recurrence-forces-wake.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-FND-0055",
+        "quote": null
+      }
+    ]
+  }
+}

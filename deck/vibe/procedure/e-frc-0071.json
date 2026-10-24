@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "ee172c33-0a19-4095-a025-ce9112c88254",
+  "title": "E-FRC-0071: the family symmetry group is the full S3 (all six family permutations, uniform multiplicity) from the...",
+  "purpose": "Experiment E-FRC-0071 in the gauge arena: the family symmetry group is the full S3 (all six family permutations, uniform multiplicity) from the order-24 stabilizer of the preferred unit inside the order-168 automorphism group, with a Klein four-group kernel, refining the order-three result.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L1 (L1: known mathematics, correctly confirmed).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/gauge/family-symmetry-group.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-FRC-0071",
+        "quote": null
+      }
+    ]
+  }
+}

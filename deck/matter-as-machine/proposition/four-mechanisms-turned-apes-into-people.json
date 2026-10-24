@@ -1,0 +1,50 @@
+{
+  "record": "proposition",
+  "id": "c91cd20c-7702-454b-8d6a-b39b05371aa0",
+  "kind": "empirical",
+  "epistemic_status": "hypothesized",
+  "title": "Four mechanisms turned apes into people",
+  "statements": [
+    {
+      "id": "dcaf4875-36aa-4be6-b614-3ad9c16947de",
+      "text": "Four mechanisms are behind the change from apes to people and the building of civilization: random or pseudorandom idea generation, random or pseudorandom bias assignment through eureka moments, the instinct to change the world, and depression when that need goes unmet for too long, which is the self-selection mechanism.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "dcaf4875-36aa-4be6-b614-3ad9c16947de",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "983ce19a-a7da-4801-9728-4eca49c1b243",
+        "locator": "Ideas and biases",
+        "quote": "So I claim that there are 4 mechanisms involved:"
+      },
+      {
+        "source": "983ce19a-a7da-4801-9728-4eca49c1b243",
+        "locator": "Ideas and biases",
+        "quote": "are the reason apes turned into humans and the reason why humans built civilization."
+      }
+    ]
+  }
+}

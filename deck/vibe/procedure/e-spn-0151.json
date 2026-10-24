@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "0ae761f9-d5f8-42f4-bb32-af6d830359db",
+  "title": "E-SPN-0151: a triangle plaquette term for the Z3 link flux cannot make a tied member light, fail (P1): the...",
+  "purpose": "Experiment E-SPN-0151 in the spin arena: a triangle plaquette term for the Z3 link flux cannot make a tied member light, fail (P1): the Kogut-Susskind piece (order-free, W(F4) covariant, Gauss exact, not inert on the empty register) commutes with the member walk, so the member reduced state is unchanged to 6e-17 at every angle, and D4 motion exists only in the flat sector, where every link flux is uniform and the string tension is exactly 0; the vacuum-inert controlled piece (8 ordered classes, not covariant) does move the member but writes more path record than it erases: at theta 0.0936 it restores 2% of the D4-to-tree difference while 3.4e-2 of the weight leaves the plain string (twice that whole difference), and from theta alpha the string boils past the cost-4 box within 3 beats (0.69 to 1.00 absorbed); Gauss holds on 427,196 patterns, the vacuum and love sea stay exact, and the piece off reproduces E-SPN-0150 bit for bit; Z3 in 4d has a first-order transition, so no light-and-confined window exists.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L2 (L2: known physics reproduced on a stated model).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/spin/flux-plaquette.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-SPN-0151",
+        "quote": null
+      }
+    ]
+  }
+}

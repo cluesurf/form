@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "8093c16f-ba13-4a63-aa06-3534da09d341",
+  "title": "E-SPN-0079: what forces the spinor token's g = 2, a STAND-IN: exactly, in Eisenstein integers, over every schedule...",
+  "purpose": "Experiment E-SPN-0079 in the spin arena: what forces the spinor token's g = 2, a STAND-IN: exactly, in Eisenstein integers, over every schedule of up to 16 beats, neither the husk's turns (a covariant schedule is massless), nor isotropy, nor CPT with the shortest period fixes g (isotropic classes read g = 4, 0, 4/3, 2, 1, the shortest g = 4 at 7 beats); the Dirac square root, no ordering term T = 0, forces g = 2 by theorem, and with CPT and the shortest period it forces the schedule: the 16-beat nested palindrome, the one class.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L2 (L2: known physics reproduced on a stated model).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/spin/g-two-forced.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-SPN-0079",
+        "quote": null
+      }
+    ]
+  }
+}

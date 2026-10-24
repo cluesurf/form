@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "d9b6e197-9fc5-4261-8eb8-6c2ce7fa9106",
+  "title": "E-GRV-0065: no emergent curvature from shared information around a held knot on the adopted knit, fail on K2, K3 and...",
+  "purpose": "Experiment E-GRV-0065 in the gravity arena: no emergent curvature from shared information around a held knot on the adopted knit, fail on K2, K3 and K5: in the settled gas (side 16, 17 starts, 192 beats) a held husk ball of radius 2 leaves the axis-neighbor column correlation at zero within 2.2 errors in every shell r = 3 to 7 (largest -1.27e-3 +- 5.7e-4 at r = 6), as the no-knot vacuum is (within 1.9 errors), so the emergent-distance deficit is a ratio of noise (-1.4 +- 12, -2.6 +- 79, 0.91 +- 0.57, 0.98 +- 0.25, 0.69 +- 0.69), significant in 1 shell far from the knot and never in the innermost shell; the outsides of the dense lump, its charge-flipped copy and the empty knot agree bit for bit on 240 of 240 beats on all 17 members, so the reading is charge blind exactly and the knot's content changes nothing outside exactly (a theorem of the held-knot stand-in, checked); energy, charge and the held trits exact.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L2 (L2: known physics reproduced on a stated model).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/gravity/shared-information-knot.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-GRV-0065",
+        "quote": null
+      }
+    ]
+  }
+}

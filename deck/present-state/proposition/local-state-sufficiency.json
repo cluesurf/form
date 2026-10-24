@@ -1,0 +1,45 @@
+{
+  "record": "proposition",
+  "id": "44d9dfaa-a4ab-418b-8097-092a1c16469c",
+  "kind": "definitional",
+  "epistemic_status": "designed",
+  "title": "Local-state sufficiency",
+  "statements": [
+    {
+      "id": "d4706128-890b-4b2c-8159-2fd4b91105c4",
+      "text": "Local-state sufficiency is complete-state sufficiency joined with locality: a bounded subsystem evolves as fixed by its complete local physical state together with the physical influences entering across its boundary, so past events reach it only through the state they produced and the inputs reaching its boundary.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "d4706128-890b-4b2c-8159-2fd4b91105c4",
+  "status": "active",
+  "voice": "framework",
+  "defines": "local-state sufficiency",
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "ac2774e1-a04c-4c89-9db2-7848c6f5ce0b",
+        "locator": "section 2",
+        "quote": "Past events can therefore influence a subsystem only through the physical state they have produced and the physical inputs reaching its boundary."
+      }
+    ]
+  }
+}

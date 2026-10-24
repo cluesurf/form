@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "da488def-e6dd-4897-a481-5b862a61ac9f",
+  "title": "E-FRC-0154: the center phase and the flux as a conjugate pair: every change of a link's flux twists the link by the...",
+  "purpose": "Experiment E-FRC-0154 in the gauge arena: the center phase and the flux as a conjugate pair: every change of a link's flux twists the link by the center element to that change, in flux loops and in hops, so the phase is E mod 3 relative to the link's untwisted part, reversing exactly, conserving energy to the unit, love and fear, keeping Gauss's law and commuting with a frame change by all 648 elements, with the untwisted part of every link fixed whenever the links do not reflect, where the uncoupled rule breaks that lock, a non-central twist breaks the frame change and an unpaid twist leaks energy.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L2 (L2: known physics reproduced on a stated model).",
+  "status": "completed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/gauge/sigma-conjugate-pair.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "research/result.ts R-FRC-0006",
+        "quote": null
+      }
+    ]
+  }
+}

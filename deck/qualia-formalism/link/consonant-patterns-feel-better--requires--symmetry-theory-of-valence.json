@@ -1,0 +1,28 @@
+{
+  "record": "link",
+  "id": "19dcc014-5154-45ad-8127-12120eed377b",
+  "from": "82b3c28a-af04-47da-b6c0-285dea5f835a",
+  "to": "c82c7c92-5d96-4c1d-96a1-9d1c73416e52",
+  "relation": "requires",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "18748a2a-239c-4c8a-84be-d6db8f91e70d",
+        "locator": "section XI, p. 42",
+        "quote": "Highly consonant/harmonious/symmetric patterns injected directly into the brain should feel dramatically better than similar but dissonant patterns"
+      }
+    ]
+  }
+}

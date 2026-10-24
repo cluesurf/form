@@ -1,0 +1,28 @@
+{
+  "record": "link",
+  "id": "0b1c5ed6-30c1-4898-aca2-8f00d48d5996",
+  "from": "d1f75ebe-f126-4131-b8f5-2e21b0ee7f3a",
+  "to": "f13d3c43-2948-4c0e-beac-1085c35c9802",
+  "relation": "weakens",
+  "strength": null,
+  "rationale": "If functionally equivalent recurrent and feed-forward networks cannot be told apart by any experiment, the claim that one is conscious and the other is not lies outside science.",
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "868e6414-99ce-40b9-be80-5272c419d728",
+        "locator": "abstract",
+        "quote": "Here, using theorems from the theory of computation, we show that causal structure theories are either false or outside the realm of science."
+      }
+    ]
+  }
+}

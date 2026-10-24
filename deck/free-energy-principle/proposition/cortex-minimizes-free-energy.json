@@ -1,0 +1,45 @@
+{
+  "record": "proposition",
+  "id": "de4ece67-abb5-4cf5-9f67-d376a867e846",
+  "kind": "empirical",
+  "epistemic_status": "hypothesized",
+  "title": "Cortical responses minimize the free energy of a stimulus",
+  "statements": [
+    {
+      "id": "484654ef-fdbe-4b9e-aa63-191b44b3cc78",
+      "text": "Evoked cortical responses are the brain trying to minimize the free energy a stimulus induces, which encodes the most likely cause of that stimulus. Inference and learning in the sensory brain rest on the same principle.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-23"
+    }
+  ],
+  "current_statement": "484654ef-fdbe-4b9e-aa63-191b44b3cc78",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "a6941f16-a2de-4b67-b9c7-f026073173fc",
+        "locator": "abstract",
+        "quote": "Cortical responses can be seen as the brain’s attempt to minimize the free energy induced by a stimulus and thereby encode the most likely cause of that stimulus."
+      }
+    ]
+  }
+}

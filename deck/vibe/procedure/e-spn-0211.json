@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "6bfbac4c-2d34-41f2-bd05-0b5190f9236e",
+  "title": "E-SPN-0211: explores whether the light register pair's remaining excess inertia scales as its internal speed: the...",
+  "purpose": "Experiment E-SPN-0211 in the spin arena: explores whether the light register pair's remaining excess inertia scales as its internal speed: the member's mass varied at fixed $a_B$ 8 with the contact well removed: fail, the remainder 0.533, 0.143, 0.191 at m 0.284, 0.427, 0.474 is not one power of the speed.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L2 (L2: known physics reproduced on a stated model).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/spin/register-pair-mass-scan.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-SPN-0211",
+        "quote": null
+      }
+    ]
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "2b8fd93b-f13e-470f-8ef8-3bbcb8feb1e1",
+  "title": "E-SPN-0197: g of the light wall pair from its Landau zero level: E-FRC-0267's chiral slab at L = 8 to 20 in a...",
+  "purpose": "Experiment E-SPN-0197 in the spin arena: g of the light wall pair from its Landau zero level: E-FRC-0267's chiral slab at L = 8 to 20 in a uniform field in the tangent (0, 1) plane (qa 48, 64, 96), the half gap of the wall-A/wall-B zero-level pair read against the leak delta, testing whether the Pauli coupling kappa_P falls with the leak (chirally protected, $a_w$ second order in delta / Lambda) or tends to a constant (first order).",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L2 (L2: known physics reproduced on a stated model).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/spin/wall-g-factor.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-SPN-0197",
+        "quote": null
+      }
+    ]
+  }
+}

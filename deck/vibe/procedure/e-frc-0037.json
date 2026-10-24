@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "41ec6d02-f4ee-47b5-89bf-a2c83540a3ea",
+  "title": "E-FRC-0037: the neutrino seesaw, the so(10) 16-spinor right-handed neutrino gives the observed 0.05 eV scale, the...",
+  "purpose": "Experiment E-FRC-0037 in the gauge arena: the neutrino seesaw, the so(10) 16-spinor right-handed neutrino gives the observed 0.05 eV scale, the su(5) 15 (no singlet) the control.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L2 (L2: known physics reproduced on a stated model).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/gauge/neutrino-seesaw.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-FRC-0037",
+        "quote": null
+      }
+    ]
+  }
+}

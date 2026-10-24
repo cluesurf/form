@@ -1,0 +1,28 @@
+{
+  "record": "link",
+  "id": "95e864bd-6661-4de3-a164-b9e3e6862729",
+  "from": "60670018-6e29-4d5d-9ebf-d90424d1eeb5",
+  "to": "b848d1ee-99e4-4f60-a92f-4043391143e2",
+  "relation": "requires",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "8443eb2e-406e-4acc-94e8-33cbabbd3679",
+        "locator": "section \"Postulates of physical existence\" (full text)",
+        "quote": "The substrate of consciousness can be characterized operationally by cause–effect power: its units must take and make a difference."
+      }
+    ]
+  }
+}

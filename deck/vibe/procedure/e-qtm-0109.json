@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "4968ff0c-a18f-41ea-8526-b7051d923354",
+  "title": "E-QTM-0109: the fear weave's color mode on the hop-free color turn weave, fail at the default integer link start...",
+  "purpose": "Experiment E-QTM-0109 in the quantum arena: the fear weave's color mode on the hop-free color turn weave, fail at the default integer link start (E-MTH-0027), and pass on 10 of 17 starts of E-MTH-0028's family: the knit matches the color turn weave at every slot, every token keeps its sign for life, the knots stay pure and under a third fear, reverse exactly, keep love minus fear, interfere 1/3, 1/3, 1 against 1/3 dephased and violate CHSH at 2.55 against 2, and stored as their departure from calm times omega^q they read back unchanged at every beat; 6 of the 7 failing starts are ones where the searched vacuum pair makes no fear and the frame control (the swap phase at love-fear meetings) reads 0, uninformative rather than a failure; the seventh (integer+8) is the grower search returning a love-fear pair (charge 0), where the like pair (17, 18) passes every gate.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L2 (L2: known physics reproduced on a stated model).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/quantum/fear-turn-weave.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-QTM-0109",
+        "quote": null
+      }
+    ]
+  }
+}

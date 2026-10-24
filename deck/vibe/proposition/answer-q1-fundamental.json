@@ -1,0 +1,60 @@
+{
+  "record": "proposition",
+  "id": "42df4127-8ced-4727-b9cd-78e32c9df11d",
+  "kind": "philosophical",
+  "epistemic_status": "designed",
+  "title": "Answer: experience, on a small discrete base of five things",
+  "statements": [
+    {
+      "id": "08a31a53-158b-4194-85d2-c5de00a36325",
+      "text": "Experience is fundamental, carried by a small discrete base of five things: the four-dimensional hyperbolic honeycomb $\\lbrace3,4,3,4\\rbrace$, whose every site holds 24 values of three tones, one deterministic, reversible, integer perception rule, growth, and the arrow. The three tones, pain, peace and pleasure, are what is felt, and nothing sits beneath them. The base is a choice under test, never fixed: it is the simplest one found so far, and it changes when a test shows a simpler or better choice works or that a current one cannot.",
+      "language": "en",
+      "scope": "the base as chosen today. The premise that it is experience is assumed, and the five things are the program's committed choices",
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "08a31a53-158b-4194-85d2-c5de00a36325",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": {
+    "value": "open",
+    "reason": "vibe's own answer to the questionnaire",
+    "basis": [],
+    "proposal": null
+  },
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "7d868dbb-9fb1-455b-8d46-8cf0dce8e24e",
+        "locator": "The goal",
+        "quote": "one deterministic, reversible, integer perception rule, growth, and the arrow"
+      },
+      {
+        "source": "7d868dbb-9fb1-455b-8d46-8cf0dce8e24e",
+        "locator": "The goal",
+        "quote": "Vibe starts from an assumption, not a result: experience is at the base of reality."
+      },
+      {
+        "source": "7d868dbb-9fb1-455b-8d46-8cf0dce8e24e",
+        "locator": "The goal",
+        "quote": "Nothing in the base is fixed."
+      }
+    ]
+  }
+}

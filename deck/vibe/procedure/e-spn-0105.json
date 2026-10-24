@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "658fc54e-ce08-4852-ba0c-050a791391b7",
+  "title": "E-SPN-0105: E-SPN-0104's held three-love level carries momentum as a unit, but its inertia is 74 times its rest...",
+  "purpose": "Experiment E-SPN-0105 in the spin arena: E-SPN-0104's held three-love level carries momentum as a unit, but its inertia is 74 times its rest energy, fail on M3: boosted to K = 0 .. pi/2 on the side-16 axis line's 32-position cover (the ring's holonomy takes point 0 to 3 and back), the working rule with the drift cost and the fermion sign holds it at every K (least fidelity 0.99976 over 128 beats), its energies follow the stand-in's band to 2e-6, its transported centroid moves at dE/dK to 4e-4 (up to 0.0297 docks a beat) and two-momentum packets' density at the band's chord to 2e-4; but m* = 1/E''(0) is 24.6 (stand-in 24.1) against E_rest 0.33002 with c = 1, the hyperbola through E_rest would need c = 0.116, and as a Dirac walk m* = tan(1.530) where a lone love's is tan(pi/3): a heavy narrow-band lattice particle, so falling alike is not yet earned; the unbound unit and the bare rule refused (fidelity 0.0004 to 0.18), E-SPN-0104's run reproduced bit for bit, the lone love on its closed form to 1e-14, the ring form equal to the exact rule on a boosted start across the cut to 4e-16.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L2 (L2: known physics reproduced on a stated model).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/spin/moving-level.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-SPN-0105",
+        "quote": null
+      }
+    ]
+  }
+}

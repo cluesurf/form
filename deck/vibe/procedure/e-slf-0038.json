@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "b2e725c0-4ac1-4c8d-92c6-29f19a899c48",
+  "title": "E-SLF-0038: lookahead beats greedy on a barrier when the horizon spans it",
+  "purpose": "Experiment E-SLF-0038 in the selves arena: lookahead beats greedy on a barrier when the horizon spans it.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L0 (L0: circular: the answer reaches the verdict as a typed constant).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/selves/detour-planning.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-SLF-0038",
+        "quote": null
+      }
+    ]
+  }
+}

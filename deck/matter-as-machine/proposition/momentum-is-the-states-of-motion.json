@@ -1,0 +1,45 @@
+{
+  "record": "proposition",
+  "id": "964c94b8-ce48-45e5-8aad-32a73506b120",
+  "kind": "definitional",
+  "epistemic_status": "designed",
+  "title": "Momentum is the states that represent motion",
+  "statements": [
+    {
+      "id": "1b606241-b08b-4b9d-acc5-6511c1062612",
+      "text": "Momentum is the number of states that represent motion.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "1b606241-b08b-4b9d-acc5-6511c1062612",
+  "status": "active",
+  "voice": "framework",
+  "defines": "momentum",
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "f1f9bdb8-14c9-4c62-9e48-01ecc2870699",
+        "locator": "Momentum and conservation of momentum",
+        "quote": "Momentum is the amount of states that represent motion."
+      }
+    ]
+  }
+}

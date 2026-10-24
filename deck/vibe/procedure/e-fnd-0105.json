@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "b195816f-4445-42d8-aae2-b066c5b9352c",
+  "title": "E-FND-0105: the wire-polarization law: the palindrome pairing sets which wall orientations a traveller couples to...",
+  "purpose": "Experiment E-FND-0105 in the foundations arena: the wire-polarization law: the palindrome pairing sets which wall orientations a traveller couples to, measured on all four axes for the cross-plane knit (responses 102 and 88 at the two axes inside its wire plane, support EXACTLY one at every beat at the two axes outside it while crossing those walls repeatedly), so wake-free transmission and selective detection coexist in one knit for the first time with a perfect one-against-a-hundred orientation contrast plus offset selectivity inside the coupled orientation (160 against 102), the canonical same-plane pairing is the degenerate everything-coupled case that made the family look rigid, and the polarized knit keeps exact echo, superposition, and its CPT conjugation, leaving in-flight phase rotation as the one unsupplied ingredient.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L2 (L2: known physics reproduced on a stated model).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/foundations/wire-polarization-law.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-FND-0105",
+        "quote": null
+      }
+    ]
+  }
+}

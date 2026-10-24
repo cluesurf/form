@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "735b3501-9746-44e4-9abe-d452cae0b644",
+  "title": "E-MTH-0007: the {3,4,3,4} shell series derived from its Coxeter group with no build, a(z) =...",
+  "purpose": "Experiment E-MTH-0007 in the method arena: the {3,4,3,4} shell series derived from its Coxeter group with no build, a(z) = $(1 + z)^3 / (1 - 21 z + 51 z^2 - 23 z^3)$, reproduces every measured shell, so the warp factor is exactly the Perron root of the irreducible cubic lambda^3 - 21 lambda^2 + 51 lambda - 23 (Galois group S3, discriminant $96^2 \\times 21$), 7 + 8 sqrt 2 cos(arccos(11 sqrt 2 / 16) / 3), and the conjecture lambda + 1/lambda = 55/3 is false though its root lies 8.3e-5 away (null 0.008).",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L2 (L2: known physics reproduced on a stated model).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/method/warp-factor-from-the-coxeter-group.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-MTH-0007",
+        "quote": null
+      }
+    ]
+  }
+}

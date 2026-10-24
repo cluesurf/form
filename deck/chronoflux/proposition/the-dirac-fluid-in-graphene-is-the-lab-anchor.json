@@ -1,0 +1,50 @@
+{
+  "record": "proposition",
+  "id": "68dee0cd-2617-4b58-9dc8-be2c895aa8c5",
+  "kind": "empirical",
+  "epistemic_status": "hypothesized",
+  "title": "The Dirac fluid in graphene is the laboratory anchor",
+  "statements": [
+    {
+      "id": "850aa40a-4123-4a3a-9ba4-6f3b395f1a81",
+      "text": "Ultra-clean graphene near charge neutrality realizes relativistic hydrodynamic closure in a lab, so it is the arena in which the continuity-first account must turn into measured transport predictions, such as the ratio of coherence time to dissipation time.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "850aa40a-4123-4a3a-9ba4-6f3b395f1a81",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "74dae0ca-ffc6-4827-bce0-5561d176e0ee",
+        "locator": "section 16",
+        "quote": "relativistic hydrodynamic closure is experimentally realised in a finite quantum material."
+      },
+      {
+        "source": "74dae0ca-ffc6-4827-bce0-5561d176e0ee",
+        "locator": "section 16",
+        "quote": "Within the present manuscript these are not claimed as new predictions."
+      }
+    ]
+  }
+}

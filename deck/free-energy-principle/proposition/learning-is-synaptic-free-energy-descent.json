@@ -1,0 +1,50 @@
+{
+  "record": "proposition",
+  "id": "e2855c49-b1dc-4e8e-9ff2-0f9f58775f53",
+  "kind": "empirical",
+  "epistemic_status": "hypothesized",
+  "title": "Learning is synaptic change that lowers free energy",
+  "statements": [
+    {
+      "id": "97c46552-cb18-46bc-8bb1-fb79970f0d69",
+      "text": "Perceptual learning is change in synaptic efficacy that minimizes free energy averaged over stimuli. This predicts associative plasticity and, for dynamic models, spike-timing-dependent plasticity.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-23"
+    }
+  ],
+  "current_statement": "97c46552-cb18-46bc-8bb1-fb79970f0d69",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "a6941f16-a2de-4b67-b9c7-f026073173fc",
+        "locator": "abstract",
+        "quote": "Similarly, learning emerges from changes in synaptic efficacy that minimize the free energy, averaged over all stimuli encountered."
+      },
+      {
+        "source": "a6941f16-a2de-4b67-b9c7-f026073173fc",
+        "locator": "abstract",
+        "quote": "In terms of synaptic physiology, it predicts associative plasticity and, for dynamic models, spike-timing-dependent plasticity."
+      }
+    ]
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "record": "proposition",
+  "id": "0c2259db-e76a-470f-865a-1d0d61fc7d07",
+  "kind": "mathematical",
+  "epistemic_status": "inferred",
+  "title": "Veridical perception can minimize expected fitness",
+  "statements": [
+    {
+      "id": "023f0f70-d7e0-4e7f-a2ee-eb26836e7930",
+      "text": "There is a specific worked example in which veridical perception minimizes expected fitness payoffs.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-23"
+    }
+  ],
+  "current_statement": "023f0f70-d7e0-4e7f-a2ee-eb26836e7930",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "15e904a9-b714-4166-a1df-29884230fe2a",
+        "locator": "abstract, lines 18-20",
+        "quote": "a specific example in which veridical perception minimizes expected fitness payoffs"
+      }
+    ]
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "record": "observation",
+  "id": "af47dfbf-d9aa-4f42-b4f2-aebff51b011c",
+  "kind": "documentary_record",
+  "epistemic_status": "observed",
+  "description": "The self-selection page reports a study in which access to a running wheel restored reproductive function in male meadow voles whose reproduction had been suppressed by short days.",
+  "method": "document_review",
+  "status": "reported",
+  "source": "c01a576c-01a5-46ae-8a4e-5fed54687b5c",
+  "procedure": null,
+  "variable": null,
+  "value": null,
+  "unit": null,
+  "uncertainty": null,
+  "sample_size": null,
+  "replication_count": null,
+  "quality": null,
+  "limitations": "Recorded as the page reports it. The cited study (PubMed 8014921) was not opened for this record.",
+  "conflicts_of_interest": null,
+  "observed_at": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "c01a576c-01a5-46ae-8a4e-5fed54687b5c",
+        "locator": "Direct: Depression",
+        "quote": "access to a running wheel restored reproductive function in males whose reproductive system had been suppressed by short days."
+      }
+    ]
+  }
+}

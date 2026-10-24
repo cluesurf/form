@@ -1,0 +1,28 @@
+{
+  "record": "link",
+  "id": "8d6a3904-63a6-4983-a02f-e359584c7382",
+  "from": "e47aadcb-f881-4a3b-bb08-92040f1ccec3",
+  "to": "f9bffa23-3e9e-4811-ad6a-06bdd3048a14",
+  "relation": "requires",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "951a63ba-fbb2-4b78-af38-52646f22dbe0",
+        "locator": "section 5.1",
+        "quote": "the autonomous path of least action can be expressed as a gradient flow on a variational free energy that can be read as log evidence."
+      }
+    ]
+  }
+}

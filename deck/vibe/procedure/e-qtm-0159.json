@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "90f34dbc-a314-4d56-a706-38fd373762c4",
+  "title": "E-QTM-0159: delayed choice and the eraser on the rule's own gates, partial: a meeting on one arm marks it...",
+  "purpose": "Experiment E-QTM-0159 in the quantum arena: delayed choice and the eraser on the rule's own gates, partial: a meeting on one arm marks it (visibility^2 9/25 -> 9/100 on reading R, 1 -> 1/4 on L); a second meeting of the two AFTER the love's direction is read erases the mark, both marker readings back to the full visibility^2 as a fringe and an anti-fringe, the love's own probabilities exactly unchanged by the later choice; the marker gate is a cube root of the identity, (w U)^3 = I; gates read bit for bit on 17 of 17 starts, the schedule arranged.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L2 (L2: known physics reproduced on a stated model).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/quantum/delayed-choice-eraser.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-QTM-0159",
+        "quote": null
+      }
+    ]
+  }
+}

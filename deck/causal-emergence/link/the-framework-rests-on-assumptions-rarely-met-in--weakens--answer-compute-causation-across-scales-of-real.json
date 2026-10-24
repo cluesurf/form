@@ -1,0 +1,28 @@
+{
+  "record": "link",
+  "id": "5c00f6f3-117b-467c-8144-e4cae9e61846",
+  "from": "608545dd-a6d5-43bf-b0ee-4d26ef0c0a3e",
+  "to": "37a38bce-e27f-41de-8400-94fe642f49f0",
+  "relation": "weakens",
+  "strength": null,
+  "rationale": "If the assumptions are rarely met by data, computing EI across scales of real systems is limited.",
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "4379cf9e-06ad-431d-98bb-a788c79ec880",
+        "locator": "introduction",
+        "quote": "this framework relies on strong assumptions that are rarely satisfied in practice, which severely hinders its applicability"
+      }
+    ]
+  }
+}

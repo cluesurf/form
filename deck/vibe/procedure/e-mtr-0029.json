@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "e869316c-a329-4360-8e93-0042b75a011c",
+  "title": "E-MTR-0029: explores whether the light register pair disperses relativistically along its whole curve and whether...",
+  "purpose": "Experiment E-MTR-0029 in the spin arena: explores whether the light register pair disperses relativistically along its whole curve and whether its internal clock dilates with its centre-of-mass motion (quadrature): the $a_B$ 8 pair with the contact well removed boosted to K 0.04 to 1.6, against the lone member's own lattice band: fail, from K 0.4 up the levels mix with lines closer than the read's resolution, so neither is measured.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L2 (L2: known physics reproduced on a stated model).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/matter/composite-dispersion.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-MTR-0029",
+        "quote": null
+      }
+    ]
+  }
+}

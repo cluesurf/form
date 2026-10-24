@@ -1,0 +1,33 @@
+{
+  "record": "link",
+  "id": "0e72ba58-2e59-4260-a9d0-e3ce96eff050",
+  "from": "f0aa2d47-0957-463c-829c-3641725cc9df",
+  "to": "34addf56-c0ff-480f-b1a4-c26ddcc93cab",
+  "relation": "defines",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "48959277-86d2-4076-9942-58a24f753040",
+        "locator": "Central Tenets and Neuroanatomical Basis of the GNW Hypothesis",
+        "quote": "Ignition is characterized by the sudden, coherent, and exclusive activation of a subset of workspace neurons"
+      },
+      {
+        "source": "48959277-86d2-4076-9942-58a24f753040",
+        "locator": "p. 777",
+        "quote": "the triggering of a sudden collective and reverberant coordinated activity that mediates global broadcasting"
+      }
+    ]
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "record": "observation",
+  "id": "2e12ea2c-57ee-45a1-8f58-f68dbf4ebce6",
+  "kind": "experimental_result",
+  "epistemic_status": "observed",
+  "description": "The perturbational complexity index separated levels of consciousness in single individuals across wakefulness, sleep, anesthesia with three agents, and patients who had emerged from coma.",
+  "method": "instrument",
+  "status": "reported",
+  "source": "c436283a-54a1-4d6f-82d7-f9ab987f993a",
+  "procedure": null,
+  "variable": null,
+  "value": null,
+  "unit": null,
+  "uncertainty": null,
+  "sample_size": null,
+  "replication_count": null,
+  "quality": null,
+  "limitations": "PCI is a proxy inspired by integration and differentiation, not a computation of phi.",
+  "conflicts_of_interest": "Giulio Tononi and Marcello Massimini are co-authors.",
+  "observed_at": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "c436283a-54a1-4d6f-82d7-f9ab987f993a",
+        "locator": "abstract",
+        "quote": "PCI reliably discriminated the level of consciousness in single individuals during wakefulness, sleep, and anesthesia, as well as in patients who had emerged from coma and recovered a minimal level of consciousness."
+      }
+    ]
+  }
+}

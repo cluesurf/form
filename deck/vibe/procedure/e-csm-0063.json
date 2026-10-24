@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "bdd92378-07c0-49ef-9947-3ec974aafec4",
+  "title": "E-CSM-0063: the docks register growth adds a beat are the same whatever the content, but they are not a fixed share...",
+  "purpose": "Experiment E-CSM-0063 in the cosmology arena: the docks register growth adds a beat are the same whatever the content, but they are not a fixed share of the volume, fail on the route's constant as derived (the kill does not fire): on the D4 tori of side 4 and 6 an empty seed, a full seed and a full dock planted at its birth share every birth and never put weight on an unborn dock, because the plain wake reads no state and the stream never outruns it; on the unbounded lattice the births are exactly 8 t (2 $t^2 + 1$) a beat on a ball of (2 t^2 + 2 t + 1)^2, so the births per volume fall about as 4 / t (0.767 to 0.330 over beats 7 to 14), a coasting scale factor proportional to t, not a constant H; E-GRV-0066's gated wake, which reads content, holds a full seed's shells back 16 beats.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L1 (L1: known mathematics, correctly confirmed).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/cosmology/birth-per-volume.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-CSM-0063",
+        "quote": null
+      }
+    ]
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "126197f0-7b7f-4c54-b0b7-33615f694bfe",
+  "title": "E-GMT-0026: vibe's 24-direction coin carries the order-1152 F4 symmetry of the 24-cell that the FCHC lattice gas...",
+  "purpose": "Experiment E-GMT-0026 in the geometry arena: vibe's 24-direction coin carries the order-1152 F4 symmetry of the 24-cell that the FCHC lattice gas needs for isotropy (Margolus), where the naive cubic coins do not.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L2 (L2: known physics reproduced on a stated model).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/geometry/margolus-24-cell-symmetry.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-GMT-0026",
+        "quote": null
+      }
+    ]
+  }
+}

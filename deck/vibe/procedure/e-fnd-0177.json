@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "8e199601-f0e5-479d-8390-93edb527bd1a",
+  "title": "E-FND-0177: a pre-registered survey of the candidate rule discrete choices, partial: of 144 variants (5 coins, the...",
+  "purpose": "Experiment E-FND-0177 in the foundations arena: a pre-registered survey of the candidate rule discrete choices, partial: of 144 variants (5 coins, the in-ring angle and 4 split primes at two exponents, 1 to 3 beat schedules, with and without the Cl+(4) register) 94 hold R = tan m / m to 1e-3 and $K^2$ isotropy to 1e-6, every coin among them, and only 26 keep the held-out one light speed: the swap coin (one beat at every mass, two and three beats at the light masses) and the register; no score prefers the prime 7, and the schedule defect hides under 1e-3 below m 0.05.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L2 (L2: known physics reproduced on a stated model).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/foundations/rule-design-scan.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-FND-0177",
+        "quote": null
+      }
+    ]
+  }
+}

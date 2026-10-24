@@ -1,0 +1,45 @@
+{
+  "record": "proposition",
+  "id": "28df8088-7867-4072-afd2-70ca83187535",
+  "kind": "philosophical",
+  "epistemic_status": "hypothesized",
+  "title": "Each mental state is a physical brain state",
+  "statements": [
+    {
+      "id": "05cdd172-11ff-47fe-866f-f71e476969eb",
+      "text": "Within the materialistic framework the theory adopts, each instance of mental activity is also a physical brain state, and the task is to find which brain states go with conscious reports.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-23"
+    }
+  ],
+  "current_statement": "05cdd172-11ff-47fe-866f-f71e476969eb",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "9b21a09b-835f-4256-afbf-19425df2597e",
+        "locator": "section 2, p. 3",
+        "quote": "Within a materialistic framework, each instance of mental activity is also a physical brain state."
+      }
+    ]
+  }
+}

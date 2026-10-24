@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "595d4726-e222-495b-859c-cc8bedf7a42d",
+  "title": "E-SPN-0132: the links' point moves are curvature, not gauge, and the working beat reads them only where a like...",
+  "purpose": "Experiment E-SPN-0132 in the spin arena: the links' point moves are curvature, not gauge, and the working beat reads them only where a like meeting compares two points, open (Q3b undecided): on side 8, 399,485 of 401,408 contractible elementary loops carry a nontrivial ASL(2,3) holonomy (triangles 130,419 of 131,072, squares 73,430 of 73,728, rhombi 195,636 of 196,608, curved at all 4,096 docks, orders 2 to 6, about a quarter fixing no point) and 6,121 of 6,144 rings, while flat and pure-gauge links read 0 and one planted translation curves exactly the 8, 6 and 16 loops through its edge; the working keyed beat, with or without the Pauli mixer, commutes with every frame change (0 slots off) and its occupation is the same on flat links on 4 of 4 paths over 128 beats (0 readings off), so the line law, the contacts, K and the working vacuum's cascade are link-blind and the curvature decides only which like meetings see equal points (111,585 of 1,320,467 against 1,047,847 on flat links) and whether a sea frame is one content, which needs the frame squares to fix a common point (10,820 to 10,870 defects per frame component); on pure-gauge links E-SPN-0130's hole is its flat run bit for bit (0 off, 34 to 39 mesh lines), on the working links a lineon; the love sea holds no opposite charge of a hole, and its Z3-neutral pair, a hole and a fear, is three holes and a store after one beat on every path, so the composite is a three-body question (2.8e9 amplitudes in a route-free window) left undecided.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L1 (L1: known mathematics, correctly confirmed).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/spin/link-holonomy.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-SPN-0132",
+        "quote": null
+      }
+    ]
+  }
+}

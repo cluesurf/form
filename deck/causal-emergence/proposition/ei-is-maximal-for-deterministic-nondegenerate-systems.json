@@ -1,0 +1,45 @@
+{
+  "record": "proposition",
+  "id": "2acc6ee8-02ba-477f-b594-f6a755ca68c1",
+  "kind": "mathematical",
+  "epistemic_status": "inferred",
+  "title": "EI is maximal for deterministic, nondegenerate systems",
+  "statements": [
+    {
+      "id": "82a68f0a-d36f-462e-a840-404fdd8f08d2",
+      "text": "Effective information is maximal for a system that is deterministic and not degenerate, and decreases with noise (causal divergence) and with degeneracy (causal convergence).",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-23"
+    }
+  ],
+  "current_statement": "82a68f0a-d36f-462e-a840-404fdd8f08d2",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "8360d34d-30cb-44f8-89c9-41768fb53f0d",
+        "locator": "introduction",
+        "quote": "EI is maximal for systems that are deterministic and not degenerate, and decreases with noise (causal divergence) and/or degeneracy (causal convergence)."
+      }
+    ]
+  }
+}

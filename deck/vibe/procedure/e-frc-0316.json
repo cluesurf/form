@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "71528e1f-39eb-4149-a892-aed726be418c",
+  "title": "E-FRC-0316: light from a moving source, pass with a period reader that cannot skip (gates fixed before the run): the...",
+  "purpose": "Experiment E-FRC-0316 in the gauge arena: light from a moving source, pass with a period reader that cannot skip (gates fixed before the run): the E-FRC-0315 emitter at 0.124 to 0.622 c sends its front within 0.0072 c of the rest front both ways (the slow-photon rule needs 0.751 to 0 c behind) and its period behind reads 107.98, 119.95, 135.84, 155.84 beats against the mesh Doppler 107.94, 119.88, 135.80, 155.70 (within 0.091 percent), every rise spacing within 0.982 to 1.007 of its median, a negative for light leaving its source at c - v.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L2 (L2: known physics reproduced on a stated model).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/gauge/moving-source-light-speed-envelope.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-FRC-0316",
+        "quote": null
+      }
+    ]
+  }
+}

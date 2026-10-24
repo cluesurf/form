@@ -1,0 +1,45 @@
+{
+  "record": "proposition",
+  "id": "8a230362-9e2b-4450-93f7-c0cdc1400a17",
+  "kind": "definitional",
+  "epistemic_status": "designed",
+  "title": "Vigilance, the intransitive sense",
+  "statements": [
+    {
+      "id": "464d3430-6018-4523-9f1e-462298909761",
+      "text": "Vigilance names the intransitive sense of consciousness, a continuum of states from coma and anesthesia through sleep to wakefulness, kept apart from access to a particular content.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-23"
+    }
+  ],
+  "current_statement": "464d3430-6018-4523-9f1e-462298909761",
+  "status": "active",
+  "voice": "framework",
+  "defines": "vigilance",
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "3d0df20f-34a9-44eb-8975-1eaabe5a7c19",
+        "locator": "section \"An enabling condition: vigilance\"",
+        "quote": "use ‘states of vigilance’ to refer to the non-transitive meaning, i.e. a continuum of states which encompasses wakefulness, sleep, coma, anesthesia, etc."
+      }
+    ]
+  }
+}

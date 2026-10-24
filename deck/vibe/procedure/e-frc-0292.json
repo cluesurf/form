@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "1cebb4b0-187e-4b64-ba38-72a918597653",
+  "title": "E-FRC-0292: explores whether the husk light's own quantum sector, with the R* member coupled by its Peierls shift...",
+  "purpose": "Experiment E-FRC-0292 in the quantum arena: explores whether the husk light's own quantum sector, with the R* member coupled by its Peierls shift, is a massless isotropic photon with Planck's spectrum and a Casimir force, on the largest slice an engine holds: the light's exact quadratic sector on the whole husk; the compact sector (about $N^{8V}$ states) is out of reach, so the whole-husk verdict stays open.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L2 (L2: known physics reproduced on a stated model).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/quantum/husk-light-quantum.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-FRC-0292",
+        "quote": null
+      }
+    ]
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "03d46a93-7359-4b63-a844-daf3151a1bc9",
+  "title": "E-SLF-0176: a state coarse-grains into nested garments each exactly the block-sum of the finer, and the self...",
+  "purpose": "Experiment E-SLF-0176 in the selves arena: a state coarse-grains into nested garments each exactly the block-sum of the finer, and the self total-charge identity is carried in full through every layer and through time under the conserving rule, while a leak dissolves the identity though the nesting stays exact.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L2 (L2: known physics reproduced on a stated model).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/selves/nested-garment-identity.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-SLF-0176",
+        "quote": null
+      }
+    ]
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "7f42c7dc-8a56-4b20-bcda-3dd6fa35f8f0",
+  "title": "E-RLT-0040: the honeycomb two-site cell gives exactly two isolated linear Dirac cones with v = 3/2, the square...",
+  "purpose": "Experiment E-RLT-0040 in the relativity arena: the honeycomb two-site cell gives exactly two isolated linear Dirac cones with v = 3/2, the square lattice gives a Fermi line and a staggered mass gaps them out.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L1 (L1: known mathematics, correctly confirmed).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/relativity/honeycomb-dirac-cones.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-RLT-0040",
+        "quote": null
+      }
+    ]
+  }
+}

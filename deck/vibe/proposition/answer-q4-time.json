@@ -1,0 +1,60 @@
+{
+  "record": "proposition",
+  "id": "fd9b59ae-e320-41b2-b926-d26bec1409b5",
+  "kind": "philosophical",
+  "epistemic_status": "designed",
+  "title": "Answer: time is beats of one reversible rule, with the arrow from the coarse view",
+  "statements": [
+    {
+      "id": "3eb0c6b6-0978-4414-bdcd-0524578aacdf",
+      "text": "Time is beats: whole steps with nothing between them, at each of which every dock applies the one rule at once. The rule is reversible, so a run goes backward exactly, and it has the same cone both ways. The arrow of time is the low-entropy start plus the coarse view: coarse entropy rises forward and under the exact inverse alike, while fine-grained entropy stays exactly constant (E-FND-0146, E-FND-0147).",
+      "language": "en",
+      "scope": "the beat is a construction of the model. The arrow is a simulation result on the working rule over 17 starts",
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "3eb0c6b6-0978-4414-bdcd-0524578aacdf",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": {
+    "value": "open",
+    "reason": "vibe's own answer to the questionnaire",
+    "basis": [],
+    "proposal": null
+  },
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "7d868dbb-9fb1-455b-8d46-8cf0dce8e24e",
+        "locator": "The model, term by term: beat",
+        "quote": "one tick of time. Every dock applies the rule at once"
+      },
+      {
+        "source": "7d868dbb-9fb1-455b-8d46-8cf0dce8e24e",
+        "locator": "The invariants: the arrow of time",
+        "quote": "the same cone both ways, so the arrow is the low-entropy slice plus the coarse map"
+      },
+      {
+        "source": "7d868dbb-9fb1-455b-8d46-8cf0dce8e24e",
+        "locator": "What holds on the current rule: the second law and the arrow",
+        "quote": "coarse entropy rises a thousandfold forward and under the exact inverse alike, fine-grained entropy exactly constant"
+      }
+    ]
+  }
+}

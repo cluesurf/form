@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "df5d7bc2-1cf2-4061-80f7-b15fcb6aaf1d",
+  "title": "E-CSM-0017: grows without bound, stays Lorentz-safe, model always runs",
+  "purpose": "Experiment E-CSM-0017 in the cosmology arena: grows without bound, stays Lorentz-safe, model always runs.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L2 (L2: known physics reproduced on a stated model).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/cosmology/eternal-ladder.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-CSM-0017",
+        "quote": null
+      }
+    ]
+  }
+}

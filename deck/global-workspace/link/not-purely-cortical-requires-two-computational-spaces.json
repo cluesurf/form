@@ -1,0 +1,28 @@
+{
+  "record": "link",
+  "id": "d54f65f8-877e-4624-897f-509ecdaef366",
+  "from": "2a7fbef3-547c-4fe0-9765-aad0b6433464",
+  "to": "9c77870a-b01e-41dc-a7fe-432adb9aac70",
+  "relation": "requires",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "48959277-86d2-4076-9942-58a24f753040",
+        "locator": "Central Tenets",
+        "quote": "conscious access is not a purely cortical phenomenon"
+      }
+    ]
+  }
+}

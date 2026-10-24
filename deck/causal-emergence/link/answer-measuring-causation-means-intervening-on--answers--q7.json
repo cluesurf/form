@@ -1,0 +1,28 @@
+{
+  "record": "link",
+  "id": "bcccff60-8133-412c-9e8a-ee9c33ead0b0",
+  "from": "9e9ae824-6716-4a51-9b67-b3c4bdad1ce0",
+  "to": "1db1bbe9-0f32-4e1f-8237-c8fe26bf268f",
+  "relation": "answers",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "8360d34d-30cb-44f8-89c9-41768fb53f0d",
+        "locator": "Discussion, Emergence as an Intrinsic Property of a System",
+        "quote": "This in no way precludes an observer from profitably investigating the system’s properties at other macro levels"
+      }
+    ]
+  }
+}

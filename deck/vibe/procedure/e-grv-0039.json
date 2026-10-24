@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "d8418140-7d9d-4a84-bef9-40606ff322db",
+  "title": "E-GRV-0039: vibe's conserved tone obeys the discrete continuity law exactly at every coarse-block scale (Chronoflux...",
+  "purpose": "Experiment E-GRV-0039 in the gravity arena: vibe's conserved tone obeys the discrete continuity law exactly at every coarse-block scale (Chronoflux div J = 0), where a lossy rule's residual grows with scale.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L2 (L2: known physics reproduced on a stated model).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/gravity/coarse-continuity-closure.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-GRV-0039",
+        "quote": null
+      }
+    ]
+  }
+}

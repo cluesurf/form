@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "d0a3292d-59c5-47a9-ad28-f304b7080438",
+  "title": "E-SPN-0212: explores whether the lighter register member's large remainder is a lattice artifact: m 0.284 at $a_B$...",
+  "purpose": "Experiment E-SPN-0212 in the spin arena: explores whether the lighter register member's large remainder is a lattice artifact: m 0.284 at $a_B$ 12, the same internal speed as m 0.427 at $a_B$ 8, with the contact well removed.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L2 (L2: known physics reproduced on a stated model).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/spin/register-pair-light-weak.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-SPN-0212",
+        "quote": null
+      }
+    ]
+  }
+}

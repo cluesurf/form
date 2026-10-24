@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "f32ddb63-2c8a-4663-9ae8-54600f8578c1",
+  "title": "E-FRC-0164: a U(1) link sector for the knit, compact U(1) as $Z_{8192}$ with each link's angle beside its integer...",
+  "purpose": "Experiment E-FRC-0164 in the gauge arena: a U(1) link sector for the knit, compact U(1) as $Z_{8192}$ with each link's angle beside its integer flux: as a leapfrog of two shears it reverses exactly, keeps Gauss's law with the vibes as sources at every dock and beat, commutes with a $Z_N$ frame change in every dock and drags a hopping charge's flux, with its shadow energy bounded but slowly heated by the rounding of the force, and as demon-paid involutions it does the same with the energy conserved to the unit.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L2 (L2: known physics reproduced on a stated model).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/gauge/photon-links.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-FRC-0164",
+        "quote": null
+      }
+    ]
+  }
+}

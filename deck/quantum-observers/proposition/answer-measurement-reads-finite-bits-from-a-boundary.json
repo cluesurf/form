@@ -1,0 +1,45 @@
+{
+  "record": "proposition",
+  "id": "9815e697-f700-46cd-83b7-46dc9e5b4120",
+  "kind": "philosophical",
+  "epistemic_status": "inferred",
+  "title": "Answer: measurement reads finite bits from a boundary",
+  "statements": [
+    {
+      "id": "861bcbae-828f-4d85-87a7-d94389654a6e",
+      "text": "Measurement is an observer reading a finite string of bits from its holographic screen through a quantum reference frame and writing it to memory at a thermodynamic cost. It is always active and always relative to that observer.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-23"
+    }
+  ],
+  "current_statement": "861bcbae-828f-4d85-87a7-d94389654a6e",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b187d010-15da-4476-b407-2a7922c1dcf1",
+        "locator": "section 3.1",
+        "quote": "The goal of measurement is to obtain recordable, reportable observational outcomes that can be compared to the outcomes of measurements carried out at other times or by other observers."
+      }
+    ]
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "da249957-ad48-4b51-9d42-a0d604ccb124",
+  "title": "E-SPN-0202: does binding make three like-tone register members cross one link together (candidate A'): the...",
+  "purpose": "Experiment E-SPN-0202 in the spin arena: does binding make three like-tone register members cross one link together (candidate A'): the register-symmetric (color singlet) contact start on the register rule, its bound fraction and the same-slot crossing share of its bound level, against 0080's color error on R*'s hash.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L2 (L2: known physics reproduced on a stated model).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/spin/singlet-crossing.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-SPN-0202",
+        "quote": null
+      }
+    ]
+  }
+}

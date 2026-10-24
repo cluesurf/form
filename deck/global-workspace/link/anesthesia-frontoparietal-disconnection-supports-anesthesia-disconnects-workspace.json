@@ -1,0 +1,28 @@
+{
+  "record": "link",
+  "id": "b111bd02-2070-404a-8c59-3a0224f28b21",
+  "from": "73a56d32-82f2-43fd-84d6-65d664e19145",
+  "to": "4c81366c-f493-463f-ab11-4ae25204ccd2",
+  "relation": "supports",
+  "strength": 0.5,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "48959277-86d2-4076-9942-58a24f753040",
+        "locator": "General Anesthesia",
+        "quote": "functionally disconnect the prefrontal cortex and posterior parietal cortices"
+      }
+    ]
+  }
+}

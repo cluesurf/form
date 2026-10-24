@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "2b9f1e44-c90a-4c39-9944-91212539f9f7",
+  "title": "E-SLF-0054: a growing open mesh carries an arrow of time (broken echo, steady gradient) that the closed reversible...",
+  "purpose": "Experiment E-SLF-0054 in the selves arena: a growing open mesh carries an arrow of time (broken echo, steady gradient) that the closed reversible bulk does not.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L2 (L2: known physics reproduced on a stated model).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/selves/growth-arrow-irreversibility.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-SLF-0054",
+        "quote": null
+      }
+    ]
+  }
+}

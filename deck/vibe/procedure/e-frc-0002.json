@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "79c73590-4f66-44ca-a647-b8462d1dd904",
+  "title": "E-FRC-0002: the octonion construction delivers a COMPLETE anomaly-free generation: all six gauge, gravitational, and...",
+  "purpose": "Experiment E-FRC-0002 in the gauge arena: the octonion construction delivers a COMPLETE anomaly-free generation: all six gauge, gravitational, and Witten anomalies cancel on the derived charges, with no exotic extras.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L2 (L2: known physics reproduced on a stated model).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/gauge/anomaly-cancellation-octonion.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-FRC-0002",
+        "quote": null
+      }
+    ]
+  }
+}

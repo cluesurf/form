@@ -1,0 +1,45 @@
+{
+  "record": "proposition",
+  "id": "b23f0989-ee95-4315-80c5-c9935636b45d",
+  "kind": "empirical",
+  "epistemic_status": "hypothesized",
+  "title": "Harmonic consonance is a proxy for symmetry",
+  "statements": [
+    {
+      "id": "867e5932-3952-449b-8df8-43f3840ffb59",
+      "text": "Consonance among a brain's connectome-specific harmonic waves is a good proxy for the symmetry of the mathematical object isomorphic to its experience.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-23"
+    }
+  ],
+  "current_statement": "867e5932-3952-449b-8df8-43f3840ffb59",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "8796a23b-967c-4b26-829c-7ddb7717ca3a",
+        "locator": "main text",
+        "quote": "consonance within a brain's connectome-specific harmonic waves (CSHW) will be a good proxy for the symmetry"
+      }
+    ]
+  }
+}

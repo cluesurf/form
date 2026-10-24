@@ -1,0 +1,39 @@
+{
+  "record": "observation",
+  "id": "8999c632-4082-4055-93f5-cc64e1352c1b",
+  "kind": "simulation_result",
+  "epistemic_status": "simulated",
+  "description": "Using the partial information decomposition and a synergy bias measure on Boolean networks, the synergistic share of mutual information increased at macroscales, including cases with no change in total mutual information.",
+  "method": "simulation",
+  "status": "reported",
+  "source": "32625ac1-6f29-48b7-8006-e55cbd3e61ee",
+  "procedure": null,
+  "variable": null,
+  "value": null,
+  "unit": null,
+  "uncertainty": null,
+  "sample_size": null,
+  "replication_count": null,
+  "quality": null,
+  "limitations": null,
+  "conflicts_of_interest": null,
+  "observed_at": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "32625ac1-6f29-48b7-8006-e55cbd3e61ee",
+        "locator": "abstract",
+        "quote": "by introducing a novel measure of the synergy bias of a given decomposition"
+      }
+    ]
+  }
+}

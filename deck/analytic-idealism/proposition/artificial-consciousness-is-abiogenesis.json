@@ -1,0 +1,45 @@
+{
+  "record": "proposition",
+  "id": "5fa1fe00-d8af-49e8-9035-153850dc0420",
+  "kind": "empirical",
+  "epistemic_status": "inferred",
+  "title": "Artificial consciousness requires abiogenesis",
+  "statements": [
+    {
+      "id": "0e8040a1-f39b-45ae-bd56-850b22a2672f",
+      "text": "If biology is the extrinsic appearance of alters, then creating an individual artificial consciousness is the same task as artificially creating life from inanimate matter. Computers that merely simulate behavior are not alters.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-23"
+    }
+  ],
+  "current_statement": "0e8040a1-f39b-45ae-bd56-850b22a2672f",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "968b7917-52aa-4a69-bb5d-6351cfa6ae34",
+        "locator": "abstract",
+        "quote": "As such, the challenge to artificially create individualized consciousness becomes synonymous with the challenge to artificially induce abiogenesis."
+      }
+    ]
+  }
+}

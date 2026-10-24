@@ -1,0 +1,33 @@
+{
+  "record": "link",
+  "id": "d3d803a0-e9da-41a1-8cef-d129d52baeb8",
+  "from": "d9169d19-a59f-4b5e-a856-fdce524e87c2",
+  "to": "370ed606-0e59-4b85-9d66-27f4949e750c",
+  "relation": "defines",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "3d0df20f-34a9-44eb-8975-1eaabe5a7c19",
+        "locator": "abstract",
+        "quote": "a transient ‘preconscious’ state of activity in which information is potentially accessible, yet not accessed."
+      },
+      {
+        "source": "2374e38b-3bde-4e20-9ad5-8edab14a34c3",
+        "locator": "Major Experimental Paradigms",
+        "quote": "A preconscious stimulus, by contrast, is one that is potentially visible (its energy and duration are such that it could be seen)"
+      }
+    ]
+  }
+}

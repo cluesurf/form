@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "1af263e3-8d92-4abe-bda7-7087a4c247bf",
+  "title": "E-GMT-0015: the {3,4,3,4} D4 lattice is flat: polynomial $r^4$ growth, linear metric, near-zero curvature",
+  "purpose": "Experiment E-GMT-0015 in the geometry arena: the {3,4,3,4} D4 lattice is flat: polynomial $r^4$ growth, linear metric, near-zero curvature.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L1 (L1: known mathematics, correctly confirmed).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/geometry/gm-geometry-3434.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-GMT-0015",
+        "quote": null
+      }
+    ]
+  }
+}

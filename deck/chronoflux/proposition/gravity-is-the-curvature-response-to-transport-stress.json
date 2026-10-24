@@ -1,0 +1,50 @@
+{
+  "record": "proposition",
+  "id": "7164b4c2-15ec-41c7-924e-03dc1ade2b8a",
+  "kind": "empirical",
+  "epistemic_status": "hypothesized",
+  "title": "Gravity is the curvature response to conserved transport stress",
+  "statements": [
+    {
+      "id": "7338a9c5-d41b-40df-b567-394313022a36",
+      "text": "Curvature responds to the stress of the temporal medium through $G_{\\mu\\nu} = k_t T^t_{\\mu\\nu}$, consistent with stress conservation by the Bianchi identity, and the weak-field limit returns Newtonian gravity sourced by temporal density.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "7338a9c5-d41b-40df-b567-394313022a36",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "e9bae950-bb2d-4846-bc12-5f19b8e973a1",
+        "locator": "section 6",
+        "quote": "In this precise sense, gravity is the curvature response of the manifold to conserved transport stress."
+      },
+      {
+        "source": "e9bae950-bb2d-4846-bc12-5f19b8e973a1",
+        "locator": "section 6.1",
+        "quote": "Equation (25) shows that Chronoflux density sources the weak field gravitational potential."
+      }
+    ]
+  }
+}

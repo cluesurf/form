@@ -1,0 +1,45 @@
+{
+  "record": "proposition",
+  "id": "d1190a68-08a6-4d2d-a931-46809cc54675",
+  "kind": "empirical",
+  "epistemic_status": "hypothesized",
+  "title": "Interfaces guide action, not resemblance",
+  "statements": [
+    {
+      "id": "3fb74fb1-a955-4be8-8fbd-923b1ed03c49",
+      "text": "A perceptual interface is selected to guide useful actions, and resembling the truth is not what it is for.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-23"
+    }
+  ],
+  "current_statement": "3fb74fb1-a955-4be8-8fbd-923b1ed03c49",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "326bc60f-bdd5-4190-a828-88d73ad2daba",
+        "locator": "abstract, p. 2",
+        "quote": "An interface serves to guide useful actions, not to resemble truth."
+      }
+    ]
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "a8ce1690-2929-4382-8f40-794ac63a8a54",
+  "title": "E-FND-0162: three holes of the register sea relax, and not to infinite temperature, pass: the free rule keeps every...",
+  "purpose": "Experiment E-FND-0162 in the foundations arena: three holes of the register sea relax, and not to infinite temperature, pass: the free rule keeps every momentum and band exactly (3.8e-13), while under the pair pieces the momenta spread over the L = 4 torus (5.57 of 6 from the start) and forget their start inside an energy shell (two disjoint starts end 0.51 apart, a start and its band mirror 0.10), the band content stays where it began (0.932 in the upper band from up starts, 0.065 from the other, no drift, where infinite temperature gives 0.5), and a start in another shell relaxes elsewhere (1.27); the register member is a massive Dirac band, so while three holes cannot wrap the cycle phase their band energy is conserved, sharply across the gap and roughly within a band.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L2 (L2: known physics reproduced on a stated model).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/foundations/register-relaxation.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-FND-0162",
+        "quote": null
+      }
+    ]
+  }
+}

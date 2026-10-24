@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "a61b264b-63f8-4dc7-b0d6-e98e77e64c46",
+  "title": "E-FRC-0204: the finite-state limit of counted light: no rule with a bounded integer state carries a photon as...",
+  "purpose": "Experiment E-FRC-0204 in the gauge arena: the finite-state limit of counted light: no rule with a bounded integer state carries a photon as exactly linear light at kappa = 1/Q, because an exact orbit in a lattice forces kappa lambda to be an algebraic integer and at Q = lambda_max = 16 only the gauge (lambda = 0) and the top of the band (lambda = 16, period 6) qualify; measured in exact rationals, and the carried remainder falls as 16 per digit.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L3 (L3: one base rule produced the result as a measured consequence, with a computed control that could have failed).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/gauge/photon-count-limit.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-FRC-0204",
+        "quote": null
+      }
+    ]
+  }
+}

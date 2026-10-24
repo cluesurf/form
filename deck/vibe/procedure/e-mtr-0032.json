@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "c64cbc06-24d5-4d39-acbb-e4f5c4036b25",
+  "title": "E-MTR-0032: explores whether the light register pair's extra quartic over its members fades for lighter, larger...",
+  "purpose": "Experiment E-MTR-0032 in the spin arena: explores whether the light register pair's extra quartic over its members fades for lighter, larger pairs: the instrument fixed first (filter length 4096, a wide member-placed window, the lowest heavy line as the ground), then the quartic fraction at m 0.284 $a_B$ 8 and m 0.380 $a_B$ 10 with E-MTR-0031's m 0.284 $a_B$ 12, against each member's own band: fail on the instrument, the witness fixed but the moving level a multiplet at every K, so $a_B$ 8 has no read and m 0.380 $a_B$ 10 reads 3.21 +- 0.14 against its member's 2.41, an excess 0.80 above $a_B$ 12's 0.44, the way a lattice term would go, not toward relativity.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L2 (L2: known physics reproduced on a stated model).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/matter/light-pair-fading.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-MTR-0032",
+        "quote": null
+      }
+    ]
+  }
+}

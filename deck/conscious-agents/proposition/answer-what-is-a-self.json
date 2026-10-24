@@ -1,0 +1,45 @@
+{
+  "record": "proposition",
+  "id": "39c408e8-80ff-4993-bae2-ba0b571157b7",
+  "kind": "philosophical",
+  "epistemic_status": "hypothesized",
+  "title": "Answer: a self is built by agent networks",
+  "statements": [
+    {
+      "id": "d85648d8-c364-4634-9810-76598365d5de",
+      "text": "A self is not the conscious agent itself. It is constructed by networks of interacting conscious agents.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-23"
+    }
+  ],
+  "current_statement": "d85648d8-c364-4634-9810-76598365d5de",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "2207dc33-f8a8-469f-99b2-286f1139ed74",
+        "locator": "section 4",
+        "quote": "a self must be constructed by networks of interacting conscious agents."
+      }
+    ]
+  }
+}

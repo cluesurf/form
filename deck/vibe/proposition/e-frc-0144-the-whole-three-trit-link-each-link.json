@@ -1,0 +1,50 @@
+{
+  "record": "proposition",
+  "id": "6c23eea8-789f-41bc-9f60-07c82584934e",
+  "kind": "empirical",
+  "epistemic_status": "simulated",
+  "title": "E-FRC-0144: the whole three-trit link: each link holds the grid move (priced with the hopping term) and the center...",
+  "statements": [
+    {
+      "id": "17761969-99c3-4e7f-83fc-e406ebbf36e9",
+      "text": "The whole three-trit link: each link holds the grid move (priced with the hopping term) and the center flux (Gauss's law, a tension on E mod 3) together, every link, flux loop, role and hop move paid to a demon, reversing exactly, conserving the energy to the unit and love and fear, keeping Gauss's law at every cell and commuting with a change of role frame in every cell, where a hop that leaves its flux behind breaks Gauss's law, unpaid flux leaks energy and matter carried without the link breaks the frame change.",
+      "language": "en",
+      "scope": "experiment E-FRC-0144, arena gauge, depth L2 (L2: known physics reproduced on a stated model)",
+      "conditions": "substrates: 3434. In a paper: false",
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-22"
+    }
+  ],
+  "current_statement": "17761969-99c3-4e7f-83fc-e406ebbf36e9",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": {
+    "value": "open",
+    "reason": "holds in the vibe claim graph",
+    "basis": [],
+    "proposal": null
+  },
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "research/result.ts R-FRC-0006",
+        "quote": null
+      }
+    ]
+  }
+}

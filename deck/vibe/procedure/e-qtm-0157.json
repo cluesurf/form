@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "82af5ed5-7a65-42fe-8023-ba8029358ab6",
+  "title": "E-QTM-0157: a lone vibe's positions interfere on the working rule, pass: its walk on its line is the fear walk bit...",
+  "purpose": "Experiment E-QTM-0157 in the quantum arena: a lone vibe's positions interfere on the working rule, pass: its walk on its line is the fear walk bit for bit (trivial links every beat to 16, every start's links to beat 7, 17 of 17; symbol trace (1 + w)(z + 1/z), det 4 w, mass sqrt 3, top speed 1/2), and a dephased twin of the rule (its own Born weights added as chances every beat) reads interference E-RLT-0105's keep-term witness cannot see (occupation L1 up to 1.32 in the empty box, where the keep term reads the dephased 1/4, 1/16, 1/64); in the working vacuum with the love's mesh line open the positions interfere on 17 of 17 starts (occupation L1 0.69 to 0.71 by beat 6, husk columns 0.60), the state factorizes off the line (0 trits) and the coin-off control reads exactly 0; with the vacuum closed, side 16, 17 of 17 from beat 9 (L1 0.345 at beat 16).",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L2 (L2: known physics reproduced on a stated model).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/quantum/position-interference.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-QTM-0157",
+        "quote": null
+      }
+    ]
+  }
+}

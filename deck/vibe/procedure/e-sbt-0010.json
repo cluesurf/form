@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "900ea946-a655-4a04-af47-5f945a04ce50",
+  "title": "E-SBT-0010: the exact {5,3,4} modular-fingerprint engine matches the float engine, exceeds the precision wall, and...",
+  "purpose": "Experiment E-SBT-0010 in the substrate-survey arena: the exact {5,3,4} modular-fingerprint engine matches the float engine, exceeds the precision wall, and round-trips through disk.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L2 (L2: known physics reproduced on a stated model).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/substrate-survey/exact-scale.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-SBT-0010",
+        "quote": null
+      }
+    ]
+  }
+}

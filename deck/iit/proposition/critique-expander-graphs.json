@@ -1,0 +1,45 @@
+{
+  "record": "proposition",
+  "id": "968bcd88-0486-44c2-a3f7-2060e252f67a",
+  "kind": "mathematical",
+  "epistemic_status": "inferred",
+  "title": "Critique: simple expander circuits have large phi",
+  "statements": [
+    {
+      "id": "528dbb08-07c7-47be-ba39-74a621ddfe00",
+      "text": "Simple networks of logic gates wired as expander graphs, which do nothing intelligent, can have integrated information far above that of a brain. A theory that must call such circuits highly conscious fails the requirement that phi be small for intuitively unconscious systems.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-23"
+    }
+  ],
+  "current_statement": "528dbb08-07c7-47be-ba39-74a621ddfe00",
+  "status": "active",
+  "voice": "critique",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "207b149c-7729-48ea-abc1-9bc76a9cd9b5",
+        "locator": "post body",
+        "quote": "for the theory to work, it had better be the case that Φ is small for “intuitively unconscious” systems, and only large for “intuitively conscious” systems."
+      }
+    ]
+  }
+}

@@ -1,0 +1,76 @@
+{
+  "format": "form.surf/1",
+  "id": "618e2265-3761-4b8c-9441-ce6bc0fa1ab3",
+  "name": "qualia-formalism",
+  "title": "Qualia formalism",
+  "role": "model",
+  "summary": "The Qualia Research Institute's program: every experience has an isomorphic mathematical object, the pleasantness of an experience is that object's symmetry (the symmetry theory of valence), and a unified experience is a topologically bounded pocket of a physical field. Community-written from public sources, AI-extracted, unreviewed.",
+  "framework": {
+    "originators": [
+      "Andrés Gómez-Emilsson",
+      "Michael Edward Johnson"
+    ],
+    "aliases": [
+      "Qualia Research Institute",
+      "QRI",
+      "symmetry theory of valence",
+      "STV"
+    ],
+    "homepage": "https://qri.org"
+  },
+  "community_written": true,
+  "curators": [
+    {
+      "name": "Lance Pollard",
+      "github": "lancejpollard"
+    }
+  ],
+  "license": "CC-BY-4.0",
+  "atlas": {
+    "scope": [
+      "c82c7c92-5d96-4c1d-96a1-9d1c73416e52",
+      "87fa58ba-a6c1-4a5d-b47a-ba298a93a00d",
+      "946fdc3b-9759-42d6-a687-54e8c401dfd8",
+      "18e77377-2c12-427e-9ff2-70cd2c328f05",
+      "a45d95c5-17cb-470a-9c48-163ccf4492d5",
+      "deb700c1-2f22-450e-97d7-aec45d755f57"
+    ],
+    "limits": [
+      "b4c4967b-b91b-4794-83bd-fee61601b7c8",
+      "13afe92c-e399-4d84-a341-71153bf01f8e",
+      "7920d33f-1c70-451e-8ce6-cbba4be938ac"
+    ],
+    "flaws": [
+      "59e85f7b-574d-4c59-ac44-ead959344726",
+      "0739c1f6-bad0-4f1b-89c5-7e999ed54bb6",
+      "2a7c37e3-ef90-41e8-a6ae-5333c151f156",
+      "744a37e2-cad8-4447-811b-26f5c3a29387",
+      "7f31545d-732c-456a-85b7-ae833f884f58",
+      "6f0b82d1-dc6b-4dd2-b53c-3c1dc7eb115f"
+    ],
+    "dead_ends": []
+  },
+  "draws_from": [],
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "18748a2a-239c-4c8a-84be-d6db8f91e70d",
+        "locator": "section X, p. 35",
+        "quote": null
+      },
+      {
+        "source": "9359bfc1-6fff-41a8-8d7c-91af2f730b74",
+        "locator": "abstract",
+        "quote": null
+      }
+    ]
+  }
+}

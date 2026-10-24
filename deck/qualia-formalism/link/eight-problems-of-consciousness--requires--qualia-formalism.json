@@ -1,0 +1,28 @@
+{
+  "record": "link",
+  "id": "bbc35d0e-3a42-44e8-ab55-69f82f380081",
+  "from": "b800741e-352a-4431-9e8a-7e736217f256",
+  "to": "87fa58ba-a6c1-4a5d-b47a-ba298a93a00d",
+  "relation": "requires",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "18748a2a-239c-4c8a-84be-d6db8f91e70d",
+        "locator": "section VI, pp. 21-22",
+        "quote": "My claim is that these eight sub-problems are necessary to solve consciousness, and in aggregate, may be sufficient."
+      }
+    ]
+  }
+}

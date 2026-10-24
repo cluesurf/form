@@ -1,0 +1,45 @@
+{
+  "record": "proposition",
+  "id": "2a02e520-4b5c-40e4-b1b6-b428ead428a9",
+  "kind": "mathematical",
+  "epistemic_status": "inferred",
+  "title": "The postulates cannot be applied exhaustively to realistic systems",
+  "statements": [
+    {
+      "id": "d67d4f79-fdd5-41c9-b961-8f842e0400ab",
+      "text": "Although IIT rests on a few axioms and postulates, it is not possible in practice to unfold the cause-effect power of realistic systems in full. Tests rely on approximations and proxies.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-23"
+    }
+  ],
+  "current_statement": "d67d4f79-fdd5-41c9-b961-8f842e0400ab",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "8443eb2e-406e-4acc-94e8-33cbabbd3679",
+        "locator": "Discussion (full text)",
+        "quote": "it is not possible in practice to exhaustively apply the postulates to unfold the cause–effect power of realistic systems [32, 56]."
+      }
+    ]
+  }
+}

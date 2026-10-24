@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "c8c9448d-747c-4bec-82f5-d6897aa580c5",
+  "title": "E-QTM-0110: interference between the lines of one dock by an exact reduced method: the vacuum is a product of line...",
+  "purpose": "Experiment E-QTM-0110 in the quantum arena: interference between the lines of one dock by an exact reduced method: the vacuum is a product of line states, a seed correlates only the lines its swaps reach, the reduced state equals the full configuration space where both run, recovers both knits at phi = pi, and runs 48 beats to ask whether two seeds on different lines interfere.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L2 (L2: known physics reproduced on a stated model).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/quantum/dock-interference.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-QTM-0110",
+        "quote": null
+      }
+    ]
+  }
+}

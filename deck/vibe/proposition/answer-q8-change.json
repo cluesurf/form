@@ -1,0 +1,60 @@
+{
+  "record": "proposition",
+  "id": "0afb4e28-08d4-4449-a577-a6fab59d4312",
+  "kind": "empirical",
+  "epistemic_status": "designed",
+  "title": "Answer: a failed test with a control changes the base, never the premise",
+  "statements": [
+    {
+      "id": "5f451eb1-5239-43b6-bb42-44523982fac7",
+      "text": "The two layers answer differently. The premise that the base is experience is the one axiom and is unfalsifiable: no reading can tell a felt universe from a structurally identical one, so no result changes it. Everything under it is a discrete dynamical system that can be refuted, and the base changes when a test shows that a simpler or better choice works, or that a current choice cannot work. The failures are kept, for example the knots were expected to give an area law and gave a volume law (E-GRV-0083).",
+      "language": "en",
+      "scope": "the physics under the premise. The premise itself is held as a frame",
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "5f451eb1-5239-43b6-bb42-44523982fac7",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": {
+    "value": "open",
+    "reason": "vibe's own answer to the questionnaire",
+    "basis": [],
+    "proposal": null
+  },
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "7d868dbb-9fb1-455b-8d46-8cf0dce8e24e",
+        "locator": "The reading, and what is falsifiable",
+        "quote": "No reading can tell a felt universe from a structurally identical one."
+      },
+      {
+        "source": "7d868dbb-9fb1-455b-8d46-8cf0dce8e24e",
+        "locator": "The goal",
+        "quote": "When a test shows that a simpler or better choice works, or that a current choice cannot work, the base changes with it."
+      },
+      {
+        "source": "7d868dbb-9fb1-455b-8d46-8cf0dce8e24e",
+        "locator": "The reading, and what is falsifiable",
+        "quote": "the knots were expected to give an area law and gave a volume law"
+      }
+    ]
+  }
+}

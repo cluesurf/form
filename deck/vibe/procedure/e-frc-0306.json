@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "e1af9732-c231-448f-b84c-0724e9df787f",
+  "title": "E-FRC-0306: explores whether the one-walker electron (the colour-blind Lambda^3 walker, det R = 1) keeps its chiral...",
+  "purpose": "Experiment E-FRC-0306 in the gauge arena: explores whether the one-walker electron (the colour-blind Lambda^3 walker, det R = 1) keeps its chiral wall at its own charge 3: R*'s domain-wall slab under a U(1) probe with every phase tripled, read for the Laughlin pump and wall index, the Landau g and the leak, against the same reads at charge 1.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L2 (L2: known physics reproduced on a stated model).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/gauge/charge-three.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-FRC-0306",
+        "quote": null
+      }
+    ]
+  }
+}

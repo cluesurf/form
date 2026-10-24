@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "681fa7ac-d7e9-4c08-a930-1b3fbf22f44e",
+  "title": "E-FND-0092: the minimal clock-transport addition, built and measured: the clock-coupled swap (a line swaps its slots...",
+  "purpose": "Experiment E-FND-0092 in the foundations arena: the minimal clock-transport addition, built and measured: the clock-coupled swap (a line swaps its slots when its partner wire reads the clock marker) composes with the charge rule into an exactly reversible conserving rule that DOES move a defect out of the wall region in one beat where the bare rule is exactly static, and AMPLIFIES in the bulk (a lone defect grows several-fold instead of keeping sqrt 3), so the simplest coupling of phase to transport destroys the particle it transports and the sixth-thing specification gains an exact clause: move the density along phase gradients while preserving the coarse magnitude.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L2 (L2: known physics reproduced on a stated model).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/foundations/clock-coupled-swap-addition.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-FND-0092",
+        "quote": null
+      }
+    ]
+  }
+}

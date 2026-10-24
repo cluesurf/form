@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "3d993c77-cd4f-4bc4-9340-50bfcec76271",
+  "title": "E-SPN-0051: the double cover is already in the role: every linear lift of the role grid's SL(2,3) sends the 2 pi...",
+  "purpose": "Experiment E-SPN-0051 in the spin arena: the double cover is already in the role: every linear lift of the role grid's SL(2,3) sends the 2 pi turn to -P, -1 on a parity-even doublet, with the Legendre law (-1/p) P confirmed at five primes; the 2 pi turn about each grid point is minus the model's phase-point operator, so every signed weight is W(x) = -<R_x>/3; the husk's tetrahedral turns lift to it through the depth-fixing conjugations; and no knot can carry it, because the 2 pi turn lies in the commutator subgroup.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L1 (L1: known mathematics, correctly confirmed).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/spin/role-double-cover.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-SPN-0051",
+        "quote": null
+      }
+    ]
+  }
+}

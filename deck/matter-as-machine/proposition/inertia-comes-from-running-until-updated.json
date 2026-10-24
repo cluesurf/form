@@ -1,0 +1,45 @@
+{
+  "record": "proposition",
+  "id": "92acd99d-4ed4-40c3-8cbe-54128acef09c",
+  "kind": "empirical",
+  "epistemic_status": "hypothesized",
+  "title": "Inertia comes from the machine running until updated",
+  "statements": [
+    {
+      "id": "ba7be204-220b-4848-a5b2-b03e25b0678e",
+      "text": "Newton's first law follows from a machine moving forever until its states are updated, and a machine with more states has more of them to update, so it resists acceleration more.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "ba7be204-220b-4848-a5b2-b03e25b0678e",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "f1f9bdb8-14c9-4c62-9e48-01ecc2870699",
+        "locator": "Inertia",
+        "quote": "The more states the machine has, the more states must be updated, and the more the particle"
+      }
+    ]
+  }
+}

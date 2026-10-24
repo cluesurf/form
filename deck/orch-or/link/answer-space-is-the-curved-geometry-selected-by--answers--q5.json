@@ -1,0 +1,28 @@
+{
+  "record": "link",
+  "id": "6c44753e-65a1-4285-92a1-f4cc9edac6e9",
+  "from": "3ff9c021-cfde-4489-bb8f-0c1530543d79",
+  "to": "74e87691-55c5-45d4-bcbe-85fb62e5912d",
+  "relation": "answers",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "c0602528-f093-4705-abc3-e13d7657a680",
+        "locator": "section 4.4",
+        "quote": "This space–time is slightly curved, in accordance with Einstein’s general theory of relativity, in a way which encodes the gravitational fields of all distributions of mass density."
+      }
+    ]
+  }
+}

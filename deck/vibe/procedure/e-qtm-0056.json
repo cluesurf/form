@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "0424951a-e109-436a-a065-3fd535630479",
+  "title": "E-QTM-0056: sub-gap transmission decays exponentially with the exact walk rate arccosh(cos omega / cos mass)...",
+  "purpose": "Experiment E-QTM-0056 in the quantum arena: sub-gap transmission decays exponentially with the exact walk rate arccosh(cos omega / cos mass), rejecting the continuum Dirac rate by seventeen percent at the same parameters while converging to it in the continuum limit, the discrete tunneling law as a hardware-testable prediction.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L2 (L2: known physics reproduced on a stated model).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/quantum/tunneling-law.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-QTM-0056",
+        "quote": null
+      }
+    ]
+  }
+}

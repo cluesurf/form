@@ -1,0 +1,45 @@
+{
+  "record": "proposition",
+  "id": "1045b9fc-ba3d-4834-9512-a2bbe89adedd",
+  "kind": "mathematical",
+  "epistemic_status": "inferred",
+  "title": "Isolated systems are driven to entanglement",
+  "statements": [
+    {
+      "id": "01c7ac6c-ef05-4dc7-8ba0-2380463ee5b0",
+      "text": "Unitary evolution drives every isolated system toward entanglement, so separability is an approximation that holds only for weak interactions and short observation times.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-23"
+    }
+  ],
+  "current_statement": "01c7ac6c-ef05-4dc7-8ba0-2380463ee5b0",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "4489b7d7-7273-4b67-a1c2-b53ddab0eeb5",
+        "locator": "section 4.3",
+        "quote": "all isolated systems are driven to entanglement by unitary evolution. Separability is a special case, an approximation that holds only under conditions of weak interactions and short observation times"
+      }
+    ]
+  }
+}

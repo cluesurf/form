@@ -1,0 +1,45 @@
+{
+  "record": "proposition",
+  "id": "bbdc8dc8-7214-4370-81ad-544bb2783081",
+  "kind": "philosophical",
+  "epistemic_status": "hypothesized",
+  "title": "Conscious agents and experiences can be modeled and tested",
+  "statements": [
+    {
+      "id": "fc489ca6-1d3d-4874-9c4a-1e22922b82cd",
+      "text": "The objective world consists of conscious agents and their experiences, and these can be modeled mathematically and explored empirically in the normal scientific manner.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-23"
+    }
+  ],
+  "current_statement": "fc489ca6-1d3d-4874-9c4a-1e22922b82cd",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "a7e70d05-b690-4622-b9c7-93120625ba04",
+        "locator": "abstract, p. 87",
+        "quote": "these can be mathematically modeled and empirically explored in the normal scientific manner"
+      }
+    ]
+  }
+}

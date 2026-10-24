@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "59bd7e79-e455-43ca-bbd6-3116b3de6e0b",
+  "title": "E-RLT-0108: length contraction and the relativity of simultaneity for the candidate rule light member, read on the...",
+  "purpose": "Experiment E-RLT-0108 in the relativity arena: length contraction and the relativity of simultaneity for the candidate rule light member, read on the husk, pass: on the swap-coin singlet band (the rule dock matrix, K4 = 0) one Lorentz factor serves speed and energy, the longitudinal over transverse curvature is 1/gamma^2 (a moving packet stays the contracted Lorentz image of its rest packet) and phase speed times group speed is c*^2 (the rest frame now tilts by v dx/c*^2), each within 3.1e-4 up to 0.5 c* and 1.34e-2 at 0.9 c* at m 0.046778, alike on the husk axis, face and body diagonals (spread 3.2e-5), and every deviation scales as $m^2$ at fixed speed (ratio 9.53 to 9.57 for m 0.143348 against 9.39), so the member is exactly Lorentz covariant in the light limit; a heavy in-ring member and a Galilean band fail; the husk top speed is 0.977 c*; a lone excitation, not a moving bound body.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L2 (L2: known physics reproduced on a stated model).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/relativity/husk-lorentz-kinematics.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-RLT-0108",
+        "quote": null
+      }
+    ]
+  }
+}

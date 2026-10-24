@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "c42f9d58-098e-4b77-9f6c-c171ecfd6108",
+  "title": "E-QTM-0029: measured: on the {3,4,3,4} substrate curvature collapses the local shared past with separation, so a...",
+  "purpose": "Experiment E-QTM-0029 in the quantum arena: measured: on the {3,4,3,4} substrate curvature collapses the local shared past with separation, so a spacelike Bell correlation needs a seed-anchored common cause.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L2 (L2: known physics reproduced on a stated model).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/quantum/shared-past-curvature.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-QTM-0029",
+        "quote": null
+      }
+    ]
+  }
+}

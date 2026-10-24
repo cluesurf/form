@@ -1,0 +1,45 @@
+{
+  "record": "proposition",
+  "id": "5b263ab1-ac76-444c-82ab-eacaa2968c7a",
+  "kind": "philosophical",
+  "epistemic_status": "inferred",
+  "title": "Answer: what would change its mind",
+  "statements": [
+    {
+      "id": "455d7e94-dd48-4aea-8e71-e8f40fc6996f",
+      "text": "Failed predictions agreed in advance. In the Cogitate collaboration the proponents preregistered that IIT would be challenged if sustained content-specific synchronization within posterior cortex were absent.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-23"
+    }
+  ],
+  "current_statement": "455d7e94-dd48-4aea-8e71-e8f40fc6996f",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b84809ac-0650-4173-b863-4ba1c946fcca",
+        "locator": "section on prediction 3 (full text)",
+        "quote": "IIT would be challenged in the absence of sustained content-specific synchronization between face–object selective areas and V1/V2"
+      }
+    ]
+  }
+}

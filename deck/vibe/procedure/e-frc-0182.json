@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "7db92c2b-0b8b-463d-8b53-42fb42ec41f2",
+  "title": "E-FRC-0182: the exact lattice Landau spectrum of the charged fear walk: in the Landau gauge each $k_y$ reduces the...",
+  "purpose": "Experiment E-FRC-0182 in the gauge arena: the exact lattice Landau spectrum of the charged fear walk: in the Landau gauge each $k_y$ reduces the walk to a strip whose eigenphases, lifted onto E-FRC-0176's torus, are that torus beat's own levels, and E-FRC-0176's measured Landau levels sit on them, so the 9 to 23 percent shortfall from 2 q B is the walk's lattice band, which Onsager's rule with the band's full shape reproduces and whose first order is 2 beta omega_c (n + 1).",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L2 (L2: known physics reproduced on a stated model).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/gauge/husk-cyclotron-exact.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-FRC-0182",
+        "quote": null
+      }
+    ]
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "record": "proposition",
+  "id": "7f31545d-732c-456a-85b7-ae833f884f58",
+  "kind": "empirical",
+  "epistemic_status": "inferred",
+  "title": "EM fields miss much of brain information processing",
+  "statements": [
+    {
+      "id": "a53e7dd6-f52f-4481-80f4-26b2f30afad1",
+      "text": "Electromagnetic fields do not contain the whole information processing of the brain, so memory and report need mechanisms beyond field topology.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-23"
+    }
+  ],
+  "current_statement": "a53e7dd6-f52f-4481-80f4-26b2f30afad1",
+  "status": "active",
+  "voice": "critique",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "1ee77be8-63f4-4644-b8de-1d60a7ecb8d5",
+        "locator": "review, 8 Feb 2024",
+        "quote": "still don't contain the entire information processing of the brain"
+      }
+    ]
+  }
+}

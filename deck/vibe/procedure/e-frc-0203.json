@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "36a8bb48-dee4-429a-8232-95f862674af5",
+  "title": "E-FRC-0203: light by threshold counting: the compact U(1) sector with a force linear in the loop sum, kappa = 1/16...",
+  "purpose": "Experiment E-FRC-0203 in the gauge arena: light by threshold counting: the compact U(1) sector with a force linear in the loop sum, kappa = 1/16 paid by a counter mod 16 per plaquette whose wraps are the kick, no sine, no rounding and no real number in the rule, the leapfrog and Fredkin second-order forms compared bit for bit, tested on the light battery.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L2 (L2: known physics reproduced on a stated model).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/gauge/photon-count-first.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-FRC-0203",
+        "quote": null
+      }
+    ]
+  }
+}

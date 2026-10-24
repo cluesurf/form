@@ -1,0 +1,45 @@
+{
+  "record": "proposition",
+  "id": "c8d4361e-9e4d-48c6-b74a-473fb6721cb7",
+  "kind": "mathematical",
+  "epistemic_status": "inferred",
+  "title": "Juxtaposed agents form a more complex agent",
+  "statements": [
+    {
+      "id": "b417f81a-0419-478d-b81b-29483b1cb172",
+      "text": "The product of two conscious agents satisfies the definition of a single conscious agent, so juxtaposing two simple agents yields a more complex agent.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-23"
+    }
+  ],
+  "current_statement": "b417f81a-0419-478d-b81b-29483b1cb172",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "2207dc33-f8a8-469f-99b2-286f1139ed74",
+        "locator": "section 5",
+        "quote": "this juxtaposition of two simple agents leads to a more complex agent."
+      }
+    ]
+  }
+}

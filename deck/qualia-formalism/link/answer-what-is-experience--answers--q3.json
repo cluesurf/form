@@ -1,0 +1,28 @@
+{
+  "record": "link",
+  "id": "5feb37b3-4f38-48b2-9487-158c4672324f",
+  "from": "7b4c33f7-c101-4573-814f-61026cfd8ea8",
+  "to": "94d1e6cc-101d-4e1b-9fc7-56d44571b271",
+  "relation": "answers",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "5aaa6bc4-6581-4a09-8249-33c9872090bd",
+        "locator": "main text",
+        "quote": "this solutions identifies moments of experience with topological pockets of fields of physics"
+      }
+    ]
+  }
+}

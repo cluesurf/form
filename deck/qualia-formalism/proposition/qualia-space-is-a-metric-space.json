@@ -1,0 +1,45 @@
+{
+  "record": "proposition",
+  "id": "65b824fb-47fb-42d9-b92e-4d3a4ca4acfe",
+  "kind": "philosophical",
+  "epistemic_status": "hypothesized",
+  "title": "Qualia space is likely a metric space",
+  "statements": [
+    {
+      "id": "99b84855-68ff-4a6f-a7b6-bc874869439d",
+      "text": "Qualia space likely satisfies the requirements of a metric space, so qualia have a geometry, and it may be a Hilbert space.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-23"
+    }
+  ],
+  "current_statement": "99b84855-68ff-4a6f-a7b6-bc874869439d",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "18748a2a-239c-4c8a-84be-d6db8f91e70d",
+        "locator": "section VII, p. 25 and footnote 12",
+        "quote": "I propose that Qualia space also likely satisfies the requirements of being a metric space"
+      }
+    ]
+  }
+}

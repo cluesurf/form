@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "b143cc62-4c4c-4869-a422-17a2ebdba8a6",
+  "title": "E-FRC-0274: the true mesh's orientation sign is a staggered sign and a pure-gauge checkerboard, not a center-odd...",
+  "purpose": "Experiment E-FRC-0274 in the gauge arena: the true mesh's orientation sign is a staggered sign and a pure-gauge checkerboard, not a center-odd scalar, fail as derived: the sign is a character of the mesh group ($m_{i4} = 2$, 2, 2, 4), (-1)^distance on 8,857 docks with 0 odd loops, and on the husk exactly Kogut and Susskind's (-1)^(h1 + h2 + h3) on 63 of 63 cubes, while the curvature the labels hide is a rotation of order 3 on all 192 ridge loops, commuting with J; read in an oriented frame one stream moves all of a hand's weight to the other hand and one cycle moves exactly 0, so the joining is the local frame change itself, with no mass; the center stays -J in every frame, so the sign is center-even and the Higgs row is unchanged; the stream splits spacetime into two classes no dock-local piece joins, on each the orientation-reading mass is a label rule giving both hands the mean mass split by a rigid offset (two-phase Jordan law to 1.1e-14) and the orientation-weighted identity makes the member massless; every husk mirror the label chiral mass keeps swaps the classes (4 of 4) and it breaks all 28 class-keeping husk mirrors, so within one class parity is broken and the kept parity is a mirror world; controls: the flat box has 3,072 odd-parity pairs and moves 0, the achiral rule keeps every element.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L2 (L2: known physics reproduced on a stated model).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/gauge/orientation-sign.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-FRC-0274",
+        "quote": null
+      }
+    ]
+  }
+}

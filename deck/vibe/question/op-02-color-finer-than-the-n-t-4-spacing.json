@@ -1,0 +1,26 @@
+{
+  "record": "question",
+  "id": "45a2683a-3e69-4311-ac34-c591cd975087",
+  "text": "The adopted three-trit knit carries the finite classical color group Sigma(648) on its links. Can its color reach finer than the $N_t = 4$ spacing, toward the continuous SU(3)?",
+  "kind": "missing_evidence",
+  "status": "open",
+  "parent": null,
+  "description": "OP-02: color finer than the $N_t = 4$ spacing.\n\nKnown: the turning weave, the knit before 2026-09-25, carries no color (R-FRC-0003). The adopted three-trit knit carries Sigma(648), the determinant-1 qutrit Clifford group, and keeps every dock's held color exact while it makes pairs (E-QTM-0117, E-RLT-0067). Sigma(648) matches SU(3) at $N_t = 4$ and stops there (E-FRC-0103). No finite subgroup of SU(3) contains it properly, so any one element outside it generates a dense subgroup, a theorem (L5). The fear beat is the knit's one gate outside it: with Sigma(648) on each role it generates all of su(9) (E-QTM-0118, E-FRC-0127). One fear beat gives no finer step, two give the first, sqrt(1/6) (E-QTM-0101), and the first word closer to T than any classical element needs 4, at $2^8$ of grain (E-QTM-0104).\n\nUnknown: how far the swap-phase ladder reaches at a grain the lattice can carry, and whether the finer steps show as a finer lattice spacing in the gauge dynamics.\n\nWhy it matters: the classical color group is exact on the knit and matches SU(3) at one spacing only. The continuum limit of the strong force needs the steps the fear beat supplies.\n\nScope: a computational search, then the acceptance battery on each candidate.\n\nSkills: representation theory, cellular automata, lattice gauge theory.\n\nWhere to start: test/experiment/gauge/finite-color-groups.ts; test/experiment/quantum/swap-phase-ladder.ts; test/experiment/quantum/fear-beat-is-magic.ts.\n\nThe claims it would move: R-FRC-0003, R-FRC-0006.\n\nEvidence named: E-FRC-0103, E-FRC-0127, E-QTM-0101, E-QTM-0104, E-QTM-0117, E-QTM-0118, E-RLT-0067.",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "research/problem.ts OP-02",
+        "quote": null
+      }
+    ]
+  }
+}

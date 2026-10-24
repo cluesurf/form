@@ -1,0 +1,28 @@
+{
+  "record": "link",
+  "id": "7da5120f-3757-4734-b8a3-0af73462886d",
+  "from": "05894217-e47a-4b38-97b6-9f32d63ca8f0",
+  "to": "9c77870a-b01e-41dc-a7fe-432adb9aac70",
+  "relation": "requires",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "0e8a27d1-8b93-45f2-a326-74fe69301c54",
+        "locator": "abstract",
+        "quote": "Workspace neurons are mobilized in effortful tasks for which the specialized processors do not suffice"
+      }
+    ]
+  }
+}

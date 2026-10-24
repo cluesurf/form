@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "bba57970-638b-4c72-9085-279ec3f1734e",
+  "title": "E-MTR-0026: the counting clock against the band clock on the working rule's lone vibe, pass: the share of a take...",
+  "purpose": "Experiment E-MTR-0026 in the relativity arena: the counting clock against the band clock on the working rule's lone vibe, pass: the share of a take history's steps that cancel falls linearly, 1 - v, reading 1/2 at the top group speed c* = 1/2, while the band's clock (W - q W') / W(0) has no linear term, follows sqrt(1 - $v^2$ / c_rest^2) with the band's own c_rest^2 = W(0) W''(0) = 0.6046 to 0.016 up to c*, and reads 3/4 there; the history weights put the vibe on the band's rays (mean counting share 0.66667 at T = 1024 against 2/3); with the coin off both clocks read 0.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L2 (L2: known physics reproduced on a stated model).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/matter/counting-clock.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-MTR-0026",
+        "quote": null
+      }
+    ]
+  }
+}

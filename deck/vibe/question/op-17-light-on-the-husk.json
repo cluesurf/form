@@ -1,0 +1,26 @@
+{
+  "record": "question",
+  "id": "26e658e9-c1b3-4d23-92fa-0c1885b4170d",
+  "text": "The knit's light on the husk, the 3D horosphere surface where physics is read, has 2 polarizations and an exact Coulomb field. Does a single quantum of it travel in 3D, and what fixes its coupling?",
+  "kind": "missing_evidence",
+  "status": "open",
+  "parent": null,
+  "description": "OP-17: light on the husk.\n\nKnown: the link sector is exact: $Z_{8192}$ angles beside integer flux, stored per link as a modeling choice under test, reversal, Gauss's law at every dock and beat, and a frame change in every dock (E-FRC-0164). Its light is measured in the bulk substrate, the D4 box, which is four-dimensional, so 3 polarizations and a $1 / r^2$ field there are facts about the substrate, not physics. The cubic torus stands in for the flat 3D surface and gives 2 branches. The estimator counts 2 branches on the D4 box where 3 are expected, reads the photon 13 percent fast, and the Coulomb energy sits 7 to 10 percent high (E-FRC-0165, partial). Read on the husk as the column sum of the bulk along the depth, the light keeps Gauss's law and 2 of the bulk's 3 polarizations (E-FRC-0168), is massless and isotropic to 4.5e-7 at c = 0.2023 per beat (E-FRC-0179), and its static field is 1 / (24 pi r) with no $1 / r^3$ term, like charges repelling and unlike attracting equally (E-FRC-0241). Every stored value of it is a trit, the husk's integers column sums of bulk trits down the depth (E-FRC-0207).\n\nUnknown: a propagating quantum light in 3D on the husk: one quantum travels so far along a strip of husk squares (E-FRC-0231, E-FRC-0235). And the value of alpha, which the depth sets and does not fix (E-FRC-0242).\n\nWhy it matters: physics is read on the husk, and the photon is the first gauge field to check there.\n\nScope: a computational measurement on the horosphere surface.\n\nSkills: lattice gauge theory, hyperbolic geometry.\n\nWhere to start: test/experiment/gauge/photon-light.ts; test/experiment/gauge/photon-links.ts.\n\nThe claims it would move: R-FRC-0006.\n\nEvidence named: E-FRC-0164, E-FRC-0165, E-FRC-0168, E-FRC-0179, E-FRC-0207, E-FRC-0231, E-FRC-0235, E-FRC-0241, E-FRC-0242.",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "research/problem.ts OP-17",
+        "quote": null
+      }
+    ]
+  }
+}

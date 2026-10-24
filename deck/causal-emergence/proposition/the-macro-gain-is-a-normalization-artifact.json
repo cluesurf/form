@@ -1,0 +1,50 @@
+{
+  "record": "proposition",
+  "id": "9ec9ede8-d286-4d59-a04e-4c111f9e7484",
+  "kind": "mathematical",
+  "epistemic_status": "inferred",
+  "title": "The macro gain is a normalization artifact",
+  "statements": [
+    {
+      "id": "d06c6f8c-9466-42ff-b030-b8d93d42a085",
+      "text": "Causal emergence depends on imposing a uniform distribution over microstates for micro EI and, separately, a uniform distribution over macrostates for macro EI, though the micro uniform distribution yields a non-uniform one over macrostates.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-23"
+    }
+  ],
+  "current_statement": "d06c6f8c-9466-42ff-b030-b8d93d42a085",
+  "status": "active",
+  "voice": "critique",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "e3443755-ce71-4132-994c-b609c7b95871",
+        "locator": "post body",
+        "quote": "we insist on the uniform distribution over microstates when calculating microscopic EI, and we also insist on the uniform distribution over macrostates when calculating macroscopic EI"
+      },
+      {
+        "source": "c40bbd28-a2c5-4730-84c0-90f7ae0644de",
+        "locator": "section 1",
+        "quote": "such as requiring a uniform distribution of interventions, which some have criticized"
+      }
+    ]
+  }
+}

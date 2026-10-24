@@ -1,0 +1,28 @@
+{
+  "record": "link",
+  "id": "7b4e8795-be98-41ec-b816-9fa35d9f15ee",
+  "from": "498a96f5-fc4a-4b96-82e6-d01538dd0191",
+  "to": "e6252fbd-58ab-4f65-b36e-bf5df2c552d4",
+  "relation": "requires",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "9d7dc0d8-1f18-43d2-b86a-16d31ae12fd3",
+        "locator": "abstract",
+        "quote": "Any Self is demarcated by a computational surface"
+      }
+    ]
+  }
+}

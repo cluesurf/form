@@ -1,0 +1,39 @@
+{
+  "record": "observation",
+  "id": "73a56d32-82f2-43fd-84d6-65d664e19145",
+  "kind": "experimental_result",
+  "epistemic_status": "observed",
+  "description": "Across studies reviewed by Mashour and colleagues, general anesthetics of all major classes functionally disconnect prefrontal and posterior parietal cortex.",
+  "method": "document_review",
+  "status": "reported",
+  "source": "48959277-86d2-4076-9942-58a24f753040",
+  "procedure": null,
+  "variable": null,
+  "value": null,
+  "unit": null,
+  "uncertainty": null,
+  "sample_size": null,
+  "replication_count": null,
+  "quality": null,
+  "limitations": null,
+  "conflicts_of_interest": null,
+  "observed_at": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "48959277-86d2-4076-9942-58a24f753040",
+        "locator": "General Anesthesia",
+        "quote": "functionally disconnect the prefrontal cortex and posterior parietal cortices"
+      }
+    ]
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "44a8b0fc-4989-45ea-a834-db186b0c6d1e",
+  "title": "E-FRC-0290: 't Hooft matching on both walls of the chiral slab with every input read from the register rule: the...",
+  "purpose": "Experiment E-FRC-0290 in the gauge arena: 't Hooft matching on both walls of the chiral slab with every input read from the register rule: the walls are 3+1d, face A reads hand +1 and face B -1, each an SU(2)+ doublet, the tones carry conjugate colour so only like-tone triples are singlets, R* keeps N+ = $N_A + N_B$ and SU(2)+ exactly while the one-wall numbers are broken only by the inter-wall leak; on $S4 = U(1)_Q \\times SU(2)_A \\times SU(2)_B \\times U(1)_V$ the charge-one (1/2, 1/2) doublet at index 1 per tone per wall matches every coefficient.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L1 (L1: known mathematics, correctly confirmed).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/gauge/anomaly-matching-walls.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-FRC-0290",
+        "quote": null
+      }
+    ]
+  }
+}

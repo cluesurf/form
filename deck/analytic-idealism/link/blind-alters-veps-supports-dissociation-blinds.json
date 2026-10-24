@@ -1,0 +1,28 @@
+{
+  "record": "link",
+  "id": "f38ce717-af7f-433a-97c6-58ddedcfe4bf",
+  "from": "48cdd229-3b42-4574-bf9e-04c1b828e4ec",
+  "to": "9d59395c-3a35-4551-ab82-990b283eb97b",
+  "relation": "supports",
+  "strength": 0.4,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "1ba881f7-9120-444f-a23d-cf5a6dd58fd7",
+        "locator": "abstract",
+        "quote": "visual evoked potentials (VEPs) were absent in the blind personality states but were normal and stable in the seeing states"
+      }
+    ]
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "56b785fe-eab4-4a41-aead-a97748344bb5",
+  "title": "E-FRC-0249: a parity-odd count on the husk reads zero for the doublet-locked knit, pass: the helicity J . curl J of...",
+  "purpose": "Experiment E-FRC-0249 in the gauge arena: a parity-odd count on the husk reads zero for the doublet-locked knit, pass: the helicity J . curl J of the husk vibe current, number and charge, summed over 48 beats, cancels exactly between each start and its husk inversion (both bulk lifts) for the old knit, the locked exchange path and the locked superposed state on 17 of 17 starts, while one run alone reads up to 5,418; a planted chiral twist reads a nonzero ensemble sum on 17 of 17 (-6,838 to 4,836), its mirror exactly the negative, and an achiral fixed turn exactly 0; the lock's own helicity reads the same in the world and its mirror (the label along the motion is the vibe count, its axial reading the charge count, and every love-fear meeting, 7,409 to 11,981 a run, has a fear of one label), and the two bulk lifts read the same on every husk count, toys included.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L2 (L2: known physics reproduced on a stated model).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/gauge/locked-parity-count.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-FRC-0249",
+        "quote": null
+      }
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "record": "link",
+  "id": "8cf9ffc7-f912-454c-9c7e-9a911ae9bdbb",
+  "from": "aa8ddd9a-c285-4b3b-8a3c-cb8c2793d2df",
+  "to": "7198b103-1dc9-4fec-854c-0eecde0f01c7",
+  "relation": "requires",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "8360d34d-30cb-44f8-89c9-41768fb53f0d",
+        "locator": "Discussion, Causal Exclusion and Its Implications",
+        "quote": "implies causal “self-definition” at the optimal macro level—the one at which its causal interactions “come into focus”"
+      }
+    ]
+  }
+}

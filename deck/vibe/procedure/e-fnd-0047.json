@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "3f0ff86b-afdc-45fd-90b4-f4ac0681343a",
+  "title": "E-FND-0047: vibe commits to the division octonions (no zero divisors, norm composition, compact G2), so it cannot...",
+  "purpose": "Experiment E-FND-0047 in the foundations arena: vibe commits to the division octonions (no zero divisors, norm composition, compact G2), so it cannot host Gogberashvili split-octonion zero-divisor particles, the road not taken.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L1 (L1: known mathematics, correctly confirmed).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/foundations/octonion-real-form-commitment.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-FND-0047",
+        "quote": null
+      }
+    ]
+  }
+}

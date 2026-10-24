@@ -1,0 +1,45 @@
+{
+  "record": "proposition",
+  "id": "956bf5ed-d330-4dea-8288-14a14be6fe10",
+  "kind": "mathematical",
+  "epistemic_status": "inferred",
+  "title": "Quantum theory follows from decompositional equivalence",
+  "statements": [
+    {
+      "id": "aeb53f4e-8b58-412d-9564-e6d27df7f2d4",
+      "text": "Quantum theory follows from decompositional equivalence together with Landauer’s principle, as shown by a thought experiment.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-23"
+    }
+  ],
+  "current_statement": "aeb53f4e-8b58-412d-9564-e6d27df7f2d4",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "74508b9f-1e20-4e6b-921a-b8c0a71321ad",
+        "locator": "abstract",
+        "quote": "It is shown here, by using a simple thought experiment, that quantum theory follows from decompositional equivalence together with Landauer’s principle."
+      }
+    ]
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "8caed351-dcb7-451b-9dc0-276f9de8f882",
+  "title": "E-CSM-0022: the manifold phase wins the sum over histories above a finite coupling",
+  "purpose": "Experiment E-CSM-0022 in the cosmology arena: the manifold phase wins the sum over histories above a finite coupling.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L2 (L2: known physics reproduced on a stated model).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/cosmology/free-energy.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-CSM-0022",
+        "quote": null
+      }
+    ]
+  }
+}

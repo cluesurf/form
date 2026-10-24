@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "d40e4ec8-b2ee-4d4a-95ab-7546f2cc4d97",
+  "title": "E-GRV-0111: joining the horizon where a husk dock's found depth exceeds the reference's by the metric register's cap...",
+  "purpose": "Experiment E-GRV-0111 in the gravity arena: joining the horizon where a husk dock's found depth exceeds the reference's by the metric register's cap (the clock stops) moves the radius law from the field criterion's $M^{0.47}$ to $M^{0.64}$ on the same lumps, but not to Schwarzschild's M, fail on C1: radius 3.16 .. 5.83 for compressed M = 600 .. 1600 (slope 0.644) and 3.16 .. 4.69 for spread lumps the line criterion never tears (slope 0.574), because on this side-24 box the depth is read against a dock 21 away and the stack's massive modes make it fall faster than 1/r (the same criterion reads 0.76 on a side-96 stack and 0.88 on the infinite one); every placed lump runs 1024 beats with 0 wraps, curl 0, energy to 1e-11 and exact reversal, the rule joins no dock the statics did not, the husk's step at the edge is 0.35 .. 0.44, and the far pull is the untorn lump's to 0.9 percent at r = 24 .. 40.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L2 (L2: known physics reproduced on a stated model).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/gravity/clock-horizon-static.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-GRV-0111",
+        "quote": null
+      }
+    ]
+  }
+}

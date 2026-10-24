@@ -1,0 +1,28 @@
+{
+  "record": "link",
+  "id": "b9ce5d51-aaae-4d79-a9e8-586b737a327a",
+  "from": "3fedb309-47a7-439a-a09f-dfcd2e0a2df9",
+  "to": "7b294583-550f-449e-919a-bc11bab4f4a7",
+  "relation": "assumes",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "7360eddd-7087-4c91-acd5-1cfea947cffb",
+        "locator": "abstract",
+        "quote": "autonomous systems are hierarchically composed of Markov blankets of Markov blankets"
+      }
+    ]
+  }
+}

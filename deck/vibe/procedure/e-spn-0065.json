@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "5a10da4c-4bd7-47f6-89fd-dfd04f74f6f4",
+  "title": "E-SPN-0065: E-SPN-0053's \"every palindrome has a saddle\" tested past its family, a STAND-IN instrument: it holds on...",
+  "purpose": "Experiment E-SPN-0065 in the spin arena: E-SPN-0053's \"every palindrome has a saddle\" tested past its family, a STAND-IN instrument: it holds on the family x y z $P^a z y x P^b$ it was read from, and fails read broadly, since the 16-beat nested palindrome is a massive 3D bowl and x, y, y, x a planar bowl with g = 1; palindromes are bowls and saddles alike (85 and 240 in 3D), and the hypothesis that a 3D bowl is a bowl in every plane is refuted.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L1 (L1: known mathematics, correctly confirmed).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/spin/palindrome-saddle.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-SPN-0065",
+        "quote": null
+      }
+    ]
+  }
+}

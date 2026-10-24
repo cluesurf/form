@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "aa6ddef9-24a5-4d2e-9a72-eeb2580eb05d",
+  "title": "E-SLF-0138: the attraction field is ternary tones: one trit per cell repairs range 2, three trits range 3 (no bits...",
+  "purpose": "Experiment E-SLF-0138 in the selves arena: the attraction field is ternary tones: one trit per cell repairs range 2, three trits range 3 (no bits, no unbounded integers).",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L2 (L2: known physics reproduced on a stated model).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/selves/ternary-field-attraction.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-SLF-0138",
+        "quote": null
+      }
+    ]
+  }
+}

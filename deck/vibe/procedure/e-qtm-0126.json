@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "7052b843-fa78-468c-81f8-d1ddfcf471f3",
+  "title": "E-QTM-0126: the long-time fear share of the knit's two-role wholes, over all 441 products of the 21 one-role pure...",
+  "purpose": "Experiment E-QTM-0126 in the quantum arena: the long-time fear share of the knit's two-role wholes, over all 441 products of the 21 one-role pure states as starts and every meeting pair of a dock, against the Haar-typical two-qutrit state computed from deterministic directions: does the fear beat scramble a pair of roles to a typical state.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L2 (L2: known physics reproduced on a stated model).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/quantum/long-time-fear-share.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-QTM-0126",
+        "quote": null
+      }
+    ]
+  }
+}

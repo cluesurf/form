@@ -1,0 +1,45 @@
+{
+  "record": "proposition",
+  "id": "fd054320-3030-434a-8c52-0360124ed71a",
+  "kind": "philosophical",
+  "epistemic_status": "hypothesized",
+  "title": "Perceptual experiences do not approximate the world",
+  "statements": [
+    {
+      "id": "254ff5c1-c735-416e-b006-9ce3cd93d813",
+      "text": "The multimodal user interface theory holds that perceptual experiences do not match or approximate properties of the objective world, but give a simplified, species-specific user interface to it.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-23"
+    }
+  ],
+  "current_statement": "254ff5c1-c735-416e-b006-9ce3cd93d813",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "a7e70d05-b690-4622-b9c7-93120625ba04",
+        "locator": "abstract, p. 87",
+        "quote": "perceptual experiences do not match or approximate properties of the objective world"
+      }
+    ]
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "9c577fc3-9de0-4d3d-bf34-432330091046",
+  "title": "E-SPN-0141: shaking or string breaking for three holes on the slab under the frame mixer, partial (antisymmetry...",
+  "purpose": "Experiment E-SPN-0141 in the spin arena: shaking or string breaking for three holes on the slab under the frame mixer, partial (antisymmetry 2.3e-12 against 1e-12; neither mechanism supported: T1 and T3 fail, T2 holds): no threshold tracks the one-line binding gap (D 3 holds only at rate 1/512, 3.0 deg, and fails at 1/1024; D 6, with the larger gap 0.42 against 0.35, holds nowhere down to 1.8 deg; the loss's slope on the rate is 0.49 and 1.13, not 1); the rule keeps three holes three holes over 512 beats (0 fears, 0 stores, register 3), so no pair is made from the sea; the leaked weight is the same three holes bent off the line (compact off-line 70 to 92 percent of it), the fidelity beats rather than decays, and the mixer's first-order push lands on bent compact levels 0.02 to 0.06 rad from the line level: the line level dissolves into the 2d composite's multiplet; a sea-aware register window (radius 4) holds at D 3 to rate 1/512 but not at 1/64 (4.6e-3) or anywhere at D 6 (1e-2 to 5e-2), where weight escapes the w 12 window.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L2 (L2: known physics reproduced on a stated model).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/spin/slab-string-break.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-SPN-0141",
+        "quote": null
+      }
+    ]
+  }
+}

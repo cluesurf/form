@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "09bb31e4-44ad-428c-bbb0-6b6101fd4fe4",
+  "title": "E-GRV-0119: the working rule's held cluster sources a lump's 1/r, pass: with the drift cost and the fermion sign and...",
+  "purpose": "Experiment E-GRV-0119 in the gravity arena: the working rule's held cluster sources a lump's 1/r, pass: with the drift cost and the fermion sign and the cluster placed in one frame (E-SPN-0104), its 3 units stay within R90 3 over 64 beats under the working split meeting and under the keep meeting alike, the rule's energy excess equals the ring form's to 4e-16 with the vacuum untouched, and E-GRV-0090's static depth of that source reads 0.95 to 1.00 of the same-energy point lump's at r = 2 .. 6, k 0.03072 against 0.03241, core 2; E-GRV-0110's spreading source is refused again (0.37 to 0.90, k 0.0151); the held source equals the stand-in's packet to five places, so this closes the chain on the working rule rather than adding an independent source.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L2 (L2: known physics reproduced on a stated model).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/gravity/framed-cluster-depth.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-GRV-0119",
+        "quote": null
+      }
+    ]
+  }
+}

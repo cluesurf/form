@@ -1,0 +1,45 @@
+{
+  "record": "proposition",
+  "id": "dd914e46-cd93-4e11-bafe-a5ebec438488",
+  "kind": "empirical",
+  "epistemic_status": "inferred",
+  "title": "Apparent memory in dynamics comes from omitted variables",
+  "statements": [
+    {
+      "id": "9ad73586-20d4-4448-b14b-985795c212cb",
+      "text": "Apparent history dependence, such as memory kernels or non-Markovian effective dynamics, arises when a coarse description omits dynamically relevant variables. Enlarging the state to include them restores a dynamically sufficient description, so the theorem does not need every effective model to be memoryless.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "9ad73586-20d4-4448-b14b-985795c212cb",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "ac2774e1-a04c-4c89-9db2-7848c6f5ce0b",
+        "locator": "section 2",
+        "quote": "Apparent dependence on history commonly arises only because an effective or coarse-grained description omits dynamically relevant variables."
+      }
+    ]
+  }
+}

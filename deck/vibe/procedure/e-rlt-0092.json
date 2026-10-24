@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "7f4d36eb-6565-4cb3-b62f-96c11d77352e",
+  "title": "E-RLT-0092: walls with a one-dock core, the restated wall gate B' (departure only on the ideal wall's end docks...",
+  "purpose": "Experiment E-RLT-0092 in the relativity arena: walls with a one-dock core, the restated wall gate B' (departure only on the ideal wall's end docks, never growing; chosen after E-RLT-0090's numbers, disclosed), partial as predicted: the controls separate on all six cases (a one-dock core passes; a defect one dock away, a deep defect, a two-dock core and a growing core fail) and the strict reading reproduces E-RLT-0090 exactly; the four cosets that keep the hub lattice (C, g, gC, 2 r0) pass B' and C on 17 of 17 starts, 0 of 20,736 docks and 0 of 1,728 husk columns departing outside the end docks, a frozen core of 432 docks (216 per side, 72 columns, the same at every window and start) whose every trit is one side's value (0 novel), stores all its own, vibes a splice of both sides; the time coset (the old half-late wall) and r0 fail on 0 of 17 (11,250 to 11,344 and 13,732 to 13,778 docks outside, on about 1,000 and 1,152 columns): they melt, B' cannot rescue them.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L2 (L2: known physics reproduced on a stated model).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/relativity/wall-core.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-RLT-0092",
+        "quote": null
+      }
+    ]
+  }
+}

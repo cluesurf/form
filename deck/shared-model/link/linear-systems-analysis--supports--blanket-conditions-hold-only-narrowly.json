@@ -1,0 +1,34 @@
+{
+  "record": "link",
+  "id": "64542063-af88-47e7-a781-ed62f34da586",
+  "from": "b493c526-eb84-4119-8882-f308b0fab049",
+  "to": "3fc0866f-2679-411e-800a-8e35e69d2265",
+  "relation": "supports",
+  "strength": null,
+  "rationale": "The analysis of linear stochastic systems is where the conditions were found to hold only narrowly.",
+  "rule": null,
+  "status": "accepted",
+  "origin": [
+    {
+      "repository": "quantum-observers",
+      "id": "08c1addb-7804-4c82-befd-0fc8e80eca8a"
+    }
+  ],
+  "provenance": {
+    "written_by": "github:lancejpollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "12954771-1e84-4186-818f-7883b58f814b",
+        "locator": "abstract",
+        "quote": "we examine in depth the assumptions required to derive the FEP in the simplest possible set of systems – weakly-coupled non-equilibrium linear stochastic systems"
+      }
+    ]
+  }
+}

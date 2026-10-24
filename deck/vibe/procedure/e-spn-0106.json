@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "5960c6dd-dedb-409f-bb15-d82cd965563e",
+  "title": "E-SPN-0106: a string priced per proper beat does not give the held level an inertia equal to its energy, and the gap...",
+  "purpose": "Experiment E-SPN-0106 in the spin arena: a string priced per proper beat does not give the held level an inertia equal to its energy, and the gap is not the string's covariance, fail on C1, C2 and C3: on a line Nambu-Goto is the world sheet's area, which the old per-link-per-beat cost already charges (its trapezoid form is a conjugate: stand-in E and m* equal to 1e-9), and a lone love of the walk has m* = tan(pi/3) = 1.732 against its half-gap pi/3, ratio 1.654, top speed 1/2, so the walk itself is off and E-SPN-0105's 74 was read from a zero where a love at rest weighs nothing; on the walk's own terms (E_rest = pi + E) the held level's ratio is 4.28 times the lone love's with the old cost; the slant cost (a gap whose two single end loves step alike is not charged) is exact, unitary and reversible (exact window to 2e-16, reversed, vacuum untouched), but lowers the level to 0.246 without lightening it (m* 25.3, R 4.52), loses it (fidelity 0.97 at rest over 128 beats, 0.13 at pi/2) and never moves it faster than 0.058 docks a beat; the old cost reproduces E-SPN-0105's m* 24.5647 exactly and the unbound unit is refused.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L2 (L2: known physics reproduced on a stated model).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/spin/slant-string.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-SPN-0106",
+        "quote": null
+      }
+    ]
+  }
+}

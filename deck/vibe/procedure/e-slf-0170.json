@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "667a7d95-9403-42cf-af53-4c80f48ac75c",
+  "title": "E-SLF-0170: an act is determined from outside (exact replay) yet unpredictable from within (same coarse view...",
+  "purpose": "Experiment E-SLF-0170 in the selves arena: an act is determined from outside (exact replay) yet unpredictable from within (same coarse view, divergent future), Faggin free will from determinism without randomness.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L2 (L2: known physics reproduced on a stated model).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/selves/free-will-signature.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-SLF-0170",
+        "quote": null
+      }
+    ]
+  }
+}

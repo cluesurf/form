@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "d4d15bd9-26be-4ad0-94de-7197805cba2c",
+  "title": "E-DST-0019: SS4: the radial depth is a heap order, peek-min is the root in O(1)",
+  "purpose": "Experiment E-DST-0019 in the data-structure arena: SS4: the radial depth is a heap order, peek-min is the root in O(1).",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L2 (L2: known physics reproduced on a stated model).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/data-structure/radial-heap.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-DST-0019",
+        "quote": null
+      }
+    ]
+  }
+}

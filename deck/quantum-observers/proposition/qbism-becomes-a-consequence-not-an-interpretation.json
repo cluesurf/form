@@ -1,0 +1,45 @@
+{
+  "record": "proposition",
+  "id": "0624870f-3ab2-41eb-bfab-4389955cd380",
+  "kind": "philosophical",
+  "epistemic_status": "inferred",
+  "title": "QBism becomes a consequence, not an interpretation",
+  "statements": [
+    {
+      "id": "98c59080-37e8-48bd-aa99-a6fc5253a83b",
+      "text": "If generic quantum systems are observers and users of quantum information theory, QBism follows from quantum information theory instead of being one interpretation among others.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-23"
+    }
+  ],
+  "current_statement": "98c59080-37e8-48bd-aa99-a6fc5253a83b",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "4489b7d7-7273-4b67-a1c2-b53ddab0eeb5",
+        "locator": "section 5.2",
+        "quote": "Indeed Result 2) renders QBism a consequence of quantum information theory, not an interpretation."
+      }
+    ]
+  }
+}

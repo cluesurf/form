@@ -1,0 +1,45 @@
+{
+  "record": "proposition",
+  "id": "1c9acfdf-6d68-4978-ae24-4764b5552916",
+  "kind": "empirical",
+  "epistemic_status": "hypothesized",
+  "title": "Self-representation goes back to the bacterial stress response",
+  "statements": [
+    {
+      "id": "4b55c191-d953-4968-a18d-4da2a81751d4",
+      "text": "The self-representation at the center of human autonoetic awareness can be traced back to, and serves the same basic functions as, the stress response in bacteria and other basal systems.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-23"
+    }
+  ],
+  "current_statement": "4b55c191-d953-4968-a18d-4da2a81751d4",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "1792e489-be3b-46bb-ba4b-0dcd00a0abc7",
+        "locator": "abstract",
+        "quote": "the self-representation that lies at the heart of human autonoetic awareness can be traced as far back as, and serves the same basic functions as, the stress response in bacteria"
+      }
+    ]
+  }
+}

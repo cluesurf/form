@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "326ab519-c117-4c2d-9f1b-2b29ab37fe79",
+  "title": "E-FRC-0032: the marginal floor lambda^(1/2) about 4.3 is the parameter-free minimum inter-generation mass ratio...",
+  "purpose": "Experiment E-FRC-0032 in the gauge arena: the marginal floor lambda^(1/2) about 4.3 is the parameter-free minimum inter-generation mass ratio, respected by all fermions, the neutrinos closest, the intra-generation splittings the control.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L3 (L3: one base rule produced the result as a measured consequence, with a computed control that could have failed).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/gauge/mass-hierarchy-floor.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-FRC-0032",
+        "quote": null
+      }
+    ]
+  }
+}

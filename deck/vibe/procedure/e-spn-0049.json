@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "386559c0-db33-4966-b406-3fc347983b08",
+  "title": "E-SPN-0049: the exchange phase on the husk, partial: two identical vibes on the 3D husk fear walk, one per slot...",
+  "purpose": "Experiment E-SPN-0049 in the spin arena: the exchange phase on the husk, partial: two identical vibes on the 3D husk fear walk, one per slot, keep their norm on every start of two tori only when the exchanged history enters with -1, so the model gives -1 at every dock and axis and the 3D rule holds; the fear beat meeting is a cube root of the exchange (return chances 3/4, 1/4, 0, 1/4, 3/4, 1, exactly the pure exchange at three meetings), not an exchange itself; and the -1 does not tie to the double cover, whose 2 pi turn nets +1 on the knit.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L2 (L2: known physics reproduced on a stated model).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/spin/exchange-phase-on-the-husk.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-SPN-0049",
+        "quote": null
+      }
+    ]
+  }
+}

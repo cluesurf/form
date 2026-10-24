@@ -1,0 +1,45 @@
+{
+  "record": "proposition",
+  "id": "d8065bab-fd02-46e9-bec2-6508828ae91c",
+  "kind": "definitional",
+  "epistemic_status": "designed",
+  "title": "Generative model",
+  "statements": [
+    {
+      "id": "68d2d1e9-126a-40a1-ac76-059136d77d72",
+      "text": "A generative model is a probabilistic model of how sensory states are caused by hidden external states. Under the principle, a system does not need to store such a model explicitly: its states and structure encode it implicitly.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-23"
+    }
+  ],
+  "current_statement": "68d2d1e9-126a-40a1-ac76-059136d77d72",
+  "status": "active",
+  "voice": "framework",
+  "defines": "generative model",
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "d119f39b-eab6-4042-94a9-df36465abe1e",
+        "locator": "abstract",
+        "quote": "This treatment assumes that the system's state and structure encode an implicit and probabilistic model of the environment."
+      }
+    ]
+  }
+}

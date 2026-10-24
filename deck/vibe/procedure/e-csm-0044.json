@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "76b07337-5a5b-494d-8143-d1d8c547783c",
+  "title": "E-CSM-0044: the slow-roll inflaton gives the CMB spectral index $n_s$ about 0.96 (matching the observed 0.965) but a...",
+  "purpose": "Experiment E-CSM-0044 in the cosmology arena: the slow-roll inflaton gives the CMB spectral index $n_s$ about 0.96 (matching the observed 0.965) but a tensor ratio r about 0.14 that exceeds the bound r < 0.06, matching the tilt and in tension on tensors, exactly as quadratic inflation is in standard cosmology.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L2 (L2: known physics reproduced on a stated model).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/cosmology/spectral-index-tensor.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-CSM-0044",
+        "quote": null
+      }
+    ]
+  }
+}

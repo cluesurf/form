@@ -1,0 +1,45 @@
+{
+  "record": "proposition",
+  "id": "25da7545-7e6d-4674-afb7-e7e2191e1ec8",
+  "kind": "philosophical",
+  "epistemic_status": "hypothesized",
+  "title": "Cognition is a continuum with no bright line",
+  "statements": [
+    {
+      "id": "d5fbf41a-0e70-4a9d-a87d-3c798ad65cc4",
+      "text": "Cognitive capacities form a continuum. There is no binary category and no bright line between true cognition and mere physics.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-23"
+    }
+  ],
+  "current_statement": "d5fbf41a-0e70-4a9d-a87d-3c798ad65cc4",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "fd7382f9-52a5-4beb-9680-fc341ff15b98",
+        "locator": "Table 1",
+        "quote": "no binary categories, no bright line separating true cognition from"
+      }
+    ]
+  }
+}

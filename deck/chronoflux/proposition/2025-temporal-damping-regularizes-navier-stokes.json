@@ -1,0 +1,50 @@
+{
+  "record": "proposition",
+  "id": "9115dacd-cfec-4f21-854f-5144f5450830",
+  "kind": "mathematical",
+  "epistemic_status": "hypothesized",
+  "title": "2025: a temporal damping term gives global control of 3D Navier-Stokes",
+  "statements": [
+    {
+      "id": "2e1d3e2b-c81a-4bdf-8941-8b3bda79b603",
+      "text": "Conservation of the temporal field adds an intrinsic linear damping term to incompressible Navier-Stokes, and an enstrophy Lyapunov inequality gives global control whenever the regulator exceeds the time-averaged vortex stretching rate.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "2e1d3e2b-c81a-4bdf-8941-8b3bda79b603",
+  "status": "superseded",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": {
+    "value": "open",
+    "reason": "The author graded this claim superseded in his July 2026 Version 2.0 rebuild. No test has decided it.",
+    "basis": [],
+    "proposal": null
+  },
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "d2222db8-f7f0-44c3-8574-30174598aa1a",
+        "locator": "abstract",
+        "quote": "Under the stated assumptions the inequality provides global control whenever the regulator exceeds the time–averaged vortex stretching rate."
+      }
+    ]
+  }
+}

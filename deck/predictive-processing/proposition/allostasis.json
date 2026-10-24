@@ -1,0 +1,45 @@
+{
+  "record": "proposition",
+  "id": "9e81e048-f38a-4a35-82a8-a8e98caa6838",
+  "kind": "definitional",
+  "epistemic_status": "designed",
+  "title": "Allostasis",
+  "statements": [
+    {
+      "id": "67f39fb8-4139-4f2b-9998-60ae3b4e37d5",
+      "text": "Allostasis is the anticipatory regulation of bodily states through change, which goes beyond first-order homeostatic feedback.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-23"
+    }
+  ],
+  "current_statement": "67f39fb8-4139-4f2b-9998-60ae3b4e37d5",
+  "status": "active",
+  "voice": "framework",
+  "defines": "allostasis",
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "bfa85443-4b77-43f1-b5f2-ec1850a4bc3c",
+        "locator": "accepted manuscript p. 7",
+        "quote": "the regulation of bodily states through change"
+      }
+    ]
+  }
+}

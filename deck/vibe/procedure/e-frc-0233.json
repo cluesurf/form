@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "889c04b1-32b3-49a2-8d7d-5abd094dd0c0",
+  "title": "E-FRC-0233: spontaneous emission into a propagating quantum light, a STAND-IN atom on the plaquette ladder: the pure...",
+  "purpose": "Experiment E-FRC-0233 in the gauge arena: spontaneous emission into a propagating quantum light, a STAND-IN atom on the plaquette ladder: the pure excited atom gives its quantum to the ladder where the force-off light cannot take it, the exact rule follows the linear single-excitation light on a six-square box, and that light on a long ladder decays at the golden-rule rate.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L2 (L2: known physics reproduced on a stated model).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/gauge/ladder-emission.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-FRC-0233",
+        "quote": null
+      }
+    ]
+  }
+}

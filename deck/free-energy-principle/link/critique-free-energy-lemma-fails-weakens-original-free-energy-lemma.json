@@ -1,0 +1,28 @@
+{
+  "record": "link",
+  "id": "9c80d305-037a-4922-bb4c-3e107e898b5d",
+  "from": "8b5b4738-1b5d-49bf-a476-51c5ed1a140f",
+  "to": "23e7eee6-bbb3-4427-845b-eef77947b2b6",
+  "relation": "weakens",
+  "strength": null,
+  "rationale": "The critique proves the lemma wrong at face value.",
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "c9ef4700-4874-48f3-be4f-31772439b03f",
+        "locator": "abstract",
+        "quote": "We prove by counterexamples that the original free energy lemma, when taken at face value, is wrong."
+      }
+    ]
+  }
+}

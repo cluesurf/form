@@ -1,0 +1,50 @@
+{
+  "record": "proposition",
+  "id": "67c4b7b1-3812-477f-93db-e01c28cfae39",
+  "kind": "empirical",
+  "epistemic_status": "hypothesized",
+  "title": "Eureka moments assign importance, not truth",
+  "statements": [
+    {
+      "id": "b95f52ac-2e02-4025-9740-e7b5f5f27fcf",
+      "text": "Eureka moments do not reveal truth. They assign importance to ideas at random or pseudorandom, like mutations not aimed at a useful outcome, and make a person fall in love with an idea and then look for reasons to defend it.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "b95f52ac-2e02-4025-9740-e7b5f5f27fcf",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "e6dbdcc2-6236-4a28-8cc2-6ae671d7b6af",
+        "locator": "opening",
+        "quote": "My hypothesis is that eureka moments instead assign importance to ideas in a random or pseudorandom way."
+      },
+      {
+        "source": "983ce19a-a7da-4801-9728-4eca49c1b243",
+        "locator": "How the instinct works",
+        "quote": "They make us fall in love with it."
+      }
+    ]
+  }
+}

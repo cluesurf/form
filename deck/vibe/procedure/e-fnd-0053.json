@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "9ba72ef7-2995-468c-9055-d3e6b70ff0ea",
+  "title": "E-FND-0053: the directional structure does NOT supply a raw quantum amplitude: the occupation L2 norm oscillates...",
+  "purpose": "Experiment E-FND-0053 in the foundations arena: the directional structure does NOT supply a raw quantum amplitude: the occupation L2 norm oscillates under the knit (not unitary), while the net charge is conserved exactly, so the raw substrate is a reversible charge-conserving CA and TD complexification to a quantum amplitude is a continuum/emergent step, not a discrete one, matching vibe stance that quantum is emergent.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L2 (L2: known physics reproduced on a stated model).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/foundations/directional-phase-quantum-emergent.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-FND-0053",
+        "quote": null
+      }
+    ]
+  }
+}

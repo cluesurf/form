@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "d694fad5-a202-4a1a-8380-b4d73b5cc881",
+  "title": "E-SPN-0204: explores whether the weak doublet could be the tone-flipping Hodge star of the one-walker reading: how...",
+  "purpose": "Experiment E-SPN-0204 in the spin arena: explores whether the weak doublet could be the tone-flipping Hodge star of the one-walker reading: how R*'s colour links act on the fear tone, star from love Lambda^k to fear Lambda^(3-k) as an exact Sigma(648) intertwiner, the commutant census of the 16 internal states, and the conserved numbers of the pair piece P_+ + w P_-.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L1 (L1: known mathematics, correctly confirmed).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/spin/weak-doublet.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-SPN-0204",
+        "quote": null
+      }
+    ]
+  }
+}

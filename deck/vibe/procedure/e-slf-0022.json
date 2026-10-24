@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "4d989e3d-edf1-4996-b169-165cc4180e72",
+  "title": "E-SLF-0022: the self maintains a stable organization while its cells turn over, the cohesion-off control does not",
+  "purpose": "Experiment E-SLF-0022 in the selves arena: the self maintains a stable organization while its cells turn over, the cohesion-off control does not.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L2 (L2: known physics reproduced on a stated model).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/selves/coarse-autopoietic-closure.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-SLF-0022",
+        "quote": null
+      }
+    ]
+  }
+}

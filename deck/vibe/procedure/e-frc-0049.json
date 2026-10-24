@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "d4becc1b-768e-401b-9d16-520e2d2e6efc",
+  "title": "E-FRC-0049: the 1D gauge force confines two opposite charges (bound at any energy), zero coupling lets them escape",
+  "purpose": "Experiment E-FRC-0049 in the gauge arena: the 1D gauge force confines two opposite charges (bound at any energy), zero coupling lets them escape.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L2 (L2: known physics reproduced on a stated model).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/gauge/two-charge-binding.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-FRC-0049",
+        "quote": null
+      }
+    ]
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "record": "proposition",
+  "id": "0543c174-8038-4233-a0ef-c5b518dfc19b",
+  "kind": "philosophical",
+  "epistemic_status": "inferred",
+  "title": "Critique: gradual neural replacement favors substrate flexibility",
+  "statements": [
+    {
+      "id": "a5540f94-249b-4912-8715-07a23f9126b9",
+      "text": "If brain cells were replaced one by one with silicon parts that copy their input and output exactly, behavior would not change, which suggests consciousness would not fade and so is not tied to biology.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-23"
+    }
+  ],
+  "current_statement": "a5540f94-249b-4912-8715-07a23f9126b9",
+  "status": "active",
+  "voice": "critique",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "e391f78a-61b9-464c-883b-2181082dabd3",
+        "locator": "accepted manuscript p. 9, reporting Chalmers 1995",
+        "quote": "The way out of these strange implications seems to be to accept silicon substrate flexibility."
+      }
+    ]
+  }
+}

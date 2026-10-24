@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "fea9dd24-e24b-4471-babe-3c86fa366c7b",
+  "title": "E-FRC-0271: the SU(2)+ gauge field on the register rule gives Gauss's law exactly and reads isospin, but joins no...",
+  "purpose": "Experiment E-FRC-0271 in the gauge arena: the SU(2)+ gauge field on the register rule gives Gauss's law exactly and reads isospin, but joins no halves and selects no breaking sea, fail as derived: 2T acting on half + by right multiplication is an exact homomorphism commuting with every piece, the electric and magnetic pieces are class functions, so every local 2T move is a symmetry; a half + member carries two doublets and a half - member none; Gauss makes a triplet pair emit flux (the least a triangle loop) while a singlet needs none, so the field reads isospin with the sign that favors the symmetric sea; the field commutes with J, so no channel joins the halves; the breaking sea is not stationary in a curved field and lies in each dock's Gauss sector with weight exactly 1/6 + (2/3) $2^{-24}$, its order parameter averaging to 0 there (Elitzur).",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L1 (L1: known mathematics, correctly confirmed).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/gauge/register-su2-gauge.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-FRC-0271",
+        "quote": null
+      }
+    ]
+  }
+}

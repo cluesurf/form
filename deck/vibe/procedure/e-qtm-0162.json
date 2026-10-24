@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "5fd511b2-552f-4119-a1ec-1a517037d306",
+  "title": "E-QTM-0162: Wigner's friend on the rule's own gates, partial: a friend love records the system's arm by a meeting...",
+  "purpose": "Experiment E-QTM-0162 in the quantum arena: Wigner's friend on the rule's own gates, partial: a friend love records the system's arm by a meeting (reads 0 with 3/16, and then the system was R for certain); Wigner's two further meetings ((w U)^3 = I) restore the friend's memory with probability 1 and the no-friend interference exactly (P(R) 1/4, where the friend's reading made definite predicts 17/32); once the record is copied to a third love the undo on system and friend fails (L1 0.42, memory back with 91/256); the friend is one vibe's point, not a self, and the schedule is arranged.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L2 (L2: known physics reproduced on a stated model).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/quantum/wigners-friend.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-QTM-0162",
+        "quote": null
+      }
+    ]
+  }
+}

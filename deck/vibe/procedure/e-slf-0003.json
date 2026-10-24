@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "dd50ff4c-46aa-4cb1-9d1f-d326445cc722",
+  "title": "E-SLF-0003: an aligned self has low internal conflict and a decisive urge, a fragmented self is in conflict and torn",
+  "purpose": "Experiment E-SLF-0003 in the selves arena: an aligned self has low internal conflict and a decisive urge, a fragmented self is in conflict and torn.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L1 (L1: known mathematics, correctly confirmed).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/selves/alignment-lowers-conflict.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-SLF-0003",
+        "quote": null
+      }
+    ]
+  }
+}

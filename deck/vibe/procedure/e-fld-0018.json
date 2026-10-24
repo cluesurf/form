@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "de35b995-6e30-4205-be7d-07a14c7dff08",
+  "title": "E-FLD-0018: the coarse gas at equilibrium carries equal power in every spatial mode (the low, mid and high k-shell...",
+  "purpose": "Experiment E-FLD-0018 in the fluids arena: the coarse gas at equilibrium carries equal power in every spatial mode (the low, mid and high k-shell means within fifteen percent, the Rayleigh-Jeans branch of the blackbody law measured) with NO high-k suppression (the ultraviolet catastrophe is averted only by the finite mode count of the lattice, so the Planck falloff must come from the quantum layer, the located requirement), while the quarter-confined control start concentrates a hundredfold excess at k = 1 that two hundred ten beats collapse below five (the approach to equipartition, the residual the hydrodynamic k-squared tail).",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L2 (L2: known physics reproduced on a stated model).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/fluids/thermal-spectrum-equipartition.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-FLD-0018",
+        "quote": null
+      }
+    ]
+  }
+}

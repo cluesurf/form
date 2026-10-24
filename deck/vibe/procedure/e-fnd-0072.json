@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "9ee45299-99c2-4295-8a39-7b49c53c550d",
+  "title": "E-FND-0072: a recording window records at most its Shannon capacity ln(B) and the excess spills conserved: the...",
+  "purpose": "Experiment E-FND-0072 in the foundations arena: a recording window records at most its Shannon capacity ln(B) and the excess spills conserved: the coarse window recorded distinguishability saturates at ln(B) while the input fine complexity keeps rising (TD spectral plateau), the ceiling scales as ln(B) with window size, and injected excess streams out conserved under the committed rule while a lossy rule loses it, instantiating Timeless Dynamics recordability capacity c(q) >= phi(q) + nu on the substrate.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L2 (L2: known physics reproduced on a stated model).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/foundations/recordability-capacity-ceiling.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-FND-0072",
+        "quote": null
+      }
+    ]
+  }
+}

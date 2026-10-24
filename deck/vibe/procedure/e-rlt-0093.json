@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "b5af8075-3f79-4f2e-a339-1e104b13eba9",
+  "title": "E-RLT-0093: the coset-union hub vacuum, partial as predicted: the hub pattern's three empty norm-4 classes are its...",
+  "purpose": "Experiment E-RLT-0093 in the relativity arena: the coset-union hub vacuum, partial as predicted: the hub pattern's three empty norm-4 classes are its own hub class translated, so the union of the four translates by L' / 2 D4 (every L' dock a hub, every root dock storing its frame's four lines, oriented under 2T and one element, 72 kept) fills every dock and runs as four independent hub vacua (0 mismatches, 0 shared slots); on all 17 starts the husk is ONE causal component with every column descending from the seed by beat 10, pairs are made and unmade (393,216 over 96 beats), and a lone wake is 15 to 16 trits per period on side 8 (22 on side 12) with 0 off its line; but the seed's dependence cone is 61 of 512 husk docks, exactly the free star, as line locality forces under L on any vacuum; K fills the cone (512) with a wake of 40,214.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L2 (L2: known physics reproduced on a stated model).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/relativity/coset-union-vacuum.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-RLT-0093",
+        "quote": null
+      }
+    ]
+  }
+}

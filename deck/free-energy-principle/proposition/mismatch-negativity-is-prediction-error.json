@@ -1,0 +1,45 @@
+{
+  "record": "proposition",
+  "id": "f871a722-c5fb-4065-848c-ee180113b0b5",
+  "kind": "empirical",
+  "epistemic_status": "hypothesized",
+  "title": "Mismatch negativity and repetition suppression are prediction error",
+  "statements": [
+    {
+      "id": "4b63c9ed-ba24-43ac-b4a9-9718f858d2fc",
+      "text": "Responses that encode prediction error should shrink with perceptual learning. This explains repetition suppression, the mismatch negativity and the P300 in electroencephalography.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-23"
+    }
+  ],
+  "current_statement": "4b63c9ed-ba24-43ac-b4a9-9718f858d2fc",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "a6941f16-a2de-4b67-b9c7-f026073173fc",
+        "locator": "abstract",
+        "quote": "It predicts the attenuation of responses encoding prediction error with perceptual learning and explains many phenomena such as repetition suppression, mismatch negativity (MMN) and the P300 in electroencephalography."
+      }
+    ]
+  }
+}

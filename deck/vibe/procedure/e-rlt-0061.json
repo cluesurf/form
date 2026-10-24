@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "bc9a588b-cd08-4114-b0ef-ecad3f157fcc",
+  "title": "E-RLT-0061: a knit with W(F4) as its exact symmetry exists and keeps CPT: the isometric knit (each dock applies the...",
+  "purpose": "Experiment E-RLT-0061 in the relativity arena: a knit with W(F4) as its exact symmetry exists and keeps CPT: the isometric knit (each dock applies the one coin map that is -1 on the mirrors holding its momentum, the covariant FCHC isometric collision) is kept by all 1,152 coin maps (rule table exhaustively, exact linearization to 0), is an exact involution keeping charge, count and momentum (0 failures on 21,152 docks), has CPT, C and PT, acts on 57.5 percent of dock states and touches all 24 directions; its exact linear equation gives husk exponents 3.99 (charge diffusion), 3.98 (momentum-sector trace) and 3.96 (sound) and 2.01 (shear), where the first-mirror control with the same conservation and CPT gives 0.00 (charge anisotropy 0.68 at leading order); it gives up exact local color (the side sum changes on 5,273 docks, and under W(F4) exact color would freeze all 12 line momenta) and the clocking vacuum (count is kept, so the calm vacuum is still and a lone vibe stays lone, dressing 1, 24 of 24 travelling).",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L2 (L2: known physics reproduced on a stated model).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/relativity/isometric-knit.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-RLT-0061",
+        "quote": null
+      }
+    ]
+  }
+}

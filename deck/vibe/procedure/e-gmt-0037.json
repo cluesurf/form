@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "ba63c77b-a6ad-46ff-afaf-9ae2d9f2b7eb",
+  "title": "E-GMT-0037: repeating a bulk loop accumulates holonomy linearly (N times the single-loop rotation) and returns the...",
+  "purpose": "Experiment E-GMT-0037 in the geometry arena: repeating a bulk loop accumulates holonomy linearly (N times the single-loop rotation) and returns the frame exactly only at the commensurate meta-period, so a generic loop never repeats its viewpoint while a tuned loop closes, and a flat loop always returns.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L2 (L2: known physics reproduced on a stated model).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/geometry/repeated-loop-drift.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-GMT-0037",
+        "quote": null
+      }
+    ]
+  }
+}

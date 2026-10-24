@@ -1,0 +1,39 @@
+{
+  "record": "observation",
+  "id": "7dbe9aba-0688-4b24-a0f6-1718b114102e",
+  "kind": "documentary_record",
+  "epistemic_status": "observed",
+  "description": "As of the 2021 paper, neither Bell nor Leggett-Garg inequality violations had been conclusively demonstrated with biological systems, and the predictions remained largely untested.",
+  "method": "document_review",
+  "status": "reported",
+  "source": "4489b7d7-7273-4b67-a1c2-b53ddab0eeb5",
+  "procedure": null,
+  "variable": null,
+  "value": null,
+  "unit": null,
+  "uncertainty": null,
+  "sample_size": null,
+  "replication_count": null,
+  "quality": null,
+  "limitations": null,
+  "conflicts_of_interest": null,
+  "observed_at": "2021-12-30",
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "4489b7d7-7273-4b67-a1c2-b53ddab0eeb5",
+        "locator": "section 5.4",
+        "quote": "Neither Bell nor Leggett-Garg inequality violations have been conclusively demonstrated with biological systems."
+      }
+    ]
+  }
+}

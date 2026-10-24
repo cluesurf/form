@@ -1,0 +1,28 @@
+{
+  "record": "link",
+  "id": "3b995e5a-2fda-470b-a9fa-992818a04a44",
+  "from": "1bf8c003-acbc-4c5f-8353-f75095994011",
+  "to": "f9bffa23-3e9e-4811-ad6a-06bdd3048a14",
+  "relation": "requires",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "2dd94478-888b-48b9-bba8-eb449f0b667d",
+        "locator": "abstract",
+        "quote": "the information geometry induced in any system—whose internal states can be distinguished from external states—must acquire a dual aspect."
+      }
+    ]
+  }
+}

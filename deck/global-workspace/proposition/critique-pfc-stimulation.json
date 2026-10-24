@@ -1,0 +1,45 @@
+{
+  "record": "proposition",
+  "id": "2f22ccd3-0506-4c6f-8ed4-eecf7d24ddfe",
+  "kind": "empirical",
+  "epistemic_status": "inferred",
+  "title": "Critique: stimulating anterolateral prefrontal cortex rarely changes experience",
+  "statements": [
+    {
+      "id": "42cfb5ff-dbcb-4fd5-b792-a65c8a1a3e33",
+      "text": "Intracranial electrical stimulation of anterolateral prefrontal sites seldom elicits any reportable change in conscious experience, which challenges theories that place the workspace in prefrontal cortex.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-23"
+    }
+  ],
+  "current_statement": "42cfb5ff-dbcb-4fd5-b792-a65c8a1a3e33",
+  "status": "active",
+  "voice": "critique",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "29f40e6a-5d69-4dfe-8a4c-acdc32dd15d6",
+        "locator": "abstract",
+        "quote": "this evidence presents a challenge for higher-order and global workspace theories"
+      }
+    ]
+  }
+}

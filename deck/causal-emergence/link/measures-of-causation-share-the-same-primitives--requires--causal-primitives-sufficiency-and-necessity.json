@@ -1,0 +1,28 @@
+{
+  "record": "link",
+  "id": "fa1a3262-3adc-4c26-993b-e57eb300f3c5",
+  "from": "34764c7d-248a-43ad-b072-a2d9d4054cbc",
+  "to": "9c6341da-fc56-42e3-8581-ab287a006c6f",
+  "relation": "requires",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "730ddfd3-ad1a-4e42-9b1d-3ef590ddaba4",
+        "locator": "abstract",
+        "quote": "All showed cases of causal emergence. This is because, we prove, measures of causation are based on a small set of related \"causal primitives.\""
+      }
+    ]
+  }
+}

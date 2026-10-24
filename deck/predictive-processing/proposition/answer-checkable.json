@@ -1,0 +1,50 @@
+{
+  "record": "proposition",
+  "id": "36da1ddf-42ba-4051-9f25-953da54945f4",
+  "kind": "philosophical",
+  "epistemic_status": "inferred",
+  "title": "Answer: checks include cardiac illusions and models of eye movements",
+  "statements": [
+    {
+      "id": "ea4b0765-3090-4c2a-89b4-bc4d3b43fceb",
+      "text": "What can be checked: heartbeat-synchronized augmented-reality body illusions, interoceptive manipulations of presence and anxiety, and computational models that predict epistemic actions such as eye movements.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-23"
+    }
+  ],
+  "current_statement": "ea4b0765-3090-4c2a-89b4-bc4d3b43fceb",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "8ed62dfe-4468-4f53-9b70-f009ba2dbe4f",
+        "locator": "p. 569",
+        "quote": "combined augmented reality with physiological monitoring to implement a version of the RHI"
+      },
+      {
+        "source": "c9c5835d-7979-407c-992f-7ec84ebe5472",
+        "locator": "accepted manuscript p. 2",
+        "quote": "one can make specific predictions about epistemic actions such as eye-movements"
+      }
+    ]
+  }
+}

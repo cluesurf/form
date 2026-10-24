@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "d458f71c-69ed-478f-bf15-8fb8e15caa4e",
+  "title": "E-FND-0043: the from-nothing derivation run as one chain, current: seven rungs (tone, arrow, eight, census, cell...",
+  "purpose": "Experiment E-FND-0043 in the foundations arena: the from-nothing derivation run as one chain, current: seven rungs (tone, arrow, eight, census, cell, mesh, law) each recompute their canonical number by exhaustive enumeration, with the arrow squares computed, the dimension-eight floor forced by triality, the cell faces derived, the law forced to exactly one by the crystallographic B4, and the honest residual leap map (the hyperbolic tiling choice over the flat {3,4,3,3} included) stated rather than glossed.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L1 (L1: known mathematics, correctly confirmed).",
+  "status": "completed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/foundations/forced-derivation-ladder.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "research/result.ts R-FND-0002",
+        "quote": null
+      }
+    ]
+  }
+}

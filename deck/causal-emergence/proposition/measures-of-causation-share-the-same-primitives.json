@@ -1,0 +1,45 @@
+{
+  "record": "proposition",
+  "id": "34764c7d-248a-43ad-b072-a2d9d4054cbc",
+  "kind": "mathematical",
+  "epistemic_status": "inferred",
+  "title": "Measures of causation share the same primitives",
+  "statements": [
+    {
+      "id": "fd8cf9c7-7b53-4243-95f6-119bfda4c535",
+      "text": "More than a dozen independently developed measures of causation all show causal emergence, because each is built from the same small set of causal primitives.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-23"
+    }
+  ],
+  "current_statement": "fd8cf9c7-7b53-4243-95f6-119bfda4c535",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "730ddfd3-ad1a-4e42-9b1d-3ef590ddaba4",
+        "locator": "abstract",
+        "quote": "All showed cases of causal emergence. This is because, we prove, measures of causation are based on a small set of related \"causal primitives.\""
+      }
+    ]
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "record": "proposition",
+  "id": "861bd95d-4099-4f22-8b64-9ff2b011a6b7",
+  "kind": "empirical",
+  "epistemic_status": "simulated",
+  "title": "E-FRC-0151: the quark string with one Sigma(648) element per link: the string between a static love line and a fear...",
+  "statements": [
+    {
+      "id": "dfc64497-fa19-41ef-b910-3252cc93f9c5",
+      "text": "The quark string with one Sigma(648) element per link: the string between a static love line and a fear line stays taut on both branches (excess under 0.61 melted, under 0.012 cold), the melted meson binds while it moves (gap 1.43 against 65.6), and the full element keeps its center unbroken (|<P>| 0.0001), but no Creutz ratio can be read (loops past 1 x 1 at the noise) and the cold meson is frozen, so two gates fail.",
+      "language": "en",
+      "scope": "experiment E-FRC-0151, arena gauge, depth L2 (L2: known physics reproduced on a stated model)",
+      "conditions": "substrates: 3434. In a paper: false",
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-22"
+    }
+  ],
+  "current_statement": "dfc64497-fa19-41ef-b910-3252cc93f9c5",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": {
+    "value": "open",
+    "reason": "holds in the vibe claim graph",
+    "basis": [],
+    "proposal": null
+  },
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "research/result.ts R-FRC-0006",
+        "quote": null
+      }
+    ]
+  }
+}

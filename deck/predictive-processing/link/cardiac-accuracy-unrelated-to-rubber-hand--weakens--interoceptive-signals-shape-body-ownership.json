@@ -1,0 +1,28 @@
+{
+  "record": "link",
+  "id": "de8a776d-d35b-4033-a269-022243dadeec",
+  "from": "a8f1b842-f143-4870-b859-8b220da4e521",
+  "to": "c1725fd1-d2e6-4885-b268-073fd31ec129",
+  "relation": "weakens",
+  "strength": null,
+  "rationale": "Cardiac interoceptive accuracy did not predict the strength of the illusion, against the reported link between interoceptive sensitivity and body ownership.",
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "7419b409-0892-4ae6-ac52-223508fc99bc",
+        "locator": "abstract",
+        "quote": "We concluded that individual differences in proprioceptive processing impact the RHI, while cardioceptive accuracy is unrelated to it."
+      }
+    ]
+  }
+}

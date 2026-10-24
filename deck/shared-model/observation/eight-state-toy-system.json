@@ -1,0 +1,44 @@
+{
+  "record": "observation",
+  "id": "59e29779-4b01-41a4-a265-766f20d826d2",
+  "kind": "counterexample",
+  "epistemic_status": "inferred",
+  "description": "An eight-state toy system has about 0.54 bits of mutual information under a uniform distribution over microstates and 1 bit under a uniform distribution over two macrostates, a gain that disappears when the macro distribution is derived from the micro one.",
+  "method": "derived",
+  "status": "reported",
+  "source": "814b4234-c518-4e2b-ada0-57e48cdbcb86",
+  "procedure": null,
+  "variable": null,
+  "value": null,
+  "unit": null,
+  "uncertainty": null,
+  "sample_size": null,
+  "replication_count": null,
+  "quality": null,
+  "limitations": null,
+  "conflicts_of_interest": null,
+  "observed_at": null,
+  "origin": [
+    {
+      "repository": "causal-emergence",
+      "id": "a634a152-bb87-4d87-92fd-a989da5bb22e"
+    }
+  ],
+  "provenance": {
+    "written_by": "github:lancejpollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "814b4234-c518-4e2b-ada0-57e48cdbcb86",
+        "locator": "post body",
+        "quote": "So knowing the initial macrostate gives us 1 full bit of information about the final state, which is more than the ~0.54 bits that looking at the microstate gave us!"
+      }
+    ]
+  }
+}

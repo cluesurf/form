@@ -1,0 +1,33 @@
+{
+  "record": "link",
+  "id": "d7e73250-4a90-4b4b-a396-6be61d1bbe8b",
+  "from": "8bf9461d-fd13-4a3b-af4c-83e071ab474c",
+  "to": "f6f764fe-3c28-46b7-9be5-8fc2b364733e",
+  "relation": "defines",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "0e8a27d1-8b93-45f2-a326-74fe69301c54",
+        "locator": "abstract",
+        "quote": "a set of specialized and modular perceptual, motor, memory, evaluative, and attentional processors"
+      },
+      {
+        "source": "9b21a09b-835f-4256-afbf-19425df2597e",
+        "locator": "abstract",
+        "quote": "many modular cerebral networks are active in parallel and process information in an unconscious manner"
+      }
+    ]
+  }
+}

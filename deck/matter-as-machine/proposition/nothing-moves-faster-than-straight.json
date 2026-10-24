@@ -1,0 +1,45 @@
+{
+  "record": "proposition",
+  "id": "dc571a1a-eb32-41c8-a684-50241fb88a11",
+  "kind": "empirical",
+  "epistemic_status": "inferred",
+  "title": "Speed is limited because nothing moves faster than straight",
+  "statements": [
+    {
+      "id": "70bf5d97-c55a-45fb-a4f2-1d9c657d3aba",
+      "text": "A machine whose every state points the same way moves one step per tick, the greatest speed possible, so speed has an upper limit.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "70bf5d97-c55a-45fb-a4f2-1d9c657d3aba",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "f1f9bdb8-14c9-4c62-9e48-01ecc2870699",
+        "locator": "Limited speed",
+        "quote": "You cannot move faster than straight."
+      }
+    ]
+  }
+}

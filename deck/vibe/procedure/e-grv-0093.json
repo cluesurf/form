@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "2a002dc1-ad4d-4b38-ac6a-4e6909b371bf",
+  "title": "E-GRV-0093: the spanned husk light bends by general relativity's 2 through the radion's own slab, pass on the light...",
+  "purpose": "Experiment E-GRV-0093 in the gravity arena: the spanned husk light bends by general relativity's 2 through the radion's own slab, pass on the light, with the matter's fall not alike: delayed 422.0 beats against its eikonal 419.2, it reads 2.258 of Newton's count with the lump's closed pull (closed value 2.243 on this staircase, weak-field reading 2.014), beside the general-relativity control wave's 2.338 and far from the clock-only control's 1.091 and the unchanged light's 1.060; but the lumps that carry the same change fall at only 0.855 and 0.384 of their ray law, a factor 2.2 apart, so with their measured pull the factor is 3.64, and the universal fall this light needs is not shown.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L2 (L2: known physics reproduced on a stated model).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/gravity/depth-span-lens.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-GRV-0093",
+        "quote": null
+      }
+    ]
+  }
+}

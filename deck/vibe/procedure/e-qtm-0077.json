@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "9d2c9d09-9e60-420a-af3f-fb6eae8bb84f",
+  "title": "E-QTM-0077: the topological winding number measured from a chiral walk's own dynamics: the mean chiral displacement...",
+  "purpose": "Experiment E-QTM-0077 in the quantum arena: the topological winding number measured from a chiral walk's own dynamics: the mean chiral displacement of a two-beat coined walk converges to five distinct integers (-2, -1, 0, +1, +2) across five sectors of coin space, each within 0.02 of an integer despite ballistic spreading, while a trivial coin gives exactly zero.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L2 (L2: known physics reproduced on a stated model).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/quantum/topological-winding.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-QTM-0077",
+        "quote": null
+      }
+    ]
+  }
+}

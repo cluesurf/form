@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "710e035b-61c3-4122-a7c8-e3020374ad50",
+  "title": "E-FRC-0113: a search nobody ran: every coin symmetry, combined with every tone relabelling and every shift in time...",
+  "purpose": "Experiment E-FRC-0113 in the gauge arena: a search nobody ran: every coin symmetry, combined with every tone relabelling and every shift in time, against the committed turning weave and the triality weave, for a color triality hidden as a combined or time-shifted symmetry.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L2 (L2: known physics reproduced on a stated model).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/gauge/hidden-rule-symmetries.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-FRC-0113",
+        "quote": null
+      }
+    ]
+  }
+}

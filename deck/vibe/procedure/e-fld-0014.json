@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "a7542a8f-4308-48e5-afbd-9f97880d8e57",
+  "title": "E-FLD-0014: the momentum gas density wave is a coarse amplitude with a sign: disjoint pulses superpose to machine...",
+  "purpose": "Experiment E-FLD-0014 in the fluids arena: the momentum gas density wave is a coarse amplitude with a sign: disjoint pulses superpose to machine precision, a compression crossing a rarefaction cancels the total absolute excess to under six tenths of the separate sum (destructive interference), the nonlinear superposition gap during overlap is measured as the obstruction a unitary coarse dynamics would need to lack, and under the momentum-pinning table nothing propagates and no cancellation occurs.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L2 (L2: known physics reproduced on a stated model).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/fluids/sound-superposition-interference.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-FLD-0014",
+        "quote": null
+      }
+    ]
+  }
+}

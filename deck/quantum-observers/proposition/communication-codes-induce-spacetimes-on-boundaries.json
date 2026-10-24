@@ -1,0 +1,45 @@
+{
+  "record": "proposition",
+  "id": "32cf0642-658a-40ab-b2a9-73a0f0d37f38",
+  "kind": "mathematical",
+  "epistemic_status": "inferred",
+  "title": "Communication codes induce spacetimes on boundaries",
+  "statements": [
+    {
+      "id": "1f47b00c-d05c-4d9b-93d3-a011a09a957c",
+      "text": "Local operations and classical communication between agents induce quantum error-correcting codes on the agent-environment boundary, and generic bulk-boundary codes, the HaPPY code among them, induce effective spacetimes.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-23"
+    }
+  ],
+  "current_statement": "1f47b00c-d05c-4d9b-93d3-a011a09a957c",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "0106999c-ce99-4816-800a-819a3635b0f4",
+        "locator": "abstract",
+        "quote": "We then show how generic QECCs, as bulk- boundary codes, induce effective spacetimes."
+      }
+    ]
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "335e549e-86fb-4896-bac7-7ba80f599416",
+  "title": "E-FRC-0065: the charged-lepton Koide relation does not extend to the neutrinos: with the measured mass-squared...",
+  "purpose": "Experiment E-FRC-0065 in the gauge arena: the charged-lepton Koide relation does not extend to the neutrinos: with the measured mass-squared splittings the neutrino Koide Q maxes at 0.584 (normal) and 0.500 (inverted), both below 2/3 and unreachable with positive roots, so the mechanism is charged-lepton specific and the neutrino sector needs different structure, completing the scope audit begun for the quarks.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L1 (L1: known mathematics, correctly confirmed).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/gauge/koide-scope-neutrinos.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-FRC-0065",
+        "quote": null
+      }
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "record": "link",
+  "id": "56c9c717-123e-48bc-92d2-915170c622ac",
+  "from": "bf510dcc-a42b-4855-a75a-d416ac9cf903",
+  "to": "0a7d29f3-2682-4674-99c7-3d5216b99124",
+  "relation": "requires",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "8443eb2e-406e-4acc-94e8-33cbabbd3679",
+        "locator": "section \"Axioms of phenomenal existence\" (full text)",
+        "quote": "IIT takes the above set of axioms to be complete: there are no further properties of experience that are essential."
+      }
+    ]
+  }
+}

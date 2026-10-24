@@ -1,0 +1,45 @@
+{
+  "record": "proposition",
+  "id": "e7ab3bf1-05dc-4791-9f5e-9eb017bd3fba",
+  "kind": "mathematical",
+  "epistemic_status": "inferred",
+  "title": "Self-organization reads as optimal Bayesian design",
+  "statements": [
+    {
+      "id": "54602193-5147-48e7-89a4-b4fe04c6df90",
+      "text": "Read teleologically, the principle gives an optimality account of self-organization: things behave as if maximizing the marginal likelihood (Bayesian model evidence) of their own model.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-23"
+    }
+  ],
+  "current_statement": "54602193-5147-48e7-89a4-b4fe04c6df90",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "951a63ba-fbb2-4b78-af38-52646f22dbe0",
+        "locator": "abstract (arXiv record)",
+        "quote": "Teleologically, the free energy principle offers a normative account of self-organisation in terms of optimal Bayesian design and decision-making, in the sense of maximising marginal likelihood or Bayesian model evidence."
+      }
+    ]
+  }
+}

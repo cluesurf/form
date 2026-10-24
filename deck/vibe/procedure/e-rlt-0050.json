@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "2e06a3a4-ff18-47aa-9547-cfe8cab30ced",
+  "title": "E-RLT-0050: the four-line scatter block does not open the fork, it narrows it: tested on states that make its...",
+  "purpose": "Experiment E-RLT-0050 in the relativity arena: the four-line scatter block does not open the fork, it narrows it: tested on states that make its scatterings fire, every beat of the combined knit keeps only symmetries of its head-on base beat, and on the four beats where the base has 4 the block breaks the 2 that carry scatterings outside their sets (8 removed in all), leaving the identity and the point inversion with charge conjugation everywhere; the knit keeps CPT with a period group of order 2 (reducible) and a long-wave anisotropy of 0.84 and 0.81 at sides 9 and 13; and for the head-on beat shape and its free-orientation, orbit-swap relaxation no irreducible period group exists over every subgroup of every beat stabilizer, so a block added on top of those beats cannot make one.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L2 (L2: known physics reproduced on a stated model).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/relativity/scatter-block-symmetry.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-RLT-0050",
+        "quote": null
+      }
+    ]
+  }
+}

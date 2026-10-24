@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "958acbea-5447-4a60-91f3-6b1d77baab7c",
+  "title": "E-HLG-0009: the HaPPY code tiled on the {5,3,4} bulk, the code distance protecting a bulk self grows as 3^depth",
+  "purpose": "Experiment E-HLG-0009 in the holography arena: the HaPPY code tiled on the {5,3,4} bulk, the code distance protecting a bulk self grows as 3^depth.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L2 (L2: known physics reproduced on a stated model).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/holography/happy-tiling-534.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-HLG-0009",
+        "quote": null
+      }
+    ]
+  }
+}

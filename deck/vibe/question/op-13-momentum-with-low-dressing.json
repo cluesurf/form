@@ -1,0 +1,26 @@
+{
+  "record": "question",
+  "id": "dc216bb3-243e-451c-ab3b-74e88c138be8",
+  "text": "Is there a knit that keeps particle momentum, dresses a lone vibe no more than the turning weave, and reaches hydrodynamics?",
+  "kind": "missing_evidence",
+  "status": "open",
+  "parent": null,
+  "description": "OP-13: momentum with low dressing.\n\nKnown: the committed knit does not conserve momentum (E-FLD-0020). The hop is 96 percent of the loss (E-FLD-0021). A rule in the family keeps particle momentum exactly iff its table has no hop and each couple keeps both line momenta, and 31 of 1,345 such members pass every structural gate, all dressing more (E-FLD-0022). The momentum weave keeps it at a dressing of 108,080 slots against 1,508 (E-FLD-0023). A four-line scatter block makes line momenta exchange with P exact, and on the head-on turn weave it passes every committed gate, a lone love dressing 33, 133, 369, 900 against 33, 160, 565, 1,508. Local color forces one more invariant than P, the sum of the twelve line momenta (E-FLD-0024). That weave is a kinetic gas: a shear relaxes at a rate independent of wavelength (E-FLD-0025). A wider scattering gives hydrodynamics, nu = 0.47 constant to 6 percent from L = 12 to 24, but no member of six reaches both a constant viscosity and the committed dressing (10,391 against 1,508, E-FLD-0026). Sound needs a kept count: an additive energy and a pair-making vacuum clock exclude each other, and the flip table rings at 0.710 against c / 2 with a vacuum that does not clock (E-FLD-0027). A clock paid from demons keeps both but its wave does not propagate and a lone love avalanches to 89,010 (E-FLD-0028). That dressing is pair creation, not transport (E-FLD-0029). The knit's lattice Boltzmann equation predicts its transport with no fitted number (nu 0.474 against 0.469, sound 0.707 against 0.710) and finds two slab invariants (E-FLD-0030), and it follows the knit flow by flow, its Navier-Stokes level converging as $L^{-2}$ (E-FLD-0031). A cold vacuum with a kinetic threshold has energy, sound (0.694), a viscosity (nu = 0.56) and a quiet vacuum on one rule, at the cost of the vacuum clock (E-FLD-0032). The fear clock's vacuum fluctuates only as the hot flash superposed (E-FLD-0033). The adopted knit answers the first half: the isometric collision keeps momentum exactly with W(F4) as its symmetry (E-RLT-0061), and the lone bounce collision on the hub vacuum keeps it with a lone vibe's wake of 13 to 21 trits per period, all on its own line (E-RLT-0084). Its husk transport is isotropic: charge, trace, sound and shear read 3.99, 4.14, 4.04 and 2.03 on the coset-union vacuum (E-RLT-0094), and the shear is forced by charge blindness (E-RLT-0096).\n\nUnknown: Navier-Stokes hydrodynamics read on the adopted knit's husk, and a wake measured on an unbounded lattice rather than a box.\n\nWhy it matters: without momentum the knit has no conserved motion for a color charge to ride.\n\nScope: a computational search, then the acceptance battery.\n\nSkills: cellular automata, lattice gases.\n\nWhere to start: test/experiment/fluids/scatter-hydrodynamics.ts; test/experiment/fluids/cold-vacuum.ts.\n\nEvidence named: E-FLD-0020 to E-FLD-0033, E-RLT-0061, E-RLT-0084, E-RLT-0094, E-RLT-0096.",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "research/problem.ts OP-13",
+        "quote": null
+      }
+    ]
+  }
+}

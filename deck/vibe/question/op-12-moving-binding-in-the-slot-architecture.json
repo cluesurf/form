@@ -1,0 +1,26 @@
+{
+  "record": "question",
+  "id": "69e9cb11-06bd-4656-a8a0-4fc5ad1c77d9",
+  "text": "Can a bound pair travel in the committed slot architecture, with every slot streaming, under the committed schedule?",
+  "kind": "missing_evidence",
+  "status": "open",
+  "parent": null,
+  "description": "OP-12: moving binding in the slot architecture.\n\nKnown: the committed orientation is an open half-space, 1 of the 192 of 4,096 that are (E-FRC-0130). Waiting slots are exact but cannot pay (E-FRC-0132). A bouncing crossing binds and the pair is stuck, 0.7 docks in 600 beats against 34 (E-FRC-0133). Steering on a round robin of all 11 line matchings frees it: 510 of 576 headings give a bound pair that travels (E-FRC-0146, E-FRC-0147), against 88 of 576 on the committed couples. Folded into the 24-beat palindrome, the round robin reaches all 66 pairs of lines and keeps CPT, and a cold meson travels 20 bound on it (E-FRC-0152, E-FRC-0153). But the fold fails the acceptance battery, a lone vibe's disturbance growing about tenfold each period (E-FRC-0156), and no steering closes the baryon gap while the meson walks (E-FRC-0157). The adopted knit cannot bind either: its positions are classical, and two vibes cost exactly 2 over the vacuum at every separation (E-SPN-0068). On stand-in tokens with amplitudes, only a counted string binds in discrete time, a phase string cannot (E-SPN-0074), and with the store as the flux's own column count the lightest charge-one state is three locked loves, spin one half, compact and travelling (E-SPN-0075 to E-SPN-0078).\n\nUnknown: binding on the knit's own tokens in 3D, which needs the doublet-locked stream (adopted 2026-09-26, not built) and a husk-local home for the string's count (E-SPN-0081).\n\nWhy it matters: binding on the D4 lattice is shown only with matter that waits in docks or a new schedule.\n\nScope: a computational search, then the acceptance battery.\n\nSkills: cellular automata, lattice gauge theory.\n\nWhere to start: test/experiment/gauge/steered-binding.ts; test/experiment/gauge/slot-binding.ts.\n\nThe claims it would move: R-FRC-0006.\n\nEvidence named: E-FRC-0130, E-FRC-0132, E-FRC-0133, E-FRC-0146, E-FRC-0147, E-FRC-0152, E-FRC-0153, E-FRC-0156, E-FRC-0157, E-SPN-0068, E-SPN-0074 to E-SPN-0078, E-SPN-0081.",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "research/problem.ts OP-12",
+        "quote": null
+      }
+    ]
+  }
+}

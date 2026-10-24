@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "99d31200-6d34-4536-80db-8583fa705781",
+  "title": "E-SPN-0077: the lightest bound charge-one state under the flux string, a STAND-IN on locked tokens: three loves held...",
+  "purpose": "Experiment E-SPN-0077 in the spin arena: the lightest bound charge-one state under the flux string, a STAND-IN on locked tokens: three loves held by the string whose store is on the flux and whose cost is the light's drift; the line sector is closed off, so N = 3 and the 2 pi sign is -1 on every state, the lightest level is the natural spin one half at every depth tried, it travels, and (4, 1) is not held as one (three loves and a neutral pair part at no string cost).",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L2 (L2: known physics reproduced on a stated model).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/spin/lightest-charge-one.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-SPN-0077",
+        "quote": null
+      }
+    ]
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "record": "proposition",
+  "id": "a7907ffd-c41a-4ec6-a71b-961967759777",
+  "kind": "empirical",
+  "epistemic_status": "simulated",
+  "title": "Veridical strategies are routinely dominated in evolutionary games",
+  "statements": [
+    {
+      "id": "f3c88f11-80c6-4aee-b1d8-c1e20947eb05",
+      "text": "In evolutionary games across many worlds and fitness functions, veridical perceptual strategies are routinely dominated by nonveridical strategies tuned to fitness.",
+      "language": "en",
+      "scope": "evolutionary games and genetic algorithms with the perceptual strategies the authors define",
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-23"
+    }
+  ],
+  "current_statement": "f3c88f11-80c6-4aee-b1d8-c1e20947eb05",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "326bc60f-bdd5-4190-a828-88d73ad2daba",
+        "locator": "abstract, p. 2",
+        "quote": "are routinely dominated by nonveridical strategies tuned to fitness"
+      }
+    ]
+  }
+}

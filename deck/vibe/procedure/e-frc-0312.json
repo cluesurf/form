@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "4e04f7ee-4dc1-44bf-aca8-32d3136cab82",
+  "title": "E-FRC-0312: explores whether a link that moves only triality-0 content, forced by the unforced lift of R*s links...",
+  "purpose": "Experiment E-FRC-0312 in the gauge arena: explores whether a link that moves only triality-0 content, forced by the unforced lift of R*s links, could leave lone thirds still while colour-neutral clusters move.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L1 (L1: known mathematics, correctly confirmed).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/gauge/projective-colour.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-FRC-0312",
+        "quote": null
+      }
+    ]
+  }
+}

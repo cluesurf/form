@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "016d47c1-5773-47d7-8c96-1301508d1c54",
+  "title": "E-FND-0059: B4 is the maximal symmetry of ANY collision law, proven by exhaustive stabilizer scan: over all 10395...",
+  "purpose": "Experiment E-FND-0059 in the foundations arena: B4 is the maximal symmetry of ANY collision law, proven by exhaustive stabilizer scan: over all 10395 laws the maximum stabilizer in F4 is exactly the B4 image (order 192), attained by exactly THREE laws, the knit and its two triality images, one per generation frame, while the forcing window falls 10395 to (75, 3) to 1 at B4 to ZERO at F4, so B4 is the forced sweet spot and choosing the knit is choosing a generation frame.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L2 (L2: known physics reproduced on a stated model).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/foundations/b4-maximal-collision-symmetry.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-FND-0059",
+        "quote": null
+      }
+    ]
+  }
+}

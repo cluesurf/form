@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "967f1758-285d-43d0-a4eb-dd7d024065b9",
+  "title": "E-SPN-0169: the model's own light coupled to the register member supplies the Darwin inertia, partial: the Peierls...",
+  "purpose": "Experiment E-SPN-0169 in the spin arena: the model's own light coupled to the register member supplies the Darwin inertia, partial: the Peierls coupling is register-blind, exact, gauge covariant and reads the member's group velocity as its current; the husk light's transverse and Coulomb kernels are one Maxwell Lagrangian at its own speed (transverse lambda / $k^2$ = 2/3, the velocity-averaged ratio X -> 1 isotropically, $X = 1 - k^2 / 18$ + ...), so a bound pair's transverse exchange lowers its inertia by (8/3) S $E_b (c_m / c_l)^2$ with S -> 1 as the state grows; on E-SPN-0155's bound heavy state that removes most of the static excess and leaves R at the member's own tan m / m to second order; the two-member quantum dynamics is not run.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L2 (L2: known physics reproduced on a stated model).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/spin/darwin-exchange.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-SPN-0169",
+        "quote": null
+      }
+    ]
+  }
+}

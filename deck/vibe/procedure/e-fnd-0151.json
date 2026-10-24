@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "2050bfdb-f3e0-4637-b0d8-9d7307581857",
+  "title": "E-FND-0151: a content-free graph rewrite gives a definite geometry but not the dock (the long shot, honest open)",
+  "purpose": "Experiment E-FND-0151 in the foundations arena: a content-free graph rewrite gives a definite geometry but not the dock (the long shot, honest open).",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L1 (L1: known mathematics, correctly confirmed).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/foundations/generator-growth.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-FND-0151",
+        "quote": null
+      }
+    ]
+  }
+}

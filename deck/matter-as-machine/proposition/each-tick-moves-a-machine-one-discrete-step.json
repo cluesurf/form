@@ -1,0 +1,45 @@
+{
+  "record": "proposition",
+  "id": "625a2369-a9a3-4d9d-a3d7-bc0899eb5fb7",
+  "kind": "empirical",
+  "epistemic_status": "hypothesized",
+  "title": "Each tick moves the machine one discrete step",
+  "statements": [
+    {
+      "id": "0872927b-cef1-4e70-8117-e8d6a827b0d0",
+      "text": "On each tick of time the machine executes one state and moves by the same discrete distance in that state's direction, so both space and time come in discrete steps.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "0872927b-cef1-4e70-8117-e8d6a827b0d0",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "f1f9bdb8-14c9-4c62-9e48-01ecc2870699",
+        "locator": "opening",
+        "quote": "moves in the corresponding direction of space by the same discrete distance on each tick of time."
+      }
+    ]
+  }
+}

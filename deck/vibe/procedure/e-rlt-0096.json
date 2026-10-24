@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "7ef2bc5c-9ba8-4ce6-96f4-d6afd9003da3",
+  "title": "E-RLT-0096: why the coset-union shear is isotropic, pass: not an affine lift (every affine element of the side-4...",
+  "purpose": "Experiment E-RLT-0096 in the relativity arena: why the coset-union shear is isotropic, pass: not an affine lift (every affine element of the side-4 cell commuting with the linear medium, 589,824 tested on 8,192 coset representatives, is one of the store's own 72, with no translation and no charge conjugation) but charge blindness: the C-even part of the exact linearization is closed (4.4e-16) and blind to every store sign (6.1e-16, while emptying a line moves it 0.148), so energy, momentum, the shear, the sound, the depth mode and the staggered invariants run on the UNORIENTED union's medium, kept by 73,728 affine elements (all 1,152 of W(F4) with the 64 translations of L'), which force the husk shear; three orientations of the one union read the same shear, sound and depth to 3.4e-11.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L2 (L2: known physics reproduced on a stated model).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/relativity/charge-blind-shear.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-RLT-0096",
+        "quote": null
+      }
+    ]
+  }
+}

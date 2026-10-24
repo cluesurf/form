@@ -1,0 +1,45 @@
+{
+  "record": "proposition",
+  "id": "c15e0750-262e-4b02-8e2d-3d500fdcc531",
+  "kind": "empirical",
+  "epistemic_status": "inferred",
+  "title": "Bioelectric state can override the genome's default anatomy",
+  "statements": [
+    {
+      "id": "76364243-c2af-47ef-b0be-8677375343f3",
+      "text": "Bioelectric properties can stably override the target morphology that the genome produces by default, without changing the genome.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-23"
+    }
+  ],
+  "current_statement": "76364243-c2af-47ef-b0be-8677375343f3",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "d9097dc4-d096-4de7-813b-d6c227e00393",
+        "locator": "abstract",
+        "quote": "bioelectric properties can stably override genome-default target morphology"
+      }
+    ]
+  }
+}

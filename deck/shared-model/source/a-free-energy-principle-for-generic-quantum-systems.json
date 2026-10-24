@@ -1,0 +1,58 @@
+{
+  "record": "source",
+  "id": "43a138a3-627b-44ff-a9ed-32f4c1e128d3",
+  "category": "preprint",
+  "title": "A free energy principle for generic quantum systems",
+  "authors": [
+    "Chris Fields",
+    "Karl Friston",
+    "James F. Glazebrook",
+    "Michael Levin"
+  ],
+  "year": 2021,
+  "journal": null,
+  "volume": null,
+  "pages": null,
+  "publisher": null,
+  "doi": "10.48550/arXiv.2112.15242",
+  "isbn": null,
+  "pmid": null,
+  "arxiv_id": "2112.15242",
+  "url": "https://arxiv.org/abs/2112.15242",
+  "url_original": "https://arxiv.org/abs/2112.15242",
+  "doi_match": {
+    "via": "arxiv_id",
+    "confidence": 1,
+    "checked_at": "2026-10-24"
+  },
+  "open_access": {
+    "url": "https://doi.org/10.48550/arxiv.2112.15242",
+    "version": null,
+    "host_type": "repository",
+    "license": "LicenseRef-cc-by",
+    "checked_at": "2026-10-24",
+    "via": "openalex"
+  },
+  "license": "LicenseRef-cc-by",
+  "hostable": true,
+  "is_peer_reviewed": false,
+  "content_hash": null,
+  "accessed_at": "2026-10-23",
+  "origin": [
+    {
+      "repository": "quantum-observers",
+      "id": "4489b7d7-7273-4b67-a1c2-b53ddab0eeb5"
+    }
+  ],
+  "provenance": {
+    "written_by": "github:lancejpollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": []
+  }
+}

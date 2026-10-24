@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "cbd6f177-304e-4122-9fed-1ac6ee78685a",
+  "title": "E-HLG-0005: the 3D and committed-4D hyperbolic bulks carry a geodesic shortcut whose length grows as log L between...",
+  "purpose": "Experiment E-HLG-0005 in the holography arena: the 3D and committed-4D hyperbolic bulks carry a geodesic shortcut whose length grows as log L between cusp points, the flat control is linear.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L2 (L2: known physics reproduced on a stated model).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/holography/bulk-to-cusp-rt.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-HLG-0005",
+        "quote": null
+      }
+    ]
+  }
+}

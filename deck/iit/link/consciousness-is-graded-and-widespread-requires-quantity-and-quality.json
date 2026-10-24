@@ -1,0 +1,28 @@
+{
+  "record": "link",
+  "id": "aab8226a-290a-4840-9a63-9f0c32f0f160",
+  "from": "45569ebd-c53e-431d-bb52-ef02ca1c9a74",
+  "to": "c5fbd6c2-34c4-4d64-a7e8-5a4419b5bb9c",
+  "relation": "requires",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "cd180db3-bb1d-4ab0-814c-72898fb077ef",
+        "locator": "abstract",
+        "quote": "It predicts that consciousness is graded, is common among biological organisms and can occur in some very simple systems."
+      }
+    ]
+  }
+}

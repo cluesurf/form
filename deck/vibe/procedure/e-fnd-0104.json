@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "02ba926f-cd07-4924-acbc-2adda1522cad",
+  "title": "E-FND-0104: the wall-launched carrier couples to matter, locally: the joint run of the mode and a pinned defect...",
+  "purpose": "Experiment E-FND-0104 in the foundations arena: the wall-launched carrier couples to matter, locally: the joint run of the mode and a pinned defect matches the no-coupling union prediction slot for slot until the mode's measured one-column-per-three-beats front reaches the defect's line neighbourhood, the interaction then persists for the rest of the run with the joint run holding fewer excited slots than the two singles combined (absorption, not pass-through), and the same defect placed out of the mode's unidirectional path never produces one mismatched slot, so the committed rule's carrier both transports and interacts, the two halves of a gauge carrier, with the coupling constant and the emission vertex the named next measurements.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L2 (L2: known physics reproduced on a stated model).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/foundations/wall-mode-matter-coupling.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-FND-0104",
+        "quote": null
+      }
+    ]
+  }
+}

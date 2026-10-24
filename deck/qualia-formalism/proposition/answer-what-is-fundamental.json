@@ -1,0 +1,50 @@
+{
+  "record": "proposition",
+  "id": "bac24831-7f8f-4fa5-bfb1-0328ed2b27d4",
+  "kind": "philosophical",
+  "epistemic_status": "hypothesized",
+  "title": "Answer: the fields of physics, as fields of qualia",
+  "statements": [
+    {
+      "id": "088e3e10-0c3b-4244-a5fd-def3804d2fcf",
+      "text": "The fields of physics are fundamental, and QRI frames them as fields of qualia, so experience belongs to what is fundamental.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-23"
+    }
+  ],
+  "current_statement": "088e3e10-0c3b-4244-a5fd-def3804d2fcf",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "5aaa6bc4-6581-4a09-8249-33c9872090bd",
+        "locator": "main text",
+        "quote": "If the fields of physics are fields of qualia"
+      },
+      {
+        "source": "9359bfc1-6fff-41a8-8d7c-91af2f730b74",
+        "locator": "section 4.3",
+        "quote": null
+      }
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "record": "link",
+  "id": "a83fb873-93ab-494d-a9b4-6a56f7a201c9",
+  "from": "960ff932-b0ca-4020-b373-f41de6249968",
+  "to": "c758fdb6-8de6-41f7-9b41-0f44de5259f2",
+  "relation": "requires",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "4489b7d7-7273-4b67-a1c2-b53ddab0eeb5",
+        "locator": "section 5.3",
+        "quote": "living systems in complex environments will evolve context and attention switching systems"
+      }
+    ]
+  }
+}

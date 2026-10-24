@@ -1,0 +1,28 @@
+{
+  "record": "link",
+  "id": "2d8599af-4ec4-4cf9-9290-bd1964f3c6fb",
+  "from": "c0fc0044-fb04-4aca-a1c4-ad55d023285a",
+  "to": "a7907ffd-c41a-4ec6-a71b-961967759777",
+  "relation": "supports",
+  "strength": 0.6,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "326bc60f-bdd5-4190-a828-88d73ad2daba",
+        "locator": "abstract, p. 2",
+        "quote": "The effects of selection on perception can be studied using evolutionary games and genetic algorithms."
+      }
+    ]
+  }
+}

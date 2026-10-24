@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "7ffc8fdb-0b4e-4bd0-a4ea-5c2c8dacdea5",
+  "title": "E-FRC-0191: dipole selection rules on the husk: the stand-in hydrogen emits into the exactly linear husk light on...",
+  "purpose": "Experiment E-FRC-0191 in the gauge arena: dipole selection rules on the husk: the stand-in hydrogen emits into the exactly linear husk light on exactly the transitions the husk point group $O_h$ allows (Gamma_f in Gamma_i x T1u), forbidden ones only through weak higher multipoles, 0 -> 0 not measurably, and a field that breaks the reflection switches 2s -> 1s on.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L2 (L2: known physics reproduced on a stated model).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/gauge/husk-emission-selection.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-FRC-0191",
+        "quote": null
+      }
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "record": "link",
+  "id": "efe2e4f3-b4b2-4044-a539-0ca5c7561273",
+  "from": "68d7b0a8-99c7-429b-a860-1bcebfceac95",
+  "to": "bca99eb7-1fe4-4498-835c-8d9244f849c6",
+  "relation": "defines",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "9c8de529-0562-4ede-9748-a99db6ec0056",
+        "locator": "section 9, p. 141",
+        "quote": "Dissociation entails that some phenomenal contents cease to be able to evoke others."
+      }
+    ]
+  }
+}

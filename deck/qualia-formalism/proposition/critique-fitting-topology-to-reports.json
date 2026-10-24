@@ -1,0 +1,45 @@
+{
+  "record": "proposition",
+  "id": "6f0b82d1-dc6b-4dd2-b53c-3c1dc7eb115f",
+  "kind": "philosophical",
+  "epistemic_status": "inferred",
+  "title": "Fitting topology to reports invites epicycles",
+  "statements": [
+    {
+      "id": "bb810a58-676a-4c0d-b185-76d894899a42",
+      "text": "Working backward from reports to field topologies mixes a metaphysical account with a cognitive one and invites epicyclic adjustments to make them match.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-23"
+    }
+  ],
+  "current_statement": "bb810a58-676a-4c0d-b185-76d894899a42",
+  "status": "active",
+  "voice": "critique",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "1ee77be8-63f4-4644-b8de-1d60a7ecb8d5",
+        "locator": "review, 8 Feb 2024",
+        "quote": "there will be many epicyclic contortions to get these to match up"
+      }
+    ]
+  }
+}

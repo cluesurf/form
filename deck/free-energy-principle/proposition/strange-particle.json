@@ -1,0 +1,45 @@
+{
+  "record": "proposition",
+  "id": "37625a4a-f4a2-4537-96e5-2f60d2ee0bdf",
+  "kind": "definitional",
+  "epistemic_status": "designed",
+  "title": "Strange particle",
+  "statements": [
+    {
+      "id": "9895e110-4a50-430e-be99-9c80ac8f167b",
+      "text": "A strange particle is a particle whose active states are not directly influenced by its sensory states, so it can be described as inferring its own actions. This is the kind the framework proposes as apt for agency.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-23"
+    }
+  ],
+  "current_statement": "9895e110-4a50-430e-be99-9c80ac8f167b",
+  "status": "active",
+  "voice": "framework",
+  "defines": "strange particle",
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "550e8bd7-62b0-4fdd-964e-95f8e9dcd664",
+        "locator": "abstract (arXiv record)",
+        "quote": "Strange particles can be described as inferring their own actions, endowing them with apparent autonomy or agency."
+      }
+    ]
+  }
+}

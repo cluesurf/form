@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "54dbfa5f-fe48-40e9-9e22-3e1a407293a5",
+  "title": "E-QTM-0073: Klein tunneling from the coined Dirac walk model: a scalar step in the Klein window transmits the...",
+  "purpose": "Experiment E-QTM-0073 in the quantum arena: Klein tunneling from the coined Dirac walk model: a scalar step in the Klein window transmits the relativistic walk across a range of incident momenta (penetration above 0.80 at every momentum, nearly energy-independent), while a mass step of the same height reflects it (penetration below 0.10).",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L2 (L2: known physics reproduced on a stated model).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/quantum/klein-tunneling.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-QTM-0073",
+        "quote": null
+      }
+    ]
+  }
+}

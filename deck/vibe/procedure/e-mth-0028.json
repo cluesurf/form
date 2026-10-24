@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "cfe62457-612b-46a2-a200-afcbddac16eb",
+  "title": "E-MTH-0028: verdicts over a family of link starts: the eight experiments the integer start flipped, rerun unedited...",
+  "purpose": "Experiment E-MTH-0028 in the method arena: verdicts over a family of link starts: the eight experiments the integer start flipped, rerun unedited over 17 deterministic starts (16 phases of the integer Weyl start and the retired golden start, rebuilt exactly), with per-gate pass fractions, the paired comparison of each adopted rule against its base on the same start, and a planted control.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L1 (L1: known mathematics, correctly confirmed).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/method/multi-start-robustness.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-MTH-0028",
+        "quote": null
+      }
+    ]
+  }
+}

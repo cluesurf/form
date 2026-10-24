@@ -1,0 +1,45 @@
+{
+  "record": "proposition",
+  "id": "f271d36c-81a4-4f6c-94f3-162a688d1be6",
+  "kind": "philosophical",
+  "epistemic_status": "inferred",
+  "title": "Answer: what is emergent",
+  "statements": [
+    {
+      "id": "d7c4d7cc-22c3-4c17-b9b1-7f1a89ba4291",
+      "text": "Things are emergent. Wherever sparse coupling yields a Markov blanket at steady state, a thing appears, and with it as-if inference, life and, with enough temporal depth, mind.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-23"
+    }
+  ],
+  "current_statement": "d7c4d7cc-22c3-4c17-b9b1-7f1a89ba4291",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "a528c72c-55f5-422d-b6c3-61a840e5810d",
+        "locator": "abstract",
+        "quote": "suggesting that life—or biological self-organization—is an inevitable and emergent property of any (ergodic) random dynamical system that possesses a Markov blanket."
+      }
+    ]
+  }
+}

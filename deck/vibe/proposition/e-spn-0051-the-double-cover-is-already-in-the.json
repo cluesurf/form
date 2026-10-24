@@ -1,0 +1,50 @@
+{
+  "record": "proposition",
+  "id": "64d2474c-c4e4-4e8a-874c-6c74045ea202",
+  "kind": "empirical",
+  "epistemic_status": "simulated",
+  "title": "E-SPN-0051: the double cover is already in the role: every linear lift of the role grid's SL(2,3) sends the 2 pi...",
+  "statements": [
+    {
+      "id": "9b5ae21c-79fd-4411-906e-007497744006",
+      "text": "The double cover is already in the role: every linear lift of the role grid's SL(2,3) sends the 2 pi turn to -P, -1 on a parity-even doublet, with the Legendre law (-1/p) P confirmed at five primes; the 2 pi turn about each grid point is minus the model's phase-point operator, so every signed weight is W(x) = -<R_x>/3; the husk's tetrahedral turns lift to it through the depth-fixing conjugations; and no knot can carry it, because the 2 pi turn lies in the commutator subgroup.",
+      "language": "en",
+      "scope": "experiment E-SPN-0051, arena spin, depth L1 (L1: known mathematics, correctly confirmed)",
+      "conditions": "substrates: 3434. In a paper: false",
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-22"
+    }
+  ],
+  "current_statement": "9b5ae21c-79fd-4411-906e-007497744006",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": {
+    "value": "open",
+    "reason": "holds in the vibe claim graph",
+    "basis": [],
+    "proposal": null
+  },
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "research/objection.ts",
+        "quote": null
+      }
+    ]
+  }
+}

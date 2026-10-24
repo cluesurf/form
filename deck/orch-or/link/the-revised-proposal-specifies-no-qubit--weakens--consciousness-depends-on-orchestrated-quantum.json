@@ -1,0 +1,33 @@
+{
+  "record": "link",
+  "id": "e8588a93-8944-4ae5-bcea-cf24331d3b53",
+  "from": "d8f1a556-b258-4b77-bba8-0343be85bb10",
+  "to": "f992f9e0-4750-4368-93d8-934fbf1a78f2",
+  "relation": "weakens",
+  "strength": null,
+  "rationale": "Without a specified qubit, its coherence mechanism and its coupling to gravity, the quantum process the theory needs is not defined.",
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "aa5fd6b7-8e47-4d59-b30a-6c17aa49e06d",
+        "locator": "p. 3",
+        "quote": "No model of Orch OR can be treated seriously without the following:"
+      },
+      {
+        "source": "aa5fd6b7-8e47-4d59-b30a-6c17aa49e06d",
+        "locator": "title",
+        "quote": null
+      }
+    ]
+  }
+}

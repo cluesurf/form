@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "0fadc768-67b7-4d1b-9810-d7187e2b2cac",
+  "title": "E-DST-0023: SS7: the canonical address is a total order, sorting is reading cells in address order",
+  "purpose": "Experiment E-DST-0023 in the data-structure arena: SS7: the canonical address is a total order, sorting is reading cells in address order.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L1 (L1: known mathematics, correctly confirmed).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/data-structure/sorting-by-address.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-DST-0023",
+        "quote": null
+      }
+    ]
+  }
+}

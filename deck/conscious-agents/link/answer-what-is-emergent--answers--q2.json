@@ -1,0 +1,28 @@
+{
+  "record": "link",
+  "id": "82defbec-3ddc-4f18-8107-b5dd3cd00b1e",
+  "from": "c03ebbed-be4f-42af-8bf4-93f1d2c59386",
+  "to": "455dff7d-b66c-449d-b2d7-52521b99cba5",
+  "relation": "answers",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "2207dc33-f8a8-469f-99b2-286f1139ed74",
+        "locator": "abstract",
+        "quote": "a particle in spacetime is a projection of the Markovian dynamics of a communicating class of conscious agents."
+      }
+    ]
+  }
+}

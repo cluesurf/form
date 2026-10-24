@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "5eb5dd96-ff9d-4a93-af88-2dde0e2b16af",
+  "title": "E-SPN-0086: the string paid by the light's drift alone, with no store, a STAND-IN on locked tokens: husk-local...",
+  "purpose": "Experiment E-SPN-0086 in the spin arena: the string paid by the light's drift alone, with no store, a STAND-IN on locked tokens: husk-local, reversible, exact over Z[zeta_K] and Gauss exact by construction; the cost keeps K and reads only relative positions, so nothing is pinned; its phase returns at l = 2N, so past contact the pair's relative beat is 2N-periodic and the far pair carries narrow bands (the broken string); a linear phase ramp freezes a string's length (Bloch oscillation), binds the pair at contact in a compact level that no box past the wrap moves, and lets it travel.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L2 (L2: known physics reproduced on a stated model).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/spin/drift-cost-binding.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-SPN-0086",
+        "quote": null
+      }
+    ]
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "record": "proposition",
+  "id": "f4bfe5b6-cf9d-4409-a889-a1dbd7670566",
+  "kind": "philosophical",
+  "epistemic_status": "hypothesized",
+  "title": "Answer: what is a self",
+  "statements": [
+    {
+      "id": "61602268-f076-4e58-af64-404fe74fc615",
+      "text": "A self is a thing with a Markov blanket that gathers evidence for its own existence. A self-conscious self also models the consequences of its own actions and distinguishes self from other, the self being the deepest hidden cause in that model.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-23"
+    }
+  ],
+  "current_statement": "61602268-f076-4e58-af64-404fe74fc615",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "c3908a50-f858-42d6-8c6b-be810bd5a82f",
+        "locator": "full text",
+        "quote": "The idea here is that possessing a generative model that can distinguish between self and another is necessary for self-consciousness."
+      }
+    ]
+  }
+}

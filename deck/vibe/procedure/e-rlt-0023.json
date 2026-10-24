@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "24b4b3d0-8267-429a-b718-fbf4120c26fc",
+  "title": "E-RLT-0023: the D4 substrate suppresses Lorentz violation to a higher order in momentum than a hypercubic substrate",
+  "purpose": "Experiment E-RLT-0023 in the relativity arena: the D4 substrate suppresses Lorentz violation to a higher order in momentum than a hypercubic substrate.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L2 (L2: known physics reproduced on a stated model).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/relativity/lorentz-violation-scale.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-RLT-0023",
+        "quote": null
+      }
+    ]
+  }
+}

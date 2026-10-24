@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "7f9a7139-d3ea-4627-b771-77944bd82587",
+  "title": "E-RLT-0057: which groups can force an isotropic viscosity, and a cold knit on the best frozen-free group, fail at...",
+  "purpose": "Experiment E-RLT-0057 in the relativity arena: which groups can force an isotropic viscosity, and a cold knit on the best frozen-free group, fail at the default integer link start (E-MTH-0027) and on every one of E-MTH-0028's 17 starts: the bound holds exhaustively (of the 277 subgroups of W(F4) containing one of its 16 Sylow 3-subgroups, 5 force an isotropic viscosity, orders 288, 576 (three) and 1,152, and every one keeps all 12 line momenta once local color is exact, so a symmetry-forced isotropic viscosity moves no momentum between lines and viscosity isotropy on a color-local knit can only be emergent); the 15 frozen-free least-rank groups (orders 16 to 64) force rank-2 isotropy and no viscosity (commutant 5 to 13); the cold knit on the chosen group (order 16, 24 quads, 6 rotations) keeps its symmetry, CPT, reversal, every exact law and zero dressing, but its husk is not hydrodynamic (three shear orientations never decay), its cold vacuum stays still (no walls, 9 husk components against the committed knit's 1), and E-RLT-0055's quantum gates cannot be evaluated: no love-fear pair meets on its cold vacuum, on any start.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L2 (L2: known physics reproduced on a stated model).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/relativity/viscosity-isotropy-bound.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-RLT-0057",
+        "quote": null
+      }
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "record": "link",
+  "id": "201f1119-318c-4de5-9185-e14d7a26d835",
+  "from": "c2bf9c45-44b8-4548-a6e1-ff23c7fc9fa4",
+  "to": "f6f764fe-3c28-46b7-9be5-8fc2b364733e",
+  "relation": "specializes",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "c50dac1f-5b63-4762-b48b-a46d0e5eee46",
+        "locator": "Global Workspace Dynamics",
+        "quote": "Static, gross anatomical divisions are superseded by the dynamical connectome of cortex."
+      }
+    ]
+  }
+}

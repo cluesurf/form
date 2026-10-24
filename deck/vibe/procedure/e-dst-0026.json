@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "1d670cdf-dc34-4583-bb0d-a18be75c20db",
+  "title": "E-DST-0026: SS15: union-find on the cell tree has logarithmic find depth from short bulk paths",
+  "purpose": "Experiment E-DST-0026 in the data-structure arena: SS15: union-find on the cell tree has logarithmic find depth from short bulk paths.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L2 (L2: known physics reproduced on a stated model).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/data-structure/union-find.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-DST-0026",
+        "quote": null
+      }
+    ]
+  }
+}

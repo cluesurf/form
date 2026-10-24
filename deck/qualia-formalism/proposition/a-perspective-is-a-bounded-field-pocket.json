@@ -1,0 +1,45 @@
+{
+  "record": "proposition",
+  "id": "7c8b99dc-d973-4835-900d-340b33ae0a12",
+  "kind": "philosophical",
+  "epistemic_status": "hypothesized",
+  "title": "A first person perspective is a bounded field pocket",
+  "statements": [
+    {
+      "id": "ef86a107-fbba-4fa0-b482-a2f6778b5921",
+      "text": "A first person perspective is equated, ontologically and axiomatically, with a field shaped into a topologically bounded pocket.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-23"
+    }
+  ],
+  "current_statement": "ef86a107-fbba-4fa0-b482-a2f6778b5921",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "9359bfc1-6fff-41a8-8d7c-91af2f730b74",
+        "locator": "section 4.3",
+        "quote": "We will equate a 1PP ontologically and axiomatically with fields shaped into such bounded pockets."
+      }
+    ]
+  }
+}

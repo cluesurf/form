@@ -1,0 +1,50 @@
+{
+  "record": "proposition",
+  "id": "21042474-9e88-4dfc-98d2-a09de47b8410",
+  "kind": "mathematical",
+  "epistemic_status": "inferred",
+  "title": "Rung: Navier-Stokes from a $3+1$ projection of the conserved current",
+  "statements": [
+    {
+      "id": "30cf1b8d-f13b-4953-bdd9-b6faed9c7552",
+      "text": "A spatial projection of the four-dimensional continuity system defines fluid variables and an exact reduced equation with extra constitutive and residual terms. The classical incompressible Navier-Stokes equation is recovered only after those terms are truncated.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "30cf1b8d-f13b-4953-bdd9-b6faed9c7552",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "51fa9670-25c9-4cbe-93e2-dd2a25e77c81",
+        "locator": "abstract",
+        "quote": "A spatial projection defines effective fluid variables and yields an exact reduced equation containing additional constitutive and residual terms."
+      },
+      {
+        "source": "51fa9670-25c9-4cbe-93e2-dd2a25e77c81",
+        "locator": "abstract",
+        "quote": "The classical incompressible Navier– Stokes equation is recovered only after truncation of these terms."
+      }
+    ]
+  }
+}

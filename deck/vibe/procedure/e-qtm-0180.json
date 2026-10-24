@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "955873ca-df6f-4919-b327-7ae0b90de730",
+  "title": "E-QTM-0180: PBR as stated cannot be posed exactly in the model's own readings to length 7, fail as the route words...",
+  "purpose": "Experiment E-QTM-0180 in the quantum arena: PBR as stated cannot be posed exactly in the model's own readings to length 7, fail as the route words it: over 5,030,434 words of the links' Clifford letters and the swap phase U on two roles prepared in |0> or |+> (overlap 1/3), with a computational readout, none excludes a preparation with every outcome, though such a reading exists for this overlap; the best words exclude 8 of 9, and the least largest leftover probability falls 0.111, 0.083, 0.063, 0.028, 0.021 as the words lengthen, so the dense beat group approaches PBR's reading without reaching it; the same zero test reads PBR's embedded qubit basis as a reading.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L1 (L1: known mathematics, correctly confirmed).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/quantum/pbr-beat-words.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-QTM-0180",
+        "quote": null
+      }
+    ]
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "fae72100-d6dc-428e-b087-6c657bfa8243",
+  "title": "E-FND-0155: the end state, read on the husk, pass: on the adopted knit at sides 8, 12 and 16 (3 starts each, 400...",
+  "purpose": "Experiment E-FND-0155 in the foundations arena: the end state, read on the husk, pass: on the adopted knit at sides 8, 12 and 16 (3 starts each, 400 beats) the coarse entropy rises to its ceiling ln B within 4 beats and stays at the equilibrium fluctuation floor predicted from the blocks' own Fano factor (1.016 to 1.143 of it), so a fixed box ends in a coarse heat death with fluctuations and exact recurrence and never a fine one; on a growing mesh the ceiling rises without bound, so there is no coarse end state (argued from the fixed-box readings, not run on a growing mesh).",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L2 (L2: known physics reproduced on a stated model).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/foundations/coarse-end-state.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-FND-0155",
+        "quote": null
+      }
+    ]
+  }
+}

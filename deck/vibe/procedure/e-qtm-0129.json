@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "cd831126-a3fd-467f-bf53-53f5e154ece9",
+  "title": "E-QTM-0129: no Zeno freeze from a true record: SUM records of the vacuum pair every beat give exactly the ideal...",
+  "purpose": "Experiment E-QTM-0129 in the quantum arena: no Zeno freeze from a true record: SUM records of the vacuum pair every beat give exactly the ideal record's 1/4, 3/8, 7/16, change no reading, and never push the third-meeting transfer below 7/16, because a fear-beat meeting is a finite step; a stand-in fear beat split into m steps does freeze, as pi^2 / (12 m), and the flow, a SUM record of the vibe, never acts back on the vibes.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L2 (L2: known physics reproduced on a stated model).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/quantum/sum-zeno.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-QTM-0129",
+        "quote": null
+      }
+    ]
+  }
+}

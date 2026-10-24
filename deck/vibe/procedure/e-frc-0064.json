@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "48913fc4-166d-40c8-bfa9-95cb238f7e1c",
+  "title": "E-FRC-0064: the derived Koide relation Q = 2/3 predicts the tau mass 1776.97 MeV from the electron and muon alone...",
+  "purpose": "Experiment E-FRC-0064 in the gauge arena: the derived Koide relation Q = 2/3 predicts the tau mass 1776.97 MeV from the electron and muon alone, matching the measured 1776.86 to about one part in ten thousand, a sharp falsifiable number where the Standard Model leaves the tau mass free.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L1 (L1: known mathematics, correctly confirmed).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/gauge/koide-tau-prediction.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-FRC-0064",
+        "quote": null
+      }
+    ]
+  }
+}

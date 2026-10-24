@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "0d80549f-31a5-402c-b837-ccf644935bde",
+  "title": "E-FRC-0099: three cyclic values per link under a deterministic reversible rule reproduce Z3 confinement at high...",
+  "purpose": "Experiment E-FRC-0099 in the gauge arena: three cyclic values per link under a deterministic reversible rule reproduce Z3 confinement at high energy and the first-order coexistence of its transition, and freeze at low energy, where the ordered phase needs a kinetic variable.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L2 (L2: known physics reproduced on a stated model).",
+  "status": "completed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/gauge/center-automaton.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "research/result.ts R-FRC-0002",
+        "quote": null
+      }
+    ]
+  }
+}

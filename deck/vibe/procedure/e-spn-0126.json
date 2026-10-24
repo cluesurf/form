@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "b12e7179-9611-4431-bc8d-9aa5efd6eb6f",
+  "title": "E-SPN-0126: motion only along the twelve line classes, taken as a prediction, is excluded at every dock size, pass...",
+  "purpose": "Experiment E-SPN-0126 in the spin arena: motion only along the twelve line classes, taken as a prediction, is excluded at every dock size, pass on every gate: a 3d state averaged over the classes has its first direction-dependent energy at order 6 in aP (measured 5.998 to 6.000 on the lone love at n = 1, 2, 4, 8 and the meson at n = 4, 8, 16; a cube's face diagonals or axes read 4.000), pattern $M_6$ = 3/4 + $(3 / 2)(x^2y^2 + y^2z^2 + z^2x^2) - 9x^2y^2z^2$ (axis 3/4, face 9/8, body 11/12, exact), coefficient $e_6$ (3/8)/12 to 1.1e-4; but the series runs in P/Mc, not Pa: the spread is $Mc^2$ (P/Mc)^6/512 (16 $m^5 e_6 = 0.9997$ at n = 64), with no dock length in it, and the isotropic part fails too, inertia 4.02 times the rest energy and a $P^4$ term 2.0001 times Lorentz at n = 8; a massless average moves at 0.354 to 0.441 c by direction (20 percent, velocity up to 36 degrees off P, against 1e-18 measured) and its branches separate at 1.732 to 1.871 times the mean drift at every aP/m from 1e-3 to 1e3 with half the weight of an axis beam never moving, which every collimated beam and interferometer excludes; the only term that shrinks with the dock is each line's own speed deficit (a/lambda_C)^2/6, massless walks have none, so Fermi's GRB 090510 and birefringence bounds constrain nothing, and c_gamma - $c_e$ < 2e-16 gives a < 1.3e-20 m, 8.3e14 Planck lengths (3.8e13 from the 1.1 PeV Crab photon); moments exact, the band equals the 2x2 walk and E-SPN-0107's measured run to 1e-5.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L1 (L1: known mathematics, correctly confirmed).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/spin/line-anisotropy.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-SPN-0126",
+        "quote": null
+      }
+    ]
+  }
+}

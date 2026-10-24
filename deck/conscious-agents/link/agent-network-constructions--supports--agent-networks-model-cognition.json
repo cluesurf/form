@@ -1,0 +1,28 @@
+{
+  "record": "link",
+  "id": "40b1c88e-f045-44fb-bccb-e76996fc4748",
+  "from": "67dde8fb-e8e7-49a6-9540-0388f617f3cb",
+  "to": "40adf01e-5521-4880-91d4-1d889c362bc7",
+  "relation": "supports",
+  "strength": 0.7,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "0eb77ed5-7d23-4e3d-93cf-44a9600980a2",
+        "locator": "abstract, lines 10-12",
+        "quote": "The behavior of the simplest CA networks is analyzed exhaustively."
+      }
+    ]
+  }
+}

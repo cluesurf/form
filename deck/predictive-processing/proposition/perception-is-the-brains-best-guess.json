@@ -1,0 +1,45 @@
+{
+  "record": "proposition",
+  "id": "d06560be-270d-4cbc-97c7-5a2fb2967336",
+  "kind": "empirical",
+  "epistemic_status": "hypothesized",
+  "title": "Perceptual content is the brain's best guess",
+  "statements": [
+    {
+      "id": "2b2cbe8e-a15f-4414-b286-d995b1b635e0",
+      "text": "Perceptual content is not read out from sensory signals. It is the brain's best guess about the causes of those signals, carried by top-down predictions.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-23"
+    }
+  ],
+  "current_statement": "2b2cbe8e-a15f-4414-b286-d995b1b635e0",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "e391f78a-61b9-464c-883b-2181082dabd3",
+        "locator": "accepted manuscript p. 17",
+        "quote": "perceptual content is not 'read out' from incoming sensory signals, but is instead given by the brain's 'best guess' about the causes of these sensory signals"
+      }
+    ]
+  }
+}

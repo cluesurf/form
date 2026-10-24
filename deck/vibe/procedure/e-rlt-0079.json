@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "1b202d36-0f8a-4c36-add8-ae023d6e6fbb",
+  "title": "E-RLT-0079: the living-pair knit on the one-line living vacuum through E-FRC-0159's battery, partial at the default...",
+  "purpose": "Experiment E-RLT-0079 in the relativity arena: the living-pair knit on the one-line living vacuum through E-FRC-0159's battery, partial at the default integer start since the frame fix (E-RLT-0088; fail before it): with the comoving own points carried by the frame change, the swap-phase control reads 0 at the battery's own frame, so the X1 instrument gate fails and the verdict on the knit is not reached (partial marks an instrument that could not fire, not a knit that came closer); all 14 quantum gates pass (CHSH 2.552) and superposition returns, but against the combined knit H 6 gates newly fail (the four dressing gates, walls, and vacuum line components 4 against 3), and at a background oriented like the vacuum the husk transport is uniaxial at leading order (charge and trace anisotropy exponents 0.02, sound 0.70, shear 0.18; charge anisotropy flat at 4.1e-3), where the maximum-entropy background, which does not see the vacuum, keeps 4.00, 4.11, 4.04 and 2.03.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L2 (L2: known physics reproduced on a stated model).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/relativity/sparse-living-battery.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-RLT-0079",
+        "quote": null
+      }
+    ]
+  }
+}

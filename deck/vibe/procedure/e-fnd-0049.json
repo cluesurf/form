@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "4c7507a4-ff2c-4ca3-9d70-f66d9e4c5675",
+  "title": "E-FND-0049: the reversible knit is a record-preserving path (forward then inverse recovers the start bit for bit)...",
+  "purpose": "Experiment E-FND-0049 in the foundations arena: the reversible knit is a record-preserving path (forward then inverse recovers the start bit for bit) while a lossy rule destroys the record, the condition Timeless Dynamics builds emergent time on.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L2 (L2: known physics reproduced on a stated model).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/foundations/record-preserving-paths.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-FND-0049",
+        "quote": null
+      }
+    ]
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "record": "proposition",
+  "id": "55c906e4-824d-47b7-887e-9b90aae8958c",
+  "kind": "philosophical",
+  "epistemic_status": "hypothesized",
+  "title": "Answer: a continuum of goal-directedness reaching down to physics",
+  "statements": [
+    {
+      "id": "f264b4d4-5bba-4bf3-bb37-7ee6592eb17c",
+      "text": "Levin treats goal-directedness as basic and graded: a minimal degree of it may be present even in particles, so there may be no true zero on the scale of mind, only degrees.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-23"
+    }
+  ],
+  "current_statement": "f264b4d4-5bba-4bf3-bb37-7ee6592eb17c",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "fd7382f9-52a5-4beb-9680-fc341ff15b98",
+        "locator": "section Consciousness",
+        "quote": "as the minimal degree of internal self-determination and goal-directedness is apparently present even in particles"
+      }
+    ]
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "edcf9c9d-76e7-41be-b75f-e916ac0f3823",
+  "title": "E-QTM-0123: the color law keeps quantum states once each coordinate carries its frame: a token's vibe can change...",
+  "purpose": "Experiment E-QTM-0123 in the quantum arena: the color law keeps quantum states once each coordinate carries its frame: a token's vibe can change sign between meetings, and leaving its stored point in place was a partial conjugation, which made 299 of 2,016 wholes non-states; no law can be at once covariant under the links, local to the flipped token and state-keeping, since the only covariant flip is the antiunitary reflection, so the fix keeps states and locality and gives up covariance at a flip.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L2 (L2: known physics reproduced on a stated model).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/quantum/color-law-keeps-states.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-QTM-0123",
+        "quote": null
+      }
+    ]
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "55970ea8-1146-49e2-b1f9-3fc981ff3b02",
+  "title": "E-FRC-0276: no integer of the husk light singles out a split, fail as derived: at fixed coupling kappa = s f the...",
+  "purpose": "Experiment E-FRC-0276 in the gauge arena: no integer of the husk light singles out a split, fail as derived: at fixed coupling kappa = s f the split rho = f / s is a constant change of units, x = sqrt(s) a and e = b / sqrt(s), so the beat at 0.4614 equals the beat at 0.4146 conjugated by one fixed matrix (to 8.9e-16 at 64 momenta) and every band invariant is the same at both; the Chern number of the positive-frequency bundle of the beat's own eigenvectors, read by the link method on six slices avoiding k = 0 at two couplings and two grids, is 0 at both splits and at rho = 1 (72 readings within 4.3e-16 of 0), as the gauge line's trivial section and time reversal require; the photon pair touches the next band on every slice, so it has no Chern number of its own; control: the same instrument reads the Qi-Wu-Zhang band as +1, -1 and 0; what the split does change is the e / x energy share of a mode, by exactly rho1 / rho2 = 1.1127.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L1 (L1: known mathematics, correctly confirmed).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/gauge/split-winding.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-FRC-0276",
+        "quote": null
+      }
+    ]
+  }
+}

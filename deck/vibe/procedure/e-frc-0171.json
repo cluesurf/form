@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "91df67a8-34f9-4c31-a026-a6b806847824",
+  "title": "E-FRC-0171: triples on a triangle, the dynamics: every one of the 27 triples on all 32 zero-sum triangles, and the...",
+  "purpose": "Experiment E-FRC-0171 in the gauge arena: triples on a triangle, the dynamics: every one of the 27 triples on all 32 zero-sum triangles, and the unmixed triples on the three triplet and antitriplet copies, followed exactly on the unbounded bulk lattice under the committed knit, the combined knit and the cold weave, asking whether a triple travels as one particle, whether fear-fear-fear is light, whether the three arrangements are degenerate colors and whether the three copies split.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L2 (L2: known physics reproduced on a stated model).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/gauge/rishon-dynamics.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-FRC-0171",
+        "quote": null
+      }
+    ]
+  }
+}

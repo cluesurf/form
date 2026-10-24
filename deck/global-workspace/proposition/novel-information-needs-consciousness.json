@@ -1,0 +1,45 @@
+{
+  "record": "proposition",
+  "id": "149f4ab7-5cdc-4dcf-a63a-5670e0b272ed",
+  "kind": "empirical",
+  "epistemic_status": "inferred",
+  "title": "Comprehending novel combinations needs consciousness",
+  "statements": [
+    {
+      "id": "a70baecf-ab42-4b12-8803-7b690952b333",
+      "text": "Consciousness enables the comprehension of novel information, such as new combinations of words, which unconscious input processing does not achieve.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-23"
+    }
+  ],
+  "current_statement": "a70baecf-ab42-4b12-8803-7b690952b333",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "27d49895-2a70-4caf-8a9d-44136817650c",
+        "locator": "prediction 2, p. 48",
+        "quote": "Consciousness enables comprehension of novel information, such as new combinations of words."
+      }
+    ]
+  }
+}

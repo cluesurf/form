@@ -1,0 +1,45 @@
+{
+  "record": "proposition",
+  "id": "493811f1-9721-4364-99ba-8549acf7aeef",
+  "kind": "empirical",
+  "epistemic_status": "hypothesized",
+  "title": "The change itself is what is wanted",
+  "statements": [
+    {
+      "id": "96c60587-2294-4ca2-be12-37ab0e904bb4",
+      "text": "The instinct is not about altering surroundings to get food or shelter, which other animals also do. The change itself is what is wanted: imagining how something could be different, preferring that version, and wanting it made real.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "96c60587-2294-4ca2-be12-37ab0e904bb4",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "983ce19a-a7da-4801-9728-4eca49c1b243",
+        "locator": "opening",
+        "quote": "I mean that the change itself can be what we want, rather than just a way to get food or shelter."
+      }
+    ]
+  }
+}

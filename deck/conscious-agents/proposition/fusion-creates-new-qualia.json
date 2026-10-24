@@ -1,0 +1,45 @@
+{
+  "record": "proposition",
+  "id": "28f06f99-2a02-468a-b7d6-9ee427348c62",
+  "kind": "mathematical",
+  "epistemic_status": "hypothesized",
+  "title": "Fusion creates new qualia",
+  "statements": [
+    {
+      "id": "b580777f-9f74-440d-b9b2-500c887c2358",
+      "text": "When the qualia kernel of interacting agents drops in rank onto a line of stationary kernels, agents fuse into a simpler agent and new qualia are created.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-23"
+    }
+  ],
+  "current_statement": "b580777f-9f74-440d-b9b2-500c887c2358",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "2207dc33-f8a8-469f-99b2-286f1139ed74",
+        "locator": "section 5",
+        "quote": "this signals the fusion of agents and creation of new qualia."
+      }
+    ]
+  }
+}

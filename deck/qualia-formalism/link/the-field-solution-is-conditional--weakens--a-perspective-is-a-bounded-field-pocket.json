@@ -1,0 +1,28 @@
+{
+  "record": "link",
+  "id": "36ebc3cc-df46-4628-9bbb-d4d701c4261f",
+  "from": "b4c4967b-b91b-4794-83bd-fee61601b7c8",
+  "to": "7c8b99dc-d973-4835-900d-340b33ae0a12",
+  "relation": "weakens",
+  "strength": 0.2,
+  "rationale": "The authors state that the field solution holds only if its premises hold.",
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "9359bfc1-6fff-41a8-8d7c-91af2f730b74",
+        "locator": "section 4.3.1",
+        "quote": "We acknowledge that the presented EM fields solution to the boundary problem is conditional"
+      }
+    ]
+  }
+}

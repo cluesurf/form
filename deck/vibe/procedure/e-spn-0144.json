@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "cdea3db1-47fe-4b4a-85a9-95568f18a12f",
+  "title": "E-SPN-0144: the mixer-on eigenlevel of three holes on the slab holds only at the smallest rates, fail (H1, H2, H3)...",
+  "purpose": "Experiment E-SPN-0144 in the spin arena: the mixer-on eigenlevel of three holes on the slab holds only at the smallest rates, fail (H1, H2, H3): the frame mixer is exactly exp(-i theta $N_u$), so the level's slope is <N_u> (0.693 at D 3, 0.649 at D 6, read back to 1e-3 at 1/1024); in the square's A1 sector the level built at each rate holds at D 3 on 1/1024 only (least fidelity 0.99972, missed register per hole 3.9e-4 at radius 4, where E-SPN-0141's rate-0 reference read 0.9898) and at D 6 on the enlarged w 16 window (7.2e6 amplitudes) at 1/1024 and 1/512 (0.99993, 0.99989), while on w 12 D 6 holds nowhere (missed 2.2e-3 and up); from 1/512 (D 3) and 1/256 (D 6) the follower returns no eigenlevel (residual 1e-3 to 4e-3 after two passes, 10 to 38 percent off the line, least fidelity 0.79 to 0.995), and a 2048-beat filter at D 3 1/512 still leaves residual 4e-4 and 24 percent off-line: the composite meets bent levels closer than 0.01 rad, which the rate-0 family (nearest coupled level 0.040 away, predicted smooth to rate 1/16) did not resolve; the A1 and B1 (swap-odd) levels split by 2.7e-6 at 1/1024, the third order predicted; at D 6 1/1024 the inertia is m* 47.3, m*/E_rest 463, isotropy 0.90 (D4 makes it 1 exactly), and the D 3 tensor read is not a level (residual 0.62); the rate-0 level watched at 1/64 fails the witness (0.908), so the witness can fail.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L2 (L2: known physics reproduced on a stated model).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/spin/slab-turned-composite.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-SPN-0144",
+        "quote": null
+      }
+    ]
+  }
+}

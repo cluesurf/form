@@ -1,0 +1,39 @@
+{
+  "record": "observation",
+  "id": "aa565895-e3c2-422d-b1ca-1eb1fdeace7a",
+  "kind": "simulation_result",
+  "epistemic_status": "simulated",
+  "description": "Gradient descent on variational free energy under a Markov decision process model reproduced repetition suppression, mismatch negativity, violation responses, place-cell activity, phase precession, theta sequences, theta-gamma coupling, evidence accumulation, race-to-bound dynamics and the transfer of dopamine responses.",
+  "method": "simulation",
+  "status": "reported",
+  "source": "486f9dea-4b8d-4998-8fbb-eea469cbe46b",
+  "procedure": null,
+  "variable": null,
+  "value": null,
+  "unit": null,
+  "uncertainty": null,
+  "sample_size": null,
+  "replication_count": null,
+  "quality": null,
+  "limitations": "Simulations show the process theory can reproduce these phenomena, not that the brain implements it.",
+  "conflicts_of_interest": "Written by the framework's originators.",
+  "observed_at": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "486f9dea-4b8d-4998-8fbb-eea469cbe46b",
+        "locator": "abstract",
+        "quote": "These include repetition suppression, mismatch negativity, violation responses, place-cell activity, phase precession, theta sequences, theta-gamma coupling, evidence accumulation, race-to-bound dynamics, and transfer of dopamine responses."
+      }
+    ]
+  }
+}

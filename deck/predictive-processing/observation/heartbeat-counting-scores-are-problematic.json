@@ -1,0 +1,39 @@
+{
+  "record": "observation",
+  "id": "58da05c6-2138-48d4-98ba-e35e7656e95b",
+  "kind": "statistical_result",
+  "epistemic_status": "observed",
+  "description": "In 572 participants, heartbeat counting accuracy scores reflected under-reporting in over 95 percent of cases, and actual and reported heartbeats correlated at only r = .16.",
+  "method": "experiment",
+  "status": "reported",
+  "source": "a4950aff-2b93-4012-8a4d-5c39560e0787",
+  "procedure": null,
+  "variable": null,
+  "value": null,
+  "unit": null,
+  "uncertainty": null,
+  "sample_size": 572,
+  "replication_count": null,
+  "quality": null,
+  "limitations": "Concerns the counting task only. Contested in published commentaries.",
+  "conflicts_of_interest": null,
+  "observed_at": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "a4950aff-2b93-4012-8a4d-5c39560e0787",
+        "locator": "abstract",
+        "quote": "the correlation between actual and reported heartbeats is low overall (r = .16)"
+      }
+    ]
+  }
+}

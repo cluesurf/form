@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "b66474a6-0220-4aa4-8586-cf9be6f7f7a8",
+  "title": "E-GRV-0046: the coarse-grained tone density is Cauchy in scale at the self-averaging rate (measured convergence...",
+  "purpose": "Experiment E-GRV-0046 in the gravity arena: the coarse-grained tone density is Cauchy in scale at the self-averaging rate (measured convergence exponent near minus two), so a continuum density exists and it is the field that inherits the exact continuity law of E-GRV-0039, completing the discrete-to-continuum half of the Chronoflux bridge, with a scale-free Cantor control decaying far more shallowly.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L2 (L2: known physics reproduced on a stated model).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/gravity/continuum-limit-of-tone-current.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-GRV-0046",
+        "quote": null
+      }
+    ]
+  }
+}

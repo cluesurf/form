@@ -1,0 +1,45 @@
+{
+  "record": "proposition",
+  "id": "28aa165a-656d-4d8d-95f4-c697fe3d8afd",
+  "kind": "mathematical",
+  "epistemic_status": "inferred",
+  "title": "Quantum Darwinism must assume redundancy from outside",
+  "statements": [
+    {
+      "id": "d4eb22a8-08c0-4593-88ee-d721e5a081ad",
+      "text": "Observers limited to pointer states cannot show that many independent apparatus redundantly encode a system without destroying that redundancy, so the redundancy quantum Darwinism needs must be assumed from outside quantum theory.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-23"
+    }
+  ],
+  "current_statement": "d4eb22a8-08c0-4593-88ee-d721e5a081ad",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "a059c9f1-900d-470f-be1e-40a09f7844c6",
+        "locator": "abstract",
+        "quote": "The redundancy of encoding required by quantum Darwinism must, therefore, be assumed from outside the quantum-mechanical formalism and without the possibility of experimental demonstration."
+      }
+    ]
+  }
+}

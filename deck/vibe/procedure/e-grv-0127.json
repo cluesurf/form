@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "dd99ae10-3a7d-46e1-88e4-d6fd2ecda71c",
+  "title": "E-GRV-0127: the held trio's own energy lines keep Gauss exactly but are not its depth, partial (fail on G2 and G3b...",
+  "purpose": "Experiment E-GRV-0127 in the gravity arena: the held trio's own energy lines keep Gauss exactly but are not its depth, partial (fail on G2 and G3b; G0's integer register splits winding histories at 3.4e-7): E-SPN-0104's trio dragging E-GRV-0106's lines for 128 beats, the working rule's drift-cost string equals the energy register mod 3 on every link, entry and beat, every branch of the exact side-8 window obeys the register's continuity (0 off) and reverses bit for bit, and Gauss through every husk ball is exact (1.1e-13); but a love cannot leave its line, so the lines are a tube on the trio's husk line: summed as a depth they give k -0.236 against E-GRV-0119's 0.0307 (curl on 253 husk links, 98.8 percent of the flux divergence free), only their divergence-fixed part, a Poisson solve, gives the lump's k 0.0325; the expected winding stays within 0.023 but the register's spread grows 0.13 to 0.58 as the packet spreads; the same density's static field passes the reading (k 0.030724) and E-GRV-0107's pair misses it (0.332).",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L2 (L2: known physics reproduced on a stated model).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/gravity/trio-energy-line-depth.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-GRV-0127",
+        "quote": null
+      }
+    ]
+  }
+}

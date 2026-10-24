@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "883432b7-2a77-4b72-9e2d-5a3659c03298",
+  "title": "E-RLT-0024: mass gives a gap = m and a relativistic dispersion $b \\sim m^2$",
+  "purpose": "Experiment E-RLT-0024 in the relativity arena: mass gives a gap = m and a relativistic dispersion $b \\sim m^2$.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L0 (L0: circular: the answer reaches the verdict as a typed constant).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/relativity/mass.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-RLT-0024",
+        "quote": null
+      }
+    ]
+  }
+}

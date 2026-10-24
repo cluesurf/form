@@ -1,0 +1,28 @@
+{
+  "record": "link",
+  "id": "456ca5f1-fd32-4b6d-97b3-7f999841f329",
+  "from": "2e144732-b07f-460b-bb51-e13cb7297aa2",
+  "to": "b848d1ee-99e4-4f60-a92f-4043391143e2",
+  "relation": "requires",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "e0b1d15e-30e2-4c9e-8b01-e4778918d044",
+        "locator": "abstract (arXiv record)",
+        "quote": "what exists absolutely, in physical terms, are intrinsic entities, and only what exists can cause."
+      }
+    ]
+  }
+}

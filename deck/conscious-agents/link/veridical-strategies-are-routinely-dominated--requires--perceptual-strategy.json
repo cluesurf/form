@@ -1,0 +1,28 @@
+{
+  "record": "link",
+  "id": "36048e1a-9206-4fe9-8979-c88362ec249d",
+  "from": "a7907ffd-c41a-4ec6-a71b-961967759777",
+  "to": "37d8f0b8-c32b-4716-91e0-95f0539c8129",
+  "relation": "requires",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "326bc60f-bdd5-4190-a828-88d73ad2daba",
+        "locator": "abstract, p. 2",
+        "quote": "are routinely dominated by nonveridical strategies tuned to fitness"
+      }
+    ]
+  }
+}

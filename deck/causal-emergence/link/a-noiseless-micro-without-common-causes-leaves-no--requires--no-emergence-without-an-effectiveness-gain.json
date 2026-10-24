@@ -1,0 +1,33 @@
+{
+  "record": "link",
+  "id": "95b1ec34-d0a3-41dd-8228-d21045aefc32",
+  "from": "9f20f404-7c19-4cc9-afec-cf1c14017209",
+  "to": "b3c81d3f-a7f7-4482-ae08-49ed5bfe0be7",
+  "relation": "requires",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "c40bbd28-a2c5-4730-84c0-90f7ae0644de",
+        "locator": "section 6",
+        "quote": "So while causal emergence vanishes in the condition of a microscale possessing zero uncertainty about the effect of causes, and also possessing no common causes (e.g., like a permutation matrix)"
+      },
+      {
+        "source": "8360d34d-30cb-44f8-89c9-41768fb53f0d",
+        "locator": "Theory, State-Independent Causal Analysis",
+        "quote": "such a system [where Eff(S) = 1] is perfectly retrodictive/predictive"
+      }
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "record": "link",
+  "id": "bd6a6690-4aef-4e64-bef5-2d41ade86079",
+  "from": "b23f0989-ee95-4315-80c5-c9935636b45d",
+  "to": "c82c7c92-5d96-4c1d-96a1-9d1c73416e52",
+  "relation": "assumes",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "8796a23b-967c-4b26-829c-7ddb7717ca3a",
+        "locator": "main text",
+        "quote": "consonance within a brain's connectome-specific harmonic waves (CSHW) will be a good proxy for the symmetry"
+      }
+    ]
+  }
+}

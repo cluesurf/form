@@ -1,0 +1,50 @@
+{
+  "record": "proposition",
+  "id": "d52d5ca2-67f0-4a3b-adcb-a42a9e29f365",
+  "kind": "empirical",
+  "epistemic_status": "hypothesized",
+  "title": "PC-08: dark matter is the mirror half of the member register: matter that meets ours only through gravity",
+  "statements": [
+    {
+      "id": "7693c906-35bb-43ce-9a20-4661bad17cc5",
+      "text": "Dark matter is the mirror half of the member register: matter that meets ours only through gravity.",
+      "language": "en",
+      "scope": "a prediction candidate, not a frozen prediction row",
+      "conditions": "Where it stands: structural, on the candidate rule with the Clifford register (not the adopted rule): the register splits exactly into two chiral halves that a reflection swaps (E-FRC-0258), and every one-body piece commutes with that split while the only covariant one-body coupling between the halves breaks CPT (E-FRC-0259), so the mirror half meets ours only through depth and the many-body collision. No abundance is computed. What it needs: the mirror half's abundance from the rule, and a cross section with ordinary matter, set against the measured dark-matter density and direct-detection limits.",
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-22"
+    }
+  ],
+  "current_statement": "7693c906-35bb-43ce-9a20-4661bad17cc5",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": {
+    "value": "open",
+    "reason": "a candidate: it has not passed the prediction gate",
+    "basis": [],
+    "proposal": null
+  },
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "research/prediction.ts PC-08",
+        "quote": null
+      }
+    ]
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "record": "proposition",
+  "id": "537dd609-228e-45f8-8624-bfdf80832fdf",
+  "kind": "empirical",
+  "epistemic_status": "hypothesized",
+  "title": "A metric from channel capacity",
+  "statements": [
+    {
+      "id": "46e6d2de-1efa-4f62-92c0-220170195f08",
+      "text": "A spatial metric would arise from the channel capacity of joined conscious agents.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-23"
+    }
+  ],
+  "current_statement": "46e6d2de-1efa-4f62-92c0-220170195f08",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "9f6802be-e2fa-4f89-b303-461db4c74e7e",
+        "locator": "Microphysical objects",
+        "quote": "The metric would arise from the channel capacity of the joined agents."
+      }
+    ]
+  }
+}

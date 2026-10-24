@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "f9a5e111-1910-4875-a3c3-df082a7dd756",
+  "title": "E-FND-0100: the wall launches a carrier the bulk cannot host: a defect poked onto the one-beat clock wall propagates...",
+  "purpose": "Experiment E-FND-0100 in the foundations arena: the wall launches a carrier the bulk cannot host: a defect poked onto the one-beat clock wall propagates unidirectionally into the elder domain at one column per three beats (one hop per vacuum period, the clock paces the transport), stays thin (support at most thirteen while crossing eleven columns), recoheres to exactly root three at the new phase 90 degrees at least five times before wrapping, repeats at a second position along the wall, and the identical poke in the bulk stays pinned within its line neighbourhood (support never above two), so slow coherent phase-carrying transport exists at clock walls with no base or knit change.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L2 (L2: known physics reproduced on a stated model).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/foundations/wall-launched-carrier.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-FND-0100",
+        "quote": null
+      }
+    ]
+  }
+}

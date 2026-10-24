@@ -1,0 +1,45 @@
+{
+  "record": "proposition",
+  "id": "3fedb309-47a7-439a-a09f-dfcd2e0a2df9",
+  "kind": "empirical",
+  "epistemic_status": "hypothesized",
+  "title": "Autonomous systems are Markov blankets of Markov blankets",
+  "statements": [
+    {
+      "id": "e0debed5-52fc-45c4-80fc-a3c4222a7bb8",
+      "text": "Autonomous systems are composed hierarchically of Markov blankets within Markov blankets, from single cells to whole organisms and out into parts of their environment.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-23"
+    }
+  ],
+  "current_statement": "e0debed5-52fc-45c4-80fc-a3c4222a7bb8",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "7360eddd-7087-4c91-acd5-1cfea947cffb",
+        "locator": "abstract",
+        "quote": "autonomous systems are hierarchically composed of Markov blankets of Markov blankets"
+      }
+    ]
+  }
+}

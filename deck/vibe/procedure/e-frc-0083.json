@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "278e13f2-5050-4a67-99ba-c5118e880dd7",
+  "title": "E-FRC-0083: the coupling grows with distance at a rate proportional to the gluon color charge $C_A$, the same per...",
+  "purpose": "Experiment E-FRC-0083 in the gauge arena: the coupling grows with distance at a rate proportional to the gluon color charge $C_A$, the same per unit $C_A$ in SU(2), SU(3) and SU(4), and the same for adjoint and fundamental sources, on top of the color-blind U(1) lattice artifact.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L2 (L2: known physics reproduced on a stated model).",
+  "status": "completed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/gauge/asymptotic-freedom.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "research/result.ts R-FRC-0004",
+        "quote": null
+      }
+    ]
+  }
+}

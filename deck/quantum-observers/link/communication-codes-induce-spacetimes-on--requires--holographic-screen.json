@@ -1,0 +1,28 @@
+{
+  "record": "link",
+  "id": "b4cf697b-ccf5-461c-aeb3-93ece152dd49",
+  "from": "32cf0642-658a-40ab-b2a9-73a0f0d37f38",
+  "to": "7102c6c3-3527-4ccd-b662-81bb2e97e4ac",
+  "relation": "requires",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "0106999c-ce99-4816-800a-819a3635b0f4",
+        "locator": "abstract",
+        "quote": "We then show how generic QECCs, as bulk- boundary codes, induce effective spacetimes."
+      }
+    ]
+  }
+}

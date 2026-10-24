@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "3299dd58-f9b1-444d-ac51-505f8f412145",
+  "title": "E-SLF-0092: per-cell ternary has no self: a radiating rule shatters the kink, a static rule traps the hit (the...",
+  "purpose": "Experiment E-SLF-0092 in the selves arena: per-cell ternary has no self: a radiating rule shatters the kink, a static rule traps the hit (the corrective self is emergent).",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L2 (L2: known physics reproduced on a stated model).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/selves/per-cell-radiation-obstruction.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-SLF-0092",
+        "quote": null
+      }
+    ]
+  }
+}

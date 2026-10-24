@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "934a3d65-badb-4ab7-89f5-fd06ac0bb02c",
+  "title": "E-QTM-0094: the Ehrenfest theorem on the coined Dirac walk model: a positive-band packet follows the classical...",
+  "purpose": "Experiment E-QTM-0094 in the quantum arena: the Ehrenfest theorem on the coined Dirac walk model: a positive-band packet follows the classical trajectory of its own momentum distribution to a thousandth of a cell over sixty cells free and under a slow force once the Berry-connection shift is included, the momentum half exact, while a fast force drives Landau-Zener leakage into the other band and a mixed-band rest seed lags the classical path by twenty cells.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L2 (L2: known physics reproduced on a stated model).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/quantum/ehrenfest-theorem.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-QTM-0094",
+        "quote": null
+      }
+    ]
+  }
+}

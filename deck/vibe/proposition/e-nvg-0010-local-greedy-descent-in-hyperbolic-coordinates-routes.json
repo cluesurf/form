@@ -1,0 +1,50 @@
+{
+  "record": "proposition",
+  "id": "80cfb687-3794-4b9d-9a6b-ec4a3564ce32",
+  "kind": "empirical",
+  "epistemic_status": "simulated",
+  "title": "E-NVG-0010: local greedy descent in hyperbolic coordinates routes with 100 percent success and unit stretch (the...",
+  "statements": [
+    {
+      "id": "72220281-721c-4083-bfcc-9897ab847d12",
+      "text": "Local greedy descent in hyperbolic coordinates routes with 100 percent success and unit stretch (the exact walkway a self can follow with only local information) while a scrambled-coordinate map stalls in local minima.",
+      "language": "en",
+      "scope": "experiment E-NVG-0010, arena addressing, depth L2 (L2: known physics reproduced on a stated model)",
+      "conditions": "substrates: 3434. In a paper: false",
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-22"
+    }
+  ],
+  "current_statement": "72220281-721c-4083-bfcc-9897ab847d12",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": {
+    "value": "open",
+    "reason": "holds in the vibe claim graph",
+    "basis": [],
+    "proposal": null
+  },
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "research/result.ts R-NVG-0001",
+        "quote": null
+      }
+    ]
+  }
+}

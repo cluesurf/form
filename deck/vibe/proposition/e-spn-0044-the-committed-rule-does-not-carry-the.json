@@ -1,0 +1,50 @@
+{
+  "record": "proposition",
+  "id": "9ed936ab-759b-4e68-97af-9cc476fa4959",
+  "kind": "empirical",
+  "epistemic_status": "simulated",
+  "title": "E-SPN-0044: the committed rule does not carry the spinor sign: the coin directions are a 2T torsor on which the 2 pi...",
+  "statements": [
+    {
+      "id": "2e1a526b-5bdc-4e61-a421-a25b067a423a",
+      "text": "The committed rule does not carry the spinor sign: the coin directions are a 2T torsor on which the 2 pi turn of $SU(2)_L$ is the point inversion, the rule's own turn lifts after four steps to that 2 pi turn in $SU(2)_L$ alone, the palindromic schedule retraces it to a net lift of +1 where the rejected cyclic schedule nets -1, and the point inversion is no symmetry of the rule except joined to charge conjugation and time reversal, so a lone love and its 2 pi image run different histories.",
+      "language": "en",
+      "scope": "experiment E-SPN-0044, arena spin, depth L2 (L2: known physics reproduced on a stated model)",
+      "conditions": "substrates: 3434. In a paper: false",
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-22"
+    }
+  ],
+  "current_statement": "2e1a526b-5bdc-4e61-a421-a25b067a423a",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": {
+    "value": "open",
+    "reason": "holds in the vibe claim graph",
+    "basis": [],
+    "proposal": null
+  },
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "research/objection.ts",
+        "quote": null
+      }
+    ]
+  }
+}

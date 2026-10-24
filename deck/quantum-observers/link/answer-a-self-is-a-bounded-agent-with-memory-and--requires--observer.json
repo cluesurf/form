@@ -1,0 +1,33 @@
+{
+  "record": "link",
+  "id": "2707b481-12cc-41f8-a264-8186f1e9507f",
+  "from": "9dcf4bc4-451e-4cd7-a64a-fa085c59606a",
+  "to": "1401610b-d56a-45f7-be2b-77a7659779ad",
+  "relation": "requires",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "4489b7d7-7273-4b67-a1c2-b53ddab0eeb5",
+        "locator": "section 5.2",
+        "quote": "Given the standard free-choice assumption, the intuitive idea of an “agent” or IGUS can be fully formulated within background-independent, scale-free quantum information theory."
+      },
+      {
+        "source": "1792e489-be3b-46bb-ba4b-0dcd00a0abc7",
+        "locator": "abstract",
+        "quote": null
+      }
+    ]
+  }
+}

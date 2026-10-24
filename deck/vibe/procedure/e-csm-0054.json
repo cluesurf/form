@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "79909659-ee09-47d8-b5b7-e80942958b7d",
+  "title": "E-CSM-0054: structure formation as gravitational instability on the closed loop (bodies source the softened well...",
+  "purpose": "Experiment E-CSM-0054 in the cosmology arena: structure formation as gravitational instability on the closed loop (bodies source the softened well, bodies fall down it): a seed clump amplifies the block-density contrast by more than a factor of three and saturates at the excluded-volume halo at two lattice sizes, the flat-potential control does not move one body bit for bit, and the seedless background also amplifies onto its own irregularities (the instability amplifies any inhomogeneity, the reason tiny primordial seeds sufficed), with the self-force pinning of an unsoftened kernel the found-and-reported discrete analog of simulation softening.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L2 (L2: known physics reproduced on a stated model).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/cosmology/structure-formation-instability.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-CSM-0054",
+        "quote": null
+      }
+    ]
+  }
+}

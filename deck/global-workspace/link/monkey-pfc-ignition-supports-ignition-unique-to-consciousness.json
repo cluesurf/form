@@ -1,0 +1,28 @@
+{
+  "record": "link",
+  "id": "bc65ad1e-3e65-4c61-b526-3c73f91cb74b",
+  "from": "e65f1500-2e3e-4e70-aa6e-688186063737",
+  "to": "34addf56-c0ff-480f-b1a4-c26ddcc93cab",
+  "relation": "supports",
+  "strength": 0.5,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "48959277-86d2-4076-9942-58a24f753040",
+        "locator": "p. 779",
+        "quote": "only the perceived ones elicited a sudden, strong, and sustained activity in the frontal cortex akin to ignition"
+      }
+    ]
+  }
+}

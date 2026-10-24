@@ -1,0 +1,45 @@
+{
+  "record": "proposition",
+  "id": "c62fe600-c6f8-4959-b5cd-293eb9f55e3d",
+  "kind": "empirical",
+  "epistemic_status": "hypothesized",
+  "title": "The felt stability of the self is a self-change-blindness",
+  "statements": [
+    {
+      "id": "f863de31-5a50-47f2-9073-d11961b47ab0",
+      "text": "The self feels stable over time partly because allostatic control needs stable targets, so the brain is adaptively blind to changes in the self.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-23"
+    }
+  ],
+  "current_statement": "f863de31-5a50-47f2-9073-d11961b47ab0",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "bfa85443-4b77-43f1-b5f2-ec1850a4bc3c",
+        "locator": "accepted manuscript p. 12",
+        "quote": "The subjective stability of selfhood, at some levels, may reflect an adaptive form of 'self-change-blindness'."
+      }
+    ]
+  }
+}

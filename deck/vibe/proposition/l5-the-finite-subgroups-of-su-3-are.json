@@ -1,0 +1,50 @@
+{
+  "record": "proposition",
+  "id": "db9cfdf9-6ddb-4481-b5b0-7a536665b651",
+  "kind": "mathematical",
+  "epistemic_status": "inferred",
+  "title": "L5: the finite subgroups of SU(3) are classified (Miller, Blichfeldt and Dickson 1916. Fairbairn, Fulton and Klink...",
+  "statements": [
+    {
+      "id": "e1436622-3f27-46bb-be79-358b4bcaf4ad",
+      "text": "The finite subgroups of SU(3) are classified (Miller, Blichfeldt and Dickson 1916. Fairbairn, Fulton and Klink 1964. Grimus and Ludl 2012). The Hessian group Sigma(648) is primitive, and no finite subgroup of SU(3) contains it properly, since the only larger primitive one, Sigma(1080), has an order 648 does not divide. So Sigma(648) with any element of SU(3) outside it generates an infinite group, whose closure is all of SU(3): the identity component of the closure is normalized by a primitive group, and in SU(3) only SU(3) itself is.",
+      "language": "en",
+      "scope": "a mathematical step, proved or cited",
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-22"
+    }
+  ],
+  "current_statement": "e1436622-3f27-46bb-be79-358b4bcaf4ad",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": {
+    "value": "open",
+    "reason": "holds in the vibe claim graph",
+    "basis": [],
+    "proposal": null
+  },
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "research/node.ts L5",
+        "quote": null
+      }
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "record": "link",
+  "id": "3813248d-4733-4983-b8e4-0b4dfb0ab9cd",
+  "from": "418cd5ab-f83c-4ff6-86ea-69cd5472499f",
+  "to": "757ea101-bdf4-4c03-af3b-0a892c43a221",
+  "relation": "requires",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "6f8f1612-4ddf-4fed-9dd3-4070a070fa8b",
+        "locator": "main text",
+        "quote": "there is going to be a deep and rich mathematical structure to valence"
+      }
+    ]
+  }
+}

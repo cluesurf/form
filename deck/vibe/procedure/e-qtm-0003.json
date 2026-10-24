@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "cd4c88c4-674a-4856-bc12-99d89f191352",
+  "title": "E-QTM-0003: the local CHSH bound is 2 and the quantum value is 2 sqrt 2, a restated gap",
+  "purpose": "Experiment E-QTM-0003 in the quantum arena: the local CHSH bound is 2 and the quantum value is 2 sqrt 2, a restated gap.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L1 (L1: known mathematics, correctly confirmed).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/quantum/bell-nonlocality.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-QTM-0003",
+        "quote": null
+      }
+    ]
+  }
+}

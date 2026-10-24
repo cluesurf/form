@@ -1,0 +1,45 @@
+{
+  "record": "proposition",
+  "id": "41fd2233-cb97-43bf-aa51-108dbcce3702",
+  "kind": "empirical",
+  "epistemic_status": "hypothesized",
+  "title": "Severe depression in people may be a similar shutdown",
+  "statements": [
+    {
+      "id": "0c828688-fa87-4bfc-8133-0be097dfef00",
+      "text": "Severe depression in people, which can leave a person unable to get out of bed, may be a similar shutdown, triggered by a different instinct.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "0c828688-fa87-4bfc-8133-0be097dfef00",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "c01a576c-01a5-46ae-8a4e-5fed54687b5c",
+        "locator": "closing",
+        "quote": "Perhaps a similar shutdown mechanism is involved, but triggered by a different instinct."
+      }
+    ]
+  }
+}

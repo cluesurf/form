@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "db96b06c-e873-433a-a028-4d5943be15ea",
+  "title": "E-RLT-0046: the committed rule's handedness does not survive coarse-graining: the lone-love response at the lattice...",
+  "purpose": "Experiment E-RLT-0046 in the relativity arena: the committed rule's handedness does not survive coarse-graining: the lone-love response at the lattice scale is 4.1 times more self-dual than anti-self-dual, but the long-wave current response at k = 2 pi / L for L = 9, 13, 17 splits within a factor of 1.5 on the dense background and on the vacuum, with no stable sign, while its antisymmetric part shrinks from 0.45 to 0.19 of the isotropic part; partial, because the mirror control swaps the halves to 2 percent at side 9 but reproduces their size only to about 25 percent at side 13, so the long-wave split is bounded well below the lattice-scale 4.1, not resolved to 10 percent.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L2 (L2: known physics reproduced on a stated model).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/relativity/chirality-at-scale.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-RLT-0046",
+        "quote": null
+      }
+    ]
+  }
+}

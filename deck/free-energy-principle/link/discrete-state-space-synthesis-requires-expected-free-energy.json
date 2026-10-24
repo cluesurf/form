@@ -1,0 +1,28 @@
+{
+  "record": "link",
+  "id": "c11d1ab7-6616-4c39-a10b-4c9b40f3aa9f",
+  "from": "3be6edf2-bff1-4124-b43e-9fb6f5686e7d",
+  "to": "d964227a-bc4a-491a-acf3-0d20dfedea59",
+  "relation": "requires",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "309d44ca-d7a4-44c2-a90c-b75354cef951",
+        "locator": "abstract (arXiv record)",
+        "quote": "This technical summary provides an overview of the theory, derives neuronal dynamics from first principles and relates this dynamics to biological processes."
+      }
+    ]
+  }
+}

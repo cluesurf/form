@@ -1,0 +1,55 @@
+{
+  "record": "proposition",
+  "id": "542e8d99-1877-4305-b7b4-a995efe540d9",
+  "kind": "mathematical",
+  "epistemic_status": "inferred",
+  "title": "Exact zero inertia is not a regular limit, and no closed cycle gains momentum",
+  "statements": [
+    {
+      "id": "70cf6f41-40e1-48f9-952d-1320c942af90",
+      "text": "A physical inertial eigenvalue can approach zero only by driving the Legendre map toward degeneracy, so exact zero inertia is not a regular limit. Any apparent reduction of inertia is paid for by the temporal field and the actuator, and an isolated closed cycle cannot generate net four-momentum.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "70cf6f41-40e1-48f9-952d-1320c942af90",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": {
+    "value": "open",
+    "reason": "The obstruction is graded exact by the author, and the retained engineering program is graded open. No experiment has tested it.",
+    "basis": [],
+    "proposal": null
+  },
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "ffb4dd10-1d42-4782-9ced-d724ead5a42e",
+        "locator": "abstract",
+        "quote": "Exact zero inertia is therefore not a regular limit of the declared branch."
+      },
+      {
+        "source": "ffb4dd10-1d42-4782-9ced-d724ead5a42e",
+        "locator": "abstract",
+        "quote": "Any apparent reduction of inertia is paid for by the temporal field and actuator, and an isolated closed cycle cannot generate net four-momentum."
+      }
+    ]
+  }
+}

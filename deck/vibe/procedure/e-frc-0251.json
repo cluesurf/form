@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "44d7a393-d5e4-42c6-bd7b-b869fca1d607",
+  "title": "E-FRC-0251: Planck and Coulomb at kappa = 3/8, the coupling that gives c = 1/2, on the plaquette ladder's quantum...",
+  "purpose": "Experiment E-FRC-0251 in the gauge arena: Planck and Coulomb at kappa = 3/8, the coupling that gives c = 1/2, on the plaquette ladder's quantum light (a STAND-IN: the 3D husk light is unstable there, E-FRC-0250), fail on P1 and Q1: the static shift is still the drift's (pi s / N) E*, so alpha = s / (6N), 1 / (6 (2D + 1)) at s = 1 and never s / 32, but a hot box sits 2e-3 to 2e-2 below Planck at T = omega_min, four orders worse than at kappa = 2/N, converging in N; the s = 1 split's shift converges in N too (1.045 to 0.998).",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L2 (L2: known physics reproduced on a stated model).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/gauge/one-light-planck-coulomb.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-FRC-0251",
+        "quote": null
+      }
+    ]
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "bc8517b9-4461-407d-80a6-9293b1201cdf",
+  "title": "E-QTM-0160: weak values on the rule, partial: the lone vibe's two histories to one end at beat 3 have shares -1/2...",
+  "purpose": "Experiment E-QTM-0160 in the quantum arena: weak values on the rule, partial: the lone vibe's two histories to one end at beat 3 have shares -1/2 and 3/2 on 17 of 17 starts, outside [0, 1]; on the rule's gates a two-coin interferometer has $(\\Pi _L)_w$ = 3/2 and non-real weak values -w, 1 + w; a pointer love present on the arm with amplitude $k^n$ reads, post-selected, 9/13 at full strength, then 36/25, 144/73 ... -> $|(\\Pi _L)_w|^2$ = 9/4 > 1 exchanges per unit as n grows, while disturbing the love's statistics by 9/4 4^-n; unconditioned it reads the arm probability 3/4 and with the arms dephased at most 9/10; the schedule arranged.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L2 (L2: known physics reproduced on a stated model).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/quantum/weak-values.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-QTM-0160",
+        "quote": null
+      }
+    ]
+  }
+}

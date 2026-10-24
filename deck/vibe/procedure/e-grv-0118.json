@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "cba301d0-32aa-4947-beef-91255d5ba27f",
+  "title": "E-GRV-0118: with the box taken out the clock horizon's radius goes as M, partial, fail on B3: the stack's mode...",
+  "purpose": "Experiment E-GRV-0118 in the gravity arena: with the box taken out the clock horizon's radius goes as M, partial, fail on B3: the stack's mode kernel summed exactly over the periodic husk, with E-GRV-0117's far background placed where it was, predicts all 24 measured slopes to 0.0046 (gate 0.01) with no free number, the box costing 1.50 .. 1.55 rho; subtracting it, the lapse L1 stack's local slope at r >= 5 l is 0.994 .. 1.012 (gate 0.95) and every stack follows 1 - s = sum beta x $e^{-x}$ / [1 + sum beta (1 + x) $e^{-x}$] to 0.005 out to r = N / 10, but from r = 0.14 N toward the far background it overshoots 1 by up to 0.014 and wiggles at 1e-3 (gate 0.01, monotone); the field criterion stays at 0.495.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L1 (L1: known mathematics, correctly confirmed).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/gravity/horizon-slope-box.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-GRV-0118",
+        "quote": null
+      }
+    ]
+  }
+}

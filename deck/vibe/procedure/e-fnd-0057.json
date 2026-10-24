@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "f22c208e-b850-4a96-a826-b00e70149a91",
+  "title": "E-FND-0057: the distinguishability readout is pinned in two honest parts: the measured necessary condition (24-cell...",
+  "purpose": "Experiment E-FND-0057 in the foundations arena: the distinguishability readout is pinned in two honest parts: the measured necessary condition (24-cell relabeling invariance, which Fisher-Rao passes at machine precision and any direction-weighted ad-hoc measure fails) plus Chentsov uniqueness under the full Markov-embedding class (cited, not re-proven), so the fragile hand-weighted readouts are killed by measurement and Fisher-Rao is singled out by the theorem.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L2 (L2: known physics reproduced on a stated model).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/foundations/chentsov-forced-distinguishability.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-FND-0057",
+        "quote": null
+      }
+    ]
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "b726e70d-b60e-4855-b9eb-62906ed4d887",
+  "title": "E-FRC-0133: moving binding in the committed slot architecture: waiting slots do not bind, since most of their string...",
+  "purpose": "Experiment E-FRC-0133 in the gauge arena: moving binding in the committed slot architecture: waiting slots do not bind, since most of their string crossings go unpaid, while a crossing that bounces when it cannot be paid, with the sign of a calm slot carried by what it holds, binds a meson and a baryon when cold and melts when warm, keeping color local, but the bound pair is stuck where E-FRC-0131 moved.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L2 (L2: known physics reproduced on a stated model).",
+  "status": "completed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/gauge/slot-binding.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "research/result.ts R-FRC-0006",
+        "quote": null
+      }
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "record": "link",
+  "id": "ef738159-6d9f-4b4d-b447-60e2b57bcff2",
+  "from": "95eedf97-3c2e-49d3-876b-df9556ba61af",
+  "to": "ecf88a80-1d7c-47cf-9664-0c70fe18844f",
+  "relation": "weakens",
+  "strength": null,
+  "rationale": "the 2026-08-31 audit: L1, with the exchange sign an input. The dynamical result is open (OP-08)",
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "research/paper.ts ERRATA",
+        "quote": null
+      }
+    ]
+  }
+}

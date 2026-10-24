@@ -1,0 +1,55 @@
+{
+  "record": "proposition",
+  "id": "bd6a479b-fe6b-4edb-8d8a-40daacc31ed9",
+  "kind": "empirical",
+  "epistemic_status": "hypothesized",
+  "title": "2025: effective inertia can be engineered down to zero",
+  "statements": [
+    {
+      "id": "c9215576-cc3d-4a5e-81fb-b4d313c54941",
+      "text": "Effective mass $m_{\\mathrm{eff}} = \\eta m_0$ can be tuned over $\\eta \\in [0, \\infty)$ by controlling invariants of the temporal flow, with a stable, causal limit $\\eta \\to 0$ and an engineering roadmap for inertial control.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "c9215576-cc3d-4a5e-81fb-b4d313c54941",
+  "status": "superseded",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": {
+    "value": "open",
+    "reason": "The author graded this claim superseded in his July 2026 Version 2.0 rebuild. No test has decided it.",
+    "basis": [],
+    "proposal": null
+  },
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "69022338-ed7a-4303-90de-752db6ebfd89",
+        "locator": "abstract",
+        "quote": "I prove the stability and causality conditions that permit η → 0 without pathologies, and I outline falsifiable benchtop experiments."
+      },
+      {
+        "source": "69022338-ed7a-4303-90de-752db6ebfd89",
+        "locator": "abstract",
+        "quote": "gives an engineering roadmap for inertial control."
+      }
+    ]
+  }
+}

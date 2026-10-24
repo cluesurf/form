@@ -1,0 +1,45 @@
+{
+  "record": "proposition",
+  "id": "48281a30-7464-4f68-99a1-b6162d06014e",
+  "kind": "philosophical",
+  "epistemic_status": "hypothesized",
+  "title": "Answer: what is experience",
+  "statements": [
+    {
+      "id": "114d76c8-fd9a-4b6a-a8a7-e3c556213608",
+      "text": "Experience is derived, not basic. It is self-evidencing inference with temporal and counterfactual depth about the consequences of one's own action.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-23"
+    }
+  ],
+  "current_statement": "114d76c8-fd9a-4b6a-a8a7-e3c556213608",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "c3908a50-f858-42d6-8c6b-be810bd5a82f",
+        "locator": "abstract",
+        "quote": "On this view, consciousness is nothing more than inference about my future; namely, the self-evidencing consequences of what I could do."
+      }
+    ]
+  }
+}

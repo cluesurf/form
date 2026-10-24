@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "4e2be3de-5aa0-4b5c-806e-a53d6cc236c9",
+  "title": "E-GRV-0051: a black hole on a discrete substrate leaves a universal remnant: the cutoff frequency measured from the...",
+  "purpose": "Experiment E-GRV-0051 in the gravity arena: a black hole on a discrete substrate leaves a universal remnant: the cutoff frequency measured from the coined Dirac walk's own dispersion caps the Hawking temperature, so evaporation halts at mass 1/(4 omega_max) regardless of starting mass, and the remnant vanishes in the continuum control, no extra dimensions or torsion needed.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L2 (L2: known physics reproduced on a stated model).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/gravity/remnant-from-discreteness.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-GRV-0051",
+        "quote": null
+      }
+    ]
+  }
+}

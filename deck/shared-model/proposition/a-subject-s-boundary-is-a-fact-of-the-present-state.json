@@ -1,0 +1,87 @@
+{
+  "record": "proposition",
+  "id": "91851331-c4e5-44a6-973d-e2667a5dea33",
+  "kind": "philosophical",
+  "epistemic_status": "hypothesized",
+  "title": "A subject's boundary is a fact of the present state",
+  "statements": [
+    {
+      "id": "71ed6d24-fa2d-4526-9018-58deb6dceb77",
+      "text": "The boundary of a conscious subject is a fact of the physical state at one moment, found from that state itself, not chosen by an analyst or read from statistics over time.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-23"
+    }
+  ],
+  "current_statement": "71ed6d24-fa2d-4526-9018-58deb6dceb77",
+  "status": "active",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": {
+    "value": "open",
+    "reason": null,
+    "basis": [],
+    "proposal": null
+  },
+  "origin": [
+    {
+      "repository": "present-state",
+      "id": "723b48ec-647d-4cd9-8bcf-fe81a4151f8e"
+    },
+    {
+      "repository": "qualia-formalism",
+      "id": "7c8b99dc-d973-4835-900d-340b33ae0a12"
+    },
+    {
+      "repository": "vibe",
+      "id": "f88a1b96-a5c4-4522-bb41-5c72acd5eefc"
+    }
+  ],
+  "provenance": {
+    "written_by": "github:lancejpollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "5d97e1e3-0f25-4bf8-b5ec-780fc621c55d",
+        "locator": "section 5.2",
+        "quote": "It must either derive that boundary from the present physical state or show that every admissible boundary yields the same attribution."
+      },
+      {
+        "source": "26946c6f-9038-40ae-8bae-ae9f5c3ee40d",
+        "locator": "section 4.3",
+        "quote": "We will equate a 1PP ontologically and axiomatically with fields shaped into such bounded pockets."
+      },
+      {
+        "source": "4fa34807-b61c-4d48-8990-71c426b0db15",
+        "locator": "The reading, and what is falsifiable",
+        "quote": "A patch of tiles is a thing or a mind, the whole mesh is the universe, and its growing edge is the present."
+      },
+      {
+        "source": "6bdbc262-4089-4c2b-a6aa-0960c4da67e8",
+        "locator": "opening",
+        "quote": "The model explores whether a self is the region that loses the most when cut."
+      },
+      {
+        "source": "6bdbc262-4089-4c2b-a6aa-0960c4da67e8",
+        "locator": "Integration: what a cut loses",
+        "quote": "Integration is a fact about a region at one beat"
+      },
+      {
+        "source": "01314618-4f7c-4d20-90f6-28e8d1332efd",
+        "locator": "On which rule each result holds: the working rule",
+        "quote": "shared history gives no bounded self (E-SLF-0177, fail)"
+      }
+    ]
+  }
+}

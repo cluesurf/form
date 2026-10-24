@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "43ac69d6-1abd-43b2-b342-72fac7dc69df",
+  "title": "E-MTH-0025: no continuity and no rounding at the base: no rule file, and no code a rule imports, calls trig, a...",
+  "purpose": "Experiment E-MTH-0025 in the method arena: no continuity and no rounding at the base: no rule file, and no code a rule imports, calls trig, a transcendental function or a rounding, holds a fractional literal, a float array or a real angle, divides into a real, or imports measurement code; the counted light rule is clean and the committed knit path is audited.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L1 (L1: known mathematics, correctly confirmed).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/method/no-continuity-in-the-rule.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-MTH-0025",
+        "quote": null
+      }
+    ]
+  }
+}

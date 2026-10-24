@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "d098f6c7-c004-452c-803c-b6e7ab22d0df",
+  "title": "E-SPN-0123: a line mixer gated on a stored vacuum-or-matter origin trit per vibe keeps the vacuum exactly and turns...",
+  "purpose": "Experiment E-SPN-0123 in the spin arena: a line mixer gated on a stored vacuum-or-matter origin trit per vibe keeps the vacuum exactly and turns only matter, but K still cascades, fail (O1): E-SPN-0121's mixer with one more clause (the single is matter-born), the trit carried by coin, bounce, stream and mixer, kept on its slot by the meeting and stored in slot order by the pair move (48 trits a dock), is exact and reversible (0 register mismatches, 0 reversal slots off), conserves the matter-born count exactly and gates 0 vacuum docks, so the vacuum runs bit for bit; it turns 17 times a meson term against 6,958 without the origin clause and refuses 21,051 vacuum-born singles, yet the meson reaches 185 to 4,095 of 4,096 docks by beat 128 (0 of 16 terms bounded, 13 past half the box) and a lone love 37 to 4,096 (0 of 16 bounded, 6.25 at rate 0), because one turn puts the difference on two stars whose crossing lines fire K between vacuum-born singles (1,447 K docks a meson term); the vacuum-free stand-in is E-SPN-0121's and keeps 0.035 of the weight by beat 24, so the hold stays undecided and no mass tensor is read; the ungated control reproduces E-SPN-0121 bit for bit and rate 0 reproduces the lineon and E-SPN-0115 (m*/E_rest 1.79308).",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L1 (L1: known mathematics, correctly confirmed).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/spin/origin-gated-mixer.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-SPN-0123",
+        "quote": null
+      }
+    ]
+  }
+}

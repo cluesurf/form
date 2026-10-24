@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "052cf603-dbde-48e0-a88c-53138b23a3fc",
+  "title": "E-CSM-0048: if the inflaton is the R-squared scalaron of the emergent gravity (a prose argument fixing the...",
+  "purpose": "Experiment E-CSM-0048 in the cosmology arena: if the inflaton is the R-squared scalaron of the emergent gravity (a prose argument fixing the alpha-attractor alpha = 1), the known closed forms give $n_s = 1$ - 2/N about 0.964 matching Planck for the whole pivot window N = 50 to 66 (computed by scan) and $r = 12 / N^2$ about 0.004 inside the CMB-S4 window, arithmetic on the standard Starobinsky formulas at a chosen N, leaving only the amplitude scale free.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L1 (L1: known mathematics, correctly confirmed).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/cosmology/starobinsky-from-r-squared.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-CSM-0048",
+        "quote": null
+      }
+    ]
+  }
+}

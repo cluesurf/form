@@ -1,0 +1,45 @@
+{
+  "record": "proposition",
+  "id": "d603b365-6539-4a1c-bb01-ef762dab2cde",
+  "kind": "mathematical",
+  "epistemic_status": "inferred",
+  "title": "Symmetric structures are more compressible",
+  "statements": [
+    {
+      "id": "843a4c7e-efc9-4c1f-bc8e-552f0fbe124d",
+      "text": "All else being equal, more symmetric data structures are more compressible, so compressibility is a simple measure of symmetry.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-23"
+    }
+  ],
+  "current_statement": "843a4c7e-efc9-4c1f-bc8e-552f0fbe124d",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "18748a2a-239c-4c8a-84be-d6db8f91e70d",
+        "locator": "section X, p. 36",
+        "quote": "all else being equal, more symmetric data structures will be more compressible."
+      }
+    ]
+  }
+}

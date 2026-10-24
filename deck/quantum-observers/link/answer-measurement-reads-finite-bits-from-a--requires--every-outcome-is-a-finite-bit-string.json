@@ -1,0 +1,28 @@
+{
+  "record": "link",
+  "id": "253703ba-ff96-44e8-ac50-237e5883de19",
+  "from": "9815e697-f700-46cd-83b7-46dc9e5b4120",
+  "to": "f363682d-2e99-4e97-81ee-45a1157b9998",
+  "relation": "requires",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b187d010-15da-4476-b407-2a7922c1dcf1",
+        "locator": "section 3.1",
+        "quote": "The goal of measurement is to obtain recordable, reportable observational outcomes that can be compared to the outcomes of measurements carried out at other times or by other observers."
+      }
+    ]
+  }
+}

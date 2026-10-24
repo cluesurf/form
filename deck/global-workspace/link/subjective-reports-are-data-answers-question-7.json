@@ -1,0 +1,28 @@
+{
+  "record": "link",
+  "id": "fc018fc3-c360-4509-adf4-f216a0de68dc",
+  "from": "842b67a5-6955-43cc-ae41-8657a5d9f0b7",
+  "to": "1db1bbe9-0f32-4e1f-8237-c8fe26bf268f",
+  "relation": "answers",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "9b21a09b-835f-4256-afbf-19425df2597e",
+        "locator": "section 2, p. 3",
+        "quote": "Subjective reports are the key phenomena that a cognitive neuroscience of consciousness purport to study. As such, they constitute primary data"
+      }
+    ]
+  }
+}

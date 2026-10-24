@@ -1,0 +1,39 @@
+{
+  "record": "observation",
+  "id": "4b35ae2d-385b-473d-8737-798df94dacb6",
+  "kind": "experimental_result",
+  "epistemic_status": "observed",
+  "description": "Cogitate (2025): face versus object category was decoded across tasks in both posterior and prefrontal regions in iEEG, MEG and fMRI. Prefrontal decoding reached about 70% in iEEG but generalized only from about 0.2 to 0.4 s.",
+  "method": "experiment",
+  "status": "reported",
+  "source": "dbe9b66c-4ffb-4615-9fd2-aa5c75424db8",
+  "procedure": "63b85d16-f128-4efc-8b55-8bca33f01370",
+  "variable": null,
+  "value": null,
+  "unit": null,
+  "uncertainty": null,
+  "sample_size": 256,
+  "replication_count": null,
+  "quality": null,
+  "limitations": "One adversarial study of visual consciousness with suprathreshold faces, objects, letters and false fonts. Tests only the predictions both teams preregistered.",
+  "conflicts_of_interest": null,
+  "observed_at": "2025-04-30",
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "dbe9b66c-4ffb-4615-9fd2-aa5c75424db8",
+        "locator": "Results, decoding of conscious content",
+        "quote": "Hence, across modalities, face–object decoding occurred in both posterior and prefrontal ROIs, consistent with IIT and GNWT predictions."
+      }
+    ]
+  }
+}

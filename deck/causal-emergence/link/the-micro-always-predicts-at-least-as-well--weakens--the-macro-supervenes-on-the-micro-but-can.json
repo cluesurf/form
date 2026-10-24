@@ -1,0 +1,28 @@
+{
+  "record": "link",
+  "id": "f1883b8e-c0fa-4661-9c88-53de15c82ec2",
+  "from": "08d27757-88ff-4189-b848-46dd8cdb96cb",
+  "to": "747e80d6-8e82-4e22-986a-2fb0b6e3d007",
+  "relation": "weakens",
+  "strength": null,
+  "rationale": "If the micro always predicts at least as well, the macro cannot supersede it on any compatible comparison.",
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "e3443755-ce71-4132-994c-b609c7b95871",
+        "locator": "post body",
+        "quote": "knowing the complete initial microstate of a system always gives you at least as much power to predict the system’s future as knowing a macroscopic approximation to that state"
+      }
+    ]
+  }
+}

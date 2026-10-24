@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "1cefbfc1-27a4-4686-acf8-5170690dc77d",
+  "title": "E-GRV-0059: a charged knot's content reaches out through the husk light but nothing in it is charge-blind, fail on...",
+  "purpose": "Experiment E-GRV-0059 in the gravity arena: a charged knot's content reaches out through the husk light but nothing in it is charge-blind, fail on J3 alone: on the trit light (side 12, D 4, 48 beats) a point knot of charge +4, -4 or +1 gives a test vibe a Coulomb energy that matches the lattice form to 3.5e-15 and is linear in the knot's charge to 6.2e-15 (charge 4 against a love test vibe 6.14e-2, 2.51e-2, 1.25e-2, 7.14e-3, 4.76e-3 at r = 1 to 5), while its charge-blind part is at most 1.4e-14, the quadratic Coulomb form's odd cross term; a neutral four-vibe lump is invisible to the husk light on 480 of 480 beats, since the light reads column sums; the hop that moves matter reads no light on 48 of 48 steps, so the field acts on no test vibe's motion; Gauss and the Coulomb energy exact on every beat.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L2 (L2: known physics reproduced on a stated model).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/gravity/knot-light-reach.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-GRV-0059",
+        "quote": null
+      }
+    ]
+  }
+}

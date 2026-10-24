@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "2ad3d9cb-24c3-463d-b9a2-40b3d26fbd25",
+  "title": "E-SLF-0110: deterministic variation plus persistence-selection adapts a population toward its environment, with no...",
+  "purpose": "Experiment E-SLF-0110 in the selves arena: deterministic variation plus persistence-selection adapts a population toward its environment, with no randomness.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L2 (L2: known physics reproduced on a stated model).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/selves/selection-by-persistence.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-SLF-0110",
+        "quote": null
+      }
+    ]
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "record": "proposition",
+  "id": "11a0c0ca-de5c-4e8d-a8cc-666070d109c8",
+  "kind": "definitional",
+  "epistemic_status": "designed",
+  "title": "A eureka moment: a rare, intense insight that attaches a person to an idea",
+  "statements": [
+    {
+      "id": "17bf61d3-d606-4415-8a4f-5a723c6a50b1",
+      "text": "A eureka moment, in this model, is a rare, emotionally intense insight that creates a lasting attachment to an idea.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "17bf61d3-d606-4415-8a4f-5a723c6a50b1",
+  "status": "active",
+  "voice": "framework",
+  "defines": "eureka moment",
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "983ce19a-a7da-4801-9728-4eca49c1b243",
+        "locator": "Ideas and biases",
+        "quote": "Here, by eureka moments, I mean rare, emotionally intense insights that create a lasting attachment to an idea."
+      }
+    ]
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "058f65e3-e42e-4a0c-9d9e-68af4d1a2084",
+  "title": "E-FLD-0017: Ohm's law as Drude relaxation on the momentum gas: with no impurities the drift current is conserved to...",
+  "purpose": "Experiment E-FLD-0017 in the fluids arena: Ohm's law as Drude relaxation on the momentum gas: with no impurities the drift current is conserved to the exact integer for sixty beats at two box sides (the perfect conductor), fixed bounce-back scatterer cells make it decay with a rate linear in the impurity fraction (2 to 4 percent doubles the rate within five percent, Matthiessen's rule, resistivity proportional to impurity density), and the 8 percent rate's departure from the dilute law is reported, so resistance is a property of broken translation symmetry and not of the rule.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L2 (L2: known physics reproduced on a stated model).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/fluids/drude-conduction.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-FLD-0017",
+        "quote": null
+      }
+    ]
+  }
+}

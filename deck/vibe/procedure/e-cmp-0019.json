@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "64da56dd-a0b5-4613-94f1-792d7bbafc14",
+  "title": "E-CMP-0019: the adopted knit protects a code, pass (classical): a trit written once on each of n mesh lines is a...",
+  "purpose": "Experiment E-CMP-0019 in the computation arena: the adopted knit protects a code, pass (classical): a trit written once on each of n mesh lines is a repetition code whose symbols are lines, and because a change never leaves its line the beat never carries an error between lines, so pulling back with the rule own inverse and taking the majority corrects any error on fewer than n/2 lines at any beat; on 17 link starts, 3 logical values, n = 3 and 5, errors of 3 trits at beats 0, 5 and 11, every case decodes and every difference stays on the errored lines, forward and pulled back, while an error on a majority decodes wrong (distance exact); the quantum code over lines is argued, not run, and the protection is the line law itself, which the candidate rule removes.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L2 (L2: known physics reproduced on a stated model).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/computation/line-code.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-CMP-0019",
+        "quote": null
+      }
+    ]
+  }
+}

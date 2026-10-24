@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "e6f1ca19-ad7a-4fa3-87b2-c68a74468520",
+  "title": "E-SPN-0124: a pinned composite does not borrow motion from a background of matter, fail (G2): a trio array at X + 4...",
+  "purpose": "Experiment E-SPN-0124 in the spin arena: a pinned composite does not borrow motion from a background of matter, fail (G2): a trio array at X + 4 D4 (16 trios on side 8) is steady, because its stars cross at 0 docks off the hubs, so K fires only at the hubs (443 to 507 firings each over 8 terms) and the wake holds at 470 readings on 96 lines (peak growth under 0.026); the meson array and one trio per box are steady too; a probe whose star crosses no background line runs bit for bit as in the vacuum, pinned, at every density; a probe whose star crosses the trio array fires K off the hubs from beat 2 to 11 and cascades over 1,137 to 4,096 of 4,096 docks, a wake rather than a mover; in the meson array a crossed probe exchanges on 2 to 5 docks with a bounded footprint of 41 to 231, but its charge centroid moves only 20.8 to 24.5 off every line against 13.3 to 17.6 for the same placements in the vacuum (at most 1.6 times, against the 100 asked), growing as $t^{0.17}$ to $t^{0.38}$, not ballistically; so each exchange K makes adds a hub rather than moving one, and Pretko's dipole trade has no counterpart in this rule.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L1 (L1: known mathematics, correctly confirmed).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/spin/mach-background.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-SPN-0124",
+        "quote": null
+      }
+    ]
+  }
+}

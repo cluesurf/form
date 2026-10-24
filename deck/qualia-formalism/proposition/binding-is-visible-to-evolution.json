@@ -1,0 +1,45 @@
+{
+  "record": "proposition",
+  "id": "ea2dd556-8034-46ee-ac54-8f8b4d2c2e1b",
+  "kind": "empirical",
+  "epistemic_status": "hypothesized",
+  "title": "Field binding is visible to evolution",
+  "statements": [
+    {
+      "id": "52d0e2f8-bda5-4374-82fe-1ee73622e434",
+      "text": "Because field topology acts by downward causation, the binding mechanism has effects that natural selection can act on.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-23"
+    }
+  ],
+  "current_statement": "52d0e2f8-bda5-4374-82fe-1ee73622e434",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "9359bfc1-6fff-41a8-8d7c-91af2f730b74",
+        "locator": "section 4.2.4",
+        "quote": "Such downward causation helps to explain why the mechanism might be visible to evolutionary processes."
+      }
+    ]
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "3e5e07de-a694-49e3-b8fe-4de55c6bc849",
+  "title": "E-FRC-0294: explores whether R*'s own frozen colour (E-SPN-0132's links lifted to Sigma(648)) keeps the register...",
+  "purpose": "Experiment E-FRC-0294 in the gauge arena: explores whether R*'s own frozen colour (E-SPN-0132's links lifted to Sigma(648)) keeps the register bulk gap at pi and what the colour-singlet mass spurion D3 is on the coloured wall slab, partial: the bulk gap stays open under both centre sections (no level within 0.2, the nearest 0.46 Wilson and 0.76 plain), so the field has no gap-closing region, but the coloured chiral slab holds no level within 0.1 of pi at L 8, 12 and 16 (the nearest at the Wilson bulk edge, 0.45 to 0.49): the rough field removes the wall doublet and D3 is not formed.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L2 (L2: known physics reproduced on a stated model).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/gauge/color-slab.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-FRC-0294",
+        "quote": null
+      }
+    ]
+  }
+}

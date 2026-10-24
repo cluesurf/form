@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "57f68b0a-2df7-4863-b924-b010c03ff719",
+  "title": "E-FND-0164: four holes of the register sea can wrap the cycle phase and still do not heat, pass: at L = 4, 4...",
+  "purpose": "Experiment E-FND-0164 in the foundations arena: four holes of the register sea can wrap the cycle phase and still do not heat, pass: at L = 4, 4 $E_{max} = 3.251$ > pi, and only the two corners (every hole at the top two levels, all in one band or all in the other) meet across 2 pi; a corner start and its band mirror keep a band memory U - U' of 0.415 and 0.474 over cycles 25 to 48 (full mixing gives 0), their sum stays 1.003 and 0.993, the memory holds from the late window's first half to its second (0.986 and 0.963, the non-wrapping comparator 0.965), and the weight with every hole flipped stays 0.017 to 0.021 and falls; the corners are dressed more than a non-wrapping start (memory 0.68 and 0.78 of its), as an independent-hole dressing predicts, a static admixture rather than a flow; the free rule keeps the band to 4.9e-15.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L2 (L2: known physics reproduced on a stated model).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/foundations/register-wrap.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-FND-0164",
+        "quote": null
+      }
+    ]
+  }
+}

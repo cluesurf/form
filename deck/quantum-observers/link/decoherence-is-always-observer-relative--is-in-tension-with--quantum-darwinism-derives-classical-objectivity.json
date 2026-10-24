@@ -1,0 +1,28 @@
+{
+  "record": "link",
+  "id": "24fcc4db-2aba-4c9e-b3c6-74590cfb147c",
+  "from": "6357ea11-5b6b-4342-a1d1-503e430ac9cf",
+  "to": "a5d41ef8-a1a3-4bc8-9ba2-e7f4ce3d34ad",
+  "relation": "is_in_tension_with",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "4489b7d7-7273-4b67-a1c2-b53ddab0eeb5",
+        "locator": "section 2.5",
+        "quote": "decoherence is always observer-relative, even when the “observer” is an ambient environment"
+      }
+    ]
+  }
+}

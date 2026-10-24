@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "2a37a99e-5aba-4c8a-b34d-251f64a7358e",
+  "title": "E-QTM-0168: the discrete Pancharatnam phase on the role is the symplectic area count with an orientation sign, pass...",
+  "purpose": "Experiment E-QTM-0168 in the quantum arena: the discrete Pancharatnam phase on the role is the symplectic area count with an orientation sign, pass: on all 648 ordered triples of stabilizer states with three different directions the Bargmann invariant is exactly $3^{-3 / 2}$ i chi omega^A, A the area of the triangle of their lines in the role's 9-point phase space and chi = +-1 the orientation of the directions, so concurrent triples read +-i and the literal omega^A fails on them; the 1,080 degenerate triples give 0 or |<a|c>|^2; Clifford covariance leaves 4 orbits, so the content is the ratio omega^A; the strange state and a wrong area are read as off the law; after one like or love-fear meeting 2,795,956 of 9,784,236 reached-state triples leave the twelve-point ladder, so the area count stops at the stabilizer states.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L1 (L1: known mathematics, correctly confirmed).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/quantum/pancharatnam-area.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-QTM-0168",
+        "quote": null
+      }
+    ]
+  }
+}

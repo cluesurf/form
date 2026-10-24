@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "bbc3304b-9c5f-40f9-bbe0-958b0000cd66",
+  "title": "E-RLT-0111: Laue's theorem for the light register pair, fail as predicted: the excess inertia is not stress. A...",
+  "purpose": "Experiment E-RLT-0111 in the relativity arena: Laue's theorem for the light register pair, fail as predicted: the excess inertia is not stress. A tracked level is stationary, so its integrated stress is 0 exactly (its second moment moves under 1.2e-5 a cycle), yet R - 1 is 1.72 ($a_B$ 6) and 0.53 ($a_B$ 8); the binding's stress alone has the right sign and is 0.030, 0.015 and 0.006 of E ($a_B$ 6, 8, 12), 58 and 36 times too small, and Laue would need a stress 42 and 27 times the binding; the reference control on the 1/r identity fails at large $a_B$ (the count's floor).",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L2 (L2: known physics reproduced on a stated model).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/relativity/laue-pair-stress.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-RLT-0111",
+        "quote": null
+      }
+    ]
+  }
+}

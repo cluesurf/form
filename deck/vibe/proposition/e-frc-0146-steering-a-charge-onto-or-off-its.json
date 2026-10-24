@@ -1,0 +1,50 @@
+{
+  "record": "proposition",
+  "id": "3e290e48-52c5-4a9e-83de-57a511c8a5c1",
+  "kind": "empirical",
+  "epistemic_status": "simulated",
+  "title": "E-FRC-0146: steering a charge onto or off its string, and letting each charge carry its own store of energy, keep...",
+  "statements": [
+    {
+      "id": "9dd9cbf7-7556-4985-a1d5-e059243b897a",
+      "text": "Steering a charge onto or off its string, and letting each charge carry its own store of energy, keep every local law of the reflecting slots exact: reversal, charge, energy to the unit, Gauss, no demon or store below zero, local color with the sign carried, and a change of frame in every cell.",
+      "language": "en",
+      "scope": "experiment E-FRC-0146, arena gauge, depth L2 (L2: known physics reproduced on a stated model)",
+      "conditions": "substrates: 3434. In a paper: false",
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-22"
+    }
+  ],
+  "current_statement": "9dd9cbf7-7556-4985-a1d5-e059243b897a",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": {
+    "value": "open",
+    "reason": "holds in the vibe claim graph",
+    "basis": [],
+    "proposal": null
+  },
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "research/result.ts R-FRC-0006",
+        "quote": null
+      }
+    ]
+  }
+}

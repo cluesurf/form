@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "9b75b50f-7912-476d-b687-46243bdfbb3f",
+  "title": "E-FND-0131: the spectral function of the adopted rule has interacting-field-theory structure: the massless species...",
+  "purpose": "Experiment E-FND-0131 in the foundations arena: the spectral function of the adopted rule has interacting-field-theory structure: the massless species is a pure pole with one hundred percent of spectral power in a single line at exactly omega equals k times light speed at every wavevector, the heavy species is a narrow quasiparticle peak with about eighty percent of power within one bin of zero, and the dressed species shows pole plus continuum, a central quasiparticle peak with a secondary radiation branch at omega near k times light speed at two of three wavevectors, the massless pure pole serving as the control that the instrument adds nothing.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L2 (L2: known physics reproduced on a stated model).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/foundations/spectral-function.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-FND-0131",
+        "quote": null
+      }
+    ]
+  }
+}

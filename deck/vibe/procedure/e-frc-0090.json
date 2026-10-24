@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "ee72558d-9c63-4d67-b599-16f0cecd7ca1",
+  "title": "E-FRC-0090: dynamical quarks break the string: with quarks the Polyakov loop is real, nonzero and independent of the...",
+  "purpose": "Experiment E-FRC-0090 in the gauge arena: dynamical quarks break the string: with quarks the Polyakov loop is real, nonzero and independent of the volume, and the quark determinant weights the center sectors of SU(3) unequally, where the pure gauge theory gives zero and exact degeneracy.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L2 (L2: known physics reproduced on a stated model).",
+  "status": "completed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/gauge/dynamical-quarks.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "research/result.ts R-FRC-0001",
+        "quote": null
+      }
+    ]
+  }
+}

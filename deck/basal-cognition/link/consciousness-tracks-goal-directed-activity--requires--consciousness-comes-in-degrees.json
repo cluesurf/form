@@ -1,0 +1,28 @@
+{
+  "record": "link",
+  "id": "390fd904-c40e-4563-b9bf-1113f8a8e22d",
+  "from": "7fbadc21-e88b-496a-8287-55159fcfd29c",
+  "to": "76f6703f-2916-4878-98ee-753d0bb9cad5",
+  "relation": "requires",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "fd7382f9-52a5-4beb-9680-fc341ff15b98",
+        "locator": "section Consciousness",
+        "quote": "Unlike other panpsychist views, TAME does not claim that mind is inevitably baked in regardless of physical implementation or structure."
+      }
+    ]
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "7d100e8c-ac74-4794-8249-8b706809202a",
+  "title": "E-FRC-0264: a Coulomb-bound pair driven by the light, fail on the first-order threshold gate: E-SPN-0155's heavy...",
+  "purpose": "Experiment E-FRC-0264 in the gauge arena: a Coulomb-bound pair driven by the light, fail on the first-order threshold gate: E-SPN-0155's heavy love-fear pair, the coupling the shift of its relative momentum, ionizes at first order above its binding energy with the rate growing as the field's intensity (doubling A0 gives 3.99), but at 0.8 $E_b$ it also loses norm at first order, 0.06 of the above-threshold rate, which the derivation did not allow (it counted only the continuum; the bound-bound lines at $(1 - 1 / n^2) E_b$ are the candidate); a static stand-in pair in a uniform field.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L2 (L2: known physics reproduced on a stated model).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/gauge/photoelectric-threshold.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-FRC-0264",
+        "quote": null
+      }
+    ]
+  }
+}

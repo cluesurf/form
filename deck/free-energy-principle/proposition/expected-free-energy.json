@@ -1,0 +1,45 @@
+{
+  "record": "proposition",
+  "id": "d964227a-bc4a-491a-acf3-0d20dfedea59",
+  "kind": "definitional",
+  "epistemic_status": "designed",
+  "title": "Expected free energy",
+  "statements": [
+    {
+      "id": "d6b80cf6-c351-4e6b-aaa7-c4a36b0797a6",
+      "text": "Expected free energy is a functional of a density over future paths rather than over present states. It scores possible courses of action and, unlike variational free energy, is not a bound on surprisal.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-23"
+    }
+  ],
+  "current_statement": "d6b80cf6-c351-4e6b-aaa7-c4a36b0797a6",
+  "status": "active",
+  "voice": "framework",
+  "defines": "expected free energy",
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "951a63ba-fbb2-4b78-af38-52646f22dbe0",
+        "locator": "section 7",
+        "quote": "variational free energy is a bound on surprisal, while expected free energy is not a bound"
+      }
+    ]
+  }
+}

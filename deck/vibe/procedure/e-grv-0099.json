@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "da6fb090-c86d-44ed-82e0-5938aacea56b",
+  "title": "E-GRV-0099: holding the spanned light's resolution fixed leaves its bending by general relativity's 2 unchanged...",
+  "purpose": "Experiment E-GRV-0099 in the gravity arena: holding the spanned light's resolution fixed leaves its bending by general relativity's 2 unchanged, pass: with the angle windows and field modulus at D0 = 16 everywhere and only the divisors reading the radion's slab (depth 11 .. 21), the light is delayed 422.03 beats against its eikonal 419.16, a factor 2.258 of Newton's count with the lump's closed pull (closed 2.243, weak-field 2.014), beside the general-relativity control wave's 2.338 and the clock-only control's 1.091; its uniform and lens runs equal E-GRV-0093's value for value (every arrival, weight and invariant; 0 wraps, reversed, Gauss exact), because the rule reads the resolution only where a value crosses a window and none does here; the span lumps' fall is still not alike (factor 3.64 with their measured pull).",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L2 (L2: known physics reproduced on a stated model).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/gravity/fixed-resolution-lens.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-GRV-0099",
+        "quote": null
+      }
+    ]
+  }
+}

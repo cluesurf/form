@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "6a7689fa-aaff-4856-8116-811763f79b5a",
+  "title": "E-GRV-0140: making every per-class depth a step field along its own line class, with the scalar step field's inertia...",
+  "purpose": "Experiment E-GRV-0140 in the gravity arena: making every per-class depth a step field along its own line class, with the scalar step field's inertia and link stiffness, does not fix the TT speed at c, fail at L1 (W1, W2, W3 all fail; controls hold): the scalar's kernel read from one beat of the step rule gives $c^2 = 6$ kappa = 4/9 at D 1 and 4/15 at D 2 on axis, face and body, the light's $c(D)^2$ exactly; but with each class's steps on its own links the metric's TT omega^2 / $c^2 k^2$ is 1/30 (plus) and 0 (cross) on the axis (the cross polarization along z lives only on the (1, +-1, 0) classes, whose links are perpendicular to z), 0.044 and 1/12 on the face diagonal, 0.062 on the body, anisotropic whatever the inertia's normalization; the form breaks 288 of the spacetime slide's rows (every power of omega, 120 of them the static slide's) where E-GRV-0125's potential breaks 0; a step field is shift symmetric, so the Eg doublet keeps the register's inertia and no mass (omega(0) = 0, omega^2 / $c^2 k^2$ 0.089 to 0.133): massless and propagating, not a multiplier, constraint or dock-scale mass. Making each class a whole scalar step field gives c exactly on every mode, but only by construction, and breaks 1,224 rows; E-GRV-0139's family keeps the speed free (rank 2), and its 21 shift-symmetric members force the doublet's mass to 0 with kinetic rank 1.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L1 (L1: known mathematics, correctly confirmed).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/gravity/step-field-depths-beat.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-GRV-0140",
+        "quote": null
+      }
+    ]
+  }
+}

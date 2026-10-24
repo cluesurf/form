@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "7c37a2b9-9a24-412a-9f16-83dc6ceead36",
+  "title": "E-FRC-0210: matter hops on string trits: a vibe crossing a bulk link swaps the two docks and flips the link's string...",
+  "purpose": "Experiment E-FRC-0210 in the gauge arena: matter hops on string trits: a vibe crossing a bulk link swaps the two docks and flips the link's string trit by the charge carried, refused when the trit is full, and with the trit-column light Gauss's law holds exactly in bulk and husk at every beat, charge is kept, the run reverses trit for trit and the column-summed current obeys the continuity equation; the refusal caps the net charge through a bulk link at one unit for all time, not the rate.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L2 (L2: known physics reproduced on a stated model).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/gauge/trit-hop.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-FRC-0210",
+        "quote": null
+      }
+    ]
+  }
+}

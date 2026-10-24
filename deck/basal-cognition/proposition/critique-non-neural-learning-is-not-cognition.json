@@ -1,0 +1,45 @@
+{
+  "record": "proposition",
+  "id": "7b1d50d3-cfb3-4dcc-abb8-70e32c8f64f7",
+  "kind": "empirical",
+  "epistemic_status": "inferred",
+  "title": "Critique: non-neural learning and memory may not be the same capacities",
+  "statements": [
+    {
+      "id": "6316a463-ff50-4aef-ad1d-5dfb0060bc01",
+      "text": "There is no conclusive evidence that what is called learning or memory in non-neuronal organisms resembles what cognitive science studies under those names.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-23"
+    }
+  ],
+  "current_statement": "6316a463-ff50-4aef-ad1d-5dfb0060bc01",
+  "status": "active",
+  "voice": "critique",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "a2a9b88f-95b0-40d1-87f3-456af2e14117",
+        "locator": "section Introduction: two approaches for addressing the scope of cognition, reporting Loy et al. 2021",
+        "quote": "is remotely similar to what cognitive scientists are interested in when investigating learning and memory"
+      }
+    ]
+  }
+}

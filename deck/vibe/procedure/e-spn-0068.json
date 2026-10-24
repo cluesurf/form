@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "0279485c-da1f-456d-996d-31aaafa47893",
+  "title": "E-SPN-0068: the lone-bounce hub knit does not bind two vibes, partial by its own gates: the energy of two seeded...",
+  "purpose": "Experiment E-SPN-0068 in the spin arena: the lone-bounce hub knit does not bind two vibes, partial by its own gates: the energy of two seeded vibes exceeds the vacuum by exactly 2 at every beat and gap on 17 of 17 starts (nothing conserved sees a separation); head on along a bare line they separate ballistically, but on 4 of 17 starts the pair move unmakes the love-fear pair into the store at the meeting for one beat and remakes it, which the separation gate did not allow for (G2 fails); one love on the stored line spreads into 23 to 27 units of absolute charge along its line, so it is no localized particle; the binding gate read true on 10 starts only because it compared line-wide disturbances (pair dipole 4.1 to 13.5, above the 4 that any two point charges can reach), not a bound pair.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L2 (L2: known physics reproduced on a stated model).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/spin/knit-cannot-bind.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-SPN-0068",
+        "quote": null
+      }
+    ]
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "record": "proposition",
+  "id": "64c73272-a8c0-4bf5-bac5-085d75e72d16",
+  "kind": "empirical",
+  "epistemic_status": "hypothesized",
+  "title": "Pockets last under a few seconds",
+  "statements": [
+    {
+      "id": "f96bfc16-94e7-4a98-a14a-fbd85cedba3f",
+      "text": "In normal human experience a bounded pocket almost certainly lasts less than a few seconds, while binding can span about a second.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-23"
+    }
+  ],
+  "current_statement": "f96bfc16-94e7-4a98-a14a-fbd85cedba3f",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "9359bfc1-6fff-41a8-8d7c-91af2f730b74",
+        "locator": "sections 3.5 and 4.3.3",
+        "quote": "almost certainly less than a few seconds in normal human experience"
+      }
+    ]
+  }
+}

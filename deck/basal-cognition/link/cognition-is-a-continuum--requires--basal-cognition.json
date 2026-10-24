@@ -1,0 +1,28 @@
+{
+  "record": "link",
+  "id": "8c3979ab-474c-4ddd-92dc-ab8e475a9cef",
+  "from": "25da7545-7e6d-4674-afb7-e7e2191e1ec8",
+  "to": "d97bfdbc-ab5c-4844-8f3e-738792f24f3f",
+  "relation": "requires",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "fd7382f9-52a5-4beb-9680-fc341ff15b98",
+        "locator": "Table 1",
+        "quote": "no binary categories, no bright line separating true cognition from"
+      }
+    ]
+  }
+}

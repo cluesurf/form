@@ -1,0 +1,50 @@
+{
+  "record": "proposition",
+  "id": "52840fc4-6d8e-4741-8274-544108dfe4be",
+  "kind": "mathematical",
+  "epistemic_status": "inferred",
+  "title": "Rung: inflation and the Mukhanov-Sasaki equation from conserved-current perturbations",
+  "statements": [
+    {
+      "id": "136b7371-50e7-4e46-9183-4e2c519b8be1",
+      "text": "With minimal stress closure, accelerated expansion and the scalar and tensor spectra arise as properties of the conserved flow, and canonical normalization of its scalar perturbations reduces them to the Mukhanov-Sasaki form $v_k'' + (c_s^2 k^2 - z''/z) v_k = 0$.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "136b7371-50e7-4e46-9183-4e2c519b8be1",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "e7ec5f8f-ca96-4134-b5a2-3443d35f9f80",
+        "locator": "abstract",
+        "quote": "the Mukhanov-Sasaki structure follows from canonical normalisation of conserved-current perturbations."
+      },
+      {
+        "source": "025d24c1-40e1-4f8b-abaa-d8b9c1b8e0ab",
+        "locator": "abstract",
+        "quote": "the admissible scalar perturbation sector recoverable from the resulting architecture reduces to the Mukhanov–Sasaki form."
+      }
+    ]
+  }
+}

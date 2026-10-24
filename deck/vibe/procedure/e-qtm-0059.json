@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "70889308-fb92-46e7-881d-c85329186c15",
+  "title": "E-QTM-0059: every Gaussian packet saturates sigma_x sigma_p = 1/2 exactly across a width sweep while a flat-top...",
+  "purpose": "Experiment E-QTM-0059 in the quantum arena: every Gaussian packet saturates sigma_x sigma_p = 1/2 exactly across a width sweep while a flat-top packet sits far above the bound, the Heisenberg uncertainty principle on the lattice.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L1 (L1: known mathematics, correctly confirmed).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/quantum/uncertainty-principle.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-QTM-0059",
+        "quote": null
+      }
+    ]
+  }
+}

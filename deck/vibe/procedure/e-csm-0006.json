@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "88480832-f60d-4678-b95c-e1d835bcbbe6",
+  "title": "E-CSM-0006: the action fluctuation scales as the square root of volume, the everpresent-Lambda law",
+  "purpose": "Experiment E-CSM-0006 in the cosmology arena: the action fluctuation scales as the square root of volume, the everpresent-Lambda law.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L2 (L2: known physics reproduced on a stated model).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/cosmology/cosmological-constant.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-CSM-0006",
+        "quote": null
+      }
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "record": "link",
+  "id": "a4fc1ba1-94b4-4beb-8918-66dced6665ad",
+  "from": "59e85f7b-574d-4c59-ac44-ead959344726",
+  "to": "c82c7c92-5d96-4c1d-96a1-9d1c73416e52",
+  "relation": "weakens",
+  "strength": null,
+  "rationale": "The critic finds no empirical research that substantiates the theory.",
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "171452e3-0bac-45fc-b2a4-357b8b1edda5",
+        "locator": "comment of 6 Sep 2021",
+        "quote": "The Symmetry Theory of Valence sounds wrong to me and is not substantiated by any empirical research I am aware of."
+      }
+    ]
+  }
+}

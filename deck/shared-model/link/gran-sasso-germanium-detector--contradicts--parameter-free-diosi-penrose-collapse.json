@@ -1,0 +1,34 @@
+{
+  "record": "link",
+  "id": "0767ccd7-516c-4f49-9adf-3584f9b75b51",
+  "from": "082663f3-7b0a-4694-a44a-52d1adfbc9ca",
+  "to": "40e08f46-97cb-464d-8c0d-0a947fa95e07",
+  "relation": "contradicts",
+  "strength": null,
+  "rationale": "The parameter-free model predicts radiation from collapse-induced diffusion at a rate the underground germanium measurement excludes.",
+  "rule": null,
+  "status": "accepted",
+  "origin": [
+    {
+      "repository": "orch-or",
+      "id": "4ec38097-55a3-48dd-bf4c-7837a926088f"
+    }
+  ],
+  "provenance": {
+    "written_by": "github:lancejpollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "a3b08d28-ee06-4288-8138-c79f305db11f",
+        "locator": "abstract",
+        "quote": "Our result sets a lower bound on the effective size of the mass density of nuclei, which is about three orders of magnitude larger than previous bounds. This rules out the natural parameter-free version of the Diósi-Penrose model."
+      }
+    ]
+  }
+}

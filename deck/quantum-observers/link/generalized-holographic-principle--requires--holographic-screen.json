@@ -1,0 +1,28 @@
+{
+  "record": "link",
+  "id": "6ec45809-786e-46cc-95a0-99743ebb6e75",
+  "from": "eee10d58-34b3-40ea-810f-469501a94105",
+  "to": "7102c6c3-3527-4ccd-b662-81bb2e97e4ac",
+  "relation": "requires",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b187d010-15da-4476-b407-2a7922c1dcf1",
+        "locator": "section 1",
+        "quote": "Any classical information exchanged between finite physical systems is encoded on the boundary between them."
+      }
+    ]
+  }
+}

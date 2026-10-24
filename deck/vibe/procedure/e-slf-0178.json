@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "013a50fa-b1f6-4aa2-b815-03c4dc5bf068",
+  "title": "E-SLF-0178: the closed line components of shared history are integrated and closed, pass: cutting a narrow component...",
+  "purpose": "Experiment E-SLF-0178 in the selves arena: the closed line components of shared history are integrated and closed, pass: cutting a narrow component (four stored units meeting on one root line, 8 vibes on 4 husk columns at the largest distance of side 8) into two husk halves and removing one changes 79 to 86 percent of the other half's places over 24 beats on the working vacuum (92 to 94 percent on the old knit), 17 of 17 starts, while random groupings of the same size and spread read exactly 0 and leak 12 vibes into the components they were drawn from; a component's cut leaks 0 vibes outside it, so each is a world of its own: integration by the cut is real but it is the rule's line locality, four units on one line of the torus, not a new self.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L2 (L2: known physics reproduced on a stated model).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/selves/shared-origin-integration.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-SLF-0178",
+        "quote": null
+      }
+    ]
+  }
+}

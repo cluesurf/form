@@ -1,0 +1,45 @@
+{
+  "record": "proposition",
+  "id": "89ae12d1-c509-42fd-a88b-e4426a6a1d99",
+  "kind": "empirical",
+  "epistemic_status": "hypothesized",
+  "title": "Morphogenesis is the behavior of a collective intelligence",
+  "statements": [
+    {
+      "id": "abbda8c1-b71f-4830-83ba-e4f930f6481c",
+      "text": "Building and repairing a body is the behavior, in the space of possible anatomies, of a collective intelligence of cells pursuing a target morphology.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-23"
+    }
+  ],
+  "current_statement": "abbda8c1-b71f-4830-83ba-e4f930f6481c",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "fd7382f9-52a5-4beb-9680-fc341ff15b98",
+        "locator": "Figure 6 caption",
+        "quote": "The results of complex morphogenesis are the behavior in morphospace of a collective intelligence of cells."
+      }
+    ]
+  }
+}

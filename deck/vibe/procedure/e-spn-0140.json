@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "5c6cf590-fe17-4bbb-b629-598bba3fe6d3",
+  "title": "E-SPN-0140: a dock-wide Pauli-blocked mixer keeps the love sea exactly and a hole bounded, but a hole's bands are...",
+  "purpose": "Experiment E-SPN-0140 in the spin arena: a dock-wide Pauli-blocked mixer keeps the love sea exactly and a hole bounded, but a hole's bands are warped and no massless hole moves at an isotropic c, fail (D3b, D4): M = exp(i theta $N_U$) over all 24 slots is unitary, symmetric and w on a full dock (0 entries off on sectors 0 to 3 and 21 to 24; unsigned it fails on 2 to 23), but needs 1/3, since of 279,936 W(D4) and 7,776 W(F4) unit choices 7,776 and 216 lie in Z[w][1/2] and 0 reach a root at inner +-1; the flat love sea stays one branch equal to its start for 128 beats (sides 4 and 8), the one-beat step keeps a lone hole a lone hole on 12,288 keyed and 384 superposed checks and its footprint stays 1 for 128 beats, and the exact walk reaches exactly t with the 24-cell as its cone; the working point's multiplets (13 + 11) have mean inverse mass tensors -0.2443 I and +0.2887 I isotropic to 5e-10 and a mean band isotropic through $K^4$ (anisotropy slope 5.99, the degree-6 pattern 2.249 against 2.25), the 5-design result, but the branches are warped at $K^2$ (5 or 6 flat along an axis, 2 or 3 along a root) and the only isotropic branches are a linear pair at 0.4995 c; massless (n = 4096) the top speed is 0.707 c on an axis, 0.965 c on a root, 0.816 c on the body diagonal at every theta (spread 1.36, derived 0.7071, 0.9659, 0.8165), bounded by the 24-cell for any dock-local mixer, with an isotropic rms of 0.489 c; the frame mixer's 0.4999 c, theta 0's lineon (cos(pi/3n)) and a love's cascade of the working vacuum (4,094 of 4,096 docks against 6) are reproduced.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L1 (L1: known mathematics, correctly confirmed).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/spin/dock-mixer.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-SPN-0140",
+        "quote": null
+      }
+    ]
+  }
+}

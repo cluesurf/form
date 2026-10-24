@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "ddbf02cd-bd96-4cc6-b6ee-ab578b338249",
+  "title": "E-FRC-0242: the coupling of a charge to the husk light in closed form: C = s kappa / 24 with s the drift's share of...",
+  "purpose": "Experiment E-FRC-0242 in the gauge arena: the coupling of a charge to the husk light in closed form: C = s kappa / 24 with s the drift's share of kappa, so alpha = (s / 24) sqrt(3 kappa / 2), sqrt(3 / (2D + 1)) / 24 with the classical light's split and kappa sqrt(3 / (2 rho)) / 24 with a balanced split f / s = rho (1 / (6 (2D + 1)) at the trit bulk's register count rho = 3/8); on the quantum light's own rule a static charge shifts the ground by exactly the drift times the Coulomb form when the force carries its share (to 5e-9 at N = 25), while the classical split's integer registers add an excess that falls with column depth (0.17 to 0.045 over N = 13 to 25), fail on that one clause, whose registered premise (a depth-independent excess) was wrong.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L2 (L2: known physics reproduced on a stated model).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/gauge/split-coulomb-coupling.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-FRC-0242",
+        "quote": null
+      }
+    ]
+  }
+}

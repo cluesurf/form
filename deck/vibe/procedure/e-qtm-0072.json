@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "f5af62a2-d719-4cf0-b642-b7f06f80532a",
+  "title": "E-QTM-0072: zitterbewegung from the coined Dirac walk model: a massive walk's chirality trembles at exactly twice...",
+  "purpose": "Experiment E-QTM-0072 in the quantum arena: zitterbewegung from the coined Dirac walk model: a massive walk's chirality trembles at exactly twice the mass (the frequency measured off the walk is within three percent of 2 mass at every mass and doubles when the mass doubles), while a massless walk does not tremble at all.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L2 (L2: known physics reproduced on a stated model).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/quantum/zitterbewegung.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-QTM-0072",
+        "quote": null
+      }
+    ]
+  }
+}

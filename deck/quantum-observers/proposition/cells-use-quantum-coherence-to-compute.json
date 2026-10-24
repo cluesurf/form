@@ -1,0 +1,52 @@
+{
+  "record": "proposition",
+  "id": "224433cd-8238-413f-8ece-673f8b5669b4",
+  "kind": "empirical",
+  "epistemic_status": "hypothesized",
+  "title": "Cells use quantum coherence to compute",
+  "statements": [
+    {
+      "id": "0eec0e81-ab66-4c75-8807-cab5ade90e25",
+      "text": "The internal molecular-scale dynamics of both prokaryotic and eukaryotic cells implement quantum information processing, using quantum coherence as a computational and memory resource.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": "Experiments that test explicitly for coherence effects in cellular biochemistry and find none.",
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-23"
+    }
+  ],
+  "current_statement": "0eec0e81-ab66-4c75-8807-cab5ade90e25",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": {
+    "resolution_criterion": "A published experiment shows, or rules out, essential use of quantum coherence as a computational or memory resource in the molecular-scale dynamics of living cells.",
+    "resolver": "specified_source",
+    "locked_at": "2021-12-30",
+    "outcome": null,
+    "resolved_at": null,
+    "observation": null
+  },
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "4489b7d7-7273-4b67-a1c2-b53ddab0eeb5",
+        "locator": "section 5.4, prediction 1",
+        "quote": "The internal, molecular-scale dynamics of both prokaryotic and eukaryotic cells implement quantum information processing, i.e., make essential use of quantum coherence as a computational and memory resource."
+      }
+    ]
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "record": "proposition",
+  "id": "3ddf4084-fdd1-4b1b-8c51-a272ec5478e3",
+  "kind": "definitional",
+  "epistemic_status": "designed",
+  "title": "Intelligence is competent navigation of a space",
+  "statements": [
+    {
+      "id": "491eb0cc-a1b2-4699-9387-fb15c8068357",
+      "text": "Intelligence is the degree of competency with which a system navigates any space, physical, anatomical, transcriptional or physiological, toward better regions without getting trapped in local minima.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-23"
+    }
+  ],
+  "current_statement": "491eb0cc-a1b2-4699-9387-fb15c8068357",
+  "status": "active",
+  "voice": "framework",
+  "defines": "intelligence",
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "fd7382f9-52a5-4beb-9680-fc341ff15b98",
+        "locator": "Table 1",
+        "quote": "Intelligence is the degree of competency of navigating any space (not just the familiar 3D space of motility), including morphospace, transcriptional space, physiological space, etc., toward desirable regions, while avoiding being trapped in local minima."
+      }
+    ]
+  }
+}

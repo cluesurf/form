@@ -1,0 +1,45 @@
+{
+  "record": "proposition",
+  "id": "bb51137d-5e08-4865-ba5c-243b8b5f2bcd",
+  "kind": "empirical",
+  "epistemic_status": "hypothesized",
+  "title": "Consciousness integrates otherwise separate brain functions",
+  "statements": [
+    {
+      "id": "6bfe7e23-613f-49eb-a7ad-abbc2383f26a",
+      "text": "Consciousness mobilizes and integrates brain functions that are otherwise separate and independent, by giving widespread access between them.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-23"
+    }
+  ],
+  "current_statement": "6bfe7e23-613f-49eb-a7ad-abbc2383f26a",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "27d49895-2a70-4caf-8a9d-44136817650c",
+        "locator": "abstract, p. 47",
+        "quote": "Consciousness might help to mobilize and integrate brain functions that are otherwise separate and independent."
+      }
+    ]
+  }
+}

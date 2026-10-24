@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "24ead5f3-5cf9-4e41-901c-d9e9e1cb2836",
+  "title": "E-SPN-0082: the lightest bound charge-one state with the string held at its ends, a STAND-IN on locked tokens on a...",
+  "purpose": "Experiment E-SPN-0082 in the spin arena: the lightest bound charge-one state with the string held at its ends, a STAND-IN on locked tokens on a husk line, fail: with each token's own column as its reel and nothing read past one link, three loves stay the lightest charge-one state and the line sector stays closed (N = 3, 2 pi sign -1), but the reel is a flavor that lifts Pauli's lock on the role, three loves share a dock, and the lightest level is not the natural spin one half (E-SPN-0077's result is lost), and it travels slower.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L2 (L2: known physics reproduced on a stated model).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/spin/lightest-charge-one-at-ends.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-SPN-0082",
+        "quote": null
+      }
+    ]
+  }
+}

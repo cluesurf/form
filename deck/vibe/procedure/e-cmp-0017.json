@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "6bdd4f99-cbc9-413a-b04a-2130d94a2d13",
+  "title": "E-CMP-0017: the fear walk solved in momentum space: its symbol, read off the walk, has eigenvalues e^(i pi/3 +- i...",
+  "purpose": "Experiment E-CMP-0017 in the computation arena: the fear walk solved in momentum space: its symbol, read off the walk, has eigenvalues e^(i pi/3 +- i W(k)) with cos W = cos(k) / 2, a Chebyshev closed form gives every weight exactly at any beat and distance (bit for bit with the walk, and at $t = 10^5$ where the walk would take $10^{10}$ updates), and stationary phase on the symbol gives the chance to 1e-5, so a lone vibe's quantum motion is a free particle of rest mass sqrt 3 and top speed 1/2.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L2 (L2: known physics reproduced on a stated model).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/computation/fear-dispersion.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-CMP-0017",
+        "quote": null
+      }
+    ]
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "f2f76209-2e6c-4f78-a1e8-09c68cbc8cc8",
+  "title": "E-FRC-0277: the slot frame is not the Higgs on the present rule, fail as derived: SU(2)+'s center acts on the dock...",
+  "purpose": "Experiment E-FRC-0277 in the gauge arena: the slot frame is not the Higgs on the present rule, fail as derived: SU(2)+'s center acts on the dock as 1 x (-J), moving no slot, and no element of W(F4) acts that way (0 of 1,152; the rule's -I is the slot reversal times 1 on the register); the dock's slot quaternion is odd under -I and even under the SU(2)+ center, and its full-sea expectation is 0; the center is exactly the register part of -I's spinor lift (L(-vol) = -J), so a frame that carried SU(2)+ charge needs the spinor -I to be the rule's own, a new piece.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L1 (L1: known mathematics, correctly confirmed).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/gauge/frame-higgs.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-FRC-0277",
+        "quote": null
+      }
+    ]
+  }
+}

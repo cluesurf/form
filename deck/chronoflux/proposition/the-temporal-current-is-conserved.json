@@ -1,0 +1,50 @@
+{
+  "record": "proposition",
+  "id": "cb8aa775-b263-4367-961d-00551b78ff8a",
+  "kind": "definitional",
+  "epistemic_status": "designed",
+  "title": "The temporal current is conserved",
+  "statements": [
+    {
+      "id": "104c6aca-52c4-4242-9335-6e01330a48ea",
+      "text": "The base variable is the temporal current $J^\\mu = \\rho_t u^\\mu$, a temporal density carried along a future-directed timelike flow, obeying $\\nabla_\\mu J^\\mu = 0$. Temporal density may be redistributed by the flow but is never created or destroyed by local evolution.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "104c6aca-52c4-4242-9335-6e01330a48ea",
+  "status": "active",
+  "voice": "framework",
+  "defines": "temporal current",
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "e9bae950-bb2d-4846-bc12-5f19b8e973a1",
+        "locator": "section 2",
+        "quote": "The starting point of the Chronoflux framework is the temporal current"
+      },
+      {
+        "source": "e9bae950-bb2d-4846-bc12-5f19b8e973a1",
+        "locator": "section 2",
+        "quote": "Its physical content is that temporal density may be redistributed by the flow, but it is not created or destroyed by the local evolution itself."
+      }
+    ]
+  }
+}

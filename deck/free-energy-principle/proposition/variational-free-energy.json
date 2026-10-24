@@ -1,0 +1,50 @@
+{
+  "record": "proposition",
+  "id": "8f838e96-4057-4e1c-ab99-96320386ab1d",
+  "kind": "definitional",
+  "epistemic_status": "designed",
+  "title": "Variational free energy",
+  "statements": [
+    {
+      "id": "0023e70a-73b4-4b8a-8862-7b747ada511c",
+      "text": "Variational free energy is a functional of a probability density encoded by internal states. It measures the difference between that density and the density of the quantities acting on the system, and it is an upper bound on surprisal.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-23"
+    }
+  ],
+  "current_statement": "0023e70a-73b4-4b8a-8862-7b747ada511c",
+  "status": "active",
+  "voice": "framework",
+  "defines": "variational free energy",
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "d119f39b-eab6-4042-94a9-df36465abe1e",
+        "locator": "abstract",
+        "quote": "The free energy considered here measures the difference between the probability distribution of environmental quantities that act on the system and an arbitrary distribution encoded by its configuration."
+      },
+      {
+        "source": "951a63ba-fbb2-4b78-af38-52646f22dbe0",
+        "locator": "section 7",
+        "quote": "variational free energy is a bound on surprisal, while expected free energy is not a bound"
+      }
+    ]
+  }
+}

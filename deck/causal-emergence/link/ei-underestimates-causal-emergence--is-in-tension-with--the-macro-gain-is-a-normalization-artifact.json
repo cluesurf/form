@@ -1,0 +1,28 @@
+{
+  "record": "link",
+  "id": "73f9568f-49d0-4b90-a53f-ad35e51336f0",
+  "from": "60390e62-ddc1-49b3-822b-57947062dc16",
+  "to": "9ec9ede8-d286-4d59-a04e-4c111f9e7484",
+  "relation": "is_in_tension_with",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "c40bbd28-a2c5-4730-84c0-90f7ae0644de",
+        "locator": "section 1 and section 6.2",
+        "quote": "the use of EI actually underestimates causal emergence"
+      }
+    ]
+  }
+}

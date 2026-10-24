@@ -1,0 +1,45 @@
+{
+  "record": "proposition",
+  "id": "d1f75ebe-f126-4131-b8f5-2e21b0ee7f3a",
+  "kind": "mathematical",
+  "epistemic_status": "inferred",
+  "title": "Critique: the unfolding argument",
+  "statements": [
+    {
+      "id": "ecf7329c-c4eb-4453-95e0-a784beef2758",
+      "text": "Any recurrent network can be unfolded into a feed-forward network with the same input-output behavior. A theory that ties consciousness to causal structure rather than function is then either false or outside science, since no experiment can tell the two networks apart.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-23"
+    }
+  ],
+  "current_statement": "ecf7329c-c4eb-4453-95e0-a784beef2758",
+  "status": "active",
+  "voice": "critique",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "868e6414-99ce-40b9-be80-5272c419d728",
+        "locator": "abstract",
+        "quote": "Here, using theorems from the theory of computation, we show that causal structure theories are either false or outside the realm of science."
+      }
+    ]
+  }
+}

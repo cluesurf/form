@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "7b2218d8-522a-4daf-9e67-2eb88d3bae04",
+  "title": "E-FRC-0172: triples on a triangle, spin: the whole turn of a triple on its triangle lifts through the 2T torsor to...",
+  "purpose": "Experiment E-FRC-0172 in the spin arena: triples on a triangle, spin: the whole turn of a triple on its triangle lifts through the 2T torsor to +1 on all 32 triangles, the -1 appears only on the turns that also carry the triangle to its antitriangle, the SO(4) lifts split by the orthogonal angle, and no knit keeps any triangle turn as a symmetry, so a triple carries no double cover.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L2 (L2: known physics reproduced on a stated model).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/spin/rishon-spin.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-FRC-0172",
+        "quote": null
+      }
+    ]
+  }
+}

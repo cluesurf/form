@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "020564cc-aea8-4708-a637-74d831806331",
+  "title": "E-QTM-0171: the working vacuum's like pair never runs one of the 108 words that reach Tsirelson's bound exactly...",
+  "purpose": "Experiment E-QTM-0171 in the quantum arena: the working vacuum's like pair never runs one of the 108 words that reach Tsirelson's bound exactly, fail as predicted: over 17 starts and sides 4 and 8 (64 beats) its link moves between meetings alternate between two, 67 distinct three-meeting windows in all, and 0 match E-QTM-0133's list or its conjugate (the rule's meeting is w U^dagger), 0 reach Schmidt (1/2, 1/2, 0) from any of 144 stabilizer products, and the rule's knot, matched exactly by the word at 1,428 free beats, is never at (1/2, 1/2, 0), coming to 2.828403 on 5 of 34 runs; so the reach is approached, not run.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L1 (L1: known mathematics, correctly confirmed).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/quantum/vacuum-meeting-words.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-QTM-0171",
+        "quote": null
+      }
+    ]
+  }
+}

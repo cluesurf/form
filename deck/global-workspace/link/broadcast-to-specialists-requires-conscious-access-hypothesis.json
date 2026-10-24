@@ -1,0 +1,33 @@
+{
+  "record": "link",
+  "id": "cd6b01e4-552c-44a5-a7a1-600ea5563846",
+  "from": "f6f764fe-3c28-46b7-9be5-8fc2b364733e",
+  "to": "bb51137d-5e08-4865-ba5c-243b8b5f2bcd",
+  "relation": "requires",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "48959277-86d2-4076-9942-58a24f753040",
+        "locator": "Central Tenets, p. 776",
+        "quote": "perceptual contents, which are acted upon by localized processors, only become conscious when they are widely broadcasted to other processors across the brain"
+      },
+      {
+        "source": "c50dac1f-5b63-4762-b48b-a46d0e5eee46",
+        "locator": "Global Workspace Theory",
+        "quote": "an “audience” of highly distributed, specialized knowledge sources"
+      }
+    ]
+  }
+}

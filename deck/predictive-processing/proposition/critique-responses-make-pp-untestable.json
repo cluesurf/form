@@ -1,0 +1,50 @@
+{
+  "record": "proposition",
+  "id": "4bcb041b-bd75-4a05-a0b2-bf3fd4fa3c40",
+  "kind": "philosophical",
+  "epistemic_status": "inferred",
+  "title": "Critique: the standard replies make predictive processing untestable",
+  "statements": [
+    {
+      "id": "86eb739d-d951-4fd0-b262-ea77fb804bf6",
+      "text": "Redefining what counts as surprising to escape the dark room risks making predictive processing untestable and explanatorily empty.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-23"
+    }
+  ],
+  "current_statement": "86eb739d-d951-4fd0-b262-ea77fb804bf6",
+  "status": "active",
+  "voice": "critique",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "c9c5835d-7979-407c-992f-7ec84ebe5472",
+        "locator": "accepted manuscript p. 1, summarizing Sun and Firestone",
+        "quote": "standard responses to this challenge have the potential to render the PP account untestable and explanatorily empty"
+      },
+      {
+        "source": "ed66ab82-d308-4c17-b148-9a79b9351d3c",
+        "locator": "abstract",
+        "quote": "highlighting the obstacles facing 'theories-of-everything' in psychology"
+      }
+    ]
+  }
+}

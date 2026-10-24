@@ -1,0 +1,45 @@
+{
+  "record": "proposition",
+  "id": "624c89a2-9ceb-48b3-94bd-53451d99f122",
+  "kind": "philosophical",
+  "epistemic_status": "hypothesized",
+  "title": "Answer: entropic time comes from projection",
+  "statements": [
+    {
+      "id": "918432f5-7653-485a-bd8f-e1ed1ded697b",
+      "text": "Agent dynamics proceed in discrete Markov steps outside spacetime, and the entropic arrow of time is induced by projecting those dynamics, not a fundamental feature of reality.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-23"
+    }
+  ],
+  "current_statement": "918432f5-7653-485a-bd8f-e1ed1ded697b",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "2207dc33-f8a8-469f-99b2-286f1139ed74",
+        "locator": "section 8",
+        "quote": "entropic time is not a fundamental feature of reality, but merely an artifact of projection."
+      }
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "record": "link",
+  "id": "83195acc-700d-4d1d-b857-bec896bc83d9",
+  "from": "be66d721-0340-41bc-9161-efc2d585e132",
+  "to": "eda54694-c154-404f-a104-b22636b8e360",
+  "relation": "requires",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "8443eb2e-406e-4acc-94e8-33cbabbd3679",
+        "locator": "section \"Postulates of physical existence\" (full text)",
+        "quote": "This is the set of units that is maximally irreducible, as measured by maximum φ (φ*)."
+      }
+    ]
+  }
+}

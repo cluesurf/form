@@ -1,0 +1,50 @@
+{
+  "record": "proposition",
+  "id": "15db99be-fbe5-485f-bcd0-e2efb0da279b",
+  "kind": "definitional",
+  "epistemic_status": "designed",
+  "title": "The current is split against an independently declared frame",
+  "statements": [
+    {
+      "id": "d3a9380b-b6e2-405d-b8a3-a8cd344b9289",
+      "text": "The current is resolved against a separately declared timelike frame $n^\\mu$ as $J^\\mu = \\rho_t (n^\\mu + v^\\mu)$, with a frame drift $v^\\mu$ orthogonal to the frame. Keeping the frame and the transported current distinct removes a projector degeneracy of the 2022 formulation.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "d3a9380b-b6e2-405d-b8a3-a8cd344b9289",
+  "status": "active",
+  "voice": "framework",
+  "defines": "frame drift",
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "07b60777-d937-46dd-ab61-df0260b46566",
+        "locator": "abstract",
+        "quote": "This removes the projector degeneracy produced when one vector is used both to define the temporal frame and to carry the projected motion."
+      },
+      {
+        "source": "2ff451a9-6bb8-4a35-9583-ddf755477c5f",
+        "locator": "abstract",
+        "quote": "separate the invariant density carried by that current from the density and drift measured by a declared timelike frame."
+      }
+    ]
+  }
+}

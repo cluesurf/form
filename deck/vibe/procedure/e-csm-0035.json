@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "e178e621-347f-4db6-9239-aa61f11f69c5",
+  "title": "E-CSM-0035: scale-free Poisson density contrast, exponent -1/2",
+  "purpose": "Experiment E-CSM-0035 in the cosmology arena: scale-free Poisson density contrast, exponent -1/2.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L1 (L1: known mathematics, correctly confirmed).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/cosmology/primordial-spectrum.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-CSM-0035",
+        "quote": null
+      }
+    ]
+  }
+}

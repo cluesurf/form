@@ -1,0 +1,50 @@
+{
+  "record": "proposition",
+  "id": "3abf5240-ebfb-4278-873e-08225864acac",
+  "kind": "normative",
+  "epistemic_status": "normative",
+  "title": "A null falsifies only a compulsory prediction",
+  "statements": [
+    {
+      "id": "8fff6a76-dc8a-491c-a56b-5429695b3cae",
+      "text": "Each registered arena returns pass, constraint, model split or falsification. A null result falsifies only a prediction the model declares unavoidable, so which couplings are compulsory, conditional or nullable is recorded before any data analysis, and no arena may borrow significance from another.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "8fff6a76-dc8a-491c-a56b-5429695b3cae",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "9fa9fb29-0013-440b-b0d5-57de1d1c2c72",
+        "locator": "section 12",
+        "quote": "A null can falsify only a compulsory prediction."
+      },
+      {
+        "source": "9fa9fb29-0013-440b-b0d5-57de1d1c2c72",
+        "locator": "section 12",
+        "quote": "The paper therefore records which couplings are compulsory, conditional or nullable before data analysis."
+      }
+    ]
+  }
+}

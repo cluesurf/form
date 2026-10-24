@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "3368f27a-b7b5-4910-9bee-a11459a1e675",
+  "title": "E-GRV-0009: discrete graviton is gauge-invariant, massless, two polarizations verified as eigenmodes",
+  "purpose": "Experiment E-GRV-0009 in the gravity arena: discrete graviton is gauge-invariant, massless, two polarizations verified as eigenmodes.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L2 (L2: known physics reproduced on a stated model).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/gravity/discrete-graviton.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-GRV-0009",
+        "quote": null
+      }
+    ]
+  }
+}

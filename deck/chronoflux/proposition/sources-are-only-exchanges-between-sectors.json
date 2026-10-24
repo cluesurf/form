@@ -1,0 +1,50 @@
+{
+  "record": "proposition",
+  "id": "1fc3986f-ff44-46f9-8177-3ddb271bc08f",
+  "kind": "normative",
+  "epistemic_status": "normative",
+  "title": "Sources are only exchanges between closed sectors",
+  "statements": [
+    {
+      "id": "ddeb6521-2ae4-429a-8b53-5d2cf23aeb11",
+      "text": "A source term is admitted only when it has zero net balance over closed domains, so exchange happens only within the declared collection of conserved sectors, never as a leak out of it.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "ddeb6521-2ae4-429a-8b53-5d2cf23aeb11",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "38659bbd-cda2-44e6-9106-3928f8d37934",
+        "locator": "section 2.3",
+        "quote": "Exchange is therefore allowed only within the collection. Sector closure ensures that conservation is preserved under admissible evolution."
+      },
+      {
+        "source": "27a9fcd8-78d2-4f0f-9a16-95edf37f72dc",
+        "locator": "abstract",
+        "quote": "Apparent sources are admitted only as exchanges whose sum closes within the enlarged current."
+      }
+    ]
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "record": "proposition",
+  "id": "7157a8cc-cbb0-46f8-84a6-284199da8be1",
+  "kind": "philosophical",
+  "epistemic_status": "inferred",
+  "title": "The theorem begs the question against realism",
+  "statements": [
+    {
+      "id": "9d5c321e-18a5-493a-8717-bfff0b80682e",
+      "text": "The Fitness-Beats-Truth theorem relies on an assumption that begs the question against the realist, and evolutionary considerations Hoffman accepts lead to simulations that contradict his conclusions.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-23"
+    }
+  ],
+  "current_statement": "9d5c321e-18a5-493a-8717-bfff0b80682e",
+  "status": "active",
+  "voice": "critique",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "ebc3a775-c028-4dfe-a0aa-a99b2f2d4471",
+        "locator": "abstract",
+        "quote": "it relies on an assumption that begs the question against the realist"
+      }
+    ]
+  }
+}

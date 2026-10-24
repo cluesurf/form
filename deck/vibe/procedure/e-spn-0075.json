@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "f4de589d-98ff-47d4-bfb4-50bfe23ad20e",
+  "title": "E-SPN-0075: the string's store put on the flux, a STAND-IN on locked tokens: every link's center flux a recorded...",
+  "purpose": "Experiment E-SPN-0075 in the spin arena: the string's store put on the flux, a STAND-IN on locked tokens: every link's center flux a recorded trit and the store one column of D bulk trits holding D minus the string's length (the drift's own exponent); the rule is a permutation of the whole register space, keeps Gauss mod 3 on every state, runs exactly in Eisenstein integers, and the string reaches exactly 2D, so the depth sets the string's range.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L2 (L2: known physics reproduced on a stated model).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/spin/string-store-on-flux.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-SPN-0075",
+        "quote": null
+      }
+    ]
+  }
+}

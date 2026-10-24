@@ -1,0 +1,50 @@
+{
+  "record": "proposition",
+  "id": "37a9b0b5-e88b-4847-aa9e-78183a17397a",
+  "kind": "empirical",
+  "epistemic_status": "simulated",
+  "title": "E-QTM-0101: the cube-root swap phase supplies the non-classical element the continuum floor needs in the closure...",
+  "statements": [
+    {
+      "id": "5c163fc9-3161-4d90-a5af-b94a6506b7a8",
+      "text": "The cube-root swap phase supplies the non-classical element the continuum floor needs in the closure, not in one step: with only the link values a lattice of roles carries, Sigma(648) on each role, it generates a group whose Lie algebra is all of su(9), but one swap phase between classical words gives no step finer than the classical color group and no closer approach to the qutrit T gate, while two give the first finer step, sqrt(1/6) against 0.650, at two fear beats of grain.",
+      "language": "en",
+      "scope": "experiment E-QTM-0101, arena quantum, depth L1 (L1: known mathematics, correctly confirmed)",
+      "conditions": "substrates: any. In a paper: false",
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-22"
+    }
+  ],
+  "current_statement": "5c163fc9-3161-4d90-a5af-b94a6506b7a8",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": {
+    "value": "open",
+    "reason": "holds in the vibe claim graph",
+    "basis": [],
+    "proposal": null
+  },
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "research/result.ts R-FRC-0003",
+        "quote": null
+      }
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "record": "link",
+  "id": "01628a45-7dec-494d-ab09-9dfca9448fba",
+  "from": "ccf53c8d-7e12-4058-a82a-eee8b88b5640",
+  "to": "ffc1dfa8-9c53-4ea0-b1e8-0e8e77c9fa92",
+  "relation": "assumes",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "18748a2a-239c-4c8a-84be-d6db8f91e70d",
+        "locator": "section XI, p. 42",
+        "quote": "More pleasurable brain states should be more compressible (all else being equal)"
+      }
+    ]
+  }
+}

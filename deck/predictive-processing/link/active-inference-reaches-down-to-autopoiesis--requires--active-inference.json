@@ -1,0 +1,28 @@
+{
+  "record": "link",
+  "id": "0cdc5d2e-64a1-458c-abe7-ca4d6881fb0f",
+  "from": "8ed53b0e-5a3c-4cd9-ab1e-c49d12ed45fb",
+  "to": "d12e5c4f-79e1-492a-89be-75b2161405d7",
+  "relation": "requires",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "e391f78a-61b9-464c-883b-2181082dabd3",
+        "locator": "accepted manuscript p. 21",
+        "quote": "These aspects of the free energy principle suggest that the entire edifice of active inference reaches right down into the autopoietic nature of living systems."
+      }
+    ]
+  }
+}

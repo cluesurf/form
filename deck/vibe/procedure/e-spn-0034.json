@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "594e5188-3f0f-4f10-a275-90f4cd821a9f",
+  "title": "E-SPN-0034: the Kahler-Dirac operator on a 2D mesh has near-zero modes in the middle of its spectrum",
+  "purpose": "Experiment E-SPN-0034 in the spin arena: the Kahler-Dirac operator on a 2D mesh has near-zero modes in the middle of its spectrum.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L2 (L2: known physics reproduced on a stated model).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/spin/spinor.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-SPN-0034",
+        "quote": null
+      }
+    ]
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "ac6508c0-1784-42e3-a5a3-26557b2211c8",
+  "title": "E-FND-0054: three generations are forced as the cosets of B4 in F4: the index [F4:B4] = 1152/384 = 3, the three...",
+  "purpose": "Experiment E-FND-0054 in the foundations arena: three generations are forced as the cosets of B4 in F4: the index [F4:B4] = 1152/384 = 3, the three cosets are equal-sized, a triality element cyclically permutes them (the three inscribed 16-cells), and the knit fixing B4 stabilizes one, so the knit breaking triality is what makes exactly three generations, the count forced by the index not fitted.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L2 (L2: known physics reproduced on a stated model).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/foundations/three-generations-cosets.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-FND-0054",
+        "quote": null
+      }
+    ]
+  }
+}

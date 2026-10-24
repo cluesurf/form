@@ -1,0 +1,45 @@
+{
+  "record": "proposition",
+  "id": "a6f268a5-4e82-43c0-97e7-c0970b5abc14",
+  "kind": "definitional",
+  "epistemic_status": "designed",
+  "title": "Target morphology",
+  "statements": [
+    {
+      "id": "c37ec5f0-f13d-4504-b16b-79a44ae98a9d",
+      "text": "A target morphology is the stored anatomical setpoint that a growing or regenerating cell collective works toward through an error-minimizing homeostatic loop.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-23"
+    }
+  ],
+  "current_statement": "c37ec5f0-f13d-4504-b16b-79a44ae98a9d",
+  "status": "active",
+  "voice": "framework",
+  "defines": "target morphology",
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "fd7382f9-52a5-4beb-9680-fc341ff15b98",
+        "locator": "Figure 6 caption",
+        "quote": "an error minimization (homeostatic) loop with reference to a stored anatomical setpoint (target morphology)"
+      }
+    ]
+  }
+}

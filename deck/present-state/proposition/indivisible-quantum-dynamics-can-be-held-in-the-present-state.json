@@ -1,0 +1,50 @@
+{
+  "record": "proposition",
+  "id": "bd07871e-04bf-496b-b599-2848576d75f5",
+  "kind": "philosophical",
+  "epistemic_status": "inferred",
+  "title": "Indivisible quantum dynamics can be held in the present state",
+  "statements": [
+    {
+      "id": "18729ca1-cad1-42a7-bc76-d205163affa1",
+      "text": "Fundamental non-Markovianity is no escape from the theorem. In Barandes's indivisible stochastic formulation of quantum theory, the temporally indivisible transition law can be included in the complete present state, so a theory with non-factorizable temporal dynamics can still satisfy state sufficiency.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "18729ca1-cad1-42a7-bc76-d205163affa1",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "ac2774e1-a04c-4c89-9db2-7848c6f5ce0b",
+        "locator": "footnote 1",
+        "quote": "Fundamental non-Markovianity does not by itself provide an escape from the theorem."
+      },
+      {
+        "source": "8d2ff930-e6e4-4ff2-8205-679f09787733",
+        "locator": null,
+        "quote": null
+      }
+    ]
+  }
+}

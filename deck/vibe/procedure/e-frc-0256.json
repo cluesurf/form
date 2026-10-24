@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "97f6b89f-bc38-4fad-ab23-8f15e5678651",
+  "title": "E-FRC-0256: alpha read in local units on the spanned light is not flat, it falls as 1 / D, fail on A1 (the...",
+  "purpose": "Experiment E-FRC-0256 in the gauge arena: alpha read in local units on the spanned light is not flat, it falls as 1 / D, fail on A1 (the prediction): with the local clock a span lump's rest rate $(q^{-0.5007})$, the local ruler its Compton length ($q^{-0.5007}$ docks; $q^{-0.0011}$ beside the unchanged light), the action quantum one radian of matter phase and c the light's speed on those (1.002 to 1.006), the Coulomb energy of a +1, -1 pair read as the matter frequency of its Peierls phase (D 4 .. 32, r = 2 .. 4, Gauss exact, no wraps, reversed) gives alpha_local = 1/110.9, 1/221.7, 1/443.4, 1/886.8 at D 4, 8, 16, 32, sqrt(3) / (48 D) to 5.4e-6, equal to the coordinate alpha to 4.4e-16 because local units cancel from a dimensionless number; the roadmap's product (energy on the local clock times separation on the local ruler) is flat (0.01152 to 0.01155), but hbar in the light's energy unit is D / pi (the Peierls root zeta_(4D)); the unchanged light reads sqrt(q) / (4D) to 1.4e-4 from D 8; so alpha couples to the potential with k = 2.10 (1.07 unchanged), against atomic-clock bounds of order 1e-6.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L2 (L2: known physics reproduced on a stated model).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/gauge/local-alpha.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-FRC-0256",
+        "quote": null
+      }
+    ]
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "950c7182-c428-4757-a8b7-334c4cbd341e",
+  "title": "E-SCL-0017: one block step of the scatter weave: its block sums keep exactly charge, P and the line sum and not the...",
+  "purpose": "Experiment E-SCL-0017 in the renormalization arena: one block step of the scatter weave: its block sums keep exactly charge, P and the line sum and not the count (which moves by 4,490 and has no block memory), and the coarse rule they follow, the block propagator of the equilibrium fluctuations under tau = $b^2$, is predicted by the knit lattice Boltzmann equation to 2 to 5 percent, but not to the knit own precision at b = 2: there the knit blocks forget faster than molecular chaos allows (self share 0.0836 against 0.0869 for P0, 0.1408 against 0.1484 for P3, the same sign in two independent runs, the gap 3.5 times the replicate spread), a closure error that is within noise by b = 3 and 4; the predicted kernel halves its distance to the diffusive fixed point from b = 2 to 4.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L2 (L2: known physics reproduced on a stated model).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/renormalization/knit-block-step.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-SCL-0017",
+        "quote": null
+      }
+    ]
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "record": "proposition",
+  "id": "55c4ae11-6d24-44fc-bc03-ea2b49da0e94",
+  "kind": "philosophical",
+  "epistemic_status": "inferred",
+  "title": "Answer: what can be checked, and how",
+  "statements": [
+    {
+      "id": "5dc72d48-73ba-4cbf-bebc-caf6cc8be9c8",
+      "text": "A process theory under a stated generative model can be checked by simulating it and comparing the simulation with recorded behavior, neuronal responses or synaptic change, as in cultured neural networks and mismatch negativity studies.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-23"
+    }
+  ],
+  "current_statement": "5dc72d48-73ba-4cbf-bebc-caf6cc8be9c8",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "af609f54-2cd2-4ae6-ae79-caf621fe443a",
+        "locator": "abstract",
+        "quote": "Empirical applications of the free-energy principle are not straightforward because they entail a commitment to a particular process theory, especially at the cellular and synaptic levels."
+      },
+      {
+        "source": "951a63ba-fbb2-4b78-af38-52646f22dbe0",
+        "locator": "section 1",
+        "quote": "committing to a specific generative model can be taken as a commitment to a specific—and falsifiable—theory."
+      }
+    ]
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "a01d2060-3adb-4ef7-a726-66f0b58e7741",
+  "title": "E-CSM-0051: CMB large-angle power suppression from a finite substrate, measured on the real deterministic {7,3} vibe...",
+  "purpose": "Experiment E-CSM-0051 in the cosmology arena: CMB large-angle power suppression from a finite substrate, measured on the real deterministic {7,3} vibe tiling: a strictly positive spectral gap caps the largest-scale power (low-multipole suppression) and recedes as the substrate grows, a generic finite-size effect (the hyperbolic-persistence conjecture is falsified), with a flat control.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L2 (L2: known physics reproduced on a stated model).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/cosmology/cmb-low-l-suppression.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-CSM-0051",
+        "quote": null
+      }
+    ]
+  }
+}

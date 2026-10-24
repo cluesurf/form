@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "c55f31a5-35f2-4162-a6f9-05bc913d1a71",
+  "title": "E-RLT-0109: relativistic collisions of the candidate rule light members, read on the husk, pass: translation...",
+  "purpose": "Experiment E-RLT-0109 in the relativity arena: relativistic collisions of the candidate rule light members, read on the husk, pass: translation invariance and the fixed two-body beat conserve total quasimomentum and quasienergy exactly, and far inside the zone that is the band own energy and momentum; the outgoing shell of every collision is the boosted CM sphere (the Lorentz-contracted ellipsoid) to 7.3e-4 of the energy at boosts up to 0.83 at m 0.046778, and the defect scales as $m^2$ (ratio 9.3 to 9.4 at m 0.143348), so four-momentum conservation with the rule own E(p) holds exactly in the light limit; a heavy member and a Galilean band fail; where on the shell the pair goes (the contact amplitude) is not computed.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L2 (L2: known physics reproduced on a stated model).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/relativity/husk-collision-kinematics.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-RLT-0109",
+        "quote": null
+      }
+    ]
+  }
+}

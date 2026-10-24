@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "2ddea057-4609-487d-9856-2245413b48e3",
+  "title": "E-SPN-0177: a register pair pulled apart does not show a part coming back, fail (R3, the free control): with...",
+  "purpose": "Experiment E-SPN-0177 in the spin arena: a register pair pulled apart does not show a part coming back, fail (R3, the free control): with E-SPN-0162 singlet-pair string a pair set at rest at string length 5 or 6 keeps its norm (1.0001, 1.0024) and its knot-region weight rises from 8.4e-3 and 2.4e-8 to late means 0.25 and 0.08, but with no string the same pull also stays in the radius-8 ball for 64 cycles (norm 0.9999) and fills the knot region more (0.30, 0.31), because a light register member is slow over most of its narrow band; the string at this strength Wannier-Stark localizes the pair at its pulled length rather than pulling it in, so the test cannot tell a part that comes back from one that has not left, and needs the weak string on a ball a free pair can leave.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L2 (L2: known physics reproduced on a stated model).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/spin/pulled-member-returns.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-SPN-0177",
+        "quote": null
+      }
+    ]
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "7d9644e2-6545-47fb-87e2-355882d2e0c9",
+  "title": "E-FRC-0202: does the pair-making vacuum bind the (4, 1) cluster: a compact baryon and a compact meson (stand-ins for...",
+  "purpose": "Experiment E-FRC-0202 in the gauge arena: does the pair-making vacuum bind the (4, 1) cluster: a compact baryon and a compact meson (stand-ins for E-SPN-0060's four roles and one antirole) of the paid Z3 string on the D4 box, at contact against mixed events, with pair making on and off.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L2 (L2: known physics reproduced on a stated model).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/gauge/pair-string-four-one.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-FRC-0202",
+        "quote": null
+      }
+    ]
+  }
+}

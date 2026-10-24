@@ -1,0 +1,45 @@
+{
+  "record": "proposition",
+  "id": "487573a3-679a-44e8-a22a-52a520d0d9e7",
+  "kind": "philosophical",
+  "epistemic_status": "inferred",
+  "title": "Digital consciousness needs a present physical invariant",
+  "statements": [
+    {
+      "id": "98d826eb-ac55-4711-9a95-c8431d691240",
+      "text": "The burden falls on proponents of digital consciousness to identify an observer-independent present physical invariant shared across materially different implementations. Until one is specified, computation is an abstract description of what different systems are taken to be doing, not a state-sufficient physical basis for consciousness.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "98d826eb-ac55-4711-9a95-c8431d691240",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "ac2774e1-a04c-4c89-9db2-7848c6f5ce0b",
+        "locator": "section 5.3",
+        "quote": "The burden therefore falls on proponents of digital consciousness to identify an observer-independent present physical invariant shared across these materially and geometrically disparate implementations."
+      }
+    ]
+  }
+}

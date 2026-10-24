@@ -1,0 +1,41 @@
+{
+  "record": "procedure",
+  "id": "63b85d16-f128-4efc-8b55-8bca33f01370",
+  "title": "Cogitate experiment 1: suprathreshold stimuli of variable duration",
+  "purpose": "Test divergent preregistered predictions of GNWT and IIT about where conscious content is represented, how it is maintained over time, and which areas synchronize.",
+  "hypothesis": null,
+  "steps": "Participants viewed suprathreshold faces, objects, letters and false fonts for 0.5, 1.0 or 1.5 s, task-relevant or task-irrelevant, while recorded with fMRI (120), MEG (102) or iEEG (34).",
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Visual consciousness only. Interpretations were agreed with the theory proponents in advance.",
+  "status": "completed",
+  "question": null,
+  "preregistration": {
+    "source": "e02f6f58-c39b-42b3-8d19-285710666958",
+    "at": "2019-01-16"
+  },
+  "code": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "e02f6f58-c39b-42b3-8d19-285710666958",
+        "locator": "Methods",
+        "quote": null
+      },
+      {
+        "source": "dbe9b66c-4ffb-4615-9fd2-aa5c75424db8",
+        "locator": "abstract",
+        "quote": "Human participants (n = 256) viewed suprathreshold stimuli for variable durations"
+      }
+    ]
+  }
+}

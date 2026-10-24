@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "4ec8fb01-9748-4a1b-8ae6-855ba3bed49b",
+  "title": "E-FRC-0223: links in the signed whole: each history carries its own flow and the link's conjugate angle; the flow...",
+  "purpose": "Experiment E-FRC-0223 in the gauge arena: links in the signed whole: each history carries its own flow and the link's conjugate angle; the flow update is a permutation that kicks the vibe by the angle, Gauss holds history by history for any Gauss-conserving coupling on one modulus, the smallest non-Clifford such coupling is w^(v^2 a), and a nonlinear per-history light leaves the state space.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L2 (L2: known physics reproduced on a stated model).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/gauge/links-in-the-whole.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-FRC-0223",
+        "quote": null
+      }
+    ]
+  }
+}

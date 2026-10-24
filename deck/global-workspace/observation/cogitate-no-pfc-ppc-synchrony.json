@@ -1,0 +1,39 @@
+{
+  "record": "observation",
+  "id": "9648da07-8e46-425d-8a57-98ce57a51193",
+  "kind": "experimental_result",
+  "epistemic_status": "observed",
+  "description": "Cogitate (2025): the preregistered pairwise phase consistency analysis found no content-selective synchrony between face- or object-selective electrodes and prefrontal electrodes in the relevant window.",
+  "method": "experiment",
+  "status": "reported",
+  "source": "dbe9b66c-4ffb-4615-9fd2-aa5c75424db8",
+  "procedure": "63b85d16-f128-4efc-8b55-8bca33f01370",
+  "variable": null,
+  "value": null,
+  "unit": null,
+  "uncertainty": null,
+  "sample_size": 256,
+  "replication_count": null,
+  "quality": null,
+  "limitations": "One adversarial study of visual consciousness with suprathreshold faces, objects, letters and false fonts. Tests only the predictions both teams preregistered. Phase estimation from macroscopic recordings is noisy.",
+  "conflicts_of_interest": null,
+  "observed_at": "2025-04-30",
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "dbe9b66c-4ffb-4615-9fd2-aa5c75424db8",
+        "locator": "Results, interareal connectivity",
+        "quote": "No content-selective PPC was found between face-selective and object-selective electrodes and PFC electrodes in the relevant time window, contradicting the prediction of GNWT"
+      }
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "record": "link",
+  "id": "6a5274e6-38bd-406b-a533-00d57c833388",
+  "from": "ffc1dfa8-9c53-4ea0-b1e8-0e8e77c9fa92",
+  "to": "c82c7c92-5d96-4c1d-96a1-9d1c73416e52",
+  "relation": "assumes",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "18748a2a-239c-4c8a-84be-d6db8f91e70d",
+        "locator": "section XI, p. 41",
+        "quote": "We can probably assume that symmetry/pleasure is a more-or-less fractal property"
+      }
+    ]
+  }
+}

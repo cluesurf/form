@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "4ca6e81a-7b5c-4a4a-93d2-e67ffc51e011",
+  "title": "E-SPN-0145: the swap coin and ring mixer as a rule keep one limiting speed c/2 once holes interact, but bind...",
+  "purpose": "Experiment E-SPN-0145 in the spin arena: the swap coin and ring mixer as a rule keep one limiting speed c/2 once holes interact, but bind nothing, fail (X4): the rule's one-hole matrix is E-SPN-0143's float model to 4.9e-15 (m 0.046778, R 1.000730, c_eff 0.499818 c, 22 flat bands, top 0.488 c, the box run equal to the sparse sum at 3,768 branches), the love sea stays one branch with amplitude F^cells for 128 beats and nothing collides; a lone hole's support front moves at c on a 0.083-a-beat straight path while its weight beyond (c/2) t + c falls to 7.3e-5 and its 1e-3 front sits at 0.33 c; two holes interact only at contact (the empty line's meeting phase, the contact K on 168 of 276 pairs, the mixer's hop sign), which releases 0.05 to 0.66 of the frozen lineon weight as free holes, while what stays is frozen at arg(+-c^2) and moves at most 0.022 c; the empty-line pair is a decaying resonance; a fear is unmade into a static store and two holes that the swap coin brings back, so it walks one root per completed two-beat cycle (c/2 at most); no contact class keeps more weight than two free holes, since flat links carry no string; the hole's Born weight equals the empty-mesh love's exactly, the charge register is kept dock by dock, and E-GRV-0141's slide carried at c/2 ties the graviton to c/2.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L2 (L2: known physics reproduced on a stated model).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/spin/swap-many-body.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-SPN-0145",
+        "quote": null
+      }
+    ]
+  }
+}

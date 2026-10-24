@@ -1,0 +1,45 @@
+{
+  "record": "proposition",
+  "id": "87afa729-d8f6-4222-b681-ba4bcbbd0635",
+  "kind": "empirical",
+  "epistemic_status": "hypothesized",
+  "title": "The workspace integrates experience at a moment and over time",
+  "statements": [
+    {
+      "id": "1efdd293-4fdb-4f9b-99e8-ee8010a2f4aa",
+      "text": "The global workspace achieves experiential integration that is both synchronic, at one moment, and diachronic, over time.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-23"
+    }
+  ],
+  "current_statement": "1efdd293-4fdb-4f9b-99e8-ee8010a2f4aa",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "48959277-86d2-4076-9942-58a24f753040",
+        "locator": "p. 777",
+        "quote": "the global workspace achieves experiential integration that is, in terms drawn from the philosophy of mind, both synchronic (at a particular point) and diachronic (over time)."
+      }
+    ]
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "record": "proposition",
+  "id": "2b108d65-fa6b-4065-9068-5b20967e781d",
+  "kind": "definitional",
+  "epistemic_status": "designed",
+  "title": "Unitarity is conservation of observable information",
+  "statements": [
+    {
+      "id": "6f914345-cb98-448c-91eb-550b0366290c",
+      "text": "The fundamental axiom of quantum theory, unitarity, is the principle that observable information, like energy, is neither created nor destroyed by physical processes.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-23"
+    }
+  ],
+  "current_statement": "6f914345-cb98-448c-91eb-550b0366290c",
+  "status": "active",
+  "voice": "framework",
+  "defines": "principle of unitarity",
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "4489b7d7-7273-4b67-a1c2-b53ddab0eeb5",
+        "locator": "section 2.2",
+        "quote": "it is the Principle that observable information, like energy, is neither created nor destroyed by physical processes"
+      }
+    ]
+  }
+}

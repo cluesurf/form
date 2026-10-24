@@ -1,0 +1,28 @@
+{
+  "record": "link",
+  "id": "a5b34d5c-3319-4ed7-b9db-1d9c9201f155",
+  "from": "fc00b420-3ef6-4b15-9155-242782b13099",
+  "to": "d12e5c4f-79e1-492a-89be-75b2161405d7",
+  "relation": "requires",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "c9c5835d-7979-407c-992f-7ec84ebe5472",
+        "locator": "accepted manuscript p. 2",
+        "quote": "In short, in order to minimise surprise in the future, an agent needs to be a curious, sensation-seeking agent in the present."
+      }
+    ]
+  }
+}

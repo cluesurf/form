@@ -1,0 +1,45 @@
+{
+  "record": "proposition",
+  "id": "c1589994-5e87-4f77-9b1f-2544e48ffd7e",
+  "kind": "empirical",
+  "epistemic_status": "inferred",
+  "title": "New phenotypes can be reached without selection or genetic change",
+  "statements": [
+    {
+      "id": "aea392e2-be60-4390-9e82-48be221ca75b",
+      "text": "Kinematic self-replication in synthetic cell assemblies suggests that new and useful phenotypes can be reached quickly from wild-type cells, without selection or genetic engineering.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-23"
+    }
+  ],
+  "current_statement": "aea392e2-be60-4390-9e82-48be221ca75b",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "6b561a36-4fe5-4c4f-8907-706c838f1641",
+        "locator": "abstract",
+        "quote": "This suggests other unique and useful phenotypes can be rapidly reached from wild-type organisms without selection or genetic engineering"
+      }
+    ]
+  }
+}

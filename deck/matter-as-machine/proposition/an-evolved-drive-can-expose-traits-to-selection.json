@@ -1,0 +1,50 @@
+{
+  "record": "proposition",
+  "id": "b1853cd1-0e83-46d7-8730-a3f23c65c422",
+  "kind": "empirical",
+  "epistemic_status": "hypothesized",
+  "title": "Indirect self-selection: a drive exposes traits to selection",
+  "statements": [
+    {
+      "id": "12ca90f3-bd70-4b77-a610-2210022d6b09",
+      "text": "A drive can expose an animal to selection: mice driven to run and explore spread into new territory but meet more predators, so slower mice are caught more often and traits that help escape are favored. An evolved drive can so speed adaptation.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "12ca90f3-bd70-4b77-a610-2210022d6b09",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "c01a576c-01a5-46ae-8a4e-5fed54687b5c",
+        "locator": "Indirect",
+        "quote": "Slower mice may be more likely to be caught, favoring traits that help them escape."
+      },
+      {
+        "source": "c01a576c-01a5-46ae-8a4e-5fed54687b5c",
+        "locator": "Indirect",
+        "quote": "In this way, an evolved behavioral drive could accelerate adaptation."
+      }
+    ]
+  }
+}

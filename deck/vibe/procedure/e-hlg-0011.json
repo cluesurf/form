@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "620e983f-79f9-4006-97f2-8c86c5a39d78",
+  "title": "E-HLG-0011: the committed {3,4,3,4} substrate is boundary-dominated: the outermost shell holds about 94 percent of...",
+  "purpose": "Experiment E-HLG-0011 in the holography arena: the committed {3,4,3,4} substrate is boundary-dominated: the outermost shell holds about 94 percent of the cells, matching (lambda - 1) / lambda for the measured growth ratio, where a flat lattice is volume-dominated.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L2 (L2: known physics reproduced on a stated model).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/holography/holographic-3434.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-HLG-0011",
+        "quote": null
+      }
+    ]
+  }
+}

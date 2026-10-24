@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "ac3fe968-8917-46ca-a459-116f7c5f5291",
+  "title": "E-GRV-0123: the deep headroom horizon's redshift runs at kappa and its T M is flat, but the register, not the dock...",
+  "purpose": "Experiment E-GRV-0123 in the gravity arena: the deep headroom horizon's redshift runs at kappa and its T M is flat, but the register, not the dock, now ends the exponential, fail on L1 and K2: at D0 2 and C 1539 (the largest register the rule holds exactly; D0 16 holds 599, whose ceiling ln(C) / 2 = 3.20 cannot reach 2 e-folds) on the 1 / r profile at $r_h$ 800.5 and 1600.5 (M 115372, 230672), the crossing intervals of the band (rate within 10 percent of kappa) span 1.668 and 1.847 e-folds (gate 2) at slope 0.983 and 0.967 of kappa, on the staircase's 1.629 and 1.832; T_light M spreads 1.7 percent (gate 10) and sits 2 and 3 percent under the profile's; the second dock's room (3, 2 of 1539) caps the crossing top at 3.16, 3.33, and 2 e-folds would need $r_h$ >= 1.5 C ~ 2300; flat reads 0.010 on 8-dock blocks; the control at E-GRV-0122's $r_h$ 12.5 and 48.5 reads near zones 0.77 and 1.76 against 0.61 and 1.24 (gate 0.2), the 128-dock packet too long for those horizons; exact, 0 wraps, no light past a full register.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L2 (L2: known physics reproduced on a stated model).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/gravity/deep-headroom-horizon.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-GRV-0123",
+        "quote": null
+      }
+    ]
+  }
+}

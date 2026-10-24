@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "f19caebf-c007-4b1d-bac0-9055ee4e1a23",
+  "title": "E-MTH-0027: the committed knit's path, construction and starts included, holds no continuity: the D4 roots and box...",
+  "purpose": "Experiment E-MTH-0027 in the method arena: the committed knit's path, construction and starts included, holds no continuity: the D4 roots and box in integers (half-integers doubled, the basis inverted by its integer adjugate), an integer Weyl start of the grid moves, the divisions as integer quotients, and the E-MTH-0025 scanner finds 0 offenses on the path with a planted control.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L1 (L1: known mathematics, correctly confirmed).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/method/knit-path-is-exact.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-MTH-0027",
+        "quote": null
+      }
+    ]
+  }
+}

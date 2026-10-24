@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "c78cdb24-4022-4baf-a412-54a2665b3e99",
+  "title": "E-FRC-0109: a rule with one four-line vertex, a charge on a color line turning into three identical charges on a...",
+  "purpose": "Experiment E-FRC-0109 in the gauge arena: a rule with one four-line vertex, a charge on a color line turning into three identical charges on a triality orbit, plus the committed swap made triality-symmetric, keeps the color-selecting triality, reverses exactly, conserves charge, is CPT exact and connects all twelve lines on the vacuum and on a dense background, which E-FRC-0107 showed no pairwise rule can do.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L2 (L2: known physics reproduced on a stated model).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/gauge/triality-weave.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-FRC-0109",
+        "quote": null
+      }
+    ]
+  }
+}

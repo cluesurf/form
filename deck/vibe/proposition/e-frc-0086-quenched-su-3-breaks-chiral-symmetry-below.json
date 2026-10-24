@@ -1,0 +1,50 @@
+{
+  "record": "proposition",
+  "id": "c687beda-3d12-4b49-b89b-4f60547f8274",
+  "kind": "empirical",
+  "epistemic_status": "simulated",
+  "title": "E-FRC-0086: quenched SU(3) breaks chiral symmetry below $T_c$ (the condensate survives the chiral limit) and...",
+  "statements": [
+    {
+      "id": "3cb3907a-5dac-4d48-a900-9dd712b06c0b",
+      "text": "Quenched SU(3) breaks chiral symmetry below $T_c$ (the condensate survives the chiral limit) and restores it above $T_c$ at the same coupling (the condensate goes to zero with the quark mass).",
+      "language": "en",
+      "scope": "experiment E-FRC-0086, arena gauge, depth L2 (L2: known physics reproduced on a stated model)",
+      "conditions": "substrates: any. In a paper: false",
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-22"
+    }
+  ],
+  "current_statement": "3cb3907a-5dac-4d48-a900-9dd712b06c0b",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": {
+    "value": "open",
+    "reason": "holds in the vibe claim graph",
+    "basis": [],
+    "proposal": null
+  },
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "research/result.ts R-FRC-0001",
+        "quote": null
+      }
+    ]
+  }
+}

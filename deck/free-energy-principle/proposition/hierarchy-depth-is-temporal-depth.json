@@ -1,0 +1,45 @@
+{
+  "record": "proposition",
+  "id": "fe4f9e7f-ddeb-459f-9fe8-edcf566b40ed",
+  "kind": "empirical",
+  "epistemic_status": "hypothesized",
+  "title": "Higher levels of a model span longer times",
+  "statements": [
+    {
+      "id": "590bcf62-5351-41b3-81bc-c2e34b3f1084",
+      "text": "In hierarchical generative models, higher levels generally represent sequences with a greater temporal span, so the depth of a neuronal hierarchy may index the temporal thickness of the inference it supports.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-23"
+    }
+  ],
+  "current_statement": "590bcf62-5351-41b3-81bc-c2e34b3f1084",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "c3908a50-f858-42d6-8c6b-be810bd5a82f",
+        "locator": "note 10 (full text)",
+        "quote": "higher levels of a hierarchical model generally represent sequences or trajectories with a greater temporal span."
+      }
+    ]
+  }
+}

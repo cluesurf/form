@@ -1,0 +1,34 @@
+{
+  "record": "link",
+  "id": "36d2ff87-5e33-45ab-b0da-9cda6a5b4b8d",
+  "from": "24314af4-1f31-4300-b936-dca90f96bc9b",
+  "to": "4fb02043-41c0-4811-b3f8-154a777a5bf8",
+  "relation": "supports",
+  "strength": null,
+  "rationale": "The worked example has 1.15 bits of effective information at the micro level and 1.55 bits at a two-element macro level.",
+  "rule": null,
+  "status": "accepted",
+  "origin": [
+    {
+      "repository": "causal-emergence",
+      "id": "3d49561d-6bee-4e7b-9079-1c23f2d8d3de"
+    }
+  ],
+  "provenance": {
+    "written_by": "github:lancejpollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "945a3545-99a5-4e02-b623-25bc05935a5b",
+        "locator": "Results, Spatial Causal Emergence",
+        "quote": "For the macro level, EI(SM) = 1.55 bits, higher than EI(Sm) = 1.15 bits. Thus, CE(S) = 0.40 bits"
+      }
+    ]
+  }
+}

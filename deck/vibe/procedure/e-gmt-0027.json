@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "ff949e37-750b-4fa4-8318-323b1e511768",
+  "title": "E-GMT-0027: the {3,4,3,4} mesh unfolds exactly and deterministically from the single 24-cell by reflection: the...",
+  "purpose": "Experiment E-GMT-0027 in the geometry arena: the {3,4,3,4} mesh unfolds exactly and deterministically from the single 24-cell by reflection: the shell counts are the integer-exact 1, 24, 456, 8376, 153192, the per-shell ratio descends monotonically (24, 19, 18.37, 18.29) into a tight band around the warp factor 18.278 (exponential), two runs agree bit for bit, and the flat 4D lattice growing polynomially is the control.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L2 (L2: known physics reproduced on a stated model).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/geometry/mesh-unfolds-exactly.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-GMT-0027",
+        "quote": null
+      }
+    ]
+  }
+}

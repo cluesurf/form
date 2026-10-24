@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "f814f6de-2a5e-41a4-873f-03cfc5f66dd1",
+  "title": "E-MTH-0009: the model's threes are one ring and its twenty-fours one group: charge, color center, knot, fear walk...",
+  "purpose": "Experiment E-MTH-0009 in the method arena: the model's threes are one ring and its twenty-fours one group: charge, color center, knot, fear walk, both meeting phases and every exact chance live in Z[omega] (rest eigenvalues 1 and omega, rest mass |1 - omega| = sqrt 3, CHSH sqrt 7 and (2 + 4 sqrt 2)/3 proven), the role grid's SL(2,3) is the Hurwitz units' 2T (24 isomorphisms), whose omega acts on the D4 bulk as triality; the 24-beat period is a design choice (the round robin's own period is 11).",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L2 (L2: known physics reproduced on a stated model).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/method/eisenstein-unification.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-MTH-0009",
+        "quote": null
+      }
+    ]
+  }
+}

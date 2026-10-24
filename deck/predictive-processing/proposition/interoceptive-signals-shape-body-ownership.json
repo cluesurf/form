@@ -1,0 +1,45 @@
+{
+  "record": "proposition",
+  "id": "c1725fd1-d2e6-4885-b268-073fd31ec129",
+  "kind": "empirical",
+  "epistemic_status": "inferred",
+  "title": "Interoceptive signals shape body ownership",
+  "statements": [
+    {
+      "id": "85571831-a443-4e63-9e7b-0711c4209d58",
+      "text": "Interoceptive signals, such as the heartbeat, directly influence the experience of owning a body part through multisensory integration with vision and touch.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-23"
+    }
+  ],
+  "current_statement": "85571831-a443-4e63-9e7b-0711c4209d58",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "7016e8f6-c849-46cf-8311-dbf6faf85fa5",
+        "locator": "abstract",
+        "quote": "Our results demonstrate that interoceptive signals directly influence the experience of body ownership via multisensory integration"
+      }
+    ]
+  }
+}

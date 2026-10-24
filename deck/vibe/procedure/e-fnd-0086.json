@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "c2d845c4-c16e-435a-99f9-b44cc68a5caf",
+  "title": "E-FND-0086: growth gives defects their relative phase: a region born b beats late runs its vacuum clock offset by b...",
+  "purpose": "Experiment E-FND-0086 in the foundations arena: growth gives defects their relative phase: a region born b beats late runs its vacuum clock offset by b, a domain wall exists exactly when b is nonzero mod 3 and mixes inward at one cell per beat after a full clean cycle, tones born through each domain of the growing charge-rule gas carry their domain clock phase, for b = 1 and 2 the two defects interfere in the coarse $Z_3$ amplitude with the exact cross-term law including destructive beats, for b = 0 and 3 the relative phase is zero, and the momentum rule on the same growing mesh shows no clock and no offset.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L3 (L3: one base rule produced the result as a measured consequence, with a computed control that could have failed).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/foundations/growth-shifts-the-clock.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-FND-0086",
+        "quote": null
+      }
+    ]
+  }
+}

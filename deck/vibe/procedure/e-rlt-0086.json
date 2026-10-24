@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "aac9b9bc-e25d-4a1f-a382-0aaa36b22c35",
+  "title": "E-RLT-0086: a symmetry-adapted reader of the exact periodic husk transport, pass: the side-4 periodic box's 18 slow...",
+  "purpose": "Experiment E-RLT-0086 in the relativity arena: a symmetry-adapted reader of the exact periodic husk transport, pass: the side-4 periodic box's 18 slow invariants in closed form (6 physical, 12 staggered e^(i pi w . x)(w . $r_d$) over the 12 lines of D4*, kept to 1.7e-12), the Bloch effective operator in their coordinates, and the vacuum's 576 elements block diagonal on them (2e-11); the physical block reads the isometric hub at its forced exponents (charge 4.00, trace 4.10, sound 4.03, shear 2.02) and the lone bounce hub at 4.00, 4.10, 4.03, 2.02, where the eigenvalue reader of E-RLT-0085 reads shear -0.27 and -0.26 on the same solves; symmetry does not separate the families (<chi_P, chi_S> = 1) and the medium couples them at 0.05 to 0.08 $k^2$, so the physical block is the physical densities' transport with the staggered channel projected out; the whole 18-mode trace reads 4.13.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L2 (L2: known physics reproduced on a stated model).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/relativity/symmetric-transport-reader.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-RLT-0086",
+        "quote": null
+      }
+    ]
+  }
+}

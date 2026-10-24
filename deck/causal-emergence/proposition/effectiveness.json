@@ -1,0 +1,45 @@
+{
+  "record": "proposition",
+  "id": "11dd51bb-d39e-41b1-9a2b-87410ae128ee",
+  "kind": "definitional",
+  "epistemic_status": "designed",
+  "title": "Effectiveness",
+  "statements": [
+    {
+      "id": "1274823d-814a-4a51-8d41-5da7eed100f5",
+      "text": "Effectiveness is effective information divided by its maximum for the system size, log2 of the number of states, so it separates how well the mechanisms work from how many states there are.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-23"
+    }
+  ],
+  "current_statement": "1274823d-814a-4a51-8d41-5da7eed100f5",
+  "status": "active",
+  "voice": "framework",
+  "defines": "effectiveness",
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "8360d34d-30cb-44f8-89c9-41768fb53f0d",
+        "locator": "Theory, State-Independent Causal Analysis",
+        "quote": "the effectiveness (Eff) of the causal interactions within a system can be captured by normalizing EI by the system’s size"
+      }
+    ]
+  }
+}

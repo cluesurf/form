@@ -1,0 +1,45 @@
+{
+  "record": "proposition",
+  "id": "63ded878-de1e-426b-8256-8bdbba1c9ae2",
+  "kind": "mathematical",
+  "epistemic_status": "inferred",
+  "title": "Macroscales work like error-correcting codes",
+  "statements": [
+    {
+      "id": "21f4e167-e401-46ae-995d-ce181640b29a",
+      "text": "Macroscale causal models can raise informativeness by the same mathematics by which error-correcting codes use the capacity of a noisy channel.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-23"
+    }
+  ],
+  "current_statement": "21f4e167-e401-46ae-995d-ce181640b29a",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "af04362c-992c-4063-8ee0-0860e42624ed",
+        "locator": "abstract",
+        "quote": "via the same mathematical principles of how error-correcting codes take advantage of an information channel’s capacity"
+      }
+    ]
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "2376f97e-e712-4ac9-8559-23547006d53a",
+  "title": "E-SPN-0111: loosening the string with the light's own D does not bring the held trio's inertia toward its energy...",
+  "purpose": "Experiment E-SPN-0111 in the spin arena: loosening the string with the light's own D does not bring the held trio's inertia toward its energy, fail on L2, L3 and L4: with the drift cost's tension pi/(2D + 1) a three-love level is held at every D 3 to 6 (boxes 14, 18, 22, 26; box 20 at D 4 gives the same level to 8e-10), but its mean span stays 2.19 to 2.20 and R = (m*/E_rest)/(tan m/m) reads 4.200, 1.751, 4.986, 5.065, not falling; R - 1 fitted on 1/N has intercept 5.1, not 0; the 1.751 at D 4 is a change of level, the contact family (contact 0.91) there having tail 1.8e-3 beyond N, just over the 1e-3 cut, so the next level (contact 0.41) was taken; at fine n = 2 no level is held at D 4 or 5 (least tail 0.117, 0.029); sigma/alpha is 37.3 to 40.2, a consequence of two closed forms in D; E-SPN-0105's R 4.200 reproduced and the unbound unit holds nothing.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L2 (L2: known physics reproduced on a stated model).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/spin/loose-string.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-SPN-0111",
+        "quote": null
+      }
+    ]
+  }
+}

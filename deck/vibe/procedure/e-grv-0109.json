@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "7014c27c-1a45-488b-91d2-5048ae2c4146",
+  "title": "E-GRV-0109: a lump grown past saturation on the torn husk forms its horizon at the first full dock and grows it with...",
+  "purpose": "Experiment E-GRV-0109 in the gravity arena: a lump grown past saturation on the torn husk forms its horizon at the first full dock and grows it with the content, but is not clean while it grows, fail on G1 and G3: E-GRV-0090's M = 1600 lump added one unit every 2 beats tears at unit 18 and holds 21, 56, 154, 280, 452 docks to radius 1.73 .. 4.69, within 0.23 dock of the step window's radius, Gauss exact and every event and beat reversed bit for bit (untorn: 747,060 wraps), but edge docks carry the growing field on the husk until their 18th line lands, sit at 1.499 and wrap 346 times (curl 197, energy kept only to 1.6e-3), and the steps they tear at are held as sources, so the settled far force is 22 percent off the placed lump's at r = 8 .. 11 and 35 horizon verticals carry flux back up: the growth history comes back out through the tear.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L2 (L2: known physics reproduced on a stated model).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/gravity/torn-husk-growth.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-GRV-0109",
+        "quote": null
+      }
+    ]
+  }
+}

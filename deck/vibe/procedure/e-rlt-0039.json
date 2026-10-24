@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "8bd4716a-5d7b-4f85-9a57-edb1d818b8be",
+  "title": "E-RLT-0039: the knit conserves a momentum current exactly and carries a sharp causal speed of one cell per beat, the...",
+  "purpose": "Experiment E-RLT-0039 in the relativity arena: the knit conserves a momentum current exactly and carries a sharp causal speed of one cell per beat, the second conserved current relativity needs, where a lossy rule loses the momentum.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L2 (L2: known physics reproduced on a stated model).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/relativity/momentum-current-and-cone.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-RLT-0039",
+        "quote": null
+      }
+    ]
+  }
+}

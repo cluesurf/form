@@ -1,0 +1,59 @@
+{
+  "record": "proposition",
+  "id": "728e7da7-fe62-45d5-91fc-db0c46ed177f",
+  "kind": "empirical",
+  "epistemic_status": "hypothesized",
+  "title": "GNW predicts prefrontal ignition at stimulus onset and offset",
+  "statements": [
+    {
+      "id": "40546309-7b76-445a-b94a-a302302b69b4",
+      "text": "The maintenance of a conscious percept is carried by transient prefrontal ignitions at stimulus onset and at stimulus offset, updates to conscious perception, with virtually no activity between them.",
+      "language": "en",
+      "scope": null,
+      "conditions": "Preregistered by the Cogitate adversarial collaboration with Stanislas Dehaene as the GNW proponent. The OSF project osf.io/mbcfy was created 2019-01-16, and the protocol states the preregistration and its amendments were frozen before data acquisition. The exact freeze date is not stated in the open protocol.",
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-23"
+    }
+  ],
+  "current_statement": "40546309-7b76-445a-b94a-a302302b69b4",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": {
+    "resolution_criterion": "Intracranial recordings in prefrontal regions of interest show an onset and an offset response tracking stimulus duration, the GNWT temporal profile.",
+    "resolver": "specified_source",
+    "locked_at": "2019-01-16",
+    "outcome": "falsified",
+    "resolved_at": "2025-04-30",
+    "observation": "94d5f203-724b-4c65-8965-61d7d7ad7a5e"
+  },
+  "standing": {
+    "value": "rejected",
+    "reason": "Preregistered test: none of 655 prefrontal electrodes showed the onset and offset profile, confirmed by Bayesian analysis.",
+    "basis": [
+      "0c486f20-8a43-4d79-a975-62b4df3f7ee9"
+    ],
+    "proposal": null
+  },
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "e02f6f58-c39b-42b3-8d19-285710666958",
+        "locator": "Predictions, experiment 1",
+        "quote": "GNW predicts ignitions within PFC following stimulus onset and possibly also during stimulus offset, constituting updates to conscious perception"
+      }
+    ]
+  }
+}

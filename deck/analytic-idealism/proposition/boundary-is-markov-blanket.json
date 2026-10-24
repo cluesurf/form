@@ -1,0 +1,45 @@
+{
+  "record": "proposition",
+  "id": "e48c906f-0e86-4e53-8894-ef4fa7281542",
+  "kind": "empirical",
+  "epistemic_status": "hypothesized",
+  "title": "The dissociative boundary is a Markov blanket",
+  "statements": [
+    {
+      "id": "f3967a7b-e160-46f6-ba3f-827a70d47acf",
+      "text": "The dissociative boundary of an alter is the Markov blanket of the organism, whose revealed appearance is the skin and sense organs.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-23"
+    }
+  ],
+  "current_statement": "f3967a7b-e160-46f6-ba3f-827a70d47acf",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "9c8de529-0562-4ede-9748-a99db6ec0056",
+        "locator": "section 11, p. 149",
+        "quote": "In our case, the dissociative boundary of an alter is the Markov blanket, whose revealed appearance is our skin and other sense organs."
+      }
+    ]
+  }
+}

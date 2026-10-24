@@ -1,0 +1,45 @@
+{
+  "record": "proposition",
+  "id": "69b520b2-e3cb-4d0f-a857-d30be3d1ebc7",
+  "kind": "empirical",
+  "epistemic_status": "inferred",
+  "title": "Quantum experiments suggest the world is mental",
+  "statements": [
+    {
+      "id": "7177018f-d4b8-43a7-9213-efb48b5234e4",
+      "text": "Recent tests of Bell and Leggett inequalities and of contextuality suggest that physical properties do not exist before observation, which fits the hypothesis that the world is mental in nature.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-23"
+    }
+  ],
+  "current_statement": "7177018f-d4b8-43a7-9213-efb48b5234e4",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "7dafc525-03aa-4ddf-a5dc-723d48ab7fa9",
+        "locator": "Appendix A (reprint of Humanities 6(3), article 55, 2017), abstract",
+        "quote": "But a consistent series of recent experimental results suggests strongly that the world may in fact be mental in nature, a hypothesis openly discussed in the field of foundations of physics."
+      }
+    ]
+  }
+}

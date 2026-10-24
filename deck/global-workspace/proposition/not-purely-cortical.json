@@ -1,0 +1,45 @@
+{
+  "record": "proposition",
+  "id": "2a7fbef3-547c-4fe0-9765-aad0b6433464",
+  "kind": "empirical",
+  "epistemic_status": "hypothesized",
+  "title": "Conscious access is not purely cortical",
+  "statements": [
+    {
+      "id": "e0089b7a-563f-4a0f-b3a5-c17b4f4a4b20",
+      "text": "Workspace activity loops through subcortical regions, with an important role for the thalamus and cerebellar nuclei, so conscious access is not a purely cortical phenomenon.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-23"
+    }
+  ],
+  "current_statement": "e0089b7a-563f-4a0f-b3a5-c17b4f4a4b20",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "48959277-86d2-4076-9942-58a24f753040",
+        "locator": "Central Tenets",
+        "quote": "conscious access is not a purely cortical phenomenon"
+      }
+    ]
+  }
+}

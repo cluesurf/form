@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "5726bedc-08ff-44de-b0de-f4923f40d215",
+  "title": "E-SPN-0058: the link field at equilibrium with its stores on the flat husk is a classical field, not a Bose gas...",
+  "purpose": "Experiment E-SPN-0058 in the spin arena: the link field at equilibrium with its stores on the flat husk is a classical field, not a Bose gas, fail as the hypothesis was gated: every photon mode holds T / 2 electric and T / 2 magnetic energy whatever its frequency (Rayleigh-Jeans, the classical limit of Bose-Einstein, within 7 percent from omega / T = 0.23 to 3.46, where Planck's law would give 0.11 of it), so the links carry unbounded occupations but no quantum of action.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L2 (L2: known physics reproduced on a stated model).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/spin/link-thermal-spectrum.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-SPN-0058",
+        "quote": null
+      }
+    ]
+  }
+}

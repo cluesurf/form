@@ -1,0 +1,45 @@
+{
+  "record": "proposition",
+  "id": "38bd1a2f-f0af-40cf-8d1a-54774464af00",
+  "kind": "definitional",
+  "epistemic_status": "designed",
+  "title": "A self is defined by the goals it can pursue",
+  "statements": [
+    {
+      "id": "d2617f63-4545-4a6d-ba60-54c967645ef5",
+      "text": "An individual, or self, is defined by its ability to pursue goals at a given scale and level of organization.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-23"
+    }
+  ],
+  "current_statement": "d2617f63-4545-4a6d-ba60-54c967645ef5",
+  "status": "active",
+  "voice": "framework",
+  "defines": "self",
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "9d7dc0d8-1f18-43d2-b86a-16d31ae12fd3",
+        "locator": "abstract",
+        "quote": "I propose a fundamental definition of an Individual based on the ability to pursue goals at an appropriate level of scale and organization"
+      }
+    ]
+  }
+}

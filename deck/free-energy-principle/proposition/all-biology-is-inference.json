@@ -1,0 +1,45 @@
+{
+  "record": "proposition",
+  "id": "c0876ba3-9b6a-43c1-9193-32ffb865784c",
+  "kind": "philosophical",
+  "epistemic_status": "inferred",
+  "title": "All biological processes can be read as inference",
+  "statements": [
+    {
+      "id": "7bc8a048-b633-4b36-9da1-728402ae42a6",
+      "text": "Because every living process revisits characteristic states and so admits a Lyapunov function read as model evidence, all biological processes, from evolution to conscious processing, can be construed as some form of inference.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-23"
+    }
+  ],
+  "current_statement": "7bc8a048-b633-4b36-9da1-728402ae42a6",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "c3908a50-f858-42d6-8c6b-be810bd5a82f",
+        "locator": "abstract",
+        "quote": "This means that all biological processes can be construed as performing some form of inference, from evolution through to conscious processing."
+      }
+    ]
+  }
+}

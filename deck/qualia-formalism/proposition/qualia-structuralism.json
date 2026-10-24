@@ -1,0 +1,45 @@
+{
+  "record": "proposition",
+  "id": "925869e2-5b89-4f0d-b1c9-e3a38de19872",
+  "kind": "philosophical",
+  "epistemic_status": "hypothesized",
+  "title": "Qualia structuralism",
+  "statements": [
+    {
+      "id": "39baec77-6af8-4c15-af5b-ac9b5a9e5073",
+      "text": "The mathematical object isomorphic to an experience has a rich set of formal structures: it is connected and compact, so qualia have a topology.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-23"
+    }
+  ],
+  "current_statement": "39baec77-6af8-4c15-af5b-ac9b5a9e5073",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "18748a2a-239c-4c8a-84be-d6db8f91e70d",
+        "locator": "section VII, p. 25",
+        "quote": "this mathematical object has a rich set of formal structures."
+      }
+    ]
+  }
+}

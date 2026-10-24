@@ -1,0 +1,28 @@
+{
+  "record": "link",
+  "id": "80472536-bd58-4e91-aa17-5100c152e2a3",
+  "from": "f887dcf6-24eb-4241-8918-665e0a37832c",
+  "to": "9813bc3f-cbd1-4204-b149-866e7cce5df3",
+  "relation": "requires",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "bfa85443-4b77-43f1-b5f2-ec1850a4bc3c",
+        "locator": "accepted manuscript p. 5",
+        "quote": "visual prediction error can be reduced by moving one's eyes until a prediction is fulfilled"
+      }
+    ]
+  }
+}

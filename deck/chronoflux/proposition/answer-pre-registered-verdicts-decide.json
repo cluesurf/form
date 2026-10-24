@@ -1,0 +1,50 @@
+{
+  "record": "proposition",
+  "id": "25493195-7766-4acc-8d44-c67e1b131d40",
+  "kind": "normative",
+  "epistemic_status": "normative",
+  "title": "Answer: pre-registered mechanical verdicts would change the framework",
+  "statements": [
+    {
+      "id": "8aa3c148-057a-4627-9b6c-7946fe37502f",
+      "text": "The framework is changed by tests registered before the data: a falsified compulsory prediction, or an arena that splits the shared parameter. The 2026 rebuild also withdrew several of its own earlier claims after finding errors in them.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "8aa3c148-057a-4627-9b6c-7946fe37502f",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "4e122635-26fc-4d42-bb3b-7e7af6cafd45",
+        "locator": "abstract",
+        "quote": "Each arena includes a pre-registered decision rule so that confirmation or refutation is mechanical rather than rhetorical."
+      },
+      {
+        "source": "9fa9fb29-0013-440b-b0d5-57de1d1c2c72",
+        "locator": "section 12",
+        "quote": "A null can falsify only a compulsory prediction."
+      }
+    ]
+  }
+}

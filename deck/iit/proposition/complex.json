@@ -1,0 +1,45 @@
+{
+  "record": "proposition",
+  "id": "be66d721-0340-41bc-9161-efc2d585e132",
+  "kind": "definitional",
+  "epistemic_status": "designed",
+  "title": "Complex (maximal substrate)",
+  "statements": [
+    {
+      "id": "8e31bc19-a4ef-49b3-97db-c2e1a488b89c",
+      "text": "A complex is the set of units whose cause-effect power is maximally irreducible, with the highest integrated information among overlapping candidates. It is also called a maximal substrate.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-23"
+    }
+  ],
+  "current_statement": "8e31bc19-a4ef-49b3-97db-c2e1a488b89c",
+  "status": "active",
+  "voice": "framework",
+  "defines": "complex",
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "8443eb2e-406e-4acc-94e8-33cbabbd3679",
+        "locator": "section \"Postulates of physical existence\" (full text)",
+        "quote": "This is the set of units that is maximally irreducible, as measured by maximum φ (φ*)."
+      }
+    ]
+  }
+}

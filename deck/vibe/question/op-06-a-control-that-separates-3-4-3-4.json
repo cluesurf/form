@@ -1,0 +1,26 @@
+{
+  "record": "question",
+  "id": "abc49d10-b90d-4c35-b0f3-111ff2869d5f",
+  "text": "Which holography result, if any, a generic hyperbolic graph fails and {3,4,3,4} passes?",
+  "kind": "missing_evidence",
+  "status": "open",
+  "parent": null,
+  "description": "OP-06: a control that separates {3,4,3,4} from generic hyperbolic growth.\n\nKnown: the Ryu-Takayanagi experiments measure geodesics against boundary arcs, true of any hyperbolic graph.\n\nUnknown: a property specific to this honeycomb.\n\nWhy it matters: without it the holography set is regraded to L1.\n\nScope: a small theoretical and computational investigation.\n\nSkills: hyperbolic geometry, holography.\n\nWhere to start: test/experiment/holography/.\n\nThe claims it would move: R-HLG-0001.\n\nEvidence named: roadmap item 0014.",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "research/problem.ts OP-06",
+        "quote": null
+      }
+    ]
+  }
+}

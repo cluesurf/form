@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "2618d72a-2ecf-4653-968b-8b8c16e3354e",
+  "title": "E-FND-0149: the even-weight binary code gives the D4 lattice (Construction A) whose minimal vectors are the dock",
+  "purpose": "Experiment E-FND-0149 in the foundations arena: the even-weight binary code gives the D4 lattice (Construction A) whose minimal vectors are the dock.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L1 (L1: known mathematics, correctly confirmed).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/foundations/generator-information.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-FND-0149",
+        "quote": null
+      }
+    ]
+  }
+}

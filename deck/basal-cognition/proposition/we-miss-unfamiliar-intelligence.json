@@ -1,0 +1,45 @@
+{
+  "record": "proposition",
+  "id": "b478cfdd-30b6-4654-b1d8-3c0ed5038580",
+  "kind": "empirical",
+  "epistemic_status": "inferred",
+  "title": "People fail to recognize intelligence in unfamiliar forms",
+  "statements": [
+    {
+      "id": "8d485df6-0a87-4f9c-96af-f380b38ed7d9",
+      "text": "Our ability to recognize agency and intelligence in unfamiliar embodiments lags far behind our ability to see it in familiar behavior.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-23"
+    }
+  ],
+  "current_statement": "8d485df6-0a87-4f9c-96af-f380b38ed7d9",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "ace9be22-0f28-4934-89ff-c29f4e6bb2aa",
+        "locator": "abstract",
+        "quote": "our innate capacity to recognize agency and intelligence in unfamiliar guises lags far behind our ability to detect it in familiar behavioral contexts"
+      }
+    ]
+  }
+}

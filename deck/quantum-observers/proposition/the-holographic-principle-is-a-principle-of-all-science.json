@@ -1,0 +1,45 @@
+{
+  "record": "proposition",
+  "id": "3e2ed2e9-2649-40ca-8eec-1cab4ccf44e7",
+  "kind": "philosophical",
+  "epistemic_status": "hypothesized",
+  "title": "The holographic principle is a principle of all science",
+  "statements": [
+    {
+      "id": "f2998506-abf0-4fb2-a961-02cf94087bc0",
+      "text": "Principles equivalent to the holographic principle appear in computer science and the life sciences, so it is a foundational principle of all science and not only of physics.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-23"
+    }
+  ],
+  "current_statement": "f2998506-abf0-4fb2-a961-02cf94087bc0",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b187d010-15da-4476-b407-2a7922c1dcf1",
+        "locator": "abstract",
+        "quote": "suggesting that the HP is not just a fundamental principle of physics, but of all of science"
+      }
+    ]
+  }
+}

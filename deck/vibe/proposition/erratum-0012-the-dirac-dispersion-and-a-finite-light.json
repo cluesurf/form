@@ -1,0 +1,50 @@
+{
+  "record": "proposition",
+  "id": "5570b524-34e8-4d71-bc33-aa8450b45ff2",
+  "kind": "empirical",
+  "epistemic_status": "hypothesized",
+  "title": "Paper 0012: the Dirac dispersion and a finite light cone, and every walk result",
+  "statements": [
+    {
+      "id": "4f80678b-ba4b-4d1b-ac17-23e86cd84140",
+      "text": "The Dirac dispersion and a finite light cone, and every walk result.",
+      "language": "en",
+      "scope": "as stated in published paper 0012",
+      "conditions": "The 2026-08-31 audit regraded it: reproduced, L2, with prior art: Strauch 2006, Kurzynski 2008, Regensburger 2011, Kitagawa 2010, Asboth and Obuse 2013.",
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-22"
+    }
+  ],
+  "current_statement": "4f80678b-ba4b-4d1b-ac17-23e86cd84140",
+  "status": "retracted",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": {
+    "value": "open",
+    "reason": "the paper's label is withdrawn. Regraded: reproduced, L2, with prior art: Strauch 2006, Kurzynski 2008, Regensburger 2011, Kitagawa 2010, Asboth and Obuse 2013",
+    "basis": [],
+    "proposal": null
+  },
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "research/paper.ts ERRATA",
+        "quote": null
+      }
+    ]
+  }
+}

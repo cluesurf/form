@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "37968057-2d83-43a7-ad95-b12362e9f9df",
+  "title": "E-FND-0044: the 24-cell emerges from integer arithmetic: the ternary tone on four slots gives 81 words partitioned...",
+  "purpose": "Experiment E-FND-0044 in the foundations arena: the 24-cell emerges from integer arithmetic: the ternary tone on four slots gives 81 words partitioned exactly 1+8+24+32+16, among the stepping shells only the 24 spans a self-dual polytope (corners equal faces, DERIVED by facet enumeration, the 16-cell and tesseract fail), and the 24 vertices form the binary tetrahedral group 2T carrying the belt-trick spinor, while the tesseract carries no spinor, the control.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L1 (L1: known mathematics, correctly confirmed).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/foundations/cell-is-forced.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-FND-0044",
+        "quote": null
+      }
+    ]
+  }
+}

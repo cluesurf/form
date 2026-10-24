@@ -1,0 +1,28 @@
+{
+  "record": "link",
+  "id": "b35f0b13-945f-4def-8fdd-483254b77404",
+  "from": "906e3a9c-5ac0-4f95-9ca3-35cb6f796f5b",
+  "to": "abe442e5-5a82-44b2-8087-a0eea5f30403",
+  "relation": "requires",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "c0602528-f093-4705-abc3-e13d7657a680",
+        "locator": "section 5.7",
+        "quote": "It would appear that the expectations of Orch OR have fared rather well so far"
+      }
+    ]
+  }
+}

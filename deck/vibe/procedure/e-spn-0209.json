@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "1dc96327-6c28-4ae2-8283-9e8de0b9c5f1",
+  "title": "E-SPN-0209: explores whether the register pair's reference formula (static inertia plus the Darwin exchange) misses...",
+  "purpose": "Experiment E-SPN-0209 in the spin arena: explores whether the register pair's reference formula (static inertia plus the Darwin exchange) misses a term first order in the coupling: the member's exact band averaged over each recorded level, against R_full at $a_B$ 8 and 12.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L2 (L2: known physics reproduced on a stated model).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/spin/register-pair-formula-audit.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-SPN-0209",
+        "quote": null
+      }
+    ]
+  }
+}

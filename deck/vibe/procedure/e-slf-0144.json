@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "19ef92d8-69f7-45dd-9315-6246f9198eaf",
+  "title": "E-SLF-0144: two opposite-charge selves annihilate at contact but not at range, same-charge selves never do",
+  "purpose": "Experiment E-SLF-0144 in the selves arena: two opposite-charge selves annihilate at contact but not at range, same-charge selves never do.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L2 (L2: known physics reproduced on a stated model).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/selves/two-self-interaction.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-SLF-0144",
+        "quote": null
+      }
+    ]
+  }
+}

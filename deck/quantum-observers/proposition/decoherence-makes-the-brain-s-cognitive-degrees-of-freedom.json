@@ -1,0 +1,45 @@
+{
+  "record": "proposition",
+  "id": "690fedee-89d2-4e2a-bf63-f5794e39c7fd",
+  "kind": "empirical",
+  "epistemic_status": "inferred",
+  "title": "Decoherence makes the brain’s cognitive degrees of freedom classical",
+  "statements": [
+    {
+      "id": "453ff49a-fb39-4810-ad9d-020ac6c0a719",
+      "text": "Decoherence in neurons and microtubules is many orders of magnitude faster than the dynamics of cognition, so the brain’s cognitive degrees of freedom are classical, against claims that quantum coherence plays a fundamental role in brain function.",
+      "language": "en",
+      "scope": "aimed at quantum brain proposals generally, and bears on the claim that biological systems use quantum coherence",
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-23"
+    }
+  ],
+  "current_statement": "453ff49a-fb39-4810-ad9d-020ac6c0a719",
+  "status": "active",
+  "voice": "critique",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "5a3a7ba3-a832-4004-b906-b6f7092d63d4",
+        "locator": "abstract",
+        "quote": "the degrees of freedom of the human brain that relate to cognitive processes should be thought of as a classical rather than quantum system"
+      }
+    ]
+  }
+}

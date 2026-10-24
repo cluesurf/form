@@ -1,0 +1,45 @@
+{
+  "record": "proposition",
+  "id": "4f54398d-45c7-4fd4-9716-bebb65c64c43",
+  "kind": "philosophical",
+  "epistemic_status": "hypothesized",
+  "title": "Consciousness requires self-consciousness",
+  "statements": [
+    {
+      "id": "f9468ea4-ca1d-4803-8ce2-b04a01dcd36b",
+      "text": "Self-consciousness is necessary for consciousness, because conscious inference is always inference about the consequences of one's own action.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-23"
+    }
+  ],
+  "current_statement": "f9468ea4-ca1d-4803-8ce2-b04a01dcd36b",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "c3908a50-f858-42d6-8c6b-be810bd5a82f",
+        "locator": "abstract",
+        "quote": "Is self-consciousness necessary for consciousness? The answer is yes."
+      }
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "record": "link",
+  "id": "f82848ad-ebd6-4152-b04e-9fa9d25fc0ac",
+  "from": "e5557e6f-f6d2-4d74-a489-9596ba14c7eb",
+  "to": "83efae08-ae2e-4ccb-8285-f280080e17ed",
+  "relation": "weakens",
+  "strength": 0.2,
+  "rationale": "The test excludes the simplest parameter choice for Diósi-Penrose collapse. Reduction at $\\tau \\approx \\hbar / E_G$ with a larger mass-density smearing is not excluded, so the prediction is constrained, not refuted.",
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "75f13c0a-559d-42ba-a908-88106ccfc1dc",
+        "locator": "abstract",
+        "quote": "Our result sets a lower bound on the effective size of the mass density of nuclei, which is about three orders of magnitude larger than previous bounds. This rules out the natural parameter-free version of the Diósi-Penrose model."
+      }
+    ]
+  }
+}

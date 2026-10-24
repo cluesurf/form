@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "ba5c6563-a1f8-4cf7-af16-3fa11b1ba3d3",
+  "title": "E-FRC-0201: a deuteron once the vacuum makes pairs: two compact color singlets (stand-ins for nucleons) of the paid...",
+  "purpose": "Experiment E-FRC-0201 in the gauge arena: a deuteron once the vacuum makes pairs: two compact color singlets (stand-ins for nucleons) of the paid Z3 string on the D4 box at contact, against mixed events, with pair making on and off.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L2 (L2: known physics reproduced on a stated model).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/gauge/pair-string-deuteron.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-FRC-0201",
+        "quote": null
+      }
+    ]
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "178036e5-e9dd-49f0-a807-c99e806db612",
+  "title": "E-FRC-0240: clean emission into the massless light in the polaron frame: a STAND-IN atom beside a closed strip of...",
+  "purpose": "Experiment E-FRC-0240 in the gauge arena: clean emission into the massless light in the polaron frame: a STAND-IN atom beside a closed strip of 512 husk squares, two-quantum restriction in the Silbey-Harris frame, decays exponentially at the Debye-Waller-corrected golden rule with its norm held; and the split, the coupling and the column depth tie in alpha = 1 / (2 N sqrt rho), with coupling times Planck capacity the same at every depth.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L2 (L2: known physics reproduced on a stated model).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/gauge/polaron-golden-rule.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-FRC-0240",
+        "quote": null
+      }
+    ]
+  }
+}

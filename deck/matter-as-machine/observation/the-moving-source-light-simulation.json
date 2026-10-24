@@ -1,0 +1,44 @@
+{
+  "record": "observation",
+  "id": "078fcbf7-a22a-4e07-9402-2c67f2e57e4f",
+  "kind": "simulation_result",
+  "epistemic_status": "simulated",
+  "description": "The moving-source light simulation draws pulses whose centers keep moving with the source's velocity at emission while their radii grow at $c - v$ in absolute time. At the default source speed of $0.7c$, even backward-emitted light moves forward in the absolute frame.",
+  "method": "simulation",
+  "status": "reported",
+  "source": "0f0fb69c-971c-4fe8-a958-2b0730a9e175",
+  "procedure": null,
+  "variable": null,
+  "value": null,
+  "unit": null,
+  "uncertainty": null,
+  "sample_size": null,
+  "replication_count": null,
+  "quality": null,
+  "limitations": "It illustrates the proposed rule. It is not an experimental confirmation or a derivation from particle interactions, and its source code was not among the saved pages.",
+  "conflicts_of_interest": null,
+  "observed_at": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "0f0fb69c-971c-4fe8-a958-2b0730a9e175",
+        "locator": "opening",
+        "quote": "Compare light from moving and stationary sources under the proposed emission rule."
+      },
+      {
+        "source": "ce59e052-9c70-46a0-8b8d-89266cb60dd8",
+        "locator": "Simulation",
+        "quote": "This illustrates the proposed rule, not an experimental confirmation or a derivation from particle interactions."
+      }
+    ]
+  }
+}

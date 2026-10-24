@@ -1,0 +1,45 @@
+{
+  "record": "proposition",
+  "id": "af8b86f1-9926-4983-8e87-1d7c75503036",
+  "kind": "definitional",
+  "epistemic_status": "designed",
+  "title": "Boundary problem",
+  "statements": [
+    {
+      "id": "2675d443-da16-4423-bd90-d2898f6c11eb",
+      "text": "The boundary problem asks why a unified first person perspective has hard boundaries, and why they sit at the scale they do.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-23"
+    }
+  ],
+  "current_statement": "2675d443-da16-4423-bd90-d2898f6c11eb",
+  "status": "active",
+  "voice": "framework",
+  "defines": "boundary problem",
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "9359bfc1-6fff-41a8-8d7c-91af2f730b74",
+        "locator": "abstract",
+        "quote": "the boundary problem asks why we experience hard boundaries around those unified 1PPs"
+      }
+    ]
+  }
+}

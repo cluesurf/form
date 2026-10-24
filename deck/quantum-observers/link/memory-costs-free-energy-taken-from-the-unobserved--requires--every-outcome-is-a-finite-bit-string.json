@@ -1,0 +1,28 @@
+{
+  "record": "link",
+  "id": "dba081ae-ba98-43ad-80ae-445f944ca89f",
+  "from": "d6217e4a-08a1-4f1e-bba2-6924670b85a6",
+  "to": "f363682d-2e99-4e97-81ee-45a1157b9998",
+  "relation": "requires",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "4489b7d7-7273-4b67-a1c2-b53ddab0eeb5",
+        "locator": "section 3.1",
+        "quote": "The Second Law tells us that protecting any state against noise requires the expenditure of free energy."
+      }
+    ]
+  }
+}

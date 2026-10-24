@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "c44deee2-9384-4ba7-9669-546a89b111e1",
+  "title": "E-FND-0101: the full 96-conjugation symmetry sweep of the three knits on generic states, correcting the E-FND-0097...",
+  "purpose": "Experiment E-FND-0101 in the foundations arena: the full 96-conjugation symmetry sweep of the three knits on generic states, correcting the E-FND-0097 flag: the momentum knit is maximal (all 32 possible exact conjugations), the committed charge knit's order-eight group CONTAINS exact CP (negation with the antidiagonal mirror, a genuine parity) and exact CPT (negation, point inversion, T), resolving the flag positively (what it breaks is bare C and the axis mirrors, tying charge to orientation), while the traveller knit keeps only the identity and one PT reversal with NO negation-containing conjugation exact anywhere in the group, so CP violation is relocated to the proposed traveller sector, an invariant statement this time and a measured caution on its adoption.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L2 (L2: known physics reproduced on a stated model).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/foundations/knit-symmetry-groups.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-FND-0101",
+        "quote": null
+      }
+    ]
+  }
+}

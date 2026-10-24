@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "a96955a0-75ed-49d1-b77f-12a75e785606",
+  "title": "E-FRC-0207: light held as column sums of trits: every bulk link and triangle of the D4 bulk holds trits, the husk's...",
+  "purpose": "Experiment E-FRC-0207 in the gauge arena: light held as column sums of trits: every bulk link and triangle of the D4 bulk holds trits, the husk's angle, flux and force counters are the sums of columns of them down the depth, and the husk integer leapfrog runs on them bit for bit, reversible, Gauss exact in bulk and husk, with coupling 2 / (2D + 1), the inverse depth.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L2 (L2: known physics reproduced on a stated model).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/gauge/trit-column-light.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-FRC-0207",
+        "quote": null
+      }
+    ]
+  }
+}

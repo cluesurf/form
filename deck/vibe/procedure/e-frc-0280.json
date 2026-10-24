@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "b9a4a592-ba70-48bc-b849-cad036c82550",
+  "title": "E-FRC-0280: the weak mixing angle as a trace over the register's modes, fail as derived: the code puts charge on the...",
+  "purpose": "Experiment E-FRC-0280 in the gauge arena: the weak mixing angle as a trace over the register's modes, fail as derived: the code puts charge on the tone, which no piece reads on the register, so Q = (pleasure - pain) / 3 is constant on all 576 modes of a member and commutes with SU(2)+, Tr(Q T3) = 0 against $\\operatorname{Tr} T3^2 = 72$, and $\\operatorname{Tr} T3^2 / \\operatorname{Tr} Q^2 = 72 / 64$ = 9/8 is no mixing angle (1/8 in whole vibes, still with no T3 in Q); a charge that holds T3 would be a new piece, Q = T3+ + tone / 6 giving 9/11 and the left-right Q = T3+ + T3- + tone / 6 giving 9/20; the run's own check failed on an inverted hypercharge normalization that decides no gate.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L1 (L1: known mathematics, correctly confirmed).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/gauge/mixing-angle-trace.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-FRC-0280",
+        "quote": null
+      }
+    ]
+  }
+}

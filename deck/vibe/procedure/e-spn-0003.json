@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "e03f8fd5-eae1-449e-84de-6133a1f4f828",
+  "title": "E-SPN-0003: the 4D bulk D4 spinor structure projects to 3D Pauli spinors on the cusp",
+  "purpose": "Experiment E-SPN-0003 in the spin arena: the 4D bulk D4 spinor structure projects to 3D Pauli spinors on the cusp.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L1 (L1: known mathematics, correctly confirmed).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/spin/bulk-cusp-interface.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-SPN-0003",
+        "quote": null
+      }
+    ]
+  }
+}

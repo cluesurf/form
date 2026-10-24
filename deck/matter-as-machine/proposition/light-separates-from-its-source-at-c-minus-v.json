@@ -1,0 +1,50 @@
+{
+  "record": "proposition",
+  "id": "9c6f12fc-c376-4caf-b945-5748db065dea",
+  "kind": "empirical",
+  "epistemic_status": "hypothesized",
+  "title": "The emission rule: light separates from its source at $c - v$",
+  "statements": [
+    {
+      "id": "fab1d7d3-f95b-4c84-a5d6-d21bbdf23597",
+      "text": "Relative to its source, light spreads in every direction at $c - v$ in absolute time, where $v$ is the source's speed in the absolute frame and $c$ the speed of light from a source at rest. The center of each light sphere moves along with the source.",
+      "language": "en",
+      "scope": null,
+      "conditions": "A source moving uniformly at $0 \\le v < c$ in the absolute frame.",
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "fab1d7d3-f95b-4c84-a5d6-d21bbdf23597",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "ce59e052-9c70-46a0-8b8d-89266cb60dd8",
+        "locator": "Motivation",
+        "quote": "relative to its source, light spreads in every direction at c − v, measured using absolute time."
+      },
+      {
+        "source": "ce59e052-9c70-46a0-8b8d-89266cb60dd8",
+        "locator": "Motivation",
+        "quote": "The forward-light assumption and the extension to all directions are the hypotheses behind this prediction, not consequences of absolute time alone."
+      }
+    ]
+  }
+}

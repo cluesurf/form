@@ -1,0 +1,33 @@
+{
+  "record": "link",
+  "id": "02f64c4f-f6c3-46d1-96dd-503a31d270c3",
+  "from": "062ea88c-b30b-4754-8c99-fedd12ea66f0",
+  "to": "6357ea11-5b6b-4342-a1d1-503e430ac9cf",
+  "relation": "requires",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b187d010-15da-4476-b407-2a7922c1dcf1",
+        "locator": "section 3.3 heading",
+        "quote": "Observable systems and their pointer states are defined by QRFs"
+      },
+      {
+        "source": "0106999c-ce99-4816-800a-819a3635b0f4",
+        "locator": "abstract",
+        "quote": null
+      }
+    ]
+  }
+}

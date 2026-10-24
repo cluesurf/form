@@ -1,0 +1,28 @@
+{
+  "record": "link",
+  "id": "4dd60b7b-1476-4051-99d8-bfeb7b40a0fb",
+  "from": "0bc8d67f-2888-412e-841d-86b1b133ddaf",
+  "to": "fe90eae2-c7a5-4609-ae58-eca401d78290",
+  "relation": "requires",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "1792e489-be3b-46bb-ba4b-0dcd00a0abc7",
+        "locator": "introduction",
+        "quote": "the cell membrane implements a Markov Blanket (MB) that renders its interior conditionally independent of its exterior"
+      }
+    ]
+  }
+}

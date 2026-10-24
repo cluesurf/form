@@ -1,0 +1,39 @@
+{
+  "record": "observation",
+  "id": "4bcc9b36-41e3-42fb-bde2-b92250d6b721",
+  "kind": "experimental_result",
+  "epistemic_status": "observed",
+  "description": "Temporarily disrupting the gap junction network of genetically unmodified planaria made them regenerate head shapes typical of other planarian species (Levin's summary of Emmons-Bell et al. 2015).",
+  "method": "experiment",
+  "status": "reported",
+  "source": "fd7382f9-52a5-4beb-9680-fc341ff15b98",
+  "procedure": null,
+  "variable": null,
+  "value": null,
+  "unit": null,
+  "uncertainty": null,
+  "sample_size": null,
+  "replication_count": null,
+  "quality": null,
+  "limitations": "Reported secondhand here.",
+  "conflicts_of_interest": null,
+  "observed_at": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "fd7382f9-52a5-4beb-9680-fc341ff15b98",
+        "locator": "Figure 10 caption",
+        "quote": "causes genetically un-modified worms to nevertheless build heads appropriate to other species"
+      }
+    ]
+  }
+}

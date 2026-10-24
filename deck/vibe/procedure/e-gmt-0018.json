@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "0918bacd-445a-4794-8df7-d0e10ff67eec",
+  "title": "E-GMT-0018: a Busemann level set of {5,3,4} grows polynomially, a flat 2D sheet inside the curved crystal",
+  "purpose": "Experiment E-GMT-0018 in the geometry arena: a Busemann level set of {5,3,4} grows polynomially, a flat 2D sheet inside the curved crystal.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L3 (L3: one base rule produced the result as a measured consequence, with a computed control that could have failed).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/geometry/horosphere-flat.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-GMT-0018",
+        "quote": null
+      }
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "record": "link",
+  "id": "aa720e32-ccff-4c21-a13f-b8154a0051dc",
+  "from": "d1add887-f98a-44b6-a019-1fd4425c5188",
+  "to": "9c77870a-b01e-41dc-a7fe-432adb9aac70",
+  "relation": "requires",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "9b21a09b-835f-4256-afbf-19425df2597e",
+        "locator": "section 6.1, p. 29",
+        "quote": "free will characterizes a certain type of decision-making algorithm and is therefore a property that applies at the cognitive or systems level"
+      }
+    ]
+  }
+}

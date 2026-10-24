@@ -1,0 +1,50 @@
+{
+  "record": "proposition",
+  "id": "b9084c74-5d49-4d13-96c7-cc4481984f49",
+  "kind": "mathematical",
+  "epistemic_status": "inferred",
+  "title": "Rung: quantum mechanics from amplitude and phase",
+  "statements": [
+    {
+      "id": "4c632636-0d53-47ff-9330-22a2aafe8ecc",
+      "text": "Written as $\\Psi_t = \\sqrt{\\rho_t} \\, e^{i S_t / \\hbar_t}$, the conserved transport keeps its continuity equation and gains a Hamilton-Jacobi equation with a quantum potential from the curvature of the amplitude. For a coherent phase-bearing branch the density and phase equations recombine exactly into the Schrödinger equation, with circulation quantized in units of $h/m$.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "4c632636-0d53-47ff-9330-22a2aafe8ecc",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "e9bae950-bb2d-4846-bc12-5f19b8e973a1",
+        "locator": "section 8",
+        "quote": "the quantum regime is not introduced as a separate ontology."
+      },
+      {
+        "source": "320935c1-34d9-434e-b190-9378513da7b7",
+        "locator": "abstract",
+        "quote": "the density-phase equations recombine exactly into the Schrödinger equation."
+      }
+    ]
+  }
+}

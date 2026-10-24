@@ -1,0 +1,28 @@
+{
+  "record": "link",
+  "id": "7574426c-ce9f-4674-a73e-ce1de755636f",
+  "from": "3b7b1f70-7173-4c7b-a64c-65b8705402f5",
+  "to": "9a3b1f40-da9e-4053-8439-72331c05d855",
+  "relation": "requires",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "c0602528-f093-4705-abc3-e13d7657a680",
+        "locator": "section 4.1",
+        "quote": "The only serious possibility was the incompleteness of quantum theory"
+      }
+    ]
+  }
+}

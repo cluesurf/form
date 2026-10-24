@@ -1,0 +1,28 @@
+{
+  "record": "link",
+  "id": "bd4b2e7c-e5d2-45dd-9121-39d451f957b1",
+  "from": "17b2556f-358a-419b-9c45-d8f55e3366aa",
+  "to": "664a1500-a24a-4133-9731-f8354668b210",
+  "relation": "supports",
+  "strength": 0.1,
+  "rationale": "The page offers it as an example worth investigating: food and water alone did not keep the colony reproducing. It does not establish depression as the cause.",
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "c01a576c-01a5-46ae-8a4e-5fed54687b5c",
+        "locator": null,
+        "quote": null
+      }
+    ]
+  }
+}

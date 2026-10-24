@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "548b4c2c-e2cb-4806-9bfc-471851d28967",
+  "title": "E-QTM-0079: the bulk-boundary correspondence from the walk operator's own spectrum: an interface between two gapped...",
+  "purpose": "Experiment E-QTM-0079 in the quantum arena: the bulk-boundary correspondence from the walk operator's own spectrum: an interface between two gapped bulk phases of different winding (W=+2 next to W=-2) binds a nonzero, quantized, size-independent set of in-gap edge modes localized at the interface (8 modes, 4 at quasienergy 0 and 4 at pi, identical at sizes 32, 48, 64), while a uniform gapped phase with no interface binds exactly zero.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L2 (L2: known physics reproduced on a stated model).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/quantum/bulk-boundary-correspondence.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-QTM-0079",
+        "quote": null
+      }
+    ]
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "041025b1-906c-4c1f-9f34-1eb34db5268a",
+  "title": "E-FRC-0149: what changes when the knit changes: the color turn weave chosen by E-FRC-0148, and its runner-up, beside...",
+  "purpose": "Experiment E-FRC-0149 in the gauge arena: what changes when the knit changes: the color turn weave chosen by E-FRC-0148, and its runner-up, beside the committed turning weave through the CPT search of E-FND-0117, the battery of E-FND-0118 with the kick law and protected species, the travel survey of E-FRC-0111, the vacuum line sectors, the symmetry ledger of E-FRC-0113 and E-FRC-0142, the handedness of E-FRC-0142, the spin lift of E-SPN-0044 and the generation copies of E-FRC-0141.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L2 (L2: known physics reproduced on a stated model).",
+  "status": "completed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/gauge/color-knit-characterization.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "research/result.ts R-FRC-0006",
+        "quote": null
+      }
+    ]
+  }
+}

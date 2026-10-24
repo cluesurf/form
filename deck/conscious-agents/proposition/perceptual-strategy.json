@@ -1,0 +1,45 @@
+{
+  "record": "proposition",
+  "id": "37d8f0b8-c32b-4716-91e0-95f0539c8129",
+  "kind": "definitional",
+  "epistemic_status": "designed",
+  "title": "Perceptual strategy",
+  "statements": [
+    {
+      "id": "107cf017-d6c4-4cf9-b159-35e276683fea",
+      "text": "A perceptual strategy is a way an organism maps states of the world to perceptual states. The interface program defines and classifies such strategies so they can compete in evolutionary games.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-23"
+    }
+  ],
+  "current_statement": "107cf017-d6c4-4cf9-b159-35e276683fea",
+  "status": "active",
+  "voice": "framework",
+  "defines": "perceptual strategy",
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "326bc60f-bdd5-4190-a828-88d73ad2daba",
+        "locator": "abstract, p. 2",
+        "quote": "we define and classify perceptual strategies"
+      }
+    ]
+  }
+}

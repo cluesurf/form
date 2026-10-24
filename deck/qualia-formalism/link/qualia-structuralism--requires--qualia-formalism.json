@@ -1,0 +1,28 @@
+{
+  "record": "link",
+  "id": "580d8b15-98b9-4bea-b6ce-45d24d3c5685",
+  "from": "925869e2-5b89-4f0d-b1c9-e3a38de19872",
+  "to": "87fa58ba-a6c1-4a5d-b47a-ba298a93a00d",
+  "relation": "requires",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "18748a2a-239c-4c8a-84be-d6db8f91e70d",
+        "locator": "section VII, p. 25",
+        "quote": "this mathematical object has a rich set of formal structures."
+      }
+    ]
+  }
+}

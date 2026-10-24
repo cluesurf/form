@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "516f772e-a43d-41b4-bfb8-a1df5b578c67",
+  "title": "E-FRC-0104: the largest crystal subgroup of SU(3) that acts classically is the Hessian group Sigma(648): all 648...",
+  "purpose": "Experiment E-FRC-0104 in the gauge arena: the largest crystal subgroup of SU(3) that acts classically is the Hessian group Sigma(648): all 648 elements permute the nine points of the qutrit phase space, through 9 translations times the 24 elements of SL(2, 3), and the 24 D4 coin directions form exactly SL(2, 3), so this color group is labelled by three tones and one direction, while the golden-ratio groups act classically on almost nothing.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L1 (L1: known mathematics, correctly confirmed).",
+  "status": "completed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/gauge/classical-color-group.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "research/result.ts R-FRC-0003",
+        "quote": null
+      }
+    ]
+  }
+}

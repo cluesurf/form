@@ -1,0 +1,57 @@
+{
+  "record": "proposition",
+  "id": "62c598f3-5f1f-4274-8afc-c6f4fe199b09",
+  "kind": "empirical",
+  "epistemic_status": "hypothesized",
+  "title": "Diósi-Penrose collapse with no free parameter",
+  "statements": [
+    {
+      "id": "9e93ccc2-47c4-49ae-865f-703f02c8dc2f",
+      "text": "In its natural parameter-free form, with the mass density of each nucleus taken at its physical size, Diósi-Penrose collapse makes charged particles diffuse and emit faint radiation at a calculable rate.",
+      "language": "en",
+      "scope": "the simplest Diósi-Penrose model, as tested by Donadi et al.",
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-23"
+    }
+  ],
+  "current_statement": "9e93ccc2-47c4-49ae-865f-703f02c8dc2f",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": {
+    "value": "rejected",
+    "reason": "The Gran Sasso measurement found no such radiation and bounds the effective size of the nuclear mass density about three orders of magnitude above earlier bounds, ruling out the parameter-free version.",
+    "basis": [
+      "4ec38097-55a3-48dd-bf4c-7837a926088f"
+    ],
+    "proposal": null
+  },
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "75f13c0a-559d-42ba-a908-88106ccfc1dc",
+        "locator": "abstract",
+        "quote": "He also provided a heuristic formula to compute the decay time of the superposition — similar to that suggested earlier by Lajos Diósi, hence the name Diósi-Penrose model."
+      },
+      {
+        "source": "c0602528-f093-4705-abc3-e13d7657a680",
+        "locator": "section 4.4",
+        "quote": null
+      }
+    ]
+  }
+}

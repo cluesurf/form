@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "f4d75a25-2b54-4971-a9c0-fdfbb4056cb4",
+  "title": "E-RLT-0118: the bound register pair moves off lines in 11 of 12 reads above the instrument's floor, open on the axis...",
+  "purpose": "Experiment E-RLT-0118 in the relativity arena: the bound register pair moves off lines in 11 of 12 reads above the instrument's floor, open on the axis at K 0.28 (gates fixed before the run): with a 6,144-cycle filter the residual floor is 1.2e-5 (E-RLT-0115's 2,048 filter left 9.2e-4), and on all four body diagonals and the face diagonal at K 0.22 and 0.28 the residual (3.3e-5 to 9.1e-5) and the share left at rest (0 to 0.0075) sit far below what twelve line branches give through the same reads (3.4e-4 to 5.5e-4, and 0.25); no direction leaves any part at rest (at most 0.080, against 0.5 on the axis); the axis at 0.28 reads a residual of 5.7e-4 between the moves (5.1e-4) and stuck (9.7e-4) bounds, where its level mixes with a neighbor.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L2 (L2: known physics reproduced on a stated model).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/relativity/bound-pair-off-lines.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-RLT-0118",
+        "quote": null
+      }
+    ]
+  }
+}

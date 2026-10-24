@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "82af7ff8-2a3a-4631-ba09-49528fbe6321",
+  "title": "E-GRV-0002: the area law from the knit own coined Dirac walk, a massive walk saturates (area law), a gapless walk...",
+  "purpose": "Experiment E-GRV-0002 in the gravity arena: the area law from the knit own coined Dirac walk, a massive walk saturates (area law), a gapless walk grows (control).",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L2 (L2: known physics reproduced on a stated model).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/gravity/area-law-from-knit-walk.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-GRV-0002",
+        "quote": null
+      }
+    ]
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "daf20d08-6dd4-4cb8-9b74-7e62b1272b10",
+  "title": "E-GRV-0080: the depth field's pull is retarded where the negated vector's acted at once, lumps fall alike, and the...",
+  "purpose": "Experiment E-GRV-0080 in the gravity arena: the depth field's pull is retarded where the negated vector's acted at once, lumps fall alike, and the light it deepens is delayed as its eikonal says, fail on C1's speed reading: when a source hops one dock nothing changes at d = 2 .. 7 on beat 1 (E-GRV-0077's proposal changed there at once by 1.4e-2 to 3.1e-4) and the first register changes at beats 3 to 14, but the change reaches half its final size at beats 9 to 29, a front at 1.18 $c_s$ against a 10 percent gate, because it arrives as a pulse 5 to 6 times the final change (a post run reads the pulse's half-peak at beats 16 to 35 against rho / $c_s = 15.1$ to 34.9, 1.04 $c_s$); a 1-love and a 3-fear lump accelerate toward a neutral source at -6.41986e-4 per unit content, alike to 8.7e-12 (inertia a stand-in); a slab the field deepens to D 21 delays the light 34.47 beats against the eikonal 34.43, which is 0.0058 of the Newtonian falling-light count (general relativity 2, Nordstrom 0): the light is slowed where the field is deep, so it bends toward a lump and this is not Nordstrom's scalar, but the factor is a free ratio of the depth per content to the pull on matter (general relativity needs about 320 times this one), so the box cannot tell general relativity from Newton.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L2 (L2: known physics reproduced on a stated model).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/gravity/radion-causal.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-GRV-0080",
+        "quote": null
+      }
+    ]
+  }
+}

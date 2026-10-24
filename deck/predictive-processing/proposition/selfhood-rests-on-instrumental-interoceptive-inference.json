@@ -1,0 +1,45 @@
+{
+  "record": "proposition",
+  "id": "aa3d8ebd-d187-4b05-b746-0be0f45ab97c",
+  "kind": "empirical",
+  "epistemic_status": "hypothesized",
+  "title": "Selfhood rests on instrumental interoceptive inference",
+  "statements": [
+    {
+      "id": "a0816da9-d130-4037-983c-754ec1b99ee6",
+      "text": "Experiences of embodied selfhood are grounded in instrumental, control-oriented interoceptive inference that serves allostatic regulation and physiological integrity.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-23"
+    }
+  ],
+  "current_statement": "a0816da9-d130-4037-983c-754ec1b99ee6",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "bfa85443-4b77-43f1-b5f2-ec1850a4bc3c",
+        "locator": "accepted manuscript p. 2, abstract",
+        "quote": "we describe embodied selfhood in terms of 'instrumental interoceptive inference', which emphasises allostatic regulation and physiological integrity"
+      }
+    ]
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "record": "proposition",
+  "id": "cf92fcb1-1847-4814-88c8-27b123c9cfbc",
+  "kind": "definitional",
+  "epistemic_status": "designed",
+  "title": "Macro level as a coarse-grain",
+  "statements": [
+    {
+      "id": "1771a016-67fc-45ab-a3e0-b04f0f63bc9e",
+      "text": "A macro level is a coarse-graining of the micro elements in space, time or both, through a mapping that groups micro states into macro states and hides which micro element is which.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-23"
+    }
+  ],
+  "current_statement": "1771a016-67fc-45ab-a3e0-b04f0f63bc9e",
+  "status": "active",
+  "voice": "framework",
+  "defines": "macro level",
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "8360d34d-30cb-44f8-89c9-41768fb53f0d",
+        "locator": "Theory, Groupings",
+        "quote": "Micro elements can be grouped into macro elements spatially, temporally, or both."
+      }
+    ]
+  }
+}

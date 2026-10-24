@@ -1,0 +1,57 @@
+{
+  "record": "proposition",
+  "id": "0f3127b7-111d-4ede-94ce-f5704d7b864f",
+  "kind": "empirical",
+  "epistemic_status": "hypothesized",
+  "title": "Prediction: a superconducting toggle leaves a residual Casimir torque",
+  "statements": [
+    {
+      "id": "dc6f42ab-b4c2-4336-9922-5e6eb33c53e1",
+      "text": "In a torsion-balance Casimir apparatus, switching a plate through its superconducting transition leaves a state-correlated residual torque after the standard Casimir null model and nuisances are subtracted, measuring the dimensionless product $\\eta_1 \\Delta\\gamma_t$.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": "No residual differential signal remains after standard modeling and nuisance subtraction, which bounds $|\\eta_1 \\Delta\\gamma_t|$ at the achieved torque sensitivity, usually at 95 percent confidence.",
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "dc6f42ab-b4c2-4336-9922-5e6eb33c53e1",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": {
+    "resolution_criterion": "A torsion-balance Casimir measurement across a superconducting transition reports a nonzero state-correlated residual $\\eta_1 \\Delta\\gamma_t$ that survives the null checks, or an upper bound on it.",
+    "resolver": "specified_source",
+    "locked_at": "2026-03-22",
+    "outcome": null,
+    "resolved_at": null,
+    "observation": null
+  },
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "e564e66c-5c0a-442d-a31a-8df68b81634b",
+        "locator": "abstract",
+        "quote": "The resulting observable is the dimensionless product η1 ∆γt , extracted from differential torque measurements across the superconducting transition."
+      },
+      {
+        "source": "e564e66c-5c0a-442d-a31a-8df68b81634b",
+        "locator": "section 14",
+        "quote": "It need not be advertised as a refutation of the entire framework, but it does exclude part of its experimentally accessible parameter space and thereby sharpens the theory."
+      }
+    ]
+  }
+}

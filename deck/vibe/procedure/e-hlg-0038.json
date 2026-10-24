@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "15c13c6d-5a3c-409c-ac56-3e0e0af936be",
+  "title": "E-HLG-0038: the least cut in the bulk under a husk region is a volume, not an area, fail as derived (the route...",
+  "purpose": "Experiment E-HLG-0038 in the holography arena: the least cut in the bulk under a husk region is a volume, not an area, fail as derived (the route kill): on the true {3,4,3,4} mesh below a cusp (floor 17) the certified max flow from a husk cube of side R to the rest of the husk is 168, 1248, 4104, 9600, 18600 at R = 2 to 10, exactly 18 $R^3 + 6 R^2$, the 18 down links of every cell of the region plus its husk boundary, because the husk is the top layer and the bulk below only widens, so a minimal surface hugs the husk; with no bulk the same instrument reads the area 6 $R^2$, and a floor at level 9 cuts less at R = 10 (16,176), a floor artifact; no Ryu-Takayanagi area law under the cusp husk.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L1 (L1: known mathematics, correctly confirmed).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/holography/husk-least-cut.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-HLG-0038",
+        "quote": null
+      }
+    ]
+  }
+}

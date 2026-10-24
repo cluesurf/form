@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "2a5ed768-14a1-402c-8e02-d3c91b9f7790",
+  "title": "E-FLD-0016: the second law is coarse, not microscopic: the pair gas ordered into the left quarter of the box climbs...",
+  "purpose": "Experiment E-FLD-0016 in the fluids arena: the second law is coarse, not microscopic: the pair gas ordered into the left quarter of the box climbs from coarse entropy ln 3 to over ninety-five percent of the ln 12 maximum at two box sides under the reversible momentum-conserving collision, the beats where the coarse entropy drops are counted and reported (the reversible rule's mandatory fluctuations), the inverse run then recovers the ordered microstate with Hamming distance zero (Loschmidt's objection confirmed at the microlevel and dissolved at the coarse level), and the bounce-back control (reversible but transport-free) leaves the same ordered start breathing one column at the quarter boundary, its coarse entropy peak under a quarter of the dynamical rise.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L2 (L2: known physics reproduced on a stated model).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/fluids/second-law-coarse-entropy.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-FLD-0016",
+        "quote": null
+      }
+    ]
+  }
+}

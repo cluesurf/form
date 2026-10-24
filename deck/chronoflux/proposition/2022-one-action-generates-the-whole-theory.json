@@ -1,0 +1,45 @@
+{
+  "record": "proposition",
+  "id": "d6ca89fa-d669-4f0a-9f3e-61a3231a3630",
+  "kind": "mathematical",
+  "epistemic_status": "hypothesized",
+  "title": "2022: one action generates the whole theory with its consistency established",
+  "statements": [
+    {
+      "id": "ae5dfe7d-710e-44b3-9386-4641d6411c06",
+      "text": "A single action over a constrained temporal flow field, a temporal differential inertia tensor, an informational resistance scalar, gauge and matter fields generates the full field equations, with dimensional consistency, covariant conservation, hyperbolicity and energy positivity established.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "ae5dfe7d-710e-44b3-9386-4641d6411c06",
+  "status": "superseded",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "4f46c920-5181-4ca7-9948-e18ac35793e3",
+        "locator": "abstract",
+        "quote": "A single action generates the full Euler–Lagrange system. Dimensional consistency, covariant conservation, hyperbolicity under stated conditions, and energy positivity are established."
+      }
+    ]
+  }
+}

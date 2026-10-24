@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "4f0ded2e-54ac-4c18-bafb-cbe26cd13ed3",
+  "title": "E-FRC-0163: the confined point with the cooling moves: the covariant moves of E-FRC-0162 cool the coupled Sigma(648)...",
+  "purpose": "Experiment E-FRC-0163 in the gauge arena: the confined point with the cooling moves: the covariant moves of E-FRC-0162 cool the coupled Sigma(648) field and hold beta0 near 13 (13.0 to 13.6 across three starts), but on the D4 lattice that point is deconfined (Polyakov 0.20 to 0.26, chi(2,2) -0.031 +- 0.011), the field-borne potential rises (23, 37, 65 per slice) with no area law behind it, and the meson is frozen, so the physics gates fail.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L2 (L2: known physics reproduced on a stated model).",
+  "status": "completed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/gauge/sigma-cooled-string.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "research/result.ts R-FRC-0006",
+        "quote": null
+      }
+    ]
+  }
+}

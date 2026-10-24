@@ -1,0 +1,45 @@
+{
+  "record": "proposition",
+  "id": "d1eaabd6-721f-482e-84dc-d0bd2e6161e7",
+  "kind": "definitional",
+  "epistemic_status": "designed",
+  "title": "Self-evidencing",
+  "statements": [
+    {
+      "id": "744a279d-094a-4ea1-9edb-e1a4ffc2e5aa",
+      "text": "Self-evidencing names the reading of self-organization as maximizing the evidence for the model that a thing embodies. A thing that keeps its surprisal low is, in Bayesian terms, gathering evidence for its own existence.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-23"
+    }
+  ],
+  "current_statement": "744a279d-094a-4ea1-9edb-e1a4ffc2e5aa",
+  "status": "active",
+  "voice": "framework",
+  "defines": "self-evidencing",
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "951a63ba-fbb2-4b78-af38-52646f22dbe0",
+        "locator": "section 5.1",
+        "quote": "This licences a somewhat poetic description of self-organisation as self-evidencing"
+      }
+    ]
+  }
+}

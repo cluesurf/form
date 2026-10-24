@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "916bd8be-0d11-4721-b39d-45c4b42ccc36",
+  "title": "E-GMT-0012: the {3,4,3,4} flat space self-averages its light cone toward isotropy with scale while the cubic crystal...",
+  "purpose": "Experiment E-GMT-0012 in the geometry arena: the {3,4,3,4} flat space self-averages its light cone toward isotropy with scale while the cubic crystal stays anisotropic.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L2 (L2: known physics reproduced on a stated model).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/geometry/emergent-space-test.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-GMT-0012",
+        "quote": null
+      }
+    ]
+  }
+}

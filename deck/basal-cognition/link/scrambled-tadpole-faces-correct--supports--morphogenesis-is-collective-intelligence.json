@@ -1,0 +1,28 @@
+{
+  "record": "link",
+  "id": "bde78bd6-aac0-4289-acf1-aae3dd6d7306",
+  "from": "2cdadae2-049f-4998-88dd-00866414f182",
+  "to": "89ae12d1-c509-42fd-a88b-e4426a6a1d99",
+  "relation": "supports",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b00b8514-8503-4d8b-aba2-793b4bb55179",
+        "locator": "abstract",
+        "quote": "the shapes and relative positions of perturbed jaws and branchial arches were corrected during the first few months of tadpole development"
+      }
+    ]
+  }
+}

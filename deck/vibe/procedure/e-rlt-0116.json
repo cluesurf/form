@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "a0805d61-293b-466d-a664-59c96229682e",
+  "title": "E-RLT-0116: the bound register pair's lines at K 0.32, open (gates fixed before the run): filter diagonalization...",
+  "purpose": "Experiment E-RLT-0116 in the relativity arena: the bound register pair's lines at K 0.32, open (gates fixed before the run): filter diagonalization resolves twelve synthetic line branches exactly (axis 0 and 3.75e-3, body 0, 1.25e-3 and 5.0e-3), but the pair's K = 0 line (weight 0.82) has neighbors 3.1e-3 and 4.1e-3 away and mixes with them at this momentum, so the whole-line gate reads neither one band nor branches on the body diagonal (heaviest line 0.57, shift 1.72e-3 against 1.85e-3) and branches on the axis (0.27); no line stays near the K = 0 energy, where line branches with n . u = 0 would.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L2 (L2: known physics reproduced on a stated model).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/relativity/bound-pair-line-split.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-RLT-0116",
+        "quote": null
+      }
+    ]
+  }
+}

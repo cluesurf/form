@@ -1,0 +1,28 @@
+{
+  "record": "link",
+  "id": "a3a5dd09-1a2f-4757-ac61-de5a9d0ee565",
+  "from": "c1589994-5e87-4f77-9b1f-2544e48ffd7e",
+  "to": "2ddfd3a2-f36c-4b8e-aa39-04ff8f859c63",
+  "relation": "supports",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "6b561a36-4fe5-4c4f-8907-706c838f1641",
+        "locator": "abstract",
+        "quote": "This suggests other unique and useful phenotypes can be rapidly reached from wild-type organisms without selection or genetic engineering"
+      }
+    ]
+  }
+}

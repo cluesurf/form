@@ -1,0 +1,28 @@
+{
+  "record": "link",
+  "id": "59556fa8-c673-4776-8fb9-32ee7b111b7e",
+  "from": "4397b2ac-55a4-422f-a377-9a65f0ee8db5",
+  "to": "8f42382b-1b97-40c3-9a79-60a2eb5a9bba",
+  "relation": "requires",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "6498aca9-83cf-4905-a85a-3f5eb327c9e9",
+        "locator": "section I",
+        "quote": "is the amount of noise present in the network’s relationships"
+      }
+    ]
+  }
+}

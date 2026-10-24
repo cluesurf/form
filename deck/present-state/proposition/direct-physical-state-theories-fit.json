@@ -1,0 +1,60 @@
+{
+  "record": "proposition",
+  "id": "03f83c7c-0e31-45fd-a108-9409b614ce40",
+  "kind": "philosophical",
+  "epistemic_status": "inferred",
+  "title": "Field and quantum state theories fit the requirement",
+  "statements": [
+    {
+      "id": "d287c60e-aff0-4e95-b352-b8a9dd192ae5",
+      "text": "Direct physical-state theories satisfy the requirement: electromagnetic field theories attribute consciousness to presently instantiated field configurations or topologies, and some quantum proposals, including Orch OR and consciousness as a state of matter, support readings that attribute it to a presently instantiated quantum state.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "d287c60e-aff0-4e95-b352-b8a9dd192ae5",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "ac2774e1-a04c-4c89-9db2-7848c6f5ce0b",
+        "locator": "section 5.4",
+        "quote": "Direct physical-state theories naturally satisfy this requirement."
+      },
+      {
+        "source": "54efd4e2-f68d-47b6-8a57-4df25c018b15",
+        "locator": null,
+        "quote": null
+      },
+      {
+        "source": "b028f804-2b1c-4042-be7d-7c0768d5fbc2",
+        "locator": null,
+        "quote": null
+      },
+      {
+        "source": "0567598a-99d2-44d7-be66-803df59c87f0",
+        "locator": null,
+        "quote": null
+      }
+    ]
+  }
+}

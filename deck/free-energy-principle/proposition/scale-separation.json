@@ -1,0 +1,50 @@
+{
+  "record": "proposition",
+  "id": "7b294583-550f-449e-919a-bc11bab4f4a7",
+  "kind": "mathematical",
+  "epistemic_status": "inferred",
+  "title": "Self-evidencing at one scale becomes noise at the next",
+  "statements": [
+    {
+      "id": "53ee874a-2b1d-4532-9845-8e9c1e92f38a",
+      "text": "Particles at one scale exist only within a steady-state density at a higher scale that has Markov blankets of Markov blankets. Because of the separation of timescales, much of the self-evidencing at one scale appears as fast random fluctuation at the scale above.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-23"
+    }
+  ],
+  "current_statement": "53ee874a-2b1d-4532-9845-8e9c1e92f38a",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "951a63ba-fbb2-4b78-af38-52646f22dbe0",
+        "locator": "section 8",
+        "quote": "particles at one scale can only exist if there is a nonequilibrium steady-state density at a higher scale that entails Markov blankets of Markov blankets"
+      },
+      {
+        "source": "951a63ba-fbb2-4b78-af38-52646f22dbe0",
+        "locator": "section 8",
+        "quote": "much of the self-evidencing at one scale is absorbed into the fast, random fluctuations at the scale above"
+      }
+    ]
+  }
+}

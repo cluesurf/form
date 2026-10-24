@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "3022abbe-2f37-431e-a0a4-bfdab876265f",
+  "title": "E-FRC-0058: the Koide 45 degrees decomposes exactly into b/a = sqrt(2) (the traceless part of the square-root-mass...",
+  "purpose": "Experiment E-FRC-0058 in the gauge arena: the Koide 45 degrees decomposes exactly into b/a = sqrt(2) (the traceless part of the square-root-mass vector has equal norm to its democratic part, and sqrt(2) is the 24-cell / D4 characteristic ratio) plus a free phase delta = 2/9 radian, isolating the two numbers a geometric derivation must produce.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L1 (L1: known mathematics, correctly confirmed).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/gauge/koide-sqrt2-decomposition.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-FRC-0058",
+        "quote": null
+      }
+    ]
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "4d15c3aa-457f-4361-b606-5497bf9df550",
+  "title": "E-GRV-0126: the headroom light keeps its energy across E-GRV-0093's depth steps, but the gated bending read a cut...",
+  "purpose": "Experiment E-GRV-0126 in the gravity arena: the headroom light keeps its energy across E-GRV-0093's depth steps, but the gated bending read a cut window, fail on D3: on the radion's slab placed as rooms (C 243, reference 169 at D0, rooms 130 .. 143 on the path, 4 steps between the detectors) the kept energy of the rate-weighted leapfrog drifts 2.9e-14 over 3,600 beats against the control's 3.8393 percent (E-GRV-0093's own medium, reproduced to every digit), the unweighted form drifts 5.4 percent, both runs reverse bit for bit with 0 wraps; the bending read 0.644 because the slower reference light reached the far detector in the window's last 7 beats; a post reading over the scaled window, gating nothing, gives delay 607.8 against the eikonal 605.4 and bending 2.0069.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L2 (L2: known physics reproduced on a stated model).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/gravity/headroom-slab.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-GRV-0126",
+        "quote": null
+      }
+    ]
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "record": "proposition",
+  "id": "a95c565e-2ff4-47bd-8fa6-95290cc7a877",
+  "kind": "empirical",
+  "epistemic_status": "hypothesized",
+  "title": "Prediction: one shared parameter set survives every arena",
+  "statements": [
+    {
+      "id": "c4a5e42a-b34b-402f-8ddc-bcacc15aac3b",
+      "text": "A parameter derived by one action in every arena (gravitational-wave ringdowns, horizon-scale interferometry, supernova neutrinos, optical clocks, equivalence-principle tests, cosmology and pulsar timing) is recovered compatibly in each arena separately and survives independent data releases, with no arena borrowing significance from another.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": "An arena prefers a response incompatible with the claimed shared parameter (a model split), or a compulsory effect is excluded where the model declares it unavoidable.",
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "c4a5e42a-b34b-402f-8ddc-bcacc15aac3b",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": {
+    "resolution_criterion": "Independent pre-registered inferences in each arena recover the same shared parameter within the registered tolerance, and a later independent data release confirms it.",
+    "resolver": "specified_source",
+    "locked_at": "2026-07-14",
+    "outcome": null,
+    "resolved_at": null,
+    "observation": null
+  },
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "9fa9fb29-0013-440b-b0d5-57de1d1c2c72",
+        "locator": "abstract",
+        "quote": "A parameter may be shared only when one action or constitutive law derives its appearance in every participating map."
+      },
+      {
+        "source": "9fa9fb29-0013-440b-b0d5-57de1d1c2c72",
+        "locator": "section 13",
+        "quote": "A recovered branch is persistent when the same parameter authority, forward map and compatibility survive independent data releases, instruments or analysis teams within the registered tolerance."
+      }
+    ]
+  }
+}

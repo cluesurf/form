@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "b7221624-f4e2-4c8e-928d-08daa22f5564",
+  "title": "E-SPN-0121: a line mixer gated on a dock's one single dragging string keeps the vacuum exactly but cascades, fail...",
+  "purpose": "Experiment E-SPN-0121 in the spin arena: a line mixer gated on a dock's one single dragging string keeps the vacuum exactly but cascades, fail (S1b): M = (1 + w)/2 I + (1 - w)/2 G on the single's frame (the coin's phases on E-SPN-0094's frame mixer, move rate 21/64), gated on one single, a lone frame and string on the frame's eight links, is exact, unitary and an involution on every keyed path (0 slots off in two passes), and gates 0 vacuum docks, so the vacuum and vacuum-only boxes of side 4 and 8 run bit for bit; but every piece but the stream keeps each dock's single count exactly, while the stream leaves a vacuum vibe unpaired wherever matter blocks the vacuum's pairs, and the gate cannot tell such a vibe from the love (at rate 0 a lone love's run makes 22 single changes in 24 beats, all on its line; at rate 3, 942, net 938); the love-fear meson fills 4,089 to 4,096 of 4,096 docks by beat 128 on 16 of 16 terms (half the box at beats 26 to 32), as do a lone love (4,095 against 6 at rate 0), the trio, the two-hub start, rate 1 (theta pi/3), the string clause dropped and side 12 (20,732 of 20,736), with 4,738 of 6,144 mesh lines off the vacuum's tone; in a vacuum-free stand-in (E-SPN-0115's meson with the mixer, the register held link by link) the window of registers up to 6 links (407,601 classes) keeps 0.035 of the weight at beat 24 with the string and 0.065 without it, so the string does not hold the mixed pair there, though a hold past 13 links cannot be read and S2, S3, S4 stay undecided; rate 0 reproduces E-SPN-0115 (E 0.3188654375, m*/E_rest 1.79308) and E-SPN-0119 bit for bit.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L1 (L1: known mathematics, correctly confirmed).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/spin/string-gated-mixer.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-SPN-0121",
+        "quote": null
+      }
+    ]
+  }
+}

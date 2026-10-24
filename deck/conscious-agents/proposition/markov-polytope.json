@@ -1,0 +1,45 @@
+{
+  "record": "proposition",
+  "id": "1305fd0a-16b2-4d5b-a3c6-c42316067d7d",
+  "kind": "mathematical",
+  "epistemic_status": "inferred",
+  "title": "The Markov polytope",
+  "statements": [
+    {
+      "id": "f4139205-b783-4f5e-8c8e-2f262aea5adb",
+      "text": "The possible dynamics of n agents form an n(n-1)-dimensional polytope, the Markov polytope, with n to the n vertices.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-23"
+    }
+  ],
+  "current_statement": "f4139205-b783-4f5e-8c8e-2f262aea5adb",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "2207dc33-f8a8-469f-99b2-286f1139ed74",
+        "locator": "abstract and section 5",
+        "quote": "The possible dynamics of n agents form an n(n−1)-dimensional polytope"
+      }
+    ]
+  }
+}

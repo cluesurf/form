@@ -1,0 +1,45 @@
+{
+  "record": "proposition",
+  "id": "3f9f8f19-dca3-48b5-afad-f260ff7b9546",
+  "kind": "empirical",
+  "epistemic_status": "inferred",
+  "title": "Workspace signatures can detect consciousness in patients",
+  "statements": [
+    {
+      "id": "9ad03b79-0226-4c9e-8bf3-a978b34fae57",
+      "text": "The objective signatures of conscious access, such as the P3b to a global violation of an auditory regularity, can be used to detect residual conscious processing in noncommunicating patients.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-23"
+    }
+  ],
+  "current_statement": "9ad03b79-0226-4c9e-8bf3-a978b34fae57",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "2374e38b-3bde-4e20-9ad5-8edab14a34c3",
+        "locator": "Coma and vegetative state",
+        "quote": "The objective neural measures of conscious processing demonstrated earlier in this review should be applicable to the difficult clinical problem of detecting consciousness in noncommunicating patients."
+      }
+    ]
+  }
+}

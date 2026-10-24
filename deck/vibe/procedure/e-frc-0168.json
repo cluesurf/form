@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "61c5fa12-36a5-4409-af98-532f641e6522",
+  "title": "E-FRC-0168: the U(1) link sector read on the husk, the cubic horosphere of the {3,4,3,4} cusp: summing the bulk...",
+  "purpose": "Experiment E-FRC-0168 in the gauge arena: the U(1) link sector read on the husk, the cubic horosphere of the {3,4,3,4} cusp: summing the bulk links over each column of the depth keeps Gauss's law on the husk with the column charge at every dock and beat, turns a bulk frame change into a husk frame change, and is run by an exact 3D rule on fields constant along the depth, while restricting to one sheet breaks Gauss's law; of the bulk's 3 photon polarizations it keeps 2 and kills the one odd under the depth reflection.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L2 (L2: known physics reproduced on a stated model).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/gauge/photon-husk.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-FRC-0168",
+        "quote": null
+      }
+    ]
+  }
+}

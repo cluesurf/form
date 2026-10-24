@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "3f6fd14f-cd90-4c8a-b0c2-a96c1a5e7125",
+  "title": "E-FRC-0173: magnetism on the husk: a steady current loop's projected field against the lattice Biot-Savart law, no...",
+  "purpose": "Experiment E-FRC-0173 in the gauge arena: magnetism on the husk: a steady current loop's projected field against the lattice Biot-Savart law, no Lorentz force on the knit's phaseless vibes, an exact Aharonov-Bohm fringe shift for the fear walk round a thin flux tube where the husk field on its path is zero, and monopoles rare in the Coulomb phase and dense past the transition, in the bulk and on the husk.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L2 (L2: known physics reproduced on a stated model).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/gauge/husk-magnetism.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-FRC-0173",
+        "quote": null
+      }
+    ]
+  }
+}

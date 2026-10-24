@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "1c91a237-7625-4742-9905-df3dc331aa5e",
+  "title": "E-FRC-0132: the waiting-slot rule built as the path argued it (two waiting slots per cell, a returning orientation...",
+  "purpose": "Experiment E-FRC-0132 in the gauge arena: the waiting-slot rule built as the path argued it (two waiting slots per cell, a returning orientation, local color, a paid clock and a paid move) is exact in every structural gate, but a charge that cannot pay cannot wait: in a cell where no direction can be paid, 12 of the 13 places a lone charge can be in must cross unpaid, for any number of waiting slots, so its demons go into debt.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L2 (L2: known physics reproduced on a stated model).",
+  "status": "completed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/gauge/waiting-slots.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "research/result.ts R-FRC-0006",
+        "quote": null
+      }
+    ]
+  }
+}

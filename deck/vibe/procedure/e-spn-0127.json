@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "78ef5519-2601-4ad7-957e-e079b0b1ae95",
+  "title": "E-SPN-0127: the bulk adds no 3d motion, the husk being the bulk's shadow, fail (B1, B3) at L1 as derived: the husk...",
+  "purpose": "Experiment E-SPN-0127 in the spin arena: the bulk adds no 3d motion, the husk being the bulk's shadow, fail (B1, B3) at L1 as derived: the husk reading pi drops the depth, maps D4 onto $Z^3$ with fibers of L docks and commutes with the stream on every slot (0 of 98,304 off at side 8), so 12 bulk line classes cast 9 husk directions (the 6 depth classes two to one onto the axes), each face-diagonal husk line carrying 8 bulk lines and each axis 16; K without the vacuum changes a line's shadow (156 of 264 two-single dockings swap a vibe onto a line of another shadow, 552 of 992 three-single firings change the shadow set) but only at its own dock, so the star theorem is a bulk theorem that projection keeps (12 star lines onto 9 husk lines, no dock over pi(X) on the star); a bound pair's husk velocity is pi of its bulk velocity, which lies in the intersection of its lines' spans, so no bound composite can move off its members' shadows: E-SPN-0110's love and fear on six bulk line pairs (h60, the depth pairs xy60, xz60, yz60 whose bisector casts a face diagonal no member has, xy120, and xx90, two classes of one shadow) held exactly (tail 7.2e-5, fidelity 1 - 9e-14) and boosted to pi/2 move 2.7e-4 to 5.7e-4 docks a beat off their shadows against the 1e-2 threshold (the four 60-degree pairs read the same numbers, being W(D4) images of one another), 0 movers; one bulk class moves 5.5 docks along its shadow with 0 off it, and two free vibes read 0.118 off both shadows but come apart (tail 0.99); in the working knit every pair at X keeps the vacuum off its star (0 readings, B2), E-SPN-0119's trio and a depth trio stay pinned, and two hubs stacked over one husk point (X and X + (0,0,0,2), whose stars cross at 6 bulk docks) cascade over 4,083 of 4,096 docks: a husk region shared by two bulk hubs is E-SPN-0120's two-hub cascade, not a mover.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L1 (L1: known mathematics, correctly confirmed).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/spin/bulk-shadow-turn.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-SPN-0127",
+        "quote": null
+      }
+    ]
+  }
+}

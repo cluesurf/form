@@ -1,0 +1,28 @@
+{
+  "record": "link",
+  "id": "6114eaec-8f3f-4fbe-946a-b8f4ecb8b00a",
+  "from": "01aab6ed-e7e7-444e-8dd2-37397cf9f223",
+  "to": "1742bbfe-92c2-4298-aa13-2df7e20acb32",
+  "relation": "answers",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "fd7382f9-52a5-4beb-9680-fc341ff15b98",
+        "locator": "section Philosophical Foundations of an Approach to Diverse Intelligences",
+        "quote": "The goal is to produce a framework that drives experimental research programs, not only philosophical debate"
+      }
+    ]
+  }
+}

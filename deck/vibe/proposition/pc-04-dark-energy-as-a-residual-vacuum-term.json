@@ -1,0 +1,50 @@
+{
+  "record": "proposition",
+  "id": "c2805a22-8c98-47e3-a53f-70f180b708a3",
+  "kind": "empirical",
+  "epistemic_status": "hypothesized",
+  "title": "PC-04: dark energy as a residual vacuum term of the substrate",
+  "statements": [
+    {
+      "id": "704266e3-6693-4cd5-b2b8-e8fc659ca996",
+      "text": "Dark energy as a residual vacuum term of the substrate.",
+      "language": "en",
+      "scope": "a prediction candidate, not a frozen prediction row",
+      "conditions": "Where it stands: E-CSM-0027 gives a constant expansion ratio, a qualitative $w = -1$. No equation of state is derived. What it needs: $w(z)$ from the rule, to set beside the DESI measurements.",
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-22"
+    }
+  ],
+  "current_statement": "704266e3-6693-4cd5-b2b8-e8fc659ca996",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": {
+    "value": "open",
+    "reason": "a candidate: it has not passed the prediction gate",
+    "basis": [],
+    "proposal": null
+  },
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "research/prediction.ts PC-04",
+        "quote": null
+      }
+    ]
+  }
+}

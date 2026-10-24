@@ -1,0 +1,28 @@
+{
+  "record": "link",
+  "id": "903b5c06-432e-4200-a8b7-cba74f2821d5",
+  "from": "c9dde85b-c378-4106-97e2-729ac044e37d",
+  "to": "370ed606-0e59-4b85-9d66-27f4949e750c",
+  "relation": "requires",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "9b21a09b-835f-4256-afbf-19425df2597e",
+        "locator": "abstract",
+        "quote": "An information becomes conscious, however, if the neural population that represents it is mobilized by top-down attentional amplification into a brain-scale state of coherent activity"
+      }
+    ]
+  }
+}

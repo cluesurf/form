@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "d221294e-a156-4582-9616-ea097822c85e",
+  "title": "E-HLG-0031: the celestial sphere is the massless asymptotic boundary of the substrate, and the...",
+  "purpose": "Experiment E-HLG-0031 in the holography arena: the celestial sphere is the massless asymptotic boundary of the substrate, and the massless-versus-massive split is boost-invariant.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L2 (L2: known physics reproduced on a stated model).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/holography/celestial-massless-boundary.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-HLG-0031",
+        "quote": null
+      }
+    ]
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "04a79a50-36d9-4f29-81dd-4d74df744f17",
+  "title": "E-FND-0085: the $Z_3$ amplitude of the charge rule interferes between defects made in different beats of the vacuum...",
+  "purpose": "Experiment E-FND-0085 in the foundations arena: the $Z_3$ amplitude of the charge rule interferes between defects made in different beats of the vacuum clock: a hole made in the (+1,-1) beat carries the negated, one-beat-offset phase cycle of a tone made in the empty beat (relative phase 60 or 300 degrees, cross term half of maximal), a flipped slot reaches relative phase 120 degrees with a negative cross term, amplitudes add exactly and the cross term is 2|A||B| cos of the relative phase at every beat, while under the momentum rule, which has no clock, every relative phase is one constant for all time.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L2 (L2: known physics reproduced on a stated model).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/foundations/birth-beat-interference.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-FND-0085",
+        "quote": null
+      }
+    ]
+  }
+}

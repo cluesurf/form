@@ -1,0 +1,45 @@
+{
+  "record": "proposition",
+  "id": "9ecfecae-0f65-4348-a44f-5eb40931b4ee",
+  "kind": "philosophical",
+  "epistemic_status": "inferred",
+  "title": "Consciousness is due to what a system is, not what it has done",
+  "statements": [
+    {
+      "id": "2ddd1d28-9a79-4414-9cac-e71d81704b02",
+      "text": "Processes may explain how a conscious state arose, but cannot remain independently constitutive once the state is fixed. Consciousness is due not to what a system has done, but to what it is.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "2ddd1d28-9a79-4414-9cac-e71d81704b02",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "ac2774e1-a04c-4c89-9db2-7848c6f5ce0b",
+        "locator": "section 6",
+        "quote": "Processes may explain how that state arose, but cannot remain independently constitutive once the state is fixed. Consciousness is due not to what a system has done, but what it is."
+      }
+    ]
+  }
+}

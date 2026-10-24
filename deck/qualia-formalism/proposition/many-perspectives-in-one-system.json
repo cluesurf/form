@@ -1,0 +1,45 @@
+{
+  "record": "proposition",
+  "id": "3d5ddc51-1c91-43b6-95a6-f2b198782308",
+  "kind": "empirical",
+  "epistemic_status": "hypothesized",
+  "title": "Many perspectives can exist in one system",
+  "statements": [
+    {
+      "id": "dd627782-1a25-4b82-b575-bcd64c323359",
+      "text": "One physical system may hold many separate first person perspectives at once, from dozens to billions.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-23"
+    }
+  ],
+  "current_statement": "dd627782-1a25-4b82-b575-bcd64c323359",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "9359bfc1-6fff-41a8-8d7c-91af2f730b74",
+        "locator": "section 4.3.2",
+        "quote": "dozens or billions of these in any one system"
+      }
+    ]
+  }
+}

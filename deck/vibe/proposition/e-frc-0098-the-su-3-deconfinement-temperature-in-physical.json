@@ -1,0 +1,50 @@
+{
+  "record": "proposition",
+  "id": "dbef85b5-4568-47e4-9f70-53046774d79f",
+  "kind": "empirical",
+  "epistemic_status": "simulated",
+  "title": "E-FRC-0098: the SU(3) deconfinement temperature in physical units: on $N_t = 4$ the transition sits at the published...",
+  "statements": [
+    {
+      "id": "42cb983e-e4e3-421e-bc9c-aae43d5a26c5",
+      "text": "The SU(3) deconfinement temperature in physical units: on $N_t = 4$ the transition sits at the published beta 5.69, and with the Sommer scale $T_c$ r0 comes out at the published 0.75, near 300 MeV.",
+      "language": "en",
+      "scope": "experiment E-FRC-0098, arena gauge, depth L2 (L2: known physics reproduced on a stated model)",
+      "conditions": "substrates: any. In a paper: false",
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-22"
+    }
+  ],
+  "current_statement": "42cb983e-e4e3-421e-bc9c-aae43d5a26c5",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": {
+    "value": "open",
+    "reason": "holds in the vibe claim graph",
+    "basis": [],
+    "proposal": null
+  },
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "research/result.ts R-FRC-0001",
+        "quote": null
+      }
+    ]
+  }
+}

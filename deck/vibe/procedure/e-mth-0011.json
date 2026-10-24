@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "94d79629-f643-4760-a586-a23855930365",
+  "title": "E-MTH-0011: a witness for the Hermitian eigensolver built on matrices whose eigenspaces are known in advance: every...",
+  "purpose": "Experiment E-MTH-0011 in the method arena: a witness for the Hermitian eigensolver built on matrices whose eigenspaces are known in advance: every degenerate eigenspace, threefold and fourfold, complex and real, is spanned by orthonormal eigenvectors, and the Newton matrix sign squares to the identity and agrees with the eigenvector sign, where the pre-fix solver fails the same checks on most degenerate matrices.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L1 (L1: known mathematics, correctly confirmed).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/method/hermitian-eigenspace-witness.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-MTH-0011",
+        "quote": null
+      }
+    ]
+  }
+}

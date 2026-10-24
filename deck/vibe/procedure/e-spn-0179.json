@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "d395e4c1-51cd-486b-9a36-57a6b3b70ee1",
+  "title": "E-SPN-0179: a register pair pulled from its knot still comes back with roles and the fear beat on (C*, E-FND-0160)...",
+  "purpose": "Experiment E-SPN-0179 in the spin arena: a register pair pulled from its knot still comes back with roles and the fear beat on (C*, E-FND-0160), pass: a love-fear pair's role space splits into the singlet, where the fear beat adds a phase at V = 0, and its complement, which is E-SPN-0178's run to the last digit; on the singlet channel the pair pulled to 8 or 10 swings back into the knot region (late means 0.187 and 0.095, against 0.230 and 0.102 without the fear beat) and stays held (norm to 4e-10, 8e-6 past V0 + 10), while the same pull with no string leaves (norm 0.387 and 0.392, late 0.019 and 0.020); the returning pair's roles grow entangled and contextual as it keeps meeting (|g| to 0.850, CHSH 2.023, least context sum 3.849).",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L2 (L2: known physics reproduced on a stated model).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/spin/pulled-pair-fear.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-SPN-0179",
+        "quote": null
+      }
+    ]
+  }
+}

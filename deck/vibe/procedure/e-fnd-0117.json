@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "3bfbe2f8-2247-4da3-955f-7751f26afc7e",
+  "title": "E-FND-0117: the palindromic turning weave is a searched CPT-exact candidate for gauge universality: the cyclic...",
+  "purpose": "Experiment E-FND-0117 in the foundations arena: the palindromic turning weave is a searched CPT-exact candidate for gauge universality: the cyclic two-clock schedule connects all twelve species but has no CPT partner anywhere in the 384-element torus group at any phase (the control), while making the schedule a palindrome and sweeping the mirror phases and swap order yields a design (order zero-two-three-one-four-five, element one-forty-eight, period twenty-four) whose CPT is exact under pure charge conjugation with time reversal at the mirror phase and identity spatial parity, whose swap edges cover and connect all twelve lines with twenty-one of twenty-four directions measurably interacting, and under which echo, charge conservation, separated superposition and the exact vacuum periodicity all carry.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L2 (L2: known physics reproduced on a stated model).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/foundations/palindromic-turning-weave.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-FND-0117",
+        "quote": null
+      }
+    ]
+  }
+}

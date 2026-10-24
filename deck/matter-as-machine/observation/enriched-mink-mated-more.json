@@ -1,0 +1,39 @@
+{
+  "record": "observation",
+  "id": "16fc5cd1-eed6-401d-84ea-3621b4d0c48c",
+  "kind": "documentary_record",
+  "epistemic_status": "observed",
+  "description": "The self-selection page reports an experiment with American mink in which males raised in enriched enclosures mated more often than males raised in barren ones.",
+  "method": "document_review",
+  "status": "reported",
+  "source": "c01a576c-01a5-46ae-8a4e-5fed54687b5c",
+  "procedure": null,
+  "variable": null,
+  "value": null,
+  "unit": null,
+  "uncertainty": null,
+  "sample_size": null,
+  "replication_count": null,
+  "quality": null,
+  "limitations": "The page notes the experiment changed several things at once, so it does not show which behavior mattered or whether the animals experienced anything like depression. The cited paper was not opened for this record.",
+  "conflicts_of_interest": null,
+  "observed_at": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "c01a576c-01a5-46ae-8a4e-5fed54687b5c",
+        "locator": "Direct: Depression",
+        "quote": "Males raised in enriched enclosures mated more often than males raised in barren ones."
+      }
+    ]
+  }
+}

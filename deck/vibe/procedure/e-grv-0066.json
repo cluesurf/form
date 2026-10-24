@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "59283258-aea9-4c7c-a1aa-f8a06276fa72",
+  "title": "E-GRV-0066: growth never enters the husk dynamics, and the simplest occupancy-gated wake keeps every law where...",
+  "purpose": "Experiment E-GRV-0066 in the gravity arena: growth never enters the husk dynamics, and the simplest occupancy-gated wake keeps every law where occupancy is uniform, pass: the adopted knit's stream is a permutation of the closed box (side 16, 3 starts) and runs a crowd 12 beats forward and back to the bit, so no beat reads a dock's birth; the knit cannot run unchanged on a growing region, whose edge has 24, 360, 1560, 4200, 8856, 16104, 26520, 40680 slots taking from unborn docks at beats 0 to 7; the rule (a born dock opens onto its unborn neighbors 1 + max(0, E - 32) beats after its birth) equals the plain wake on the vacuum (dock energy at most 24), runs at exactly 17 beats a shell at full occupancy, gives the same birth at every dock for a crowd and its charge flip, and delays births in and near a crowd by up to 17 beats; growth happens only at the open edge and the knit beats every born dock alike, so the gate can shift a dock's birth and cannot change its clock rate.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L2 (L2: known physics reproduced on a stated model).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/gravity/gated-wake-rule.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-GRV-0066",
+        "quote": null
+      }
+    ]
+  }
+}

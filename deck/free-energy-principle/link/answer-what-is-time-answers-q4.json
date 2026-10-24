@@ -1,0 +1,28 @@
+{
+  "record": "link",
+  "id": "a919582e-a84c-4662-868f-a6850f794574",
+  "from": "8f8f3fe2-996c-4f0a-8a7e-b28b6ac1aa0b",
+  "to": "3c1c5e6b-2943-4810-baf8-d48f72c4e148",
+  "relation": "answers",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "951a63ba-fbb2-4b78-af38-52646f22dbe0",
+        "locator": "section 2",
+        "quote": "This means that time and causality are baked into everything that follows"
+      }
+    ]
+  }
+}

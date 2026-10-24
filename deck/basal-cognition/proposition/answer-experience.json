@@ -1,0 +1,45 @@
+{
+  "record": "proposition",
+  "id": "41553202-658b-4adf-80bd-4de685bf7f97",
+  "kind": "philosophical",
+  "epistemic_status": "hypothesized",
+  "title": "Answer: experience is graded and follows goal-directed activity",
+  "statements": [
+    {
+      "id": "f75d7255-5be2-4a1d-bf4d-f78b9c34a061",
+      "text": "Experience is neither all-or-nothing nor limited to brains. It accompanies goal-directed processes in any space, in degrees set by the system's causal and cybernetic structure.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-23"
+    }
+  ],
+  "current_statement": "f75d7255-5be2-4a1d-bf4d-f78b9c34a061",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "fd7382f9-52a5-4beb-9680-fc341ff15b98",
+        "locator": "section Consciousness",
+        "quote": "TAME's perspective is fundamentally that of the primacy of goal-directed activity"
+      }
+    ]
+  }
+}

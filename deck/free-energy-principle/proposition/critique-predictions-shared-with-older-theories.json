@@ -1,0 +1,45 @@
+{
+  "record": "proposition",
+  "id": "51f60b73-3e96-458f-8461-c020adfdc886",
+  "kind": "philosophical",
+  "epistemic_status": "inferred",
+  "title": "Critique: much of its brain content is shared with older theories",
+  "statements": [
+    {
+      "id": "76834740-57eb-4d92-9ce6-6c48da5ae1be",
+      "text": "As a theory of the brain the principle is closely related to, and partly subsumes, Bayesian inference, predictive coding and active learning, so its distinctive predictions must be separated from those it shares with them.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-23"
+    }
+  ],
+  "current_statement": "76834740-57eb-4d92-9ce6-6c48da5ae1be",
+  "status": "active",
+  "voice": "critique",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "bc61a709-0bb0-4198-8fb1-8f94617b11f1",
+        "locator": "abstract (arXiv record)",
+        "quote": "It is closely related, and in some cases subsumes, earlier unifying ideas such as Bayesian inference, predictive coding, and active learning."
+      }
+    ]
+  }
+}

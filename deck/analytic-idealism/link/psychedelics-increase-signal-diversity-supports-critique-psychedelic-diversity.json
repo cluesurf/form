@@ -1,0 +1,28 @@
+{
+  "record": "link",
+  "id": "24583f41-1589-4923-aef7-0f4048fafae8",
+  "from": "279da389-4889-4d51-baa0-0106a9539d62",
+  "to": "12b17b28-1233-4154-a60a-b71f76924703",
+  "relation": "supports",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "58ed1a4e-78af-4959-8094-69f7e9122026",
+        "locator": "abstract",
+        "quote": "For all three, we find reliably higher spontaneous signal diversity, even when controlling for spectral changes."
+      }
+    ]
+  }
+}

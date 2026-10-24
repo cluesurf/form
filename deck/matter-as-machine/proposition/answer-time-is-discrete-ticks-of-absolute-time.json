@@ -1,0 +1,50 @@
+{
+  "record": "proposition",
+  "id": "3eeb0d94-9a97-405e-8edf-d55694484cfa",
+  "kind": "philosophical",
+  "epistemic_status": "hypothesized",
+  "title": "Answer: time is discrete ticks of absolute time",
+  "statements": [
+    {
+      "id": "8d0be7b9-a01d-42c1-bb4c-8c59893a3944",
+      "text": "Time is absolute and comes in discrete ticks, one executed state per tick. A moving clock ticks slower than absolute time, by $(c - v)/c$ for a source moving at $v$, a slowdown the model ties to inertia.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "8d0be7b9-a01d-42c1-bb4c-8c59893a3944",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "f1f9bdb8-14c9-4c62-9e48-01ecc2870699",
+        "locator": "opening",
+        "quote": "moves in the corresponding direction of space by the same discrete distance on each tick of time."
+      },
+      {
+        "source": "ce59e052-9c70-46a0-8b8d-89266cb60dd8",
+        "locator": "Motivation",
+        "quote": "particles execute instructions in shared absolute space and time."
+      }
+    ]
+  }
+}

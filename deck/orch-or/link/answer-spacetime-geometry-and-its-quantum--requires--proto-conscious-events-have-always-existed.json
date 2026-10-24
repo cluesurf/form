@@ -1,0 +1,28 @@
+{
+  "record": "link",
+  "id": "e01a90ff-f2a6-4036-8ac7-72e71f9ddaa5",
+  "from": "e61d68f3-d924-49a3-bbcf-cc60eb49123f",
+  "to": "f56dab04-6b73-4361-be6b-38d338bc3c94",
+  "relation": "requires",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "c0602528-f093-4705-abc3-e13d7657a680",
+        "locator": "section 1, option (C)",
+        "quote": "These events are proposed specifically to be moments of quantum state reduction (intrinsic quantum “self-measurement”)."
+      }
+    ]
+  }
+}

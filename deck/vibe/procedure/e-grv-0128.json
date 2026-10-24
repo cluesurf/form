@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "26b186ca-6cc1-4049-a749-0d260875a291",
+  "title": "E-GRV-0128: on a window fixed in advance by the headroom light's own speed, E-GRV-0126's slab bends light by 2.0069...",
+  "purpose": "Experiment E-GRV-0128 in the gravity arena: on a window fixed in advance by the headroom light's own speed, E-GRV-0126's slab bends light by 2.0069, pass: ceil(3600 C / k0) + 64 = 5,241 beats (C 243, k0 169; the -x half wraps to the far detector only at 6,536), the slab's packet reaches x = 120 at 4,006, delayed 607.8 beats against the eikonal 605.4, bending 2.00693 with matter's measured clock (gate 2 within 1 percent); the kept energy drifts 2.9e-14 (gate 1e-8) against the control's 3.8393 percent, E-GRV-0093's own medium reproduced to every digit, the unweighted form 5.4 percent; both runs reverse bit for bit with 0 wraps and 0 Gauss violations; E-GRV-0126's gates unchanged.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L2 (L2: known physics reproduced on a stated model).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/gravity/headroom-slab-window.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-GRV-0128",
+        "quote": null
+      }
+    ]
+  }
+}

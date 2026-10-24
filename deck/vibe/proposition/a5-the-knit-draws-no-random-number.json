@@ -1,0 +1,50 @@
+{
+  "record": "proposition",
+  "id": "8970bc1c-5af7-42e4-a7e5-8d752dba9174",
+  "kind": "empirical",
+  "epistemic_status": "hypothesized",
+  "title": "A5: the knit draws no random number",
+  "statements": [
+    {
+      "id": "6237d34d-ba42-4229-9427-d60e62321dfd",
+      "text": "The knit draws no random number.",
+      "language": "en",
+      "scope": "a committed choice of the vibe program",
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-22"
+    }
+  ],
+  "current_statement": "6237d34d-ba42-4229-9427-d60e62321dfd",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": {
+    "value": "open",
+    "reason": "holds in the vibe claim graph",
+    "basis": [],
+    "proposal": null
+  },
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "research/node.ts A5",
+        "quote": null
+      }
+    ]
+  }
+}

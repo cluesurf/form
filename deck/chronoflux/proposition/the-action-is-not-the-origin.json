@@ -1,0 +1,45 @@
+{
+  "record": "proposition",
+  "id": "a6008bfe-29df-4f00-9298-01136b170cce",
+  "kind": "mathematical",
+  "epistemic_status": "inferred",
+  "title": "The action is a completion of continuity, not its origin",
+  "statements": [
+    {
+      "id": "7c56e7df-c03e-46ed-8c0c-30d5d28eec07",
+      "text": "Many inequivalent variational completions return the same continuity equation while giving different downstream dynamics, so an action represents and completes the primitive law rather than being its unique source.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "7c56e7df-c03e-46ed-8c0c-30d5d28eec07",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "27a9fcd8-78d2-4f0f-9a16-95edf37f72dc",
+        "locator": "abstract",
+        "quote": "A family of inequivalent variational completions returns the same continuity equation while producing different descendant dynamics. As such, the action is a representation and completion of the primitive, not its unique origin."
+      }
+    ]
+  }
+}

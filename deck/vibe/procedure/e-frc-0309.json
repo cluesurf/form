@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "7b35be6f-b8a6-4b91-b126-167f12a8db4b",
+  "title": "E-FRC-0309: explores whether any constant-free coin from R*s slot-harmonic and Clifford projectors could give a...",
+  "purpose": "Experiment E-FRC-0309 in the gauge arena: explores whether any constant-free coin from R*s slot-harmonic and Clifford projectors could give a cageable front.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L2 (L2: known physics reproduced on a stated model).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/gauge/coin-census.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-FRC-0309",
+        "quote": null
+      }
+    ]
+  }
+}

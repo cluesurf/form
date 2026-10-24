@@ -1,0 +1,45 @@
+{
+  "record": "proposition",
+  "id": "265d70a5-5c90-4baa-bd37-9301ef1233bd",
+  "kind": "definitional",
+  "epistemic_status": "designed",
+  "title": "The decombination problem",
+  "statements": [
+    {
+      "id": "bf9e11de-65c6-4139-bc75-66637557d18b",
+      "text": "The decombination problem is the problem, for any view that starts from a conscious cosmos, of how seemingly separate lower-level subjects with private points of view form within it.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-23"
+    }
+  ],
+  "current_statement": "bf9e11de-65c6-4139-bc75-66637557d18b",
+  "status": "active",
+  "voice": "framework",
+  "defines": "decombination problem",
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "9c8de529-0562-4ede-9748-a99db6ec0056",
+        "locator": "section 6, p. 134",
+        "quote": "the ‘decombination problem’ (also called the ‘decomposition problem’ in Chalmers, 2016a): how do seemingly separate lower-level subjects — which, from now on, I shall follow Shani (2015, p. 415) in referring to as ‘relative subjects’ — form within the conscious cosmos?"
+      }
+    ]
+  }
+}

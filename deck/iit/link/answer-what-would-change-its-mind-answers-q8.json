@@ -1,0 +1,28 @@
+{
+  "record": "link",
+  "id": "e8c66460-24a1-4315-9630-a28809110d6d",
+  "from": "5b263ab1-ac76-444c-82ab-eacaa2968c7a",
+  "to": "1742bbfe-92c2-4298-aa13-2df7e20acb32",
+  "relation": "answers",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b84809ac-0650-4173-b863-4ba1c946fcca",
+        "locator": "section on prediction 3 (full text)",
+        "quote": "IIT would be challenged in the absence of sustained content-specific synchronization between face–object selective areas and V1/V2"
+      }
+    ]
+  }
+}

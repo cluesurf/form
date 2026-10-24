@@ -1,0 +1,45 @@
+{
+  "record": "proposition",
+  "id": "8df47f5b-142c-47cf-aaf2-e2d4f0ce8260",
+  "kind": "empirical",
+  "epistemic_status": "hypothesized",
+  "title": "Selves are not fixed",
+  "statements": [
+    {
+      "id": "d3513018-fbd7-4db9-b7f2-a7026dadc5f8",
+      "text": "Selves are not fixed, permanent agents. Their substrate can remodel radically during a lifetime, and the owner of memories and preferences changes with it.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-23"
+    }
+  ],
+  "current_statement": "d3513018-fbd7-4db9-b7f2-a7026dadc5f8",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "fd7382f9-52a5-4beb-9680-fc341ff15b98",
+        "locator": "Table 1",
+        "quote": "Selves are not fixed, permanent agents"
+      }
+    ]
+  }
+}

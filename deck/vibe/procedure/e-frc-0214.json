@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "6bf1a44e-ddca-441b-9df9-a459c4d6bd62",
+  "title": "E-FRC-0214: smooth hops: the integer light's heating after a charge's hop is its last carry's remainder pushing the...",
+  "purpose": "Experiment E-FRC-0214 in the gauge arena: smooth hops: the integer light's heating after a charge's hop is its last carry's remainder pushing the shadow angle, and with the carries shaped level after level (the wave form applied to its own spatial term, three levels, 7 counters of D trits per husk triangle) a trit charge hopping on one link radiates the linear light's field, coherent gain 1 and energy within a tenth of a percent at D = 16.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L2 (L2: known physics reproduced on a stated model).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/gauge/trit-smooth-hop.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-FRC-0214",
+        "quote": null
+      }
+    ]
+  }
+}

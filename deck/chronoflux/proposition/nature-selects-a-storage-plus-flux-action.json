@@ -1,0 +1,50 @@
+{
+  "record": "proposition",
+  "id": "d504395f-5c2a-4941-95ff-4891dbe54c20",
+  "kind": "normative",
+  "epistemic_status": "hypothesized",
+  "title": "The realized evolution minimizes a storage-plus-flux action",
+  "statements": [
+    {
+      "id": "399a6d77-351a-4c6a-af04-955dee5f29f6",
+      "text": "Among admissible evolutions, the realized one is assumed to minimize an action $S[C, J] = \\int \\int (\\Phi(C) + \\tfrac{1}{2} J^\\top M(C)^{-1} J) \\, dx \\, dt$, with a storage functional $\\Phi$ and a positive definite mobility $M$.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "399a6d77-351a-4c6a-af04-955dee5f29f6",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "38659bbd-cda2-44e6-9106-3928f8d37934",
+        "locator": "section 2.5",
+        "quote": "Among all admissible evolutions, the realised evolution is assumed to minimise an action"
+      },
+      {
+        "source": "38659bbd-cda2-44e6-9106-3928f8d37934",
+        "locator": "section 2.5",
+        "quote": "where M (C) is a positive definite mobility and Φ(C) is a storage functional."
+      }
+    ]
+  }
+}

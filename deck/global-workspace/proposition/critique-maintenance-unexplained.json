@@ -1,0 +1,45 @@
+{
+  "record": "proposition",
+  "id": "bd661fea-f471-4045-8e2c-eca1b09fe273",
+  "kind": "empirical",
+  "epistemic_status": "inferred",
+  "title": "Critique: GNWT leaves the maintenance of a percept unexplained",
+  "statements": [
+    {
+      "id": "ebe64f02-4017-4653-964c-b447ba05d0fa",
+      "text": "Because no ignition followed stimulus offset although conscious content changed at that moment, the maintenance of a conscious percept over time remains unexplained within the GNWT framework.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-23"
+    }
+  ],
+  "current_statement": "ebe64f02-4017-4653-964c-b447ba05d0fa",
+  "status": "active",
+  "voice": "critique",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "dbe9b66c-4ffb-4615-9fd2-aa5c75424db8",
+        "locator": "Discussion",
+        "quote": "Thus, that aspect of consciousness remains unexplained within the GNWT framework."
+      }
+    ]
+  }
+}

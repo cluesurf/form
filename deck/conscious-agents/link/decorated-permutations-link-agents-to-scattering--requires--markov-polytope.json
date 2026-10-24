@@ -1,0 +1,28 @@
+{
+  "record": "link",
+  "id": "5eb77189-526e-4ee0-9e14-863937d9fd2b",
+  "from": "e233ace7-82e9-4e56-9eb5-e8d19bc6298d",
+  "to": "1305fd0a-16b2-4d5b-a3c6-c42316067d7d",
+  "relation": "requires",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "2207dc33-f8a8-469f-99b2-286f1139ed74",
+        "locator": "section 6",
+        "quote": "The amplitude of a particular scattering process is obtained by computing the volume of its corresponding amplituhedron."
+      }
+    ]
+  }
+}

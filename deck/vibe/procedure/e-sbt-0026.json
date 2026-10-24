@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "36fd7d1d-f17f-4f25-96e2-fefb853aa6e5",
+  "title": "E-SBT-0026: the directional rule ports to the 2D {7,3} heptagrid, conserving charge and churning",
+  "purpose": "Experiment E-SBT-0026 in the substrate-survey arena: the directional rule ports to the 2D {7,3} heptagrid, conserving charge and churning.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L1 (L1: known mathematics, correctly confirmed).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/substrate-survey/s73-dynamics.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-SBT-0026",
+        "quote": null
+      }
+    ]
+  }
+}

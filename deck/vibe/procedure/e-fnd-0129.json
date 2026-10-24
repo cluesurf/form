@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "b833331b-a3ac-483b-947e-320cc0a0ef9f",
+  "title": "E-FND-0129: the twenty-four direction effective-speed spectrum of the adopted rule is a mass hierarchy: exactly...",
+  "purpose": "Experiment E-FND-0129 in the foundations arena: the twenty-four direction effective-speed spectrum of the adopted rule is a mass hierarchy: exactly three directions massless at exactly light speed and support one, exactly four at rest at exactly zero displacement and support one, and seventeen interacting species at species-dependent intermediate fractions of light speed with visible clusterings, one rule producing the mass-hierarchy shape from scheduling geometry alone, with the coarse effective-speed caveat and the pinned deterministic values stated.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L2 (L2: known physics reproduced on a stated model).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/foundations/speed-spectrum.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-FND-0129",
+        "quote": null
+      }
+    ]
+  }
+}

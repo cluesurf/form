@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "54dec322-8a98-4552-92d7-7037f11abeea",
+  "title": "E-FRC-0068: the electroweak-Planck hierarchy and the inflation amplitude scale, re-expressed as logarithms base...",
+  "purpose": "Experiment E-FRC-0068 in the gauge arena: the electroweak-Planck hierarchy and the inflation amplitude scale, re-expressed as logarithms base lambda, are modest shell counts (about 13 and 4), a Randall-Sundrum style reformulation that reduces the fine-tuning question to a shell-count question, not a generation of the hierarchy, and the pass gates accept any lambda from about 8 to 2183 so lambda itself does no work here.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L1 (L1: known mathematics, correctly confirmed).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/gauge/hierarchy-from-warp-shells.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-FRC-0068",
+        "quote": null
+      }
+    ]
+  }
+}

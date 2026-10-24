@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "aa33fe12-6034-4334-a743-42197ee0ae2c",
+  "title": "E-SPN-0171: the joint asymmetry per E . B winding on the chiral wall is an index and CP-blind: +4 members per flavor...",
+  "purpose": "Experiment E-SPN-0171 in the spin arena: the joint asymmetry per E . B winding on the chiral wall is an index and CP-blind: +4 members per flavor on face A per forward winding, +12 with three flavors, and the CP-conjugate winding the exact reverse, so a CP-symmetric field history nets exactly 0, partial: E-SPN-0168 flow reproduced exactly; with the flux reversed (the CP-conjugate winding, and the fear sea charge) every level reverses with the two walls exchanged; three flavor walls each flow +4; the register exchange that makes the CP phase physical never connects two member numbers, so CP moves flavor, not number; a net asymmetry needs the windings themselves biased, which needs the light dynamical and pushed by the members CP-odd densities, not built, and no number is claimed against the baryon-to-photon ratio.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L2 (L2: known physics reproduced on a stated model).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/spin/wall-asymmetry.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-SPN-0171",
+        "quote": null
+      }
+    ]
+  }
+}

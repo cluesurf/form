@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "992f4e4f-9b4d-44c0-a965-2439a642453c",
+  "title": "E-QTM-0009: the deterministic field is long-range and reflection-positive",
+  "purpose": "Experiment E-QTM-0009 in the quantum arena: the deterministic field is long-range and reflection-positive.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L2 (L2: known physics reproduced on a stated model).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/quantum/deterministic-spatial-rp.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-QTM-0009",
+        "quote": null
+      }
+    ]
+  }
+}

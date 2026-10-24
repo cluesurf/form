@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "1b7beb6d-02b1-47bb-a754-750612d0864b",
+  "title": "E-SPN-0165: no gauge winding changes a chiral half's member number, partial (the member-number Sakharov condition...",
+  "purpose": "Experiment E-SPN-0165 in the spin arena: no gauge winding changes a chiral half's member number, partial (the member-number Sakharov condition stays missing; a Wilson mass on the register would open a single-Weyl domain-wall phase): the link field enters the register member only as a register-blind phase on the stream, so each half is invariant and the many-body rule keeps N+ and N- exactly under every gauge history; each half's net spectral flow along any closed field path is the winding of its det, which is constant because every root comes with its opposite (sum of r over a half is 0, Nielsen-Ninomiya in Floquet form), measured 0 with a threaded flux and under E . B on a magnetic supercell exact in Z[omega]; the Dirac vector s(K) has 72 zeros whose indices sum to 0, so at E-SPN-0160's uniform mass the bulk second Chern number is 0 and the husk carries no protected chiral mode; a Wilson mass flipping every zero but K = 0 gives C2 = 1, one Weyl species per half on the husk, the domain-wall route to member-number violation (read).",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L1 (L1: known mathematics, correctly confirmed).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/spin/chiral-flow.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-SPN-0165",
+        "quote": null
+      }
+    ]
+  }
+}

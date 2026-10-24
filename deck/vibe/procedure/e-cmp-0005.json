@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "46a8c96a-3854-42df-9d7a-6127e020b5a1",
+  "title": "E-CMP-0005: the {5,3,4} hosts universal computation via a Minsky machine",
+  "purpose": "Experiment E-CMP-0005 in the computation arena: the {5,3,4} hosts universal computation via a Minsky machine.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L2 (L2: known physics reproduced on a stated model).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/computation/means-computation.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-CMP-0005",
+        "quote": null
+      }
+    ]
+  }
+}

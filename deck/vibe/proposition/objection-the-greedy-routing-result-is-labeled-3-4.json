@@ -1,0 +1,50 @@
+{
+  "record": "proposition",
+  "id": "8c0bfac4-9156-40f7-96e1-a01d2eefde9e",
+  "kind": "empirical",
+  "epistemic_status": "inferred",
+  "title": "the greedy-routing result is labeled {3,4,3,4} but runs on the {5,4} plane tiling",
+  "statements": [
+    {
+      "id": "f72989f9-0921-4894-aeb7-427febdaabb2",
+      "text": "The greedy-routing result is labeled {3,4,3,4} but runs on the {5,4} plane tiling.",
+      "language": "en",
+      "scope": "verdict stands: the objection is correct about the program today",
+      "conditions": "Measured: the experiment builds hyperbolicTiling({ p: 5, q: 4 }), at most 2,500 vertices. Evidence named: E-NVG-0010, R-NVG-0001, open problem OP-04.",
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-22"
+    }
+  ],
+  "current_statement": "f72989f9-0921-4894-aeb7-427febdaabb2",
+  "status": "active",
+  "voice": "critique",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": {
+    "value": "open",
+    "reason": "verdict stands",
+    "basis": [],
+    "proposal": null
+  },
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "research/objection.ts",
+        "quote": null
+      }
+    ]
+  }
+}

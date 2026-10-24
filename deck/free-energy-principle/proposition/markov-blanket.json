@@ -1,0 +1,50 @@
+{
+  "record": "proposition",
+  "id": "c258c2e8-34b1-4ab0-ba23-eddafddeecad",
+  "kind": "definitional",
+  "epistemic_status": "designed",
+  "title": "Markov blanket",
+  "statements": [
+    {
+      "id": "c8376b6d-5b62-4f27-8b4f-4ad308b60d25",
+      "text": "A Markov blanket is the set of states that makes the internal states of a system conditionally independent of its external states. It marks the boundary of a thing in a statistical sense, not necessarily a physical membrane.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-23"
+    }
+  ],
+  "current_statement": "c8376b6d-5b62-4f27-8b4f-4ad308b60d25",
+  "status": "active",
+  "voice": "framework",
+  "defines": "markov blanket",
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "a528c72c-55f5-422d-b6c3-61a840e5810d",
+        "locator": "abstract",
+        "quote": "These independencies induce a Markov blanket that separates internal and external states in a statistical sense."
+      },
+      {
+        "source": "7360eddd-7087-4c91-acd5-1cfea947cffb",
+        "locator": "abstract",
+        "quote": "A Markov blanket defines the boundaries of a system in a statistical sense."
+      }
+    ]
+  }
+}

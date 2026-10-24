@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "c5911d2f-ba2e-4969-bc27-2e69e1c5ad06",
+  "title": "E-FRC-0161: the field-borne string at the point the coupled Sigma(648) rule reaches under the modified action (beta0...",
+  "purpose": "Experiment E-FRC-0161 in the gauge arena: the field-borne string at the point the coupled Sigma(648) rule reaches under the modified action (beta0 7.4, deconfined): the field alone charges a static love-fear pair 19.3, 16.6, 30.8 per slice at R = 1 to 3, not monotonic, its slope times beta (3.56) is some 300 times the empty field chi(2,2) (0.012), and a meson is held by the field but barely moves (travel 2.45), so every physics gate fails.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L2 (L2: known physics reproduced on a stated model).",
+  "status": "completed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/gauge/sigma-field-string.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "research/result.ts R-FRC-0006",
+        "quote": null
+      }
+    ]
+  }
+}

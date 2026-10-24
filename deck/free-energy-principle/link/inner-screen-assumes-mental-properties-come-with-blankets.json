@@ -1,0 +1,28 @@
+{
+  "record": "link",
+  "id": "ca5be3c7-0ff7-448c-be8b-fc45e9ccf80a",
+  "from": "09c60f40-57fc-4619-9ef5-fff97ff56337",
+  "to": "982c3508-0b31-4fa6-a15b-1eada5e7f8f2",
+  "relation": "assumes",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "f590cb87-1c19-4c9a-b81c-b41b4f7a8e77",
+        "locator": "abstract (arXiv record)",
+        "quote": "In particular, we consider the inner screen hypothesis that follows from the quantum information theoretic version of the FEP."
+      }
+    ]
+  }
+}

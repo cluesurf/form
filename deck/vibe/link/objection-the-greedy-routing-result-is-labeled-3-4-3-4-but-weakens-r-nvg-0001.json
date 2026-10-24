@@ -1,0 +1,28 @@
+{
+  "record": "link",
+  "id": "6aa29604-3908-42d8-b82e-c2e8a3a86206",
+  "from": "8c0bfac4-9156-40f7-96e1-a01d2eefde9e",
+  "to": "e583032c-f5cc-4075-9f80-6ecc3498a5b4",
+  "relation": "weakens",
+  "strength": null,
+  "rationale": "verdict stands. the experiment builds hyperbolicTiling({ p: 5, q: 4 }), at most 2,500 vertices",
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "research/objection.ts",
+        "quote": null
+      }
+    ]
+  }
+}

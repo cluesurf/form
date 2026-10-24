@@ -1,0 +1,28 @@
+{
+  "record": "link",
+  "id": "1d74aba2-986c-4852-a236-4ee37e1e5ce7",
+  "from": "c7e91785-67f7-495d-bfe5-149060171d39",
+  "to": "85798b18-5e70-437f-bd33-d5c5fcfb13e0",
+  "relation": "requires",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "bfa85443-4b77-43f1-b5f2-ec1850a4bc3c",
+        "locator": "accepted manuscript p. 13",
+        "quote": "all perceptual content is underpinned by inferential mechanisms that have a functional, ontological, and phylogenetic basis in allostasis."
+      }
+    ]
+  }
+}

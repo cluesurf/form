@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "0c5e63e7-ed2a-44f7-917a-ddc43a99b4f3",
+  "title": "E-MTR-0014: the magnetic moment of the spinor token, a STAND-IN: in a uniform husk field its Landau levels are read...",
+  "purpose": "Experiment E-MTR-0014 in the spin arena: the magnetic moment of the spinor token, a STAND-IN: in a uniform husk field its Landau levels are read one $k_y$ block at a time, and g is read off the two lowest levels, against a spectator-spin control that must read 0.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L2 (L2: known physics reproduced on a stated model).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/matter/token-g-factor.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-MTR-0014",
+        "quote": null
+      }
+    ]
+  }
+}

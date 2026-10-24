@@ -1,0 +1,45 @@
+{
+  "record": "proposition",
+  "id": "bde0fb1e-fb05-4842-a052-6f597ee9bd13",
+  "kind": "empirical",
+  "epistemic_status": "hypothesized",
+  "title": "Higher selves shape the options of lower selves",
+  "statements": [
+    {
+      "id": "6492c9b1-c657-4e4d-87c8-9df593faa030",
+      "text": "Each higher-level self deforms the option space of its lower-level selves, so they reach outcomes that look simple at their own scale while serving goals at a larger scale.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-23"
+    }
+  ],
+  "current_statement": "6492c9b1-c657-4e4d-87c8-9df593faa030",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "fd7382f9-52a5-4beb-9680-fc341ff15b98",
+        "locator": "Table 1",
+        "quote": "Each higher-level self deforms the option space for the lower level Selves"
+      }
+    ]
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "record": "proposition",
+  "id": "663dc65c-5eda-4913-8650-1894b8b5fc61",
+  "kind": "philosophical",
+  "epistemic_status": "hypothesized",
+  "title": "Known physics is recovered by a ladder of admissibility conditions",
+  "statements": [
+    {
+      "id": "d3807608-b0af-456f-90d6-612a2fe7da0c",
+      "text": "Starting from the conserved current, each further admissibility condition (finite propagation, observer comparison, covariance, locality, stress redistribution, divergence-compatible closure, finite recoverability) is needed because the previous structure fails under non-uniform redistribution. The ladder reconstructs known physics as the minimal lawful completion at each step, and does not deduce it from continuity alone.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "d3807608-b0af-456f-90d6-612a2fe7da0c",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "74dae0ca-ffc6-4827-bce0-5561d176e0ee",
+        "locator": "abstract",
+        "quote": "The manuscript does not claim that continuity alone exhaustively derives modern physics."
+      },
+      {
+        "source": "74dae0ca-ffc6-4827-bce0-5561d176e0ee",
+        "locator": "section 2.2",
+        "quote": "Each successive layer becomes necessary because the preceding structure becomes insufficient to preserve lawful comparison under non-uniform redistribution."
+      }
+    ]
+  }
+}

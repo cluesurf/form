@@ -1,0 +1,81 @@
+{
+  "record": "proposition",
+  "id": "bdfa38ca-385b-45ba-9219-e4a476de2779",
+  "kind": "philosophical",
+  "epistemic_status": "hypothesized",
+  "title": "Life and mind are continuous",
+  "statements": [
+    {
+      "id": "c11539cd-c0b8-4ef2-a0d2-f9a40f6180ee",
+      "text": "There is a strong continuity between life and mind: the processes that keep a living thing alive are of a piece with those that make it a mind.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-23"
+    }
+  ],
+  "current_statement": "c11539cd-c0b8-4ef2-a0d2-f9a40f6180ee",
+  "status": "active",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": {
+    "value": "open",
+    "reason": null,
+    "basis": [],
+    "proposal": null
+  },
+  "origin": [
+    {
+      "repository": "predictive-processing",
+      "id": "3eea1110-e178-4ef4-9534-57dbef40fcd1"
+    },
+    {
+      "repository": "basal-cognition",
+      "id": "25da7545-7e6d-4674-afb7-e7e2191e1ec8"
+    },
+    {
+      "repository": "free-energy-principle",
+      "id": "c0876ba3-9b6a-43c1-9193-32ffb865784c"
+    },
+    {
+      "repository": "analytic-idealism",
+      "id": "6fca6004-f08b-4496-a469-513fe7c2d931"
+    }
+  ],
+  "provenance": {
+    "written_by": "github:lancejpollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "4da668be-b7a9-434a-8379-d28e82a9e3fc",
+        "locator": "accepted manuscript p. 14",
+        "quote": "More radically, it underpins a strong continuity between life, mind, and consciousness"
+      },
+      {
+        "source": "483bd2e4-b56f-4564-9b55-9b48c0af0291",
+        "locator": "Table 1",
+        "quote": "no binary categories, no bright line separating true cognition from"
+      },
+      {
+        "source": "cbb7f75a-bb5f-4c46-9080-6e412bc0434d",
+        "locator": "abstract",
+        "quote": "This means that all biological processes can be construed as performing some form of inference, from evolution through to conscious processing."
+      },
+      {
+        "source": "837f7d25-4439-4106-a1b4-eb4d29a9819b",
+        "locator": "section 10, p. 146",
+        "quote": "I posit that cosmic dissociation happens precisely at the level of individual living organisms. Each living organism is an alter of cosmic consciousness."
+      }
+    ]
+  }
+}

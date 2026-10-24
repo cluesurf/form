@@ -1,0 +1,39 @@
+{
+  "record": "observation",
+  "id": "404b0ace-8033-4856-853a-870d8ee681ae",
+  "kind": "simulation_result",
+  "epistemic_status": "inferred",
+  "description": "Calculated decoherence timescales in the brain, about 1e-13 to 1e-20 seconds, are far shorter than the relevant dynamical timescales of about 1e-3 to 1e-1 seconds, for neuron firing and for kink-like excitations in microtubules alike.",
+  "method": "derived",
+  "status": "reported",
+  "source": "5a3a7ba3-a832-4004-b906-b6f7092d63d4",
+  "procedure": null,
+  "variable": null,
+  "value": null,
+  "unit": null,
+  "uncertainty": null,
+  "sample_size": null,
+  "replication_count": null,
+  "quality": null,
+  "limitations": null,
+  "conflicts_of_interest": null,
+  "observed_at": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "5a3a7ba3-a832-4004-b906-b6f7092d63d4",
+        "locator": "abstract",
+        "quote": "We find that the decoherence timescales (∼ 10−13 − 10−20 seconds) are typically much shorter than the relevant dynamical timescales (∼ 10−3 − 10−1 seconds)"
+      }
+    ]
+  }
+}

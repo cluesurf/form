@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "6ca6cd48-5c35-46ae-ad13-ab6b4a778dcb",
+  "title": "E-GRV-0114: the clock horizon's radius law moves toward M as the box grows, but slowly, pass on the derived...",
+  "purpose": "Experiment E-GRV-0114 in the gravity arena: the clock horizon's radius law moves toward M as the box grows, but slowly, pass on the derived direction: on the statics of the no-hair rule the volume-radius slope for compressed M = 600 .. 1600 is 0.670, 0.699, 0.738 on sides 24, 32, 48 (reference 20.8, 27.7, 41.6 docks away) while the field criterion stays at 0.495; the box correction alone would give 0.80 .. 0.89 and the infinite stack gives 0.88, so the stack's massive modes hold the rest of the gap; the no-hair spread joins exactly the held statics' docks.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L1 (L1: known mathematics, correctly confirmed).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/gravity/count-horizon-scaling.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-GRV-0114",
+        "quote": null
+      }
+    ]
+  }
+}

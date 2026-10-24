@@ -1,0 +1,28 @@
+{
+  "record": "link",
+  "id": "b906c925-6750-4b48-b36b-b9cb75e1f6fb",
+  "from": "028e3b2d-df85-4265-8e6b-cf960621c5cb",
+  "to": "b28ef656-da29-48aa-a413-0dc2e3b53fbc",
+  "relation": "contradicts",
+  "strength": null,
+  "rationale": "R-FRC-0003 is negative: the committed knit was measured not to do this. The knit before 2026-09-25 carried none of it: the charge U(1) and the phase, no $\\mathbb{Z}_3$, no $S_3$, and coarse-graining brought none back. The adopted three-trit knit carries the classical color group $\\Sigma(648)$ on its links and keeps color exact dock by dock, pair creation included. It does not carry the continuous SU(3). $\\Sigma(648)$ is finite, and SU(3) is reached only as the closure of circuits that include the fear beat.",
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "research/result.ts R-FRC-0003",
+        "quote": null
+      }
+    ]
+  }
+}

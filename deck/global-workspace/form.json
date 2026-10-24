@@ -1,0 +1,83 @@
+{
+  "format": "form.surf/1",
+  "id": "0146478e-d238-49bc-83db-73e99e4e67bb",
+  "name": "global-workspace",
+  "title": "Global workspace theory",
+  "role": "model",
+  "summary": "Bernard Baars's global workspace theory and the global neuronal workspace of Stanislas Dehaene and Jean-Pierre Changeux: conscious access is the brain-wide broadcast of one content, through ignition of long-range workspace neurons, to many unconscious specialized processors.",
+  "framework": {
+    "originators": [
+      "Bernard Baars",
+      "Stanislas Dehaene",
+      "Jean-Pierre Changeux",
+      "Lionel Naccache"
+    ],
+    "aliases": [
+      "GWT",
+      "global neuronal workspace",
+      "GNW",
+      "GNWT",
+      "global workspace dynamics"
+    ],
+    "homepage": null
+  },
+  "community_written": true,
+  "curators": [
+    {
+      "name": "Lance Pollard",
+      "github": "lancejpollard"
+    }
+  ],
+  "license": "CC-BY-4.0",
+  "atlas": {
+    "scope": [
+      "bb51137d-5e08-4865-ba5c-243b8b5f2bcd",
+      "71b4b41d-876a-468e-bd04-70b823272d0f",
+      "531299ba-d038-40da-833a-b9daf54d142a",
+      "a0d66804-1288-4b05-bc48-5c13293bfff0",
+      "4c81366c-f493-463f-ab11-4ae25204ccd2",
+      "3f9f8f19-dca3-48b5-afad-f260ff7b9546",
+      "95be966b-e3b1-4db1-9321-888888af9049"
+    ],
+    "limits": [
+      "abcd7302-a180-49a8-bf5d-1558a7b22b3c",
+      "826d85ad-45dc-43a3-8258-6c5a85d5b8fd",
+      "57d4afb8-0a54-4689-b77d-e55a35c75c35",
+      "28e89614-15d7-4d51-af0c-9457c26dd491"
+    ],
+    "flaws": [
+      "2f22ccd3-0506-4c6f-8ed4-eecf7d24ddfe",
+      "475a6a33-e966-45a7-aac6-0d28b290ba8d",
+      "dab8ac92-22d3-4389-87cc-b37cfd104c4c",
+      "bd661fea-f471-4045-8e2c-eca1b09fe273",
+      "34e0e798-3df3-44f4-b361-54ed55a7afb3"
+    ],
+    "dead_ends": [
+      "728e7da7-fe62-45d5-91fc-db0c46ed177f",
+      "38ac0b81-cf24-485a-92cc-1579c707c79d"
+    ]
+  },
+  "draws_from": [],
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "9b21a09b-835f-4256-afbf-19425df2597e",
+        "locator": "abstract",
+        "quote": null
+      },
+      {
+        "source": "48959277-86d2-4076-9942-58a24f753040",
+        "locator": "abstract",
+        "quote": null
+      }
+    ]
+  }
+}

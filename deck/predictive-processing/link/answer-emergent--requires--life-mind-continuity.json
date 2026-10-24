@@ -1,0 +1,28 @@
+{
+  "record": "link",
+  "id": "f5532d50-38d6-411e-b974-97aee95b45ad",
+  "from": "b0bea400-b7bb-438d-82d9-dd8dbfa18c5e",
+  "to": "3eea1110-e178-4ef4-9534-57dbef40fcd1",
+  "relation": "requires",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "bfa85443-4b77-43f1-b5f2-ec1850a4bc3c",
+        "locator": "accepted manuscript p. 14",
+        "quote": "More radically, it underpins a strong continuity between life, mind, and consciousness"
+      }
+    ]
+  }
+}

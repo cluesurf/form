@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "0b77134a-b68d-4fa5-8063-f06efa70ffaa",
+  "title": "E-SPN-0174: the register meson's inertia falls with the string, fail (H4, and H2 at the middle string): at string...",
+  "purpose": "Experiment E-SPN-0174 in the spin arena: the register meson's inertia falls with the string, fail (H4, and H2 at the middle string): at string angles 0.2807, 0.1871 and 0.0936 a unit of V, with the well depth held at 2.245, the light register meson (m 0.190126) reads R = 34.65, 13.47 and 1.433, a monotone fall (E-SPN-0162 reproduced bit for bit at the first), against the continuum NR model's 0.69, 0.73 and 0.79; the weakest level holds (norm kept to 5e-10, fidelity 0.9991) and moves isotropically (6e-8), witnessed against the full rule at 1e-16, with every channel closed; a static string reaches R = 1 only by passing through it at one tuned coupling (a fit gives tau 0.067), not as a law.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L2 (L2: known physics reproduced on a stated model).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/spin/register-meson-weak.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-SPN-0174",
+        "quote": null
+      }
+    ]
+  }
+}

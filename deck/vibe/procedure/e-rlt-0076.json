@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "3bc469f6-e5f4-4506-9abf-b6caa5f1db64",
+  "title": "E-RLT-0076: does the living vacuum pick a handedness, fail on the prediction: the store's orientation cannot (the...",
+  "purpose": "Experiment E-RLT-0076 in the relativity arena: does the living vacuum pick a handedness, fail on the prediction: the store's orientation cannot (the 4,096 uniform hot orientations fall into 12 W(F4) orbits, every stabilizer half orientation-reversing), but the stored points can: each separated layout gives the lone-love response a handedness |SD - ASD| / (SD + ASD) of 0.05 to 0.29 on the all-plus vacuum (committed knit 0.61), up to 0.78 on the orbit representatives, the layout's own mirror gives the opposite hand exactly, and over 16 more layouts SD leads on 7, per-layout handedness 0.26 on average, while the averaged response has none (SD 72.0, ASD 70.7): one hand per vacuum, no preferred hand, read on a vacuum the lone love melts.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L2 (L2: known physics reproduced on a stated model).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/relativity/living-vacuum-handedness.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-RLT-0076",
+        "quote": null
+      }
+    ]
+  }
+}

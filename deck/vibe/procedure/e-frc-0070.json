@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "a648ac72-cd60-4893-a2b8-f4f145e7ca82",
+  "title": "E-FRC-0070: the generation mixing angles are degenerate at 0 and 90 degrees (no geometric Cabibbo angle) while the...",
+  "purpose": "Experiment E-FRC-0070 in the gauge arena: the generation mixing angles are degenerate at 0 and 90 degrees (no geometric Cabibbo angle) while the order-three family symmetry IS geometric, the CKM matrix a free input.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L1 (L1: known mathematics, correctly confirmed).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/gauge/mixing-angles-not-geometric.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-FRC-0070",
+        "quote": null
+      }
+    ]
+  }
+}

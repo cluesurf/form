@@ -1,0 +1,28 @@
+{
+  "record": "link",
+  "id": "e709d5c0-bcbb-4a25-974e-d99ba7ca60cd",
+  "from": "d964227a-bc4a-491a-acf3-0d20dfedea59",
+  "to": "8f838e96-4057-4e1c-ab99-96320386ab1d",
+  "relation": "requires",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "951a63ba-fbb2-4b78-af38-52646f22dbe0",
+        "locator": "section 7",
+        "quote": "variational free energy is a bound on surprisal, while expected free energy is not a bound"
+      }
+    ]
+  }
+}

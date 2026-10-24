@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "6a84d50c-d460-4fbd-8d29-26a5ce148d28",
+  "title": "E-DST-0002: DS10: associative-memory capacity scales with dimension, exponential in the bulk radius",
+  "purpose": "Experiment E-DST-0002 in the data-structure arena: DS10: associative-memory capacity scales with dimension, exponential in the bulk radius.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L2 (L2: known physics reproduced on a stated model).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/data-structure/associative-memory.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-DST-0002",
+        "quote": null
+      }
+    ]
+  }
+}

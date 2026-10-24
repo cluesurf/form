@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "315bd6c1-6226-4157-909c-6d64f0b69ad3",
+  "title": "E-QTM-0076: Jackiw-Rebbi bound state from the coined Dirac walk model: a mass wall that changes SIGN binds a state...",
+  "purpose": "Experiment E-QTM-0076 in the quantum arena: Jackiw-Rebbi bound state from the coined Dirac walk model: a mass wall that changes SIGN binds a state at the wall (retained weight above 0.9 and constant in time), while a same-sign wall with the identical gradient binds nothing (below 0.1) and a uniform mass disperses, so the binding is the topological sign change.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L2 (L2: known physics reproduced on a stated model).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/quantum/jackiw-rebbi-bound-state.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-QTM-0076",
+        "quote": null
+      }
+    ]
+  }
+}

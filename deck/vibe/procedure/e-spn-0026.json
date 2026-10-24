@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "7d9adbf6-579c-44f6-a4e5-0ae5520c565a",
+  "title": "E-SPN-0026: a half-integer disclination is a persistent topological defect carrying the spinor minus sign",
+  "purpose": "Experiment E-SPN-0026 in the spin arena: a half-integer disclination is a persistent topological defect carrying the spinor minus sign.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L2 (L2: known physics reproduced on a stated model).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/spin/persistent-spinor-defect-3434.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-SPN-0026",
+        "quote": null
+      }
+    ]
+  }
+}

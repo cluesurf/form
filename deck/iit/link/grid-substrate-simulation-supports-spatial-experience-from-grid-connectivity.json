@@ -1,0 +1,28 @@
+{
+  "record": "link",
+  "id": "38518cca-ed1a-428a-99ca-507aa17bb12e",
+  "from": "34e93e67-a979-4ca4-815a-f42fb35eabd6",
+  "to": "81b3a047-3ca5-4a22-a2aa-c1d8e961f0ae",
+  "relation": "supports",
+  "strength": 0.2,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "12c87943-a0d5-4ab6-b179-9c3bd1bbff77",
+        "locator": "abstract",
+        "quote": "Specifically, we show that a simple simulated substrate of units connected in a grid-like manner yields a cause-effect structure whose properties can account for the main properties of spatial experience."
+      }
+    ]
+  }
+}

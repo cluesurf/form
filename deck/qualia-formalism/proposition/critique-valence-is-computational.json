@@ -1,0 +1,45 @@
+{
+  "record": "proposition",
+  "id": "2a7c37e3-ef90-41e8-a6ae-5333c151f156",
+  "kind": "empirical",
+  "epistemic_status": "inferred",
+  "title": "Valence should be computational, not a global pattern",
+  "statements": [
+    {
+      "id": "bd20bc1a-215d-4fd4-8b1d-c236096eeff5",
+      "text": "Valence is better expected to be a computational signal in specific circuits, and a brain-wide harmonic pattern would be a coincidence rather than an explanation of it.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-23"
+    }
+  ],
+  "current_statement": "bd20bc1a-215d-4fd4-8b1d-c236096eeff5",
+  "status": "active",
+  "voice": "critique",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "1380a1e2-5203-4420-ac0c-1892cdfa6d09",
+        "locator": "comment of 6 Sep 2021",
+        "quote": "I'm going in expecting a, um, computational theory of valence, suffering, etc."
+      }
+    ]
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "record": "observation",
+  "id": "ddaf9b62-fbb7-4049-a48d-92a23210bcc7",
+  "kind": "documentary_record",
+  "epistemic_status": "observed",
+  "description": "What the cited code does: E-FRC-0031 compares two hand-written ansatzes, with the shell spacing the one measured number, inside a ± three decade window.",
+  "method": "document_review",
+  "status": "reported",
+  "source": "ad6054a9-572b-4cc8-bb69-ac9b768ecc75",
+  "procedure": null,
+  "variable": null,
+  "value": null,
+  "unit": null,
+  "uncertainty": null,
+  "sample_size": null,
+  "replication_count": null,
+  "quality": null,
+  "limitations": null,
+  "conflicts_of_interest": null,
+  "observed_at": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "research/paper.ts ERRATA",
+        "quote": null
+      }
+    ]
+  }
+}

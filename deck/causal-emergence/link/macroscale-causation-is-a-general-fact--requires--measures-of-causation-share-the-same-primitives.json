@@ -1,0 +1,28 @@
+{
+  "record": "link",
+  "id": "f57c9987-96d0-4970-a07a-dc40a6348278",
+  "from": "c6eb561f-8abf-4059-877f-61b42f83d4fc",
+  "to": "34764c7d-248a-43ad-b072-a2d9d4054cbc",
+  "relation": "requires",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "730ddfd3-ad1a-4e42-9b1d-3ef590ddaba4",
+        "locator": "abstract",
+        "quote": "macroscale causation is a general fact about causal relationships, is scientifically detectable, and is not a quirk of any particular measure of causation"
+      }
+    ]
+  }
+}

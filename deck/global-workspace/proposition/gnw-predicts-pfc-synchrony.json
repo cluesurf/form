@@ -1,0 +1,59 @@
+{
+  "record": "proposition",
+  "id": "38ac0b81-cf24-485a-92cc-1579c707c79d",
+  "kind": "empirical",
+  "epistemic_status": "hypothesized",
+  "title": "GNW predicts content-specific synchrony between prefrontal and category areas",
+  "statements": [
+    {
+      "id": "7c4d3e54-00a6-44e5-a316-66f483d365f9",
+      "text": "Conscious perception relies on long-range information sharing between prefrontal cortex and the category-selective area of the content, such as the fusiform face area for a face.",
+      "language": "en",
+      "scope": null,
+      "conditions": "Preregistered by the Cogitate adversarial collaboration with Stanislas Dehaene as the GNW proponent. The OSF project osf.io/mbcfy was created 2019-01-16, and the protocol states the preregistration and its amendments were frozen before data acquisition. The exact freeze date is not stated in the open protocol.",
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-23"
+    }
+  ],
+  "current_statement": "7c4d3e54-00a6-44e5-a316-66f483d365f9",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": {
+    "resolution_criterion": "The preregistered pairwise phase consistency metric shows content-selective synchronization between prefrontal and category-selective electrodes in the theory-defined time window.",
+    "resolver": "specified_source",
+    "locked_at": "2019-01-16",
+    "outcome": "falsified",
+    "resolved_at": "2025-04-30",
+    "observation": "9648da07-8e46-425d-8a57-98ce57a51193"
+  },
+  "standing": {
+    "value": "rejected",
+    "reason": "The preregistered phase-consistency test found no content-selective synchrony between category-selective and prefrontal electrodes. An exploratory analysis did find some frontal synchrony.",
+    "basis": [
+      "6c840eea-33a9-41ab-85d5-0ce58bbd7f37"
+    ],
+    "proposal": null
+  },
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "e02f6f58-c39b-42b3-8d19-285710666958",
+        "locator": "Predictions, experiment 1",
+        "quote": "GNW predicts that conscious perception, regardless of task, relies on long-range information sharing between nodes of PFC and Fusiform Face Area (FFA) when seeing a face"
+      }
+    ]
+  }
+}

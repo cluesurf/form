@@ -1,0 +1,45 @@
+{
+  "record": "proposition",
+  "id": "95e97bba-1335-4081-9257-691eab1f7748",
+  "kind": "empirical",
+  "epistemic_status": "hypothesized",
+  "title": "Workspace neurons broadcast content without adding to it",
+  "statements": [
+    {
+      "id": "bb927d78-deec-43fd-9ef9-9dbe1d12bc95",
+      "text": "Prefrontal workspace neurons broadcast the content represented in specialized areas but do not add content information of their own.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-23"
+    }
+  ],
+  "current_statement": "bb927d78-deec-43fd-9ef9-9dbe1d12bc95",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "dbe9b66c-4ffb-4615-9fd2-aa5c75424db8",
+        "locator": "Results, prediction 1",
+        "quote": "GNWT posits that PFC workspace neurons broadcast but do not add information"
+      }
+    ]
+  }
+}

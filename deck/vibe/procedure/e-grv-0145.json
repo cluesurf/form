@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "8430f9e9-1a4d-4ee8-b92c-aef85f074634",
+  "title": "E-GRV-0145: under the Clifford register the graviton shares matter's one light speed, now c/4: every one of a...",
+  "purpose": "Experiment E-GRV-0145 in the gravity arena: under the Clifford register the graviton shares matter's one light speed, now c/4: every one of a member's 192 bands is the Dirac band (at most c/4, reaching c/4 massless) or flat, so the rule's largest group speed is c/4 and the full slide carried at c/4 ties the cross polarization to c/4 on both primes; the capture of a partner with no transverse state is 1/4 on the even register (8) and the whole algebra (16) alike, so no register keeps c/2 with a closed census, and the slot rule's c/2 is the slot rule's, not a second speed; the tie read at the wrong speed fails.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L1 (L1: known mathematics, correctly confirmed).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/gravity/register-graviton-speed.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-GRV-0145",
+        "quote": null
+      }
+    ]
+  }
+}

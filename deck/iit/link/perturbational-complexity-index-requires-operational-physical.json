@@ -1,0 +1,28 @@
+{
+  "record": "link",
+  "id": "4fa6820f-bac3-471e-bc78-a5066ac8a5e2",
+  "from": "aeb693ff-5e69-426a-a805-053ab62099da",
+  "to": "fe908ff5-b089-4454-9110-70c5ce980b1d",
+  "relation": "requires",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "c436283a-54a1-4d6f-82d7-f9ab987f993a",
+        "locator": "abstract",
+        "quote": "We introduce and test a theory-driven index of the level of consciousness called the perturbational complexity index (PCI)."
+      }
+    ]
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "record": "proposition",
+  "id": "889b0520-c023-40b0-93ac-8b120c57c31e",
+  "kind": "definitional",
+  "epistemic_status": "designed",
+  "title": "Stress",
+  "statements": [
+    {
+      "id": "1ead687c-3528-4c7b-969e-ff501f9c4ffb",
+      "text": "Stress is the difference between a living system's current conditions and its life-optimal conditions, which its homeostatic drive works to reduce.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-23"
+    }
+  ],
+  "current_statement": "1ead687c-3528-4c7b-969e-ff501f9c4ffb",
+  "status": "active",
+  "voice": "framework",
+  "defines": "stress",
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "9d7dc0d8-1f18-43d2-b86a-16d31ae12fd3",
+        "locator": "abstract",
+        "quote": "the difference between current conditions and life-optimal conditions"
+      }
+    ]
+  }
+}

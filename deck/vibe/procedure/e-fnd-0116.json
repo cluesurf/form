@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "23f708c8-796d-4f01-9bc2-ea0851d0175d",
+  "title": "E-FND-0116: a growth quench on the committed rule generates a matter-sector charge asymmetry from the exactly...",
+  "purpose": "Experiment E-FND-0116 in the foundations arena: a growth quench on the committed rule generates a matter-sector charge asymmetry from the exactly C-symmetric empty state, satisfying all three Sakharov conditions measurably: the charge lands only in the interacting couple (C violation localized), the incommensurate fronts generate it while the commensurate front generates exactly zero at every beat (the out-of-equilibrium condition with its own null control), and the total tone sum stays exactly zero throughout while matter and wire sectors charge oppositely (sector pumping under an exact conservation law, the B plus L versus B minus L structure), with every sample quantized in whole multiples of side cubed.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L2 (L2: known physics reproduced on a stated model).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/foundations/weave-sakharov-asymmetry.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-FND-0116",
+        "quote": null
+      }
+    ]
+  }
+}

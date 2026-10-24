@@ -1,0 +1,45 @@
+{
+  "record": "proposition",
+  "id": "4824c2a7-d3bf-47b8-9a49-120356f031d6",
+  "kind": "empirical",
+  "epistemic_status": "hypothesized",
+  "title": "A neuron’s firing is a macrostate with sufficient causes",
+  "statements": [
+    {
+      "id": "6d4a9992-92a2-424d-8c92-ed8d7315d712",
+      "text": "An incoming signal can be insufficient to fix the exact exchange of ions in a neuron, which noise scrambles, yet deterministically sufficient to trigger the macrostate of firing.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-23"
+    }
+  ],
+  "current_statement": "6d4a9992-92a2-424d-8c92-ed8d7315d712",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "c40bbd28-a2c5-4730-84c0-90f7ae0644de",
+        "locator": "section 1",
+        "quote": "the incoming signal could still be deterministically sufficient to trigger (as an effect) the downstream neuronal macrostate of “firing,” irrespective of its underlying microscale details"
+      }
+    ]
+  }
+}

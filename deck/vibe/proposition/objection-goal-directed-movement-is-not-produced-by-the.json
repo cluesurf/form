@@ -1,0 +1,50 @@
+{
+  "record": "proposition",
+  "id": "86e60853-08cd-4f2c-9a79-ef93c6b30e0d",
+  "kind": "empirical",
+  "epistemic_status": "inferred",
+  "title": "goal-directed movement is not produced by the base rule",
+  "statements": [
+    {
+      "id": "88f13731-f3b1-46c7-b177-ff82258f7866",
+      "text": "Goal-directed movement is not produced by the base rule.",
+      "language": "en",
+      "scope": "verdict stands: the objection is correct about the program today",
+      "conditions": "Measured: the bare rule drifts -0.3748 toward a resource on one side and +0.3749 toward one on the other, no consistent approach, while the added valence layer shows a differential of 24.381. Evidence named: E-SLF-0154.",
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-22"
+    }
+  ],
+  "current_statement": "88f13731-f3b1-46c7-b177-ff82258f7866",
+  "status": "active",
+  "voice": "critique",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": {
+    "value": "open",
+    "reason": "verdict stands",
+    "basis": [],
+    "proposal": null
+  },
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "research/objection.ts",
+        "quote": null
+      }
+    ]
+  }
+}

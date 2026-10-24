@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "723217c2-ac01-480a-9a82-d9251586a19c",
+  "title": "E-MTH-0010: closed forms for the measured constants under a pre-registered integer-relation budget and its null: the...",
+  "purpose": "Experiment E-MTH-0010 in the method arena: closed forms for the measured constants under a pre-registered integer-relation budget and its null: the CHSH values sqrt 7 and (2 + 4 sqrt 2)/3, the sound speed c/2 (the D4 roots' second moment 12 I, which the husk shadows keep), the walk spread 1 - sqrt 3 / 2 and the boundary share are proven, while the viscosity (0.4747 and 0.469) and the late fear share (0.29, the Haar-typical 0.297) have no admissible form (null rate 1), and the numbers alone would not have separated the proven from the coincidental.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L2 (L2: known physics reproduced on a stated model).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/method/closed-forms-under-a-null.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-MTH-0010",
+        "quote": null
+      }
+    ]
+  }
+}

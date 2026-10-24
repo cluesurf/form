@@ -1,0 +1,28 @@
+{
+  "record": "link",
+  "id": "9c8655c2-9cf0-43c9-90bf-2763181cc683",
+  "from": "ae11fdf9-7319-4218-aef1-ba8f8ce65088",
+  "to": "fc7311b8-335b-4f66-8b50-2938a50cc94a",
+  "relation": "weakens",
+  "strength": null,
+  "rationale": "If decoherence ends coherence in femtoseconds or faster, no superposition stays isolated long enough to reach $\\tau \\approx \\hbar / E_G$ in the brain.",
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "972bb3f3-ae60-45cd-87b7-252f91d8de27",
+        "locator": "abstract",
+        "quote": "This conclusion disagrees with suggestions by Penrose and others that the brain acts as a quantum computer, and that quantum coherence is related to consciousness in a fundamental way."
+      }
+    ]
+  }
+}

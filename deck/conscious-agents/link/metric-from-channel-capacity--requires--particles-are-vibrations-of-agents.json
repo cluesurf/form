@@ -1,0 +1,28 @@
+{
+  "record": "link",
+  "id": "1164dd54-18bc-430f-adf5-70ea4717c0b4",
+  "from": "537dd609-228e-45f8-8624-bfdf80832fdf",
+  "to": "32080c5a-18ef-4114-9219-e0220beac301",
+  "relation": "requires",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "9f6802be-e2fa-4f89-b303-461db4c74e7e",
+        "locator": "Microphysical objects",
+        "quote": "The metric would arise from the channel capacity of the joined agents."
+      }
+    ]
+  }
+}

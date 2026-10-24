@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "ccaf6ebd-64c8-4953-a7d1-98bf1dab840e",
+  "title": "E-DST-0028: one module gives the data-structure profile of every 2D-to-5D tessellation, all have exponential...",
+  "purpose": "Experiment E-DST-0028 in the data-structure arena: one module gives the data-structure profile of every 2D-to-5D tessellation, all have exponential capacity and logarithmic tree depth.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L1 (L1: known mathematics, correctly confirmed).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/data-structure/universal-profile.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-DST-0028",
+        "quote": null
+      }
+    ]
+  }
+}

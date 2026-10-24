@@ -1,0 +1,50 @@
+{
+  "record": "proposition",
+  "id": "f750f7ae-a1e8-463d-a44c-96a65264318e",
+  "kind": "philosophical",
+  "epistemic_status": "hypothesized",
+  "title": "Answer: time, geometry, inertia, the quantum, matter and fields descend from continuity",
+  "statements": [
+    {
+      "id": "3602995c-97b7-408d-9567-233c77eb1ae8",
+      "text": "Time, geometry and gravitation, inertia, the quantum regime, matter and fields are all descendants of the conserved current, each recovered under further admissibility conditions rather than assumed.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "3602995c-97b7-408d-9567-233c77eb1ae8",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "f2c17146-2451-4102-a1a8-1bf1f868feb5",
+        "locator": "abstract",
+        "quote": "The completed Chronoflux Atlas recovers geometry and gravitation as descendants of conserved temporal transport."
+      },
+      {
+        "source": "e2e6e998-8b7c-44d4-84bb-0cdaeb06d0a9",
+        "locator": "abstract",
+        "quote": "The completed Chronoflux Atlas recovers matter as persistent structure within conserved continuity."
+      }
+    ]
+  }
+}

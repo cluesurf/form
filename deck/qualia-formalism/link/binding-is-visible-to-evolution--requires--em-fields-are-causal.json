@@ -1,0 +1,28 @@
+{
+  "record": "link",
+  "id": "885feaf7-ac8e-4cb1-815b-98498f2965fc",
+  "from": "ea2dd556-8034-46ee-ac54-8f8b4d2c2e1b",
+  "to": "2d7533b5-920a-4cf8-aa50-75c5f1605069",
+  "relation": "requires",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "9359bfc1-6fff-41a8-8d7c-91af2f730b74",
+        "locator": "section 4.2.4",
+        "quote": "Such downward causation helps to explain why the mechanism might be visible to evolutionary processes."
+      }
+    ]
+  }
+}

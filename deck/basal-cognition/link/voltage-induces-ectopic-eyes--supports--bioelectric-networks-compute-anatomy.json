@@ -1,0 +1,28 @@
+{
+  "record": "link",
+  "id": "d4ae218e-5494-4a9d-92cc-f3a236019c7e",
+  "from": "8a81b314-66c0-49d6-bdb8-2fb33ec51e27",
+  "to": "04db1e3f-0f4e-429d-b375-dfcd08314d6f",
+  "relation": "supports",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "f77c9c1d-6f0e-4ddf-ad05-4dd5f2e7c208",
+        "locator": "abstract",
+        "quote": "Manipulating V(mem) of non-eye cells induces well-formed ectopic eyes that are morphologically and histologically similar to endogenous eyes."
+      }
+    ]
+  }
+}

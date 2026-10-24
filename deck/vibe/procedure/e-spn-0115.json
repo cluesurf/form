@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "14eef2de-550a-498b-99a8-7d66577f5448",
+  "title": "E-SPN-0115: the level that breaks the string-bound love-fear meson's band on the joint path (E-SPN-0114) is the...",
+  "purpose": "Experiment E-SPN-0115 in the spin arena: the level that breaks the string-bound love-fear meson's band on the joint path (E-SPN-0114) is the Klein channel, one token in each branch of the walk at |d| = (E + 2m)/sigma, and read diabatically through it the meson is one particle to relativistic momenta, pass: love-fear exchange commutes with the beat (1.9e-13), so the Klein level's X = -1 twin crosses exactly (coupling 2e-17) while the X = +1 partner makes an avoided crossing of gap 3.2e-5, 8.4e-6, 3.1e-6 at n = 4, 8, 16 (2.1e-3 to 3.2e-3 of sigma, open at every n, width in K under 1% of a step); the band followed by largest overlap in its own sector holds to E_rest at every n (least overlap 0.99897), c_eff 0.9874, 0.9969, 0.9992 against cos m 0.9659, 0.9914, 0.9979, and the top group velocity to pi 0.9493, 0.9872, 0.9968; the partner's own |d| at the break reads mixed (38.5 against 43.0 predicted), E-SPN-0114 and its break reproduced, no cost holds nothing.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L2 (L2: known physics reproduced on a stated model).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/spin/meson-crossing.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-SPN-0115",
+        "quote": null
+      }
+    ]
+  }
+}

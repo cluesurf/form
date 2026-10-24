@@ -1,0 +1,28 @@
+{
+  "record": "link",
+  "id": "a3ef41c3-6958-4894-bce0-323e311479e4",
+  "from": "1b8f6b8a-3a75-477b-94be-01812b6bf5f2",
+  "to": "22163c81-aa83-40dd-adc9-21775bac8bcd",
+  "relation": "requires",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "86362c95-6abe-4959-bf7f-166fbbb5b70c",
+        "locator": "abstract (arXiv record)",
+        "quote": "These tools allow us to write down mechanical theories for systems that look as if they are estimating posterior probability distributions over the causes of their sensory states."
+      }
+    ]
+  }
+}

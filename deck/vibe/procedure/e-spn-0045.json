@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "9c751d6d-425a-4dac-82d0-d803e9bfee5b",
+  "title": "E-SPN-0045: exclusion in the base, twice: on the role phase space the fermion pair needs fear and the boson pair...",
+  "purpose": "Experiment E-SPN-0045 in the spin arena: exclusion in the base, twice: on the role phase space the fermion pair needs fear and the boson pair none, and every fear sits where the two fermions coincide (18 fears in 54 units on the 9 coincident points of 81, the three-fermion singlet the same 72 loves and 18 fears E-FRC-0120 found), with a zero probability of two fermions in one role; and under the committed rule a charge-biased slot gas relaxes toward the one-tone-per-slot law p(love) p(fear) = p(calm)^2 in its interacting directions while the two protected directions keep their fill exactly.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L2 (L2: known physics reproduced on a stated model).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/spin/exchange-fear-and-slot-exclusion.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-SPN-0045",
+        "quote": null
+      }
+    ]
+  }
+}

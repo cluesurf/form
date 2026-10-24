@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "a0cd40f0-ba58-4315-9741-50650cc96e9f",
+  "title": "E-SLF-0006: the deterministic hub-workspace attention differential is consistently positive but does not robustly...",
+  "purpose": "Experiment E-SLF-0006 in the selves arena: the deterministic hub-workspace attention differential is consistently positive but does not robustly clear the bars, open.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L2 (L2: known physics reproduced on a stated model).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/selves/attention-workspace.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-SLF-0006",
+        "quote": null
+      }
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "record": "link",
+  "id": "0c869b9e-e03c-4335-951b-356a7e51c60b",
+  "from": "7ed79d97-ef0f-44e2-ba35-147eb646881f",
+  "to": "1d3b823b-fb72-479c-889a-aef302f93d76",
+  "relation": "requires",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "4489b7d7-7273-4b67-a1c2-b53ddab0eeb5",
+        "locator": "section 5.3",
+        "quote": "the framework presented here is consistent with [13, 14, 154] in supporting a panpsychist perspective on questions of agency, sentience, and cognition"
+      }
+    ]
+  }
+}

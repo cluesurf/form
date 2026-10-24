@@ -1,0 +1,45 @@
+{
+  "record": "proposition",
+  "id": "f46ad425-dd6c-4bf4-a719-bef778e1385d",
+  "kind": "empirical",
+  "epistemic_status": "hypothesized",
+  "title": "The maximum of integrated information sets the scale of consciousness",
+  "statements": [
+    {
+      "id": "4170c206-68a8-4630-a139-4a3b7fa23852",
+      "text": "Following integrated information theory, the spatiotemporal scale at which integrated information peaks fixes the spatiotemporal scale of consciousness, which may be a macro scale of neurons.",
+      "language": "en",
+      "scope": "adopted from integrated information theory",
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-23"
+    }
+  ],
+  "current_statement": "4170c206-68a8-4630-a139-4a3b7fa23852",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "43accee2-70fd-4090-88e9-d71562ee222f",
+        "locator": "abstract",
+        "quote": "for integrated information theory the spatiotemporal maximum of integrated information fixes the spatiotemporal scale of consciousness"
+      }
+    ]
+  }
+}

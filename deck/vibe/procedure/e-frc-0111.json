@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "def0bdcd-e79d-4d57-ada4-396e876c749b",
+  "title": "E-FRC-0111: the triality weave passes the rest of the acceptance battery asked in a form that does not assume a...",
+  "purpose": "Experiment E-FRC-0111 in the gauge arena: the triality weave passes the rest of the acceptance battery asked in a form that does not assume a protected species: its vacuum recurs exactly from birth, separated disturbances superpose exactly, walls are sheet-quantized, and its dressing grows no faster than the committed turning weave's, while its wall is not localized: the defect against the piecewise vacuum fills the box at sides 9, 13 and 17 (by beat 57 at side 17, where the committed rule fills it by beat 6).",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L2 (L2: known physics reproduced on a stated model).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/gauge/triality-weave-acceptance.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-FRC-0111",
+        "quote": null
+      }
+    ]
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "record": "proposition",
+  "id": "a9d3ecc7-d871-4b04-a3ae-66399a43fc30",
+  "kind": "empirical",
+  "epistemic_status": "hypothesized",
+  "title": "Running wheels would keep a crowded colony reproducing longer",
+  "statements": [
+    {
+      "id": "e863d966-abb4-48ee-876d-93e60161bd43",
+      "text": "In repeated colonies like Calhoun's Universe 25, with abundant food and water, those given running wheels would show less behavioral deterioration and keep reproducing longer than those without.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "e863d966-abb4-48ee-876d-93e60161bd43",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": {
+    "resolution_criterion": "Several comparable mouse colonies with abundant food and water, some with running wheels and some without, are compared on birth rates, survival and behavior. The colonies with wheels show less behavioral deterioration and reproduce for longer.",
+    "resolver": "independent_review",
+    "locked_at": "2026-10-19",
+    "outcome": null,
+    "resolved_at": null,
+    "observation": null
+  },
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "c01a576c-01a5-46ae-8a4e-5fed54687b5c",
+        "locator": "Direct: Depression",
+        "quote": "My prediction is that access to running would reduce behavioral deterioration and allow reproduction to continue longer."
+      },
+      {
+        "source": "c01a576c-01a5-46ae-8a4e-5fed54687b5c",
+        "locator": "Direct: Depression",
+        "quote": "Birth rates, survival, and behavior could be compared between the groups."
+      }
+    ]
+  }
+}

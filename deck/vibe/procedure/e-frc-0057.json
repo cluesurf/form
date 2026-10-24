@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "7bf4eda1-2567-45f6-99e0-2c1d437d282c",
+  "title": "E-FRC-0057: the charged leptons satisfy the Koide relation Q = 2/3 to one part in a hundred thousand, equivalently...",
+  "purpose": "Experiment E-FRC-0057 in the gauge arena: the charged leptons satisfy the Koide relation Q = 2/3 to one part in a hundred thousand, equivalently the square-root-mass vector at 45 degrees to the triality-symmetric axis, a sharp lepton coincidence whose geometric origin is the open target.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L1 (L1: known mathematics, correctly confirmed).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/gauge/koide-lepton-relation.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-FRC-0057",
+        "quote": null
+      }
+    ]
+  }
+}

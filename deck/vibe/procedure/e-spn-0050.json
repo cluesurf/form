@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "1a7c8923-d363-4406-a202-ad8e2fd6c571",
+  "title": "E-SPN-0050: the statistics of the slot at equilibrium in the cold vacuum: husk modes are binomial (independent...",
+  "purpose": "Experiment E-SPN-0050 in the spin arena: the statistics of the slot at equilibrium in the cold vacuum: husk modes are binomial (independent exclusive slots), not Poisson or Bose-Einstein, the slot is Gibbs with one vibe of any store level, pair making sets mu_love + mu_fear = 0 through the rest energy, and without the threshold move there is no temperature.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L2 (L2: known physics reproduced on a stated model).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/spin/slot-statistics.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-SPN-0050",
+        "quote": null
+      }
+    ]
+  }
+}

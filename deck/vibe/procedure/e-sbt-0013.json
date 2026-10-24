@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "4dcaebd4-c2cf-4b72-b03e-6c0e31e639fd",
+  "title": "E-SBT-0013: one generic front-end classifies and builds any regular honeycomb from 2D to 4D with correct facet degrees",
+  "purpose": "Experiment E-SBT-0013 in the substrate-survey arena: one generic front-end classifies and builds any regular honeycomb from 2D to 4D with correct facet degrees.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L2 (L2: known physics reproduced on a stated model).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/substrate-survey/generic-tessellation-engine.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-SBT-0013",
+        "quote": null
+      }
+    ]
+  }
+}

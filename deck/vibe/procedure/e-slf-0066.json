@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "21eb424a-bbd7-4391-82c0-a64de83ff080",
+  "title": "E-SLF-0066: the reversible base rule is a permutation with no degeneracy, so causal emergence needs information loss",
+  "purpose": "Experiment E-SLF-0066 in the selves arena: the reversible base rule is a permutation with no degeneracy, so causal emergence needs information loss.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L2 (L2: known physics reproduced on a stated model).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/selves/l3-causal-emergence-needs-loss.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-SLF-0066",
+        "quote": null
+      }
+    ]
+  }
+}

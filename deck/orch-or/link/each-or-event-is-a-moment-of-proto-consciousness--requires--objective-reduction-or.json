@@ -1,0 +1,28 @@
+{
+  "record": "link",
+  "id": "8ce690aa-6a6c-4952-a961-fc2f5841922c",
+  "from": "f03eaec7-a5cd-4015-8f83-d3012021ec34",
+  "to": "da87023c-1ec0-4e97-bf1d-240555d98823",
+  "relation": "requires",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "c0602528-f093-4705-abc3-e13d7657a680",
+        "locator": "section 4.1",
+        "quote": "the DP proposal suggests each OR event, which is a purely physical process, is itself a primitive kind of ‘observation’, a moment of ‘proto-conscious experience’"
+      }
+    ]
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "record": "proposition",
+  "id": "f2f234a9-e762-45c7-8eff-770b2cb8bd7c",
+  "kind": "empirical",
+  "epistemic_status": "hypothesized",
+  "title": "Instincts generate desires rather than forcing acts",
+  "statements": [
+    {
+      "id": "7aba0486-16a3-46aa-982a-f2f6e37fdabd",
+      "text": "Instincts do not force an animal to act against its will. They generate the desires that make it want to act, as hunger makes one want to eat, and the play of cats and dogs is wanted, not forced.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "7aba0486-16a3-46aa-982a-f2f6e37fdabd",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "f3e6ee97-7549-4229-b6b8-abac921056c6",
+        "locator": "opening",
+        "quote": "I claim that instincts do not simply make an animal do something. They generate the desires that make it want to act."
+      },
+      {
+        "source": "f3e6ee97-7549-4229-b6b8-abac921056c6",
+        "locator": "closing",
+        "quote": "These desires feel like our own, but they are also ways our biology directs our behavior."
+      }
+    ]
+  }
+}

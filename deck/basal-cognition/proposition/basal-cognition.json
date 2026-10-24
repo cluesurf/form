@@ -1,0 +1,45 @@
+{
+  "record": "proposition",
+  "id": "d97bfdbc-ab5c-4844-8f3e-738792f24f3f",
+  "kind": "definitional",
+  "epistemic_status": "designed",
+  "title": "Basal cognition",
+  "statements": [
+    {
+      "id": "aa273457-4f5f-4f21-ba47-bf06fceb84f2",
+      "text": "Basal cognition is the study of cognition from its biological basics: the information-processing mechanisms by which any organism, including single cells and organisms without nervous systems, comes to know, value and act on its environment to meet its needs.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-23"
+    }
+  ],
+  "current_statement": "aa273457-4f5f-4f21-ba47-bf06fceb84f2",
+  "status": "active",
+  "voice": "framework",
+  "defines": "basal cognition",
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "40dd6395-b354-409f-a320-a45b40f7f8bd",
+        "locator": "section on a working definition",
+        "quote": "Cognition comprises the sensory and other information-processing mechanisms an organism has for becoming familiar with, valuing, and interacting productively with features of its environment"
+      }
+    ]
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "975fab94-b184-4c24-b650-568d0bd0b993",
+  "title": "E-RLT-0051: no knit has exact local color, forced rotation isotropy and momentum exchange as free as the scatter...",
+  "purpose": "Experiment E-RLT-0051 in the relativity arena: no knit has exact local color, forced rotation isotropy and momentum exchange as free as the scatter weave's: no irreducible coin group keeps the side signs of any of the 4,096 side choices, so a knit whose period group acts irreducibly keeps P and every image of the side sum, at least 8 line-momentum invariants (every subspace of 7 or fewer has a reducible stabilizer) where the scatter weave keeps 5, and 12 (no exchange at all) for 235 of the 320 two-generated irreducible groups; the 109 groups that reach 8 all hold -1 acting without charge conjugation, so no pair clock on a line is symmetric and the vacuum must clock with like pairs on two lines, and only the two quaternion groups keep couples for it; the quaternion knit built on that (one collision, exchange and couple clock, C = E B E) has exact CPT, Q8 forcing rank-2 isotropy (spread 1.3e-15), exact reversal, charge, P and every forced invariant, a clocking vacuum (period 3), exchange on 8 lines and connected line graphs, but its dressing runs away (289, 7,219, 68,735, 106,055 slots at side 9 against the committed 33, 160, 565, 1,508), and its single-background long-wave response reads 2.80 (noise that falls to 1.03 over 16 start times, where the combined knit stays at 0.80).",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L2 (L2: known physics reproduced on a stated model).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/relativity/whole-dock-isotropic-knit.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-RLT-0051",
+        "quote": null
+      }
+    ]
+  }
+}

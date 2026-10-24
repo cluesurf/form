@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "68a01ea8-f28e-42d2-910d-5b15ddf55c3d",
+  "title": "E-GRV-0032: the {5,3,4} suite, a Bethe 1/r squared correlator, exponential shell growth, and exact icosahedral...",
+  "purpose": "Experiment E-GRV-0032 in the gravity arena: the {5,3,4} suite, a Bethe 1/r squared correlator, exponential shell growth, and exact icosahedral 4th-moment isotropy.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L1 (L1: known mathematics, correctly confirmed).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/gravity/s534-physics.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-GRV-0032",
+        "quote": null
+      }
+    ]
+  }
+}

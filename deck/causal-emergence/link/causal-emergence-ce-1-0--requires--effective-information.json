@@ -1,0 +1,28 @@
+{
+  "record": "link",
+  "id": "8f39e5d3-98d7-4213-9a7c-4cf323a94871",
+  "from": "2f9ce65f-d9e0-4afd-b7b3-da8fe68aa8c9",
+  "to": "8f42382b-1b97-40c3-9a79-60a2eb5a9bba",
+  "relation": "requires",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "8360d34d-30cb-44f8-89c9-41768fb53f0d",
+        "locator": "abstract",
+        "quote": "genuine causal emergence—the gain in EI when moving from a micro to a macro level of analysis"
+      }
+    ]
+  }
+}

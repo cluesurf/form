@@ -1,0 +1,50 @@
+{
+  "record": "proposition",
+  "id": "decfd193-3512-4f6e-9414-920254dd48f9",
+  "kind": "empirical",
+  "epistemic_status": "simulated",
+  "title": "E-FRC-0093: the committed rule keeps only the charge U(1) and the overall phase of the three-valued tone, 2 of the 9...",
+  "statements": [
+    {
+      "id": "e1998086-ad12-419f-a808-a843954ae039",
+      "text": "The committed rule keeps only the charge U(1) and the overall phase of the three-valued tone, 2 of the 9 generators of U(3), under every way a line can carry a triplet, and no tone relabelling of the SU(3) Weyl group, so it carries no SU(3) color on the tone.",
+      "language": "en",
+      "scope": "experiment E-FRC-0093, arena gauge, depth L3 (L3: one base rule produced the result as a measured consequence, with a computed control that could have failed)",
+      "conditions": "substrates: 3434. In a paper: false",
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-22"
+    }
+  ],
+  "current_statement": "e1998086-ad12-419f-a808-a843954ae039",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": {
+    "value": "open",
+    "reason": "holds in the vibe claim graph",
+    "basis": [],
+    "proposal": null
+  },
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "research/result.ts R-FRC-0003",
+        "quote": null
+      }
+    ]
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "record": "proposition",
+  "id": "2a03cdaa-1e37-4884-b586-1d26f161fb4e",
+  "kind": "definitional",
+  "epistemic_status": "designed",
+  "title": "Workspace neurons",
+  "statements": [
+    {
+      "id": "3b94aab3-e46f-4d85-b639-4115f85fe821",
+      "text": "Workspace (GNW) neurons are widely distributed excitatory neurons with long-range axons, forming reciprocally connected tracts that can selectively mobilize or suppress the contribution of specialized processors.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-23"
+    }
+  ],
+  "current_statement": "3b94aab3-e46f-4d85-b639-4115f85fe821",
+  "status": "active",
+  "voice": "framework",
+  "defines": "workspace neurons",
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "48959277-86d2-4076-9942-58a24f753040",
+        "locator": "Central Tenets and Neuroanatomical Basis of the GNW Hypothesis, p. 777",
+        "quote": "a second computational space is composed of widely distributed excitatory neurons (called GNW neurons) with long-range axons"
+      },
+      {
+        "source": "0e8a27d1-8b93-45f2-a326-74fe69301c54",
+        "locator": "Introduction",
+        "quote": "mostly originate from the pyramidal cells of layers 2 and 3"
+      }
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "record": "link",
+  "id": "4d511909-2e89-4f44-8709-4d067bb0a6d8",
+  "from": "4aa9cee1-0831-4213-b9e6-15f6beebad2a",
+  "to": "fd054320-3030-434a-8c52-0360124ed71a",
+  "relation": "requires",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "9f6802be-e2fa-4f89-b303-461db4c74e7e",
+        "locator": "Objections and replies, objection 19",
+        "quote": "There are no public physical objects."
+      }
+    ]
+  }
+}

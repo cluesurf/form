@@ -1,0 +1,33 @@
+{
+  "record": "link",
+  "id": "bb4ed6de-6ac9-4697-988c-b4925037396f",
+  "from": "9b2a360b-2d76-4efb-8a4a-603e641ad90a",
+  "to": "28df8088-7867-4072-afd2-70ca83187535",
+  "relation": "assumes",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "9b21a09b-835f-4256-afbf-19425df2597e",
+        "locator": "abstract",
+        "quote": "We postulate that this global availability of information through the workspace is what we subjectively experience as a conscious state."
+      },
+      {
+        "source": "48959277-86d2-4076-9942-58a24f753040",
+        "locator": "Introduction, p. 776",
+        "quote": "it is the wide accessibility of this information that is hypothesized to constitute conscious experience"
+      }
+    ]
+  }
+}

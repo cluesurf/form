@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "46596eb2-2c5a-4572-826b-13e370a156d5",
+  "title": "E-SLF-0004: the goal-directed builder reaches and holds several arbitrary balanced targets",
+  "purpose": "Experiment E-SLF-0004 in the selves arena: the goal-directed builder reaches and holds several arbitrary balanced targets.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L0 (L0: circular: the answer reaches the verdict as a typed constant).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/selves/arbitrary-structure.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-SLF-0004",
+        "quote": null
+      }
+    ]
+  }
+}

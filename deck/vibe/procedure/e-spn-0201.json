@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "48da393a-b38f-4e12-9196-3e0d1d695159",
+  "title": "E-SPN-0201: One member dressed by one husk photon: explores whether the R* member's one-photon self-energy at $a_B$...",
+  "purpose": "Experiment E-SPN-0201 in the spin arena: One member dressed by one husk photon: explores whether the R* member's one-photon self-energy at $a_B$ 8 and 12's couplings moves its M2 / M1 far enough from tan m / m to reach item 0008's kill.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L2 (L2: known physics reproduced on a stated model).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/spin/member-dressing.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-SPN-0201",
+        "quote": null
+      }
+    ]
+  }
+}

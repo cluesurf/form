@@ -1,0 +1,45 @@
+{
+  "record": "proposition",
+  "id": "0a8e7dd4-a504-441d-a849-8d7982350738",
+  "kind": "empirical",
+  "epistemic_status": "hypothesized",
+  "title": "Particles interact by exchanging quanta",
+  "statements": [
+    {
+      "id": "d0b73aab-624b-4980-8c1f-dd13f3bcf187",
+      "text": "Particles interact by exchanging quanta of matter when they meet.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "d0b73aab-624b-4980-8c1f-dd13f3bcf187",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "57bea3cc-6106-4840-8c2d-ebfa28886156",
+        "locator": "opening",
+        "quote": "Particles interact by exchanging quanta of matter when they meet."
+      }
+    ]
+  }
+}

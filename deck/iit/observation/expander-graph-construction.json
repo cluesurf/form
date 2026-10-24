@@ -1,0 +1,39 @@
+{
+  "record": "observation",
+  "id": "9f6b3f9e-19f7-424c-b807-8a69042af9ab",
+  "kind": "counterexample",
+  "epistemic_status": "inferred",
+  "description": "Networks of logic gates wired as bipartite expander graphs, or as a Vandermonde matrix update over a finite field, reach high integrated information while performing nothing intelligent.",
+  "method": "derived",
+  "status": "reported",
+  "source": "207b149c-7729-48ea-abc1-9bc76a9cd9b5",
+  "procedure": null,
+  "variable": null,
+  "value": null,
+  "unit": null,
+  "uncertainty": null,
+  "sample_size": null,
+  "replication_count": null,
+  "quality": null,
+  "limitations": "Uses the IIT 2.0 era measure. The originators accept that such systems could be conscious rather than treating this as a refutation.",
+  "conflicts_of_interest": null,
+  "observed_at": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "207b149c-7729-48ea-abc1-9bc76a9cd9b5",
+        "locator": "post body",
+        "quote": "we can achieve pretty good information integration by hooking together logic gates according to any bipartite expander graph"
+      }
+    ]
+  }
+}

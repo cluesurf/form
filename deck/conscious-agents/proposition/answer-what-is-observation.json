@@ -1,0 +1,50 @@
+{
+  "record": "proposition",
+  "id": "e2f7afbd-a978-4d15-b0ed-0aebd49ec562",
+  "kind": "philosophical",
+  "epistemic_status": "hypothesized",
+  "title": "Answer: observation is agent interaction",
+  "statements": [
+    {
+      "id": "9d992674-3bc8-401b-8291-06d81bbba33e",
+      "text": "Observation is an interaction among conscious agents through their perception kernels. What is observed is an interface icon, and physical objects have definite dynamical properties only when observed.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-23"
+    }
+  ],
+  "current_statement": "9d992674-3bc8-401b-8291-06d81bbba33e",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "9f6802be-e2fa-4f89-b303-461db4c74e7e",
+        "locator": "Objections and replies, objection 11",
+        "quote": "have definite values only when they are observed."
+      },
+      {
+        "source": "9f6802be-e2fa-4f89-b303-461db4c74e7e",
+        "locator": "Definition of conscious agents, Definition 1",
+        "quote": null
+      }
+    ]
+  }
+}

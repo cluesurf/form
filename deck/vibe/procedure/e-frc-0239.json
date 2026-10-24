@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "4de05fe9-0df2-4c78-a391-9d682394e345",
+  "title": "E-FRC-0239: the polaron-frame restriction held to the exact rule at N = 25 and 49: on short closed strips (the...",
+  "purpose": "Experiment E-FRC-0239 in the gauge arena: the polaron-frame restriction held to the exact rule at N = 25 and 49: on short closed strips (the uniform-shift sector, $N^{L-1}$ states per atom site) a STAND-IN atom's vacuum Rabi exchange under the exact register rule is followed by the two-quantum restriction in the Silbey-Harris frame, and an atom above the band shows the dressed gap OPENING, the sign that decides which part of the charge's static field dresses it.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L2 (L2: known physics reproduced on a stated model).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/gauge/polaron-restriction-exact.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-FRC-0239",
+        "quote": null
+      }
+    ]
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "888be1ea-dd91-4226-9390-2bd4a8348ed8",
+  "title": "E-FRC-0258: the Clifford register gives the model exact chirality and P and CP violation, partial (C is kept, so no...",
+  "purpose": "Experiment E-FRC-0258 in the gauge arena: the Clifford register gives the model exact chirality and P and CP violation, partial (C is kept, so no asymmetry yet): right multiplication by the volume element splits Cl+(4) into two halves that commute with every piece of E-SPN-0160 and that W(F4) keeps under its 576 rotations and swaps under its 576 reflections, so the member space is two mirror species; W+(F4) has W(F4)'s invariants in every degree below 24 (Molien), so a rule covariant under the rotations only is exactly as isotropic, and the husk parity that keeps depth (the cusp fixes it) is the reflection; a chiral mass (u on one half, another unit on the other) is exact over Z[w][1/42] and keeps gamma = 0, c/4, R = tan m/m, isotropy and every channel census closed (mixed pairs at 2 M-), breaks P and CP and keeps C, P under -I and CPT; a phase on one conserved half is removed by rephasing; the frames cannot be three generations (their stabilizer has three quartic invariants), and the ring holds the trimaximal mixing exactly, with the maximal Jarlskog invariant sqrt(3)/18.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L2 (L2: known physics reproduced on a stated model).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/gauge/chiral-register.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-FRC-0258",
+        "quote": null
+      }
+    ]
+  }
+}

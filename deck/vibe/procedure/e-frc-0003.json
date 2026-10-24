@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "482a9ab3-fec1-4ff3-9d7d-37e9fa734726",
+  "title": "E-FRC-0003: anomaly cancellation forces the Standard Model hypercharges and quantized electric charges",
+  "purpose": "Experiment E-FRC-0003 in the gauge arena: anomaly cancellation forces the Standard Model hypercharges and quantized electric charges.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L0 (L0: circular: the answer reaches the verdict as a typed constant).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/gauge/anomaly-charge-quantization.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-FRC-0003",
+        "quote": null
+      }
+    ]
+  }
+}

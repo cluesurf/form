@@ -1,0 +1,28 @@
+{
+  "record": "link",
+  "id": "cdbfaa8c-5900-4963-9211-6b34499bbabf",
+  "from": "43487a0f-42ab-45cb-bb02-8f7c1c47b28a",
+  "to": "de4ece67-abb5-4cf5-9f67-d376a867e846",
+  "relation": "weakens",
+  "strength": 0.3,
+  "rationale": "The review reports that the neural evidence for predictive processing, the process theory behind this claim, is still limited.",
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "cb5978a2-a9b7-46d4-9bc3-61a3f856f512",
+        "locator": "abstract",
+        "quote": "This limited evidence base partly reflects the considerable methodological challenges that are presented when trying to test the unique predictions of these models."
+      }
+    ]
+  }
+}

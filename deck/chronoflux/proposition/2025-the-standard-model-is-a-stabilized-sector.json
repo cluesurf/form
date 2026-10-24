@@ -1,0 +1,50 @@
+{
+  "record": "proposition",
+  "id": "794c37a8-3079-4a74-b42b-c12385c102a5",
+  "kind": "empirical",
+  "epistemic_status": "hypothesized",
+  "title": "2025: the Standard Model is a stabilized sector of the temporal flow",
+  "statements": [
+    {
+      "id": "c0cfa98c-5e87-42c7-abcb-39f4fe206816",
+      "text": "Temporal inertia, gauge structure, fermion spectra and mass hierarchies arise from shear, vorticity and topological defects of the conserved temporal flow, and the Standard Model appears as an effective stabilized sector.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "c0cfa98c-5e87-42c7-abcb-39f4fe206816",
+  "status": "superseded",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "a3924fad-3486-4f8d-86c0-3d394f54a578",
+        "locator": "abstract",
+        "quote": "Temporal inertia, gauge structure, fermionic spectra, and mass hierarchies arise from internal shear, vorticity, and topological defects of the conserved temporal flow."
+      },
+      {
+        "source": "a3924fad-3486-4f8d-86c0-3d394f54a578",
+        "locator": "abstract",
+        "quote": "The Standard Model appears as an effective stabilized sector, and concrete falsifiable predictions are retained."
+      }
+    ]
+  }
+}

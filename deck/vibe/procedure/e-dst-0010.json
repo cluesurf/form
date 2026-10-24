@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "3624b487-58ab-4e93-b570-17a0f3896a56",
+  "title": "E-DST-0010: DS4: greedy routing delivers on the hyperbolic metric and degrades on the Euclidean control",
+  "purpose": "Experiment E-DST-0010 in the data-structure arena: DS4: greedy routing delivers on the hyperbolic metric and degrades on the Euclidean control.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L2 (L2: known physics reproduced on a stated model).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/data-structure/greedy-routing.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-DST-0010",
+        "quote": null
+      }
+    ]
+  }
+}

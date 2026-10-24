@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "d6fec3bc-9617-46f5-8e76-86d77e78c950",
+  "title": "E-FND-0133: the zitterbewegung cycle is exact: the interacting species front advances or retreats by exactly one...",
+  "purpose": "Experiment E-FND-0133 in the foundations arena: the zitterbewegung cycle is exact: the interacting species front advances or retreats by exactly one light-step every beat with speed never intermediate and only the direction flipping, at species-specific schedule beats (the middleweight first reverses at beat seven, the heavy at beat four, both pinned), while the massless control never flips, so mass in this model is a duty cycle of exact cone segments and the mass formula reduces to the schedule reversal statistics.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L2 (L2: known physics reproduced on a stated model).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/foundations/zitterbewegung-cycle.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-FND-0133",
+        "quote": null
+      }
+    ]
+  }
+}

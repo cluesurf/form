@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "71e6e322-d389-4a4a-b4e0-6996334e3b7c",
+  "title": "E-SPN-0184: the screen's fixed 1/32 leak is a count, not dynamics, pass: the S sector is the trivial representation...",
+  "purpose": "Experiment E-SPN-0184 in the spin arena: the screen's fixed 1/32 leak is a count, not dynamics, pass: the S sector is the trivial representation of the slot permutations, so 24 $Q_S$ is I on every slot block and an S state puts 1/24 of its weight on each slot, and 48 $Q_D$ is 2 I on every slot block, so the D sector keeps 1/24 of any value arriving at a slot; every depth-1 dock has one layer parent, so the 18 down terms never interfere and the leak is 18 x (1/24) x (1/24) = 1/32 exactly (integers; measured 6.9e-18 at five husk momenta, each down label 1/576); keeping the 18 down slots together with the depth-1 docks' up slot gives a leak of exactly 0 and the layer block of the closed screen bit for bit, the 24 labels' weight still 1/24 in total, while keeping only the down slots leaves a layer-depth coupling of sqrt(1/96) at every k; control: on the flat mesh, where every dock has 24 parents, the same weight $g^2$ interferes from 0 to 0.125 and only its torus average is the count 1/24.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L2 (L2: known physics reproduced on a stated model).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/spin/screen-leak-count.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-SPN-0184",
+        "quote": null
+      }
+    ]
+  }
+}

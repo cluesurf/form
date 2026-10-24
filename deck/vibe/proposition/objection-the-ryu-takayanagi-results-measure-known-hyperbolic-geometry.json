@@ -1,0 +1,50 @@
+{
+  "record": "proposition",
+  "id": "5ef06972-7082-4f3d-9f98-f1ce5b2867fd",
+  "kind": "empirical",
+  "epistemic_status": "inferred",
+  "title": "the Ryu-Takayanagi results measure known hyperbolic geometry, not entanglement",
+  "statements": [
+    {
+      "id": "7b944d17-cf43-4527-b11e-6427de07f9b6",
+      "text": "The Ryu-Takayanagi results measure known hyperbolic geometry, not entanglement.",
+      "language": "en",
+      "scope": "verdict stands: the objection is correct about the program today",
+      "conditions": "Measured: the experiments compare graph geodesic length to boundary arc on hyperbolic graphs, with no dynamics. Evidence named: depth-grades regrade to L2, open problem OP-06.",
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-22"
+    }
+  ],
+  "current_statement": "7b944d17-cf43-4527-b11e-6427de07f9b6",
+  "status": "active",
+  "voice": "critique",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": {
+    "value": "open",
+    "reason": "verdict stands",
+    "basis": [],
+    "proposal": null
+  },
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "research/objection.ts",
+        "quote": null
+      }
+    ]
+  }
+}

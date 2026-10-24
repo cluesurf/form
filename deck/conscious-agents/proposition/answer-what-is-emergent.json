@@ -1,0 +1,50 @@
+{
+  "record": "proposition",
+  "id": "c03ebbed-be4f-42af-8bf4-93f1d2c59386",
+  "kind": "philosophical",
+  "epistemic_status": "hypothesized",
+  "title": "Answer: spacetime and particles are projections",
+  "statements": [
+    {
+      "id": "95742590-e218-45f4-a418-76996bca32bb",
+      "text": "Spacetime, physical objects and particles are not built from smaller physical parts. They are the species-specific interface of agent dynamics, and particles are projections of communicating classes of agents.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-23"
+    }
+  ],
+  "current_statement": "95742590-e218-45f4-a418-76996bca32bb",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "2207dc33-f8a8-469f-99b2-286f1139ed74",
+        "locator": "abstract",
+        "quote": "a particle in spacetime is a projection of the Markovian dynamics of a communicating class of conscious agents."
+      },
+      {
+        "source": "326bc60f-bdd5-4190-a828-88d73ad2daba",
+        "locator": "abstract, p. 2",
+        "quote": null
+      }
+    ]
+  }
+}

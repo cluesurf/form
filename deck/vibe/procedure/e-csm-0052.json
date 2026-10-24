@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "3607cedc-50ef-4032-97ed-f2fa683777e1",
+  "title": "E-CSM-0052: the acoustic-peak mechanism on the gas: density perturbations of every wavenumber ring as standing waves...",
+  "purpose": "Experiment E-CSM-0052 in the cosmology arena: the acoustic-peak mechanism on the gas: density perturbations of every wavenumber ring as standing waves whose null times give omega = $c_s$ k with the fitted speed within ten percent of the measured 1 over root 2 mode by mode (the k $c_s t = n$ pi peak condition), the rebound weakens monotonically with k (the Silk damping analog that caps high peaks), and the free-streaming control wraps at fitted speed one half instead (the ringing is collisional sound, not kinematics), so the standing-wave and damping ingredients of the CMB peak structure exist on the model with the gravitational potentials and a decoupling epoch still open.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L2 (L2: known physics reproduced on a stated model).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/cosmology/acoustic-peaks-mechanism.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-CSM-0052",
+        "quote": null
+      }
+    ]
+  }
+}

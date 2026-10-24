@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "dda02f52-eb74-40f8-9c09-443ace83183c",
+  "title": "E-FRC-0078: the Meissner effect from the London bridge on the model's own operator: dissipationless flow (measured...",
+  "purpose": "Experiment E-FRC-0078 in the gauge arena: the Meissner effect from the London bridge on the model's own operator: dissipationless flow (measured on the gas) plus minimal coupling makes the field operator massive, the current sheet's field is then expelled with a fitted decay rate matching the exact lattice penetration 2 asinh(m/2) to under one percent at two London masses (halving the mass doubles the depth), the near-massless control penetrates sixty percent deep (the normal medium), and the one-dimensional solve matches the full three-dimensional curl-curl operator pointwise, leaving the pairing mechanism (dissipationless despite impurities, a transition temperature) as the row's open half.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L2 (L2: known physics reproduced on a stated model).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/gauge/meissner-screening.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-FRC-0078",
+        "quote": null
+      }
+    ]
+  }
+}

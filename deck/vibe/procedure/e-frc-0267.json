@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "0de192e6-c025-4ba0-83a4-d4d95a0b3f2c",
+  "title": "E-FRC-0267: the register rule tells left from right at long wavelength, and keeps rotation, spin one half, charge...",
+  "purpose": "Experiment E-FRC-0267 in the gauge arena: the register rule tells left from right at long wavelength, and keeps rotation, spin one half, charge and CPT while it does: with the Wilson mixers on one register half (E-SPN-0168) the net Weyl chirality at k = 0 is +2 on face A and -2 on face B, and the husk parity that keeps the depth maps the rule to the one with the Wilson half swapped, which reads -2 and +2 on the same faces, where the symmetric slab reads 0 and 0; the chiral pieces commute exactly with the 576 rotations of W(F4) and with no reflection; every piece commutes with the right multiplications of Cl+(4), so beside the lattice rotation by minors (integer spin) the untwisted rotation L(s) = rho(g) R(s) is an exact symmetry, and a turn by pi lifts to $e_{01}$ with $L(e_{01})^2 = -1$: a full turn negates a member; each half keeps its member number and CPT holds half by half.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L2 (L2: known physics reproduced on a stated model).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/gauge/register-handedness.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-FRC-0267",
+        "quote": null
+      }
+    ]
+  }
+}

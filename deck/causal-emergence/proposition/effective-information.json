@@ -1,0 +1,50 @@
+{
+  "record": "proposition",
+  "id": "8f42382b-1b97-40c3-9a79-60a2eb5a9bba",
+  "kind": "definitional",
+  "epistemic_status": "designed",
+  "title": "Effective information",
+  "statements": [
+    {
+      "id": "b7c57ebc-ca6d-47fb-8e82-108ead138510",
+      "text": "Effective information (EI) is the mutual information between a maximum-entropy (uniform) distribution of interventions over all states of a system and the distribution of their effects one step later.",
+      "language": "en",
+      "scope": "discrete causal models: logic gate networks, Markov chains, directed graphs",
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-23"
+    }
+  ],
+  "current_statement": "b7c57ebc-ca6d-47fb-8e82-108ead138510",
+  "status": "active",
+  "voice": "framework",
+  "defines": "effective information",
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "8360d34d-30cb-44f8-89c9-41768fb53f0d",
+        "locator": "Theory, State-Independent Causal Analysis",
+        "quote": "EI is also the mutual information (MI) between all possible causes and their effects, MI(UC;UE)"
+      },
+      {
+        "source": "af04362c-992c-4063-8ee0-0860e42624ed",
+        "locator": "p. 2",
+        "quote": "the idea is to calculate the mutual information I(X,Y) between a set of interventions (X) and their effects (Y)"
+      }
+    ]
+  }
+}

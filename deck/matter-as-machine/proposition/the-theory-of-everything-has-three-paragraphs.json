@@ -1,0 +1,50 @@
+{
+  "record": "proposition",
+  "id": "b59be94f-620c-4a31-9431-60a09d05bd00",
+  "kind": "philosophical",
+  "epistemic_status": "designed",
+  "title": "The theory of everything has three paragraphs",
+  "statements": [
+    {
+      "id": "248b5668-e386-47b1-bfea-bb60f9395902",
+      "text": "The theory of everything is planned in three parts: particles as cyclic machines, reset events, and the rules by which particles exchange matter. The third part is not yet available.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "248b5668-e386-47b1-bfea-bb60f9395902",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "a596f291-39bf-422a-8498-4220cf4834bb",
+        "locator": "opening",
+        "quote": "The theory of everything will consist of three paragraphs."
+      },
+      {
+        "source": "a596f291-39bf-422a-8498-4220cf4834bb",
+        "locator": "third paragraph",
+        "quote": "This part is not available yet."
+      }
+    ]
+  }
+}

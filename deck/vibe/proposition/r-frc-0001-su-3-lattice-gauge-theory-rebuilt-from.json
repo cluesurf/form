@@ -1,0 +1,50 @@
+{
+  "record": "proposition",
+  "id": "795a7919-415d-450d-b7e8-a697c2ae6784",
+  "kind": "empirical",
+  "epistemic_status": "simulated",
+  "title": "R-FRC-0001: SU(3) lattice gauge theory rebuilt from scratch, against published values",
+  "statements": [
+    {
+      "id": "ddcdecba-283c-4085-8ee1-632433655c61",
+      "text": "A lattice gauge theory code written from scratch reproduces, at $\\beta = 5.7$ to $5.9$, confinement, the gluon and color count, the static potential and the Sommer scale, the scalar glueball, the deconfinement transition, chiral symmetry breaking, the pion as a Goldstone boson, and string breaking by dynamical quarks.",
+      "language": "en",
+      "scope": "lattice gauge theory. status simulated. category reproduction (an established result recovered, by a method brought in from outside. Worth: evidence the machinery works. Not evidence that nature uses it). depth L2 (L2: known physics reproduced on a stated model)",
+      "conditions": "Limits: nothing about the knit. It rests on none of the five assumptions. one or two couplings in 4D. Only 3D SU(2) is extrapolated to the continuum. $T_c r_0$ uses the published $r_0/a$ at the measured $\\beta_c$, not an independently measured $r_0$. the $J$ parameter and $m_N/m_\\rho$ (E-FRC-0091) are printed but not gated. Eight quark masses on the Edinburgh plot extrapolate to $2.04 \\pm 0.20 \\pm 0.19$ against the quenched continuum 1.14, with the trend running the wrong way, which a later nucleon window traces to excited states in the early nucleon. Launch gate. Pass: quantitative, auditable. Fail: prior_art_reviewed, novel, derived, differentiating, falsifiable, skeptic_reviewed, independently_reproduced. Unknown: interesting. Novelty: known. Free parameters: 0. Fitted: false. Known before: true.",
+      "falsification_criteria": "a reproduction failure, or a pull beyond $3\\sigma$ at a second spacing",
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-22"
+    }
+  ],
+  "current_statement": "ddcdecba-283c-4085-8ee1-632433655c61",
+  "status": "disputed",
+  "voice": "framework",
+  "defines": null,
+  "question": "62bc7e74-eb1f-4bfb-9dfa-2d1dd1994bc3",
+  "prediction": null,
+  "standing": {
+    "value": "open",
+    "reason": "holds in the vibe claim graph",
+    "basis": [],
+    "proposal": null
+  },
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "research/result.ts R-FRC-0001",
+        "quote": null
+      }
+    ]
+  }
+}

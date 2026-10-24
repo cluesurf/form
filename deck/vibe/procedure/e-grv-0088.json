@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "e803eadd-28d5-4084-b118-5842dacd844d",
+  "title": "E-GRV-0088: a depth register that sets the arena predicts Newton's light-bending count 1, not general relativity's...",
+  "purpose": "Experiment E-GRV-0088 in the gravity arena: a depth register that sets the arena predicts Newton's light-bending count 1, not general relativity's 2, because the rule spends all of the light's slowing on its clock and none on its step, fail on P2's fall: the husk light's speed goes as $q^{-0.499}$ and a lump whose update divides by the same column count has its rest rate go as $q^{-0.500}$, so the factor from the read exponents is 0.996 with no fitted parameter (closed form 1); the count coupling b = a fixes $G_N$ = 1.62e-5, which is 0.0062 of the hand-set pull and is exactly E-GRV-0080's factor, so the coupling sets G and never the factor; in the radion's own slab two lumps with different rest rates and nine times the energy fall toward depth at 0.911 and 0.867 of the ray law, alike to 4.5 percent against a 3 percent gate, a mirrored lump falls the other way and a column-counted rest term does not fall (0.2 percent); over the first 120 beats they fall at 0.954 and 0.956, alike to 0.2 percent, and the fall weakens later as the slow wave meets the integer depth steps.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L2 (L2: known physics reproduced on a stated model).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/gravity/depth-arena-prediction.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-GRV-0088",
+        "quote": null
+      }
+    ]
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "05906880-541b-40a7-8eb7-9374461bcd0a",
+  "title": "E-GRV-0137: Randall-Sundrum's short-range correction on E-GRV-0105's lapse stack cut into 1 to 16 slabs a doubling...",
+  "purpose": "Experiment E-GRV-0137 in the gravity arena: Randall-Sundrum's short-range correction on E-GRV-0105's lapse stack cut into 1 to 16 slabs a doubling converges to the scalar's own continuum $1 / (2k^2)$, which is 3/4 of RS's $2 / (3k^2)$, fail on C1, R0, R1, R2 and R3: the derived $c_2(L) = x$ e^(-3x)/sinh $x / (2k^2)$, x = ln 2 / L, matches the brane kernel's log coefficient to 2.5e-4 at every L (0.115 .. 0.878 of the continuum); the real-space fit on r = 32 .. 256 reads 0.3 to 2.4 percent under it (gate 1) because the next term is not a pure $r^{-4}$; extrapolated in 1/L it gives 0.971 of the scalar's number and 0.728 of RS's (gate within 0.1 of 1), the missing 4/3 being the massive graviton's tensor structure a scalar depth does not carry; Newton's G at a fixed bulk runs 0.125 to 0.221 because the one-slab stack is a left Riemann sum; E-GRV-0105's 3 percent is the coarse layers' own lattice (+3.9 percent), not the box (-0.04) or the fit window (-0.45), so finer smooth layering cannot test it; a growing grounded bulk screens to 1e-4 by r = 24.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L1 (L1: known mathematics, correctly confirmed).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/gravity/rs-layering.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-GRV-0137",
+        "quote": null
+      }
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "record": "link",
+  "id": "13582642-1874-444d-83f1-8937c5c10927",
+  "from": "fe908ff5-b089-4454-9110-70c5ce980b1d",
+  "to": "583e795b-44e3-4581-8f4a-96c55e60ea0f",
+  "relation": "requires",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "8443eb2e-406e-4acc-94e8-33cbabbd3679",
+        "locator": "Introduction (full text)",
+        "quote": "in IIT “physical” is meant in a strictly operational sense—in terms of what can be observed and manipulated."
+      }
+    ]
+  }
+}

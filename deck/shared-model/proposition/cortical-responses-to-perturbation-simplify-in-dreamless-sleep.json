@@ -1,0 +1,68 @@
+{
+  "record": "proposition",
+  "id": "e0a7a845-367c-4fd4-a192-9d7fcba2ad17",
+  "kind": "empirical",
+  "epistemic_status": "observed",
+  "title": "Cortical responses to a pulse stay local in dreamless sleep",
+  "statements": [
+    {
+      "id": "36cd7e41-742c-415b-af6a-fb7dd3fe1039",
+      "text": "A magnetic pulse to the cortex spreads to connected areas in quiet wakefulness but stays local and dies out quickly in non-rapid eye movement sleep, and the complexity of the evoked response separates wakefulness from sleep, anesthesia and post-coma states in single individuals.",
+      "language": "en",
+      "scope": "transcranial magnetic stimulation with high-density EEG",
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-23"
+    }
+  ],
+  "current_statement": "36cd7e41-742c-415b-af6a-fb7dd3fe1039",
+  "status": "active",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": {
+    "value": "open",
+    "reason": "Proposed for integration in the seed proposal, pending the user's review.",
+    "basis": [],
+    "proposal": null
+  },
+  "origin": [
+    {
+      "repository": "iit",
+      "id": "54bb8e6a-aef1-4018-98af-7f25828cb702"
+    },
+    {
+      "repository": "iit",
+      "id": "4b140503-af00-4104-982a-a6a0a54d3532"
+    }
+  ],
+  "provenance": {
+    "written_by": "github:lancejpollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "6dcf708f-f779-4bd8-97c7-9cee28980176",
+        "locator": "abstract",
+        "quote": "Theoretical considerations suggest that consciousness depends on the brain's ability to support complex activity patterns that are, at once, distributed among interacting cortical areas (integrated) and differentiated in space and time (information-rich)."
+      },
+      {
+        "source": "e4d8c629-580e-4340-95ea-b0c6e8e40b8d",
+        "locator": "abstract",
+        "quote": "the reduction of consciousness during dreamless sleep and generalized seizures"
+      },
+      {
+        "source": "88e28970-502d-4f74-9769-174971301954",
+        "locator": "abstract",
+        "quote": "Thus, the fading of consciousness during certain stages of sleep may be related to a breakdown in cortical effective connectivity."
+      }
+    ]
+  }
+}

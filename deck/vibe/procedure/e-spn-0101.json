@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "1683ed8d-93d4-42ef-8a2a-87898a2b9886",
+  "title": "E-SPN-0101: a partial contact that never turns a vacuum line keeps the vacuum and quiets matter at every density...",
+  "purpose": "Experiment E-SPN-0101 in the spin arena: a partial contact that never turns a vacuum line keeps the vacuum and quiets matter at every density, but takes away all reach across lines, pass: on two full-key paths (side 16, 64 beats) it leaves the vacuum's history exactly as 'pass' does (0 trits over 24 beats), no momentum break on any run, 8, 16, 32 and 64 pairs hold wakes of about 141, 282, 495 and 1,120 (about 18 a pair) where 'pass' scrambles 32 pairs to about 495,000, and 0 lines off the seeds for every seed where 'pass' takes the 6+8 pair to 10; so the reach across lines under 'pass' was K turning the vacuum's own lines; the old key reproduces the probe (717, 2, 486,238).",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L2 (L2: known physics reproduced on a stated model).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/spin/partial-contact.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-SPN-0101",
+        "quote": null
+      }
+    ]
+  }
+}

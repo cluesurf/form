@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "233349b1-d5b0-44c2-bc28-02133a5b1c50",
+  "title": "E-SPN-0023: the H2+ molecular bond, a stable molecule at the observed 2.0-Bohr length from the shared electron, the...",
+  "purpose": "Experiment E-SPN-0023 in the spin arena: the H2+ molecular bond, a stable molecule at the observed 2.0-Bohr length from the shared electron, the antibonding and no-resonance cases the controls.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L1 (L1: known mathematics, correctly confirmed).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/spin/molecular-bond.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-SPN-0023",
+        "quote": null
+      }
+    ]
+  }
+}

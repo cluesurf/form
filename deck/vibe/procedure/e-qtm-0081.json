@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "7231b7eb-de52-4cb5-acb6-9165b94c4083",
+  "title": "E-QTM-0081: the gap-resolved bulk-boundary correspondence: a chiral walk carries two independent topological...",
+  "purpose": "Experiment E-QTM-0081 in the quantum arena: the gap-resolved bulk-boundary correspondence: a chiral walk carries two independent topological invariants (one per quasienergy gap), and an interface binds 2|delta nu0| edge modes at the 0 gap and 2|delta nuPi| at the pi gap, so an interface can bind modes at one gap and none at the other (4,0) or (0,4), matched integer-for-integer to the bulk windings computed from the Bloch Hamiltonian.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L2 (L2: known physics reproduced on a stated model).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/quantum/gap-resolved-bulk-boundary.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-QTM-0081",
+        "quote": null
+      }
+    ]
+  }
+}

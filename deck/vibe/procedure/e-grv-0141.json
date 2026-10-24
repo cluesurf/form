@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "f6bdf1ec-d767-4385-8d21-73859633629b",
+  "title": "E-GRV-0141: the full dock slide at cubic order fixes the TT speed at c and lambda at 1, and a foliation-preserving...",
+  "purpose": "Experiment E-GRV-0141 in the gravity arena: the full dock slide at cubic order fixes the TT speed at c and lambda at 1, and a foliation-preserving slide fixes neither, pass at L1 (Y1, Y2, Y3; the bootstrap read in ADM variables, continuum, $O_h$ ansatz): of 502 cube-symmetric two-derivative Lagrangians quadratic plus cubic in $h_{ij}$, $N_i$, n and the Eg doublet (151 of them total derivatives), 161 satisfy delta0 S2 and delta0 S3 + delta1 S2 = total derivative, exact over two primes, and their quadratic metric kernel has rank 1 and is Fierz-Pauli: DeWitt kinetic with lambda = 1, shift and lapse multipliers, and the cross polarization's gradient equal to $-c^2$ times its inertia on the axis and the face diagonal for c = 1, 2, 3; with the metric alone exactly 1 genuine invariant is left, Einstein-Hilbert; the linear slide alone keeps lambda = 1 but leaves the metric kernel at rank 2 (E-GRV-0139's free speed), and the foliation slide leaves rank 4 (Horava's alpha, lambda, beta, eta: speed and lambda free); the doublet, carried as values, keeps one kinetic term at speed c with its anisotropic gradient and its 2 linear couplings to the metric forced out; dropping the time component's transport kills every metric kinetic term; the hand-expanded sqrt(-g) $g^{mn}$ D s D s is invariant at speed c and breaks 12 rows at speed^2 2 $c^2$.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L1 (L1: known mathematics, correctly confirmed).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/gravity/cubic-slide-speed.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-GRV-0141",
+        "quote": null
+      }
+    ]
+  }
+}

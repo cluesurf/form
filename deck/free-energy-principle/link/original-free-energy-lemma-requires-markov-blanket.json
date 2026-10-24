@@ -1,0 +1,28 @@
+{
+  "record": "link",
+  "id": "1f2df2a8-c074-4f1c-ba7d-7676fed9d42f",
+  "from": "23e7eee6-bbb3-4427-845b-eef77947b2b6",
+  "to": "c258c2e8-34b1-4ab0-ba23-eddafddeecad",
+  "relation": "requires",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "a528c72c-55f5-422d-b6c3-61a840e5810d",
+        "locator": "abstract",
+        "quote": "The existence of a Markov blanket means that internal states will appear to minimize a free energy functional of the states of their Markov blanket."
+      }
+    ]
+  }
+}

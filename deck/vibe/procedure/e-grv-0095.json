@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "aeed4f7a-253b-46a7-84dd-8c7fb03c1ee3",
+  "title": "E-GRV-0095: opening the husk into a growing bulk drains a hopping source's radiation so the trit window no longer...",
+  "purpose": "Experiment E-GRV-0095 in the gravity arena: opening the husk into a growing bulk drains a hopping source's radiation so the trit window no longer fills, but the pull's front slows to about 0.6 c, fail on D2: 15 hops of 4 units over 4,096 beats keep Gauss on husk and bulk, curl 0, 0 wraps and reverse bit for bit, the largest husk step settling at 0.66 .. 0.72 (E-GRV-0091's closed husk climbed to 1.50 and wrapped) as the husk's share of the field energy falls from 0.51 to 0.24; after a hop nothing changes on the next beat and the first change stays inside the cone, but the radial step's half maximum reads 0.54 c and its first 25 percent 0.64 c; lumps fall alike to 6.2e-10 at -6.02e-5 per unit content (a tenth of the closed husk's, the screening); energy of husk plus bulk drifts 5.6e-5 of the static at three digits.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L2 (L2: known physics reproduced on a stated model).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/gravity/open-husk-moving.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-GRV-0095",
+        "quote": null
+      }
+    ]
+  }
+}

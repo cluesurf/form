@@ -1,0 +1,45 @@
+{
+  "record": "proposition",
+  "id": "7ca391e3-8480-4ac2-9191-1c683cedaba9",
+  "kind": "empirical",
+  "epistemic_status": "hypothesized",
+  "title": "Each piece of field activity is in one pocket",
+  "statements": [
+    {
+      "id": "4264f56c-85da-4c03-839f-52b25a51c96d",
+      "text": "Any one piece of electromagnetic activity can be enclosed by only a single closed pocket at a time, which makes the boundaries of experiences non-arbitrary.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-23"
+    }
+  ],
+  "current_statement": "4264f56c-85da-4c03-839f-52b25a51c96d",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "9359bfc1-6fff-41a8-8d7c-91af2f730b74",
+        "locator": "section 4.3.3",
+        "quote": "the requirement that any one piece of EM activity can only be enclosed by a single closed pocket at any one time"
+      }
+    ]
+  }
+}

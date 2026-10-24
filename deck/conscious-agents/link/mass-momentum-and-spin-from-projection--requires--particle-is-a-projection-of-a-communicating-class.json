@@ -1,0 +1,28 @@
+{
+  "record": "link",
+  "id": "cf8feb02-c7f6-4580-9a2c-780f85e59916",
+  "from": "30bf344e-36f3-4b87-8c85-80997c23ae1b",
+  "to": "2ea675b2-c7ed-4034-9af4-22403f8f24d4",
+  "relation": "requires",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "2207dc33-f8a8-469f-99b2-286f1139ed74",
+        "locator": "section 7",
+        "quote": "how physical properties such as mass, momentum, and spin arise as projections from Markov polytopes"
+      }
+    ]
+  }
+}

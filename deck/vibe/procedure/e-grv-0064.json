@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "8f2661a1-05b7-4e5e-bb35-8f6830b530d3",
+  "title": "E-GRV-0064: no distance from shared information on the adopted knit's vacuum, fail on C3 and C4: on the settled gas...",
+  "purpose": "Experiment E-GRV-0064 in the gravity arena: no distance from shared information on the adopted knit's vacuum, fail on C3 and C4: on the settled gas (side 16, 8/24 per slot, 17 starts, 192 beats) the Gaussian mutual information between husk columns, from the members' connected energy correlation, is zero within errors at every separation: all 21 displacement classes (axis, face and body diagonals, k = 1 to 7) have |rho| at most 5.2e-4, none of the 16 classes of mesh distance up to 6 is 3 errors from zero (nearest axis neighbor 4.3e-5 +- 1.9e-4), and the mean, about -2.5e-4, is the conserved total's own -1/(4,096 - 1) = -2.44e-4 at every separation; the reading is translation invariant (the two halves agree within 3 errors, trivially), energy and charge exact; the settled vacuum is a product state on the husk, so neither $d \\sim I^{-1 / 2}$ nor d ~ -ln I can give back the mesh distance.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L2 (L2: known physics reproduced on a stated model).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/gravity/shared-information-distance.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-GRV-0064",
+        "quote": null
+      }
+    ]
+  }
+}

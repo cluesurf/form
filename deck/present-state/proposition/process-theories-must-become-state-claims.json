@@ -1,0 +1,50 @@
+{
+  "record": "proposition",
+  "id": "52c95bcc-3664-4a27-9bd0-1618fbc959ef",
+  "kind": "philosophical",
+  "epistemic_status": "inferred",
+  "title": "Process theories must give up a premise or become state claims",
+  "statements": [
+    {
+      "id": "5108247b-2015-4251-994f-a25e0a5e121d",
+      "text": "Theories that make consciousness depend on undergoing a temporally extended process, such as global broadcasting, recurrent processing, predictive updating or computation, must deny local-state sufficiency, accept that consciousness is epiphenomenal and empirically idle, or restate the claim as one about the complete present state the process produced.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "5108247b-2015-4251-994f-a25e0a5e121d",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "ac2774e1-a04c-4c89-9db2-7848c6f5ce0b",
+        "locator": "abstract",
+        "quote": "Many influential theories identify consciousness with temporally extended processes: global broadcasting, recurrent processing, predictive updating, computation."
+      },
+      {
+        "source": "ac2774e1-a04c-4c89-9db2-7848c6f5ce0b",
+        "locator": "section 1",
+        "quote": "or it must adopt epiphenomenality, which would render consciousness physically irrelevant, and therefore empirically idle"
+      }
+    ]
+  }
+}

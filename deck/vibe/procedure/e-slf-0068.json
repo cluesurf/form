@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "189309fe-a8d5-41c1-8064-37178f79a750",
+  "title": "E-SLF-0068: the leaky confiner holds a body but seals its radiation (the perturbation never reaches the bath)",
+  "purpose": "Experiment E-SLF-0068 in the selves arena: the leaky confiner holds a body but seals its radiation (the perturbation never reaches the bath).",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L2 (L2: known physics reproduced on a stated model).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/selves/leaky-confiner.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-SLF-0068",
+        "quote": null
+      }
+    ]
+  }
+}

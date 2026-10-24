@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "13b91b61-e80c-418d-b23e-c29a5c19652a",
+  "title": "E-FRC-0150: one Sigma(648) element per link: the rule of E-FRC-0144 with each link's grid move replaced by the full...",
+  "purpose": "Experiment E-FRC-0150 in the gauge arena: one Sigma(648) element per link: the rule of E-FRC-0144 with each link's grid move replaced by the full element of the classical color group, priced on Re Tr so the field feels the center, the grid move its quotient (a homomorphism with kernel exactly the 3 center elements), reversing exactly, conserving energy to the unit, love and fear, keeping Gauss's law and commuting with a frame change by all 648 elements, while identifying the link's center phase with E mod 3 would break Gauss's law under a center frame change.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L2 (L2: known physics reproduced on a stated model).",
+  "status": "completed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/gauge/sigma-flux-links.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "research/result.ts R-FRC-0006",
+        "quote": null
+      }
+    ]
+  }
+}

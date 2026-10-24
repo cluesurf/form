@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "48716495-da64-41b8-b759-103b1cb7a38b",
+  "title": "E-SPN-0053: a spin one half charged token on the husk, a STAND-IN: the fear coin cubed is the identity and every...",
+  "purpose": "Experiment E-SPN-0053 in the spin arena: a spin one half charged token on the husk, a STAND-IN: the fear coin cubed is the identity and every orbit of the husk's link lines under its tetrahedral turns has 3 or 6 members, so a husk-symmetric fear walk is massless at rest; a token that buys its mass with a depth excursion, its spin locked to the direction of each copy, carries the role doublet's 2 pi sign, turns covariantly beat by beat, keeps an isotropic mass, conserves its one whole charge with exact continuity on the husk and stays under the husk stream speed.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L2 (L2: known physics reproduced on a stated model).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/spin/spinor-token.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-SPN-0053",
+        "quote": null
+      }
+    ]
+  }
+}

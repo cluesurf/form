@@ -1,0 +1,45 @@
+{
+  "record": "proposition",
+  "id": "fdaab6ea-fff4-4218-87bb-afb025b9c387",
+  "kind": "empirical",
+  "epistemic_status": "hypothesized",
+  "title": "The most extreme experience far exceeds the next",
+  "statements": [
+    {
+      "id": "0446e4e0-6b3c-463a-9f29-64bc5c3ea333",
+      "text": "If valence is heavy-tailed, people should report large differences between their most extreme and second most extreme experiences.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-23"
+    }
+  ],
+  "current_statement": "0446e4e0-6b3c-463a-9f29-64bc5c3ea333",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "85b7eae8-271a-41ee-9c3c-3c2ad6eae62f",
+        "locator": "section 2.3.3",
+        "quote": "we would also expect larger differences between their most extreme and second most extreme memories."
+      }
+    ]
+  }
+}

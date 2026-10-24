@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "1dc5f060-f446-4a09-aaf4-72ae49422fcc",
+  "title": "E-GRV-0043: the multipole kinematics of an unequal-mass binary in its centre-of-mass frame: the monopole is constant...",
+  "purpose": "Experiment E-GRV-0043 in the gravity arena: the multipole kinematics of an unequal-mass binary in its centre-of-mass frame: the monopole is constant and the mass dipole vanishes from momentum conservation (not input symmetry, the masses are 2 and 1), while the quadrupole oscillates at twice the orbital frequency, so given the standard multipole radiation rule (stated, not derived here) the wave comes out at 2 f_orb, the cos(2 phi) LIGO signature that E-GRV-0016 hardcoded.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L1 (L1: known mathematics, correctly confirmed).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/gravity/quadrupole-radiation-structure.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-GRV-0043",
+        "quote": null
+      }
+    ]
+  }
+}

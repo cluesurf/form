@@ -1,0 +1,50 @@
+{
+  "record": "proposition",
+  "id": "944942c1-5bd2-48b7-b520-61c3c96fac30",
+  "kind": "empirical",
+  "epistemic_status": "simulated",
+  "title": "E-FRC-0094: the D4 coin holds 32 zero-sum triangles (16 A2 subsystems, the room for color) but no beat of the...",
+  "statements": [
+    {
+      "id": "27526201-f4e2-4299-9966-efd0d5d6d2f0",
+      "text": "The D4 coin holds 32 zero-sum triangles (16 A2 subsystems, the room for color) but no beat of the committed rule lets any of them interact inside one collision block, the blocks being at most two lines, so the rule has no single-collision three-body vertex of the epsilon kind.",
+      "language": "en",
+      "scope": "experiment E-FRC-0094, arena gauge, depth L2 (L2: known physics reproduced on a stated model)",
+      "conditions": "substrates: 3434. In a paper: false",
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-22"
+    }
+  ],
+  "current_statement": "27526201-f4e2-4299-9966-efd0d5d6d2f0",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": {
+    "value": "open",
+    "reason": "holds in the vibe claim graph",
+    "basis": [],
+    "proposal": null
+  },
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "research/result.ts R-FRC-0003",
+        "quote": null
+      }
+    ]
+  }
+}

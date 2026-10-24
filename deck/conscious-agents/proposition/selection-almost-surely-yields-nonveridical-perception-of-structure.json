@@ -1,0 +1,45 @@
+{
+  "record": "proposition",
+  "id": "f87bfed7-de0f-4f85-8f92-56a8e06dc45f",
+  "kind": "empirical",
+  "epistemic_status": "inferred",
+  "title": "Selection almost surely yields nonveridical perception of structure",
+  "statements": [
+    {
+      "id": "61cd4808-9090-4c81-be40-f7b27c7a8c91",
+      "text": "Because payoff functions generically fail to preserve structure, natural selection almost surely shapes perceptions of the structures of the world to be nonveridical.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-23"
+    }
+  ],
+  "current_statement": "61cd4808-9090-4c81-be40-f7b27c7a8c91",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "335d668a-eb52-421e-8c51-a7855e482d0e",
+        "locator": "abstract",
+        "quote": "natural selection almost surely shapes perceptions of these structures to be non-veridical."
+      }
+    ]
+  }
+}

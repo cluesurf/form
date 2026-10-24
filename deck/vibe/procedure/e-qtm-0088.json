@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "735a7d59-ff13-4f55-9810-2660f3c01d83",
+  "title": "E-QTM-0088: the measurement amplifier quantified: the fitted Lyapunov exponent of the arrow-driven committed rule is...",
+  "purpose": "Experiment E-QTM-0088 in the quantum arena: the measurement amplifier quantified: the fitted Lyapunov exponent of the arrow-driven committed rule is essentially zero at dead peace (the reversible rule is non-chaotic) and clearly positive for arrow above zero (about 0.03 to 0.085 per beat, peaking near arrow 0.05), so the arrow supplies a measured positive exponential amplification rate the reversible rule lacks.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L2 (L2: known physics reproduced on a stated model).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/quantum/amplifier-lyapunov-exponent.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-QTM-0088",
+        "quote": null
+      }
+    ]
+  }
+}

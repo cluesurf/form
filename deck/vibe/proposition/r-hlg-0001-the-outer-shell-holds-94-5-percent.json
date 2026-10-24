@@ -1,0 +1,50 @@
+{
+  "record": "proposition",
+  "id": "df335c3f-ca7a-4dda-987d-119b628433b3",
+  "kind": "empirical",
+  "epistemic_status": "simulated",
+  "title": "R-HLG-0001: The outer shell holds 94.5 percent of the ball",
+  "statements": [
+    {
+      "id": "1f3f31cb-5321-4829-8d92-e386ba1efd04",
+      "text": "In the {3,4,3,4} honeycomb, through shell 4, the outermost shell of a ball holds a constant 0.9453 of the ball, equal to $(\\lambda - 1)/\\lambda$ for the growth factor $\\lambda = 18.278$, while in a flat four-dimensional lattice the fraction falls to 0.2467 by radius 14.",
+      "language": "en",
+      "scope": "geometry. status simulated. category measurement (a measured property of the committed knit itself, compared with nothing in nature. Worth: what the program is, including what it lacks). depth L2 (L2: known physics reproduced on a stated model)",
+      "conditions": "Limits: five shells, 170,000 docks. a property of the geometry, not of the rule running on it. Launch gate. Pass: derived, quantitative, auditable. Fail: prior_art_reviewed, novel, differentiating, falsifiable, skeptic_reviewed, independently_reproduced. Unknown: interesting. Novelty: known. Free parameters: 0. Fitted: false. Known before: false.",
+      "falsification_criteria": "a mathematical counterexample: a shell count off the growth factor",
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-22"
+    }
+  ],
+  "current_statement": "1f3f31cb-5321-4829-8d92-e386ba1efd04",
+  "status": "disputed",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": {
+    "value": "open",
+    "reason": "holds in the vibe claim graph",
+    "basis": [],
+    "proposal": null
+  },
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "research/result.ts R-HLG-0001",
+        "quote": null
+      }
+    ]
+  }
+}

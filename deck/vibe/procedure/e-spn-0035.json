@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "d1ce2d60-9ec4-4a3e-9a91-b9f6b7dee84d",
+  "title": "E-SPN-0035: the {7,3} heptagonal coin carries no spinor, only integer-spin reps of D7",
+  "purpose": "Experiment E-SPN-0035 in the spin arena: the {7,3} heptagonal coin carries no spinor, only integer-spin reps of D7.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L1 (L1: known mathematics, correctly confirmed).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/spin/spinor-73.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-SPN-0035",
+        "quote": null
+      }
+    ]
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "record": "proposition",
+  "id": "d15769c1-1b8e-4e00-b43c-f81941503a56",
+  "kind": "empirical",
+  "epistemic_status": "inferred",
+  "title": "spin one half is not carried by the knit",
+  "statements": [
+    {
+      "id": "56122fb8-037f-473c-b177-1aa9fda63fc3",
+      "text": "Spin one half is not carried by the knit.",
+      "language": "en",
+      "scope": "verdict open: no experiment yet decides it",
+      "conditions": "Measured: the turning weave's turn lifts after four beats to (-1, +1) in $SU(2)_L \\times SU(2)_R$, and its palindromic schedule nets +1 over its period (E-SPN-0044). The role carries spin one half: under the 2 pi turn every role is a doublet and a scalar (E-SPN-0051, E-SPN-0054), and with every role locked into its doublet turn sign and exchange sign agree on every charge-one state (E-SPN-0071, stand-in tokens). But the adopted knit copies all 24 roots at once, so its copies commute and the spin never enters the band (E-SPN-0083). The doublet-locked stream that would carry it was adopted on 2026-09-26 and is not built. Evidence named: E-SPN-0044, E-SPN-0051, E-SPN-0054, E-SPN-0071, E-SPN-0083, open problem OP-08.",
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-22"
+    }
+  ],
+  "current_statement": "56122fb8-037f-473c-b177-1aa9fda63fc3",
+  "status": "active",
+  "voice": "critique",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": {
+    "value": "open",
+    "reason": "verdict open",
+    "basis": [],
+    "proposal": null
+  },
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "research/objection.ts",
+        "quote": null
+      }
+    ]
+  }
+}

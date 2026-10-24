@@ -1,0 +1,45 @@
+{
+  "record": "proposition",
+  "id": "ba4788d9-dc39-449e-9876-e01fde6e0614",
+  "kind": "definitional",
+  "epistemic_status": "designed",
+  "title": "Conscious presence",
+  "statements": [
+    {
+      "id": "771f5bb6-f702-446d-9a3f-216e84a18111",
+      "text": "Conscious presence is the subjective sense that the world, and the self within it, are real.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-23"
+    }
+  ],
+  "current_statement": "771f5bb6-f702-446d-9a3f-216e84a18111",
+  "status": "active",
+  "voice": "framework",
+  "defines": "conscious presence",
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "329d2407-0571-4ab3-ab6b-0b58f67fd54d",
+        "locator": "Introduction",
+        "quote": "the subjective sense of reality of the world and of the self within the world"
+      }
+    ]
+  }
+}

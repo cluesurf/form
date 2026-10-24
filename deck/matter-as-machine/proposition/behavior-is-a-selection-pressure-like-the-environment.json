@@ -1,0 +1,50 @@
+{
+  "record": "proposition",
+  "id": "a09b2ba0-0c0a-4068-8bde-6e782dcd17f9",
+  "kind": "empirical",
+  "epistemic_status": "hypothesized",
+  "title": "Behavior is a selection pressure, like the environment",
+  "statements": [
+    {
+      "id": "8e99e862-70c8-49ad-8b0c-7f8a54ca700d",
+      "text": "An animal's behavior changes which inherited traits are favored, as its environment does. A drive to attack in the common ancestor of the Carnivora may have shaped its descendants, and a mutation for better swimming does little for an animal that avoids water.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "8e99e862-70c8-49ad-8b0c-7f8a54ca700d",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "01aec1de-58cc-4950-9db6-4817975a2a2d",
+        "locator": "examples",
+        "quote": "That ancestor may have had an inherited drive to attack, which could have shaped the evolution of its descendants"
+      },
+      {
+        "source": "01aec1de-58cc-4950-9db6-4817975a2a2d",
+        "locator": "examples",
+        "quote": "a mutation that lets you swim better is not very useful to those who hate water."
+      }
+    ]
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "record": "proposition",
+  "id": "03d19142-f9e0-455b-ada7-95736cf745f9",
+  "kind": "definitional",
+  "epistemic_status": "designed",
+  "title": "Emergence as information conversion",
+  "statements": [
+    {
+      "id": "a03b15e5-64e0-450e-89d4-7014de7662e4",
+      "text": "Emergence is the conversion of information from one type to another at a macroscale, such as from redundant to synergistic information in a partial information decomposition, so that reduction to the micro loses that type.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-23"
+    }
+  ],
+  "current_statement": "a03b15e5-64e0-450e-89d4-7014de7662e4",
+  "status": "active",
+  "voice": "framework",
+  "defines": "information conversion",
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "32625ac1-6f29-48b7-8006-e55cbd3e61ee",
+        "locator": "abstract",
+        "quote": "macroscales can convert information from one type to another. In such cases, reduction to a microscale means the loss of this type of information."
+      }
+    ]
+  }
+}

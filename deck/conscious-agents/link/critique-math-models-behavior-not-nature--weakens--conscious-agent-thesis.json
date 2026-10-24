@@ -1,0 +1,28 @@
+{
+  "record": "link",
+  "id": "aa4ba23d-190b-4ac3-a57f-fb83be9a1b82",
+  "from": "558d41a7-8e79-497f-9850-145d8b7feca6",
+  "to": "fa083522-90f3-489e-9bc7-c1f4978983d7",
+  "relation": "weakens",
+  "strength": null,
+  "rationale": "Representing consciousness in a dynamical formalism does not show that the formalism describes what consciousness is.",
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "0508848c-f673-40ec-bce2-7d77b2bbc0a3",
+        "locator": "main text",
+        "quote": "modelling something mathematically tells us nothing yet about what it actually is, only how it behaves"
+      }
+    ]
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "record": "proposition",
+  "id": "8947d009-3588-4789-98cf-2ec1b665c76d",
+  "kind": "empirical",
+  "epistemic_status": "inferred",
+  "title": "Some tasks require consciousness",
+  "statements": [
+    {
+      "id": "f6651418-cb57-484c-847c-4839e5811361",
+      "text": "Consciousness is required for some specific tasks: durable maintenance of information, novel combinations of operations, and the spontaneous generation of intentional behavior.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-23"
+    }
+  ],
+  "current_statement": "f6651418-cb57-484c-847c-4839e5811361",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "9b21a09b-835f-4256-afbf-19425df2597e",
+        "locator": "abstract",
+        "quote": "including those that require durable information maintenance, novel combinations of operations, or the spontaneous generation of intentional behavior"
+      }
+    ]
+  }
+}

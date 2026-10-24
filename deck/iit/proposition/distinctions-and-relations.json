@@ -1,0 +1,45 @@
+{
+  "record": "proposition",
+  "id": "e01100d6-c62b-4840-a9d6-63e449c5658b",
+  "kind": "definitional",
+  "epistemic_status": "designed",
+  "title": "Distinctions and relations",
+  "statements": [
+    {
+      "id": "2dc3c83c-b338-4c85-abe7-8985ae366a5a",
+      "text": "A distinction is a subset of a complex's units that specifies a cause and an effect over subsets of units. Relations are the overlaps among distinctions. Together they make up the cause-effect structure.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-23"
+    }
+  ],
+  "current_statement": "2dc3c83c-b338-4c85-abe7-8985ae366a5a",
+  "status": "active",
+  "voice": "framework",
+  "defines": "distinction",
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "8443eb2e-406e-4acc-94e8-33cbabbd3679",
+        "locator": "section \"Postulates of physical existence\" (full text)",
+        "quote": "subsets of its units must specify cause–effect states over subsets of units (distinctions) that can overlap with one another (relations)"
+      }
+    ]
+  }
+}

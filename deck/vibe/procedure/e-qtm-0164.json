@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "a1a31214-626f-49b7-9236-b81129d1eae3",
+  "title": "E-QTM-0164: Leggett-Garg K3 = C12 + C23 - C13 enumerated exactly, partial: on the lone vibe it never passes 1 (best...",
+  "purpose": "Experiment E-QTM-0164 in the quantum arena: Leggett-Garg K3 = C12 + C23 - C13 enumerated exactly, partial: on the lone vibe it never passes 1 (best 23/32 over 440 triples to beat 12, the registered falsifier met), while the role read by the lock's slot reading reaches 1 + sqrt 6 / 4 = 1.6124, above the Luders bound 3/2, on 9,216 of 46,656 schedules (1.4714, a root of 8 $x^3 - 18 x + 1$, under Luders readings); every classical control stays at or below 1. Reported after the first run: the other three Leggett-Garg forms reach 19/16 on the vibe and 7/4 on the role.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L2 (L2: known physics reproduced on a stated model).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/quantum/leggett-garg-exact.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-QTM-0164",
+        "quote": null
+      }
+    ]
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "5a2baf69-85f4-44d7-9003-1ae0492ab244",
+  "title": "E-FRC-0177: the warp on the husk projection: weighing each depth layer of the column sum by the {3,4,3,4} warp...",
+  "purpose": "Experiment E-FRC-0177 in the gauge arena: the warp on the husk projection: weighing each depth layer of the column sum by the {3,4,3,4} warp factor, lambda^(-s j), breaks the husk's Gauss's law, moves the love-fear falloff toward the one-sheet restriction's rather than toward 1 / r, and lets bulk modes off the husk's k4 = 0 onto it, where the flat sum keeps Gauss's law, 2 light branches and isotropy.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L2 (L2: known physics reproduced on a stated model).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/gauge/husk-warp.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-FRC-0177",
+        "quote": null
+      }
+    ]
+  }
+}

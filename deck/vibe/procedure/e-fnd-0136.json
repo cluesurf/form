@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "40c4467f-1fee-4eb7-9c5c-d07c78cc05a8",
+  "title": "E-FND-0136: the Kac band and the warp ladder jointly account for the charged-lepton hierarchy pattern: with species...",
+  "purpose": "Experiment E-FND-0136 in the foundations arena: the Kac band and the warp ladder jointly account for the charged-lepton hierarchy pattern: with species prefactors required to lie in the measured Kac band, the integer depth assignment nine, five, three fits (required spread one point seven six against the band two point zero seven) and every single-step deviation is excluded (spreads two point six five to seven point five one), so the relative depth pattern of four then two steps is uniquely selected up to the scale-degenerate uniform shift, resolving the E-FRC-0067 negative as the shadow of the missing Kac factor, stated as consistency and uniqueness of pattern rather than derivation.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L1 (L1: known mathematics, correctly confirmed).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/foundations/joint-mass-factorization.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-FND-0136",
+        "quote": null
+      }
+    ]
+  }
+}

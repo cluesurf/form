@@ -1,0 +1,45 @@
+{
+  "record": "proposition",
+  "id": "826d85ad-45dc-43a3-8258-6c5a85d5b8fd",
+  "kind": "philosophical",
+  "epistemic_status": "hypothesized",
+  "title": "The phenomenal and access distinction is questioned",
+  "statements": [
+    {
+      "id": "4213d4ba-20a4-401e-9ce7-cfddeceb89a1",
+      "text": "The global neuronal workspace theory focuses on conscious access and processing and questions the distinction between phenomenal and access consciousness itself.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-23"
+    }
+  ],
+  "current_statement": "4213d4ba-20a4-401e-9ce7-cfddeceb89a1",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "48959277-86d2-4076-9942-58a24f753040",
+        "locator": "The GNW and Other Theories of Consciousness, p. 789",
+        "quote": "brings into question the very distinction between phenomenal and access consciousness"
+      }
+    ]
+  }
+}

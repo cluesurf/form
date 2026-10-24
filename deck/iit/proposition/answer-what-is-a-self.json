@@ -1,0 +1,50 @@
+{
+  "record": "proposition",
+  "id": "2c84913f-af17-4023-bde5-faa788097f65",
+  "kind": "philosophical",
+  "epistemic_status": "inferred",
+  "title": "Answer: what is a self",
+  "statements": [
+    {
+      "id": "4bd5a566-fc25-465a-a979-30b37c350313",
+      "text": "The self is the complex for which an experience exists: experience is intrinsic, for the experiencer. That complex, not its neurons, is the cause of its willed actions.",
+      "language": "en",
+      "scope": "This repository reads the answer from the sources. They speak of the experiencer and of free will rather than defining a self.",
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-23"
+    }
+  ],
+  "current_statement": "4bd5a566-fc25-465a-a979-30b37c350313",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "8443eb2e-406e-4acc-94e8-33cbabbd3679",
+        "locator": "section \"Axioms of phenomenal existence\" (full text)",
+        "quote": "Experience is intrinsic: it exists for itself."
+      },
+      {
+        "source": "e0b1d15e-30e2-4c9e-8b01-e4778918d044",
+        "locator": "abstract (arXiv record)",
+        "quote": "what exists absolutely, in physical terms, are intrinsic entities, and only what exists can cause."
+      }
+    ]
+  }
+}

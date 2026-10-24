@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "58ba309a-f434-465d-a9df-ecc917ffa8f4",
+  "title": "E-FND-0176: the double-exchange phase of two register holes on R*, read as a Wilson loop of the exact one-cycle...",
+  "purpose": "Experiment E-FND-0176 in the foundations arena: the double-exchange phase of two register holes on R*, read as a Wilson loop of the exact one-cycle relative transfer on the 3d husk slice (L = 8), partial with no anyon: a loop round contact differs from the same loop displaced by a phase that changes with shape and across eigenvalues (no single statistical phase), from two fields, the pair string curving the whole slice and the contact phase curving only next to contact; a typed flux tube reads pi/2 linked and 0 unlinked, the free rule is flat.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L1 (L1: known mathematics, correctly confirmed).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/foundations/husk-braid.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-FND-0176",
+        "quote": null
+      }
+    ]
+  }
+}

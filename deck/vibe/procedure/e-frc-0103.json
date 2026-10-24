@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "2a878c61-cdd2-421b-9c46-a4b242b1715d",
+  "title": "E-FRC-0103: the classical color group Sigma(648), whose links are three tones and a coin direction, freezes under...",
+  "purpose": "Experiment E-FRC-0103 in the gauge arena: the classical color group Sigma(648), whose links are three tones and a coin direction, freezes under the Wilson action long before the couplings where hadrons are measured, but with a $\\operatorname{Re} \\operatorname{Tr} U^2$ term it stays unfrozen, deconfines at $N_t = 4$, and there gives the same Creutz ratios as SU(3) at its $N_t = 4$ transition, so at that spacing SU(3) needs no golden-ratio element.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L2 (L2: known physics reproduced on a stated model).",
+  "status": "completed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/gauge/finite-color-groups.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "research/result.ts R-FRC-0003",
+        "quote": null
+      }
+    ]
+  }
+}

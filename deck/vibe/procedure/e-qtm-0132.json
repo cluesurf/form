@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "fc2d0595-fdd6-4a8d-a070-0d01d617fdbd",
+  "title": "E-QTM-0132: the exact largest CHSH of a pure two-qutrit knot is 2 sqrt((p1 + p2)^2 + 4 p1 p2) + 2 p3 in its Schmidt...",
+  "purpose": "Experiment E-QTM-0132 in the quantum arena: the exact largest CHSH of a pure two-qutrit knot is 2 sqrt((p1 + p2)^2 + 4 p1 p2) + 2 p3 in its Schmidt weights, proven by the Jordan split of each side into a plane and a line, and equal to a sound see-saw on all 1,222 knots of the Bell histories; E-QTM-0112's excess over it was the see-saw's sign of a degenerate complex operator, not physics.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L2 (L2: known physics reproduced on a stated model).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/quantum/tsirelson-closed-form.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-QTM-0132",
+        "quote": null
+      }
+    ]
+  }
+}

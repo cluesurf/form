@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "442638a1-ef0d-41e7-8503-4c9cfedf9b4d",
+  "title": "E-GRV-0038: gravity is the forced F4-invariant trace, the unique symmetric scalar the 24-cell already carries",
+  "purpose": "Experiment E-GRV-0038 in the gravity arena: gravity is the forced F4-invariant trace, the unique symmetric scalar the 24-cell already carries.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L2 (L2: known physics reproduced on a stated model).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/gravity/trace-singlet.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-GRV-0038",
+        "quote": null
+      }
+    ]
+  }
+}

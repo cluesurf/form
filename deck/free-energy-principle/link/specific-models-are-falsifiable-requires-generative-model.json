@@ -1,0 +1,28 @@
+{
+  "record": "link",
+  "id": "0337c67d-e532-4f4a-8eba-b7848592e168",
+  "from": "e7827c9f-e6f9-4c18-a8b4-16e1ad096361",
+  "to": "d8065bab-fd02-46e9-bec2-6508828ae91c",
+  "relation": "requires",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "951a63ba-fbb2-4b78-af38-52646f22dbe0",
+        "locator": "section 1",
+        "quote": "committing to a specific generative model can be taken as a commitment to a specific—and falsifiable—theory."
+      }
+    ]
+  }
+}

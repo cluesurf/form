@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "67b681f9-148f-46a7-8a0e-878805ea039c",
+  "title": "E-FRC-0026: so(10) breaks to su(5) to the Standard Model with the 16-spinor carrying a singlet",
+  "purpose": "Experiment E-FRC-0026 in the gauge arena: so(10) breaks to su(5) to the Standard Model with the 16-spinor carrying a singlet.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L1 (L1: known mathematics, correctly confirmed).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/gauge/gut-breaking.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-FRC-0026",
+        "quote": null
+      }
+    ]
+  }
+}

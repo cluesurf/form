@@ -1,0 +1,45 @@
+{
+  "record": "proposition",
+  "id": "c1c524fc-53c6-41b7-a7f2-bd1a841b5d16",
+  "kind": "empirical",
+  "epistemic_status": "hypothesized",
+  "title": "Decoherence is loss of recoverable coherence, not a collapse postulate",
+  "statements": [
+    {
+      "id": "df23e793-27bb-459b-9d07-71aa9f537ce1",
+      "text": "Environmental coupling lowers the accessible phase coherence of a subsystem, $dR_{\\mathrm{phase}}/dt < 0$, while global unitary evolution stays lawful. This is bookkeeping of recoverability, not a new collapse postulate.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "df23e793-27bb-459b-9d07-71aa9f537ce1",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "74dae0ca-ffc6-4827-bce0-5561d176e0ee",
+        "locator": "section 13.3",
+        "quote": "This is not a new collapse postulate. It is a recoverability bookkeeping statement expressing how accessible coherence diminishes under environmental coupling while global unitary evolution remains lawful."
+      }
+    ]
+  }
+}

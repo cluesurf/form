@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "502ee06a-ac76-4904-b00a-1051fce7bfa0",
+  "title": "E-FRC-0130: a lone color cannot return to its partner under the committed orientation: color-local moves keep a lone...",
+  "purpose": "Experiment E-FRC-0130 in the gauge arena: a lone color cannot return to its partner under the committed orientation: color-local moves keep a lone vibe in its sign class, and the committed class of 12 directions lies in an open half-space, so it drifts one way forever, while some of the 4,096 orientations of the lines hold closed walks and would let a part come back.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L1 (L1: known mathematics, correctly confirmed).",
+  "status": "completed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/gauge/sign-class-drift.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "research/result.ts R-FRC-0006",
+        "quote": null
+      }
+    ]
+  }
+}

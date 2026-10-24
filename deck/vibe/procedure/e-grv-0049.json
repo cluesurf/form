@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "3d73be38-dcb3-49bc-91e0-d50d610bd5d5",
+  "title": "E-GRV-0049: TD Poisson gravity is exponentially screened in the vibe hyperbolic bulk: the graph Laplacian Green's...",
+  "purpose": "Experiment E-GRV-0049 in the gravity arena: TD Poisson gravity is exponentially screened in the vibe hyperbolic bulk: the graph Laplacian Green's function (a point mass Newtonian potential) decays like a Yukawa potential, not the power-law 1/r of flat space, so Newtonian gravity cannot live in the curved bulk and must live on the flat cusp, with the polynomial flat 4D lattice the control.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L2 (L2: known physics reproduced on a stated model).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/gravity/td-log-density-gravity-screened.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-GRV-0049",
+        "quote": null
+      }
+    ]
+  }
+}

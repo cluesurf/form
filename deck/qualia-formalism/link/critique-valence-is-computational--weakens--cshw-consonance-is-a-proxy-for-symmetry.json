@@ -1,0 +1,28 @@
+{
+  "record": "link",
+  "id": "a6513464-a9b4-4edf-b2db-bf27c20bf4bf",
+  "from": "2a7c37e3-ef90-41e8-a6ae-5333c151f156",
+  "to": "b23f0989-ee95-4315-80c5-c9935636b45d",
+  "relation": "weakens",
+  "strength": null,
+  "rationale": "If valence is a computational signal in specific circuits, a global harmonic measure would track it only by coincidence.",
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "1380a1e2-5203-4420-ac0c-1892cdfa6d09",
+        "locator": "comment of 6 Sep 2021",
+        "quote": "I'm going in expecting a, um, computational theory of valence, suffering, etc."
+      }
+    ]
+  }
+}

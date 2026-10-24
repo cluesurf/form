@@ -1,0 +1,28 @@
+{
+  "record": "link",
+  "id": "1914fbb4-86b6-4508-8032-08fcb398ef0d",
+  "from": "3873cfa5-04fa-4014-956b-41cfcc4f6e4f",
+  "to": "b7c70840-e081-4b00-8e24-4bec8218b285",
+  "relation": "weakens",
+  "strength": 0.5,
+  "rationale": "In linear systems the blanket condition holds only for a narrow range of parameters.",
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "3871b0fc-d743-488a-8d26-6f123424ab40",
+        "locator": "abstract (arXiv record)",
+        "quote": "This equivalence does not hold in general even for linear systems, since it requires an effective decoupling from the system's history of interactions."
+      }
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "record": "link",
+  "id": "750abdbd-f1eb-4f4c-8030-781f1644e8e7",
+  "from": "ac70c2dc-204a-4d1b-8531-1b9ad5914816",
+  "to": "07146716-c6ad-45f9-aa53-a4554416f42a",
+  "relation": "requires",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "15e904a9-b714-4166-a1df-29884230fe2a",
+        "locator": "abstract, lines 16-18",
+        "quote": "increases the selection pressures against veridical perceptions"
+      }
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "record": "link",
+  "id": "fa8d5d67-227a-4b5c-8f77-e79965cec362",
+  "from": "58da05c6-2138-48d4-98ba-e35e7656e95b",
+  "to": "c1725fd1-d2e6-4885-b268-073fd31ec129",
+  "relation": "weakens",
+  "strength": null,
+  "rationale": "Individual-difference evidence for the link uses heartbeat tasks whose scores mostly reflect under-reporting and track actual heartbeats poorly.",
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "a4950aff-2b93-4012-8a4d-5c39560e0787",
+        "locator": "abstract",
+        "quote": "the correlation between actual and reported heartbeats is low overall (r = .16)"
+      }
+    ]
+  }
+}

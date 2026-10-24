@@ -1,0 +1,50 @@
+{
+  "record": "proposition",
+  "id": "b21fd5e0-7cf2-40f2-a22e-e6d8466d4afd",
+  "kind": "empirical",
+  "epistemic_status": "simulated",
+  "title": "E-FRC-0088: the Sommer scale r0 / a at beta 5.7 and 5.9 matches the published Necco-Sommer values, and two-loop...",
+  "statements": [
+    {
+      "id": "ef3182ee-6b56-4dc2-b26b-53392174fada",
+      "text": "The Sommer scale r0 / a at beta 5.7 and 5.9 matches the published Necco-Sommer values, and two-loop running reproduces how fast the spacing shrinks once the coupling is read off the plaquette, where the bare coupling falls short.",
+      "language": "en",
+      "scope": "experiment E-FRC-0088, arena gauge, depth L2 (L2: known physics reproduced on a stated model)",
+      "conditions": "substrates: any. In a paper: false",
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-22"
+    }
+  ],
+  "current_statement": "ef3182ee-6b56-4dc2-b26b-53392174fada",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": {
+    "value": "open",
+    "reason": "holds in the vibe claim graph",
+    "basis": [],
+    "proposal": null
+  },
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "research/result.ts R-FRC-0001",
+        "quote": null
+      }
+    ]
+  }
+}

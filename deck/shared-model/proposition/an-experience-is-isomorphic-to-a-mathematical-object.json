@@ -1,0 +1,59 @@
+{
+  "record": "proposition",
+  "id": "44d4f3dd-3ac3-40c2-a67b-5504b19b9f37",
+  "kind": "philosophical",
+  "epistemic_status": "hypothesized",
+  "title": "Qualia formalism",
+  "statements": [
+    {
+      "id": "21ebb1b8-220e-4fb4-b7b3-9ff278c0a6c0",
+      "text": "For any conscious experience there exists, in principle, a mathematical object isomorphic to its phenomenology, so consciousness is in principle quantifiable.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-23"
+    }
+  ],
+  "current_statement": "21ebb1b8-220e-4fb4-b7b3-9ff278c0a6c0",
+  "status": "active",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": {
+    "value": "open",
+    "reason": null,
+    "basis": [],
+    "proposal": null
+  },
+  "origin": [
+    {
+      "repository": "qualia-formalism",
+      "id": "87fa58ba-a6c1-4a5d-b47a-ba298a93a00d"
+    }
+  ],
+  "provenance": {
+    "written_by": "github:lancejpollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "88c540e3-3056-4e37-8da4-5d2e98506a4b",
+        "locator": "section VII, p. 25",
+        "quote": "a mathematical object isomorphic to its phenomenology"
+      },
+      {
+        "source": "67e56f67-951e-474b-bcf3-89c015766a2e",
+        "locator": "main text",
+        "quote": "for any conscious experience, there exists a mathematical object isomorphic to it"
+      }
+    ]
+  }
+}

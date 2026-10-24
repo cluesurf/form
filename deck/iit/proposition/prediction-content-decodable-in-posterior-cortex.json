@@ -1,0 +1,45 @@
+{
+  "record": "proposition",
+  "id": "56d9fa47-0e0b-41e5-b133-79551197fa48",
+  "kind": "empirical",
+  "epistemic_status": "hypothesized",
+  "title": "Conscious content is maximally decodable in posterior cortex",
+  "statements": [
+    {
+      "id": "c98d4ee9-0bc4-4cfa-bced-80811a43fa4e",
+      "text": "In the Cogitate adversarial test, IIT predicted that conscious content is decoded best from posterior brain areas, with no necessary role for prefrontal cortex.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-23"
+    }
+  ],
+  "current_statement": "c98d4ee9-0bc4-4cfa-bced-80811a43fa4e",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b84809ac-0650-4173-b863-4ba1c946fcca",
+        "locator": "Fig. 1 legend (full text)",
+        "quote": "For prediction 1 (decoding of conscious content), IIT predicts maximal decoding of conscious content in posterior brain areas, whereas GNWT emphasizes a necessary role for the PFC."
+      }
+    ]
+  }
+}

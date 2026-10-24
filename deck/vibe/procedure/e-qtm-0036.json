@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "79947f6e-344e-43af-9b2f-e31a685dd86c",
+  "title": "E-QTM-0036: on the expanding bulk the common ancestor recedes to the origin as physical distance grows, so the only...",
+  "purpose": "Experiment E-QTM-0036 in the quantum arena: on the expanding bulk the common ancestor recedes to the origin as physical distance grows, so the only distance-independent shared past is the origin every point shares, the route to a flat correlation with no action at a distance.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L2 (L2: known physics reproduced on a stated model).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/quantum/expanding-bulk-origin-channel.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-QTM-0036",
+        "quote": null
+      }
+    ]
+  }
+}

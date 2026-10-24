@@ -1,0 +1,50 @@
+{
+  "record": "proposition",
+  "id": "103208af-eaba-4950-9811-5384118b2ed4",
+  "kind": "empirical",
+  "epistemic_status": "simulated",
+  "title": "R-FRC-0005: Color as a classical phase-space label: a knot without amplitudes, and negativity as the quantum part",
+  "statements": [
+    {
+      "id": "fe34f3a0-c778-40d8-a551-e66fe7706c58",
+      "text": "Carry color as a point of $\\mathbb{Z}_3^2$, the phase space of one qutrit, moved by the 216 affine symplectic maps that the classical color group $\\Sigma(648)$ induces. With links holding those maps, an independent change of frame in every dock commutes exactly with a charge-conserving reversible lattice rule. A set of points signed by charge has a frame-free zero sum exactly when its total charge is a multiple of 3, which reproduces the triality selection rule of color singlets in all 27 mixes of up to six charges. A role point carried round a loop survives exactly as often as the adjoint Wilson loop says. The singlet itself is written by whole positive and negative discrete-Wigner weights (72 and 18 on 54 units), where the symmetric knot (three equal roles) needs no negative weight, and the swap phase at $2\\pi/3$ moves such weights by an exact kernel in quarters.",
+      "language": "en",
+      "scope": "symmetry. status simulated. category explanation (a proposed mechanism for a known phenomenon. Worth: possibly interesting. Not prospective evidence). depth L1 and L2 (L1: known mathematics, correctly confirmed. L2: known physics reproduced on a stated model)",
+      "conditions": "Limits: measured here on constructed rules. Adopted for the base on 2026-09-25 as the three-trit model, and the adopted knit carries it: frame covariance and the held color with pairs made (R-FRC-0003, E-RLT-0067). The turning weave before it carries none. the links are a fixed background field in the gauge test. Moving links, color kept local and binding are R-FRC-0006. no rule here binds a knot: flux on the links obeys Gauss exactly and costs nothing. A knot alone is not bound: under the turning weave a color-neutral triple reaches as far in 6 beats as one of its members alone, 8.5 against 8.5 (E-FRC-0111). Only a paid string binds (E-FRC-0129, E-FRC-0131, R-FRC-0006), and in discrete time only a counted one (E-SPN-0074, on stand-in tokens). pair creation from the vacuum makes color from nothing in 3,550 of 3,888 cases on the rule here (E-FRC-0123). The adopted knit closes it with a neutral pair move and a store that returns an unmade pair's tokens: 0 of 3,888 dock-beats change held color while 1,994 pairs are made (E-RLT-0067). carrying non-classical steps exactly needs a unit count that grows four times per step. Launch gate. Pass: quantitative, auditable. Fail: prior_art_reviewed, derived, differentiating, falsifiable, skeptic_reviewed, independently_reproduced. Unknown: novel, interesting. Novelty: uncertain. Free parameters: 0. Fitted: false. Known before: false.",
+      "falsification_criteria": "a counterexample in any of the exhaustive checks",
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-22"
+    }
+  ],
+  "current_statement": "fe34f3a0-c778-40d8-a551-e66fe7706c58",
+  "status": "disputed",
+  "voice": "framework",
+  "defines": null,
+  "question": "45a2683a-3e69-4311-ac34-c591cd975087",
+  "prediction": null,
+  "standing": {
+    "value": "open",
+    "reason": "holds in the vibe claim graph",
+    "basis": [],
+    "proposal": null
+  },
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "research/result.ts R-FRC-0005",
+        "quote": null
+      }
+    ]
+  }
+}

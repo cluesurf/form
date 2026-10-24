@@ -1,0 +1,52 @@
+{
+  "record": "proposition",
+  "id": "994a2ba3-c7aa-44c2-b0ef-7e1136ce32cf",
+  "kind": "empirical",
+  "epistemic_status": "hypothesized",
+  "title": "Addiction pathways may date from early multicellularity",
+  "statements": [
+    {
+      "id": "f403b9e3-f608-4d80-9647-a0e74b301af6",
+      "text": "If multicellularity needed a way for cells to keep other cells nearby, the addictive power of opiates may derive from such ancient roots, which can be tested in early multicellular models and cell co-cultures.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-23"
+    }
+  ],
+  "current_statement": "f403b9e3-f608-4d80-9647-a0e74b301af6",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": {
+    "resolution_criterion": "Experiments targeting addiction pathways in early multicellular models or somatic and stem cell co-cultures show an ancient role for addictive neurochemicals in keeping cells together.",
+    "resolver": "independent_review",
+    "locked_at": "2019-12-13",
+    "outcome": null,
+    "resolved_at": null,
+    "observation": null
+  },
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "9d7dc0d8-1f18-43d2-b86a-16d31ae12fd3",
+        "locator": "section Predictions and Research Program",
+        "quote": "This suggests the testable hypothesis that the addictive power of opiates and similar molecules derives from such ancient roots."
+      }
+    ]
+  }
+}

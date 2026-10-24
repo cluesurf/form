@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "78413819-de54-4944-b5fe-a9742959d69b",
+  "title": "E-MTR-0028: explores whether the light register pair's remaining excess inertia is a lattice artifact that vanishes...",
+  "purpose": "Experiment E-MTR-0028 in the spin arena: explores whether the light register pair's remaining excess inertia is a lattice artifact that vanishes in the continuum limit: a collapse of the recorded remainders onto C + B (tan m / m - 1) / a_B: pass, the blind point m 0.284 at $a_B$ 12 reads 0.054 against the predicted 0.041 and the continuum remainder is 0.012 +- 0.009.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L2 (L2: known physics reproduced on a stated model).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/matter/remainder-collapse.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-MTR-0028",
+        "quote": null
+      }
+    ]
+  }
+}

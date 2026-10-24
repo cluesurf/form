@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "19bdcc66-a3fc-413a-ad06-ef5e75d701cc",
+  "title": "E-FND-0073: the discrete continuity law holds exactly over partitions that carry no geometry (single cells...",
+  "purpose": "Experiment E-FND-0073 in the foundations arena: the discrete continuity law holds exactly over partitions that carry no geometry (single cells, interleaved, scrambled, digit-parity), so conservation reads only orientation and adjacency, never a metric.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L2 (L2: known physics reproduced on a stated model).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/foundations/metric-free-continuity.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-FND-0073",
+        "quote": null
+      }
+    ]
+  }
+}

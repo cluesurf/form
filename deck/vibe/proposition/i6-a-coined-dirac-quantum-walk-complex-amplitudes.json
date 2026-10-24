@@ -1,0 +1,50 @@
+{
+  "record": "proposition",
+  "id": "ae87611a-0a50-4c57-96a9-c8039737ddb7",
+  "kind": "empirical",
+  "epistemic_status": "observed",
+  "title": "I6: a coined Dirac quantum walk: complex amplitudes, a rotation coin, a shift",
+  "statements": [
+    {
+      "id": "5dae2072-e264-49b9-a2ee-4f73fb4216a9",
+      "text": "A coined Dirac quantum walk: complex amplitudes, a rotation coin, a shift.",
+      "language": "en",
+      "scope": "a standard model or method brought in from outside. A result resting only on imports is a reproduction",
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-22"
+    }
+  ],
+  "current_statement": "5dae2072-e264-49b9-a2ee-4f73fb4216a9",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": {
+    "value": "open",
+    "reason": "holds in the vibe claim graph",
+    "basis": [],
+    "proposal": null
+  },
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "research/node.ts I6",
+        "quote": null
+      }
+    ]
+  }
+}

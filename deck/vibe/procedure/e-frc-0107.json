@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "a4b0f811-9129-4f15-84a4-6e81daf19462",
+  "title": "E-FRC-0107: no schedule of line couples can keep the triality that selects a color plane and also connect all twelve...",
+  "purpose": "Experiment E-FRC-0107 in the gauge arena: no schedule of line couples can keep the triality that selects a color plane and also connect all twelve lines, under the CPT the committed rule was adopted with: triality fixes the three color-plane lines, none of the 10,395 ways to couple all twelve lines is invariant, CPT with a parity that commutes with triality forces every beat to be invariant, and an invariant beat never couples a color line to another, so joining them symmetrically needs a four-line block.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L2 (L2: known physics reproduced on a stated model).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/gauge/triality-against-universality.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-FRC-0107",
+        "quote": null
+      }
+    ]
+  }
+}

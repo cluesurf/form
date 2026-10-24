@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "94c621ce-8f35-416b-b035-ad9d0380dd85",
+  "title": "E-FLD-0029: the viscous scatter weave's large dressing is pair creation, not transport: in the committed knit, the...",
+  "purpose": "Experiment E-FLD-0029 in the fluids arena: the viscous scatter weave's large dressing is pair creation, not transport: in the committed knit, the kinetic and the viscous scatter weaves alike every slot where a lone love's run differs is a tone the plain run lacks (made equals the support and the extra tone count, none taken, none turned), so the support is one plus twice the pairs the love sets off (E-FRC-0137's mechanism); in the viscous weave the pairs avalanche, the support growing as $t^{3.6}$ to $t^{4.1}$ behind a front at the tone speed sqrt 2 until a third of the box is new pairs, while the love's own momentum is one unit throughout; so the conflict E-FLD-0026 found is between a fluid and a vacuum that does not answer a lone tone with a pair avalanche, and the dressing gate measures the vacuum's stability, not the fluid's transport.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L2 (L2: known physics reproduced on a stated model).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/fluids/dressing-anatomy.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-FLD-0029",
+        "quote": null
+      }
+    ]
+  }
+}

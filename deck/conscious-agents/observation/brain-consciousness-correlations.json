@@ -1,0 +1,39 @@
+{
+  "record": "observation",
+  "id": "285443a9-0d55-424e-8033-24c3c822202f",
+  "kind": "documentary_record",
+  "epistemic_status": "observed",
+  "description": "The large body of correlations between brain activity and consciousness, such as loss of conscious vision after damage to V1, which conscious realism reinterprets rather than denies.",
+  "method": "document_review",
+  "status": "reported",
+  "source": "a7e70d05-b690-4622-b9c7-93120625ba04",
+  "procedure": null,
+  "variable": null,
+  "value": null,
+  "unit": null,
+  "uncertainty": null,
+  "sample_size": null,
+  "replication_count": null,
+  "quality": null,
+  "limitations": null,
+  "conflicts_of_interest": null,
+  "observed_at": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "a7e70d05-b690-4622-b9c7-93120625ba04",
+        "locator": "section 1, p. 87",
+        "quote": "damage to cortical area V1 is correlated with the loss of conscious visual perception"
+      }
+    ]
+  }
+}

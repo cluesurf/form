@@ -1,0 +1,4 @@
+# Local files the form CLI writes, never committed: open copies of
+# sources (form source fetch) and staged proposals (form propose).
+.form/
+.DS_Store

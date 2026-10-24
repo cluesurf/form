@@ -1,0 +1,28 @@
+{
+  "record": "link",
+  "id": "03456788-579d-4892-b9a9-4be2549d1a2a",
+  "from": "332e575d-d3e2-4a8c-9c1c-fea529b4eb00",
+  "to": "3ddf4084-fdd1-4b1b-8c51-a272ec5478e3",
+  "relation": "requires",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "ace9be22-0f28-4934-89ff-c29f4e6bb2aa",
+        "locator": "abstract",
+        "quote": "propose competent navigation in arbitrary spaces as an invariant for thinking about the scaling of cognition during evolution"
+      }
+    ]
+  }
+}

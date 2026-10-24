@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "92fa8c17-b5b8-4064-8fd7-8c58ad1b37dd",
+  "title": "E-FRC-0186: composite light from two fear walks: the pair sector of two free linear walks at total momentum K is the...",
+  "purpose": "Experiment E-FRC-0186 in the gauge arena: composite light from two fear walks: the pair sector of two free linear walks at total momentum K is the continuum of differences theta(p + K) - theta(p), so a bilinear photon dephases within about one period instead of carrying two transverse modes with a linear dispersion.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L2 (L2: known physics reproduced on a stated model).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/gauge/composite-light.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-FRC-0186",
+        "quote": null
+      }
+    ]
+  }
+}

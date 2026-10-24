@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "305ce91b-01d8-475b-be92-8c93be0571ba",
+  "title": "E-QTM-0124: one convention for the grid moves a whole feels: with the phase point (a, b) read as the grid point x =...",
+  "purpose": "Experiment E-QTM-0124 in the quantum arena: one convention for the grid moves a whole feels: with the phase point (a, b) read as the grid point x = a, y = b (sigma-links toGrid), the move fear-weave applies for every one of the 648 elements of Sigma(648) is that element's phase-space action, where the transposed reading used before 2026-09-26 applied a different Clifford move on most links.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L1 (L1: known mathematics, correctly confirmed).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/quantum/grid-moves-act-by-sigma-links.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-QTM-0124",
+        "quote": null
+      }
+    ]
+  }
+}

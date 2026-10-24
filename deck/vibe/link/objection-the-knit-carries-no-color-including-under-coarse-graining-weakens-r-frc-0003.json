@@ -1,0 +1,28 @@
+{
+  "record": "link",
+  "id": "f3c82995-249e-46f6-b7ef-40e5a8bc8385",
+  "from": "76837c1b-3f7a-4ba0-b374-82ced5f8c0eb",
+  "to": "b28ef656-da29-48aa-a413-0dc2e3b53fbc",
+  "relation": "weakens",
+  "strength": null,
+  "rationale": "verdict answered. true of the turning weave, the knit before 2026-09-25: 2 of 9 u(3) generators kept, 1 of 995,328 schedule symmetries, 0 of 32 triangles inside a block, and 84 to 88 percent of the breaking kept at the whole-mesh scale. The adopted three-trit knit carries the classical color group Sigma(648) on its links: all 648 elements act as its 216 grid moves (E-QTM-0117), a change of frame in every dock commutes with the rule (E-FRC-0117), and 0 of 3,888 dock-beats change held color while 1,994 pairs are made (E-RLT-0067). It is a finite group, not the continuous SU(3), which is the next objection",
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "research/objection.ts",
+        "quote": null
+      }
+    ]
+  }
+}

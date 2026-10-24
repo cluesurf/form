@@ -1,0 +1,45 @@
+{
+  "record": "proposition",
+  "id": "946fdc3b-9759-42d6-a687-54e8c401dfd8",
+  "kind": "empirical",
+  "epistemic_status": "hypothesized",
+  "title": "Topological segmentation makes hard boundaries",
+  "statements": [
+    {
+      "id": "ff13aab1-48c3-40a0-8dfd-bd2cea01cb5d",
+      "text": "Topological segmentation of a field can, in principle, create exactly the hard, non-arbitrary boundaries the boundary problem asks for.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-23"
+    }
+  ],
+  "current_statement": "ff13aab1-48c3-40a0-8dfd-bd2cea01cb5d",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "9359bfc1-6fff-41a8-8d7c-91af2f730b74",
+        "locator": "abstract",
+        "quote": "Topological segmentation can, in principle, create exactly the hard boundaries desired"
+      }
+    ]
+  }
+}

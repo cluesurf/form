@@ -1,0 +1,28 @@
+{
+  "record": "link",
+  "id": "eebfd527-8a1f-4b3f-be07-c9c21bf1ab67",
+  "from": "a2fb30c0-c995-4caa-a24f-275668d9dda2",
+  "to": "244332d3-0aba-42eb-975d-7ee44fc0c865",
+  "relation": "supports",
+  "strength": 0.6,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "6498aca9-83cf-4905-a85a-3f5eb327c9e9",
+        "locator": "abstract",
+        "quote": "We find that informative higher scales are common in simulated and real networks"
+      }
+    ]
+  }
+}

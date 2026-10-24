@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "a3bf4e0d-6d34-445c-8f61-6bb19065a416",
+  "title": "E-GRV-0096: the span lumps do not fall alike, and the cause is the mesh, not the depth, fail on F2: E-GRV-0093's...",
+  "purpose": "Experiment E-GRV-0096 in the gravity arena: the span lumps do not fall alike, and the cause is the mesh, not the depth, fail on F2: E-GRV-0093's 0.855 and 0.384 are two lattice effects, the integer staircase reflecting a slow heavy lump (on it rest terms 2 and 18 fall at 0.898 and 0.104 of their ray law where the smooth lattice ray reads 1.049 and 1.037) and the mesh's band (a span lump's Compton length sqrt(12 / (m q)) is under a dock, so it gains lattice momentum while slow: over 4 times the window the waves read 0.972 and 0.785 against the lattice ray's 0.967 and 0.797); on the slab read with 32 levels per level, in the window that holds the heavier lump's momentum to 0.3, the lumps fall at 0.991 and 1.000 of their ray law at x = 154 (alike to 0.9 percent) but 0.947 and 1.008 at the mirror (6.1 percent apart against a 3 percent gate), because a fall of 0.01 docks is read only to about 5 percent there; longer runs make it worse, not better, and width and amplitude do not matter.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L2 (L2: known physics reproduced on a stated model).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/gravity/span-fall.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-GRV-0096",
+        "quote": null
+      }
+    ]
+  }
+}

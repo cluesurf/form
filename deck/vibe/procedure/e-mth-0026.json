@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "e17f80e9-f4c5-4396-a02b-64e0d816db4c",
+  "title": "E-MTH-0026: the fixed-shift flaw as a gate: two weylCell values of one key differ by a fixed shift, so a threshold...",
+  "purpose": "Experiment E-MTH-0026 in the method arena: the fixed-shift flaw as a gate: two weylCell values of one key differ by a fixed shift, so a threshold on one decides the other (every fixed shift shows a threshold gap above 0.02, planted controls all caught, independent streams all pass), and in conservingEdgeSweepHashed it made every pair spawned below arrow 0.264 the same way round; fixed by giving each beat its own weyl-point stream.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L2 (L2: known physics reproduced on a stated model).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/method/weyl-fixed-shift.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-MTH-0026",
+        "quote": null
+      }
+    ]
+  }
+}

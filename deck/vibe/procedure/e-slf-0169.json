@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "a17d9f0a-8070-40f5-8595-16906d7f08d6",
+  "title": "E-SLF-0169: a predictive perceiver tracks input then runs on its prior when input is ablated (a controlled...",
+  "purpose": "Experiment E-SLF-0169 in the selves arena: a predictive perceiver tracks input then runs on its prior when input is ablated (a controlled hallucination) while a memoryless perceiver falls silent, Seth predictive processing.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L2 (L2: known physics reproduced on a stated model).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/selves/controlled-hallucination.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-SLF-0169",
+        "quote": null
+      }
+    ]
+  }
+}

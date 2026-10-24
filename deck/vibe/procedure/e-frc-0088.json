@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "0e6959b3-ae4d-4347-bad7-90ad49a0d446",
+  "title": "E-FRC-0088: the Sommer scale r0 / a at beta 5.7 and 5.9 matches the published Necco-Sommer values, and two-loop...",
+  "purpose": "Experiment E-FRC-0088 in the gauge arena: the Sommer scale r0 / a at beta 5.7 and 5.9 matches the published Necco-Sommer values, and two-loop running reproduces how fast the spacing shrinks once the coupling is read off the plaquette, where the bare coupling falls short.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L2 (L2: known physics reproduced on a stated model).",
+  "status": "completed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/gauge/static-quarks.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "research/result.ts R-FRC-0001",
+        "quote": null
+      }
+    ]
+  }
+}

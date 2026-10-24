@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "b36442f8-5abd-4041-851e-238703c58865",
+  "title": "E-SCL-0005: field to particle and particle to composite rungs commute as the kind of variable changes",
+  "purpose": "Experiment E-SCL-0005 in the renormalization arena: field to particle and particle to composite rungs commute as the kind of variable changes.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L2 (L2: known physics reproduced on a stated model).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/renormalization/cross-domain-chain.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-SCL-0005",
+        "quote": null
+      }
+    ]
+  }
+}

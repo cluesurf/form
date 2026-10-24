@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "ede9dc27-9d8c-4eb3-8d24-9309ab09694e",
+  "title": "E-FRC-0308: explores whether R*s beat-2 reversal of the pair angle is forced by a property the rule already has",
+  "purpose": "Experiment E-FRC-0308 in the gauge arena: explores whether R*s beat-2 reversal of the pair angle is forced by a property the rule already has.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L1 (L1: known mathematics, correctly confirmed).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/gauge/beat-reversal.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-FRC-0308",
+        "quote": null
+      }
+    ]
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "record": "proposition",
+  "id": "b53ea74a-c784-496a-9aac-fe1a221b318a",
+  "kind": "philosophical",
+  "epistemic_status": "inferred",
+  "title": "Answer: an attribution holds at a time, with no metaphysics of time",
+  "statements": [
+    {
+      "id": "b3c91b19-f2a0-407b-a5ac-03f4dae83fac",
+      "text": "The theorem needs only that consciousness be attributed at a given time, and takes no position on the metaphysics of time. Experience may be temporally extended, but the attribution at $t$ depends on the present state $X_t$, which may carry every trace of the past.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "b3c91b19-f2a0-407b-a5ac-03f4dae83fac",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "ac2774e1-a04c-4c89-9db2-7848c6f5ce0b",
+        "locator": "section 5.1",
+        "quote": "takes no position on the metaphysics of time"
+      }
+    ]
+  }
+}

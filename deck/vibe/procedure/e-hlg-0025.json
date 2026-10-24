@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "3f1837e7-d97b-4d0f-b816-73234b71bcea",
+  "title": "E-HLG-0025: same-axis boundary boosts compose by adding rapidity, the dilation group the Mellin boost-weight basis...",
+  "purpose": "Experiment E-HLG-0025 in the holography arena: same-axis boundary boosts compose by adding rapidity, the dilation group the Mellin boost-weight basis diagonalizes.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L2 (L2: known physics reproduced on a stated model).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/holography/celestial-boost-group.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-HLG-0025",
+        "quote": null
+      }
+    ]
+  }
+}

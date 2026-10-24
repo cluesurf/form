@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "80904d63-9737-4b64-a771-c49bdd73e23e",
+  "title": "E-SPN-0136: the frame mixer keeps the light cone but confines a lone hole to its frame's cone, fail (F2): the exact...",
+  "purpose": "Experiment E-SPN-0136 in the spin arena: the frame mixer keeps the light cone but confines a lone hole to its frame's cone, fail (F2): the exact walk of the rule's own dock matrix (equal to its superposed run at every branch) reaches exactly t in t beats, never more, and along every husk direction exactly t times the frame's cone bound; the front's weight falls 0.41 a beat, and the amplitude's box-step front is the working lineon's 2 4 6 8 exactly, so E-SPN-0134's 0.5 is the weight of one keyed draw measured in a metric that counts $r_B$ double, not a halved reach; by Hellmann-Feynman the group velocity is a convex mix of the frame's eight roots, and as the coin's mass goes to 0 the top speed saturates that cone: 0.707 c on the husk axes, 0.90 to 1.00 c on the hole's own root, 0.4999 c on e13 and e23 (other frames' roots) at every theta, spread 1.8 to 2.0, so no mixer angle and no mass gives an isotropic c; at the working coin the top speed is 0.50 to 0.65 c, and theta 0 reproduces the lineon (cos(pi/3n), 0.9999 c at n = 64).",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L1 (L1: known mathematics, correctly confirmed).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/spin/mixer-cone.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-SPN-0136",
+        "quote": null
+      }
+    ]
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "record": "proposition",
+  "id": "13afe92c-e399-4d84-a341-71153bf01f8e",
+  "kind": "empirical",
+  "epistemic_status": "inferred",
+  "title": "Coherence is not valence",
+  "statements": [
+    {
+      "id": "d5e5b127-a087-4de1-911e-64baf9cbd127",
+      "text": "High neural coherence does not by itself mean high valence, so coherence measures are not the symmetry the theory names.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-23"
+    }
+  ],
+  "current_statement": "d5e5b127-a087-4de1-911e-64baf9cbd127",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "6f8f1612-4ddf-4fed-9dd3-4070a070fa8b",
+        "locator": "main text",
+        "quote": "just because you have high coherence doesn't mean it's going to be high valence."
+      }
+    ]
+  }
+}

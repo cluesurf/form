@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "978ce895-5554-429f-a0ed-4b289ff22b6e",
+  "title": "E-FRC-0235: the massless branch of the quantum light: the plaquette ladder's rule on a strip of husk squares closed...",
+  "purpose": "Experiment E-FRC-0235 in the gauge arena: the massless branch of the quantum light: the plaquette ladder's rule on a strip of husk squares closed around its width has a one-quantum band on the classical E~ light's massless symbol, omega(0) = 0 and slope sqrt(kappa), with no photon at k = 0 (the uniform shift is no state on a closed surface), and the husk's own axis photon solves lambda^2 - 12 lambda + 8u = 0, so its light speed is sqrt(2 kappa / 3).",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L2 (L2: known physics reproduced on a stated model).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/gauge/ring-massless-light.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-FRC-0235",
+        "quote": null
+      }
+    ]
+  }
+}

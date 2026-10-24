@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "6497c2d7-6776-4ff6-b1b3-fd535c1ac97b",
+  "title": "E-FND-0082: the committed rule lifted to superpositions of configurations is a permutation matrix: 49 phased...",
+  "purpose": "Experiment E-FND-0082 in the foundations arena: the committed rule lifted to superpositions of configurations is a permutation matrix: 49 phased branches pushed through four beats land on 49 distinct configurations with every weight exactly relabelled (cross term 0) and the norm exactly conserved, so no basis of configurations can interfere, while a conserving irreversible rule merges branches, shows a nonzero cross term, and does not conserve the norm.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L1 (L1: known mathematics, correctly confirmed).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/foundations/permutation-rule-cannot-interfere.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-FND-0082",
+        "quote": null
+      }
+    ]
+  }
+}

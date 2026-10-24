@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "d2c18d69-79c5-4b84-99d1-94d02aca7f0b",
+  "title": "E-SPN-0172: the Wilson far-side resonance closed by moving the far walk off zero, keeping the wall chirality and its...",
+  "purpose": "Experiment E-SPN-0172 in the spin arena: the Wilson far-side resonance closed by moving the far walk off zero, keeping the wall chirality and its flow, but the node moves and the rigidity gate failed, fail: the far walk width is the inversion itself, so no partner narrows it; a phase on the far sector in both beats with the member units compensated moves the far walk and the flats to 2 arg w, clearing the resonance by 1.15 in the bulk and leaving no far-far crossing on the slab at depths 6 and 8, with chirality +-2 and a flow of +-4 kept, for a light member only (2 $a + e_{max}$ 2.30 against 3.99 heavy); the cost is the wall Weyl node displaced to -0.058, since the partner return at the other zeros carries w squared; the shift is rigid to 6.3e-6, not the 1e-9 pre-registered, and the depth-momentum channels remain.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L2 (L2: known physics reproduced on a stated model).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/spin/far-side-shift.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-SPN-0172",
+        "quote": null
+      }
+    ]
+  }
+}

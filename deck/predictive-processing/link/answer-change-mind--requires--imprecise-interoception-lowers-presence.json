@@ -1,0 +1,28 @@
+{
+  "record": "link",
+  "id": "36a2085d-2c94-4288-a755-82521aec1df1",
+  "from": "83c77b03-cefb-4011-b263-b4d8d483f753",
+  "to": "600e7d7c-8bb8-4f42-a7e6-0055bfe707bb",
+  "relation": "requires",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "c9c5835d-7979-407c-992f-7ec84ebe5472",
+        "locator": "accepted manuscript p. 3",
+        "quote": "the FEP is a framework, not a testable hypothesis in and of itself"
+      }
+    ]
+  }
+}

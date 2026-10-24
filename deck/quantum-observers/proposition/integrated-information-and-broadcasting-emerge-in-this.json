@@ -1,0 +1,45 @@
+{
+  "record": "proposition",
+  "id": "935b8677-0485-4a43-961d-cfd4880b6bfc",
+  "kind": "mathematical",
+  "epistemic_status": "inferred",
+  "title": "Integrated information and broadcasting emerge in this setting",
+  "statements": [
+    {
+      "id": "1bc30f75-cdbc-43d3-b514-e26a9da30b89",
+      "text": "Integrated information, state broadcasting over small-world networks, and hierarchical Bayesian inference arise naturally under minimal physicalism.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-23"
+    }
+  ],
+  "current_statement": "1bc30f75-cdbc-43d3-b514-e26a9da30b89",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "1792e489-be3b-46bb-ba4b-0dcd00a0abc7",
+        "locator": "abstract",
+        "quote": "We show that standard concepts including integrated information, state broadcasting via small-world networks, and hierarchical Bayesian inference emerge naturally in this setting"
+      }
+    ]
+  }
+}

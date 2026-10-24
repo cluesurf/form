@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "9e302d50-892d-4db6-97a8-a82ec9faea39",
+  "title": "E-SPN-0061: nothing in the knit binds four loves and a fear: the paid string charges a set only for being no knot...",
+  "purpose": "Experiment E-SPN-0061 in the spin arena: nothing in the knit binds four loves and a fear: the paid string charges a set only for being no knot, so on the E-FRC-0129 line every knot but the minimal three costs exactly the sum of its parts (binding 0), the minimal knots are confined at slope 1, and in the dynamics the (4, 1) block lives as a bound triple and a bound meson whose distance wanders freely.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L2 (L2: known physics reproduced on a stated model).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/spin/four-one-binding.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-SPN-0061",
+        "quote": null
+      }
+    ]
+  }
+}

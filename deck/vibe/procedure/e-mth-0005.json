@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "f8573f18-f6f8-4d89-a1cd-0df7a7ada81e",
+  "title": "E-MTH-0005: a coarse conservation test has systematic blind spots: a charge-destroying rule reads as exactly...",
+  "purpose": "Experiment E-MTH-0005 in the method arena: a coarse conservation test has systematic blind spots: a charge-destroying rule reads as exactly balanced at many coarse scales, so coarse balance does not certify microscopic conservation.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L2 (L2: known physics reproduced on a stated model).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/method/coarse-conservation-blind-spot.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-MTH-0005",
+        "quote": null
+      }
+    ]
+  }
+}

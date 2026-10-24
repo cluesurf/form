@@ -1,0 +1,28 @@
+{
+  "record": "link",
+  "id": "6bac91dc-7e76-4baa-9093-313e790dd565",
+  "from": "fb356165-273b-4c7d-a12f-abfc88f9d038",
+  "to": "3d5ddc51-1c91-43b6-95a6-f2b198782308",
+  "relation": "requires",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "5aaa6bc4-6581-4a09-8249-33c9872090bd",
+        "locator": "main text",
+        "quote": "The organism is fleetingly creating you for computational purposes."
+      }
+    ]
+  }
+}

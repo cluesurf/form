@@ -1,0 +1,28 @@
+{
+  "record": "link",
+  "id": "e6c6400a-e2c7-4756-943c-9508853852d2",
+  "from": "341c2d11-7ee3-4f23-a594-602e26a90f85",
+  "to": "79c54001-d62b-4535-9bf1-5ca0a2766a35",
+  "relation": "requires",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "cd180db3-bb1d-4ab0-814c-72898fb077ef",
+        "locator": "abstract",
+        "quote": "The theory holds that consciousness is a fundamental property possessed by physical systems having specific causal properties."
+      }
+    ]
+  }
+}

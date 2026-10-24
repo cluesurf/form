@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "00ecef5d-7c37-4cbc-a584-939fea93f0b3",
+  "title": "E-SBT-0025: the 12 icosahedral directions of {5,3,4} are non-crystallographic (measured), so no root-system gauge",
+  "purpose": "Experiment E-SBT-0025 in the substrate-survey arena: the 12 icosahedral directions of {5,3,4} are non-crystallographic (measured), so no root-system gauge.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L1 (L1: known mathematics, correctly confirmed).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/substrate-survey/s534-structure.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-SBT-0025",
+        "quote": null
+      }
+    ]
+  }
+}

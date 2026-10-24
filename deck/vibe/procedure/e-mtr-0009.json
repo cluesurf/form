@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "cb724c24-168e-4ccc-8499-8da2fd2535f6",
+  "title": "E-MTR-0009: stability of matter with stand-ins: N stand-in electrons and N fixed stand-in nuclei on the husk, as...",
+  "purpose": "Experiment E-MTR-0009 in the quantum arena: stability of matter with stand-ins: N stand-in electrons and N fixed stand-in nuclei on the husk, as fermions and as bosons, the two differing only in how many stand-ins one orbital holds, read for how the least energy grows with N.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L2 (L2: known physics reproduced on a stated model).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/quantum/standin-stability.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-MTR-0009",
+        "quote": null
+      }
+    ]
+  }
+}

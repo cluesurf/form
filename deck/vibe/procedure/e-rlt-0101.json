@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "fdf7b84e-1640-4f4d-aba2-b4e3a7cd2b7d",
+  "title": "E-RLT-0101: the coset-union vacuum under the two exchange-blind vetoes, fail: the occupation veto keeps the vacuum...",
+  "purpose": "Experiment E-RLT-0101 in the relativity arena: the coset-union vacuum under the two exchange-blind vetoes, fail: the occupation veto keeps the vacuum on every term (one occupation history on the keep, Born and exchange paths, pairs made = unmade = 393,216, 0 free vibes, frozen C walls, laws, reversal, C and one causal component, 51 of 51) but a single charged vibe melts it (the lone wake grows 12, 16, 97, 126 trits in four beats to about 41,000, 1.4e8 off its line, on every path and start), because a lone vibe charges its dock, the frozen pair move leaves an unmatched vibe, and that charges the next dock; the pairing veto melts the vacuum on the Born and exchange paths as the old one did (13,409 made against 1,165 unmade) and melts on a lone vibe too; the quantum readings split: the like knot is sqrt 7 and the rule exact under both, but under the occupation veto positions carry no amplitude (1 occupation, 17 of 17, the price the autonomy theorem names) while the keep term still interferes (1/16 after three meetings against the dephased 1/64), and under the pairing veto positions carry amplitude (up to 6,917 occupations) but the keep term reads exactly the dephased $(1 / 4)^m$.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L2 (L2: known physics reproduced on a stated model).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/relativity/occupation-veto-vacuum.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-RLT-0101",
+        "quote": null
+      }
+    ]
+  }
+}

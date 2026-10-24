@@ -1,0 +1,28 @@
+{
+  "record": "link",
+  "id": "d57bd063-460e-4f92-924b-c5eccfce328e",
+  "from": "8c1aa655-a9df-43ef-a1cf-691b604fcf5e",
+  "to": "ce589f30-d6aa-49bd-9cf4-179935dfe1ff",
+  "relation": "requires",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "48959277-86d2-4076-9942-58a24f753040",
+        "locator": "Introduction",
+        "quote": "conscious access can occur with or without overt behavioral report"
+      }
+    ]
+  }
+}

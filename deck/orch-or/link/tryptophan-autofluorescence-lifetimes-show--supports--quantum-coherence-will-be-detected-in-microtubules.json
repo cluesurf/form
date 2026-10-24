@@ -1,0 +1,28 @@
+{
+  "record": "link",
+  "id": "b98efa65-2747-4e3d-a152-4615ce67807a",
+  "from": "01e165f7-f4fc-4f86-a769-7cc2518c8c95",
+  "to": "abe442e5-5a82-44b2-8087-a0eea5f30403",
+  "relation": "supports",
+  "strength": 0.2,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "7e15a6ce-920a-4dc2-86eb-8191e69c40c9",
+        "locator": "abstract",
+        "quote": "We also demonstrate that the presence of the anesthetics etomidate and isoflurane reduce exciton diffusion."
+      }
+    ]
+  }
+}

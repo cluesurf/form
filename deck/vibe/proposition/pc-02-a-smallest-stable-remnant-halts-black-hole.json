@@ -1,0 +1,50 @@
+{
+  "record": "proposition",
+  "id": "b5058428-c708-49f1-882d-772b082c60e0",
+  "kind": "empirical",
+  "epistemic_status": "hypothesized",
+  "title": "PC-02: a smallest stable remnant halts black-hole evaporation",
+  "statements": [
+    {
+      "id": "4e512f3d-d46f-45e4-aba8-3dc1bc5f91e9",
+      "text": "A smallest stable remnant halts black-hole evaporation.",
+      "language": "en",
+      "scope": "a prediction candidate, not a frozen prediction row",
+      "conditions": "Where it stands: E-GRV-0051 finds a remnant at mass $1/(4\\omega_{\\max})$, but from the cutoff of the coined walk, which is imported (R-FND-0001). A lone vibe's motion under the one-third turn, apart from the committed knit, is measured (E-QTM-0103) and could replace the walk's cutoff. What it needs: a remnant mass derived from the committed knit, and an observable that bounds it.",
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-22"
+    }
+  ],
+  "current_statement": "4e512f3d-d46f-45e4-aba8-3dc1bc5f91e9",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": {
+    "value": "open",
+    "reason": "a candidate: it has not passed the prediction gate",
+    "basis": [],
+    "proposal": null
+  },
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "research/prediction.ts PC-02",
+        "quote": null
+      }
+    ]
+  }
+}

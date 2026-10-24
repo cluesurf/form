@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "c4bdfe31-71ca-4d80-af49-67c808859606",
+  "title": "E-SPN-0108: keeping a full dock's contact at w while a lone love takes the fine coin does not hold a light trio...",
+  "purpose": "Experiment E-SPN-0108 in the spin arena: keeping a full dock's contact at w while a lone love takes the fine coin does not hold a light trio, fail on F1: the full-dock correction D = (w zeta^(-1))^F (F the lines holding two open loves, one whole wrap of the fine count per full line) is exact, diagonal, unitary and reversible, the identity at n = 1 (the working rule bit for bit) and on a lone love (bit for bit at n = 2, 4, 8), and keeps the exact window equal to the ring form (2e-17) with nothing leaked or outside the cone; n = 1 is E-SPN-0105's level (m* 24.1164, E_rest 3.4716, m*/E_rest 6.947 against tan m/m 1.654, R 4.2000, top speed 0.0297), but at n = 2, 4, 8 no level is held in the box-12 stand-in (least tail 0.187, 0.197, 0.050, against 0.223, 0.189, 0.094 without the correction), and the least tail grows with the box (to 0.24, 0.58, 0.59 at box 20): restoring the contact's phase does not restore the turn, since a split love turns round only with sin(pi/(3n)) and the drift cost, a diagonal phase, cannot turn it; the unbound unit holds nothing at any n.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L2 (L2: known physics reproduced on a stated model).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/spin/full-dock-contact.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-SPN-0108",
+        "quote": null
+      }
+    ]
+  }
+}

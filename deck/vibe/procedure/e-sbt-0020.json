@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "b98737e9-cb60-461d-b3c5-7db26927c7bb",
+  "title": "E-SBT-0020: the 5D pentacomb {3,4,3,3,4} carries the D4 spinor directions AND negative curvature, spin plus...",
+  "purpose": "Experiment E-SBT-0020 in the substrate-survey arena: the 5D pentacomb {3,4,3,3,4} carries the D4 spinor directions AND negative curvature, spin plus curvature from the bare rule.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L1 (L1: known mathematics, correctly confirmed).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/substrate-survey/pentacomb-spin-curvature.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-SBT-0020",
+        "quote": null
+      }
+    ]
+  }
+}

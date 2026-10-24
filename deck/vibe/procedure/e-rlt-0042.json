@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "528459e6-3066-4590-ac98-2ab27a94a69f",
+  "title": "E-RLT-0042: the light sector carries exact Lorentz structure: omega = k with no correction anywhere in the zone...",
+  "purpose": "Experiment E-RLT-0042 in the relativity arena: the light sector carries exact Lorentz structure: omega = k with no correction anywhere in the zone, integer light-cone boosts map solutions to solutions exactly, and their rapidities are dense, while the mass deforms it.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L2 (L2: known physics reproduced on a stated model).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/relativity/exact-discrete-boosts.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-RLT-0042",
+        "quote": null
+      }
+    ]
+  }
+}

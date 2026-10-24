@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "3b0f1304-b9b8-419e-ad5a-6ebe4e7f2258",
+  "title": "E-FND-0064: self persistence rises with conservation exactness (perfect at zero leak, collapsing as conservation...",
+  "purpose": "Experiment E-FND-0064 in the foundations arena: self persistence rises with conservation exactness (perfect at zero leak, collapsing as conservation breaks), a deterministic rebuttal of the randomness-necessary claim.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L2 (L2: known physics reproduced on a stated model).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/foundations/conservation-exactness-sweep.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-FND-0064",
+        "quote": null
+      }
+    ]
+  }
+}

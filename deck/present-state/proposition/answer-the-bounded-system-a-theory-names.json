@@ -1,0 +1,50 @@
+{
+  "record": "proposition",
+  "id": "79250e51-beb2-4e74-8564-65970fecb5e5",
+  "kind": "philosophical",
+  "epistemic_status": "inferred",
+  "title": "Answer: the conscious system is the bounded system a theory names",
+  "statements": [
+    {
+      "id": "7ced998d-af9d-438e-8f05-5492714fbaaf",
+      "text": "The conscious subject is the bounded system a theory assigns consciousness to, such as a brain, neural subsystem, computer or network, with the environment entering only as inputs across its boundary. Where the boundary helps fix the attribution, it must be derived from the present physical state.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "7ced998d-af9d-438e-8f05-5492714fbaaf",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "ac2774e1-a04c-4c89-9db2-7848c6f5ce0b",
+        "locator": "section 2",
+        "quote": "The theorem concerns accounts that assign consciousness to a bounded system such as a brain, neural subsystem, computer, network, or mechanism."
+      },
+      {
+        "source": "ac2774e1-a04c-4c89-9db2-7848c6f5ce0b",
+        "locator": "section 5.2",
+        "quote": "It must either derive that boundary from the present physical state or show that every admissible boundary yields the same attribution."
+      }
+    ]
+  }
+}

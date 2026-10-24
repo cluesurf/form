@@ -1,0 +1,45 @@
+{
+  "record": "proposition",
+  "id": "c6373cd7-da6f-4453-a787-bfdc366c851e",
+  "kind": "mathematical",
+  "epistemic_status": "inferred",
+  "title": "Which reference frame a system implements is undecidable",
+  "statements": [
+    {
+      "id": "a473ae87-23f4-4bbe-aa55-6a2d1e5759a0",
+      "text": "Whether an arbitrary system implements a given quantum reference frame is Turing undecidable by Rice’s theorem, and so is whether two observers share one.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-23"
+    }
+  ],
+  "current_statement": "a473ae87-23f4-4bbe-aa55-6a2d1e5759a0",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "4489b7d7-7273-4b67-a1c2-b53ddab0eeb5",
+        "locator": "section 2.4",
+        "quote": "the general question of whether an arbitrary system A implements a QRF F is Turing undecidable by Rice’s theorem"
+      }
+    ]
+  }
+}

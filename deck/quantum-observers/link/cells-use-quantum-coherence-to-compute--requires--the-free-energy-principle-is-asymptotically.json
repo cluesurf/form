@@ -1,0 +1,28 @@
+{
+  "record": "link",
+  "id": "3a507bd9-3440-4bfe-a1a5-4d1db7d18e7a",
+  "from": "224433cd-8238-413f-8ece-673f8b5669b4",
+  "to": "2eee589b-a474-45f1-8e69-c817669ccbd3",
+  "relation": "requires",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "4489b7d7-7273-4b67-a1c2-b53ddab0eeb5",
+        "locator": "section 5.4, prediction 1",
+        "quote": "The internal, molecular-scale dynamics of both prokaryotic and eukaryotic cells implement quantum information processing, i.e., make essential use of quantum coherence as a computational and memory resource."
+      }
+    ]
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "4a58c0f8-65d7-4fe1-af25-da338e75fa5c",
+  "title": "E-QTM-0065: fresh-environment collisions give exact exponential Lindblad decay at the collision-angle rate while a...",
+  "purpose": "Experiment E-QTM-0065 in the quantum arena: fresh-environment collisions give exact exponential Lindblad decay at the collision-angle rate while a reused environment revives (non-Markov), Markovianity from causal freshness.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L2 (L2: known physics reproduced on a stated model).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/quantum/lindblad-collisions.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-QTM-0065",
+        "quote": null
+      }
+    ]
+  }
+}

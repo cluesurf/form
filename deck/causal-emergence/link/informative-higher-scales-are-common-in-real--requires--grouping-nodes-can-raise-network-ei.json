@@ -1,0 +1,28 @@
+{
+  "record": "link",
+  "id": "0a288668-cb0d-47ef-af6b-690fa1b6e8b2",
+  "from": "382c41cb-fe6a-42d6-8d62-ef15cb4d19b4",
+  "to": "244332d3-0aba-42eb-975d-7ee44fc0c865",
+  "relation": "requires",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "6498aca9-83cf-4905-a85a-3f5eb327c9e9",
+        "locator": "abstract",
+        "quote": "We find that informative higher scales are common in simulated and real networks across biological, social, informational, and technological domains."
+      }
+    ]
+  }
+}

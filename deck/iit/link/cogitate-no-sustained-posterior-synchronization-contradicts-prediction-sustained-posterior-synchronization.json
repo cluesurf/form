@@ -1,0 +1,28 @@
+{
+  "record": "link",
+  "id": "2d0ed8ec-552f-4dca-b7bf-f98ae39e15db",
+  "from": "eb540f39-3e9e-4f85-b08b-728a1cae3f91",
+  "to": "09acad59-7163-4633-b357-ed609e4b3567",
+  "relation": "contradicts",
+  "strength": 0.7,
+  "rationale": "The preregistered failure condition for this prediction was met: no sustained content-specific synchronization within posterior cortex.",
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b84809ac-0650-4173-b863-4ba1c946fcca",
+        "locator": "abstract",
+        "quote": "For IIT, a lack of sustained synchronization within the posterior cortex contradicts the claim that network connectivity specifies consciousness."
+      }
+    ]
+  }
+}

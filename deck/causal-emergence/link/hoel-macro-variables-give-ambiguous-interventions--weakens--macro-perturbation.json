@@ -1,0 +1,28 @@
+{
+  "record": "link",
+  "id": "9fbfede3-bf24-4fe5-825d-971291a143ea",
+  "from": "77906a82-4c3b-4f42-80d9-e28540ecd1c2",
+  "to": "9d930f00-fa6b-4a5a-9310-4b3966b807c9",
+  "relation": "weakens",
+  "strength": null,
+  "rationale": "Averaging over micro states and the extraneous maximum-entropy distribution are the steps the critique identifies as the source of ambiguity.",
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "a493fd6c-c2ff-4b36-b0a9-86e89983754c",
+        "locator": "abstract",
+        "quote": "We provide a critical assessment of the account of causal emergence presented in Erik Hoel's 2017 article"
+      }
+    ]
+  }
+}

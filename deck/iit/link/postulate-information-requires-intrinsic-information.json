@@ -1,0 +1,28 @@
+{
+  "record": "link",
+  "id": "d6cc3ba7-f6f2-4598-b0eb-a67fcd0e6034",
+  "from": "ac6d2767-9d05-437d-b9fc-3abc9bc8e44c",
+  "to": "3b0cb73b-78af-4a31-bcd8-106919e8a3f6",
+  "relation": "requires",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "8443eb2e-406e-4acc-94e8-33cbabbd3679",
+        "locator": "section \"Postulates of physical existence\" (full text)",
+        "quote": "Its cause–effect power must be specific: it must be in this state and select this cause–effect state."
+      }
+    ]
+  }
+}

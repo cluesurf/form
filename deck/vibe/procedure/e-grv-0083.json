@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "0cb4cdcc-9d1e-4f66-9a8e-8e3fc7e256de",
+  "title": "E-GRV-0083: the working vacuum's knot entanglement is an area law only at its first meeting and a volume law at...",
+  "purpose": "Experiment E-GRV-0083 in the gravity arena: the working vacuum's knot entanglement is an area law only at its first meeting and a volume law at equilibrium, and its eta grows with the bulk depth, fail on A0, A1 and A2 with the instrument exact: the exact superposed state (a product of knot rings, never over 4 tokens on side 8, checked term for term against the rule and reversed exactly) gives at beat 2 S = cut knots x 0.5623 on every region and one S for every equal-area slab, eta_1 = 8.435, 12.65, 16.87 nats per husk plaquette on sides 8, 12, 16 (1.054 per plaquette per bulk dock of depth, so G_1 = 1 / (4 eta_1) = 0.0296 husk steps squared on side 8 and falls as 1 / depth); at equilibrium (beats 36 .. 47) the equal-area slabs of width 1 .. 4 read 1,770 to 5,472 nats and the volume fit beats the area fit (rms 579 against 916, r2 0.889 against 0.723, two starts alike), because each knot ring runs the length of its line.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L2 (L2: known physics reproduced on a stated model).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/gravity/knot-area-law.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-GRV-0083",
+        "quote": null
+      }
+    ]
+  }
+}

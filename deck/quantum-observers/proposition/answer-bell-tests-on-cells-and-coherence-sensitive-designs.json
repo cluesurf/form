@@ -1,0 +1,45 @@
+{
+  "record": "proposition",
+  "id": "54c11aa8-4ef3-4c5d-9f71-3cc92babe2a8",
+  "kind": "empirical",
+  "epistemic_status": "hypothesized",
+  "title": "Answer: Bell tests on cells and coherence-sensitive designs",
+  "statements": [
+    {
+      "id": "884d19a7-7d37-4e38-afb8-a75ad431e180",
+      "text": "The framework is checked by Bell-inequality tests on recently separated sister cells, by tests for contextuality and Leggett-Garg violations in interacting biological systems, and by comparing cellular energy budgets with the cost of classical computation.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-23"
+    }
+  ],
+  "current_statement": "884d19a7-7d37-4e38-afb8-a75ad431e180",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "1a235d11-40a1-4047-a972-4206bd4007b2",
+        "locator": "abstract",
+        "quote": "Detection of Bell-inequality violations in responses to perturbation of recently-separated sister cells would provide a sensitive test of this prediction."
+      }
+    ]
+  }
+}

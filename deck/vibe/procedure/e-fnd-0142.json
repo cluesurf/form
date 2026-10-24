@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "9d368c7b-1a68-4b15-8ca4-87e05fa6d338",
+  "title": "E-FND-0142: single-particle two-path coherence exists and is exact on the committed rule, correctly scoped against...",
+  "purpose": "Experiment E-FND-0142 in the foundations arena: single-particle two-path coherence exists and is exact on the committed rule, correctly scoped against the locking law: two branches of one species sum to exactly twice root three at one hundred fifty when aligned and exactly root three at ninety when one branch is kicked a single clock unit, so interference coherence between paths is exact while what the phase-number locking forbids is only the independent phase steering of a dressed composite, both statements now carried by their own experiments.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L2 (L2: known physics reproduced on a stated model).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/foundations/two-path-coherence.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-FND-0142",
+        "quote": null
+      }
+    ]
+  }
+}

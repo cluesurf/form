@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "f7a0d471-bb27-40e7-86e0-9ebafd8dff78",
+  "title": "E-FRC-0096: coarse-graining the committed rule restores no tone symmetry: the four relabellings that move the vacuum...",
+  "purpose": "Experiment E-FRC-0096 in the gauge arena: coarse-graining the committed rule restores no tone symmetry: the four relabellings that move the vacuum tone stay broken at the whole-mesh scale at about 86 percent of their single-cell size, and charge conjugation falls to a volume-independent floor instead of to zero, so no S3 (the Weyl skeleton of SU(3)) emerges at long distance.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L3 (L3: one base rule produced the result as a measured consequence, with a computed control that could have failed).",
+  "status": "completed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/gauge/rule-coarse-tone-symmetry.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "research/result.ts R-FRC-0003",
+        "quote": null
+      }
+    ]
+  }
+}

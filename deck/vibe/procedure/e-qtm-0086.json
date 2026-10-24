@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "9aae9b88-142c-42c3-bdd5-56ab11f042d2",
+  "title": "E-QTM-0086: the measurement record must be a self: with the arrow on the committed rule amplifies but never settles...",
+  "purpose": "Experiment E-QTM-0086 in the quantum arena: the measurement record must be a self: with the arrow on the committed rule amplifies but never settles (the coarse record keeps changing), with the arrow off and a drain it settles but dies (drains to the empty vacuum), so the bare rule holds no live definite record, while an emergent self stays alive and holds a definite configuration, tying the definite outcome to the selves layer as an ingredient.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L2 (L2: known physics reproduced on a stated model).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/quantum/record-needs-a-self.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-QTM-0086",
+        "quote": null
+      }
+    ]
+  }
+}

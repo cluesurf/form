@@ -1,0 +1,33 @@
+{
+  "record": "link",
+  "id": "cce97998-a825-44e2-a1bf-09c5ee85412f",
+  "from": "01f1cc69-e497-4b58-a5ac-6182750d95eb",
+  "to": "9f20f404-7c19-4cc9-afec-cf1c14017209",
+  "relation": "requires",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "8360d34d-30cb-44f8-89c9-41768fb53f0d",
+        "locator": "Discussion, Applicability to Real Systems",
+        "quote": "Therefore, systems that already are close to maximal effectiveness at the micro level (Fig. S1) indicate causal reduction."
+      },
+      {
+        "source": "c40bbd28-a2c5-4730-84c0-90f7ae0644de",
+        "locator": "section 6",
+        "quote": null
+      }
+    ]
+  }
+}

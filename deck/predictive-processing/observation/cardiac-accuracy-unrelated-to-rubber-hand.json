@@ -1,0 +1,39 @@
+{
+  "record": "observation",
+  "id": "a8f1b842-f143-4870-b859-8b220da4e521",
+  "kind": "experimental_result",
+  "epistemic_status": "observed",
+  "description": "In 60 undergraduates, proprioceptive consistency predicted susceptibility to the rubber hand illusion, but cardiac interoceptive accuracy on a heartbeat tracking task was not associated with the strength of the illusion.",
+  "method": "experiment",
+  "status": "reported",
+  "source": "7419b409-0892-4ae6-ac52-223508fc99bc",
+  "procedure": null,
+  "variable": null,
+  "value": null,
+  "unit": null,
+  "uncertainty": null,
+  "sample_size": 60,
+  "replication_count": null,
+  "quality": null,
+  "limitations": "One sample, one heartbeat task.",
+  "conflicts_of_interest": null,
+  "observed_at": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "7419b409-0892-4ae6-ac52-223508fc99bc",
+        "locator": "abstract",
+        "quote": "We concluded that individual differences in proprioceptive processing impact the RHI, while cardioceptive accuracy is unrelated to it."
+      }
+    ]
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "record": "proposition",
+  "id": "c7e91785-67f7-495d-bfe5-149060171d39",
+  "kind": "empirical",
+  "epistemic_status": "hypothesized",
+  "title": "All perceptual content is grounded in allostasis",
+  "statements": [
+    {
+      "id": "8767ed06-ce1e-437e-bfd8-aa2d1b89a83e",
+      "text": "Interoceptive inference is not predictive coding extended from vision. Perceptual content in every modality, vision included, follows from a basic imperative to regulate physiology.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-23"
+    }
+  ],
+  "current_statement": "8767ed06-ce1e-437e-bfd8-aa2d1b89a83e",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "bfa85443-4b77-43f1-b5f2-ec1850a4bc3c",
+        "locator": "accepted manuscript p. 13",
+        "quote": "all perceptual content is underpinned by inferential mechanisms that have a functional, ontological, and phylogenetic basis in allostasis."
+      }
+    ]
+  }
+}

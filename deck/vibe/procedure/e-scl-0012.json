@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "30b82985-55ab-4fd8-a1ca-31d7152da337",
+  "title": "E-SCL-0012: the 1D decimation RG shows a coupling flows with a beta function under coarse-graining",
+  "purpose": "Experiment E-SCL-0012 in the renormalization arena: the 1D decimation RG shows a coupling flows with a beta function under coarse-graining.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L1 (L1: known mathematics, correctly confirmed).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/renormalization/rg-from-coarse-graining.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-SCL-0012",
+        "quote": null
+      }
+    ]
+  }
+}

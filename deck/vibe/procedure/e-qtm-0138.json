@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "98eb1e0b-e9b2-493d-ac3c-a77db7704d84",
+  "title": "E-QTM-0138: Bell with settings made inside the model: each party measures with the reflection through the frame...",
+  "purpose": "Experiment E-QTM-0138 in the quantum arena: Bell with settings made inside the model: each party measures with the reflection through the frame direction and a love-fear apparatus whose line comes from its own history in the knit; the whole passes CHSH 2 up to 62/27, the model's deterministic runs never do, every setting is independent of the system's hidden points and no influence crosses the gap, so the violation is carried only by the signed count.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L2 (L2: known physics reproduced on a stated model).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/quantum/bell-in-model-settings.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-QTM-0138",
+        "quote": null
+      }
+    ]
+  }
+}

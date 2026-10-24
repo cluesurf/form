@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "5d93a8f5-d217-45c8-b9bf-2a98084a655e",
+  "title": "E-QTM-0037: a future point in the common future of two spacelike past points correlates them (a connected...",
+  "purpose": "Experiment E-QTM-0037 in the quantum arena: a future point in the common future of two spacelike past points correlates them (a connected three-point signal), while a causally-disconnected future point gives exactly zero, the two-ended mechanism, causal.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L2 (L2: known physics reproduced on a stated model).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/quantum/future-boundary-correlation.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-QTM-0037",
+        "quote": null
+      }
+    ]
+  }
+}

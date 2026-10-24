@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "f7616d72-0e2c-40e6-89d1-e503cffa2f49",
+  "title": "E-FRC-0143: the committed rule has a Higgs-like vacuum without a Higgs mechanism: of the 9! reversible maps of two...",
+  "purpose": "Experiment E-FRC-0143 in the gauge arena: the committed rule has a Higgs-like vacuum without a Higgs mechanism: of the 9! reversible maps of two vibes exactly 2 respect SU(2) (identity and swap) and every block of the rule respects only the charge U(1), so the arrow breaks SU(2) explicitly; the vacuum is a condensate of period 24 that occupies 10 of 12 lines and leaves one plane empty at every one of 24 birth phases and is carried to itself by the rule's reversal, so nothing is broken spontaneously; and the only exactly free lone tones are the 2 leading directions of that empty plane.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L2 (L2: known physics reproduced on a stated model).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/gauge/vacuum-condensate-and-su2.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-FRC-0143",
+        "quote": null
+      }
+    ]
+  }
+}

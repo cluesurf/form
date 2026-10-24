@@ -1,0 +1,28 @@
+{
+  "record": "link",
+  "id": "6caf8e5c-d4dd-482d-aca6-a253ff8981e4",
+  "from": "117175ad-639a-48a7-9022-620f485c516a",
+  "to": "c6eb561f-8abf-4059-877f-61b42f83d4fc",
+  "relation": "supports",
+  "strength": 0.3,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "4379cf9e-06ad-431d-98bb-a788c79ec880",
+        "locator": "author summary",
+        "quote": "we are able to confirm emergence in the iconic Conway’s Game of Life, in certain flocking patterns, and in representations of motor movements in the monkey’s brain"
+      }
+    ]
+  }
+}

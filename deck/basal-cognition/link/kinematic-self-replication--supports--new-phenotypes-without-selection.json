@@ -1,0 +1,28 @@
+{
+  "record": "link",
+  "id": "48344965-b649-484d-b4eb-d349fc7c8070",
+  "from": "14d0797f-1804-467e-99f0-f4df5a883c36",
+  "to": "c1589994-5e87-4f77-9b1f-2544e48ffd7e",
+  "relation": "supports",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "6b561a36-4fe5-4c4f-8907-706c838f1641",
+        "locator": "abstract",
+        "quote": "synthetic multicellular assemblies can also replicate kinematically by moving and compressing dissociated cells in their environment into functional self-copies"
+      }
+    ]
+  }
+}

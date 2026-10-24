@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "35666c42-28b2-4435-acc1-5b4877f5a16c",
+  "title": "E-MTR-0004: stand-in hydrogen on the husk, the ground state: bounded below exactly by the source potential since the...",
+  "purpose": "Experiment E-MTR-0004 in the quantum arena: stand-in hydrogen on the husk, the ground state: bounded below exactly by the source potential since the fear band is non-negative, lattice-bound on the source dock at small Bohr radius, and converging to -Ry and to radius 1.5 a as the lattice refines, where the 18-slot husk token has no bottom.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L2 (L2: known physics reproduced on a stated model).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/matter/stand-in-hydrogen-ground-state.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-MTR-0004",
+        "quote": null
+      }
+    ]
+  }
+}

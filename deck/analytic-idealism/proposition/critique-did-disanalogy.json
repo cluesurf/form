@@ -1,0 +1,45 @@
+{
+  "record": "proposition",
+  "id": "8365630c-1c16-43aa-ac6a-d5a87ea84c42",
+  "kind": "philosophical",
+  "epistemic_status": "inferred",
+  "title": "Critique: the universe is unlike a DID subject",
+  "statements": [
+    {
+      "id": "7cd1538d-42fb-4998-8aca-f27ce48edd5b",
+      "text": "There are many disanalogies between the universe and a person with DID, and it is unclear how to find analogous within-subject fragmentation at the level of cognitive processes in the universe.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-23"
+    }
+  ],
+  "current_statement": "7cd1538d-42fb-4998-8aca-f27ce48edd5b",
+  "status": "active",
+  "voice": "critique",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "53d26db2-2a19-4ddd-a45c-3d2eb18617b7",
+        "locator": "section 4, Cosmic idealism, p. 23",
+        "quote": "There are many disanalogies between the universe and a DID subject, and it is not at all clear how to find analogous within-subject fragmentation at the level of cognitive processes in the universe."
+      }
+    ]
+  }
+}

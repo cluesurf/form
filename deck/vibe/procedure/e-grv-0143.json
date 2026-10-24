@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "9f35bc52-ec79-4b29-b682-f1861c62225b",
+  "title": "E-GRV-0143: the full 5d dock slide at cubic order, with the depth w as a fifth coordinate, forces 5d...",
+  "purpose": "Experiment E-GRV-0143 in the gravity arena: the full 5d dock slide at cubic order, with the depth w as a fifth coordinate, forces 5d Einstein-Hilbert and so derives the massive KK graviton's 2/3 that E-GRV-0142 assumed, pass at L1 (B1, B2, B3; flat bulk, continuum, covariant $H_{MN}$ split into the husk metric, the graviphoton $H_{m4}$ and the radion $H_{44}$, $O_h$ on the husk's x, y, z only): of 1486 cube-symmetric two-derivative Lagrangians quadratic plus cubic in $H_{MN}$ (1156 Euler-Lagrange rank), 331 satisfy delta0 S2 and delta0 S3 + delta1 S2 = total derivative exactly over two primes, 1 genuine, and their metric kernel has rank 1 and holds 5d Fierz-Pauli: the w-w block on the husk metric is Fierz-Pauli's with lambda_5 = 1 and the depth stiffness tied to the inertia; read from that derived kernel with de Donder weights 1 and 2, a static $T_{00}$ at 5-momentum (0, p, 0, 0, m) has tensor factor exactly 2/3 at six (p, m) from (1, 30) to (30, 1) and W $(p^2 + m^2)$ one value (the KK mass is the depth momentum), also at c = 2 and depth scale b = 3 (where Fierz-Pauli at unit scales is out of the span, so the depth stiffness is read, not assumed); the depth components are the flat-bulk KK spectrum: at $k_4$ != 0 the kernel's null space is 5 gauge directions spanning all 5 depth components (graviphoton and radion eaten), at $k_4 = 0$ the graviphoton is a decoupled Maxwell field (block rank 3 of 4, only A ~ k gauge) and the radion physical and massless (W $p^2$ one value), the zero mode reading 2/3 with it and 1/2 on the husk metric alone; the 4d rerun in covariant variables reproduces E-GRV-0141 (257 columns, 1 genuine, kernel rank 1 and Fierz-Pauli, rank 2 under the linear slide) and the 5d kernel restricted to the husk is 4d Fierz-Pauli exactly; a slide in the 4d directions only $(\\xi ^w = 0)$ leaves metric kernel rank 7 (lambda_5, the depth stiffness and 6 depth couplings free; FP5 plus each of its 7 members gives 6 distinct factors), the depth foliation $\\xi ^w$ = f(w) rank 4 and the linear slide rank 5; the warp, the orbifold that removes the graviphoton zero mode and the radion's stabilization are not derived.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L1 (L1: known mathematics, correctly confirmed).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/gravity/bulk-slide-depth.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-GRV-0143",
+        "quote": null
+      }
+    ]
+  }
+}

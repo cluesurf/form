@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "a3087a98-0112-4714-8e7d-660e51c56524",
+  "title": "E-GRV-0074: the even field is the husk light sourced by content, and like sources of it REPEL, pass (the repulsion...",
+  "purpose": "Experiment E-GRV-0074 in the gravity arena: the even field is the husk light sourced by content, and like sources of it REPEL, pass (the repulsion was the prediction): the light's own rule with div S set to each column's content (love plus fear) instead of its charge, compensated at a far sink since a closed husk cannot hold a never-negative source, keeps Gauss against the content on every beat of every run, reverses bit for bit, is gauge covariant on 48 of 48 beats, and is identical for a lump and its charge flip while the light's differ; its static field is the light's (source-sink energies equal (pi/D)(G(0) - G(r)) to 1.6e-16, so 1/(24 pi r) + $A / r^5$ with no $1 / r^3$, E-FRC-0241), and two even sources have W(r) = -0.00790, -0.00903, -0.00939, -0.00948 at r = 1 .. 4, rising as they approach: a sum-of-squares field energy makes every pair of one sign repel, and an even source has one sign, so a copy of the light repels where gravity attracts; a love and a fear source repel identically, while the light's own love and fear pair attracts with exactly the opposite energy.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L2 (L2: known physics reproduced on a stated model).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/gravity/even-field.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-GRV-0074",
+        "quote": null
+      }
+    ]
+  }
+}

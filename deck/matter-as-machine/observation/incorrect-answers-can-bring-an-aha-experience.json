@@ -1,0 +1,39 @@
+{
+  "record": "observation",
+  "id": "2adf6ec3-e05c-4141-8131-410173e4d1cf",
+  "kind": "documentary_record",
+  "epistemic_status": "observed",
+  "description": "The instinct page reports Danek and Wiley (2017): incorrect answers can also bring an aha experience, though correct answers brought stronger ones on average.",
+  "method": "document_review",
+  "status": "reported",
+  "source": "983ce19a-a7da-4801-9728-4eca49c1b243",
+  "procedure": null,
+  "variable": null,
+  "value": null,
+  "unit": null,
+  "uncertainty": null,
+  "sample_size": null,
+  "replication_count": null,
+  "quality": null,
+  "limitations": "Task-based insights, which the page notes are not the rare, intense experiences its hypothesis is about. The study was not opened for this record.",
+  "conflicts_of_interest": null,
+  "observed_at": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "983ce19a-a7da-4801-9728-4eca49c1b243",
+        "locator": "Related research",
+        "quote": "found that incorrect answers can also produce an aha experience."
+      }
+    ]
+  }
+}

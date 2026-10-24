@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "9edc3879-f421-46fa-baa7-b2594f9556f1",
+  "title": "E-SPN-0095: the frame mixer G in the working vacuum: a lone vibe leaves its line and the vacuum's laws hold, but the...",
+  "purpose": "Experiment E-SPN-0095 in the spin arena: the frame mixer G in the working vacuum: a lone vibe leaves its line and the vacuum's laws hold, but the one-line electron no longer binds and a lone vibe's wake no longer stays small, fail on M1 (G6 alone) and M3, as predicted for M3: with G added and nothing else changed, G never acts on the vacuum's own history (0 moves on the keep, Born and exchange paths and on the like pair), so the laws, reversal, C, one causal component and made = unmade hold on 17 of 17 starts on every path and the knot reads 3/4, 1/4, CHSH sqrt 7 on 17 of 17; a lone love leaves its line (0.373 off it by beat 4 on the empty mesh, on exactly the 4 lines of its frame and 0 off the frame; 0.563 to 0.564 in the vacuum by beat 6 on 17 of 17; the coin alone keeps 0), and its husk shadow leaves its husk line (0.331, rank 3); but on the Born and exchange paths its wake over 96 beats reaches 39,720 trits a period (the gate, E-RLT-0105's line-bound calibration, was 32; the keep path, where G never fires, reads 15) and leaves its frame, so vibes carry it between frames through the vacuum; E-SPN-0093's electron (E 0.33002, share 0.98236) returns with probability 0.454 after one exact beat with G, and the longest-lived one-line level keeps 0.558 a beat with no overlap with it: it is not a stationary one-line state, and a bound state over the whole frame is not computed here; g is not read; exact and reversible on 20 of 20 lone runs.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L2 (L2: known physics reproduced on a stated model).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/spin/frame-mixed-vacuum.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-SPN-0095",
+        "quote": null
+      }
+    ]
+  }
+}

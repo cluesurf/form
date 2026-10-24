@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "036e600d-ca34-463e-bfa5-ebf9cff8157c",
+  "title": "E-MTR-0027: quadrature from the lazy root token's self ports (a STAND-IN), pass: the band eigenvector's weight on...",
+  "purpose": "Experiment E-MTR-0027 in the relativity arena: quadrature from the lazy root token's self ports (a STAND-IN), pass: the band eigenvector's weight on the ports that copy nowhere is exactly (1 - 24/Q) cos(mu) tan((mu + E)/2) / sin(E); at the light mass its excess over the massless half, normalized at rest, is mu / E, so $x^2$ + (v/c0)^2 = 1 to 1.04e-3 at D = 2 to 6 over 13 directions (spread 7.6e-7), not linear (miss 0.41) and not $\\mu ^2 / E^2$ (miss 0.35); at the coin's own phase mu = pi/3 the self share rises with speed (to 1.049 of rest) and the quadrature misses by 6.5 to 28 percent; the whole-copy token has no self port at all.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L2 (L2: known physics reproduced on a stated model).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/matter/self-port-quadrature.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-MTR-0027",
+        "quote": null
+      }
+    ]
+  }
+}

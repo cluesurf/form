@@ -1,0 +1,26 @@
+{
+  "record": "question",
+  "id": "1eb6d58b-4526-457d-abe5-6a9683927829",
+  "text": "Can the pinch be proved from definitions in the formal kernel, rather than checked on integers?",
+  "kind": "missing_evidence",
+  "status": "open",
+  "parent": null,
+  "description": "OP-09: a machine-checked proof of the dimension-eight pinch.\n\nKnown: the kernel proves the norm multiplicative for the complex numbers, quaternions and octonions.\n\nUnknown: the converse of Hurwitz, and the pinch as a theorem.\n\nWhy it matters: R-FND-0002 claims less than \"proof-checked\" until it exists.\n\nScope: a formalization project, with the Hurwitz converse as the known hard part.\n\nSkills: formal proof, algebra.\n\nWhere to start: Baez 2002, The Octonions; Conway and Smith 2003, On Quaternions and Octonions.\n\nThe claims it would move: R-FND-0002.\n\nEvidence named: from-nothing hardening plan, tier 3.",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "research/problem.ts OP-09",
+        "quote": null
+      }
+    ]
+  }
+}

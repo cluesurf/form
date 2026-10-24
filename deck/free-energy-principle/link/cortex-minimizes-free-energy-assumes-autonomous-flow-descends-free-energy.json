@@ -1,0 +1,28 @@
+{
+  "record": "link",
+  "id": "75177b4a-78af-4789-9c77-2fa831924746",
+  "from": "de4ece67-abb5-4cf5-9f67-d376a867e846",
+  "to": "e47aadcb-f881-4a3b-bb08-92040f1ccec3",
+  "relation": "assumes",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "a6941f16-a2de-4b67-b9c7-f026073173fc",
+        "locator": "abstract",
+        "quote": "Cortical responses can be seen as the brain’s attempt to minimize the free energy induced by a stimulus and thereby encode the most likely cause of that stimulus."
+      }
+    ]
+  }
+}

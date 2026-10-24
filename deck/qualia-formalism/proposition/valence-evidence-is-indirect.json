@@ -1,0 +1,45 @@
+{
+  "record": "proposition",
+  "id": "7920d33f-1c70-451e-8ce6-cbba4be938ac",
+  "kind": "philosophical",
+  "epistemic_status": "inferred",
+  "title": "The evidence for heavy tails is indirect",
+  "statements": [
+    {
+      "id": "c4ed950b-3b37-449e-bb5e-91b34d1d6f61",
+      "text": "The evidence for heavy-tailed valence is indirect, resting on recalled experiences and numerical self-report.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-23"
+    }
+  ],
+  "current_statement": "c4ed950b-3b37-449e-bb5e-91b34d1d6f61",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "85b7eae8-271a-41ee-9c3c-3c2ad6eae62f",
+        "locator": "conclusion",
+        "quote": "The evidence is only indirect, but with enough room for error"
+      }
+    ]
+  }
+}

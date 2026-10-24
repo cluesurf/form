@@ -1,0 +1,45 @@
+{
+  "record": "proposition",
+  "id": "5ae97929-0ae1-4f98-a28f-9d5d1f716899",
+  "kind": "mathematical",
+  "epistemic_status": "inferred",
+  "title": "Average speed is the share of net steps in the loop",
+  "statements": [
+    {
+      "id": "51867de7-51ba-4fc1-b1f5-27c4c6260798",
+      "text": "A machine's average speed is its net steps per loop over the loop's length. RRRR moves right at the maximum speed, while RRRRLLL moves right one tick in seven, at $1/7$ of the maximum.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "51867de7-51ba-4fc1-b1f5-27c4c6260798",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "f1f9bdb8-14c9-4c62-9e48-01ecc2870699",
+        "locator": "Speed",
+        "quote": "it moves right only one moment of time out of seven."
+      }
+    ]
+  }
+}

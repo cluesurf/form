@@ -1,0 +1,50 @@
+{
+  "record": "proposition",
+  "id": "18fe8e04-6172-47e9-9a9f-4040f229396e",
+  "kind": "empirical",
+  "epistemic_status": "hypothesized",
+  "title": "Different people love different ideas, so people explore every direction",
+  "statements": [
+    {
+      "id": "dfbedbcd-15d6-4ec7-9f5c-67719e2d4b8f",
+      "text": "Because each person is attached to different ideas, people move in every possible direction, toward mathematics, prayer or war, so that someone does something useful. No conscious nature is behind this: the mechanism proved useful, as running helps mice spread.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "dfbedbcd-15d6-4ec7-9f5c-67719e2d4b8f",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "983ce19a-a7da-4801-9728-4eca49c1b243",
+        "locator": "Result",
+        "quote": "Nature makes us evolve in all directions possible so someone does something useful."
+      },
+      {
+        "source": "983ce19a-a7da-4801-9728-4eca49c1b243",
+        "locator": "Result",
+        "quote": "This mechanism just appeared to be useful and helped us"
+      }
+    ]
+  }
+}

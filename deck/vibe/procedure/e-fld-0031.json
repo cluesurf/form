@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "748c4db2-155c-4e0c-9bfb-08f26b1fd874",
+  "title": "E-FLD-0031: the knit, its lattice Boltzmann equation and the hydrodynamics that equation implies agree flow by flow...",
+  "purpose": "Experiment E-FLD-0031 in the fluids arena: the knit, its lattice Boltzmann equation and the hydrodynamics that equation implies agree flow by flow: a shear, a Taylor-Green vortex and a sound wave on the exact knit at L = 16 to 24 are followed beat for beat by the equation from the knit start own coarse field to within 0.005 to 0.029 of the start amplitude, and on flows up to L = 384 the Navier-Stokes level read off the equation slow modes follows the equation with an error falling as $L^{-2}$ (0.036 to 0.00016 for the shear, 0.116 to 0.0018 for sound); a P2 wave along axis 3 keeps 0.80 of itself forever through the slab invariant, which both coarse levels carry.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L2 (L2: known physics reproduced on a stated model).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/fluids/knit-multiscale.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-FLD-0031",
+        "quote": null
+      }
+    ]
+  }
+}

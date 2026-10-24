@@ -1,0 +1,45 @@
+{
+  "record": "proposition",
+  "id": "a5d41ef8-a1a3-4bc8-9ba2-e7f4ce3d34ad",
+  "kind": "mathematical",
+  "epistemic_status": "inferred",
+  "title": "Quantum Darwinism derives classical objectivity from quantum theory",
+  "statements": [
+    {
+      "id": "26bcb6d5-755b-480f-9384-d3b3118d48b3",
+      "text": "Quantum Darwinism holds that the proliferation of redundant records of selected states in the environment explains classical robustness and effective collapse within quantum theory, which counts as progress toward settling the measurement problem.",
+      "language": "en",
+      "scope": "the position Fields argues against",
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-23"
+    }
+  ],
+  "current_statement": "26bcb6d5-755b-480f-9384-d3b3118d48b3",
+  "status": "active",
+  "voice": "critique",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "775c2d0d-acdd-4f74-97d6-0abccee5492a",
+        "locator": "abstract",
+        "quote": "Taken together, these three advances mark considerable progress towards settling the quantum measurement problem."
+      }
+    ]
+  }
+}

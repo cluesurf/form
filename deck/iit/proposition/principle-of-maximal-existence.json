@@ -1,0 +1,45 @@
+{
+  "record": "proposition",
+  "id": "d049d1b3-0edc-441a-9e1f-a2f508d80ee8",
+  "kind": "philosophical",
+  "epistemic_status": "hypothesized",
+  "title": "Principle of maximal existence",
+  "statements": [
+    {
+      "id": "776d4527-a907-40e1-a80f-662660f9f862",
+      "text": "When it comes to a requirement for existence, what exists is what exists the most. This picks the complex and the states it specifies among overlapping candidates.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-23"
+    }
+  ],
+  "current_statement": "776d4527-a907-40e1-a80f-662660f9f862",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "8443eb2e-406e-4acc-94e8-33cbabbd3679",
+        "locator": "Box 2 (full text)",
+        "quote": "The principle of maximal existence states that, when it comes to a requirement for existence, what exists is what exists the most."
+      }
+    ]
+  }
+}

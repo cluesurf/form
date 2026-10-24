@@ -1,0 +1,45 @@
+{
+  "record": "proposition",
+  "id": "3eea1110-e178-4ef4-9534-57dbef40fcd1",
+  "kind": "philosophical",
+  "epistemic_status": "hypothesized",
+  "title": "Life, mind and consciousness are continuous",
+  "statements": [
+    {
+      "id": "9b26b136-51af-456b-bfcc-d3bb904af0ca",
+      "text": "Grounding selfhood in allostatic control supports a strong continuity between life, mind and consciousness.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-23"
+    }
+  ],
+  "current_statement": "9b26b136-51af-456b-bfcc-d3bb904af0ca",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "bfa85443-4b77-43f1-b5f2-ec1850a4bc3c",
+        "locator": "accepted manuscript p. 14",
+        "quote": "More radically, it underpins a strong continuity between life, mind, and consciousness"
+      }
+    ]
+  }
+}

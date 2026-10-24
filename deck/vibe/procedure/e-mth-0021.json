@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "254fe3e4-b134-4185-ab99-689bb84fe8dd",
+  "title": "E-MTH-0021: forced couplings against 1/137.036 under the pre-registered null: self-duality, the Z3 center, the...",
+  "purpose": "Experiment E-MTH-0021 in the method arena: forced couplings against 1/137.036 under the pre-registered null: self-duality, the Z3 center, the model's own critical point and the hypercubic one, each run across the warp by a power, a logarithm or a warped column, the light-speed ratio and a trit link, fifteen mechanisms derived before comparison, none identified, with the known numerology 4 $\\pi ^3 + \\pi ^2$ + pi and Wyler's formula refused as controls.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L2 (L2: known physics reproduced on a stated model).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/method/alpha-candidates-under-the-null.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-MTH-0021",
+        "quote": null
+      }
+    ]
+  }
+}

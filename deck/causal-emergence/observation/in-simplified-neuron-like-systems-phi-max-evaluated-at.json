@@ -1,0 +1,39 @@
+{
+  "record": "observation",
+  "id": "b6c56514-7967-43a3-930a-ca142e292eee",
+  "kind": "simulation_result",
+  "epistemic_status": "simulated",
+  "description": "In simplified neuron-like systems, Phi-max evaluated at micro and macro levels in space and time peaks at a macro level when the systems have indeterminism or degeneracy.",
+  "method": "simulation",
+  "status": "reported",
+  "source": "43accee2-70fd-4090-88e9-d71562ee222f",
+  "procedure": null,
+  "variable": null,
+  "value": null,
+  "unit": null,
+  "uncertainty": null,
+  "sample_size": null,
+  "replication_count": null,
+  "quality": null,
+  "limitations": null,
+  "conflicts_of_interest": null,
+  "observed_at": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "43accee2-70fd-4090-88e9-d71562ee222f",
+        "locator": "abstract",
+        "quote": "Here, we evaluate ΦMax systematically at micro and macro levels in space and time using simplified neuronal-like systems."
+      }
+    ]
+  }
+}

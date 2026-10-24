@@ -1,0 +1,50 @@
+{
+  "record": "proposition",
+  "id": "508d162d-2dcb-4635-a8ff-479f313652a5",
+  "kind": "empirical",
+  "epistemic_status": "hypothesized",
+  "title": "PC-01: correlation through a shared ancestor in the interior decays as a power of boundary distance",
+  "statements": [
+    {
+      "id": "43a730ed-be8c-452c-b6e8-f35c92e351fe",
+      "text": "Correlation through a shared ancestor in the interior decays as a power of boundary distance.",
+      "language": "en",
+      "scope": "a prediction candidate, not a frozen prediction row",
+      "conditions": "Where it stands: argued (R-HLG-0002). The exponent is not measured. What it needs: the exponent from the committed knit, then the physical system whose correlations it predicts.",
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-22"
+    }
+  ],
+  "current_statement": "43a730ed-be8c-452c-b6e8-f35c92e351fe",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": "bcaa5ce0-8497-40a6-ba79-cdd82805c07a",
+  "prediction": null,
+  "standing": {
+    "value": "open",
+    "reason": "a candidate: it has not passed the prediction gate",
+    "basis": [],
+    "proposal": null
+  },
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "research/prediction.ts PC-01",
+        "quote": null
+      }
+    ]
+  }
+}

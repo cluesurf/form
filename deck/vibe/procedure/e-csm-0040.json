@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "9f752909-be6e-444a-bbc5-1881b4e4aa8c",
+  "title": "E-CSM-0040: the arrow as broken time-reversal symmetry, the symmetric point is the unique dead one",
+  "purpose": "Experiment E-CSM-0040 in the cosmology arena: the arrow as broken time-reversal symmetry, the symmetric point is the unique dead one.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L2 (L2: known physics reproduced on a stated model).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/cosmology/time-symmetry.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-CSM-0040",
+        "quote": null
+      }
+    ]
+  }
+}

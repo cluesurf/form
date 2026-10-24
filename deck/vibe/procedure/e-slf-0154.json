@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "58c6dc6d-6ac5-44ce-a69c-25ea2c72add3",
+  "title": "E-SLF-0154: the bare committed rule does not navigate: a structured body beside a charge-rich resource shows no...",
+  "purpose": "Experiment E-SLF-0154 in the selves arena: the bare committed rule does not navigate: a structured body beside a charge-rich resource shows no consistent centroid drift toward it in either orientation, while the selves-layer valence machinery (the declared added lean) shows a large approach differential, so goal-directed movement is not base-emergent and lives at the emergent selves layer.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L2 (L2: known physics reproduced on a stated model).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/selves/navigation-not-base-emergent.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-SLF-0154",
+        "quote": null
+      }
+    ]
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "297f1bad-efc3-4c9b-a19a-2644ecf364ae",
+  "title": "E-SPN-0080: g on the forced schedule, and what the Dirac square root adds beyond second order, a STAND-IN: the...",
+  "purpose": "Experiment E-SPN-0080 in the spin arena: g on the forced schedule, and what the Dirac square root adds beyond second order, a STAND-IN: the 16-beat nested palindrome's Landau zero mode is measured at the rest energy at every field in all three planes, and the prediction that every ordering-free (T = 0) schedule's zero mode is exact while a T != 0 schedule with second-order g = 2 misses at finite field is tested on E-SPN-0079's 14-beat classes.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L2 (L2: known physics reproduced on a stated model).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/spin/g-two-zero-mode.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-SPN-0080",
+        "quote": null
+      }
+    ]
+  }
+}

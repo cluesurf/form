@@ -1,0 +1,38 @@
+{
+  "record": "link",
+  "id": "aa8c8677-e3b0-4500-bfc5-7aa75558587b",
+  "from": "0afb4e28-08d4-4449-a577-a6fab59d4312",
+  "to": "1742bbfe-92c2-4298-aa13-2df7e20acb32",
+  "relation": "answers",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "7d868dbb-9fb1-455b-8d46-8cf0dce8e24e",
+        "locator": "The reading, and what is falsifiable",
+        "quote": "No reading can tell a felt universe from a structurally identical one."
+      },
+      {
+        "source": "7d868dbb-9fb1-455b-8d46-8cf0dce8e24e",
+        "locator": "The goal",
+        "quote": "When a test shows that a simpler or better choice works, or that a current choice cannot work, the base changes with it."
+      },
+      {
+        "source": "7d868dbb-9fb1-455b-8d46-8cf0dce8e24e",
+        "locator": "The reading, and what is falsifiable",
+        "quote": "the knots were expected to give an area law and gave a volume law"
+      }
+    ]
+  }
+}

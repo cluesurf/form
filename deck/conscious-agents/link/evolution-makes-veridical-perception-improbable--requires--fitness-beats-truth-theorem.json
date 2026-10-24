@@ -1,0 +1,28 @@
+{
+  "record": "link",
+  "id": "2bd849af-a838-4b26-ac44-44ca09ac7ec6",
+  "from": "dad27fac-1afb-4826-b86f-1a04b3a5eaee",
+  "to": "07146716-c6ad-45f9-aa53-a4554416f42a",
+  "relation": "requires",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "9f6802be-e2fa-4f89-b303-461db4c74e7e",
+        "locator": "Objections and replies, objection 19",
+        "quote": "evolutionary theory entails a low probability that our perceptions are veridical"
+      }
+    ]
+  }
+}

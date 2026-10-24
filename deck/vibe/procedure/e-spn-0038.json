@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "432cba3f-4fe1-4893-a931-27232749ab6f",
+  "title": "E-SPN-0038: the ternary tone $(Z_3)$ hosts anyons, a fractional 2pi/3 braiding phase, topological and...",
+  "purpose": "Experiment E-SPN-0038 in the spin arena: the ternary tone $(Z_3)$ hosts anyons, a fractional 2pi/3 braiding phase, topological and enclosure-gated, vs the binary boson and fermion.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L2 (L2: known physics reproduced on a stated model).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/spin/ternary-anyons.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-SPN-0038",
+        "quote": null
+      }
+    ]
+  }
+}

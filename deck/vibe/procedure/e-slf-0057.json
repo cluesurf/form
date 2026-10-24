@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "80293001-d556-4d6d-a39d-c67681a58b80",
+  "title": "E-SLF-0057: a self keeps its identity by repair through total substance turnover, while a structureless self dies",
+  "purpose": "Experiment E-SLF-0057 in the selves arena: a self keeps its identity by repair through total substance turnover, while a structureless self dies.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L2 (L2: known physics reproduced on a stated model).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/selves/identity-persists-through-turnover.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-SLF-0057",
+        "quote": null
+      }
+    ]
+  }
+}

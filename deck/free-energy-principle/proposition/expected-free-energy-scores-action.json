@@ -1,0 +1,50 @@
+{
+  "record": "proposition",
+  "id": "51075255-9e90-4ad6-9056-9e66b95c297a",
+  "kind": "mathematical",
+  "epistemic_status": "inferred",
+  "title": "Expected free energy selects action and yields curiosity",
+  "statements": [
+    {
+      "id": "992b52ff-5d6d-4f89-af3b-7b0a4ca4e463",
+      "text": "The most likely course of action is the one with least expected free energy. Expected free energy combines a pragmatic term (reaching preferred outcomes) with an epistemic term (resolving uncertainty), so information seeking follows from the same objective.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-23"
+    }
+  ],
+  "current_statement": "992b52ff-5d6d-4f89-af3b-7b0a4ca4e463",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "951a63ba-fbb2-4b78-af38-52646f22dbe0",
+        "locator": "section 7",
+        "quote": "Expected free energy plays a definitive role in active inference, where it can be regarded as a fairly universal objective function for selecting autonomous paths of least action."
+      },
+      {
+        "source": "486f9dea-4b8d-4998-8fbb-eea469cbe46b",
+        "locator": "abstract",
+        "quote": "providing a formal explanation for reward seeking, context learning, and epistemic foraging."
+      }
+    ]
+  }
+}

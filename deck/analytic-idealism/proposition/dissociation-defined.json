@@ -1,0 +1,45 @@
+{
+  "record": "proposition",
+  "id": "68d7b0a8-99c7-429b-a860-1bcebfceac95",
+  "kind": "definitional",
+  "epistemic_status": "designed",
+  "title": "Dissociation",
+  "statements": [
+    {
+      "id": "559f01bd-413c-4019-8fa9-68f3dd628552",
+      "text": "Dissociation is a disruption of the normal integration of phenomenal contents, in which some contents can no longer evoke others through cognitive associations.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-23"
+    }
+  ],
+  "current_statement": "559f01bd-413c-4019-8fa9-68f3dd628552",
+  "status": "active",
+  "voice": "framework",
+  "defines": "dissociation",
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "9c8de529-0562-4ede-9748-a99db6ec0056",
+        "locator": "section 9, p. 141",
+        "quote": "Dissociation entails that some phenomenal contents cease to be able to evoke others."
+      }
+    ]
+  }
+}

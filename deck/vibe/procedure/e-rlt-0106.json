@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "904901fd-3504-44f8-a6af-aaff1c7697af",
+  "title": "E-RLT-0106: the rule's own gates on pair making are not a gap, they make one lone vibe scramble the vacuum, pass...",
+  "purpose": "Experiment E-RLT-0106 in the relativity arena: the rule's own gates on pair making are not a gap, they make one lone vibe scramble the vacuum, pass: with no mixer on three full-key paths (side 16, 'pass', 64 beats) one lone love stays at a wake of at most 27 under 'none' (the working vacuum), passes a twentieth of the slots by beat 15 under 'point' (636,680 or more at beat 64) and by beat 18 under 'occupation' (632,349 or more); the old key reproduces the probe's 'point' wake at all 16 samples.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L2 (L2: known physics reproduced on a stated model).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/relativity/veto-scatter.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-RLT-0106",
+        "quote": null
+      }
+    ]
+  }
+}

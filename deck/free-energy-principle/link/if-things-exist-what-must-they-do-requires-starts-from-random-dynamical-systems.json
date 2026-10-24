@@ -1,0 +1,28 @@
+{
+  "record": "link",
+  "id": "01bde605-4014-47e2-bb89-1a2933f76e8b",
+  "from": "4fa3bb7b-afdc-4a53-bd29-14eff8f2a27b",
+  "to": "dffaddda-313f-40ae-84fb-744fc9c3d4d6",
+  "relation": "requires",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "951a63ba-fbb2-4b78-af38-52646f22dbe0",
+        "locator": "section 1",
+        "quote": "The FEP turns this question on its head and asks: “if things exist, what must they do?”"
+      }
+    ]
+  }
+}

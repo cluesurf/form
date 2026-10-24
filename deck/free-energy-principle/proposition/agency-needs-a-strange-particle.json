@@ -1,0 +1,45 @@
+{
+  "record": "proposition",
+  "id": "aa7426c9-71c5-45eb-8fe1-6fae40678187",
+  "kind": "philosophical",
+  "epistemic_status": "hypothesized",
+  "title": "Agency belongs to particles that infer their own actions",
+  "statements": [
+    {
+      "id": "6d682ead-afff-4ab8-984a-76ee391a8e8b",
+      "text": "Of the kinds of particles a particular partition allows, strange particles, which can be described as inferring their own actions, are the ones apt for describing sentient, agent-like behavior.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-23"
+    }
+  ],
+  "current_statement": "6d682ead-afff-4ab8-984a-76ee391a8e8b",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "550e8bd7-62b0-4fdd-964e-95f8e9dcd664",
+        "locator": "abstract (arXiv record)",
+        "quote": "Specifically, we consider the distinction between dissipative and conservative particles, inert and active particles and, finally, ordinary and strange particles."
+      }
+    ]
+  }
+}

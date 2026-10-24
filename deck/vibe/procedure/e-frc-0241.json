@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "002a4825-4c39-474e-b885-977005cc1c4c",
+  "title": "E-FRC-0241: Coulomb's law on the husk, exactly: the husk light's static operator has an isotropic quartic (sum g (k...",
+  "purpose": "Experiment E-FRC-0241 in the gauge arena: Coulomb's law on the husk, exactly: the husk light's static operator has an isotropic quartic (sum g (k . u)^4 = 6 (k^2)^2 exactly), so its Green's function is 1 / (24 pi r) with NO $1 / r^3$ lattice term, the first correction $A / r^5$ with A = -1/(288 pi), 5/(576 pi), -5/(432 pi) on the axis, face and body diagonals in closed form (the simple cubic control carries its known $1 / r^3$); the coefficient is exactly 1 / (24 D) on the trit rule, like charges repel and unlike attract with equal and opposite energies read off the rule's own flux, and Gauss holds on every beat.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L2 (L2: known physics reproduced on a stated model).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/gauge/husk-coulomb-green.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-FRC-0241",
+        "quote": null
+      }
+    ]
+  }
+}

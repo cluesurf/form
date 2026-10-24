@@ -1,0 +1,50 @@
+{
+  "record": "proposition",
+  "id": "3d4f89a7-20fb-43c7-90c3-c64fa041d691",
+  "kind": "mathematical",
+  "epistemic_status": "inferred",
+  "title": "Conserved content moves only through a boundary or an exchange",
+  "statements": [
+    {
+      "id": "56b7dec0-b719-46c6-8ba5-93bc3aeaa74a",
+      "text": "By Stokes' theorem the net current through the boundary of any compact region vanishes, so content can be redistributed inside a region but cannot appear or disappear without a boundary or exchange route. Homologous surfaces carry the same integrated content.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "56b7dec0-b719-46c6-8ba5-93bc3aeaa74a",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "27a9fcd8-78d2-4f0f-9a16-95edf37f72dc",
+        "locator": "Theorem DPL-01.T1, section 3",
+        "quote": "What it cannot do is appear or disappear without a corresponding boundary or exchange route."
+      },
+      {
+        "source": "27a9fcd8-78d2-4f0f-9a16-95edf37f72dc",
+        "locator": "abstract",
+        "quote": "Homologous hypersurfaces therefore carry the same integrated content."
+      }
+    ]
+  }
+}

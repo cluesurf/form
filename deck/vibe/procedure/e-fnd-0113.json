@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "e6fa1733-a4ca-4891-8531-be0a0e0f72bf",
+  "title": "E-FND-0113: the exhaustive single-excitation census of the committed rule is a clean three-band spectrum: ten...",
+  "purpose": "Experiment E-FND-0113 in the foundations arena: the exhaustive single-excitation census of the committed rule is a clean three-band spectrum: ten ballistic matter directions at support one and exactly one D4 step per beat (speed root two, the light cone), ten clock-wire breathers whose whole difference field recurs with exact period six (a massive particle at rest, oscillating at twice the vacuum clock frequency), and the swap couple as the interacting band, two clean directions and two chirally placed radiating ones whose linear wake stays entirely inside the swap couple with zero leakage into any free sector.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L2 (L2: known physics reproduced on a stated model).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/foundations/weave-species-spectrum.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-FND-0113",
+        "quote": null
+      }
+    ]
+  }
+}

@@ -1,0 +1,99 @@
+{
+  "record": "proposition",
+  "id": "78a9d476-89d2-44e7-94fa-8ce891162043",
+  "kind": "empirical",
+  "epistemic_status": "hypothesized",
+  "title": "Mind grows from self-maintenance",
+  "statements": [
+    {
+      "id": "e84d0dad-506c-4b69-ab84-4cff91cee92b",
+      "text": "Mind grows out of a living system's drive to keep itself within viable bounds: homeostasis, allostasis and the reduction of stress are where goals, selves and brains begin.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-23"
+    }
+  ],
+  "current_statement": "e84d0dad-506c-4b69-ab84-4cff91cee92b",
+  "status": "active",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": {
+    "value": "open",
+    "reason": null,
+    "basis": [],
+    "proposal": null
+  },
+  "origin": [
+    {
+      "repository": "predictive-processing",
+      "id": "85798b18-5e70-437f-bd33-d5c5fcfb13e0"
+    },
+    {
+      "repository": "predictive-processing",
+      "id": "aa3d8ebd-d187-4b05-b746-0be0f45ab97c"
+    },
+    {
+      "repository": "basal-cognition",
+      "id": "9d71d7ec-cb23-46f0-b7d0-d47fdc3841c4"
+    },
+    {
+      "repository": "free-energy-principle",
+      "id": "4fa3bb7b-afdc-4a53-bd29-14eff8f2a27b"
+    },
+    {
+      "repository": "analytic-idealism",
+      "id": "bf3e61e0-36da-4450-bc48-e2237407f083"
+    },
+    {
+      "repository": "quantum-observers",
+      "id": "1c9acfdf-6d68-4978-ae24-4764b5552916"
+    }
+  ],
+  "provenance": {
+    "written_by": "github:lancejpollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "4da668be-b7a9-434a-8379-d28e82a9e3fc",
+        "locator": "accepted manuscript p. 6",
+        "quote": "All living organisms attempt to maintain their physiological integrity in the face of danger and opportunity. Arguably, this is the basic evolutionary and functional imperative for having a brain."
+      },
+      {
+        "source": "4da668be-b7a9-434a-8379-d28e82a9e3fc",
+        "locator": "accepted manuscript p. 2, abstract",
+        "quote": "we describe embodied selfhood in terms of 'instrumental interoceptive inference', which emphasises allostatic regulation and physiological integrity"
+      },
+      {
+        "source": "ef42df6c-62b8-4f35-a655-e946132111f8",
+        "locator": "abstract",
+        "quote": "I hypothesize that higher level goal-directed activity and agency, resulting in larger cognitive boundaries, evolve from the primal homeostatic drive of living things to reduce stress"
+      },
+      {
+        "source": "6351bd8a-ade7-4593-9e68-cd8c377db921",
+        "locator": "section 1",
+        "quote": "The FEP turns this question on its head and asks: “if things exist, what must they do?”"
+      },
+      {
+        "source": "837f7d25-4439-4106-a1b4-eb4d29a9819b",
+        "locator": "section 10, p. 145",
+        "quote": "normal metabolism is essential for the maintenance of our dissociated phenomenal fields, for when it slows down or stops the dissociative boundary seems to become phenomenally porous"
+      },
+      {
+        "source": "1d7355fd-09dd-4f09-b56d-fa1379448518",
+        "locator": "abstract",
+        "quote": "the self-representation that lies at the heart of human autonoetic awareness can be traced as far back as, and serves the same basic functions as, the stress response in bacteria"
+      }
+    ]
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "1264ac53-5db7-488f-b334-ccea51d3b8f3",
+  "title": "E-FRC-0254: Coulomb on the spanned light keeps E-FRC-0241's shape and falls by q, so alpha becomes sqrt(3) / (24 q)...",
+  "purpose": "Experiment E-FRC-0254 in the gauge arena: Coulomb on the spanned light keeps E-FRC-0241's shape and falls by q, so alpha becomes sqrt(3) / (24 q), pass: on uniform depths 4, 16, 32 the lattice Coulomb field of a +1, -1 pair is a static solution of the spanned rule (to 6.3e-4, 1.1e-7, 1.5e-9; Gauss exact, no wraps, reversed), the angle a test charge reads grows at E / Q (to 3.2e-5, 2.5e-8, 3.8e-10), 32.9995 and 65.0001 times slower than the unspanned light's (q = 33, 65; the unspanned light hot at D 4), and the invariant the spanned rule keeps weights $E^2$ by 1 / Q (a strung pair held to 1.1e-10 at D 32, the unspanned weight drifting 0.46 to 0.66), so the pair energy is (G(0) - G(r)) / q; with E-FRC-0242's hbar the drift share s falls to 1 / q and alpha = s / (12 N c) = alpha_old / sqrt(q): 1/457 against 1/79.6 at D 16, 1/901 against 1/112 at D 32, a rescaling of a closed form in the depth ($q^{-1/2}$ to $q^{-1}$), not a break.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L2 (L2: known physics reproduced on a stated model).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/gauge/span-coulomb.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-FRC-0254",
+        "quote": null
+      }
+    ]
+  }
+}

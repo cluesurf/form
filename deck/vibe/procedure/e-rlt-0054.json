@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "f9159dd4-fcfc-43c7-9847-ccd20d6d1b39",
+  "title": "E-RLT-0054: the cold quaternion knit keeps CPT, forced isotropy and every exact law and dresses nothing, but has no...",
+  "purpose": "Experiment E-RLT-0054 in the relativity arena: the cold quaternion knit keeps CPT, forced isotropy and every exact law and dresses nothing, but has no hydrodynamics: Q8 is its glide group exactly (rank-2 spread 1.25e-15) on tones, stores and counters, a lone tone stays one slot at sides 7, 9, 11 and for 200 beats on the unbounded lattice, pairs are made only when two like tones each bring two units, and the long-wave anisotropy is noise falling to 0.33 in the bulk and 0.28 on the husk (combined knit 0.80 and 0.69); but the exchange almost never fires (4 dock-beats of 15,000, one free momentum direction seen of four), so an axis shear does not decay at all (nu -0.003 to -0.019, r2 under 0.04), and the vacuum has 12 line components and no walls.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L2 (L2: known physics reproduced on a stated model).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/relativity/cold-quaternion-knit.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-RLT-0054",
+        "quote": null
+      }
+    ]
+  }
+}

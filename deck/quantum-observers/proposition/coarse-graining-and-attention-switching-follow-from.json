@@ -1,0 +1,45 @@
+{
+  "record": "proposition",
+  "id": "b29a5f8c-827d-48d3-a1e3-be0a5ce2bb16",
+  "kind": "empirical",
+  "epistemic_status": "inferred",
+  "title": "Coarse-graining and attention switching follow from thermodynamics",
+  "statements": [
+    {
+      "id": "1ce86f89-079a-44fc-a353-fdb0a9984c49",
+      "text": "Stigmergic memory, perceptual coarse-graining and attention switching follow directly from the thermodynamic requirements of classical computation.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-23"
+    }
+  ],
+  "current_statement": "1ce86f89-079a-44fc-a353-fdb0a9984c49",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "1792e489-be3b-46bb-ba4b-0dcd00a0abc7",
+        "locator": "abstract",
+        "quote": "common phenomena including stigmergic memory, perceptual coarse-graining, and attention switching follow directly from the thermodynamic requirements of classical computation"
+      }
+    ]
+  }
+}

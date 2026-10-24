@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "0a9daa43-8369-4b2a-900a-e55ee5e6be2d",
+  "title": "E-RLT-0070: the candidate knit through E-FRC-0159's battery, partial (the controls had too few meetings to read)...",
+  "purpose": "Experiment E-RLT-0070 in the relativity arena: the candidate knit through E-FRC-0159's battery, partial (the controls had too few meetings to read): against the combined knit H it newly fails 10 gates and newly passes none; 6 quantum gates cannot be evaluated because the hot vacuum holds no meeting (its pairs live inside one collision), the matter pair's CHSH reads 2.361 against the stand-in's 2.000, the hot-vacuum wake dresses a bare lone vibe with 82 store trits (committed 33 in the first period), every lone vibe travels straight at full speed (24 of 24), the rule keeps all 576 orientation-reversing coin maps (no handedness), and the wake splits the three copies on 15 of 16 A2 planes on the hot vacuum and 0 on the cold.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L2 (L2: known physics reproduced on a stated model).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/relativity/candidate-knit-battery.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-RLT-0070",
+        "quote": null
+      }
+    ]
+  }
+}

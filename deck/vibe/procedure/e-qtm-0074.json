@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "90d2df7c-84a1-4f43-a24d-306611b1c5de",
+  "title": "E-QTM-0074: Bloch oscillations from the coined Dirac walk model: a constant force makes the centroid oscillate at...",
+  "purpose": "Experiment E-QTM-0074 in the quantum arena: Bloch oscillations from the coined Dirac walk model: a constant force makes the centroid oscillate at the Bloch frequency omega_B = F (measured ratio within six percent of one across forces 0.05 to 0.3) with amplitude times force a constant band width, while a zero force shows no oscillation.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L2 (L2: known physics reproduced on a stated model).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/quantum/bloch-oscillations.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-QTM-0074",
+        "quote": null
+      }
+    ]
+  }
+}

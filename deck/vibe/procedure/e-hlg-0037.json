@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "b842a62a-c918-41ef-8f4c-bbfb3dbb7939",
+  "title": "E-HLG-0037: the sea's entanglement exactly from its correlation matrix, partial (the product control missed its...",
+  "purpose": "Experiment E-HLG-0037 in the holography arena: the sea's entanglement exactly from its correlation matrix, partial (the product control missed its 1e-10 gate at 3.6e-10, the float floor): the rule's own sea is a product, so S = 0, no area law and G = 1/(4 eta) infinite; the Floquet band sea it does not write has an area law, 0.5744 +- 0.0016 nats a cut link (L 8 and 12 within 0.27%, depth saturated in two docks, husk bars linear in the perimeter), which would give G = 0.435 link areas; gapped chain saturates, gapless chain c = 1.0001.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L2 (L2: known physics reproduced on a stated model).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/holography/sea-entanglement.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-HLG-0037",
+        "quote": null
+      }
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "record": "link",
+  "id": "67dc822c-fdeb-416f-8be6-045fe70aa429",
+  "from": "c15e0750-262e-4b02-8e2d-3d500fdcc531",
+  "to": "35e99e05-7055-48cd-8e06-7c142c911cad",
+  "relation": "requires",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "d9097dc4-d096-4de7-813b-d6c227e00393",
+        "locator": "abstract",
+        "quote": "bioelectric properties can stably override genome-default target morphology"
+      }
+    ]
+  }
+}

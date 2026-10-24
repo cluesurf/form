@@ -1,0 +1,38 @@
+{
+  "record": "link",
+  "id": "5d9ab6f9-7cf1-4da6-937e-361c06766d78",
+  "from": "fd9b59ae-e320-41b2-b926-d26bec1409b5",
+  "to": "f0af02b4-357b-4420-a419-1fe5fb7b82d5",
+  "relation": "requires",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "7d868dbb-9fb1-455b-8d46-8cf0dce8e24e",
+        "locator": "The model, term by term: beat",
+        "quote": "one tick of time. Every dock applies the rule at once"
+      },
+      {
+        "source": "7d868dbb-9fb1-455b-8d46-8cf0dce8e24e",
+        "locator": "The invariants: the arrow of time",
+        "quote": "the same cone both ways, so the arrow is the low-entropy slice plus the coarse map"
+      },
+      {
+        "source": "7d868dbb-9fb1-455b-8d46-8cf0dce8e24e",
+        "locator": "What holds on the current rule: the second law and the arrow",
+        "quote": "coarse entropy rises a thousandfold forward and under the exact inverse alike, fine-grained entropy exactly constant"
+      }
+    ]
+  }
+}

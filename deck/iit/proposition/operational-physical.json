@@ -1,0 +1,45 @@
+{
+  "record": "proposition",
+  "id": "fe908ff5-b089-4454-9110-70c5ce980b1d",
+  "kind": "definitional",
+  "epistemic_status": "designed",
+  "title": "Physical in the operational sense",
+  "statements": [
+    {
+      "id": "e381ae18-4b65-4928-90fd-9d1b5ffd162d",
+      "text": "In IIT, physical means what can be observed and manipulated. A substrate is a set of units that can be observed and manipulated.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-23"
+    }
+  ],
+  "current_statement": "e381ae18-4b65-4928-90fd-9d1b5ffd162d",
+  "status": "active",
+  "voice": "framework",
+  "defines": "physical",
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "8443eb2e-406e-4acc-94e8-33cbabbd3679",
+        "locator": "Introduction (full text)",
+        "quote": "in IIT “physical” is meant in a strictly operational sense—in terms of what can be observed and manipulated."
+      }
+    ]
+  }
+}

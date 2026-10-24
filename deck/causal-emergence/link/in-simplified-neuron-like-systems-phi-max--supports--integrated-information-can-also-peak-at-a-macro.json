@@ -1,0 +1,28 @@
+{
+  "record": "link",
+  "id": "310d230f-c183-4837-aba1-1f6ba4858ffe",
+  "from": "b6c56514-7967-43a3-930a-ca142e292eee",
+  "to": "b9aee761-8092-4584-86b6-075e6ec79a11",
+  "relation": "supports",
+  "strength": 0.8,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "43accee2-70fd-4090-88e9-d71562ee222f",
+        "locator": "abstract",
+        "quote": "Here, we evaluate ΦMax systematically at micro and macro levels in space and time using simplified neuronal-like systems."
+      }
+    ]
+  }
+}

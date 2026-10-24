@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "d7f78d07-8908-4258-b7c6-5e4510f9e313",
+  "title": "E-FRC-0094: the D4 coin holds 32 zero-sum triangles (16 A2 subsystems, the room for color) but no beat of the...",
+  "purpose": "Experiment E-FRC-0094 in the gauge arena: the D4 coin holds 32 zero-sum triangles (16 A2 subsystems, the room for color) but no beat of the committed rule lets any of them interact inside one collision block, the blocks being at most two lines, so the rule has no single-collision three-body vertex of the epsilon kind.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L2 (L2: known physics reproduced on a stated model).",
+  "status": "completed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/gauge/rule-no-triplet-vertex.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "research/result.ts R-FRC-0003",
+        "quote": null
+      }
+    ]
+  }
+}

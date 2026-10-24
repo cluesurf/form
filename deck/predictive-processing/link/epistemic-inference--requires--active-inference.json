@@ -1,0 +1,28 @@
+{
+  "record": "link",
+  "id": "00bcad99-e850-4220-8942-5253f2cba599",
+  "from": "c1428d6e-5f9f-4693-bcf6-d773aaba03a9",
+  "to": "d12e5c4f-79e1-492a-89be-75b2161405d7",
+  "relation": "requires",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "bfa85443-4b77-43f1-b5f2-ec1850a4bc3c",
+        "locator": "accepted manuscript p. 9",
+        "quote": "Epistemic inference prescribes 'information-gathering' actions that enhance the predictive capabilities of a model"
+      }
+    ]
+  }
+}

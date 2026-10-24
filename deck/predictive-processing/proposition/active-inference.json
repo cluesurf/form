@@ -1,0 +1,45 @@
+{
+  "record": "proposition",
+  "id": "d12e5c4f-79e1-492a-89be-75b2161405d7",
+  "kind": "definitional",
+  "epistemic_status": "designed",
+  "title": "Active inference",
+  "statements": [
+    {
+      "id": "35042bf4-4125-427c-aeac-b2c2a9a048bd",
+      "text": "Active inference is the minimization of prediction error by acting to bring sensory states in line with predictions, changing the world to fit the model rather than the model to fit the world.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-23"
+    }
+  ],
+  "current_statement": "35042bf4-4125-427c-aeac-b2c2a9a048bd",
+  "status": "active",
+  "voice": "framework",
+  "defines": "active inference",
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "8ed62dfe-4468-4f53-9b70-f009ba2dbe4f",
+        "locator": "p. 566",
+        "quote": "or by performing actions to bring about sensory states in line with predictions (active inference; changing the world to fit the model)"
+      }
+    ]
+  }
+}

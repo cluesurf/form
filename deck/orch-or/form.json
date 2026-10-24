@@ -1,0 +1,75 @@
+{
+  "format": "form.surf/1",
+  "id": "c2f0d83d-e721-41eb-b7a7-81524ce3ae55",
+  "name": "orch-or",
+  "title": "Orchestrated objective reduction (Orch OR)",
+  "role": "model",
+  "summary": "Penrose and Hameroff: human understanding is non-computable (the Gödelian argument, philosophical), so it must come from new physics, a gravity-related objective reduction of the quantum state (Diósi-Penrose). Orchestrated reductions of coherent states in neuronal microtubules (empirical) are moments of conscious experience.",
+  "framework": {
+    "originators": [
+      "Roger Penrose",
+      "Stuart Hameroff"
+    ],
+    "aliases": [
+      "Orch OR",
+      "orchestrated objective reduction",
+      "Penrose-Hameroff theory",
+      "Diósi-Penrose objective reduction"
+    ],
+    "homepage": "https://hameroff.arizona.edu"
+  },
+  "community_written": true,
+  "curators": [
+    {
+      "name": "Lance Pollard",
+      "github": "lancejpollard"
+    }
+  ],
+  "license": "CC-BY-4.0",
+  "atlas": {
+    "scope": [
+      "f992f9e0-4750-4368-93d8-934fbf1a78f2",
+      "9abc97e6-7a2f-4c55-9d2d-199f914c8d45",
+      "9a3b1f40-da9e-4053-8439-72331c05d855",
+      "da87023c-1ec0-4e97-bf1d-240555d98823",
+      "014754d3-ddd6-483c-a8e4-db6d3346b26e",
+      "9ff2ed23-d569-4a6c-a695-4dcfb642adaf"
+    ],
+    "limits": [
+      "24afe82f-37b4-49da-9eda-d1bddad394ea",
+      "fc7311b8-335b-4f66-8b50-2938a50cc94a",
+      "a9f46312-864c-4321-b37c-d15750c1abd7",
+      "6c6e8e0e-5f1f-4608-977f-7dd467beb6a8"
+    ],
+    "flaws": [
+      "ae11fdf9-7319-4218-aef1-ba8f8ce65088",
+      "d8f1a556-b258-4b77-bba8-0343be85bb10",
+      "5bb5cc3b-42a5-4781-860a-bef3b103baab",
+      "7f8bf988-3713-4e96-9aa2-376dbed8f107",
+      "20eb9be7-ac2e-4c99-9815-6a127d0d3c14"
+    ],
+    "dead_ends": [
+      "62c598f3-5f1f-4274-8afc-c6f4fe199b09",
+      "79f1ab9d-70f5-4428-872a-7c776b15c01a",
+      "f885565d-ac69-4924-8679-3a1c31ff880f"
+    ]
+  },
+  "draws_from": [],
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "c0602528-f093-4705-abc3-e13d7657a680",
+        "locator": "abstract",
+        "quote": null
+      }
+    ]
+  }
+}

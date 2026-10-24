@@ -1,0 +1,28 @@
+{
+  "record": "link",
+  "id": "b6f5ed98-e942-4428-8afa-67a7704ec28e",
+  "from": "47640b03-c621-46bf-a99f-c9eba092c00e",
+  "to": "be66d721-0340-41bc-9161-efc2d585e132",
+  "relation": "requires",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "8443eb2e-406e-4acc-94e8-33cbabbd3679",
+        "locator": "section \"Postulates of physical existence\" (full text)",
+        "quote": "Its cause–effect power must be definite: it must specify its cause–effect state as this whole"
+      }
+    ]
+  }
+}

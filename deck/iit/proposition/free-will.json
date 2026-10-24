@@ -1,0 +1,50 @@
+{
+  "record": "proposition",
+  "id": "2e144732-b07f-460b-bb51-e13cb7297aa2",
+  "kind": "philosophical",
+  "epistemic_status": "inferred",
+  "title": "We, not our neurons, cause our willed actions",
+  "statements": [
+    {
+      "id": "34383358-1bb2-4ad1-a4f5-3b2ab7b8d4d3",
+      "text": "Because only what exists intrinsically can truly cause, a conscious complex, not its neurons or atoms, is the cause of its willed actions. If IIT is right, we have free will in a genuine sense.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-23"
+    }
+  ],
+  "current_statement": "34383358-1bb2-4ad1-a4f5-3b2ab7b8d4d3",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "e0b1d15e-30e2-4c9e-8b01-e4778918d044",
+        "locator": "abstract (arXiv record)",
+        "quote": "what exists absolutely, in physical terms, are intrinsic entities, and only what exists can cause."
+      },
+      {
+        "source": "8443eb2e-406e-4acc-94e8-33cbabbd3679",
+        "locator": "Discussion (full text)",
+        "quote": "Because only what truly exists (intrinsically, for itself) can truly cause, we, rather than our neurons, cause our willed actions and are responsible for their consequences [18]."
+      }
+    ]
+  }
+}

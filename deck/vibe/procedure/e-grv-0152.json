@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "bf2ea24a-e18b-411c-9a29-3ae293c5845b",
+  "title": "E-GRV-0152: composite sources are not band-mixed, partial (the meson's counts moved 0.08 between filters against...",
+  "purpose": "Experiment E-GRV-0152 in the gravity arena: composite sources are not band-mixed, partial (the meson's counts moved 0.08 between filters against 0.02, its level unconverged on radius 7), the route's kill firing on both: read with exact projectors at each beat's stage, the register meson carries S and D counts 1.91 and 0.06 and the light register pair 1.98 and 0.027, so both are band-A pairs, and on E-GRV-0147's slab a hole of the other band is pulled toward them at 0.075 and 0.050 of the like band (a bare band-A hole 0.057), where a (1, 1) source pulls both bands equally; the two gravity fields do not average on the composites the rule holds.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L2 (L2: known physics reproduced on a stated model).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/gravity/band-mixed-source.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-GRV-0152",
+        "quote": null
+      }
+    ]
+  }
+}

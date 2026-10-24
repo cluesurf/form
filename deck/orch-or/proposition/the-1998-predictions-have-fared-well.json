@@ -1,0 +1,45 @@
+{
+  "record": "proposition",
+  "id": "906e3a9c-5ac0-4f95-9ca3-35cb6f796f5b",
+  "kind": "empirical",
+  "epistemic_status": "inferred",
+  "title": "The 1998 predictions have fared well",
+  "statements": [
+    {
+      "id": "27421354-4342-4a71-a810-f729c5dc5019",
+      "text": "Of the twenty predictions published in 1998, the authors judge that the expectations of Orch OR have fared rather well, and that its scheme has a good chance of being basically correct.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-23"
+    }
+  ],
+  "current_statement": "27421354-4342-4a71-a810-f729c5dc5019",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "c0602528-f093-4705-abc3-e13d7657a680",
+        "locator": "section 5.7",
+        "quote": "It would appear that the expectations of Orch OR have fared rather well so far"
+      }
+    ]
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "0ca83721-294b-4090-ade1-8e0c77c8fd2a",
+  "title": "E-FND-0125: the projective wall converts phase into number for dressed packets, the interferometer half of the Born...",
+  "purpose": "Experiment E-FND-0125 in the foundations arena: the projective wall converts phase into number for dressed packets, the interferometer half of the Born mechanism: seeded adjacent to the offset-two slab, the heavy species transmits one excitation when prepared as the particle and three to four when prepared as the antiparticle at every readout beat, with the no-slab null exactly zero and the split identical at two seed positions, the middleweight species shows the same ordering with its imperfect natural-drift null reported, and the charge asymmetry of the port is the interacting sector C violation expressed as number splitting, so what remains of the Born derivation is the quantitative form of the conversion rather than its existence.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L2 (L2: known physics reproduced on a stated model).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/foundations/port-conversion.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-FND-0125",
+        "quote": null
+      }
+    ]
+  }
+}

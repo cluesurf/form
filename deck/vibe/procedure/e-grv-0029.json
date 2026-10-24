@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "a69915f6-8201-4990-bce3-4783e81950ea",
+  "title": "E-GRV-0029: 3D static potential is Newtonian (1/r is the best fit)",
+  "purpose": "Experiment E-GRV-0029 in the gravity arena: 3D static potential is Newtonian (1/r is the best fit).",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L1 (L1: known mathematics, correctly confirmed).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/gravity/newtonian.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-GRV-0029",
+        "quote": null
+      }
+    ]
+  }
+}

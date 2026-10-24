@@ -1,0 +1,28 @@
+{
+  "record": "link",
+  "id": "f5a7d9db-c0bf-4ccb-bbe6-96cc0e82aac5",
+  "from": "86473a81-0022-4f32-ba9e-d233247373da",
+  "to": "224433cd-8238-413f-8ece-673f8b5669b4",
+  "relation": "supports",
+  "strength": 0.4,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "1a235d11-40a1-4047-a972-4206bd4007b2",
+        "locator": "abstract",
+        "quote": "Measured cellular energy budgets of both prokaryotes and eukaryotes, however, fall orders of magnitude short of the power required to maintain classical states of protein conformation"
+      }
+    ]
+  }
+}

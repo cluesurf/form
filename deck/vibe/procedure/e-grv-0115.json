@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "1f1cb078-58d5-4214-b6c5-405fff7808f8",
+  "title": "E-GRV-0115: a tear that hands each torn link's flux to the horizon unchanged is continuous, and a reversible wave...",
+  "purpose": "Experiment E-GRV-0115 in the gravity arena: a tear that hands each torn link's flux to the horizon unchanged is continuous, and a reversible wave keeps the horizon's source exact, but the live rim slips, fail on G1, G2, G3 and G5 (partial: the held rule's two orders agree, so the no-hair gate could not refuse): E-GRV-0112's M = 1600 lump with only inner links torn, their flux moved into per-dock shares and traded by a leapfrog (lambda 4, mu a / Q) reverses bit for bit, Gauss and the shares' sum 0 off on every beat, no share or flow register wrapping, and its placed lump joins the 779 docks of the other rules; but from unit 754 the boundary links between horizon and outside carry the rim's shares at the trit window's edge and slip 10,321 times (outside-in 12,486), so curl breaks, energy drifts 7e-3, the horizon grows to 1,145 docks, the settled force is 7.6 percent off the placed lump's (held 32, count 283), and the wave's energy rises through the settle instead of dephasing.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L2 (L2: known physics reproduced on a stated model).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/gravity/wave-horizon-growth.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-GRV-0115",
+        "quote": null
+      }
+    ]
+  }
+}

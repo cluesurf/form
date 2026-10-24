@@ -1,0 +1,28 @@
+{
+  "record": "link",
+  "id": "120f5f61-59ca-40ff-bb51-7264edc85d12",
+  "from": "51f60b73-3e96-458f-8461-c020adfdc886",
+  "to": "d49ec1a8-76ce-444f-bd8d-79e126252d32",
+  "relation": "weakens",
+  "strength": null,
+  "rationale": "Unification gives no new evidence where the predictions are the same as those of older theories.",
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "bc61a709-0bb0-4198-8fb1-8f94617b11f1",
+        "locator": "abstract (arXiv record)",
+        "quote": "It is closely related, and in some cases subsumes, earlier unifying ideas such as Bayesian inference, predictive coding, and active learning."
+      }
+    ]
+  }
+}

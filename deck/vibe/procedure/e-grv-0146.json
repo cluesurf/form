@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "f5433c98-bc93-4728-ac5d-6f75e84d8534",
+  "title": "E-GRV-0146: gravity's count field under the many-body register rule, pass: the source is one hole's SECTOR count...",
+  "purpose": "Experiment E-GRV-0146 in the gravity arena: gravity's count field under the many-body register rule, pass: the source is one hole's SECTOR count counted from the sea (a flat hole's is below 1.6e-31, so the 176 flats neither source nor feel gravity, and $N_F$ stays within 1.9e-14 of its start for 64 cycles under the gravity piece while the dock count releases 0.12 to 0.22), the depth acts back as E-SPN-0175's sector string with the husk depth's own kernel in place of min(V, cap), its sign fixed by the clock (the rest gap is pi - |theta|, slope +1), and two holes pull together (window mean separation 1.491, 1.459, 1.657 against free 1.503, 1.477, 1.719 on L 4, 4, 6) while the same piece read as members pushes them apart (1.511, 1.491, 1.772): the sector phase is odd under particle-hole, so gravity is universal only because the full sea's excitations are all holes; one hole's beat-averaged charge is 0.524 and its far depth is the point field times that charge (0.99969 on r 5..7); ordered, the piece has no one-body part, so the hole stays light, while raw counts put a Hartree angle of 318 to 94,149 on it and its rest gap swings 1.21 to 2.87 with the box.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L2 (L2: known physics reproduced on a stated model).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/gravity/register-count-field.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-GRV-0146",
+        "quote": null
+      }
+    ]
+  }
+}

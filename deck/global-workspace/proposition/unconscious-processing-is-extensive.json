@@ -1,0 +1,45 @@
+{
+  "record": "proposition",
+  "id": "531299ba-d038-40da-833a-b9daf54d142a",
+  "kind": "empirical",
+  "epistemic_status": "inferred",
+  "title": "Much processing occurs without consciousness",
+  "statements": [
+    {
+      "id": "a0f813dc-0c74-4a46-bca7-509efe84c643",
+      "text": "A considerable amount of processing, including perceptual and semantic processing of masked or neglected stimuli, is possible without consciousness.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-23"
+    }
+  ],
+  "current_statement": "a0f813dc-0c74-4a46-bca7-509efe84c643",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "9b21a09b-835f-4256-afbf-19425df2597e",
+        "locator": "abstract",
+        "quote": "a considerable amount of processing is possible without consciousness"
+      }
+    ]
+  }
+}

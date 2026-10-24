@@ -1,0 +1,45 @@
+{
+  "record": "proposition",
+  "id": "32a89446-1c8e-4eb4-84c1-8580efffc7b7",
+  "kind": "philosophical",
+  "epistemic_status": "inferred",
+  "title": "Answer: what is measurement or observation",
+  "statements": [
+    {
+      "id": "336f32bd-418d-4d91-bcdc-8d5bb7ffdee9",
+      "text": "Observation is the sensory half of the Markov blanket. Internal states never touch external states directly: they are influenced only through sensory states, and perceiving is inferring the hidden external states behind them.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-23"
+    }
+  ],
+  "current_statement": "336f32bd-418d-4d91-bcdc-8d5bb7ffdee9",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "550e8bd7-62b0-4fdd-964e-95f8e9dcd664",
+        "locator": "abstract (arXiv record)",
+        "quote": "The variational principle at hand allows one to interpret internal dynamics - of certain kinds of particles - as inferring external states that are hidden behind blanket states."
+      }
+    ]
+  }
+}

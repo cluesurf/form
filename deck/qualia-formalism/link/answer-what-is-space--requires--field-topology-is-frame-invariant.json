@@ -1,0 +1,28 @@
+{
+  "record": "link",
+  "id": "c41133a7-5ca8-41ba-a55e-58be7a296028",
+  "from": "e10f52a9-523e-4b0d-aa4c-9a6e26bc6ea1",
+  "to": "5680717a-66e7-4d47-9197-53d63f145c14",
+  "relation": "requires",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "5aaa6bc4-6581-4a09-8249-33c9872090bd",
+        "locator": "main text",
+        "quote": "The topology of the field is absolute, not relativistic."
+      }
+    ]
+  }
+}

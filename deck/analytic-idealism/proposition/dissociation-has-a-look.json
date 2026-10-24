@@ -1,0 +1,45 @@
+{
+  "record": "proposition",
+  "id": "e931eed1-4c79-4f55-97e6-0da38cbc8371",
+  "kind": "empirical",
+  "epistemic_status": "inferred",
+  "title": "Dissociation has an identifiable extrinsic appearance",
+  "statements": [
+    {
+      "id": "b77ffc82-8279-4db2-b15a-1fc70b60bb64",
+      "text": "Dissociation has an identifiable look from outside: brain scans of DID patients differ from those of actors simulating DID, as metabolizing bodies are to cosmic dissociation.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-23"
+    }
+  ],
+  "current_statement": "b77ffc82-8279-4db2-b15a-1fc70b60bb64",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "9c8de529-0562-4ede-9748-a99db6ec0056",
+        "locator": "section 12, p. 150",
+        "quote": "showing that dissociation has an identifiable extrinsic appearance"
+      }
+    ]
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "ccb28aaf-bdae-40e5-83dd-b8d28b4f2e2c",
+  "title": "E-SLF-0167: built and selected structures have a low assembly index while random noise has a high one, Assembly...",
+  "purpose": "Experiment E-SLF-0167 in the selves arena: built and selected structures have a low assembly index while random noise has a high one, Assembly Theory order parameter on the substrate.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L2 (L2: known physics reproduced on a stated model).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/selves/assembly-index-threshold.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-SLF-0167",
+        "quote": null
+      }
+    ]
+  }
+}

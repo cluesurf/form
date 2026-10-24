@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "e7a7c306-d26b-42d9-8f0f-437f0893b65a",
+  "title": "E-RLT-0103: the coset-union vacuum on the no-veto two-point store, fail on the C walls alone, under both the bounce...",
+  "purpose": "Experiment E-RLT-0103 in the relativity arena: the coset-union vacuum on the no-veto two-point store, fail on the C walls alone, under both the bounce and the pass contacts: one occupation history on every path and start, laws, reversal, C and one causal component (51 of 51), pairs made = unmade = 466,944 with 0 free vibes, and a lone wake of 13 to 15 trits a period on its line (51 of 51, the reader calibrated at 16 on the old knit and 41,766 on the occupation veto); the like knot is sqrt 7 and the rule exact (17 of 17); but a C wall does not freeze (0 of 51, 1,152 of 1,728 husk columns outside): a love and a fear meeting across the interface are stored as one pair, and the departure covers the whole box by beat 12; positions carry no amplitude (1 occupation, 17 of 17), and under the pass the keep term reads the dephased 1/64 on 15 of 17 starts.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L2 (L2: known physics reproduced on a stated model).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/relativity/no-veto-store-vacuum.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-RLT-0103",
+        "quote": null
+      }
+    ]
+  }
+}

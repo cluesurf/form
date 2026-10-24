@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "c6a00b31-36d3-44f9-8e25-d9a44698d7db",
+  "title": "E-QTM-0078: cyclotron confinement from a 2D coined walk in a synthetic magnetic field: the field traps a momentum...",
+  "purpose": "Experiment E-QTM-0078 in the quantum arena: cyclotron confinement from a 2D coined walk in a synthetic magnetic field: the field traps a momentum packet in a bounded orbit (transverse span time-independent to within five percent) whose radius scales as 1 / B (amplitude times field constant to within twelve percent across fields 0.10 to 0.20, amplitude halving as the field doubles), while a zero field flies straight (ballistic, unbounded).",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L2 (L2: known physics reproduced on a stated model).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/quantum/cyclotron-orbits.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-QTM-0078",
+        "quote": null
+      }
+    ]
+  }
+}

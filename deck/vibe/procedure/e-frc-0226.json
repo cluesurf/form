@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "3ba5af51-e832-4442-b419-c95ea053d5ed",
+  "title": "E-FRC-0226: what a quantum light costs: a per-history light needs the flow's conjugate angle on every link, written...",
+  "purpose": "Experiment E-FRC-0226 in the gauge arena: what a quantum light costs: a per-history light needs the flow's conjugate angle on every link, written by no flow update (independent storage), and a Gauss-safe meeting with fresh light registers is a unital channel on the vibe, so it can never make a vibe decay.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L2 (L2: known physics reproduced on a stated model).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/gauge/quantum-light-cost.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-FRC-0226",
+        "quote": null
+      }
+    ]
+  }
+}

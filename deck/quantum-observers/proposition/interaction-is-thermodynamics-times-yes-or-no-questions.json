@@ -1,0 +1,45 @@
+{
+  "record": "proposition",
+  "id": "d0283f66-c170-4d19-94e5-57ef892211b4",
+  "kind": "mathematical",
+  "epistemic_status": "inferred",
+  "title": "Interaction is thermodynamics times yes-or-no questions",
+  "statements": [
+    {
+      "id": "160ebd3f-37ba-458e-b336-ba4d336d168a",
+      "text": "Between separable systems, the interaction Hamiltonian is a sum of binary-valued operators scaled by a thermodynamic factor that pays the Landauer cost per bit, so physical interaction is thermodynamics times yes-or-no questions.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-23"
+    }
+  ],
+  "current_statement": "160ebd3f-37ba-458e-b336-ba4d336d168a",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "4489b7d7-7273-4b67-a1c2-b53ddab0eeb5",
+        "locator": "section 2.3",
+        "quote": "Physical Interaction = (Thermodynamics) · (Yes/No questions)."
+      }
+    ]
+  }
+}

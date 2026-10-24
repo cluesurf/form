@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "171009af-5a33-4d8a-85da-710f4c1fdac5",
+  "title": "E-FRC-0169: light on the husk: the bulk U(1) leapfrog projected onto the cubic horosphere of the {3,4,3,4} cusp...",
+  "purpose": "Experiment E-FRC-0169 in the gauge arena: light on the husk: the bulk U(1) leapfrog projected onto the cubic horosphere of the {3,4,3,4} cusp carries 2 massless polarizations with the longitudinal one pinned by Gauss's law, at the speed of the plaquette-renormalized coupling, isotropic where the plain cubic lattice is not, and a love and a fear whose projected flux relaxes to the husk's Coulomb field, falling as 1 / r where the bulk's falls faster.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L2 (L2: known physics reproduced on a stated model).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/gauge/husk-light.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-FRC-0169",
+        "quote": null
+      }
+    ]
+  }
+}

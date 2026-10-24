@@ -1,0 +1,50 @@
+{
+  "record": "proposition",
+  "id": "af3ed9d1-0a74-4fde-9d0e-a8fb60c7aaf2",
+  "kind": "empirical",
+  "epistemic_status": "inferred",
+  "title": "Critique: heartbeat-based evidence for interoceptive selfhood is weak",
+  "statements": [
+    {
+      "id": "d347d5ae-b4db-4ea1-8e03-3f3d57aa6d0a",
+      "text": "Evidence tying interoceptive sensitivity to body ownership rests on heartbeat tasks of doubtful validity, and a later study found no link between cardiac accuracy and the rubber hand illusion.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-23"
+    }
+  ],
+  "current_statement": "d347d5ae-b4db-4ea1-8e03-3f3d57aa6d0a",
+  "status": "active",
+  "voice": "critique",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "7419b409-0892-4ae6-ac52-223508fc99bc",
+        "locator": "abstract",
+        "quote": "Cardioceptive accuracy, however, was not associated with the strength of the illusion."
+      },
+      {
+        "source": "a4950aff-2b93-4012-8a4d-5c39560e0787",
+        "locator": "abstract",
+        "quote": "We encourage researchers using this score for studying cognitive and emotional processes to reconsider its meaning."
+      }
+    ]
+  }
+}

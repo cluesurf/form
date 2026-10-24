@@ -1,0 +1,28 @@
+{
+  "record": "link",
+  "id": "ead39930-904f-46c2-b908-cb260dfc2b8f",
+  "from": "d1eaabd6-721f-482e-84dc-d0bd2e6161e7",
+  "to": "5bc31f2e-ed95-4825-a1a6-85824a0a3af8",
+  "relation": "requires",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "951a63ba-fbb2-4b78-af38-52646f22dbe0",
+        "locator": "section 5.1",
+        "quote": "This licences a somewhat poetic description of self-organisation as self-evidencing"
+      }
+    ]
+  }
+}

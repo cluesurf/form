@@ -1,0 +1,28 @@
+{
+  "record": "link",
+  "id": "b4294a30-3cc9-4ea3-b203-c75f8247ba33",
+  "from": "5dc13910-212a-414a-a1aa-7e85a0071e23",
+  "to": "5c32f7b6-9915-46a5-8c78-379485bb203d",
+  "relation": "supports",
+  "strength": 0.4,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b84809ac-0650-4173-b863-4ba1c946fcca",
+        "locator": "abstract",
+        "quote": "We found information about conscious content in visual, ventrotemporal and inferior frontal cortex, with sustained responses in occipital and lateral temporal cortex reflecting stimulus duration, and content-specific synchronization between frontal and early visual areas."
+      }
+    ]
+  }
+}

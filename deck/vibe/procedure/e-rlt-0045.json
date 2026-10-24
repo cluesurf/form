@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "9d3205a8-948d-47be-9f0c-f47c8ffa0ec0",
+  "title": "E-RLT-0045: rotation symmetry does not come back at coarse scale under the committed rule: the rule keeps no...",
+  "purpose": "Experiment E-RLT-0045 in the relativity arena: rotation symmetry does not come back at coarse scale under the committed rule: the rule keeps no rotation, so rank 2 is the lowest unforced rank (the torus group forces it, W(F4) forces rank 4 too, the rule's own {I, -I} forces nothing), and the rank-2 response of long charge waves stays anisotropic from side 9 to 17 (kernel 1.60, 1.34, 1.31, axis-shell spread 0.31, 0.33, 0.34), keeping over 0.8 of itself where a lattice correction would keep 0.53 or 0.28, against a streaming floor of a few hundredths.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L2 (L2: known physics reproduced on a stated model).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/relativity/coarse-isotropy-of-the-rule.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-RLT-0045",
+        "quote": null
+      }
+    ]
+  }
+}

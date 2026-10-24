@@ -1,0 +1,50 @@
+{
+  "record": "proposition",
+  "id": "701c617a-622b-4d2f-8068-f60c9937cc6a",
+  "kind": "philosophical",
+  "epistemic_status": "hypothesized",
+  "title": "A2: each slot holds a vibe, fear, calm or love (-1, 0, +1), and a role point: a role (take, hold, free) and a tilt...",
+  "statements": [
+    {
+      "id": "4474a800-d133-489f-8220-996da8dc596f",
+      "text": "Each slot holds a vibe, fear, calm or love (-1, 0, +1), and a role point: a role (take, hold, free) and a tilt, one point of the 3 x 3 grid. Each link holds one of the 216 grid moves and a flow, the net vibe that has crossed it, whose value mod 3 is the center that makes the pair a Sigma(648) element. Adopted on 2026-09-25 as the three-trit model. The adopted knit carries the role points with the held color exact while it makes pairs (E-RLT-0067). The turning weave in code/rule/collision.ts, the knit before this model, moves the vibe alone.",
+      "language": "en",
+      "scope": "a committed choice of the vibe program",
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-22"
+    }
+  ],
+  "current_statement": "4474a800-d133-489f-8220-996da8dc596f",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": {
+    "value": "open",
+    "reason": "holds in the vibe claim graph",
+    "basis": [],
+    "proposal": null
+  },
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "research/node.ts A2",
+        "quote": null
+      }
+    ]
+  }
+}

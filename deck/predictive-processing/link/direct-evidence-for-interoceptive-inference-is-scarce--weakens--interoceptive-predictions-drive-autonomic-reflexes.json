@@ -1,0 +1,28 @@
+{
+  "record": "link",
+  "id": "4eb59908-0148-4651-a672-6cdbdc995b27",
+  "from": "da2d8f84-b2a3-47fb-a59c-a8a819af6817",
+  "to": "d8e4d0e5-03b3-4601-acc1-52cae18cde0b",
+  "relation": "weakens",
+  "strength": null,
+  "rationale": "The framework itself states that interoceptive prediction errors have not been measured directly, so the mechanism is supported only indirectly.",
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "bfa85443-4b77-43f1-b5f2-ec1850a4bc3c",
+        "locator": "accepted manuscript p. 15",
+        "quote": "direct empirical evidence for interoceptive inference (e.g., interoceptive prediction errors) remains scarce"
+      }
+    ]
+  }
+}

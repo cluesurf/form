@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "ff43c8e0-102e-4ba5-9924-2fc116715b58",
+  "title": "E-FND-0087: no interaction of the fixed-mesh charge rule shifts the clock: the one interacting configuration (the...",
+  "purpose": "Experiment E-FND-0087 in the foundations arena: no interaction of the fixed-mesh charge rule shifts the clock: the one interacting configuration (the same-cell head-on breather, whose amplitude departs from the union by exactly 3) is bound and clock-locked with phases 0 and 180, every separated pair is an exact union at every beat, a -1 tone carries the complex-conjugate phase sequence of a +1 (charge conjugation conjugates the amplitude), and the detector control (a defect seeded one beat late by hand) shows a phase shift would have been seen.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L2 (L2: known physics reproduced on a stated model).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/foundations/interactions-preserve-the-clock.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-FND-0087",
+        "quote": null
+      }
+    ]
+  }
+}

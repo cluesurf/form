@@ -1,0 +1,45 @@
+{
+  "record": "proposition",
+  "id": "ccc3e37f-31fa-4f48-9973-b2d027b23c6f",
+  "kind": "definitional",
+  "epistemic_status": "designed",
+  "title": "Emergent complexity",
+  "statements": [
+    {
+      "id": "f05fc694-15ef-4d3a-819b-b1e43f0b4295",
+      "text": "Emergent complexity is how widely a system’s causal contributions are spread across its hierarchy of scales: a system with many contributing scales is more complex than one where a single scale dominates.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-23"
+    }
+  ],
+  "current_statement": "f05fc694-15ef-4d3a-819b-b1e43f0b4295",
+  "status": "active",
+  "voice": "framework",
+  "defines": "emergent complexity",
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "c40bbd28-a2c5-4730-84c0-90f7ae0644de",
+        "locator": "section 1",
+        "quote": "the emergent complexity: how widely distributed a system’s causal workings are across its scales, wherein systems that possess many contributing scales are more complex"
+      }
+    ]
+  }
+}

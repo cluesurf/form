@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "8dd79f86-8613-48bf-9f88-03cce1e8f9ca",
+  "title": "E-FRC-0246: composite light on the doublet-locked walk, a STAND-IN on one husk line: the love-fear pair's only...",
+  "purpose": "Experiment E-FRC-0246 in the gauge arena: composite light on the doublet-locked walk, a STAND-IN on one husk line: the love-fear pair's only massless feature is the edge of a continuum (slope exactly the token's top group velocity 1/2, edge 2 arcsin(sin(K/2)/2)), and any binding that depends on separation, the drift phase included, turns the exact comoving rest state into a MASSIVE branch (zero slope at K = 0, a quadratic band), so a bound composite photon cannot be massless.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L2 (L2: known physics reproduced on a stated model).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/gauge/composite-locked-light.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-FRC-0246",
+        "quote": null
+      }
+    ]
+  }
+}

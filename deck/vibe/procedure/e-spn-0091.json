@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "0dfbdb37-f741-4aca-85d9-17b3a065bff7",
+  "title": "E-SPN-0091: the covariant coin in the doublet-locked knit: a lone vibe gains the stand-in's mass (rest gap 2 pi/3...",
+  "purpose": "Experiment E-SPN-0091 in the spin arena: the covariant coin in the doublet-locked knit: a lone vibe gains the stand-in's mass (rest gap 2 pi/3, top speed 1/2) at the price of the lattice momentum, and the coin makes the fermion sign physical; on the husk-line charge-one sectors (three loves on one bulk line, two plus one, one per parallel line) whether the drift phase binds the natural spin one half that travels, and whether g can be read.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L2 (L2: known physics reproduced on a stated model).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/spin/coined-knit-electron.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-SPN-0091",
+        "quote": null
+      }
+    ]
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "e1870912-1d72-4f53-aa08-0824cdbb9d62",
+  "title": "E-MTR-0001: stand-in hydrogen on the husk: a fear-walk stand-in charge in the husk lattice Coulomb field, its levels...",
+  "purpose": "Experiment E-MTR-0001 in the quantum arena: stand-in hydrogen on the husk: a fear-walk stand-in charge in the husk lattice Coulomb field, its levels against -Ry / $n^2$ with Ry, the Bohr radius and the first lattice shift predicted from the fear walk mass sqrt 3 before solving.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L2 (L2: known physics reproduced on a stated model).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/matter/stand-in-hydrogen-spectrum.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-MTR-0001",
+        "quote": null
+      }
+    ]
+  }
+}

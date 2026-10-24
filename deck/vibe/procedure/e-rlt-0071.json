@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "cbe28db9-99c1-403a-8161-da7cd88ce6fd",
+  "title": "E-RLT-0071: the candidate knit keeps the isotropic husk law with its store places, partial (the charge fit straddles...",
+  "purpose": "Experiment E-RLT-0071 in the relativity arena: the candidate knit keeps the isotropic husk law with its store places, partial (the charge fit straddles the rounding floor): the 648 one-body indices split into a 72-index singlet that carries every husk scalar for any link field, whose exact linearization (unmake allowed where two uniform points agree, 1/9) matches the full collision with tokens and places to 0.009, commutes with all 1,152 coin maps and keeps exactly charge, energy and momentum; husk trace 3.96, sound 4.00, shear 1.96, charge $k^4$ to three digits over the resolved rungs (five-rung fit 3.29 +- 0.37); the veto lowers the charge diffusion from 0.602 to 0.468, the shear rate from 1.249 to 0.931 and the sound from 0.408 to 0.342.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L2 (L2: known physics reproduced on a stated model).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/relativity/token-store-transport.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-RLT-0071",
+        "quote": null
+      }
+    ]
+  }
+}

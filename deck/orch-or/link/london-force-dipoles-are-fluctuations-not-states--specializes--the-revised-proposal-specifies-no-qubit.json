@@ -1,0 +1,28 @@
+{
+  "record": "link",
+  "id": "3b573a0c-7ddb-454c-a7e3-5482f22b2cf1",
+  "from": "5bb5cc3b-42a5-4781-860a-bef3b103baab",
+  "to": "d8f1a556-b258-4b77-bba8-0343be85bb10",
+  "relation": "specializes",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "aa5fd6b7-8e47-4d59-b30a-6c17aa49e06d",
+        "locator": "p. 2",
+        "quote": "The key feature is that these electric dipoles are fluctuations, not states."
+      }
+    ]
+  }
+}

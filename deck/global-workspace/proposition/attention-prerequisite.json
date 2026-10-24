@@ -1,0 +1,45 @@
+{
+  "record": "proposition",
+  "id": "370ed606-0e59-4b85-9d66-27f4949e750c",
+  "kind": "empirical",
+  "epistemic_status": "inferred",
+  "title": "Attention is a prerequisite of consciousness",
+  "statements": [
+    {
+      "id": "48e1386c-7317-402a-866e-9a3a520d4f5e",
+      "text": "Attention is a prerequisite of consciousness: unattended stimuli, even when strong, can be processed without becoming conscious.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-23"
+    }
+  ],
+  "current_statement": "48e1386c-7317-402a-866e-9a3a520d4f5e",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "9b21a09b-835f-4256-afbf-19425df2597e",
+        "locator": "abstract",
+        "quote": "attention is a prerequisite of consciousness"
+      }
+    ]
+  }
+}

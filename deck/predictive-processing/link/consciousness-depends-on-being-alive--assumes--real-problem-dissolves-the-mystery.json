@@ -1,0 +1,28 @@
+{
+  "record": "link",
+  "id": "f1c12a4a-ad75-4cf2-b9d3-d76966a307d4",
+  "from": "64ce15ca-292e-414c-a199-f6796aed5316",
+  "to": "d64712bd-4a91-4660-b675-f3c6f2d2c1f7",
+  "relation": "assumes",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "e391f78a-61b9-464c-883b-2181082dabd3",
+        "locator": "accepted manuscript p. 1, abstract",
+        "quote": "challenging the assumption that computation provides a sufficient basis for consciousness"
+      }
+    ]
+  }
+}

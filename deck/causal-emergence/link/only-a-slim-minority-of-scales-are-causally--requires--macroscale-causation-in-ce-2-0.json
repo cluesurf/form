@@ -1,0 +1,28 @@
+{
+  "record": "link",
+  "id": "4bb346aa-778e-4d75-b881-f568b93535cb",
+  "from": "a8fb71fa-7419-441a-a8c0-3af827c20e8e",
+  "to": "e5b37246-c587-47b1-976d-ceb8107ca3c8",
+  "relation": "requires",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "c40bbd28-a2c5-4730-84c0-90f7ae0644de",
+        "locator": "section 7",
+        "quote": "but only a slim minority of these scales are causally relevant, and the theory can identify them"
+      }
+    ]
+  }
+}

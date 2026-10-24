@@ -1,0 +1,28 @@
+{
+  "record": "link",
+  "id": "1d6c02d1-9558-4b6c-ab35-c3907fb5bf8e",
+  "from": "90a12d96-630f-458b-aeb1-8a382305796c",
+  "to": "1c0249f5-1fdd-49e9-a382-d2b568710cc5",
+  "relation": "defines",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "4047cb59-a856-42f5-98c7-b6e9621caf6f",
+        "locator": "Introduction, p. 33",
+        "quote": "‘self-transcendence’ is defined as the abrupt—thus not gradual—broadening of one’s sense of self through a step-function enrichment of one’s subjective inner life"
+      }
+    ]
+  }
+}

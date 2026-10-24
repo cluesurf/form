@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "7eeee9e0-a28e-4ba0-82d5-933238e1b797",
+  "title": "E-FRC-0157: no steering tried closes the baryon gap while the meson walks: steering toward the string's junction...",
+  "purpose": "Experiment E-FRC-0157 in the gauge arena: no steering tried closes the baryon gap while the meson walks: steering toward the string's junction spreads the baryon further (15.3), steering away from stretching is lone steering exactly, and line steering holds the baryon as tight as E-FRC-0131 (spread 2.6 against 2.7) but stops the meson (travel 1.8); a middle member with two strings mostly bounces in place.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L2 (L2: known physics reproduced on a stated model).",
+  "status": "completed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/gauge/baryon-steering.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "research/result.ts R-FRC-0006",
+        "quote": null
+      }
+    ]
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "153b3c06-cd2e-482f-a6d3-00c1f1949702",
+  "title": "E-FRC-0296: explores whether one harness reads the two colour gates of decision 012 (walls W, caging C) and the...",
+  "purpose": "Experiment E-FRC-0296 in the gauge arena: explores whether one harness reads the two colour gates of decision 012 (walls W, caging C) and the plaquette P on any static Sigma(648) field, checked on identity links, on the rule's own lifted hash and on its gauge transform.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L2 (L2: known physics reproduced on a stated model).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/gauge/color-gates.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-FRC-0296",
+        "quote": null
+      }
+    ]
+  }
+}

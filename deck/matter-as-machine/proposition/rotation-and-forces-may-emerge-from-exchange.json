@@ -1,0 +1,45 @@
+{
+  "record": "proposition",
+  "id": "152ef30a-59b6-401a-83af-9c4dfbb4326f",
+  "kind": "empirical",
+  "epistemic_status": "hypothesized",
+  "title": "Rotation and forces may emerge from the exchange rules",
+  "statements": [
+    {
+      "id": "7ef50bef-8205-4da0-8ba3-640ce080edbe",
+      "text": "The exchange rules are expected to show how Euclidean rotation can emerge in taxicab space, where motion runs only along the axes, how repulsion, attraction and gravity can emerge, and why photons may be a special case.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "7ef50bef-8205-4da0-8ba3-640ce080edbe",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "57bea3cc-6106-4840-8c2d-ebfa28886156",
+        "locator": "opening",
+        "quote": "how Euclidean rotation can emerge in taxicab space, how repulsion, attraction, and gravity can emerge"
+      }
+    ]
+  }
+}

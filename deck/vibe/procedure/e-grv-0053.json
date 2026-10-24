@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "39de2c97-f29f-42a0-b0aa-29f3397bc8e2",
+  "title": "E-GRV-0053: the discrete-to-continuum transfer splits in two: the continuity law is exact at every finite scale with...",
+  "purpose": "Experiment E-GRV-0053 in the gravity arena: the discrete-to-continuum transfer splits in two: the continuity law is exact at every finite scale with no limit, while the smooth field is a finite-resolution reading whose quantum is exactly one over the block volume.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L2 (L2: known physics reproduced on a stated model).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/gravity/discrete-to-continuum-layers.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-GRV-0053",
+        "quote": null
+      }
+    ]
+  }
+}

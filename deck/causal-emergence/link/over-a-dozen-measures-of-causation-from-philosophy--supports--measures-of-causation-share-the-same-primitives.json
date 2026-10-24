@@ -1,0 +1,28 @@
+{
+  "record": "link",
+  "id": "fdec8f80-d247-4960-ae19-07138f5e34ff",
+  "from": "9d9f7f64-9925-4a03-bbdd-b6e89198923a",
+  "to": "34764c7d-248a-43ad-b072-a2d9d4054cbc",
+  "relation": "supports",
+  "strength": 0.8,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "730ddfd3-ad1a-4e42-9b1d-3ef590ddaba4",
+        "locator": "abstract",
+        "quote": "To answer this question we examined over a dozen popular measures of causation, all independently developed and widely used"
+      }
+    ]
+  }
+}

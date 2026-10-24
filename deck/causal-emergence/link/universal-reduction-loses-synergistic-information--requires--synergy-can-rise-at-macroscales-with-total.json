@@ -1,0 +1,28 @@
+{
+  "record": "link",
+  "id": "9ee97026-0901-464e-b7c4-c6017d587fa7",
+  "from": "0721adf6-b6be-44c8-a963-e221384dcc42",
+  "to": "4cfa6ee7-6e15-4062-adb0-0cb1edbd58f7",
+  "relation": "requires",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "32625ac1-6f29-48b7-8006-e55cbd3e61ee",
+        "locator": "abstract",
+        "quote": "since such reduction would likely lead to a loss of synergistic information in scientific models"
+      }
+    ]
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "7cc2e568-e7f6-491d-b237-0e48baf0c217",
+  "title": "E-GRV-0134: a forming headroom horizon's spectrum does not move toward Planck as the register grows, fail on H1, H2...",
+  "purpose": "Experiment E-GRV-0134 in the gravity arena: a forming headroom horizon's spectrum does not move toward Planck as the register grows, fail on H1, H2 and H3: lumps grown to $r_h = C / 2$ at $t_g$ kappa 149.7 (E-GRV-0132's rate) at C 13, 17, 25, 35, 49 (ln C / 4 pi 0.204 .. 0.310) give Planck fits of T 10.37, 10.30, 9.59, 7.78, 10.27 x kappa / 2 pi (rms 0.018 .. 0.036) and power laws omega^-1.42, -1.42, -1.46, -1.57, -1.43: flat within the scatter, not falling; ln(T_fit / T) on ln C / 4 pi ($R^2$ 0.16) extrapolates to 4.15 at 1; |beta / alpha|^2 at 4 T rises 1.6e-2 .. 5.4e-2 with the dock changes (710 .. 13172); C 25 reproduces E-GRV-0132 (7-point fit 9.589 against 9.596, every ratio within 0.07 percent) on a ring half the size; the static lump reads 2.5e-25 .. 2.4e-22; KG conserved to 8e-14; C 100 and 200 did not fit the budget.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L2 (L2: known physics reproduced on a stated model).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/gravity/forming-horizon-register-scan.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-GRV-0134",
+        "quote": null
+      }
+    ]
+  }
+}

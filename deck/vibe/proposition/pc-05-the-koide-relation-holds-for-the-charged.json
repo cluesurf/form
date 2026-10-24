@@ -1,0 +1,50 @@
+{
+  "record": "proposition",
+  "id": "2aae3353-2e74-4b2b-9e0a-2f8e0ec15389",
+  "kind": "empirical",
+  "epistemic_status": "hypothesized",
+  "title": "PC-05: the Koide relation holds for the charged leptons only",
+  "statements": [
+    {
+      "id": "066454c3-142d-4fa2-bfac-77d196ce6f56",
+      "text": "The Koide relation holds for the charged leptons only.",
+      "language": "en",
+      "scope": "a prediction candidate, not a frozen prediction row",
+      "conditions": "Where it stands: E-FRC-0057 finds $Q = \\dfrac{m_e + m_\\mu + m_\\tau}{(\\sqrt{m_e} + \\sqrt{m_\\mu} + \\sqrt{m_\\tau})^2} = 2/3$ for the charged leptons, E-FRC-0063 finds 0.85 and 0.73 for the up and down quarks, E-FRC-0065 finds the neutrinos below 2/3. All restate measured masses (L1). What it needs: a derived reason, then a value for a sector not yet measured.",
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-22"
+    }
+  ],
+  "current_statement": "066454c3-142d-4fa2-bfac-77d196ce6f56",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": {
+    "value": "open",
+    "reason": "a candidate: it has not passed the prediction gate",
+    "basis": [],
+    "proposal": null
+  },
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "research/prediction.ts PC-05",
+        "quote": null
+      }
+    ]
+  }
+}

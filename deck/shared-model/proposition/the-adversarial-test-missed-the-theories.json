@@ -1,0 +1,54 @@
+{
+  "record": "proposition",
+  "id": "564bb0ad-05b3-4d56-acd0-21cf7b6aa356",
+  "kind": "philosophical",
+  "epistemic_status": "inferred",
+  "title": "Critique: the adversarial test did not test the theory itself",
+  "statements": [
+    {
+      "id": "b10b414e-949a-4ef1-8ac7-db39d025d843",
+      "text": "The same letter argued that the adversarial collaboration tested only some idiosyncratic predictions made by certain theorists, so its results do not show that IIT itself was meaningfully tested.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-23"
+    }
+  ],
+  "current_statement": "b10b414e-949a-4ef1-8ac7-db39d025d843",
+  "status": "active",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": {
+    "value": "open",
+    "reason": null,
+    "basis": [],
+    "proposal": null
+  },
+  "origin": [
+    {
+      "repository": "iit",
+      "id": "e8d14b31-39e3-4636-80ff-896520a8cae7"
+    }
+  ],
+  "provenance": {
+    "written_by": "github:lancejpollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b84a8545-804d-4559-8408-6e4b3c68eddd",
+        "locator": "paragraph 2",
+        "quote": "by design the studies only tested some idiosyncratic predictions made by certain theorists"
+      }
+    ]
+  }
+}

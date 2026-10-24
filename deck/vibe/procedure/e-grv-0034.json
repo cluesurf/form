@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "1296985e-2ae2-49c9-900f-e85ad845e123",
+  "title": "E-GRV-0034: the bare shadow pressure is a distance-independent ballistic deficit, not a 1/r Newtonian tail",
+  "purpose": "Experiment E-GRV-0034 in the gravity arena: the bare shadow pressure is a distance-independent ballistic deficit, not a 1/r Newtonian tail.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L2 (L2: known physics reproduced on a stated model).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/gravity/shadow-pressure-not-newtonian.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-GRV-0034",
+        "quote": null
+      }
+    ]
+  }
+}

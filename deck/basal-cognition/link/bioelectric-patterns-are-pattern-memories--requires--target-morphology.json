@@ -1,0 +1,28 @@
+{
+  "record": "link",
+  "id": "a5449923-7c52-4aa9-b097-6880a07bd48d",
+  "from": "35e99e05-7055-48cd-8e06-7c142c911cad",
+  "to": "a6f268a5-4e82-43c0-97e7-c0970b5abc14",
+  "relation": "requires",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "fd7382f9-52a5-4beb-9680-fc341ff15b98",
+        "locator": "section A Bioelectric Model of the Scaling of the Self",
+        "quote": "These spatial patterns serve as instructive pattern memories guiding the activity of a cell collective through anatomical morphospace toward the correct target morphology"
+      }
+    ]
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "1ce506f8-63a9-49e2-b535-8fc5f381d9b4",
+  "title": "E-GMT-0017: the generic {3,4,3,4} horosphere band is a thin slab (~2.5D), not clean flat 3D",
+  "purpose": "Experiment E-GMT-0017 in the geometry arena: the generic {3,4,3,4} horosphere band is a thin slab (~2.5D), not clean flat 3D.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L1 (L1: known mathematics, correctly confirmed).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/geometry/horosphere-3434.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-GMT-0017",
+        "quote": null
+      }
+    ]
+  }
+}

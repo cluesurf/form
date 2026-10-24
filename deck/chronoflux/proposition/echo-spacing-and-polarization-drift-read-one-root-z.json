@@ -1,0 +1,57 @@
+{
+  "record": "proposition",
+  "id": "ce58fdbf-0f6d-43cc-9112-22233fe16dfd",
+  "kind": "empirical",
+  "epistemic_status": "hypothesized",
+  "title": "Prediction: echo spacing and PBH polarization drift read the same $\\sqrt{z}$",
+  "statements": [
+    {
+      "id": "77bad7e9-a249-4d18-9013-aaf0365b9b3b",
+      "text": "The echo spacing $\\Delta t / \\Delta t_0 \\propto \\sqrt{z}$ in gravitational-wave ringdowns and the polarization drift coefficient of late primordial black hole evaporation, $\\bar\\alpha \\propto \\sqrt{z}$, depend on one impedance contrast $z$, so the value inferred from each channel must agree.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": "The values of $z$ inferred from echo spacing and from polarization drift disagree beyond the uncertainties of $\\delta / R_{\\mathrm{cav}}$ and the flux normalization.",
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "77bad7e9-a249-4d18-9013-aaf0365b9b3b",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": {
+    "resolution_criterion": "Independent estimates of $z$ from gravitational-wave echo spacing and from the polarization drift of high-energy primordial black hole emission agree within their stated uncertainties.",
+    "resolver": "specified_source",
+    "locked_at": "2026-03-22",
+    "outcome": null,
+    "resolved_at": null,
+    "observation": null
+  },
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "020ab9c6-3c80-4042-8845-f97e49eb2e53",
+        "locator": "section 5.3",
+        "quote": "Agreement across channels supports the effective boundary-layer description, while disagreement rules it out."
+      },
+      {
+        "source": "020ab9c6-3c80-4042-8845-f97e49eb2e53",
+        "locator": "section 5.2",
+        "quote": "so the drift rate increases with the same square-root dependence on z that controls the echo spacing."
+      }
+    ]
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "2a7d9bdc-bb95-4c15-a67e-65b01a64de87",
+  "title": "E-QTM-0071: einselection is a complementarity: for one copy the system coherence and the classical record obey the...",
+  "purpose": "Experiment E-QTM-0071 in the quantum arena: einselection is a complementarity: for one copy the system coherence and the classical record obey the exact identity (2 coherence)^2 + record^2 = 1, and a bath collapses the coherence faster still, so a state cannot stay quantum and hand out a readable classical record of the same pointer at once.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L2 (L2: known physics reproduced on a stated model).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/quantum/einselection-complementarity.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-QTM-0071",
+        "quote": null
+      }
+    ]
+  }
+}

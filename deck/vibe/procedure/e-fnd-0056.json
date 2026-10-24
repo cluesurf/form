@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "6fb42fa5-ee66-492d-bef1-4ebe51950567",
+  "title": "E-FND-0056: the deterministic reversible knit is UNITARY on configuration space, which is how vibe produces quantum...",
+  "purpose": "Experiment E-FND-0056 in the foundations arena: the deterministic reversible knit is UNITARY on configuration space, which is how vibe produces quantum: the knit is a bijection on configurations so its Hilbert-space operator is a permutation matrix (U dagger U equal to identity), a complex superposition over a finite orbit keeps its L2 norm exactly after a beat, and a lossy rule fails injectivity (non-unitary), so the quantum unitarity lives at the configuration level, not the raw occupation.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L2 (L2: known physics reproduced on a stated model).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/foundations/configuration-unitarity-quantum.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-FND-0056",
+        "quote": null
+      }
+    ]
+  }
+}

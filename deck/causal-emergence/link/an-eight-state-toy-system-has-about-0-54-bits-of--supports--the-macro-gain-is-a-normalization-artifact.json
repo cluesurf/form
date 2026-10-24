@@ -1,0 +1,28 @@
+{
+  "record": "link",
+  "id": "4129180a-f942-42ae-a216-b136c7330d83",
+  "from": "a634a152-bb87-4d87-92fd-a989da5bb22e",
+  "to": "9ec9ede8-d286-4d59-a04e-4c111f9e7484",
+  "relation": "supports",
+  "strength": 0.6,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "e3443755-ce71-4132-994c-b609c7b95871",
+        "locator": "post body",
+        "quote": "So knowing the initial macrostate gives us 1 full bit of information about the final state, which is more than the ~0.54 bits that looking at the microstate gave us!"
+      }
+    ]
+  }
+}

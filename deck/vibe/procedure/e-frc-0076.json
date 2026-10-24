@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "f486bead-5b7c-4f39-a4b4-74bb516a0f0c",
+  "title": "E-FRC-0076: monopole absence is exactness: div B is zero to the last digit for every link potential at two lattice...",
+  "purpose": "Experiment E-FRC-0076 in the gauge arena: monopole absence is exactness: div B is zero to the last digit for every link potential at two lattice sizes (the lattice Bianchi identity, no dynamics involved), the hand-made monopole field has nonzero closed-surface flux so no potential can realize it, and the Dirac-string potential that is monopole-free in the non-compact reading shows exactly the +1 and -1 DeGrand-Toussaint pair under compact (mod 2 pi) reduction, so lattice monopoles require a wrapping connection and the model prediction is exact absence of free monopoles.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L2 (L2: known physics reproduced on a stated model).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/gauge/monopole-absence.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-FRC-0076",
+        "quote": null
+      }
+    ]
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "f0d6387e-1071-44e2-911d-5c75f5391ad2",
+  "title": "E-QTM-0028: the beat-autocorrelation Hankel is PSD within noise",
+  "purpose": "Experiment E-QTM-0028 in the quantum arena: the beat-autocorrelation Hankel is PSD within noise.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L2 (L2: known physics reproduced on a stated model).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/quantum/time-reflection-positivity.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-QTM-0028",
+        "quote": null
+      }
+    ]
+  }
+}

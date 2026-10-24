@@ -1,0 +1,50 @@
+{
+  "record": "proposition",
+  "id": "2a196211-3758-4f49-84f7-54dea848daa4",
+  "kind": "empirical",
+  "epistemic_status": "hypothesized",
+  "title": "P2: same state and inputs, same future",
+  "statements": [
+    {
+      "id": "5aef4229-d6e1-43c4-9302-6fa5f7f443fa",
+      "text": "P2: identical complete present local states evolving under identical physical inputs have identical subsequent local physical states, $X^\\alpha_t = X^\\beta_t \\wedge I^\\alpha_{>t} = I^\\beta_{>t} \\Rightarrow X^\\alpha_{>t} = X^\\beta_{>t}$. This is the state sufficiency of physics, and it underwrites experimental replicability.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "5aef4229-d6e1-43c4-9302-6fa5f7f443fa",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "ac2774e1-a04c-4c89-9db2-7848c6f5ce0b",
+        "locator": "section 4.5",
+        "quote": "Local state sufficiency, described in P2, states that identical complete present local states (i), evolving under identical physical inputs (ii), have identical subsequent local physical states (iii)"
+      },
+      {
+        "source": "ac2774e1-a04c-4c89-9db2-7848c6f5ce0b",
+        "locator": "abstract",
+        "quote": "the assumption underwriting experimental replicability, since preparing the same system under the same conditions is expected to yield the same result"
+      }
+    ]
+  }
+}

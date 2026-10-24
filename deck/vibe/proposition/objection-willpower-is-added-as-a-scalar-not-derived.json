@@ -1,0 +1,50 @@
+{
+  "record": "proposition",
+  "id": "6391acd2-28d6-4cae-819e-905398f2084c",
+  "kind": "empirical",
+  "epistemic_status": "inferred",
+  "title": "willpower is added as a scalar, not derived",
+  "statements": [
+    {
+      "id": "c6ad865b-57fa-408f-a505-62abb6910b1a",
+      "text": "Willpower is added as a scalar, not derived.",
+      "language": "en",
+      "scope": "verdict stands: the objection is correct about the program today",
+      "conditions": "Measured: the decision model takes willpower, foresight and the field as added abstract scalars, threshold 4. Evidence named: E-SLF-0150.",
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-22"
+    }
+  ],
+  "current_statement": "c6ad865b-57fa-408f-a505-62abb6910b1a",
+  "status": "active",
+  "voice": "critique",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": {
+    "value": "open",
+    "reason": "verdict stands",
+    "basis": [],
+    "proposal": null
+  },
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "research/objection.ts",
+        "quote": null
+      }
+    ]
+  }
+}

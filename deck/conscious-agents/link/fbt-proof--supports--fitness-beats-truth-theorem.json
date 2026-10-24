@@ -1,0 +1,28 @@
+{
+  "record": "link",
+  "id": "c01de5a0-75d8-4afb-8104-54933cb16b00",
+  "from": "de80e5f7-1b59-458e-ae81-40e762c25cc2",
+  "to": "07146716-c6ad-45f9-aa53-a4554416f42a",
+  "relation": "supports",
+  "strength": 0.8,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "15e904a9-b714-4166-a1df-29884230fe2a",
+        "locator": "abstract, lines 14-16",
+        "quote": "present and prove a \"Fitness-Beats-Truth (FBT) Theorem\""
+      }
+    ]
+  }
+}

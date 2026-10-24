@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "eb75a7c8-f20c-4057-aa51-5e27994df96e",
+  "title": "E-HLG-0034: the wormhole cross-section is the mutual information: it rises from exactly zero at a product boundary...",
+  "purpose": "Experiment E-HLG-0034 in the holography arena: the wormhole cross-section is the mutual information: it rises from exactly zero at a product boundary (pinched off) to exactly two at maximal entanglement (throat open), so entanglement builds the ER=EPR bridge and removing it disconnects the boundary.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L2 (L2: known physics reproduced on a stated model).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/holography/er-epr-cross-section.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-HLG-0034",
+        "quote": null
+      }
+    ]
+  }
+}

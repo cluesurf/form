@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "dbbd9d5e-c13d-4930-8553-f748041be93d",
+  "title": "E-FRC-0304: explores whether R*'s own colour hash could localize a lone third, or only slows it, from level...",
+  "purpose": "Experiment E-FRC-0304 in the gauge arena: explores whether R*'s own colour hash could localize a lone third, or only slows it, from level statistics and the Thouless number.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L2 (L2: known physics reproduced on a stated model).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/gauge/hash-localization.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-FRC-0304",
+        "quote": null
+      }
+    ]
+  }
+}

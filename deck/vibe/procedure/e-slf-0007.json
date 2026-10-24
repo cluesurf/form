@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "095562f1-3310-4a74-a98d-e006812248c2",
+  "title": "E-SLF-0007: a purely local repair rule raises the self fidelity over the unmaintained control, but not robustly over...",
+  "purpose": "Experiment E-SLF-0007 in the selves arena: a purely local repair rule raises the self fidelity over the unmaintained control, but not robustly over a 0.6 bar.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L2 (L2: known physics reproduced on a stated model).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/selves/autonomous-self.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-SLF-0007",
+        "quote": null
+      }
+    ]
+  }
+}

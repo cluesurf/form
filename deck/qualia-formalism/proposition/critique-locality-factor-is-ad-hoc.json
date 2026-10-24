@@ -1,0 +1,45 @@
+{
+  "record": "proposition",
+  "id": "744a37e2-cad8-4447-811b-26f5c3a29387",
+  "kind": "philosophical",
+  "epistemic_status": "inferred",
+  "title": "The locality factor is ad hoc",
+  "statements": [
+    {
+      "id": "4a8972c2-8533-4ca8-b41d-8dd357e48cc1",
+      "text": "Adding a locality requirement to field topology is ad hoc and would fail for minds that span space, so the account is not robust to very different situations.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-23"
+    }
+  ],
+  "current_statement": "4a8972c2-8533-4ca8-b41d-8dd357e48cc1",
+  "status": "active",
+  "voice": "critique",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "1ee77be8-63f4-4644-b8de-1d60a7ecb8d5",
+        "locator": "review, 8 Feb 2024",
+        "quote": "The addition of a locality factor seems rather ad-hoc."
+      }
+    ]
+  }
+}

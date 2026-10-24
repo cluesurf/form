@@ -1,0 +1,45 @@
+{
+  "record": "proposition",
+  "id": "777abcd8-0e34-432c-a292-4017e62e2182",
+  "kind": "definitional",
+  "epistemic_status": "designed",
+  "title": "Markovian monism",
+  "statements": [
+    {
+      "id": "a2238761-a575-46af-837c-dd08b89aa607",
+      "text": "Markovian monism is the position that there is one type of thing and one type of irreducible property, and that systems with a Markov blanket have mental properties, if they have any, partly by virtue of that blanket.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-23"
+    }
+  ],
+  "current_statement": "a2238761-a575-46af-837c-dd08b89aa607",
+  "status": "active",
+  "voice": "framework",
+  "defines": "markovian monism",
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "2dd94478-888b-48b9-bba8-eb449f0b667d",
+        "locator": "abstract",
+        "quote": "(1) fundamentally, there is only one type of thing and only one type of irreducible property (hence monism)."
+      }
+    ]
+  }
+}

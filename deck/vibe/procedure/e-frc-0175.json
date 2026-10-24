@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "bc8dd9a9-06b2-44a2-a620-d0a20920f2f8",
+  "title": "E-FRC-0175: links as vibe-vibe relations, the physics: held as two port frames and two port counts, the coupled...",
+  "purpose": "Experiment E-FRC-0175 in the gauge arena: links as vibe-vibe relations, the physics: held as two port frames and two port counts, the coupled Sigma(648) rule, its flux string and its confinement readings are the stored rule's to the bit, frame covariant by all 648 in every dock and at the middle of every edge; the flux string needs no element at all, only the count of what crossed; the Polyakov loop and Creutz ratios need the element and history cannot hold them; and light needs only history, the count of what crossed and its time integral, with 2 polarizations on the husk stand-in.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L2 (L2: known physics reproduced on a stated model).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/gauge/relational-link-physics.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-FRC-0175",
+        "quote": null
+      }
+    ]
+  }
+}

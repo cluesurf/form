@@ -1,0 +1,50 @@
+{
+  "record": "proposition",
+  "id": "bdc50fe4-f024-4141-bfdc-e266c86a3b32",
+  "kind": "philosophical",
+  "epistemic_status": "inferred",
+  "title": "Critique: IIT is pseudoscience until its central claims are testable",
+  "statements": [
+    {
+      "id": "85048149-6b3d-4d30-8ca9-cd8a0cd7c3da",
+      "text": "An open letter signed by over a hundred researchers argued that IIT's panpsychist implications (inactive grids of logic gates, early fetuses and organoids being conscious) are untestable, and that the label pseudoscience applies until the theory as a whole is empirically testable.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-23"
+    }
+  ],
+  "current_statement": "85048149-6b3d-4d30-8ca9-cd8a0cd7c3da",
+  "status": "active",
+  "voice": "critique",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "418b0df0-203f-47ff-879a-7ecafade33fb",
+        "locator": "paragraph 3",
+        "quote": "According to IIT, an inactive grid of connected logic gates that are not performing any useful computation can be conscious—possibly even more so than humans"
+      },
+      {
+        "source": "418b0df0-203f-47ff-879a-7ecafade33fb",
+        "locator": "paragraph 5",
+        "quote": "IIT requires meaningful empirical tests before being heralded as a ‘leading’ or ‘well-established’ theory."
+      }
+    ]
+  }
+}

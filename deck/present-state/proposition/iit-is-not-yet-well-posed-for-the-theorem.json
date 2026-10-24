@@ -1,0 +1,60 @@
+{
+  "record": "proposition",
+  "id": "626a1bd3-4120-45e8-bcfc-23e6aa73b2f1",
+  "kind": "philosophical",
+  "epistemic_status": "inferred",
+  "title": "IIT is not yet well-posed for the theorem",
+  "statements": [
+    {
+      "id": "4898faac-80d6-49c6-b6b0-85b3b3eed475",
+      "text": "For an IIT attribution to be objective, its decomposition into units, its states, its boundary and its temporal grain must be uniquely fixed by the present physical state and law, and invariant across physically admissible descriptions such as neurons, transistors, gears or valves, or every admissible analysis must give the same answer. Until that is shown, causal-structure theories are not well-posed for the theorem's analysis.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "4898faac-80d6-49c6-b6b0-85b3b3eed475",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "ac2774e1-a04c-4c89-9db2-7848c6f5ce0b",
+        "locator": "section 5.2",
+        "quote": "For the resulting consciousness attribution to be objective, the analysis must be well-defined and uniquely fixed by the complete present physical state and physical law"
+      },
+      {
+        "source": "ac2774e1-a04c-4c89-9db2-7848c6f5ce0b",
+        "locator": "section 5.2",
+        "quote": "Without answers to these questions, causal structure theories are not well-posed for the kind of formal analysis in the no go theorem."
+      },
+      {
+        "source": "f4d2173d-4048-4a49-9ecd-7c9d73b228ce",
+        "locator": null,
+        "quote": null
+      },
+      {
+        "source": "b27b3aba-3d40-43af-a220-513cda5883b0",
+        "locator": null,
+        "quote": null
+      }
+    ]
+  }
+}

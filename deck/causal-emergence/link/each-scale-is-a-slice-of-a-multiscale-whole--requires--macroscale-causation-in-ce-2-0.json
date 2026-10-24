@@ -1,0 +1,28 @@
+{
+  "record": "link",
+  "id": "05cb01da-dc33-46cf-8a20-49e49d42f6f2",
+  "from": "c7b5e11b-c47d-4b79-ab57-24a09a3cd6c4",
+  "to": "e5b37246-c587-47b1-976d-ceb8107ca3c8",
+  "relation": "requires",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "c40bbd28-a2c5-4730-84c0-90f7ae0644de",
+        "locator": "section 1",
+        "quote": "Any one scale (even the microscale) is much like taking a 2D slice of a 3D object, and therefore cannot fully capture the causation of the system."
+      }
+    ]
+  }
+}

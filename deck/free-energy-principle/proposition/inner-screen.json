@@ -1,0 +1,50 @@
+{
+  "record": "proposition",
+  "id": "09c60f40-57fc-4619-9ef5-fff97ff56337",
+  "kind": "empirical",
+  "epistemic_status": "hypothesized",
+  "title": "Consciousness lives on an inner screen of nested blankets",
+  "statements": [
+    {
+      "id": "d457b2c4-e9dd-42eb-bee4-b79a6871daec",
+      "text": "A quantum information version of the principle implies an inner screen hypothesis: conscious experience follows from the nested, holographic structure of the brain's Markov blankets, which also supports overt and covert action.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-23"
+    }
+  ],
+  "current_statement": "d457b2c4-e9dd-42eb-bee4-b79a6871daec",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "f590cb87-1c19-4c9a-b81c-b41b4f7a8e77",
+        "locator": "abstract (arXiv record)",
+        "quote": "In particular, we consider the inner screen hypothesis that follows from the quantum information theoretic version of the FEP."
+      },
+      {
+        "source": "f590cb87-1c19-4c9a-b81c-b41b4f7a8e77",
+        "locator": "abstract (arXiv record)",
+        "quote": "We focus on the holographic structure of the brain, and how this structure supports (overt and covert) action."
+      }
+    ]
+  }
+}

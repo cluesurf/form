@@ -1,0 +1,45 @@
+{
+  "record": "proposition",
+  "id": "4a0271dd-1f10-43de-bb2d-3308a7d9af7b",
+  "kind": "definitional",
+  "epistemic_status": "designed",
+  "title": "Subliminal stimulus",
+  "statements": [
+    {
+      "id": "cde3e794-3433-4e93-a217-be73e42ac801",
+      "text": "A subliminal stimulus is one whose bottom-up, stimulus-driven information is so reduced that it cannot be detected even with focused attention.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-23"
+    }
+  ],
+  "current_statement": "cde3e794-3433-4e93-a217-be73e42ac801",
+  "status": "active",
+  "voice": "framework",
+  "defines": "subliminal stimulus",
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "2374e38b-3bde-4e20-9ad5-8edab14a34c3",
+        "locator": "Major Experimental Paradigms",
+        "quote": "A subliminal stimulus is one in which the bottom-up, stimulus-driven information is so reduced as to make it undetectable, even with focused attention."
+      }
+    ]
+  }
+}

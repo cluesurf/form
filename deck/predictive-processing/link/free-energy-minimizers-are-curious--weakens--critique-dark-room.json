@@ -1,0 +1,28 @@
+{
+  "record": "link",
+  "id": "b818c0e9-677c-4c1a-a9ae-d920319f72fe",
+  "from": "fc00b420-3ef6-4b15-9155-242782b13099",
+  "to": "56b6e530-3565-4159-8dc4-7ece3398a0af",
+  "relation": "weakens",
+  "strength": null,
+  "rationale": "Minimizing expected free energy rewards information gain, which drives agents out of dark rooms.",
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "c9c5835d-7979-407c-992f-7ec84ebe5472",
+        "locator": "accepted manuscript p. 2",
+        "quote": "In short, in order to minimise surprise in the future, an agent needs to be a curious, sensation-seeking agent in the present."
+      }
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "record": "link",
+  "id": "3e765bfd-e279-4ebf-9594-fd87feca4cb1",
+  "from": "95e97bba-1335-4081-9257-691eab1f7748",
+  "to": "f6f764fe-3c28-46b7-9be5-8fc2b364733e",
+  "relation": "requires",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "dbe9b66c-4ffb-4615-9fd2-aa5c75424db8",
+        "locator": "Results, prediction 1",
+        "quote": "GNWT posits that PFC workspace neurons broadcast but do not add information"
+      }
+    ]
+  }
+}

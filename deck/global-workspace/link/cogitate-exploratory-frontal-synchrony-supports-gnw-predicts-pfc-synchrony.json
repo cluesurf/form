@@ -1,0 +1,28 @@
+{
+  "record": "link",
+  "id": "627e3694-f039-46b5-86e7-3f3d4f413c5b",
+  "from": "ac604b90-536a-4e82-a424-4b1844826c69",
+  "to": "38ac0b81-cf24-485a-92cc-1579c707c79d",
+  "relation": "supports",
+  "strength": 0.3,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "dbe9b66c-4ffb-4615-9fd2-aa5c75424db8",
+        "locator": "abstract",
+        "quote": "content-specific synchronization between frontal and early visual areas"
+      }
+    ]
+  }
+}

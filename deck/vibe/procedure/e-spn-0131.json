@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "db7ced6e-167c-4d6f-8fba-e6a195a02961",
+  "title": "E-SPN-0131: a string with no route record, the drift cost read as $V = |n|_1$ of the members' offset (the fewest...",
+  "purpose": "Experiment E-SPN-0131 in the spin arena: a string with no route record, the drift cost read as $V = |n|_1$ of the members' offset (the fewest frame links, the axial-gauge string), does not bind the mixed love-fear pair at the working mixer angle, fail (R1, R2): the beat is unitary (norm gap 6e-12) and on one line with the mixer off it is the recorded beat amplitude for amplitude (autocorrelation gap 0, E 0.3188654375, m*/E_rest 1.79308); at rate 3 the dominant level is not a level (start weight 0.225, residual 0.64) and keeps fidelity 0.26 with a tail of 0.68 at $|n|_1$ >= 10 by beat 128, its curvature negative in every direction (-0.32 to -0.28); no cost is worse (fidelity 0.048, tail 0.95) and the recorded register reproduces E-SPN-0128 (0.0351 by beat 24); read: at rate 1/4 the route-free pair keeps fidelity 0.9926 for 128 beats with a tail of 1.4e-3 (the recorded kept 0.955 by beat 24, still falling) and at rate 1 fidelity 0.83, so removing the route record removes most of the loss at small angles and not enough at rate 3; derived: no register stored on links, as a function of positions, updates locally in two or more dimensions, so a route-free string is nonlocal unless a dynamical flux relaxes to it.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L2 (L2: known physics reproduced on a stated model).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/spin/route-free-string.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-SPN-0131",
+        "quote": null
+      }
+    ]
+  }
+}

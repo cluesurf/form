@@ -1,0 +1,45 @@
+{
+  "record": "proposition",
+  "id": "5c32f7b6-9915-46a5-8c78-379485bb203d",
+  "kind": "empirical",
+  "epistemic_status": "hypothesized",
+  "title": "Conscious content is sustained in posterior cortex for the whole percept",
+  "statements": [
+    {
+      "id": "e8e56393-e873-4c9a-b1ea-85bdb5f69b93",
+      "text": "IIT predicted that conscious content is actively maintained in posterior cortex for as long as the stimulus is experienced.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-23"
+    }
+  ],
+  "current_statement": "e8e56393-e873-4c9a-b1ea-85bdb5f69b93",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b84809ac-0650-4173-b863-4ba1c946fcca",
+        "locator": "Fig. 1 legend (full text)",
+        "quote": "For prediction 2 (maintenance of conscious content), IIT posits that conscious content is actively maintained in the posterior cortex"
+      }
+    ]
+  }
+}

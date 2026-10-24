@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "76f43108-4dc0-41a0-98e4-a4aae3a41a36",
+  "title": "E-HLG-0002: the exact Bethe bulk-mediated boundary correlator is a clean universal $1 / r^2$",
+  "purpose": "Experiment E-HLG-0002 in the holography arena: the exact Bethe bulk-mediated boundary correlator is a clean universal $1 / r^2$.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L1 (L1: known mathematics, correctly confirmed).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/holography/bethe-gravity.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-HLG-0002",
+        "quote": null
+      }
+    ]
+  }
+}

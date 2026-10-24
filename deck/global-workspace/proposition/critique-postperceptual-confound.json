@@ -1,0 +1,45 @@
+{
+  "record": "proposition",
+  "id": "475a6a33-e966-45a7-aac6-0d28b290ba8d",
+  "kind": "empirical",
+  "epistemic_status": "inferred",
+  "title": "Critique: prefrontal signals may be post-perceptual",
+  "statements": [
+    {
+      "id": "f21c273d-da76-404d-9edf-22c67b41dd12",
+      "text": "Prefrontal activity decoded during conscious perception may reflect post-perceptual processes such as report, reasoning and decision rather than consciousness itself.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-23"
+    }
+  ],
+  "current_statement": "f21c273d-da76-404d-9edf-22c67b41dd12",
+  "status": "active",
+  "voice": "critique",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "29f40e6a-5d69-4dfe-8a4c-acdc32dd15d6",
+        "locator": "abstract",
+        "quote": "these findings might be confounded by postperceptual cognitive processes"
+      }
+    ]
+  }
+}

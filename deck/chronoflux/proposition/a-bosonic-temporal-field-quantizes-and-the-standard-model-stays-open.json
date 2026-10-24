@@ -1,0 +1,50 @@
+{
+  "record": "proposition",
+  "id": "a1568aef-3ba6-4e21-aba7-1e2eba7e3196",
+  "kind": "mathematical",
+  "epistemic_status": "inferred",
+  "title": "A bosonic temporal field quantizes, and Standard Model data stay open",
+  "statements": [
+    {
+      "id": "908ed5b2-8750-4cf8-ac86-eb5fa62fcc64",
+      "text": "A shift-symmetric temporal potential with a positive hyperbolic quadratic action quantizes canonically into a controlled bosonic field. Gauge fields, fermions and mass are kept behind the gates they require, and the Standard Model representations and Yukawa data remain open.",
+      "language": "en",
+      "scope": null,
+      "conditions": "graded by the author as open beyond the bosonic branch",
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "908ed5b2-8750-4cf8-ac86-eb5fa62fcc64",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "facaff55-8824-4943-8095-f890a38d07ea",
+        "locator": "abstract",
+        "quote": "canonical quantisation gives a controlled bosonic field."
+      },
+      {
+        "source": "facaff55-8824-4943-8095-f890a38d07ea",
+        "locator": "abstract",
+        "quote": "Standard Model representations and Yukawa data remain open."
+      }
+    ]
+  }
+}

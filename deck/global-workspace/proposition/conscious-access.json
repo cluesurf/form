@@ -1,0 +1,45 @@
+{
+  "record": "proposition",
+  "id": "ce589f30-d6aa-49bd-9cf4-179935dfe1ff",
+  "kind": "definitional",
+  "epistemic_status": "designed",
+  "title": "Conscious access",
+  "statements": [
+    {
+      "id": "e38c0e23-2900-4cfe-bbb1-bae306fc32dd",
+      "text": "Conscious access is the transitive sense of consciousness: a piece of external or internal information going beyond nonconscious processing to become a reportable subjective experience.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-23"
+    }
+  ],
+  "current_statement": "e38c0e23-2900-4cfe-bbb1-bae306fc32dd",
+  "status": "active",
+  "voice": "framework",
+  "defines": "conscious access",
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "2374e38b-3bde-4e20-9ad5-8edab14a34c3",
+        "locator": "Introduction",
+        "quote": "how does an external or internal piece of information gain access to conscious processing, defined as a reportable subjective experience?"
+      }
+    ]
+  }
+}

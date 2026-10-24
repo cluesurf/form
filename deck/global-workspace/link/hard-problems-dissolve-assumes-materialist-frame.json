@@ -1,0 +1,28 @@
+{
+  "record": "link",
+  "id": "eb4c3c96-7c30-4328-bdcc-5cf7539fd3ff",
+  "from": "abcd7302-a180-49a8-bf5d-1558a7b22b3c",
+  "to": "28df8088-7867-4072-afd2-70ca83187535",
+  "relation": "assumes",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "9b21a09b-835f-4256-afbf-19425df2597e",
+        "locator": "section 6, p. 29",
+        "quote": "We believe that many of these problems will be found to dissolve once a satisfactory framework for consciousness is achieved."
+      }
+    ]
+  }
+}

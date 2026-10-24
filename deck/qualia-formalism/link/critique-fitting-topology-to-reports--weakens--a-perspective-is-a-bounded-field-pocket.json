@@ -1,0 +1,28 @@
+{
+  "record": "link",
+  "id": "45ad6cf6-31a9-461d-b74d-42d10fbc7c7c",
+  "from": "6f0b82d1-dc6b-4dd2-b53c-3c1dc7eb115f",
+  "to": "7c8b99dc-d973-4835-900d-340b33ae0a12",
+  "relation": "weakens",
+  "strength": null,
+  "rationale": "Fitting boundaries to reports after the fact lets the account absorb any data.",
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "1ee77be8-63f4-4644-b8de-1d60a7ecb8d5",
+        "locator": "review, 8 Feb 2024",
+        "quote": "there will be many epicyclic contortions to get these to match up"
+      }
+    ]
+  }
+}

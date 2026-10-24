@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "949ae4d1-9101-4ee6-a9a4-4a3272369738",
+  "title": "E-FND-0171: every conserved density of the working rule on two neighboring docks up to degree 2, by exact linear...",
+  "purpose": "Experiment E-FND-0171 in the foundations arena: every conserved density of the working rule on two neighboring docks up to degree 2, by exact linear algebra split over the 16 characters of the coordinate reflections (the momentum density), partial (the vacuum family did not certify): on 74,083 one-dock and 207,360 two-dock probes the rule keeps exactly the love and fear counts, 0 in every non-trivial character, so no local momentum density at support two; the bare stream finds 951, the decay map 0.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L2 (L2: known physics reproduced on a stated model).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/foundations/pair-conserved-search.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-FND-0171",
+        "quote": null
+      }
+    ]
+  }
+}

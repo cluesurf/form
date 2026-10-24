@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "28e6d870-f226-4f07-94e9-05d5ca4f854c",
+  "title": "E-MTH-0003: the perturbation-audit gate passes a durable result and fails a circular one, the standing attack...",
+  "purpose": "Experiment E-MTH-0003 in the method arena: the perturbation-audit gate passes a durable result and fails a circular one, the standing attack self-validated.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L2 (L2: known physics reproduced on a stated model).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/method/perturbation-audit-harness.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-MTH-0003",
+        "quote": null
+      }
+    ]
+  }
+}

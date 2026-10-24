@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "233f376e-e877-4034-87e7-2e9f361a8041",
+  "title": "E-GRV-0120: the clock horizon has Hawking's 1/M surface gravity but no thermal window, fail on T1, T2 and T3: the...",
+  "purpose": "Experiment E-GRV-0120 in the gravity arena: the clock horizon has Hawking's 1/M surface gravity but no thermal window, fail on T1, T2 and T3: the register holds the lapse at sqrt(q_0 / q_cap) = 0.956 at the horizon instead of 0, and the spanned light run on the box-free radial profile (M = 900 .. 1750, $r_h = 6.2$ .. 12.1) reads $N_h$ 0.954 .. 0.956 and crosses the horizon at 0.917 $c_0$, so an outgoing ray's exponential redshift lasts 0.045 .. 0.047 e-folds at every M (gate 1), 2.6 M beats; the profile's kappa M is constant to 1.5 percent, but the light's T over kappa / 2 pi reads 0.98 .. 1.18 (gate 0.1) and its T M spreads 0.21 (gate 0.1); a static background mixes no frequencies (beta = 0); flat space reads no redshift (1.3e-3) and the field criterion's T M spreads 0.79, so the gates could refuse; exact, reversed bit for bit.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L2 (L2: known physics reproduced on a stated model).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/gravity/clock-horizon-temperature.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-GRV-0120",
+        "quote": null
+      }
+    ]
+  }
+}

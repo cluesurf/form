@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "e57c0aba-d2c1-4737-852d-41eee030ef44",
+  "title": "E-SPN-0176: splitting the Coulomb pull around the stream leaves the held register pair 9 to 13 times too heavy, fail...",
+  "purpose": "Experiment E-SPN-0176 in the spin arena: splitting the Coulomb pull around the stream leaves the held register pair 9 to 13 times too heavy, fail (H1, H3, H4, H5, H6): the first-order [V, K] error E-SPN-0173 blamed is exactly a similarity (its cycle is the pull-after-free cycle conjugated by $P_{SS}$, to 1e-15), so it never moved R, and a Strang split $V_h K V_h$ (every piece at half the phase in steps of the square-root unit, witnessed piece by piece against the full 192 x 192 rule to 1e-16, W (x) W exact) can change only the pull pieces' own commutators: it moves R by -11%, +5% and -2% at $a_B$ 3, 3.5 and 5 (12.98 to 11.55, 10.25 to 10.79, 15.31 to 15.05, against formulas of 1.15 to 1.31), the change falling with the commutator (2e-2 to 9e-4); the D content's charge centroid is exactly its label (7e-18), so the pull at its true dock differs only at the core and reads 11.92; the excess is second order and lives at the core (a power $a_B^{-4.8}$), and R = tan m / m is not reached at any coupling this engine holds.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L2 (L2: known physics reproduced on a stated model).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/spin/register-coulomb-split.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-SPN-0176",
+        "quote": null
+      }
+    ]
+  }
+}

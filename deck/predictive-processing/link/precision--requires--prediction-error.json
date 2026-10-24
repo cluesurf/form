@@ -1,0 +1,28 @@
+{
+  "record": "link",
+  "id": "2539c02c-9eaf-490c-821b-8e6ef8e88d19",
+  "from": "ad4a64d0-7c5f-43d3-b6e0-ef17bceb3739",
+  "to": "85c5678f-a366-45d1-b84b-b58f2f847abe",
+  "relation": "requires",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "8ed62dfe-4468-4f53-9b70-f009ba2dbe4f",
+        "locator": "p. 567",
+        "quote": "Prediction errors are associated with 'precisions', which determine their influence on subsequent hierarchical processing."
+      }
+    ]
+  }
+}

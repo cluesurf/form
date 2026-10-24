@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "6bab61e8-7246-45a3-b125-9b41a693f927",
+  "title": "E-SLF-0043: the bare reversible rule has no emergent attraction, two separated charges obey exact superposition",
+  "purpose": "Experiment E-SLF-0043 in the selves arena: the bare reversible rule has no emergent attraction, two separated charges obey exact superposition.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L2 (L2: known physics reproduced on a stated model).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/selves/emergent-attraction-search.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-SLF-0043",
+        "quote": null
+      }
+    ]
+  }
+}

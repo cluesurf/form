@@ -1,0 +1,28 @@
+{
+  "record": "link",
+  "id": "12c264a3-7622-4022-aa3e-1c8ddb73ac5a",
+  "from": "8d5e22ee-8804-4369-bc5f-af2fd4805540",
+  "to": "f6f764fe-3c28-46b7-9be5-8fc2b364733e",
+  "relation": "defines",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "27d49895-2a70-4caf-8a9d-44136817650c",
+        "locator": "p. 47",
+        "quote": "Global workspace theory suggests a fleeting memory capacity in which only one consistent content can be dominant at any given moment [1–6]. Dominant information is widely distributed in the brain."
+      }
+    ]
+  }
+}

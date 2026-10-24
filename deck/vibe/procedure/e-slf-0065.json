@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "bc7e8327-9e13-46cb-9423-7830cba68317",
+  "title": "E-SLF-0065: the base-rule breather screens through its shell and contains an interior perturbation more than the vacuum",
+  "purpose": "Experiment E-SLF-0065 in the selves arena: the base-rule breather screens through its shell and contains an interior perturbation more than the vacuum.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L2 (L2: known physics reproduced on a stated model).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/selves/l3-breather-self-criteria.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-SLF-0065",
+        "quote": null
+      }
+    ]
+  }
+}

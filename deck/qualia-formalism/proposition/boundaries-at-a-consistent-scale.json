@@ -1,0 +1,45 @@
+{
+  "record": "proposition",
+  "id": "d04f9ed4-1519-49e3-87cc-d414f5c5c792",
+  "kind": "empirical",
+  "epistemic_status": "hypothesized",
+  "title": "Boundaries appear at a consistent spatial scale",
+  "statements": [
+    {
+      "id": "586a6ead-f30d-4421-be09-052cb2738a6e",
+      "text": "Searches for field topologies matching reported experience will find them only at a broadly consistent spatial scale, which would also distinguish among electromagnetic theories of consciousness.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": "Matching topologies appear at no consistent scale, or pulses that disrupt the identified topology leave the perspective intact.",
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-23"
+    }
+  ],
+  "current_statement": "586a6ead-f30d-4421-be09-052cb2738a6e",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "9359bfc1-6fff-41a8-8d7c-91af2f730b74",
+        "locator": "section 5",
+        "quote": "We predict that such exercises will only identify topologies at a broadly consistent spatial scale"
+      }
+    ]
+  }
+}

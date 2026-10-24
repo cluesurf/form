@@ -1,0 +1,45 @@
+{
+  "record": "proposition",
+  "id": "0119255a-d872-49c7-82c9-e90a8df6e045",
+  "kind": "philosophical",
+  "epistemic_status": "hypothesized",
+  "title": "Answer: complete physical states evolved by law",
+  "statements": [
+    {
+      "id": "9f0457e5-ed9c-4380-94f6-885bbec2bcd2",
+      "text": "The paper takes as its base what modern physics assumes: systems described by complete physical states whose evolution is fixed by law and by local influences. It states no further ontology, and closes with the hedged suggestion that mind may be a state of matter and matter a state of mind.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "9f0457e5-ed9c-4380-94f6-885bbec2bcd2",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "ac2774e1-a04c-4c89-9db2-7848c6f5ce0b",
+        "locator": "section 2",
+        "quote": "they are formulated in terms of complete physical states whose evolution is specified by physical law"
+      }
+    ]
+  }
+}

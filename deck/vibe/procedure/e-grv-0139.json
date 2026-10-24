@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "aa282fc5-526c-4c71-8b62-e6adebb5fa3f",
+  "title": "E-GRV-0139: a spacetime slide of the docks makes the depth tilts the shift and forces the DeWitt kinetic term, but...",
+  "purpose": "Experiment E-GRV-0139 in the gravity arena: a spacetime slide of the docks makes the depth tilts the shift and forces the DeWitt kinetic term, but leaves the TT speed and the extras' Eg doublet free, partial at L1 (pass on V1 and V2, fail on V3 and V4): with the tilts carrying $h_{0i}$ and the mismatches' sum $h_{00}$ (the only assignment by representation), 22 of 272 cube-symmetric local actions (M on-site, N within one husk step, K within two) are invariant, exact over two primes; every one gives the tilts and the lapse no kinetic or first-order term (the static slide allows both), the lapse no mass and one metric coupling (the Hamiltonian constraint), and the metric a kinetic block that is exactly DeWitt $|h|^2$ - (tr h)^2, so no per-class inertia survives; the $|u|^4$ weight gives $|h|^2$ + (tr h)^2 / 2 and equal TT speeds on axis, face and body diagonal (equal inertia: 2.5, 2.125, 1); but the cross polarization's kinetic and gradient coefficients are independent (rank 2), since a linear gauge slide sees no light cone, and the Eg doublet is a gauge singlet with kinetic rank 1; E-GRV-0125's operator is in the family, the static slide reproduces E-GRV-0138's 83 and 71, c 2 repeats every count, and a slide with no lapse slot kills every kinetic term.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L1 (L1: known mathematics, correctly confirmed).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/gravity/spacetime-slide-spin-two.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-GRV-0139",
+        "quote": null
+      }
+    ]
+  }
+}

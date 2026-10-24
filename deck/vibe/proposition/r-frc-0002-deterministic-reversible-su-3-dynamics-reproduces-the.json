@@ -1,0 +1,50 @@
+{
+  "record": "proposition",
+  "id": "9533b59f-e95a-43cc-ac89-a5cba605be07",
+  "kind": "empirical",
+  "epistemic_status": "simulated",
+  "title": "R-FRC-0002: Deterministic reversible SU(3) dynamics reproduces the thermal ensemble, with no random numbers",
+  "statements": [
+    {
+      "id": "919bc639-2e93-4742-aed6-6b2576a74d84",
+      "text": "Hamiltonian SU(3) gauge dynamics, integrated with a fourth-order symmetric scheme from a fixed plane-wave start and drawing no random number, thermalizes, and at the coupling predicted by its kinetic temperature counted over the degrees of freedom the Gauss law leaves free, it matches the heatbath ensemble on the plaquette and the area-law Creutz ratio.",
+      "language": "en",
+      "scope": "statistical mechanics. status simulated. category reproduction (an established result recovered, by a method brought in from outside. Worth: evidence the machinery works. Not evidence that nature uses it). depth L2 (L2: known physics reproduced on a stated model)",
+      "conditions": "Limits: the dynamics is Hamiltonian SU(3), not the knit. The knit carries no continuous SU(3): its links hold the finite classical color group $\\Sigma(648)$ (R-FRC-0003). one structured start. the $\\mathbb{Z}_3$ automaton (E-FRC-0099) freezes at low energy, the known Q2R non-ergodicity. A streaming, exchanging demon per link is the kinetic variable that reaches the ordered phase: plaquette 0.979 against the heatbath 0.982, and 0.994 against 0.998 (E-FRC-0102). $\\Sigma(648)$ runs the same way (E-FRC-0110). Launch gate. Pass: quantitative, auditable. Fail: prior_art_reviewed, derived, differentiating, falsifiable, skeptic_reviewed, independently_reproduced. Unknown: novel, interesting. Novelty: uncertain. Free parameters: 0. Fitted: false. Known before: true.",
+      "falsification_criteria": "a disagreement with the heatbath at a second coupling",
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-22"
+    }
+  ],
+  "current_statement": "919bc639-2e93-4742-aed6-6b2576a74d84",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": "a584588a-0524-4d63-aa92-56b51f8d428f",
+  "prediction": null,
+  "standing": {
+    "value": "open",
+    "reason": "holds in the vibe claim graph",
+    "basis": [],
+    "proposal": null
+  },
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "research/result.ts R-FRC-0002",
+        "quote": null
+      }
+    ]
+  }
+}

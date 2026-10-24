@@ -1,0 +1,28 @@
+{
+  "record": "link",
+  "id": "c5a23581-bc00-49a6-b55e-ab1047458ecb",
+  "from": "2deaf160-349e-40db-820d-b2e6738922d4",
+  "to": "906e3a9c-5ac0-4f95-9ca3-35cb6f796f5b",
+  "relation": "weakens",
+  "strength": 0.2,
+  "rationale": "Several of the twenty predictions remained untested, so a favorable overall verdict rests on a partial record.",
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "c0602528-f093-4705-abc3-e13d7657a680",
+        "locator": "section 5.7, predictions 15, 16, 18, 19",
+        "quote": "but they appear to remain several years away from being able to achieve firm conclusions"
+      }
+    ]
+  }
+}

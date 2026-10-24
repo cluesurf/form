@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "28c489eb-8b42-4ca7-9a7e-80d542a72510",
+  "title": "E-FND-0140: phase and number are locked for the dressed species: the full slab-offset sweep finds exact blind...",
+  "purpose": "Experiment E-FND-0140 in the foundations arena: phase and number are locked for the dressed species: the full slab-offset sweep finds exact blind regimes (identical to the no-slab baseline in number and amplitude), regimes that change both together, one that adds number at fixed phase, and NONE that moves phase at fixed number, with the modified amplitudes quantizing exactly to two root three, root thirty-nine, and two root twenty-one, so a dressed packet cannot be split into equal-number phase branches, single-quantum-style coherence between detector classes does not exist on the substrate in this regime, and the number-organized visibility floor stands as the programme committed falsifiable observable.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L2 (L2: known physics reproduced on a stated model).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/foundations/phase-number-locking.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-FND-0140",
+        "quote": null
+      }
+    ]
+  }
+}

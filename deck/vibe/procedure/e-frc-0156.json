@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "dd1ecfb9-00f6-4e5f-9f64-9c6e767844c9",
+  "title": "E-FRC-0156: the folded round robin fails the acceptance battery: it keeps reversal, charge, CPT, superposition...",
+  "purpose": "Experiment E-FRC-0156 in the gauge arena: the folded round robin fails the acceptance battery: it keeps reversal, charge, CPT, superposition, walls and local color, but a lone tone's disturbance grows from about 100 slots to 15,000 on side 7 in four periods (the committed knit 1,204, the color turn weave 319) and its line graph splits into 3 and 4 components; steering then fills the box, lone steering loses CPT on a full box with the flux evolving, and line steering keeps it but loses superposition.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L2 (L2: known physics reproduced on a stated model).",
+  "status": "completed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/gauge/folded-acceptance.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "research/result.ts R-FRC-0006",
+        "quote": null
+      }
+    ]
+  }
+}

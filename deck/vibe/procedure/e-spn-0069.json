@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "bf7414c4-453f-4f29-9fe9-a509a66f3f3d",
+  "title": "E-SPN-0069: the fear beat binds two tokens by construction, a STAND-IN, fail on one prediction: U = P_sym + omega...",
+  "purpose": "Experiment E-SPN-0069 in the spin arena: the fear beat binds two tokens by construction, a STAND-IN, fail on one prediction: U = P_sym + omega P_anti and V = 1 + (omega - 1) Phi Phi^+ are pure contact phases in each role channel, and in discrete time a contact phase splits bound states off the two-token continuum at the roots of a 2 x 2 determinant (|det| under 2e-14); exact in Eisenstein integers, a pair is bound below the particle-pair threshold only for |K| < 2 pi/3 (33 of 48 momenta, not every K as predicted), by 0.50 and 0.25 per beat at K = 0 with 0.99 of its weight within 4 docks; two loves bind only in the role-antisymmetric (antirole) channel (0.74 stay within 4 docks, predicted 0.72) and a love and a fear only in the meson singlet (0.79, predicted 0.78), while the other channels run exactly as with no meeting; before a pair can wrap the ring every one of the 17 link starts gives the no-field motion under both beats.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L2 (L2: known physics reproduced on a stated model).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/spin/fear-beat-binding.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-SPN-0069",
+        "quote": null
+      }
+    ]
+  }
+}

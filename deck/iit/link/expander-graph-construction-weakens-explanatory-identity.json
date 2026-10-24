@@ -1,0 +1,28 @@
+{
+  "record": "link",
+  "id": "9a77440a-51c2-4aa4-8534-7aa98fb7ad4d",
+  "from": "9f6b3f9e-19f7-424c-b807-8a69042af9ab",
+  "to": "79c54001-d62b-4535-9bf1-5ca0a2766a35",
+  "relation": "weakens",
+  "strength": 0.4,
+  "rationale": "If trivially simple circuits have higher phi than brains, identifying experience with integrated information assigns rich experience to systems nobody else counts as conscious.",
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "207b149c-7729-48ea-abc1-9bc76a9cd9b5",
+        "locator": "post body",
+        "quote": "we can achieve pretty good information integration by hooking together logic gates according to any bipartite expander graph"
+      }
+    ]
+  }
+}

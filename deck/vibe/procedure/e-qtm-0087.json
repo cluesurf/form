@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "e28001a3-5123-4e82-a1af-729e23ce22f1",
+  "title": "E-QTM-0087: the measurement assembled: a system bit clamped as a source during the interaction is recorded by the...",
+  "purpose": "Experiment E-QTM-0087 in the quantum arena: the measurement assembled: a system bit clamped as a source during the interaction is recorded by the self into a definite held pointer that tracks the bit (plus settles left of minus, robust across size) and holds still after release, so the two pointer states are inherited from the measured system through the interaction, the arrow amplifying and the self holding, a single self alone being monostable.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L2 (L2: known physics reproduced on a stated model).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/quantum/self-records-the-bit.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-QTM-0087",
+        "quote": null
+      }
+    ]
+  }
+}

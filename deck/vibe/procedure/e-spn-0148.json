@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "2cf7a9ae-53c4-46e1-bbdb-5d1a68176fb7",
+  "title": "E-SPN-0148: no dock-local piece lifts the swap coin F- multiplet off pi alone, and the frozen flat weight it was...",
+  "purpose": "Experiment E-SPN-0148 in the spin arena: no dock-local piece lifts the swap coin F- multiplet off pi alone, and the frozen flat weight it was meant to remove is not there, fail (W1, W3 on R, W4): over the zone the 24 bands of any dock-local beat sum to zero (the trace has no constant Fourier term), so with S, D and F+ kept F- is pinned at pi for every piece, covariant or not; under W(F4) covariance D rests in the irreducible Pi4, pinning three F- to it, gamma = cot((pi + phi9 - phi4)/2)/8 (read to four digits), and the D + Pi9 channel keeps the closure floor at pi - 2 m0; the nearest piece, the odd-octet phase e^(-i alpha) on Pi8 (exact in Z[w][1/42], Pauli-blocked, vacuum exact), keeps R = tan m/m to 3e-12, gamma to 4e-11 and every speed under c*, moves 8 F- to pi - alpha, and on the E-SPN-0147 meson holds a level at eps 2.218440, isotropic to 5.5e-9, with R 1.396 (from 1.568); the E-SPN-0147 level carries only 0.16% of each member off the moving pair span, so its R excess is not flat admixture; below arctan(1/3) no level forms with or without the piece; the piece off reproduces E-SPN-0147 bit for bit.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L2 (L2: known physics reproduced on a stated model).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/spin/swap-odd-phase.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-SPN-0148",
+        "quote": null
+      }
+    ]
+  }
+}

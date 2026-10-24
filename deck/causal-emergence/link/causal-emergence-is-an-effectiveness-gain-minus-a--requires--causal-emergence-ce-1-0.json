@@ -1,0 +1,28 @@
+{
+  "record": "link",
+  "id": "7561ffb4-81ea-4f2d-8bbc-c9c3580a11cc",
+  "from": "8ff46383-4feb-43ad-ac28-08a62b818119",
+  "to": "2f9ce65f-d9e0-4afd-b7b3-da8fe68aa8c9",
+  "relation": "requires",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "8360d34d-30cb-44f8-89c9-41768fb53f0d",
+        "locator": "Theory, Causal Emergence/Reduction",
+        "quote": "Notably, coarse graining the micro-level Sm into macro-level SM implies that ∆ISize is always negative."
+      }
+    ]
+  }
+}

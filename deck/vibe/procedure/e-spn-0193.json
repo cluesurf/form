@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "04da0823-1f6a-4490-b53e-7935e488736e",
+  "title": "E-SPN-0193: three like-tone register holes (charge one, spin one half) bind at contact and the bound triple moves in...",
+  "purpose": "Experiment E-SPN-0193 in the spin arena: three like-tone register holes (charge one, spin one half) bind at contact and the bound triple moves in every tested 3d direction, pass on the register rule (provisional): on the L = 4 torus the rule keeps a late contact share of 0.712 against 0.118 free, its bound line holds 0.565 of the contact start, and boosted to |K| = pi/4 along (1,0,0), (1,1,0), (1,1,1), (1,2,3) by a boundary twist its group velocity lies 0, 0, 0 and 4.0 degrees off the requested line with the bound weight kept (f 1.004 to 1.006); but it is heavy, with a band mass of 268 and a kinetic energy 0.8 percent of its binding gap, a massive bound state, which is all that E-FRC-0289 still allows.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L2 (L2: known physics reproduced on a stated model).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/spin/three-member-motion.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-SPN-0193",
+        "quote": null
+      }
+    ]
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "record": "proposition",
+  "id": "454fc67c-4a47-41e2-b896-95f64eb9c4f9",
+  "kind": "philosophical",
+  "epistemic_status": "inferred",
+  "title": "The theorem needs no intuition about duplicates",
+  "statements": [
+    {
+      "id": "16757bc5-c212-4bdf-8eeb-1b761c42c874",
+      "text": "Unlike Swampman cases, which elicit an intuition about a duplicate, and unlike the unfolding argument, which reaches only theories reading consciousness from causal organization, the theorem derives an inconsistency from local-state sufficiency and causal efficacy alone. It assumes no functionalism and takes no position on the metaphysics of time.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "16757bc5-c212-4bdf-8eeb-1b761c42c874",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "ac2774e1-a04c-4c89-9db2-7848c6f5ce0b",
+        "locator": "section 5.1",
+        "quote": "It appeals to no intuitions about duplicates, assumes no functionalist commitment, and takes no position on the metaphysics of time."
+      },
+      {
+        "source": "b27b3aba-3d40-43af-a220-513cda5883b0",
+        "locator": null,
+        "quote": null
+      }
+    ]
+  }
+}

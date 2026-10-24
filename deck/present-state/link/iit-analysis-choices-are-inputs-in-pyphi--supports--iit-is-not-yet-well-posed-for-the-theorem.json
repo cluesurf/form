@@ -1,0 +1,28 @@
+{
+  "record": "link",
+  "id": "6ea14e3d-59fa-4f12-8314-89a046903fff",
+  "from": "1ff53adb-66af-4ab8-9a3e-1189fa3ed183",
+  "to": "626a1bd3-4120-45e8-bcfc-23e6aa73b2f1",
+  "relation": "supports",
+  "strength": null,
+  "rationale": "If the units, boundary and grain are inputs, the attribution is not yet shown to be fixed by the present state.",
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "ac2774e1-a04c-4c89-9db2-7848c6f5ce0b",
+        "locator": null,
+        "quote": null
+      }
+    ]
+  }
+}

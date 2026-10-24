@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "ad542d05-67df-498d-9a57-3bfe3523885b",
+  "title": "E-SPN-0183: the light register pair under a weak Coulomb pull: at $a_B$ 12 its main line moves within 17% of its...",
+  "purpose": "Experiment E-SPN-0183 in the spin arena: the light register pair under a weak Coulomb pull: at $a_B$ 12 its main line moves within 17% of its energy, but the level is a multiplet and R is no law yet, fail (H2, H3, H4, H5, H6, P): the cycle reduced by the cubic group exactly (witnessed against E-SPN-0173 to 1e-15, its R 8.459326 reproduced), and R read line by line by harmonic inversion, since the filtered level holds several register-channel lines the filter cannot separate; the main line reads R 8.50 at $a_B$ 3.5, is not quadratic in K at $a_B$ 6 (it mixes with lines of other cubic representations), 10.39 at 8, and 1.2693 at 12 against the formula 1.0857 (with the Darwin exchange 1.2495 against tan m / m 1.0656); at $a_B$ 8 the line carrying the bound level (23 times the start overlap) reads 1.534; every point holds, $a_B$ 20 needs about 90 hours and was not run.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L2 (L2: known physics reproduced on a stated model).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/spin/register-coulomb-weak.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-SPN-0183",
+        "quote": null
+      }
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "record": "link",
+  "id": "0c156459-b72f-42fa-9f62-1a1342bcab43",
+  "from": "7b793773-9eb2-438a-804c-02106d3a6b83",
+  "to": "ea2dd556-8034-46ee-ac54-8f8b4d2c2e1b",
+  "relation": "supports",
+  "strength": null,
+  "rationale": null,
+  "rule": "deduction",
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "5aaa6bc4-6581-4a09-8249-33c9872090bd",
+        "locator": "main text",
+        "quote": "And field topology is also causally significant."
+      }
+    ]
+  }
+}

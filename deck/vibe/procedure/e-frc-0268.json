@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "851a6b55-e437-43c1-9156-5f1dbd838e63",
+  "title": "E-FRC-0268: the register rule keeps an SU(2) on each chiral half exactly and its vacuum keeps it too, fail as...",
+  "purpose": "Experiment E-FRC-0268 in the gauge arena: the register rule keeps an SU(2) on each chiral half exactly and its vacuum keeps it too, fail as derived (SU(2) is not broken by the knit, and not by the vacuum either): every piece commutes with the right multiplications of Cl+(4) = H + H, so SU(2)+ x SU(2)- acts on the two register halves, commutes with the spinor rotation, and is internal; the full sea is invariant, since every generator is traceless; on the chiral slab every light level of a face lies in the Wilson half, as SU(2)+ doublets of one hand, and since no one-body piece can join the halves their mass needs a many-body condensate that carries SU(2)+ charge, a vacuum the rule allows and nothing yet selects.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L2 (L2: known physics reproduced on a stated model).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/gauge/register-internal-su2.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-FRC-0268",
+        "quote": null
+      }
+    ]
+  }
+}

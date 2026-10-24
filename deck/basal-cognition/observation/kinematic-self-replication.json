@@ -1,0 +1,39 @@
+{
+  "record": "observation",
+  "id": "14d0797f-1804-467e-99f0-f4df5a883c36",
+  "kind": "experimental_result",
+  "epistemic_status": "observed",
+  "description": "Synthetic multicellular assemblies replicated by moving and compressing loose cells in their environment into functional copies of themselves, a form of replication not seen in any organism.",
+  "method": "experiment",
+  "status": "reported",
+  "source": "6b561a36-4fe5-4c4f-8907-706c838f1641",
+  "procedure": null,
+  "variable": null,
+  "value": null,
+  "unit": null,
+  "uncertainty": null,
+  "sample_size": null,
+  "replication_count": null,
+  "quality": null,
+  "limitations": "Replicative ability is eventually lost. AI-designed shapes only postpone that loss.",
+  "conflicts_of_interest": null,
+  "observed_at": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "6b561a36-4fe5-4c4f-8907-706c838f1641",
+        "locator": "abstract",
+        "quote": "synthetic multicellular assemblies can also replicate kinematically by moving and compressing dissociated cells in their environment into functional self-copies"
+      }
+    ]
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "f2da4fd6-0875-4b9c-b29f-74ca5d4eac5e",
+  "title": "E-FRC-0039: a non-abelian SO(3) Wilson loop is gauge invariant, curved, and order-dependent",
+  "purpose": "Experiment E-FRC-0039 in the gauge arena: a non-abelian SO(3) Wilson loop is gauge invariant, curved, and order-dependent.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L2 (L2: known physics reproduced on a stated model).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/gauge/nonabelian-gauge.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-FRC-0039",
+        "quote": null
+      }
+    ]
+  }
+}

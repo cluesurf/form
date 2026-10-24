@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "1d9bb4d3-f0e4-4daa-b691-c92510975685",
+  "title": "E-RLT-0059: the husk anisotropy of the committed and combined knits does not fall with wavelength: from their exact...",
+  "purpose": "Experiment E-RLT-0059 in the relativity arena: the husk anisotropy of the committed and combined knits does not fall with wavelength: from their exact linear lattice Boltzmann equations (the linearized collision counted exactly over the layers, 0 mismatches against the knits), the husk anisotropy of the charge diffusion, the momentum sector and the husk shear has exponent 0.00 to 0.01 (+- 0.00) over $k_c / 4$ to $k_c / 64$, holding at 1.84 (committed charge, D 11.9, 19.1, 0.27 on the husk axes) and 1.05 to 3.09 (combined), with an exact slab mode frozen along one husk axis, while the same matrices averaged over W(F4) give exponents 3.99 (charge) and 4.05 (trace) but 1.99 (shear) and over the husk cubic group 1.99 (charge) and 0.01 (shear): the fork stands physically, at leading order.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L2 (L2: known physics reproduced on a stated model).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/relativity/husk-anisotropy-order.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-RLT-0059",
+        "quote": null
+      }
+    ]
+  }
+}

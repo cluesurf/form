@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "c5ada155-e351-4330-bb12-10a4fa63c848",
+  "title": "E-GRV-0121: E-SPN-0105's moving level sources the rest level's 1/r in its own frame, pass: a five-anchor packet of...",
+  "purpose": "Experiment E-GRV-0121 in the gravity arena: E-SPN-0105's moving level sources the rest level's 1/r in its own frame, pass: a five-anchor packet of the held level at K = pi/4 and pi/2 (v 0.0238, 0.0297), run 64 beats by the working rule with both pieces and read co-moving at the stand-in's dE/dK, gives k 0.03052 and 0.02992 against the rest packet's 0.03058 (ratio 0.998, 0.978), the rest packet 0.95 to 1.00 of the point lump, E-GRV-0119's source reproduced exactly and E-GRV-0110's spreading source refused; no gamma: the source counts loves (3 units at every K) and gamma - 1 is 4e-4, while E(K)/E(0) rises 1.100, the band's rise; the 2 percent at pi/2 is the packet spreading faster there (width 1.87 against 1.71), not a contraction.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L2 (L2: known physics reproduced on a stated model).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/gravity/moving-level-depth.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-GRV-0121",
+        "quote": null
+      }
+    ]
+  }
+}

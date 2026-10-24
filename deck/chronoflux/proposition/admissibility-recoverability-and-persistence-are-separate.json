@@ -1,0 +1,50 @@
+{
+  "record": "proposition",
+  "id": "e5035c21-4202-4fb2-bf67-b72c721cd2ee",
+  "kind": "definitional",
+  "epistemic_status": "designed",
+  "title": "Admissibility, recoverability and persistence are three separate tests",
+  "statements": [
+    {
+      "id": "6f179fe1-b88c-421d-8f31-f2c2f491bc42",
+      "text": "Above the conserved root, admissibility decides which continuations are lawful, recoverability decides whether a later state identifies its antecedent, and persistence decides which identities endure. Conservation of one quantity can coexist with complete loss of state information.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "6f179fe1-b88c-421d-8f31-f2c2f491bc42",
+  "status": "active",
+  "voice": "framework",
+  "defines": "admissibility, recoverability and persistence",
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "a05d4fc7-5852-42dd-88a2-19366ffc522e",
+        "locator": "abstract",
+        "quote": "conservation of one quantity may coexist with complete loss of state information. Persistence is therefore neither conservation nor recoverability"
+      },
+      {
+        "source": "1cf60bbd-3fa2-4d65-8956-21024b44ab0b",
+        "locator": "abstract",
+        "quote": "Admissibility determines which continuations are lawful; Recoverability determines which structures survive their evolution; Persistence determines which recoverable structures endure sufficiently to constitute physical order."
+      }
+    ]
+  }
+}

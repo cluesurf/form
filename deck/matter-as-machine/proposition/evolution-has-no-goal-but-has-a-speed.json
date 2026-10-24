@@ -1,0 +1,50 @@
+{
+  "record": "proposition",
+  "id": "8341244b-abd0-47c5-ae5d-f95ca726629a",
+  "kind": "empirical",
+  "epistemic_status": "hypothesized",
+  "title": "Evolution has no goal but has a speed",
+  "statements": [
+    {
+      "id": "9f5016cd-c17e-49bf-8ed7-daf65f063848",
+      "text": "Evolution may have no goal, but it has a speed of adaptation and creation, and species that adapt faster are more likely to survive.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "9f5016cd-c17e-49bf-8ed7-daf65f063848",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "c30a21e7-3716-44f1-9aa7-cd010f6223db",
+        "locator": "opening",
+        "quote": "Evolution might have no goal, but it has speed."
+      },
+      {
+        "source": "c30a21e7-3716-44f1-9aa7-cd010f6223db",
+        "locator": "opening",
+        "quote": "Species that adapt faster survive with higher probability."
+      }
+    ]
+  }
+}

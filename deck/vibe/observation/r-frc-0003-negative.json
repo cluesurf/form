@@ -1,0 +1,39 @@
+{
+  "record": "observation",
+  "id": "028e3b2d-df85-4265-8e6b-cf960621c5cb",
+  "kind": "simulation_result",
+  "epistemic_status": "simulated",
+  "description": "Color on the knit: none before the three-trit model, the classical color group $\\Sigma(648)$ after it. The deterministic reversible lattice gas on the {3,4,3,4} honeycomb that ran before 2026-09-25, with ternary values per direction and a fixed pair-collision table, keeps exactly 2 of the 9 generators of U(3) (the charge and the overall phase), keeps no element of order three among 995,328 candidate symmetries, has no collision block joining three lines, and recovers none of it under coarse-graining. The three-trit knit adopted on 2026-09-25 gives every slot a point of $\\mathbb{Z}_3^2$, the phase space of one qutrit, and every link one of the 216 grid moves. All 648 elements of the Hessian group $\\Sigma(648) \\subset SU(3)$ act on that grid classically, and their quotient by the 3 central scalars is exactly the 216 grid moves, $\\mathrm{ASL}(2, 3)$, so $\\Sigma(648)$ is the determinant-1 lift of the qutrit Clifford group. An independent change of frame in every dock commutes exactly with the rule. With a neutral pair move and a store that hands an unmade pair its own tokens back, the knit makes pairs from calm and changes no dock's held color and no token's sign. The one gate outside the Clifford group is the fear beat, where two roles meet: with $\\Sigma(648)$ on each role it generates a group whose Lie algebra is all of $\\mathfrak{su}(9)$. The links hold a finite group, not the continuous SU(3).",
+  "method": "simulation",
+  "status": "reported",
+  "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+  "procedure": "96374b97-1872-419d-be2d-5bd004c03d5e",
+  "variable": null,
+  "value": null,
+  "unit": null,
+  "uncertainty": null,
+  "sample_size": null,
+  "replication_count": null,
+  "quality": null,
+  "limitations": "the color readings are made on the dock grid of the 4D bulk, on side-3 boxes, not read on the 3D husk (E-RLT-0067 states it). the held color is read on the pair-making isometric knit with the token-returning store (E-RLT-0067). The lone bounce collision and the coset-union vacuum the later experiments run (E-RLT-0084, E-RLT-0093) report no held-color reading, and the doublet-locked stream adopted on 2026-09-26 is not built. the store keeps 24 role points per dock beside its 12 store trits, registers beyond the three trits per slot (E-RLT-0067). $\\Sigma(648)$ is finite. Under a Wilson action with a $\\operatorname{Re} \\operatorname{Tr} U^2$ term it matches SU(3) at the $N_t = 4$ transition, and on the trajectories measured its spacing stops shrinking there (E-FRC-0103). that $\\Sigma(648)$ with any one element of SU(3) outside it generates a dense subgroup of SU(3) is a theorem from the classification of the finite subgroups of SU(3) (L5), not measured on the rule. Measured are the Lie algebras of two gate sets: $\\mathfrak{su}(3)$ from $\\Sigma(648)$ and the qutrit T gate, the method check of E-QTM-0118, and $\\mathfrak{su}(9)$ from $\\Sigma(648)$ on each role and the fear beat (E-QTM-0118, E-FRC-0127). density is not nearness. One fear beat between classical words gives no step finer than $\\Sigma(648)$, and the first word closer to the qutrit T gate than any classical element needs 4 fear beats, 0.362 against 0.395, at $2^8$ of grain (E-QTM-0101, E-QTM-0104). the negative half is the pre-2026-09-25 knit only, the turning weave of code/rule/collision.ts. For it, coarse variables other than block populations, spread three-vibe starts and windows beyond 8 beats are untested, and time-reversed and dock-dependent symmetries are excluded by design. What would overturn this finding: a counterexample in any of the exhaustive checks: an order-three symmetry of the knit before 2026-09-25, a held-color change on the three-trit knit, or a frame change that fails.",
+  "conflicts_of_interest": null,
+  "observed_at": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "research/result.ts R-FRC-0003",
+        "quote": null
+      }
+    ]
+  }
+}

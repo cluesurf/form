@@ -1,0 +1,28 @@
+{
+  "record": "link",
+  "id": "76d922b7-c99e-4a73-8a04-4e44fabf5c0c",
+  "from": "48281a30-7464-4f68-99a1-b6162d06014e",
+  "to": "94d1e6cc-101d-4e1b-9fc7-56d44571b271",
+  "relation": "answers",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "c3908a50-f858-42d6-8c6b-be810bd5a82f",
+        "locator": "abstract",
+        "quote": "On this view, consciousness is nothing more than inference about my future; namely, the self-evidencing consequences of what I could do."
+      }
+    ]
+  }
+}

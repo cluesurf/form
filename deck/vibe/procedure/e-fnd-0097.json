@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "ad5637fb-0b41-424c-84f0-9e0083efb2e8",
+  "title": "E-FND-0097: where CP violation lives, measured with the corrected half-step reversal on three generic states: the...",
+  "purpose": "Experiment E-FND-0097 in the foundations arena: where CP violation lives, measured with the corrected half-step reversal on three generic states: the momentum knit is textbook (C, P, CP exact symmetries, all four T combinations exact reversals), the committed charge knit is exactly T-reversible yet violates C, P and CP on every state (its clock runs matter and antimatter differently, Sakharov's C violation in the base rule) with no tested CPT-type conjugation exact, the traveller knit holds exactly the PT reversal while violating C and CP, and the naive reversal convention of E-FND-0011 is shown to pass only on its linear special state, so CP violation is measured and located in the clock-coupled sector.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L2 (L2: known physics reproduced on a stated model).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/foundations/cp-structure-of-the-knits.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-FND-0097",
+        "quote": null
+      }
+    ]
+  }
+}

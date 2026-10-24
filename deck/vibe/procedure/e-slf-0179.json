@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "93557fbf-87f5-47ae-b270-756c51c7e9f0",
+  "title": "E-SLF-0179: integration and binding between holes on R*'s many-hole engine, partial: the pair pieces move 0.97...",
+  "purpose": "Experiment E-SLF-0179 in the selves arena: integration and binding between holes on R*'s many-hole engine, partial: the pair pieces move 0.97 (three holes, L = 6) and 0.88 (four, L = 4) of the holes out of their start classes within 16 cycles, against 7.1e-14 and 2.4e-14 under the free rule, and build a connected pair correlation of 1.13 and 0.60 against 1.4e-13 and 4.9e-14; integration is partial only because four holes on L = 4 read below three on L = 6 (three on L = 4 read 0.885, so the drop is the torus, near saturation), and binding is partial because E-QTM-0154's frame-class read needs C*; 4d bulk torus, no ledger row held.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L2 (L2: known physics reproduced on a stated model).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/selves/register-selves.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-SLF-0179",
+        "quote": null
+      }
+    ]
+  }
+}

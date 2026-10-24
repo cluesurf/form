@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "72a7dba8-94a8-4823-9019-b582a193ae4b",
+  "title": "E-MTH-0022: $m_p / m_e$ against the powers of the {3,4,3,4} growth rate under the pre-registered null: lambda^3...",
+  "purpose": "Experiment E-MTH-0022 in the method arena: $m_p / m_e$ against the powers of the {3,4,3,4} growth rate under the pre-registered null: lambda^3, lambda^(5/2), 3 lambda^2 and 3 lambda^(5/2), the stand-in structures named in advance, miss 1836.15 by 22 to 233 percent and none is identified, while the budget refuses 6 $\\pi ^5$ (its null rate 1 at its own gap, though its bare named chance is 2e-4) and a fitted lambda^(31/12).",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L2 (L2: known physics reproduced on a stated model).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/method/mass-ratio-under-the-null.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-MTH-0022",
+        "quote": null
+      }
+    ]
+  }
+}

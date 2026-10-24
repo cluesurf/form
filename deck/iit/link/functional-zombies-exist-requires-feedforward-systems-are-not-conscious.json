@@ -1,0 +1,28 @@
+{
+  "record": "link",
+  "id": "d619b485-6b70-4f66-accf-65688ece176f",
+  "from": "f13d3c43-2948-4c0e-beac-1085c35c9802",
+  "to": "a50ae510-6e08-4e03-9c17-1674edf0b434",
+  "relation": "requires",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "ff525f31-2442-4b42-b21f-827bf3c74628",
+        "locator": "abstract",
+        "quote": "unconscious feed-forward systems that are functionally equivalent to conscious complexes."
+      }
+    ]
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "record": "proposition",
+  "id": "2deed526-26ff-44a6-b758-a7eaf6a04376",
+  "kind": "empirical",
+  "epistemic_status": "inferred",
+  "title": "Voluntary control is enabled by conscious goals and feedback",
+  "statements": [
+    {
+      "id": "3b9d029d-ff31-46df-ae44-2d2370f815fb",
+      "text": "Voluntary control is enabled by conscious goals and conscious perception of results, and conscious feedback can bring almost any neuronal population, even a single spinal motor unit, under control.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-23"
+    }
+  ],
+  "current_statement": "3b9d029d-ff31-46df-ae44-2d2370f815fb",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "27d49895-2a70-4caf-8a9d-44136817650c",
+        "locator": "prediction 5, p. 50",
+        "quote": "Voluntary control is enabled by conscious goals and perception of results."
+      }
+    ]
+  }
+}

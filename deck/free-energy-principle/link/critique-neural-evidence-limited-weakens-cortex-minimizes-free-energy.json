@@ -1,0 +1,28 @@
+{
+  "record": "link",
+  "id": "b092bac0-91f6-4b7f-872d-b9ddd1971a01",
+  "from": "3692a447-8d9d-4df2-ad6e-c7714ed84192",
+  "to": "de4ece67-abb5-4cf5-9f67-d376a867e846",
+  "relation": "weakens",
+  "strength": null,
+  "rationale": "The neural process theory behind this claim is criticized as lacking empirical support.",
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "cb5978a2-a9b7-46d4-9bc3-61a3f856f512",
+        "locator": "abstract",
+        "quote": "Although these predictive processing (PP) models have become increasingly influential in cognitive neuroscience, they are also criticized for lacking the empirical support to justify their status."
+      }
+    ]
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "84e0516c-1e1a-4281-a036-4e32a341c38c",
+  "title": "E-SPN-0150: a local Z3 link-flux string on the swap-coin rule cannot close the flipped-member leak (Gauss sees...",
+  "purpose": "Experiment E-SPN-0150 in the spin arena: a local Z3 link-flux string on the swap-coin rule cannot close the flipped-member leak (Gauss sees charge, not the member band) and binds no light composite, fail (L3, L4): the register records the path, so the pair walks on the 24-regular tree, where a tied member sits above the Kesten floor pi/2 - arcsin(rho cos m0) (measured 1.2170, 1.1688, 1.1636, 1.1604 at m0 0.524, 0.190, 0.143, 0.047); on the word box of length 4 the light level loses 0.499 in 256 beats (0.255 with no string) and its $K^2$ coefficient is negative (R -150), isotropic to 5e-7; the vacuum is exact with no flux, Gauss exact on every word, and the nonlocal E-SPN-0146 level reproduces bit for bit.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L2 (L2: known physics reproduced on a stated model).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/spin/swap-link-flux.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-SPN-0150",
+        "quote": null
+      }
+    ]
+  }
+}

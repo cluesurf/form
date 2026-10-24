@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "644d9c47-c8a3-4917-9ad3-ee213626233d",
+  "title": "E-GRV-0072: no distance from shared history on the working vacuum, fail on C2, C3 and C4: labeling every vibe...",
+  "purpose": "Experiment E-GRV-0072 in the gravity arena: no distance from shared history on the working vacuum, fail on C2, C3 and C4: labeling every vibe through the rule's own stream, coin permutation and pair move (the labeled beat equals the rule's on every beat of 10 runs, side 16) and counting meetings in a 12-beat window between the columns the met vibes now sit in, the relation reaches the whole side-16 torus in one window and does not fall with separation (axis 1 79, axis 2 70, axis 4 89, axis 8 80, body 8 at mesh 12 144, face 2 12, the same at T = 12, 24, 36, 48 and on all 5 starts), so the power, log and hop forms all miss the mesh distance (power rms 0.59) and it is not translation invariant (every calibration class 0 at some origin); the old knit control is the opposite, a relation that stops dead at mesh 3 (256, 128, then 0); the vacuum is a crystal in time, and a crystal's meeting pattern is not a metric.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L2 (L2: known physics reproduced on a stated model).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/gravity/shared-history-distance.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-GRV-0072",
+        "quote": null
+      }
+    ]
+  }
+}

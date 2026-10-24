@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "c327154c-2472-44d9-904d-87e26f3dcdd9",
+  "title": "E-QTM-0095: the $Z_3$ toric code on the {3,4,3,4} mesh complex, with the tone alphabet as the qutrit: oriented...",
+  "purpose": "Experiment E-QTM-0095 in the quantum arena: the $Z_3$ toric code on the {3,4,3,4} mesh complex, with the tone alphabet as the qutrit: oriented vertex and triangle checks over the field of three elements commute exactly, and the number of logical qutrits by rank over $Z_3$ is four per four-torus (four at side 3, eight at the split even side 4) and zero on an open patch.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L2 (L2: known physics reproduced on a stated model).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/quantum/qutrit-toric-code-from-the-mesh.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-QTM-0095",
+        "quote": null
+      }
+    ]
+  }
+}

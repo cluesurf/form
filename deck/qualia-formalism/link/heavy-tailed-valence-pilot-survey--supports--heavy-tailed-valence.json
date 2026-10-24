@@ -1,0 +1,28 @@
+{
+  "record": "link",
+  "id": "2567766f-7066-4d81-8ab0-8773add16345",
+  "from": "2aebf191-5adf-4e2f-830f-5f3e0dfd96e3",
+  "to": "18e77377-2c12-427e-9ff2-70cd2c328f05",
+  "relation": "supports",
+  "strength": 0.3,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "85b7eae8-271a-41ee-9c3c-3c2ad6eae62f",
+        "locator": "abstract and results",
+        "quote": "over half of respondents said their most intense experiences were at least twice as intense as the second most intense"
+      }
+    ]
+  }
+}

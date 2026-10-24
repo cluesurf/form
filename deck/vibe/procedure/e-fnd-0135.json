@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "3197eb6f-d132-4669-ac5d-f83fd66971d9",
+  "title": "E-FND-0135: the Kac mass table over every direction shows mass respecting the schedule residual symmetry (the...",
+  "purpose": "Experiment E-FND-0135 in the foundations arena: the Kac mass table over every direction shows mass respecting the schedule residual symmetry (the exact-ladder rest pair, which is a line of charge-conjugate opposites, returns identical telegraph records to the integer, and moving species pair near-degenerately with their mirror partners, the one-flipped-coordinate directions), an exact massless floor after lap-dip accounting (exactly three isolated wrap dips each and nothing else), and a genuine hierarchy with the heaviest well-measured species more than twice the lightest, the model mass spectrum from flip counting with one rule and one measured constant.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L2 (L2: known physics reproduced on a stated model).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/foundations/kac-mass-table.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-FND-0135",
+        "quote": null
+      }
+    ]
+  }
+}

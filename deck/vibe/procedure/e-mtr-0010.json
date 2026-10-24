@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "094eabdf-4a0e-4a7d-9440-8968fd165a18",
+  "title": "E-MTR-0010: shells with stand-ins: stand-in electrons in one fixed stand-in nucleus on the husk, filled in their own...",
+  "purpose": "Experiment E-MTR-0010 in the quantum arena: shells with stand-ins: stand-in electrons in one fixed stand-in nucleus on the husk, filled in their own Fermi-Amaldi mean field, one per orbital (the model has no spin) and two per orbital by hand, against the 2 $n^2$ rule, the Madelung n + l order and the closures at 2, 10 and 18.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L2 (L2: known physics reproduced on a stated model).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/quantum/standin-shells.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-MTR-0010",
+        "quote": null
+      }
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "record": "link",
+  "id": "247f93eb-d909-4827-92b1-6d862f6c638c",
+  "from": "f5374366-eaec-469a-8412-79211615dc68",
+  "to": "7ca04adb-3d95-42a3-9138-3ed6fc9b33a9",
+  "relation": "defines",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "27d49895-2a70-4caf-8a9d-44136817650c",
+        "locator": "p. 47",
+        "quote": "conscious functions are studied experimentally by comparison with closely matched unconscious processes, an approach I have called ‘contrastive analysis’"
+      }
+    ]
+  }
+}

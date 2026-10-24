@@ -1,0 +1,28 @@
+{
+  "record": "link",
+  "id": "3c99be83-0bab-4c08-89a4-70406418752a",
+  "from": "bfea6bd6-b8c9-44e5-938d-61bbd85e353d",
+  "to": "14227052-a013-4d2a-993f-2e4705aa009a",
+  "relation": "requires",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "8ed62dfe-4468-4f53-9b70-f009ba2dbe4f",
+        "locator": "p. 565, abstract",
+        "quote": "'interoceptive inference' conceives of subjective feeling states (emotions) as arising from actively-inferred generative (predictive) models of the causes of interoceptive afferents"
+      }
+    ]
+  }
+}

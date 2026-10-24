@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "f9b61e8a-5629-4b5f-8ef2-078b2824dfbe",
+  "title": "E-QTM-0181: explores whether, with a bound pair and its light run as one exact quantum dynamics in the plane (Gauss...",
+  "purpose": "Experiment E-QTM-0181 in the quantum arena: explores whether, with a bound pair and its light run as one exact quantum dynamics in the plane (Gauss solved, the transverse light quantized, the exact Peierls phase), the moving light adds to the pair's inertia only beyond the static pull plus the Darwin exchange ($R_b - R_a$ falling as $a_B^{-2}$), the power-counting claim that set the 3d run aside.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L2 (L2: known physics reproduced on a stated model).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/quantum/plane-pair-light.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-QTM-0181",
+        "quote": null
+      }
+    ]
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "cf076940-a005-45aa-934b-f643b2465e51",
+  "title": "E-QTM-0083: on the genuine {3,4,3,4} tessellation the shared past never reaches the Tsirelson threshold at any...",
+  "purpose": "Experiment E-QTM-0083 in the quantum arena: on the genuine {3,4,3,4} tessellation the shared past never reaches the Tsirelson threshold at any separation (critical separation zero), while the flat {3,4,3,4} reaches it at short range, so the quantum correlation is not locally reachable on the real curved substrate.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L2 (L2: known physics reproduced on a stated model).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/quantum/critical-separation-genuine.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-QTM-0083",
+        "quote": null
+      }
+    ]
+  }
+}

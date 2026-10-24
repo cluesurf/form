@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "e4effb80-284c-4b31-9e3b-88962e21c6e5",
+  "title": "E-SLF-0120: coherent self-patches emerge on the exact {5,3,4}, far larger than random, with a size hierarchy",
+  "purpose": "Experiment E-SLF-0120 in the selves arena: coherent self-patches emerge on the exact {5,3,4}, far larger than random, with a size hierarchy.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L3 (L3: one base rule produced the result as a measured consequence, with a computed control that could have failed).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/selves/selves-at-scale.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-SLF-0120",
+        "quote": null
+      }
+    ]
+  }
+}

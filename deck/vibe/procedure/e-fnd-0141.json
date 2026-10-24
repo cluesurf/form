@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "9ad7a400-b72f-4449-907d-70a5889c8571",
+  "title": "E-FND-0141: the pairwise-overlap matrix of settled species has measured texture zeros: the massless species and the...",
+  "purpose": "Experiment E-FND-0141 in the foundations arena: the pairwise-overlap matrix of settled species has measured texture zeros: the massless species and the heavy species overlap every partner at exactly zero shared cells while allowed pairs share exactly one or two cells at overlaps near a tenth, the mechanism (corrected in the notes after a pre-registered falsification of the plane reading) being seed-remnant persistence, so the coupling TEXTURE of the flavor sector is derivable from species dynamics while the magnitudes stay free, splitting the flavor puzzle exactly along the line the programme converged mass verdicts drew.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L2 (L2: known physics reproduced on a stated model).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/foundations/overlap-texture.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-FND-0141",
+        "quote": null
+      }
+    ]
+  }
+}

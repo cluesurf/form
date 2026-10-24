@@ -1,0 +1,28 @@
+{
+  "record": "link",
+  "id": "029c40f1-3e1d-4b3a-aa34-f19a0c8f3c67",
+  "from": "77b3dfc0-77eb-4047-8602-516a8a17905a",
+  "to": "e595ee22-6aa5-45a9-8f62-c144ba618969",
+  "relation": "implies",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "fd7382f9-52a5-4beb-9680-fc341ff15b98",
+        "locator": "Table 3",
+        "quote": "Bodies consist of components which are themselves competent (goal-seeking modules that navigate their own spaces) and can achieve specific outcomes despite perturbations and changing conditions."
+      }
+    ]
+  }
+}

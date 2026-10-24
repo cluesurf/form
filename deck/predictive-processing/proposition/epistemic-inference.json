@@ -1,0 +1,45 @@
+{
+  "record": "proposition",
+  "id": "c1428d6e-5f9f-4693-bcf6-d773aaba03a9",
+  "kind": "definitional",
+  "epistemic_status": "designed",
+  "title": "Epistemic inference",
+  "statements": [
+    {
+      "id": "dc1635db-7bbc-44b9-9e54-ed1cd625936f",
+      "text": "Epistemic inference is active inference whose actions gather information that improves the predictive model.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-23"
+    }
+  ],
+  "current_statement": "dc1635db-7bbc-44b9-9e54-ed1cd625936f",
+  "status": "active",
+  "voice": "framework",
+  "defines": "epistemic inference",
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "bfa85443-4b77-43f1-b5f2-ec1850a4bc3c",
+        "locator": "accepted manuscript p. 9",
+        "quote": "Epistemic inference prescribes 'information-gathering' actions that enhance the predictive capabilities of a model"
+      }
+    ]
+  }
+}

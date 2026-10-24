@@ -1,0 +1,28 @@
+{
+  "record": "link",
+  "id": "71a32e06-0947-475d-890f-168efd1a8791",
+  "from": "31c42040-6588-4962-bca8-36412f5fba08",
+  "to": "e01100d6-c62b-4840-a9d6-63e449c5658b",
+  "relation": "requires",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "8443eb2e-406e-4acc-94e8-33cbabbd3679",
+        "locator": "section \"Postulates of physical existence\" (full text)",
+        "quote": "Its cause–effect power must be structured"
+      }
+    ]
+  }
+}

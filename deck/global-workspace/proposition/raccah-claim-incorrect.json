@@ -1,0 +1,45 @@
+{
+  "record": "proposition",
+  "id": "ea7c271e-d880-4aa6-aa69-8bd97bdf40f3",
+  "kind": "empirical",
+  "epistemic_status": "inferred",
+  "title": "Prefrontal cortex does support consciousness",
+  "statements": [
+    {
+      "id": "68588f70-575c-4e56-94c2-291148ff5257",
+      "text": "The claim that the prefrontal cortex does not support consciousness is incorrect: prefrontal and posterior regions both support dynamic workspace functions.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-23"
+    }
+  ],
+  "current_statement": "68588f70-575c-4e56-94c2-291148ff5257",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "c50dac1f-5b63-4762-b48b-a46d0e5eee46",
+        "locator": "abstract",
+        "quote": "Raccah et al.'s claim that the prefrontal cortex (PfC) does not support consciousness is incorrect"
+      }
+    ]
+  }
+}

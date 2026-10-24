@@ -1,0 +1,28 @@
+{
+  "record": "link",
+  "id": "75b08fb2-291a-434f-8fb2-37e72be693ea",
+  "from": "4bcb041b-bd75-4a05-a0b2-bf3fd4fa3c40",
+  "to": "37e969ce-ab97-477c-954f-693add36d4db",
+  "relation": "weakens",
+  "strength": null,
+  "rationale": "If the principle is not itself testable, the critique holds that its replies to counterexamples cannot be checked.",
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "c9c5835d-7979-407c-992f-7ec84ebe5472",
+        "locator": "accepted manuscript p. 1, summarizing Sun and Firestone",
+        "quote": "standard responses to this challenge have the potential to render the PP account untestable and explanatorily empty"
+      }
+    ]
+  }
+}

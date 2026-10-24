@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "864f04ae-d015-491a-87d9-054d5de722da",
+  "title": "E-FRC-0124: color charge is an exact local law in the three-trit model if and only if the line table has no hop: of...",
+  "purpose": "Experiment E-FRC-0124 in the gauge arena: color charge is an exact local law in the three-trit model if and only if the line table has no hop: of the 16 sum-keeping tables that create pairs from calm, only the hop-free ones admit it, with a calm slot's role point counted as color signed by its side, and the color weave built on one conserves every cell's color on every beat with charge, Gauss's law, reversal and frame change exact.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L1 (L1: known mathematics, correctly confirmed).",
+  "status": "completed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/gauge/color-is-local.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "research/result.ts R-FRC-0003",
+        "quote": null
+      }
+    ]
+  }
+}

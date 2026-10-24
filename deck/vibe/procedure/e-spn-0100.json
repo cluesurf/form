@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "d3004ba6-00a6-43d9-b931-16dac19e850f",
+  "title": "E-SPN-0100: the lowest fracton rung was the frozen key's: on a full-period key a lone vibe is already a lineon, fail...",
+  "purpose": "Experiment E-SPN-0100 in the spin arena: the lowest fracton rung was the frozen key's: on a full-period key a lone vibe is already a lineon, fail on F1 and F5: with no mixer on two full-key paths (side 16) a lone love stays on its one mesh line but runs 8 dock steps, half the box (on the registered key it stays within 2, wake at most 3); two meeting loves stay on their two lines and run 8 steps, 'pass' and 'bounce' agreeing beat for beat; 434 and 436 of 528 two-vibe seeds reach lines off their own on side 8, quiet (largest wake 62 and 61; old key 442 and 59); the 6+8 and 14+18 clusters stay bounded for 128 beats (wake at most 105) on exactly 10 lines off their own, but reach them over about 48 beats, not by beat 16 (old key: 5 of 10 by beat 16, so 'by beat 7' was never the record); on 'bounce' no line is reached.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L2 (L2: known physics reproduced on a stated model).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/spin/fracton-hierarchy.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-SPN-0100",
+        "quote": null
+      }
+    ]
+  }
+}

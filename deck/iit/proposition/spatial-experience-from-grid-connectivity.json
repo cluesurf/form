@@ -1,0 +1,45 @@
+{
+  "record": "proposition",
+  "id": "81b3a047-3ca5-4a22-a2aa-c1d8e961f0ae",
+  "kind": "empirical",
+  "epistemic_status": "hypothesized",
+  "title": "Experienced space is supported by grid-like cortex",
+  "statements": [
+    {
+      "id": "daee8507-3697-4acd-915b-c3466ff6f600",
+      "text": "Experience of space is supported by brain areas whose units are linked by grid-like connectivity, such as much of posterior cortex, because a grid yields a cause-effect structure with the properties of spatial experience.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-23"
+    }
+  ],
+  "current_statement": "daee8507-3697-4acd-915b-c3466ff6f600",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "12c87943-a0d5-4ab6-b179-9c3bd1bbff77",
+        "locator": "abstract",
+        "quote": "These results uphold the hypothesis that our experience of space is supported by brain areas whose units are linked by a grid-like connectivity."
+      }
+    ]
+  }
+}

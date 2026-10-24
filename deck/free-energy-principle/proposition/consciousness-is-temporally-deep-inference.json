@@ -1,0 +1,50 @@
+{
+  "record": "proposition",
+  "id": "0a4a5239-082a-440f-8035-78e5625314d5",
+  "kind": "philosophical",
+  "epistemic_status": "hypothesized",
+  "title": "Consciousness is self-evidencing with temporal depth",
+  "statements": [
+    {
+      "id": "48e1bf02-f125-430c-baa1-237e6b05fd05",
+      "text": "Mind comes into being when self-evidencing has temporal thickness or counterfactual depth, grounding inferences about the consequences of one's own action. On this view consciousness is inference about one's own future.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-23"
+    }
+  ],
+  "current_statement": "48e1bf02-f125-430c-baa1-237e6b05fd05",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "c3908a50-f858-42d6-8c6b-be810bd5a82f",
+        "locator": "abstract",
+        "quote": "The proposal on offer here is that the mind comes into being when self-evidencing has a temporal thickness or counterfactual depth, which grounds inferences about the consequences of my action."
+      },
+      {
+        "source": "c3908a50-f858-42d6-8c6b-be810bd5a82f",
+        "locator": "abstract",
+        "quote": "On this view, consciousness is nothing more than inference about my future; namely, the self-evidencing consequences of what I could do."
+      }
+    ]
+  }
+}

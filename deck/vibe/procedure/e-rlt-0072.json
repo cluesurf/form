@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "151e5925-7600-4d91-b76f-4059135c2f66",
+  "title": "E-RLT-0072: the hot vacuum's orientation reaches a gas's collisions (vibe rows at the three-body rho^2, store rows...",
+  "purpose": "Experiment E-RLT-0072 in the relativity arena: the hot vacuum's orientation reaches a gas's collisions (vibe rows at the three-body rho^2, store rows at order 1, the wake) but not its husk transport at leading order at any density from 1/64 to 0.7: every husk anisotropy tracks the isotropic control and falls with k, fail on the two hypotheses that predicted the slope range and a leak.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L2 (L2: known physics reproduced on a stated model).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/relativity/three-body-leak.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-RLT-0072",
+        "quote": null
+      }
+    ]
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "record": "proposition",
+  "id": "7bb9e382-e9d8-474b-9cd5-8b8c0f75e78e",
+  "kind": "definitional",
+  "epistemic_status": "designed",
+  "title": "The real problem of consciousness",
+  "statements": [
+    {
+      "id": "69b52cdf-c991-4ed0-b4db-d6058ec0d3cf",
+      "text": "The real problem of consciousness is to explain, predict and control the properties of experience in terms of biological mechanisms, without denying experience exists and without first explaining why it exists.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-23"
+    }
+  ],
+  "current_statement": "69b52cdf-c991-4ed0-b4db-d6058ec0d3cf",
+  "status": "active",
+  "voice": "framework",
+  "defines": "real problem of consciousness",
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "96bb39b7-0703-4f5d-8e5f-74c65d976742",
+        "locator": "paragraph introducing the real problem",
+        "quote": "how to account for the various properties of consciousness in terms of biological mechanisms"
+      }
+    ]
+  }
+}

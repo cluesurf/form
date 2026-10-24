@@ -1,0 +1,28 @@
+{
+  "record": "link",
+  "id": "d00de5c4-bc13-45bb-8221-24c2d7ca46a0",
+  "from": "399e4062-5c7c-4592-aebd-676e29f22127",
+  "to": "7f8bf988-3713-4e96-9aa2-376dbed8f107",
+  "relation": "weakens",
+  "strength": null,
+  "rationale": "Penrose concedes the technical slips Feferman found but argues they do not touch his central argument.",
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "624a9ed2-fec0-46bb-849a-a17faf39b6d6",
+        "locator": "section 2.1",
+        "quote": "Feferman quite correctly draws attention to some inaccuracies in Shadows with regard to certain logical technicalities."
+      }
+    ]
+  }
+}

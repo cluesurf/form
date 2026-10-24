@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "7fd35c71-13f3-47a7-b856-5b5d122546fe",
+  "title": "E-FRC-0231: a single quantum of light that travels: on the plaquette ladder with every flux a column of trits, the...",
+  "purpose": "Experiment E-FRC-0231 in the gauge arena: a single quantum of light that travels: on the plaquette ladder with every flux a column of trits, the one-quantum band sits on the classical E~ light's symbol omega(k) to a precision that grows with the column, a quantum made by one square's loop spreads its energy as its classical image does, Gauss's law holds factor by factor with a charge on the full register space, and the rule runs back exactly.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L2 (L2: known physics reproduced on a stated model).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/gauge/ladder-single-quantum.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-FRC-0231",
+        "quote": null
+      }
+    ]
+  }
+}

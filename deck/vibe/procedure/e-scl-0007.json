@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "afac87f5-9282-474d-abf6-2eca3c398a6d",
+  "title": "E-SCL-0007: a renormalized macro-rule emerges on tone-independent blocks in the ordered regime and fails when frustrated",
+  "purpose": "Experiment E-SCL-0007 in the renormalization arena: a renormalized macro-rule emerges on tone-independent blocks in the ordered regime and fails when frustrated.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L3 (L3: one base rule produced the result as a measured consequence, with a computed control that could have failed).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/renormalization/emergent-macro-rule.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-SCL-0007",
+        "quote": null
+      }
+    ]
+  }
+}

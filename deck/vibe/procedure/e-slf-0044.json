@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "cf2affa7-8a4a-45e8-be9c-537e34edd219",
+  "title": "E-SLF-0044: a self emerges by cohesion and conserving maintenance holds it against decay",
+  "purpose": "Experiment E-SLF-0044 in the selves arena: a self emerges by cohesion and conserving maintenance holds it against decay.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L3 (L3: one base rule produced the result as a measured consequence, with a computed control that could have failed).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/selves/emergent-self-robust.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-SLF-0044",
+        "quote": null
+      }
+    ]
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "75d39995-7b15-44e6-8bf5-191e3e0acd1f",
+  "title": "E-SBT-0006: a boundary-free closed hyperbolic lattice, the Cayley graph of PSL(2,7), removes the all-boundary confound",
+  "purpose": "Experiment E-SBT-0006 in the substrate-survey arena: a boundary-free closed hyperbolic lattice, the Cayley graph of PSL(2,7), removes the all-boundary confound.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L1 (L1: known mathematics, correctly confirmed).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/substrate-survey/closed-manifold.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-SBT-0006",
+        "quote": null
+      }
+    ]
+  }
+}

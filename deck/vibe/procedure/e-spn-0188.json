@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "d658f7ea-e7ff-4ed0-a370-38c4329606e0",
+  "title": "E-SPN-0188: the E . B wall pump of the register rule is quantized, pass: member number moves +4 per loop on one wall...",
+  "purpose": "Experiment E-SPN-0188 in the spin arena: the E . B wall pump of the register rule is quantized, pass: member number moves +4 per loop on one wall and -4 on the other under five deformations that keep the bulk gap open (a Wilson unit with rest mass 0.48 in place of 0.76, flux 1/9 in place of 1/15, another loop through the magnetic zone, depth 16 in place of 12, the wall moved off center), each count certified complete with eigen residuals at most 5.9e-12, and it drops to 0 on both walls when the Wilson unit is moved past the exact ring unit where the bulk gap closes at rest, so the count is an index of the bulk and changes only where the gap closes; it is one-body and not yet a Hall conductance.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L2 (L2: known physics reproduced on a stated model).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/spin/wall-pump-deformation.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-SPN-0188",
+        "quote": null
+      }
+    ]
+  }
+}

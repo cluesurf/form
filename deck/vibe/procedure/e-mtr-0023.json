@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "b0428957-b3d7-4340-8394-61d218eec2ca",
+  "title": "E-MTR-0023: one light speed: a token that copies its whole amplitude has a light cone the photon's leapfrog never...",
+  "purpose": "Experiment E-MTR-0023 in the relativity arena: one light speed: a token that copies its whole amplitude has a light cone the photon's leapfrog never shares at every depth (no beat schedule can match sqrt(4 / (3 (2D + 1)))), and a lazy root token, a STAND-IN whose coin reflects about the column's zero-momentum state over 9 (2D + 1) ports with the 24 roots copying, has the photon's husk light speed at every D by Szegedy's theorem, with no knob.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L2 (L2: known physics reproduced on a stated model).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/matter/one-light-speed.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-MTR-0023",
+        "quote": null
+      }
+    ]
+  }
+}

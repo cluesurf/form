@@ -1,0 +1,28 @@
+{
+  "record": "link",
+  "id": "9c01d2ac-3e7c-42b7-beb5-f972ed0859be",
+  "from": "eefdca41-c999-4c83-bf3c-8c95eaabcfb3",
+  "to": "332e575d-d3e2-4a8c-9c1c-fea529b4eb00",
+  "relation": "requires",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "fd7382f9-52a5-4beb-9680-fc341ff15b98",
+        "locator": "section Consciousness",
+        "quote": "systems that operate in morphogenetic, transcriptional, and other spaces should also have some (if very minimal) degree of consciousness"
+      }
+    ]
+  }
+}

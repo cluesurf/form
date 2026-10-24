@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "128bdc39-c6a0-45ed-b12b-230d689a313f",
+  "title": "E-SPN-0149: on one line the local Z3 link-flux string is the instantaneous separation cost bit for bit (Gauss leaves...",
+  "purpose": "Experiment E-SPN-0149 in the spin arena: on one line the local Z3 link-flux string is the instantaneous separation cost bit for bit (Gauss leaves the flux no freedom; 6,516 columns and 32 beats equal, Gauss on every branch), so candidate (ii) has no separate existence in 1d, pass: on the continuum path the meson R_total - 1 falls as $n^{-2.08}$ (the lattice mass tan m/m, 1.0016 at n = 16), binding with $E_b / m$ up to 0.4 moves R by at most 1.4e-3 while the positive-branch potential model stays 1.6 to 3% low, and the large strong-string excursions (R 0.35 to 1.03) are Klein crossings; the missing inertia of an instantaneous string in d > 1 is derived to be the string transverse inertia (2 - 2/d) T.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L2 (L2: known physics reproduced on a stated model).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/spin/line-flux-string.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-SPN-0149",
+        "quote": null
+      }
+    ]
+  }
+}

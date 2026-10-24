@@ -1,0 +1,28 @@
+{
+  "record": "link",
+  "id": "7f72e947-c0ed-4cd2-97f2-a3f061dbba18",
+  "from": "a0aa019c-6c65-43dd-adf7-880400752012",
+  "to": "eefdca41-c999-4c83-bf3c-8c95eaabcfb3",
+  "relation": "requires",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "fd7382f9-52a5-4beb-9680-fc341ff15b98",
+        "locator": "section Consciousness",
+        "quote": "an agent, such as a typical modern human, is really a patchwork of many diverse consciousnesses"
+      }
+    ]
+  }
+}

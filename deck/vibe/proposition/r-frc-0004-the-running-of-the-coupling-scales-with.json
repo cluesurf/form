@@ -1,0 +1,50 @@
+{
+  "record": "proposition",
+  "id": "b8740861-ecae-40da-b89f-2843c912fb08",
+  "kind": "empirical",
+  "epistemic_status": "simulated",
+  "title": "R-FRC-0004: The running of the coupling scales with the gluon color charge",
+  "statements": [
+    {
+      "id": "67efc7b5-4621-4161-9423-b2cd400c7273",
+      "text": "In Wilson loops the effective coupling grows with distance at $\\alpha + \\kappa C_A$, with $\\kappa$ the same from SU(2), SU(3) and SU(4), and adjoint and fundamental sources rising at the same rate, which excludes a running proportional to the source charge.",
+      "language": "en",
+      "scope": "lattice gauge theory. status simulated. category reproduction (an established result recovered, by a method brought in from outside. Worth: evidence the machinery works. Not evidence that nature uses it). depth L2 (L2: known physics reproduced on a stated model)",
+      "conditions": "Limits: nothing about the knit. one coupling per group. Launch gate. Pass: quantitative, auditable. Fail: prior_art_reviewed, novel, derived, differentiating, falsifiable, skeptic_reviewed, independently_reproduced. Unknown: interesting. Novelty: known. Free parameters: 0. Fitted: false. Known before: true.",
+      "falsification_criteria": "a reproduction failure",
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-22"
+    }
+  ],
+  "current_statement": "67efc7b5-4621-4161-9423-b2cd400c7273",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": "62bc7e74-eb1f-4bfb-9dfa-2d1dd1994bc3",
+  "prediction": null,
+  "standing": {
+    "value": "open",
+    "reason": "holds in the vibe claim graph",
+    "basis": [],
+    "proposal": null
+  },
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "research/result.ts R-FRC-0004",
+        "quote": null
+      }
+    ]
+  }
+}

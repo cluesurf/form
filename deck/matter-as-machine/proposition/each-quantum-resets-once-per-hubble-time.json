@@ -1,0 +1,50 @@
+{
+  "record": "proposition",
+  "id": "289ebd96-3b2e-427e-9ad2-aae40d96fd10",
+  "kind": "empirical",
+  "epistemic_status": "hypothesized",
+  "title": "Each quantum resets once per Hubble time",
+  "statements": [
+    {
+      "id": "25834906-7977-4c71-970b-c5463c040696",
+      "text": "Every quantum of matter undergoes a reset event once every $1/H_0$ seconds, where $H_0$ is the Hubble constant, a slow annihilation of matter at that rate. The events are spread out in time across quanta, not simultaneous for all matter.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "25834906-7977-4c71-970b-c5463c040696",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "db353f68-4e44-4edf-9c3b-89c4dc2c48b2",
+        "locator": "opening",
+        "quote": "they do not happen simultaneously for all matter."
+      },
+      {
+        "source": "a596f291-39bf-422a-8498-4220cf4834bb",
+        "locator": "second paragraph",
+        "quote": "slow annihilation of matter with speed H0."
+      }
+    ]
+  }
+}

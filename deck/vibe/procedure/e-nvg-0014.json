@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "f76d9203-dc1d-4477-a749-ae81335d3777",
+  "title": "E-NVG-0014: the committed rule runs on a label-consistent {3,4,3,4} ball (the antipodal transport closes with zero...",
+  "purpose": "Experiment E-NVG-0014 in the addressing arena: the committed rule runs on a label-consistent {3,4,3,4} ball (the antipodal transport closes with zero holonomy on 162,049 cells where the translation-like one fails), routes a perturbation along rays no faster than one cell per beat, and between cells of one cusp gets no bulk shortcut: the cell-graph distance equals the flat skin distance at every sampled cell to skin 8 while the continuum hyperbolic distance between the same centers grows only from 1.76 to 5.18, an honest negative for recall through the bulk along a cusp, and robust: 832 of 832 layer cells to skin 8, every separation by a step certificate, three sources to all 24 cusps, an absorbing frontier as well as a reflecting one, and orientation flips that are forced and route no differently from a relabelling.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L2 (L2: known physics reproduced on a stated model).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/addressing/cusp-routing-is-flat.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-NVG-0014",
+        "quote": null
+      }
+    ]
+  }
+}

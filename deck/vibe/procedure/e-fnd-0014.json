@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "596ec1e0-b967-44f0-a0f3-7a9f170a9338",
+  "title": "E-FND-0014: the rule is a spin-1 charge-conserving reversible exchange model",
+  "purpose": "Experiment E-FND-0014 in the foundations arena: the rule is a spin-1 charge-conserving reversible exchange model.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L1 (L1: known mathematics, correctly confirmed).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/foundations/doi-peliti-check.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-FND-0014",
+        "quote": null
+      }
+    ]
+  }
+}

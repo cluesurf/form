@@ -1,0 +1,28 @@
+{
+  "record": "link",
+  "id": "b4752a60-158c-4200-867b-7dcd67128b9a",
+  "from": "71ea40ca-3421-48f9-b178-858f19b22c27",
+  "to": "32cf0642-658a-40ab-b2a9-73a0f0d37f38",
+  "relation": "requires",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "0106999c-ce99-4816-800a-819a3635b0f4",
+        "locator": "abstract",
+        "quote": "show that QECC-induced spacetimes provide the classical redundancy required for LOCC"
+      }
+    ]
+  }
+}

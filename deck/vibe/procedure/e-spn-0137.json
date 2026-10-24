@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "4c07f54b-5a54-467d-bfcc-30887ef40ee2",
+  "title": "E-SPN-0137: a line-liquid vacuum exists but cannot help, open (L1 pass, L2 undecided on the window): the working...",
+  "purpose": "Experiment E-SPN-0137 in the spin arena: a line-liquid vacuum exists but cannot help, open (L1 pass, L2 undecided on the window): the working vacuum stores one whole frame of pairs on 3 docks in 4 and is rigid (0 of 12,288 one-dock rearrangements keep condition Z and the 12-beat period), so its only frame-invariant stationary states are superpositions of its 1,152 W(F4) images, which sit at least 144 of 256 docks apart; the symmetric Floquet sum over them has overlap 1 after 64 beats, 0 single lines and 0 gated docks, and is unchanged by 6 generators of W(F4); every mixer is the identity on any vacuum, so the cascade is matter unpairing vacuum vibes, and since the images never interfere a love on the liquid sees a classical mixture of fixed vacua, where E-SPN-0121's cascade is reproduced (lone love footprint 4,095 of 4,096 at beat 128, 6 at rate 0); a one-point occupation stand-in equal to the rule's occupation on keyed paths (0 differences over 64 beats) reaches 5 coherent beats at rate 0 (3,070 terms, the lineon exact: one mesh line, across-line moduli equal to 1e-16) and 3 at rate 3 (34,958 terms, 0.90 of the weight with one line off tone, coherent and decoherent readings identical), far short of the 48 beats a Floquet level needs; the route needs a new vacuum, not this one superposed.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L1 (L1: known mathematics, correctly confirmed).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/spin/line-liquid-vacuum.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-SPN-0137",
+        "quote": null
+      }
+    ]
+  }
+}

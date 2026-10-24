@@ -1,0 +1,45 @@
+{
+  "record": "proposition",
+  "id": "102d84fd-a709-466c-8fe2-e23cc9d957fd",
+  "kind": "mathematical",
+  "epistemic_status": "inferred",
+  "title": "The holographic principle follows from quantum information theory",
+  "statements": [
+    {
+      "id": "1398b37f-83ce-45b2-bc52-0684c23fb1d6",
+      "text": "The holographic principle is not a law that stands by itself but a direct consequence of the quantum information theory of separable systems, with Bousso’s covariant form a special case.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-23"
+    }
+  ],
+  "current_statement": "1398b37f-83ce-45b2-bc52-0684c23fb1d6",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b187d010-15da-4476-b407-2a7922c1dcf1",
+        "locator": "abstract",
+        "quote": "the holographic principle (HP) is a straightforward consequence of the quantum information theory of separable systems"
+      }
+    ]
+  }
+}

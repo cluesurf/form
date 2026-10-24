@@ -1,0 +1,28 @@
+{
+  "record": "link",
+  "id": "3c61195b-2aef-459b-b0c5-bdd99cbf6cb5",
+  "from": "0cf80ed8-5c76-437e-8d73-71a1bb218db3",
+  "to": "46c7d927-a1f0-4b92-99d4-33ac02902824",
+  "relation": "assumes",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "8443eb2e-406e-4acc-94e8-33cbabbd3679",
+        "locator": "section \"Axioms of phenomenal existence\" (full text)",
+        "quote": "Experience is structured: it is composed of distinctions and the relations that bind them together, yielding a phenomenal structure that feels the way it feels."
+      }
+    ]
+  }
+}

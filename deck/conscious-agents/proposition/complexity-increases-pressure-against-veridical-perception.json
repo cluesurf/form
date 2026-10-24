@@ -1,0 +1,45 @@
+{
+  "record": "proposition",
+  "id": "ac70c2dc-204a-4d1b-8531-1b9ad5914816",
+  "kind": "mathematical",
+  "epistemic_status": "inferred",
+  "title": "Complexity increases selection pressure against veridical perception",
+  "statements": [
+    {
+      "id": "c60ea81b-61e0-482a-9df8-302a51416fa4",
+      "text": "Increasing the complexity of objective reality, of perceptual systems, or of the temporal dynamics of fitness functions increases the selection pressure against veridical perception.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-23"
+    }
+  ],
+  "current_statement": "c60ea81b-61e0-482a-9df8-302a51416fa4",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "15e904a9-b714-4166-a1df-29884230fe2a",
+        "locator": "abstract, lines 16-18",
+        "quote": "increases the selection pressures against veridical perceptions"
+      }
+    ]
+  }
+}

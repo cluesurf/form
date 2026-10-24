@@ -1,0 +1,45 @@
+{
+  "record": "proposition",
+  "id": "2286e756-dd38-4b3e-86d0-f386f9aaeb61",
+  "kind": "empirical",
+  "epistemic_status": "inferred",
+  "title": "The inanimate universe is one entangled whole",
+  "statements": [
+    {
+      "id": "e91c9a3d-fd74-4c47-8563-8c19c11b1869",
+      "text": "By von Neumann’s analysis of measurement, the whole inanimate universe is one entangled, indivisible whole without ultimate parts, so carving out any inanimate segment as a subject is arbitrary.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-23"
+    }
+  ],
+  "current_statement": "e91c9a3d-fd74-4c47-8563-8c19c11b1869",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "9c8de529-0562-4ede-9748-a99db6ec0056",
+        "locator": "section 5, p. 133",
+        "quote": "the entire inanimate universe must constitute one single von Neumann chain — that is, one indivisible whole"
+      }
+    ]
+  }
+}

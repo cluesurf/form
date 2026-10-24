@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "04a2c1f1-4a19-4dad-974b-a210af4eb8ff",
+  "title": "E-GRV-0101: on a husk backed by shrinking layers the pull's front outruns light by about the zero mode's 1.30, fail...",
+  "purpose": "Experiment E-GRV-0101 in the gravity arena: on a husk backed by shrinking layers the pull's front outruns light by about the zero mode's 1.30, fail on D2: after a hop nothing changes on the next beat and the first change stays inside the link cone, but the front's first 10 percent reads 1.26 c and its first 25 percent 1.40 c (the half maximum is swamped by the static shift near the hop), because every layer beats one clock so the coarser layers carry waves faster in husk docks; 15 hops of 4 units over 4,096 beats keep Gauss, curl 0, 0 wraps and reverse bit for bit, the largest husk step flat at 0.80 .. 0.87; lumps fall alike to 3.7e-12 at -5.04e-4 per unit content; energy drifts 1.4e-5 of the static at three digits.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L2 (L2: known physics reproduced on a stated model).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/gravity/shrink-husk-moving.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-GRV-0101",
+        "quote": null
+      }
+    ]
+  }
+}

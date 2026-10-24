@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "a7a459c7-775a-493c-87e2-99a481148779",
+  "title": "E-SPN-0208: explores whether the light register pair at $a_B$ 12, with the light's contact well removed, has inertia...",
+  "purpose": "Experiment E-SPN-0208 in the spin arena: explores whether the light register pair at $a_B$ 12, with the light's contact well removed, has inertia equal to its energy (R_full within 0.05 of tan m / m) and a clock that dilates as relativity says: fail, R_full 1.173 against 1.066, the well now only 0.36 of the excess.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L2 (L2: known physics reproduced on a stated model).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/spin/register-contact-weak.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-SPN-0208",
+        "quote": null
+      }
+    ]
+  }
+}

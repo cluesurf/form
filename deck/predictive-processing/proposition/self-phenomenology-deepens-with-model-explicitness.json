@@ -1,0 +1,45 @@
+{
+  "record": "proposition",
+  "id": "ee8bd0e6-b267-4929-8ce0-d5528d902f44",
+  "kind": "empirical",
+  "epistemic_status": "hypothesized",
+  "title": "Self-experience deepens as control becomes more explicitly model-based",
+  "statements": [
+    {
+      "id": "76f0f375-20a3-4504-b845-afbcaa0bec17",
+      "text": "As control moves from simply being a model to explicitly having one, self-related experience may grow from being an embodied organism to mood and emotion, to mineness, and then to reflective and social self-awareness.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-23"
+    }
+  ],
+  "current_statement": "76f0f375-20a3-4504-b845-afbcaa0bec17",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "bfa85443-4b77-43f1-b5f2-ec1850a4bc3c",
+        "locator": "accepted manuscript p. 20, Box 4",
+        "quote": "the associated phenomenology of selfhood may develop from experiences of being an embodied organism, to experiences of mood and emotion"
+      }
+    ]
+  }
+}

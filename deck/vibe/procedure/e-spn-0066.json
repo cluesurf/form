@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "cb274a12-2d89-491c-9e3b-dd520352fa51",
+  "title": "E-SPN-0066: the chosen g = 2 token with its spin inside the role about its own point, a STAND-IN: no husk-covariant...",
+  "purpose": "Experiment E-SPN-0066 in the spin arena: the chosen g = 2 token with its spin inside the role about its own point, a STAND-IN: no husk-covariant stream can copy the role's boson line, so a covariant token is in the spinor doublet by force; streamed in its own frame through a live color field it keeps the fermion number, the charge and g = 2 together, where the same token streamed in a fixed frame leaks into the line.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L2 (L2: known physics reproduced on a stated model).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/spin/comoving-token.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-SPN-0066",
+        "quote": null
+      }
+    ]
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "8ac42bd2-72fa-406d-9c34-686c09d24257",
+  "title": "E-FRC-0106: each of the 16 A2 planes of the coin splits the other 18 directions into three triplet and antitriplet...",
+  "purpose": "Experiment E-FRC-0106 in the gauge arena: each of the 16 A2 planes of the coin splits the other 18 directions into three triplet and antitriplet copies 120 degrees apart, exactly 32 of the 80 order-three coin symmetries fix exactly one A2 (all triality rotations, one pair per plane), and the previous knit keeps one such pair, so an orientation of the lines selects a color plane and a triality that cycles the copies, which the committed turning weave does not keep.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L2 (L2: known physics reproduced on a stated model).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/gauge/color-plane-selection.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-FRC-0106",
+        "quote": null
+      }
+    ]
+  }
+}

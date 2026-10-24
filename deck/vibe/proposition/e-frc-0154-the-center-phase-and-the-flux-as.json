@@ -1,0 +1,50 @@
+{
+  "record": "proposition",
+  "id": "b48e336c-3e51-49d7-a30e-5d0be6865a89",
+  "kind": "empirical",
+  "epistemic_status": "simulated",
+  "title": "E-FRC-0154: the center phase and the flux as a conjugate pair: every change of a link's flux twists the link by the...",
+  "statements": [
+    {
+      "id": "57e66a45-1e53-40a4-8a46-c89ece407003",
+      "text": "The center phase and the flux as a conjugate pair: every change of a link's flux twists the link by the center element to that change, in flux loops and in hops, so the phase is E mod 3 relative to the link's untwisted part, reversing exactly, conserving energy to the unit, love and fear, keeping Gauss's law and commuting with a frame change by all 648 elements, with the untwisted part of every link fixed whenever the links do not reflect, where the uncoupled rule breaks that lock, a non-central twist breaks the frame change and an unpaid twist leaks energy.",
+      "language": "en",
+      "scope": "experiment E-FRC-0154, arena gauge, depth L2 (L2: known physics reproduced on a stated model)",
+      "conditions": "substrates: 3434. In a paper: false",
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-22"
+    }
+  ],
+  "current_statement": "57e66a45-1e53-40a4-8a46-c89ece407003",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": {
+    "value": "open",
+    "reason": "holds in the vibe claim graph",
+    "basis": [],
+    "proposal": null
+  },
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "research/result.ts R-FRC-0006",
+        "quote": null
+      }
+    ]
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "00ed1505-b065-45ad-9e25-dc97a4fd6a4e",
+  "title": "E-QTM-0082: Landau-Zener tunneling from the coined Dirac walk's own band structure: sweeping the momentum through...",
+  "purpose": "Experiment E-QTM-0082 in the quantum arena: Landau-Zener tunneling from the coined Dirac walk's own band structure: sweeping the momentum through the avoided crossing gives a diabatic probability P = exp(-pi mass^2 / F), so the slope of ln P versus 1/F equals -pi mass^2 (matched to within ten percent at masses 0.20, 0.25, 0.30, the gap being the substrate's own 2 mass), while a massless walk has no gap and stays fully diabatic (P = 1).",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L2 (L2: known physics reproduced on a stated model).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/quantum/landau-zener.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-QTM-0082",
+        "quote": null
+      }
+    ]
+  }
+}

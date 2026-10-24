@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "2be4c8ed-a0cf-4854-9c3a-317a0521ad2c",
+  "title": "E-FRC-0200: the Yukawa test with a pair-making vacuum: the residual between compact color singlets (stand-ins for...",
+  "purpose": "Experiment E-FRC-0200 in the gauge arena: the Yukawa test with a pair-making vacuum: the residual between compact color singlets (stand-ins for nucleons) of the paid Z3 string on the D4 box, whose demons pay for pairs, against mixed events, on the husk and in the bulk, against the meson rate and E-FRC-0188's one-meson prediction.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L2 (L2: known physics reproduced on a stated model).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/gauge/pair-string-yukawa.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-FRC-0200",
+        "quote": null
+      }
+    ]
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "record": "proposition",
+  "id": "03c0291c-a5a2-4aac-891a-d9cc89a938b7",
+  "kind": "philosophical",
+  "epistemic_status": "hypothesized",
+  "title": "Consciousness requires self-consciousness",
+  "statements": [
+    {
+      "id": "a79dcbce-8e7c-4318-a3c5-43ae3208d66b",
+      "text": "Self-consciousness is necessary for consciousness, because conscious inference is always inference about the consequences of one's own action.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-23"
+    }
+  ],
+  "current_statement": "a79dcbce-8e7c-4318-a3c5-43ae3208d66b",
+  "status": "active",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": {
+    "value": "open",
+    "reason": null,
+    "basis": [],
+    "proposal": null
+  },
+  "origin": [
+    {
+      "repository": "free-energy-principle",
+      "id": "4f54398d-45c7-4fd4-9716-bebb65c64c43"
+    }
+  ],
+  "provenance": {
+    "written_by": "github:lancejpollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "cbb7f75a-bb5f-4c46-9080-6e412bc0434d",
+        "locator": "abstract",
+        "quote": "Is self-consciousness necessary for consciousness? The answer is yes."
+      }
+    ]
+  }
+}

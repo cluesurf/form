@@ -1,0 +1,50 @@
+{
+  "record": "proposition",
+  "id": "e10f52a9-523e-4b0d-aa4c-9a6e26bc6ea1",
+  "kind": "philosophical",
+  "epistemic_status": "hypothesized",
+  "title": "Answer: topology is objective, phenomenal geometry varies",
+  "statements": [
+    {
+      "id": "14a4a5dc-ebdc-4a4a-b71a-3c1262f7655c",
+      "text": "The topology of physical fields is objective and frame-invariant. Phenomenal space has a geometry of its own that can change, becoming hyperbolic under DMT.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-23"
+    }
+  ],
+  "current_statement": "14a4a5dc-ebdc-4a4a-b71a-3c1262f7655c",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "5aaa6bc4-6581-4a09-8249-33c9872090bd",
+        "locator": "main text",
+        "quote": "The topology of the field is absolute, not relativistic."
+      },
+      {
+        "source": "be442aa3-8a4a-44e8-a460-d57745249930",
+        "locator": "main text",
+        "quote": "has an overall geometry that can accurately be described as hyperbolic (or hyperbolic-like)"
+      }
+    ]
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "709ab3c9-e772-46ff-b7ac-4b3e5c9bc8b9",
+  "title": "E-SLF-0155: a frozen-snapshot planner and a local gradient tracker pursue a drifting peak: in a static world the...",
+  "purpose": "Experiment E-SLF-0155 in the selves arena: a frozen-snapshot planner and a local gradient tracker pursue a drifting peak: in a static world the plan is optimal (the control), and past a measured drift-rate crossover the locally-sensed tracker wins because its error stays bounded while the stale plan error grows, the plan-versus-signal trade made exact and deterministic.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L1 (L1: known mathematics, correctly confirmed).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/selves/plan-vs-tracking-crossover.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-SLF-0155",
+        "quote": null
+      }
+    ]
+  }
+}

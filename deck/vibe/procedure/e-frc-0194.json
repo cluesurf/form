@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "1079c117-e718-48bf-bd48-09dc39c17c80",
+  "title": "E-FRC-0194: emission on the husk runs backward: a stand-in emitter coupled to the exactly linear husk leapfrog...",
+  "purpose": "Experiment E-FRC-0194 in the gauge arena: emission on the husk runs backward: a stand-in emitter coupled to the exactly linear husk leapfrog radiates its excitation away in 150 beats, and 150 beats run backward gather the light back and re-excite it to rounding, with Gauss law exact both ways and a small change at the turn carried rather than amplified.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L2 (L2: known physics reproduced on a stated model).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/gauge/husk-emission-reversibility.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-FRC-0194",
+        "quote": null
+      }
+    ]
+  }
+}

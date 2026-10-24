@@ -1,0 +1,39 @@
+{
+  "record": "observation",
+  "id": "e65f1500-2e3e-4e70-aa6e-688186063737",
+  "kind": "experimental_result",
+  "epistemic_status": "observed",
+  "description": "Recordings in monkey V1, V4 and dorsolateral prefrontal cortex for weak visual stimuli (van Vugt et al. 2018, reported by Mashour and colleagues): perceived and unperceived stimuli both drove V1 and V4, but only perceived ones elicited sudden, strong, sustained frontal activity akin to ignition.",
+  "method": "instrument",
+  "status": "reported",
+  "source": "48959277-86d2-4076-9942-58a24f753040",
+  "procedure": null,
+  "variable": null,
+  "value": null,
+  "unit": null,
+  "uncertainty": null,
+  "sample_size": null,
+  "replication_count": null,
+  "quality": null,
+  "limitations": null,
+  "conflicts_of_interest": null,
+  "observed_at": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "48959277-86d2-4076-9942-58a24f753040",
+        "locator": "p. 779",
+        "quote": "only the perceived ones elicited a sudden, strong, and sustained activity in the frontal cortex akin to ignition"
+      }
+    ]
+  }
+}

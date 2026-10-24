@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "18a35f12-8d6e-4d7b-b633-1a6fbcf8c405",
+  "title": "E-SPN-0128: gating K on origin too (K only where two matter-born singles share a dock, B elsewhere) ends the cascade...",
+  "purpose": "Experiment E-SPN-0128 in the spin arena: gating K on origin too (K only where two matter-born singles share a dock, B elsewhere) ends the cascade but not the growth, partial (CK's cascade clause) with O1 and O3 failing: the piece is exact and an involution with a gate it keeps (0 disagreements at every firing), the vacuum runs bit for bit, and the meson now ends at 59 to 132 of 4,096 docks (mean 89, all 16 terms under half the box, against 185 to 4,095 in E-SPN-0123) and a lone love at 31 to 60, with K firing once over 16 meson terms and 0 lines ever healing; what grows is a trail, about 6 docks per disturbed line and one line per mixer turn (21 turns a meson term, 10.5 after beat 64), so the footprint still grows 18% to 130% from beat 64 to 128 and 0 of 32 terms meet the 10% clause; a knocked-loose vacuum vibe stays on its line forever (derived: a line that evolves on its own never returns to the vacuum), B swaps it with matter 4,960 times and never moves a single onto an empty line in these runs; the two-hub cascade of E-SPN-0119 is gone (4,093 docks to 40), E-SPN-0115's one-line meson is untouched bit for bit, but E-SPN-0119's star fires K 15 times instead of 244; the vacuum-free stand-in has no K and keeps 0.035 of the weight by beat 24 at rate 3, 0.293 at rate 1 and 0.955 at rate 1/4, against 0.99977 at rate 0 on the same window, so no mixer angle tested holds the pair; the ungated control equals E-SPN-0123 bit for bit on 4 of 4 terms but one of them (185 docks) does not fill half the box, so CK's cascade clause fails as written.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L1 (L1: known mathematics, correctly confirmed).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/spin/origin-gated-bounce.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-SPN-0128",
+        "quote": null
+      }
+    ]
+  }
+}

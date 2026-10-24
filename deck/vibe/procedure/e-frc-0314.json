@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "ad338c5e-47da-487b-ba19-eafc76a1a6e1",
+  "title": "E-FRC-0314: light from a moving source, open: a sheet emitter on the husk light (D 16) moving at 0.124 to 0.622 c...",
+  "purpose": "Experiment E-FRC-0314 in the gauge arena: light from a moving source, open: a sheet emitter on the husk light (D 16) moving at 0.124 to 0.622 c sends its front behind at 0.989, 0.988, 0.984, 1.021 c (rest 0.986 c) where light leaving at c - v would give 0.751, 0.503, 0.171, 0 c, and its period behind reads 108.3 to 158.2 beats within 0.3 to 1.6 percent of the mesh Doppler P (1 + v / c) against the slow-photon 111.9, 143.5, 329.0, none: a negative for the slow-photon rule, with the pre-registered 0.02 c and 1 percent tolerances missed at the fastest source.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L2 (L2: known physics reproduced on a stated model).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/gauge/moving-source-light-speed.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-FRC-0314",
+        "quote": null
+      }
+    ]
+  }
+}

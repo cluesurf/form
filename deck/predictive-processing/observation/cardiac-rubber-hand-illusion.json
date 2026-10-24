@@ -1,0 +1,44 @@
+{
+  "record": "observation",
+  "id": "54839570-d920-4c70-99fd-c47bdc8cf61d",
+  "kind": "experimental_result",
+  "epistemic_status": "observed",
+  "description": "In an augmented-reality rubber hand illusion, a virtual hand pulsing in time with the participant's heartbeat raised both questionnaire ownership and proprioceptive drift compared with out-of-time pulsing. The effect was absent when finger movements were remapped onto the virtual hand.",
+  "method": "experiment",
+  "status": "reported",
+  "source": "7016e8f6-c849-46cf-8311-dbf6faf85fa5",
+  "procedure": null,
+  "variable": null,
+  "value": null,
+  "unit": null,
+  "uncertainty": null,
+  "sample_size": null,
+  "replication_count": null,
+  "quality": null,
+  "limitations": "Effects held in the cardiac still condition only, and ownership questionnaires and proprioceptive drift do not always agree.",
+  "conflicts_of_interest": null,
+  "observed_at": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "7016e8f6-c849-46cf-8311-dbf6faf85fa5",
+        "locator": "abstract",
+        "quote": "both subjective and objective measures of virtual-hand ownership are enhanced by cardio-visual feedback in-time with the actual heartbeat, as compared to asynchronous feedback"
+      },
+      {
+        "source": "8ed62dfe-4468-4f53-9b70-f009ba2dbe4f",
+        "locator": "p. 570, Figure 3",
+        "quote": "PDDs were significantly larger for synchronous versus asynchronous cardio-visual feedback in the 'cardiac still' (without finger movements), but not the 'cardiac move' condition"
+      }
+    ]
+  }
+}

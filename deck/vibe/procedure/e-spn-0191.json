@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "8e8a3bfa-b602-49d7-b039-a778b9243b1e",
+  "title": "E-SPN-0191: spin and statistics from the register rule: of the two second quantizations of the register rule, only...",
+  "purpose": "Experiment E-SPN-0191 in the spin arena: spin and statistics from the register rule: of the two second quantizations of the register rule, only the fermionic one (minors) keeps the full sea one branch with a unit amplitude and the one-vibe capacity of a mode, the bosonic one (permanents) branches the sea and doubles modes, so the exchange sign is -1 on every 1-, 2- and 3-member state by the rule, not by a typed algebra; a member's 2 pi turn sign is +1 under the minors action of W(F4) on the register and -1 under the spinor lift L(s), and the rule is covariant under both, so spin-statistics holds on the spinor lift only and the rule does not choose the lift.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L1 (L1: known mathematics, correctly confirmed).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/spin/register-statistics.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-SPN-0191",
+        "quote": null
+      }
+    ]
+  }
+}

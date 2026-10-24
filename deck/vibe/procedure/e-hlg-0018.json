@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "8111e1cf-4f68-43e0-825c-874dde55ab43",
+  "title": "E-HLG-0018: the geodesic-shortcut log law on the committed {3,4,3,4}: the bulk radius D grows as log_lambda(cells)...",
+  "purpose": "Experiment E-HLG-0018 in the holography arena: the geodesic-shortcut log law on the committed {3,4,3,4}: the bulk radius D grows as log_lambda(cells), so a bulk geodesic between boundary points is logarithmic in their boundary separation, with a flat lattice as the control.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L2 (L2: known physics reproduced on a stated model).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/holography/rt-geodesic-3434.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-HLG-0018",
+        "quote": null
+      }
+    ]
+  }
+}

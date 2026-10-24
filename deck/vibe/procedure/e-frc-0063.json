@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "46b10138-36fc-481e-95b8-af1e24638d0c",
+  "title": "E-FRC-0063: the sector Koide mechanism predicts Q = 2/3 for any three-generation triple, but only charged leptons...",
+  "purpose": "Experiment E-FRC-0063 in the gauge arena: the sector Koide mechanism predicts Q = 2/3 for any three-generation triple, but only charged leptons satisfy it sharply (one part in a hundred thousand) while up quarks give 0.85, down quarks 0.73, and the heavy (c, b, t) triple 0.669 (the known near-Koide triple, mixed-scheme masses), so the mechanism is lepton-specific or incomplete, the honest scope limit of the campaign and a falsifiable handle.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L1 (L1: known mathematics, correctly confirmed).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/gauge/koide-scope-quarks.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-FRC-0063",
+        "quote": null
+      }
+    ]
+  }
+}

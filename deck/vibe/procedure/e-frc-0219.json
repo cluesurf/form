@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "b2b9e450-a253-4a24-842d-44b5a64a6091",
+  "title": "E-FRC-0219: compact counters: the shaped light's counters held in balanced ternary run bit for bit with the...",
+  "purpose": "Experiment E-FRC-0219 in the gauge arena: compact counters: the shaped light's counters held in balanced ternary run bit for bit with the thermometer rule and the husk rule, reversibly and with Gauss exact, and three levels then fit the trits the bulk already holds (7 counters of k = ceil(log3(2D + 1)) trits in each husk triangle's 3D counter trits); the angle, string and potential columns stay thermometers because the bulk reads them trit by trit.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L2 (L2: known physics reproduced on a stated model).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/gauge/trit-compact-counters.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-FRC-0219",
+        "quote": null
+      }
+    ]
+  }
+}

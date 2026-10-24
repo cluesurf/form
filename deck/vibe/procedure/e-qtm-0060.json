@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "94b9b850-1a11-4c72-897c-6d7ee6948647",
+  "title": "E-QTM-0060: the walk dynamics gives omega = mass + k^2/(2 tan mass) at small k, the Schrodinger dispersion with...",
+  "purpose": "Experiment E-QTM-0060 in the quantum arena: the walk dynamics gives omega = mass + k^2/(2 tan mass) at small k, the Schrodinger dispersion with exact discrete effective mass tan(mass) converging to the continuum mass, while the massless walk stays linear.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L2 (L2: known physics reproduced on a stated model).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/quantum/schrodinger-limit.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-QTM-0060",
+        "quote": null
+      }
+    ]
+  }
+}

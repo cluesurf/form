@@ -1,0 +1,28 @@
+{
+  "record": "link",
+  "id": "b76bb340-9ac9-4981-aa0d-0a70ab1ffa97",
+  "from": "0ec8c633-847a-425a-a552-7df24f9a4d8e",
+  "to": "fe90eae2-c7a5-4609-ae58-eca401d78290",
+  "relation": "requires",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "4489b7d7-7273-4b67-a1c2-b53ddab0eeb5",
+        "locator": "section 5.2",
+        "quote": "Quantum fields, black holes, and other spatially-distributed or topologically-defined systems can, therefore, be regarded as Bayesian observers"
+      }
+    ]
+  }
+}

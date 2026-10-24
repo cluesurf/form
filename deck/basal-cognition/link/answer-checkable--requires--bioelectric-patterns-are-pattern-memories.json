@@ -1,0 +1,28 @@
+{
+  "record": "link",
+  "id": "9662d5c3-2d27-4e5b-a712-a26cb02aea62",
+  "from": "304ef4e0-f419-4b18-a5c2-b3a10348aba7",
+  "to": "35e99e05-7055-48cd-8e06-7c142c911cad",
+  "relation": "requires",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "9d7dc0d8-1f18-43d2-b86a-16d31ae12fd3",
+        "locator": "section Predictions and Research Program",
+        "quote": "It would be instructive to start fleshing out the cognitive light cone diagrams with behavioral data from real organisms"
+      }
+    ]
+  }
+}

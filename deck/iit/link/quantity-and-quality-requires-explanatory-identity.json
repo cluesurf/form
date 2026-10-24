@@ -1,0 +1,28 @@
+{
+  "record": "link",
+  "id": "69764db6-63de-474d-aea3-9b487d0a6c8e",
+  "from": "c5fbd6c2-34c4-4d64-a7e8-5a4419b5bb9c",
+  "to": "79c54001-d62b-4535-9bf1-5ca0a2766a35",
+  "relation": "requires",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "ff525f31-2442-4b42-b21f-827bf3c74628",
+        "locator": "abstract",
+        "quote": "According to IIT, a MICS specifies the quality of an experience and integrated information ΦMax its quantity."
+      }
+    ]
+  }
+}

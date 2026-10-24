@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "15ac011e-671f-4af0-bb6a-d160260de4ef",
+  "title": "E-GRV-0090: the radion's gravity fits in bounded registers with the depth found by summing steps, and one line a...",
+  "purpose": "Experiment E-GRV-0090 in the gravity arena: the radion's gravity fits in bounded registers with the depth found by summing steps, and one line a link bounds a lump's content by its area, pass: no depth or content stored, Gauss exact on 43,008 beat checks, the summed depth path independent, no register wraps, W = 0.1266 .. 0.1587 at r = 1 .. 7 rising (E-GRV-0079 to 2.7e-6, k = 0.0418217 to 1e-7) where tension alone gives -136, -128 with no fall; the densest lumps of 100, 400, 1600 units fill spheres whose content equals their crossing links, radius 1.41, 2.24, 4.69 against the count's 1.73, 2.45, 4.69; run as a field the M = 400 lump's steps pass 3/2 out to 3.6 and the reversible wrap (125,296 slips in 512 beats) keeps neither its energy (0 to 7,368) nor a single-valued depth.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L2 (L2: known physics reproduced on a stated model).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/gravity/step-depth-static.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-GRV-0090",
+        "quote": null
+      }
+    ]
+  }
+}

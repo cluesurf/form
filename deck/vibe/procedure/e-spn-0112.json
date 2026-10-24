@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "eb95d0db-b6f6-4f9f-acdd-969e7e26a4c3",
+  "title": "E-SPN-0112: the drift cost alone, with no contact at a full dock, binds a love-fear meson that widens as $N^{1 / 3}$...",
+  "purpose": "Experiment E-SPN-0112 in the spin arena: the drift cost alone, with no contact at a full dock, binds a love-fear meson that widens as $N^{1 / 3}$ and whose inertia goes to its energy, fail on the trio route and on the lightest meson: the meson (no meeting, string only) is held at every D 3 to 30 at n = 1, its mean span 0.679 to 1.484 with ln-ln slope 0.361 against the 1/3 derived, and R = (m*/E_rest)/(tan m/m) falls 1.186 to 1.018; at fine n = 2 it is held at D 20 and 30 with R 1.010 and 1.008, at n = 4 at no D up to 30; the string-only trio (contact unit 4, exactly free fermions, a Slater check to 6e-15) is held at D 4 and 5 but not 3 (tail 2.2e-2), its span 2.33 to 2.48 set by Pauli, R 1.123 to 1.078; E-SPN-0111 reproduced, and with no cost nothing is held.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L2 (L2: known physics reproduced on a stated model).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/spin/moving-binding.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-SPN-0112",
+        "quote": null
+      }
+    ]
+  }
+}

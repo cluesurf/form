@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "c15f7ac1-118e-4165-af3a-e64b027020d1",
+  "title": "E-GRV-0132: a forming headroom horizon makes particles but not at Hawking's temperature, fail on P1 and P2: a lump...",
+  "purpose": "Experiment E-GRV-0132 in the gravity arena: a forming headroom horizon makes particles but not at Hawking's temperature, fail on P1 and P2: a lump grown at dM/dt = $M_f / 16384$ to $r_h$ 12.5 (C 25, T = kappa / 2 pi 1.454e-3) gives, by exact projection of out packets back to the flat vacuum, |beta / alpha|^2 3.63e-2 .. 6.51e-3 over 4 .. 13 T, a power law omega^-1.46 whose Planck fit reads T 9.60 x kappa / 2 pi (rms 0.023); the register's cutoff omega_C = 15.56 T is not seen (1.02 and 1.26 of the fit at 1.25 and 1.6 omega_C); the negative part is blueshifted only 2 .. 4.7 x, not the C the register allows; the static lump reads 1.9e-24 (bound 1e-24) and 6.4e-26, 1.5e-16 of the packet still in the zone that is not flat; the integer rule reverses bit for bit through the growth, the chain equals the full shadow to 1e-12, KG conserved to 5e-14, but at amplitude 0.1 and R 125 the rule ends 0.79 off its linear shadow.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L2 (L2: known physics reproduced on a stated model).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/gravity/forming-headroom-horizon.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-GRV-0132",
+        "quote": null
+      }
+    ]
+  }
+}

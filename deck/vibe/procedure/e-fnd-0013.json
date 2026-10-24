@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "8a440317-ac39-4414-8453-f5b6e3326e55",
+  "title": "E-FND-0013: the directional lattice-gas conserves charge and is exactly reversible",
+  "purpose": "Experiment E-FND-0013 in the foundations arena: the directional lattice-gas conserves charge and is exactly reversible.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L1 (L1: known mathematics, correctly confirmed).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/foundations/directional-rule.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-FND-0013",
+        "quote": null
+      }
+    ]
+  }
+}

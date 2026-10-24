@@ -1,0 +1,50 @@
+{
+  "record": "proposition",
+  "id": "d9169d19-a59f-4b5e-a856-fdce524e87c2",
+  "kind": "definitional",
+  "epistemic_status": "designed",
+  "title": "Preconscious stimulus",
+  "statements": [
+    {
+      "id": "1ae4f960-4aa3-4db9-9262-b2ede825d9e7",
+      "text": "A preconscious stimulus is strong and long enough that it could be seen, but is not accessed, for example because attention is elsewhere: its information is potentially accessible yet not accessed.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-23"
+    }
+  ],
+  "current_statement": "1ae4f960-4aa3-4db9-9262-b2ede825d9e7",
+  "status": "active",
+  "voice": "framework",
+  "defines": "preconscious stimulus",
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "3d0df20f-34a9-44eb-8975-1eaabe5a7c19",
+        "locator": "abstract",
+        "quote": "a transient ‘preconscious’ state of activity in which information is potentially accessible, yet not accessed."
+      },
+      {
+        "source": "2374e38b-3bde-4e20-9ad5-8edab14a34c3",
+        "locator": "Major Experimental Paradigms",
+        "quote": "A preconscious stimulus, by contrast, is one that is potentially visible (its energy and duration are such that it could be seen)"
+      }
+    ]
+  }
+}

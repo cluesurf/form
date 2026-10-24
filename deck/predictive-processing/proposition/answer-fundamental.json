@@ -1,0 +1,45 @@
+{
+  "record": "proposition",
+  "id": "29bd6883-b616-46ff-89b6-68da36682029",
+  "kind": "philosophical",
+  "epistemic_status": "inferred",
+  "title": "Answer: life regulating itself is the explanatory base",
+  "statements": [
+    {
+      "id": "6c19b412-a617-4f22-af7c-80c73986dc84",
+      "text": "Seth takes no position on fundamental physics. In his account the explanatory base for mind is a living body's drive to keep itself within viable bounds: perception, emotion and selfhood all derive from predictive regulation of the body.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-23"
+    }
+  ],
+  "current_statement": "6c19b412-a617-4f22-af7c-80c73986dc84",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "bfa85443-4b77-43f1-b5f2-ec1850a4bc3c",
+        "locator": "accepted manuscript p. 13",
+        "quote": "all perceptual content is underpinned by inferential mechanisms that have a functional, ontological, and phylogenetic basis in allostasis."
+      }
+    ]
+  }
+}

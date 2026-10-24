@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "dba72f8e-b35c-456f-a1ce-a6c777da2cb6",
+  "title": "E-GRV-0136: a forming headroom horizon has no late part and no thermal part, and slower growth strips the quench...",
+  "purpose": "Experiment E-GRV-0136 in the gravity arena: a forming headroom horizon has no late part and no thermal part, and slower growth strips the quench, fail on K3 (the early split's error bound): at C 25, out packets at 4 .. 13 T read 48 / kappa after the lump settles give |beta / alpha|^2 1.9e-8 .. 1.8e-7 of the prompt value at $t_g$ x 1 and x 16 (derived: about 1e-4, from the packet's envelope; a Hawking part would give 1), because the capped redshift makes the settled lump a static reflecting wall; growing 4 and 16 times slower drops the prompt 4 T value 3.63e-2, 3.05e-3, 1.89e-3 (slopes on $\\ln t_g$ -1.06 .. -0.80, the 13 T one on the gate's edge), tracking the dock changes the packet meets (3016, 1267, 783), and the spectrum flattens (power law -1.46, -0.89, -0.87; Planck fits at the 30 T edge), away from Planck, not toward it; the window holds 0.634 of a period at omega_C, so no thermal part can form below C about 160; x 1 reproduces E-GRV-0132 to 2.8e-4, the static lump reads 2.5e-24, the integer rule reverses bit for bit through both schedules; the split's error bound reaches 0.153 (gate 0.05) though R1 shows it about 250 times loose.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L2 (L2: known physics reproduced on a stated model).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/gravity/forming-horizon-late-slow.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-GRV-0136",
+        "quote": null
+      }
+    ]
+  }
+}

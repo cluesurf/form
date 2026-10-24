@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "4ccb4657-4506-465b-8f50-f1eccf15bc73",
+  "title": "E-FRC-0183: where the carried-remainder noise goes, through the symbol: the heating each noise transfer function...",
+  "purpose": "Experiment E-FRC-0183 in the gauge arena: where the carried-remainder noise goes, through the symbol: the heating each noise transfer function leaves on the photon and massive branches, time shaping of order 1 to 3 against the wave form 1 - (2 - kappa M) $z + z^2$, which vanishes on every shell, and why no curl kick can put noise into the gauge.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L2 (L2: known physics reproduced on a stated model).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/gauge/photon-noise-symbol.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-FRC-0183",
+        "quote": null
+      }
+    ]
+  }
+}

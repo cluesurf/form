@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "05f903b9-9e99-48d0-9fd8-7a8da407d0e0",
+  "title": "E-FND-0060: reversibility is not a premise but the seed applied to dynamics: \"a difference cannot vanish\" means no...",
+  "purpose": "Experiment E-FND-0060 in the foundations arena: reversibility is not a premise but the seed applied to dynamics: \"a difference cannot vanish\" means no two distinct states merge, which is injectivity, which on a finite state set is reversibility, so the knit (injective, forward-then-inverse recovers bit for bit) is what the seed forces and a lossy rule (two distinct states to one successor, a difference destroyed) is what it forbids.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L2 (L2: known physics reproduced on a stated model).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/foundations/reversibility-is-the-seed.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-FND-0060",
+        "quote": null
+      }
+    ]
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "5eb1f878-a3da-4a4c-ae21-108fa6d0a189",
+  "title": "E-SPN-0097: the lifted frame mixer Gamma(G) in the working vacuum (every frame of one content, no occupation...",
+  "purpose": "Experiment E-SPN-0097 in the spin arena: the lifted frame mixer Gamma(G) in the working vacuum (every frame of one content, no occupation threshold): it acts on the vacuum's own history and the chain reaction is faster, fail on Q1: on the Born path the lift moves the vacuum's like pairs of equal points about 148,000 times in 96 beats, breaking the laws (occupation momentum) at 92 beats and made = unmade, on 3 of 3 starts (keep and exchange paths untouched, reversal, C and one causal component hold everywhere); a lone love leaves its line (0.373 by beat 4 on the empty mesh, 0.516 in the vacuum), exact and reversible on 6 of 6 lone runs; the wake slope over beats 20 to 45 reads 0.042 (gate passed) only because the wake has filled the side-16 box by beat 25: over beats 5 to 15 it grows 0.618 a beat in ln against the thresholded G's 0.155; E-SPN-0093's electron returns with 0.121 after one beat (0.454 with G).",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L2 (L2: known physics reproduced on a stated model).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/spin/lifted-mixer-vacuum.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-SPN-0097",
+        "quote": null
+      }
+    ]
+  }
+}

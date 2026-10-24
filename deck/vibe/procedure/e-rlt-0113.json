@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "4073ad07-43a2-40cf-aa94-ca226fd31d57",
+  "title": "E-RLT-0113: the taxicab control, pass: a particle that is a looped list of unit axis steps (the Matter As Machine...",
+  "purpose": "Experiment E-RLT-0113 in the relativity arena: the taxicab control, pass: a particle that is a looped list of unit axis steps (the Matter As Machine model, built as an external control) has top speed 1 on an axis and 1 / sqrt 3 on a body diagonal at every loop length, spread 0.605 over 37 husk directions at N = 12 to 768, order 0, anisotropic at leading order; Vibe's husk photon on the same directions has spread 1.7e-4 at |k| = 0.8 falling as $|k|^{4.00}$ to 1.6e-10 at 0.025, the D4 set at order 4.04 against a hypercubic 2.01; this clears Vibe's light, while its matter on the working rule moves on lines and is anisotropic at leading order too (E-SPN-0126).",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L2 (L2: known physics reproduced on a stated model).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/relativity/taxicab-control-anisotropy.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-RLT-0113",
+        "quote": null
+      }
+    ]
+  }
+}

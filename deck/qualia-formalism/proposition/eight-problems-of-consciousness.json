@@ -1,0 +1,45 @@
+{
+  "record": "proposition",
+  "id": "b800741e-352a-4431-9e8a-7e736217f256",
+  "kind": "philosophical",
+  "epistemic_status": "hypothesized",
+  "title": "Eight problems for a science of consciousness",
+  "statements": [
+    {
+      "id": "c065b686-e59b-4df4-b85a-8ccb617f19da",
+      "text": "A theory of consciousness must solve eight subproblems: reality mapping, substrate, boundary, scale, topology of information, state space, vocabulary and translation. These are necessary and in aggregate may be sufficient.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-23"
+    }
+  ],
+  "current_statement": "c065b686-e59b-4df4-b85a-8ccb617f19da",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "18748a2a-239c-4c8a-84be-d6db8f91e70d",
+        "locator": "section VI, pp. 21-22",
+        "quote": "My claim is that these eight sub-problems are necessary to solve consciousness, and in aggregate, may be sufficient."
+      }
+    ]
+  }
+}

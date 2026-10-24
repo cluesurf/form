@@ -1,0 +1,50 @@
+{
+  "record": "proposition",
+  "id": "ba5c664d-3674-46a2-8cae-bd2038cf2394",
+  "kind": "philosophical",
+  "epistemic_status": "hypothesized",
+  "title": "Time is recovered from the conserved current",
+  "statements": [
+    {
+      "id": "6332dc7c-5c03-43ec-9408-0a0adfa8511a",
+      "text": "Physical time is not an external coordinate. It appears when the conserved current is admitted as non-vanishing, positive and future-directed timelike, which gives an orientation, a chronological order and an invariant duration along every admitted history. Where vorticity blocks a foliation, duration along the flow survives but global simultaneity does not.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "6332dc7c-5c03-43ec-9408-0a0adfa8511a",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "e738f503-c26b-49a1-bba2-39002bacc666",
+        "locator": "abstract",
+        "quote": "Time is not introduced as an external coordinate, nor identified with any arbitrary parameter used to label a sequence of states."
+      },
+      {
+        "source": "e738f503-c26b-49a1-bba2-39002bacc666",
+        "locator": "abstract",
+        "quote": "It emerges when the conserved current is admitted as non-vanishing, positive and future-directed timelike."
+      }
+    ]
+  }
+}

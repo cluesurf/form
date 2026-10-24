@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "8a0a2f0e-e916-4b12-9714-eb9710bbffbc",
+  "title": "E-GMT-0023: the perceivable fraction of Being is 3/4 (270 degrees) from the bulk-cusp dimensional occlusion, while...",
+  "purpose": "Experiment E-GMT-0023 in the geometry arena: the perceivable fraction of Being is 3/4 (270 degrees) from the bulk-cusp dimensional occlusion, while the 24 directions give exactly 1/2.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L1 (L1: known mathematics, correctly confirmed).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/geometry/self-occlusion-fraction.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-GMT-0023",
+        "quote": null
+      }
+    ]
+  }
+}

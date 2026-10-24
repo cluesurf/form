@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "9950b5ab-32ec-4433-9be4-a086a9d72490",
+  "title": "E-MTR-0025: time dilation: a clock made of the lazy root token's two light mass levels (a STAND-IN) ticks slower by...",
+  "purpose": "Experiment E-MTR-0025 in the relativity arena: time dilation: a clock made of the lazy root token's two light mass levels (a STAND-IN) ticks slower by the Lorentz factor with the photon's c, and the beat between the flux-string bound state's two lowest levels (a STAND-IN on locked tokens) is tested against the same factor.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L2 (L2: known physics reproduced on a stated model).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/matter/moving-clock.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-MTR-0025",
+        "quote": null
+      }
+    ]
+  }
+}

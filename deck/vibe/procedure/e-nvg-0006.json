@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "b0cfab3c-a526-468a-8056-4db540fbe07b",
+  "title": "E-NVG-0006: the addressing-versus-Lorentz fork, can one substrate have reach, isotropy, and navigability at once",
+  "purpose": "Experiment E-NVG-0006 in the addressing arena: the addressing-versus-Lorentz fork, can one substrate have reach, isotropy, and navigability at once.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L2 (L2: known physics reproduced on a stated model).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/addressing/study.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-NVG-0006",
+        "quote": null
+      }
+    ]
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "d95756f1-803d-4946-be5c-1e86ea8e2722",
+  "title": "E-SPN-0025: several bound fermions form a composite with a saturating binding energy (a nucleus), where bosons...",
+  "purpose": "Experiment E-SPN-0025 in the spin arena: several bound fermions form a composite with a saturating binding energy (a nucleus), where bosons collapse instead.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L1 (L1: known mathematics, correctly confirmed).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/spin/nuclei-binding-saturation.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-SPN-0025",
+        "quote": null
+      }
+    ]
+  }
+}

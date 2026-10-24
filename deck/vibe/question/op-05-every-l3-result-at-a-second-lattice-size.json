@@ -1,0 +1,26 @@
+{
+  "record": "question",
+  "id": "438d6a66-6860-43b5-b744-bef9924caecc",
+  "text": "Does each L3 verdict in the catalog, 53 on 2026-09-26, hold at 0.5, 1 and 1.5 times its size?",
+  "kind": "missing_evidence",
+  "status": "open",
+  "parent": null,
+  "description": "OP-05: every L3 result at a second lattice size.\n\nKnown: the perturbation check exists (pnpm check:perturbation). E-MMR-0002 fails at half size.\n\nUnknown: which of the others hold.\n\nWhy it matters: no L3 result should be cited as robust until it does.\n\nScope: a mechanical pass, one experiment at a time.\n\nSkills: TypeScript, patience.\n\nWhere to start: task/check-perturbation.ts.\n\nEvidence named: depth-grades, roadmap item 0012.",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "research/problem.ts OP-05",
+        "quote": null
+      }
+    ]
+  }
+}

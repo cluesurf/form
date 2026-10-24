@@ -1,0 +1,56 @@
+{
+  "record": "proposition",
+  "id": "fc7311b8-335b-4f66-8b50-2938a50cc94a",
+  "kind": "empirical",
+  "epistemic_status": "hypothesized",
+  "title": "Orchestration needs organized information and isolation",
+  "statements": [
+    {
+      "id": "76586e19-ec91-4bcf-961a-e9b5f7dce98b",
+      "text": "Orch OR occurs when a superposition is organized, carries cognitive information and can integrate and compute, and is isolated from the random environment long enough to reach τ ≈ ħ/E_G.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-23"
+    },
+    {
+      "id": "10327f05-d183-4d2d-971a-e3a515e9a3ee",
+      "text": "Orch OR occurs when a superposition is organized, carries cognitive information and can integrate and compute, and is isolated from the random environment long enough to reach $\\tau \\approx \\hbar / E_G$.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": "76586e19-ec91-4bcf-961a-e9b5f7dce98b",
+      "change_reason": "Math written as LaTeX (format section 3.6).",
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "10327f05-d183-4d2d-971a-e3a515e9a3ee",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "c0602528-f093-4705-abc3-e13d7657a680",
+        "locator": "section 4.5",
+        "quote": "isolated from non-orchestrated, random environment long enough for the superposition EG to evolve by the U formalism to reach time τ by τ ≈ h̄/EG , then Orch OR will occur"
+      }
+    ]
+  }
+}

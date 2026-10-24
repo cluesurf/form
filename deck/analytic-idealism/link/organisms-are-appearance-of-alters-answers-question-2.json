@@ -1,0 +1,28 @@
+{
+  "record": "link",
+  "id": "2e0ea995-1d8b-4379-9693-dfcc95962b77",
+  "from": "9deb305f-4536-4346-b8a7-5feacbe6f034",
+  "to": "455dff7d-b66c-449d-b2d7-52521b99cba5",
+  "relation": "answers",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "9c8de529-0562-4ede-9748-a99db6ec0056",
+        "locator": "section 10, p. 145",
+        "quote": "the physical boundary of the body is the revealed appearance of the dissociative boundary of our phenomenal field."
+      }
+    ]
+  }
+}

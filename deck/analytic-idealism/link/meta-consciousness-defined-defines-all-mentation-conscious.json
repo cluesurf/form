@@ -1,0 +1,28 @@
+{
+  "record": "link",
+  "id": "010c1031-576c-4ed8-80a2-480ccc626883",
+  "from": "cf0aee85-d404-43c6-9840-0d10c70eb005",
+  "to": "518dd9f6-bf9e-4a78-93cb-c2191281d6b0",
+  "relation": "defines",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "a088b8b5-0fe0-40bb-956f-6cf05c80c12d",
+        "locator": "section \"Defining and Gauging Consciousness\"",
+        "quote": "he distinguishes between “non-conscious (unexperienced), conscious (experienced), and meta-conscious (re-represented)” mental processes (p. 339)."
+      }
+    ]
+  }
+}

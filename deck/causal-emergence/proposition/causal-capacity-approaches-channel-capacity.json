@@ -1,0 +1,45 @@
+{
+  "record": "proposition",
+  "id": "ee933c24-6dc4-47bd-91d5-0840ae233909",
+  "kind": "mathematical",
+  "epistemic_status": "inferred",
+  "title": "Causal capacity approaches channel capacity",
+  "statements": [
+    {
+      "id": "23d0d465-b09f-4fee-be7b-4795f87831f8",
+      "text": "As more kinds of macroscale model are allowed, the causal capacity a system can show approaches its channel capacity.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-23"
+    }
+  ],
+  "current_statement": "23d0d465-b09f-4fee-be7b-4795f87831f8",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "af04362c-992c-4063-8ee0-0860e42624ed",
+        "locator": "abstract",
+        "quote": "As model choice increase, the causal capacity of a system approaches the channel capacity."
+      }
+    ]
+  }
+}

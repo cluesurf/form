@@ -1,0 +1,45 @@
+{
+  "record": "proposition",
+  "id": "1abbde12-3116-4fbb-97d3-8d977e7f3e44",
+  "kind": "mathematical",
+  "epistemic_status": "inferred",
+  "title": "The free energy principle holds only for a narrow class of systems",
+  "statements": [
+    {
+      "id": "de0786c2-fc0b-46ae-969b-a1fe0aabd58f",
+      "text": "In weakly coupled linear stochastic systems, the Markov blanket condition and the restrictions on solenoidal flows that the free energy principle needs hold only in a very narrow space of parameters, and its step to variational inference rests on an implicit equivalence of averages.",
+      "language": "en",
+      "scope": "aimed at the classical free energy principle, which the quantum formulation generalizes",
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-23"
+    }
+  ],
+  "current_statement": "de0786c2-fc0b-46ae-969b-a1fe0aabd58f",
+  "status": "active",
+  "voice": "critique",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "11a4c47c-f5d4-44d0-a625-569973b4d472",
+        "locator": "abstract",
+        "quote": "are only valid for a very narrow space of parameters"
+      }
+    ]
+  }
+}

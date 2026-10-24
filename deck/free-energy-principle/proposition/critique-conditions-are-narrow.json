@@ -1,0 +1,45 @@
+{
+  "record": "proposition",
+  "id": "4178c689-bab8-4711-a7fe-3286c7479ead",
+  "kind": "mathematical",
+  "epistemic_status": "inferred",
+  "title": "Critique: the required conditions hold only in a narrow range",
+  "statements": [
+    {
+      "id": "f833bdc4-d752-43de-96e6-54dfe7e6e962",
+      "text": "Even in weakly coupled linear stochastic systems, the Markov blanket condition and the restrictions on solenoidal flow hold only for a narrow range of parameters, and the step linking behavior to variational inference assumes an equivalence that does not hold in general.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-23"
+    }
+  ],
+  "current_statement": "f833bdc4-d752-43de-96e6-54dfe7e6e962",
+  "status": "active",
+  "voice": "critique",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "3871b0fc-d743-488a-8d26-6f123424ab40",
+        "locator": "abstract (arXiv record)",
+        "quote": "a mathematically central step in the argument, connecting the behaviour of a system to variational inference, relies on an implicit equivalence between the dynamics of the average states of a system with the average of the dynamics of those states."
+      }
+    ]
+  }
+}

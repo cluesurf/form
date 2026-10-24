@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "51b45d00-9648-4808-99fb-dd894faf6338",
+  "title": "E-FRC-0128: roles on moving links: the color weave's roles carried by links that move by reflection through a...",
+  "purpose": "Experiment E-FRC-0128 in the gauge arena: roles on moving links: the color weave's roles carried by links that move by reflection through a triangle's staple, reversing exactly, conserving the links' energy to the unit, commuting with a change of role frame in every cell, and keeping charge, Gauss's law and every cell's color exact, where the index-order step of E-FRC-0110 on the same links breaks the frame change.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L2 (L2: known physics reproduced on a stated model).",
+  "status": "completed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/gauge/roles-on-moving-links.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "research/result.ts R-FRC-0003",
+        "quote": null
+      }
+    ]
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "record": "observation",
+  "id": "8ede93ae-a782-4c30-a435-fe6667545c3d",
+  "kind": "documentary_record",
+  "epistemic_status": "observed",
+  "description": "What the cited code does: E-CSM-0012 integrates central-force orbits in $d = 2$ to $5$: Bertrand's theorem, with no substrate.",
+  "method": "document_review",
+  "status": "reported",
+  "source": "ad6054a9-572b-4cc8-bb69-ac9b768ecc75",
+  "procedure": null,
+  "variable": null,
+  "value": null,
+  "unit": null,
+  "uncertainty": null,
+  "sample_size": null,
+  "replication_count": null,
+  "quality": null,
+  "limitations": null,
+  "conflicts_of_interest": null,
+  "observed_at": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "research/paper.ts ERRATA",
+        "quote": null
+      }
+    ]
+  }
+}

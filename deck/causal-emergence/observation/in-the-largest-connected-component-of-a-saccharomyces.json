@@ -1,0 +1,39 @@
+{
+  "record": "observation",
+  "id": "b32d0b1a-3132-4d57-b313-31e553e1db2f",
+  "kind": "statistical_result",
+  "epistemic_status": "observed",
+  "description": "In the largest connected component of a Saccharomyces cerevisiae gene regulatory network, grouping nodes to maximize EI reduces 1764 nodes to 596, about a 66 percent reduction, with an increase in EI.",
+  "method": "derived",
+  "status": "reported",
+  "source": "6f63aea4-d10a-4463-b181-5f13f525dd17",
+  "procedure": null,
+  "variable": null,
+  "value": null,
+  "unit": null,
+  "uncertainty": null,
+  "sample_size": null,
+  "replication_count": null,
+  "quality": null,
+  "limitations": null,
+  "conflicts_of_interest": null,
+  "observed_at": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "6f63aea4-d10a-4463-b181-5f13f525dd17",
+        "locator": "results section",
+        "quote": "That is, the majority of the nodes in the network actually form macro-nodes."
+      }
+    ]
+  }
+}

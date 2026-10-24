@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "76216cb3-538b-415c-98f6-d2557d19e2b9",
+  "title": "E-MTR-0017: what gives the spinor token g = 2 exactly, a STAND-IN: g = 2 exactly when the band is a perfect square...",
+  "purpose": "Experiment E-MTR-0017 in the spin arena: what gives the spinor token g = 2 exactly, a STAND-IN: g = 2 exactly when the band is a perfect square (rank-one M), which one x and one y stream never are (g >= 2 sec(phi/2), 4 at the model coin, 2 only when massless or in the light-coin limit), while a Strang-symmetric schedule whose mirrored copies share a coin frame is; the model coin allows it because $C^3 = 1$ returns the frame every three beats, so x, y, z, x and a 16-beat nested palindrome read g = 2 exactly, isotropically, with an exact zero mode at every field.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L2 (L2: known physics reproduced on a stated model).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/matter/token-g-two.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-MTR-0017",
+        "quote": null
+      }
+    ]
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "record": "proposition",
+  "id": "6aed1af5-dc26-4bb2-85c3-2f1303e3210c",
+  "kind": "empirical",
+  "epistemic_status": "simulated",
+  "title": "R-HLG-0002: Correlation without signal through a shared ancestor",
+  "statements": [
+    {
+      "id": "8111ee87-6b75-464c-8e92-f5e6df982e21",
+      "text": "In a hyperbolic graph, two boundary points joined only through the interior are a number of steps apart that grows like the logarithm of their boundary separation, so a correlation that falls exponentially with interior distance falls as a power of boundary distance. The exponent is not measured.",
+      "language": "en",
+      "scope": "holography. status simulated and unresolved. category explanation (a proposed mechanism for a known phenomenon. Worth: possibly interesting. Not prospective evidence). depth L3 and L2 (L2: known physics reproduced on a stated model. L3: one base rule produced the result as a measured consequence, with a computed control that could have failed)",
+      "conditions": "Limits: E-HLG-0004 is on {5,3,4}, and its control repeats its own measurement. E-HLG-0033 evaluates a formula for a branching tree. It is not a simulation. no correlation is measured at all, only path lengths. a common cause cannot reach Bell-violating correlations. The account has to meet that and does not yet. The fear weave's tokens from different docks pass CHSH 2 where both classical rules stay at 2 (E-QTM-0100): one meeting reaches the rungs $4 / \\sqrt 3$ or $\\sqrt 7$ for like vibes and $2.3613$ (a lower bound on that knot's maximum) or $(2 + 4 \\sqrt 2) / 3$ for a love and a fear, by the overlap of the two roles (E-QTM-0140, E-QTM-0141), and the knit's own histories reach $2.5298$ as a signed count with no signaling (E-RLT-0055 under the comoving fear beat, E-QTM-0111, E-QTM-0143). That is quantum weight in the roles, not a common cause, and it is not run on {3,4,3,4}. Launch gate. Pass: auditable, interesting. Fail: prior_art_reviewed, derived, quantitative, skeptic_reviewed, independently_reproduced. Unknown: novel, differentiating, falsifiable. Novelty: uncertain. Free parameters: not stated. Fitted: false. Known before: false.",
+      "falsification_criteria": "an observation, once $\\alpha$ is measured and a system named",
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-22"
+    }
+  ],
+  "current_statement": "8111ee87-6b75-464c-8e92-f5e6df982e21",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": "bcaa5ce0-8497-40a6-ba79-cdd82805c07a",
+  "prediction": null,
+  "standing": {
+    "value": "open",
+    "reason": "holds in the vibe claim graph",
+    "basis": [],
+    "proposal": null
+  },
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "research/result.ts R-HLG-0002",
+        "quote": null
+      }
+    ]
+  }
+}

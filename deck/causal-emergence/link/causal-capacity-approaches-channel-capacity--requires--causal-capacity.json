@@ -1,0 +1,28 @@
+{
+  "record": "link",
+  "id": "c8e8d4bf-ea90-48cf-8379-0e43e7b44aa5",
+  "from": "ee933c24-6dc4-47bd-91d5-0840ae233909",
+  "to": "775140e3-0836-44dc-a9d8-23e9038fed9d",
+  "relation": "requires",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "af04362c-992c-4063-8ee0-0860e42624ed",
+        "locator": "abstract",
+        "quote": "As model choice increase, the causal capacity of a system approaches the channel capacity."
+      }
+    ]
+  }
+}

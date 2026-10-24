@@ -1,0 +1,28 @@
+{
+  "record": "link",
+  "id": "a82799ea-9a50-4183-805a-fdb12a913232",
+  "from": "85c5678f-a366-45d1-b84b-b58f2f847abe",
+  "to": "d16f3590-9faa-41e8-9fac-6235e0f22972",
+  "relation": "requires",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "8ed62dfe-4468-4f53-9b70-f009ba2dbe4f",
+        "locator": "p. 566",
+        "quote": "the brain is continuously attempting to minimize the discrepancy or 'prediction error' between its inputs and its emerging models of the causes of these inputs"
+      }
+    ]
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "662a089c-de9b-4a1a-94aa-fbd9f94ac415",
+  "title": "E-SPN-0004: the overlap lattice Dirac operator gives one species with exact lattice chiral symmetry",
+  "purpose": "Experiment E-SPN-0004 in the spin arena: the overlap lattice Dirac operator gives one species with exact lattice chiral symmetry.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L2 (L2: known physics reproduced on a stated model).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/spin/chirality.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-SPN-0004",
+        "quote": null
+      }
+    ]
+  }
+}

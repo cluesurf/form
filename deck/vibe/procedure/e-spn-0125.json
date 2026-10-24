@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "a79f0098-6728-4dbd-9977-a63012df9a5d",
+  "title": "E-SPN-0125: singles at one dock never fuse into a mover along a new line, pass at L1 (G1, G2, G3; X-cube fusion...",
+  "purpose": "Experiment E-SPN-0125 in the spin arena: singles at one dock never fuse into a mover along a new line, pass at L1 (G1, G2, G3; X-cube fusion, angle 2 of 3d motion): $K = w_P$ is line-preserving and keeps the single-line count on all 679,936 firing docks of two and three singles with any vacuum full lines (0 fusions; with three singles one vibe lands on the line of a + b on 360,448 docks, with two on 0), and every other piece acts line by line as in the vacuum, so the difference from the vacuum holds at least two lines through the hub at every beat, while a translation needs it on one line: no fused mover exists at any period; exhaustively, 0 translations over all 264 pairs and 1,760 triples of loves at X in a vacuum-free stand-in (every coin history, 24 and 8 beats, 27,250,464 states, fewest line classes 2, and 0 one-class nodes in the line-class closure at every depth) and 0 over 14,168 runs of the working knit with its vacuum (6 paths at side 4, 64 beats, and side 8, 32 beats; fewest differing lines 2, 0 readings off the star); a planted table that sends (1,1,0,0) and (1,-1,0,0) onto the line of (1,0,1,0) gives 1,484 fused translations, a bare lone love 262 translations on its own line, and a lone love on the vacuum stays on its line.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L1 (L1: known mathematics, correctly confirmed).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/spin/fused-mover.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-SPN-0125",
+        "quote": null
+      }
+    ]
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "186a3f84-423e-4f9c-8230-1c3ac7380d30",
+  "title": "E-GRV-0102: warping the bulk's clock with its scale leaves the static pull exactly as it was, so the short-range...",
+  "purpose": "Experiment E-GRV-0102 in the gravity arena: warping the bulk's clock with its scale leaves the static pull exactly as it was, so the short-range correction keeps hyperbolic 4-space's shape and not Randall-Sundrum II's, fail on W3RS as derived: a static field has no rate, so it solves the link weights' Laplacian whatever divides the rate, and the warped stack's force equals the one-clock stack's to 5.0e-5 and the linear solve's to 1.2e-4; exact and bounded (Gauss 0 off, no line off the husk, curl 0, 0 wraps, every remainder in its window, reversal bit for bit); k is 0.549 of the husk alone's against the prediction's 0.566 (2.9 percent, gate 3); the correction is positive, 0.34 and 0.15 at r = 4 and 8 (within 24 percent of the prediction), log slope 1.16 against RS's 1.87 and 0.27 to 0.54 of RS's size; RS's shape needs the lapse inside the link weights as well (theory: slope 1.51).",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L2 (L2: known physics reproduced on a stated model).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/gravity/warp-husk-static.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-GRV-0102",
+        "quote": null
+      }
+    ]
+  }
+}

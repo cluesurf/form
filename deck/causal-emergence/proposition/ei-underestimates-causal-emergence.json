@@ -1,0 +1,45 @@
+{
+  "record": "proposition",
+  "id": "60390e62-ddc1-49b3-822b-57947062dc16",
+  "kind": "mathematical",
+  "epistemic_status": "simulated",
+  "title": "EI underestimates causal emergence",
+  "statements": [
+    {
+      "id": "df177c9e-6a2a-40c3-8b22-c87f963eff4e",
+      "text": "Effective information misses some cases of macroscale causation that Causal Emergence 2.0 detects, so CE 1.0 underestimates causal emergence.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-23"
+    }
+  ],
+  "current_statement": "df177c9e-6a2a-40c3-8b22-c87f963eff4e",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "c40bbd28-a2c5-4730-84c0-90f7ae0644de",
+        "locator": "section 1 and section 6.2",
+        "quote": "the use of EI actually underestimates causal emergence"
+      }
+    ]
+  }
+}

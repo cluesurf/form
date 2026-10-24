@@ -1,0 +1,39 @@
+{
+  "record": "observation",
+  "id": "2deaf160-349e-40db-820d-b2e6738922d4",
+  "kind": "documentary_record",
+  "epistemic_status": "observed",
+  "description": "As of the 2014 review, quantum tunneling across gap junctions, quantum correlations between microtubules in different neurons, and photon quantum detection by retinal cilia were untested, and superposition tests of OR were several years from firm conclusions.",
+  "method": "document_review",
+  "status": "reported",
+  "source": "c0602528-f093-4705-abc3-e13d7657a680",
+  "procedure": null,
+  "variable": null,
+  "value": null,
+  "unit": null,
+  "uncertainty": null,
+  "sample_size": null,
+  "replication_count": null,
+  "quality": null,
+  "limitations": null,
+  "conflicts_of_interest": null,
+  "observed_at": "2013-08-20",
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "c0602528-f093-4705-abc3-e13d7657a680",
+        "locator": "section 5.7, predictions 15, 16, 18, 19",
+        "quote": "but they appear to remain several years away from being able to achieve firm conclusions"
+      }
+    ]
+  }
+}

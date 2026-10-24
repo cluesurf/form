@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "0bc3236b-057a-4009-bef8-d73f17f3b78a",
+  "title": "E-SLF-0145: an uncaused spark lowers self-coherence, so the deterministic self is the most self-authored",
+  "purpose": "Experiment E-SLF-0145 in the selves arena: an uncaused spark lowers self-coherence, so the deterministic self is the most self-authored.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L2 (L2: known physics reproduced on a stated model).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/selves/uncaused-spark-erodes-authorship.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-SLF-0145",
+        "quote": null
+      }
+    ]
+  }
+}

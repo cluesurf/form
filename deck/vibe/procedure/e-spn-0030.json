@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "9abb3f40-bfd1-44d5-bd68-f4d076075481",
+  "title": "E-SPN-0030: a 2-component Dirac walk on {3,4,3,4} streams chirality at the light speed and mixes it under a mass",
+  "purpose": "Experiment E-SPN-0030 in the spin arena: a 2-component Dirac walk on {3,4,3,4} streams chirality at the light speed and mixes it under a mass.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L2 (L2: known physics reproduced on a stated model).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/spin/sp-spinor-field-3434.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-SPN-0030",
+        "quote": null
+      }
+    ]
+  }
+}

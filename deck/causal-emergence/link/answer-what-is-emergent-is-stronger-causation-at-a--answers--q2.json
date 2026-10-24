@@ -1,0 +1,28 @@
+{
+  "record": "link",
+  "id": "1ddcab93-42ec-4859-870f-520b93a1110b",
+  "from": "c9a0a86d-62fb-458b-8798-eff03ca01fa3",
+  "to": "455dff7d-b66c-449d-b2d7-52521b99cba5",
+  "relation": "answers",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "730ddfd3-ad1a-4e42-9b1d-3ef590ddaba4",
+        "locator": "abstract",
+        "quote": "Causal emergence is the theory that macroscales can reduce the noise in causal relationships, leading to stronger causes at the macroscale."
+      }
+    ]
+  }
+}

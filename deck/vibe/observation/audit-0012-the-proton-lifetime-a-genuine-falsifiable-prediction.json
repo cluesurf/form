@@ -1,0 +1,39 @@
+{
+  "record": "observation",
+  "id": "05064077-748f-444c-8201-db371cc04b9d",
+  "kind": "documentary_record",
+  "epistemic_status": "observed",
+  "description": "What the cited code does: E-FRC-0043 is one-loop running of measured couplings. The no-leptoquark control was a typed constant, and the particle content is assumed.",
+  "method": "document_review",
+  "status": "reported",
+  "source": "ad6054a9-572b-4cc8-bb69-ac9b768ecc75",
+  "procedure": null,
+  "variable": null,
+  "value": null,
+  "unit": null,
+  "uncertainty": null,
+  "sample_size": null,
+  "replication_count": null,
+  "quality": null,
+  "limitations": null,
+  "conflicts_of_interest": null,
+  "observed_at": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "research/paper.ts ERRATA",
+        "quote": null
+      }
+    ]
+  }
+}

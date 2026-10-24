@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "e3e9a2ef-62ae-4101-b21a-e462d4b155e1",
+  "title": "E-FRC-0167: the string tension on the confined side of the D4 field: at the registered point (beta0 5.88, Polyakov...",
+  "purpose": "Experiment E-FRC-0167 in the gauge arena: the string tension on the confined side of the D4 field: at the registered point (beta0 5.88, Polyakov under 0.011) the coupled field shows an area law, chi(2,2) = 0.386 +- 0.016 across three starts, and on the confined branch at the transition coupling (beta0 7.09) 16 chi(2,2) = 4.4 against about 6.0 for SU(3), while the field-borne potential of twisted strings rises (86, 116, 165) some 50 times steeper than chi, and the meson is frozen.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L2 (L2: known physics reproduced on a stated model).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/gauge/sigma-confined-string.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-FRC-0167",
+        "quote": null
+      }
+    ]
+  }
+}

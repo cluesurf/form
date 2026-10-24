@@ -1,0 +1,34 @@
+{
+  "record": "link",
+  "id": "d8e1253f-02fe-422b-94fb-36bf541372bf",
+  "from": "35c7f9ac-859e-48c0-906e-77cd341365e8",
+  "to": "5c24f0f9-c678-40cf-97f1-1d6cb0055159",
+  "relation": "supports",
+  "strength": null,
+  "rationale": "Masked words activated mainly visual cortex, while the same words seen evoked widespread visual, parietal and frontal activation.",
+  "rule": null,
+  "status": "accepted",
+  "origin": [
+    {
+      "repository": "global-workspace",
+      "id": "3bcc77ba-480f-4fe4-92d5-c292e85006d5"
+    }
+  ],
+  "provenance": {
+    "written_by": "github:lancejpollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "427ab436-e19c-4d65-8751-38211ed05943",
+        "locator": "p. 47 and Fig. 1",
+        "quote": "backward-masked visual words activate mainly visual cortex, whereas identical conscious words evoke widespread visual, parietal and frontal activation"
+      }
+    ]
+  }
+}

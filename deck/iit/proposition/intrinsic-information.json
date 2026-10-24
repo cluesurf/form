@@ -1,0 +1,45 @@
+{
+  "record": "proposition",
+  "id": "3b0cb73b-78af-4a31-bcd8-106919e8a3f6",
+  "kind": "definitional",
+  "epistemic_status": "designed",
+  "title": "Intrinsic information",
+  "statements": [
+    {
+      "id": "88b62e1b-7c57-402e-a0bb-6dd91440c26e",
+      "text": "Intrinsic information measures the difference a system takes or makes over itself for a given cause state and effect state. The system specifies the state for which it is maximal.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-23"
+    }
+  ],
+  "current_statement": "88b62e1b-7c57-402e-a0bb-6dd91440c26e",
+  "status": "active",
+  "voice": "framework",
+  "defines": "intrinsic information",
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "8443eb2e-406e-4acc-94e8-33cbabbd3679",
+        "locator": "section \"Postulates of physical existence\" (full text)",
+        "quote": "This state is the one with maximal intrinsic information (ii), a measure of the difference a system takes or makes over itself for a given cause state and effect state."
+      }
+    ]
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "25145b8f-2376-4b0a-ac74-ca5b73773ef4",
+  "title": "E-CMP-0014: the reversible rule is a sparse one-hot local-attention update, with exact activity pruning on...",
+  "purpose": "Experiment E-CMP-0014 in the computation arena: the reversible rule is a sparse one-hot local-attention update, with exact activity pruning on vacuum-fixed rules (speedup vanishes on a dense state, and the creating rule has a live vacuum).",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L1 (L1: known mathematics, correctly confirmed).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/computation/sparse-attention-update.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-CMP-0014",
+        "quote": null
+      }
+    ]
+  }
+}

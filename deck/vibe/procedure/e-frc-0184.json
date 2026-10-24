@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "61ede454-c181-4b59-87ac-454ae38192d7",
+  "title": "E-FRC-0184: noise shaping in time for the carried-remainder force: second- and third-order sigma-delta and the best...",
+  "purpose": "Experiment E-FRC-0184 in the gauge arena: noise shaping in time for the carried-remainder force: second- and third-order sigma-delta and the best reversible notch $1 - c z + z^2$ on each plaquette, still an exact integer bijection with Gauss exact, tested on the light battery (coherent husk waves at |B| 1 to 1024, the hot-field estimators, the love-fear floor, heating) against the symbol prediction that $(1 - z)^L$ cannot halve the heating because the massive band fills a third of the Nyquist range.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L2 (L2: known physics reproduced on a stated model).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/gauge/photon-noise-time.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-FRC-0184",
+        "quote": null
+      }
+    ]
+  }
+}

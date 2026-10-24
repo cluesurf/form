@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "f0dbdec4-4c03-477e-bed3-16660df3457b",
+  "title": "E-QTM-0133: Tsirelson's bound reached exactly by a finite history: from |0>|+>, three like meetings with one link...",
+  "purpose": "Experiment E-QTM-0133 in the quantum arena: Tsirelson's bound reached exactly by a finite history: from |0>|+>, three like meetings with one link move before the third take the knot to Schmidt weights (1/2, 1/2, 0) and CHSH = 2 sqrt 2, in exact Eisenstein arithmetic and in the model's own grid weights and kernels; no word with one or two meetings does, and the love-fear singlet phase never does.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L1 (L1: known mathematics, correctly confirmed).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/quantum/tsirelson-reached-exactly.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-QTM-0133",
+        "quote": null
+      }
+    ]
+  }
+}

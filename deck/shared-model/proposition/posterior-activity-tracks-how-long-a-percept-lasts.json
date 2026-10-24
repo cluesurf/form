@@ -1,0 +1,63 @@
+{
+  "record": "proposition",
+  "id": "ea4beaba-c257-4a92-ac33-958f604d9014",
+  "kind": "empirical",
+  "epistemic_status": "observed",
+  "title": "Posterior cortex holds activity for as long as a percept lasts",
+  "statements": [
+    {
+      "id": "7da4ad12-c881-4967-aabe-0361aaf8f11d",
+      "text": "During conscious perception of a visual stimulus, some sites in posterior cortex hold sustained activity that tracks how long the stimulus is seen, as integrated information theory predicted in the Cogitate adversarial test.",
+      "language": "en",
+      "scope": "suprathreshold visual stimuli of 0.5 to 1.5 seconds, intracranial EEG, Cogitate experiment 1",
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-23"
+    }
+  ],
+  "current_statement": "7da4ad12-c881-4967-aabe-0361aaf8f11d",
+  "status": "active",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": {
+    "value": "open",
+    "reason": "Proposed for integration in the seed proposal, pending the user's review.",
+    "basis": [],
+    "proposal": null
+  },
+  "origin": [
+    {
+      "repository": "iit",
+      "id": "5c32f7b6-9915-46a5-8c78-379485bb203d"
+    },
+    {
+      "repository": "global-workspace",
+      "id": "86bc9e72-0e9c-4a6c-84f6-51a23fa43f38"
+    }
+  ],
+  "provenance": {
+    "written_by": "github:lancejpollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "5acfdefa-f208-419c-af36-1ae64e17cdcf",
+        "locator": "Fig. 1 legend (full text)",
+        "quote": "For prediction 2 (maintenance of conscious content), IIT posits that conscious content is actively maintained in the posterior cortex"
+      },
+      {
+        "source": "5acfdefa-f208-419c-af36-1ae64e17cdcf",
+        "locator": "Results, maintenance of conscious content",
+        "quote": "In posterior cortex ROIs, 25 electrodes (out of 657) measured sustained activity tracking stimulus duration"
+      }
+    ]
+  }
+}

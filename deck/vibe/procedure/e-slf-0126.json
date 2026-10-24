@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "315fb0fd-85d5-4f05-b9ee-0c0aa928d9fc",
+  "title": "E-SLF-0126: shadow-pressure attraction on the real 24-direction D4 coin (net momentum points toward a...",
+  "purpose": "Experiment E-SLF-0126 in the selves arena: shadow-pressure attraction on the real 24-direction D4 coin (net momentum points toward a vacuum-excluding body).",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L2 (L2: known physics reproduced on a stated model).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/selves/shadow-pressure-d4.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-SLF-0126",
+        "quote": null
+      }
+    ]
+  }
+}

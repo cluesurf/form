@@ -1,0 +1,28 @@
+{
+  "record": "link",
+  "id": "00675c32-c5d7-4006-81ac-8f1d215219d1",
+  "from": "27e3822d-9b5e-43be-93f1-0d848eb75646",
+  "to": "9f4551d6-03c3-4827-ab08-ccd9515fbe1b",
+  "relation": "requires",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "bfa85443-4b77-43f1-b5f2-ec1850a4bc3c",
+        "locator": "accepted manuscript p. 11",
+        "quote": "Instead of delivering a phenomenology of objecthood, instrumental (control-oriented) interoceptive inference plausibly underlies a phenomenology related to the evaluation of the allostatic consequences of regulatory actions"
+      }
+    ]
+  }
+}

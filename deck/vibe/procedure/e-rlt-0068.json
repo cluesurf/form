@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "605a3cff-87ff-41cb-a53e-d92a54d5a547",
+  "title": "E-RLT-0068: a pair move that never flips a sign, by a latent sign on every token, fail on the held color as...",
+  "purpose": "Experiment E-RLT-0068 in the relativity arena: a pair move that never flips a sign, by a latent sign on every token, fail on the held color as predicted: no flip in 148,611 meetings (the plain move 31,798), frame covariance 0 mismatches (plain 130,910, swap-phase control 116,970), fermion number 108 of 108, W(F4) and CPT 0 failures, 0 non-states, but pairs made from calm tokens with different points change the held color on 1,286 of 3,888 dock-beats; with the neutral veto added every gate holds (0 held-color changes, 334 pairs made, 0 mismatches).",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L2 (L2: known physics reproduced on a stated model).",
+  "status": "completed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/relativity/labeled-pairs.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "research/result.ts R-FRC-0003",
+        "quote": null
+      }
+    ]
+  }
+}

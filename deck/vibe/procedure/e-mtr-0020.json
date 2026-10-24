@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "78e7c9b4-7f89-4b83-bacc-67bcb6a95be2",
+  "title": "E-MTR-0020: shells with stand-in electrons that carry the doublet label, at a0 = 8: two per orbital from the...",
+  "purpose": "Experiment E-MTR-0020 in the quantum arena: shells with stand-in electrons that carry the doublet label, at a0 = 8: two per orbital from the doublet's count, filled in their own mean field in one husk Coulomb well, against the $n^2$ shells, the Madelung order and the closures at 2, 10 and 18.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L2 (L2: known physics reproduced on a stated model).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/matter/doublet-shells.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-MTR-0020",
+        "quote": null
+      }
+    ]
+  }
+}

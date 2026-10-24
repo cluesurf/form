@@ -1,0 +1,28 @@
+{
+  "record": "link",
+  "id": "85edeb2f-c246-4753-954d-69779a0b540b",
+  "from": "d15769c1-1b8e-4e00-b43c-f81941503a56",
+  "to": "9ed936ab-759b-4e68-97af-9cc476fa4959",
+  "relation": "weakens",
+  "strength": null,
+  "rationale": "verdict open. the turning weave's turn lifts after four beats to (-1, +1) in $SU(2)_L \\times SU(2)_R$, and its palindromic schedule nets +1 over its period (E-SPN-0044). The role carries spin one half: under the 2 pi turn every role is a doublet and a scalar (E-SPN-0051, E-SPN-0054), and with every role locked into its doublet turn sign and exchange sign agree on every charge-one state (E-SPN-0071, stand-in tokens). But the adopted knit copies all 24 roots at once, so its copies commute and the spin never enters the band (E-SPN-0083). The doublet-locked stream that would carry it was adopted on 2026-09-26 and is not built",
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "research/objection.ts",
+        "quote": null
+      }
+    ]
+  }
+}

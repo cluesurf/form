@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "18bff561-4d0c-4a62-9b46-f9536d1341c0",
+  "title": "E-GRV-0116: the held horizon's 32 percent gap from the placed lump is flux sent into the bulk, and its exterior is...",
+  "purpose": "Experiment E-GRV-0116 in the gravity arena: the held horizon's 32 percent gap from the placed lump is flux sent into the bulk, and its exterior is fixed by M plus one number, fail on G3 only (a Gauss gate set on a still-ringing field): E-GRV-0112's grown lump sends 924 of its 1600 units out through held rim steps and 676 down, where the placed lump sends all 1600 down; at r = 8 the gap is partition +36 percent, horizon size -2.8, waves -0.03; the settled force equals x_placed + beta (x_free - x_placed), beta the measured rim flux over the free lump's (0.84, 0.89, 0.80), to 1.6, 1.8 and 0.6 percent on accretion, outside-in and M = 1200, 0 wraps, while the placed lump (22 to 34 percent) and the free lump (5 to 7 percent) each refuse; grown and placed differ only in massive modes the side-24 box cannot outrun.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L2 (L2: known physics reproduced on a stated model).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/gravity/horizon-flux-budget.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-GRV-0116",
+        "quote": null
+      }
+    ]
+  }
+}

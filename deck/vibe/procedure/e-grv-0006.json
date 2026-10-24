@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "f57d6f5b-a683-46e4-b689-23fec1d3e26f",
+  "title": "E-GRV-0006: gravity as curvature, positive curvature focuses geodesics (2A works, the emergent metric sourced by 3A...",
+  "purpose": "Experiment E-GRV-0006 in the gravity arena: gravity as curvature, positive curvature focuses geodesics (2A works, the emergent metric sourced by 3A, no base change), the negative bulk defocuses (2B fails locally).",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L2 (L2: known physics reproduced on a stated model).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/gravity/curvature-focusing.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-GRV-0006",
+        "quote": null
+      }
+    ]
+  }
+}

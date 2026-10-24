@@ -1,0 +1,39 @@
+{
+  "record": "observation",
+  "id": "44e8da92-8cc5-48f7-8be7-a6b45a2b233a",
+  "kind": "experimental_result",
+  "epistemic_status": "observed",
+  "description": "Cogitate (2025): no sustained content-specific synchronization was found within posterior cortex between category-selective areas and V1/V2, the preregistered IIT prediction, with Bayesian support for the null for gamma-band synchrony.",
+  "method": "experiment",
+  "status": "reported",
+  "source": "dbe9b66c-4ffb-4615-9fd2-aa5c75424db8",
+  "procedure": "63b85d16-f128-4efc-8b55-8bca33f01370",
+  "variable": null,
+  "value": null,
+  "unit": null,
+  "uncertainty": null,
+  "sample_size": 256,
+  "replication_count": null,
+  "quality": null,
+  "limitations": "One adversarial study of visual consciousness with suprathreshold faces, objects, letters and false fonts. Tests only the predictions both teams preregistered. Limited iEEG sampling of V1/V2.",
+  "conflicts_of_interest": null,
+  "observed_at": "2025-04-30",
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "dbe9b66c-4ffb-4615-9fd2-aa5c75424db8",
+        "locator": "Discussion",
+        "quote": "For IIT, the lack of sustained synchronization within posterior cortex represents the most direct challenge, based on our preregistration."
+      }
+    ]
+  }
+}

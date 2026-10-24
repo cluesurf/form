@@ -1,0 +1,50 @@
+{
+  "record": "proposition",
+  "id": "2af23c27-8ffd-4e1f-be0c-66b18970c3f1",
+  "kind": "empirical",
+  "epistemic_status": "simulated",
+  "title": "E-FRC-0089: pure SU(3) gauge theory has a mass gap: the variational 0++ glueball mass, on a plateau from t = 0 to 2...",
+  "statements": [
+    {
+      "id": "09f6cebf-16ef-4796-9c8e-2dedf2ec36eb",
+      "text": "Pure SU(3) gauge theory has a mass gap: the variational 0++ glueball mass, on a plateau from t = 0 to 2, matches the published Wilson-action lattice mass at beta 5.7, and sits below the continuum m r0 = 4.21 by the known scalar dip of a coarse lattice.",
+      "language": "en",
+      "scope": "experiment E-FRC-0089, arena gauge, depth L2 (L2: known physics reproduced on a stated model)",
+      "conditions": "substrates: any. In a paper: false",
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-22"
+    }
+  ],
+  "current_statement": "09f6cebf-16ef-4796-9c8e-2dedf2ec36eb",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": {
+    "value": "open",
+    "reason": "holds in the vibe claim graph",
+    "basis": [],
+    "proposal": null
+  },
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "research/result.ts R-FRC-0001",
+        "quote": null
+      }
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "record": "link",
+  "id": "3d1535b8-44ed-4cd3-9c5f-2265c4206dcc",
+  "from": "ce67b4b1-ff4a-417b-a622-24bfb507c213",
+  "to": "757ea101-bdf4-4c03-af3b-0a892c43a221",
+  "relation": "requires",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "18748a2a-239c-4c8a-84be-d6db8f91e70d",
+        "locator": "section X, p. 41",
+        "quote": "is the product of valence × intensity × consciousness"
+      }
+    ]
+  }
+}

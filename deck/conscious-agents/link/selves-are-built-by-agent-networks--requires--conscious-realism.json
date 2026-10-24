@@ -1,0 +1,28 @@
+{
+  "record": "link",
+  "id": "ac83f2e3-3eeb-4eb3-b376-de2d5261bfc0",
+  "from": "cfb65650-b42e-4e91-af9c-870bea54347e",
+  "to": "5e3e8519-290a-44e2-afce-36a4247ecbf7",
+  "relation": "requires",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "2207dc33-f8a8-469f-99b2-286f1139ed74",
+        "locator": "section 4",
+        "quote": "a self must be constructed by networks of interacting conscious agents."
+      }
+    ]
+  }
+}

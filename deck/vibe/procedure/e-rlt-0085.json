@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "85323114-d2ab-4411-8a58-4270dbe1b504",
+  "title": "E-RLT-0085: the lone bounce knit on the oriented hub vacuum through E-FRC-0159's battery at sides divisible by 4...",
+  "purpose": "Experiment E-RLT-0085 in the relativity arena: the lone bounce knit on the oriented hub vacuum through E-FRC-0159's battery at sides divisible by 4, against H remeasured there, partial (the swap-phase control reads 0 once the own points are carried): all 14 quantum gates pass (CHSH 2.552), and the wake is bounded by the committed dressing at every side (13 to 28 trits per period on sides 8 to 16, committed up to 1,830), so the dressing gates newly pass on 5 counts; 2 gates newly fail, both structural: the vacuum's 12 lines stay 12 line components (committed 3), because the collision that keeps a lone vibe from scattering the vacuum also keeps it on its own line, and walls do not quantize (44,691 trits); the exact periodic husk transport keeps the charge and sound isotropic through $k^4$ (exponents 4.00, 4.01) but the trace and shear read 0.06 and -0.26, as do the isometric hub's (-0.06, -0.82), where the point group forces isotropy: the reader does not resolve them.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L2 (L2: known physics reproduced on a stated model).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/relativity/lone-bounce-battery.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-RLT-0085",
+        "quote": null
+      }
+    ]
+  }
+}

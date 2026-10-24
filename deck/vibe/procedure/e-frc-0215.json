@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "ee36b86d-ef83-4ae7-b49d-d04c9af53a77",
+  "title": "E-FRC-0215: a force on matter: a trit charge with a stand-in inertia crosses when its position counter passes a...",
+  "purpose": "Experiment E-FRC-0215 in the gauge arena: a force on matter: a trit charge with a stand-in inertia crosses when its position counter passes a dock, reads the shaped light's shadow flux as an integer and is pushed by it: it accelerates exactly in a uniform husk field and reads the static Coulomb field to a tenth of a percent at rest, reversibly and with Gauss exact, but each crossing creates the transverse energy of the unit it drops (about 16 r times the Coulomb binding at any depth), so energy is not conserved and a released pair runs away.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L2 (L2: known physics reproduced on a stated model).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/gauge/trit-force.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-FRC-0215",
+        "quote": null
+      }
+    ]
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "6a11d350-306c-47ed-bddd-8c289b516c8b",
+  "title": "E-GRV-0057: no $1 / r^2$ entropic force toward a held knot on the adopted knit, fail on H1, H2 and H3: the drift of...",
+  "purpose": "Experiment E-GRV-0057 in the gravity arena: no $1 / r^2$ entropic force toward a held knot on the adopted knit, fail on H1, H2 and H3: the drift of a test blob is a push away at every r0 = 4 to 8 (E-GRV-0056), so there is no pull to fit and the exponent is not evaluable; the push itself falls as $r0^{-2.92}$ over 8 beats ($r0^2 D = -10.8$, -6.7, -7.4, -5.3, -5.7), set by the causal arrival (the knot first touches the blob at beat 1, 2, 3, 3, 4) rather than a field; the settled entropy gradient dS/dr is within 3 standard errors of zero at every r0 (largest 1.1e-4 +- 6.2e-5), so F = T dS/dr has no gradient to be proportional to.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L2 (L2: known physics reproduced on a stated model).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/gravity/knot-inverse-square.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-GRV-0057",
+        "quote": null
+      }
+    ]
+  }
+}

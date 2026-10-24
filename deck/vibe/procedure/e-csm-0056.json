@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "c2d6059f-87de-4d2c-b973-16e34638286c",
+  "title": "E-CSM-0056: the peaked spectrum at decoupling: at beat 17 the transfer spectrum alternates ten to one (even modes at...",
+  "purpose": "Experiment E-CSM-0056 in the cosmology arena: the peaked spectrum at decoupling: at beat 17 the transfer spectrum alternates ten to one (even modes at extrema, odd modes at nulls, the first null where the measured sound speed puts k $c_s$ t = pi over 2 within a few percent), by beat 34 the alternation is gone and the beat-17 null at k = 3 has become a peak (0.11 to 0.53), which only phase-coherent common-start oscillation can do (the standard coherence argument for the real CMB peaks, run as an experiment), with the Silk decline capping the tail, so the peak positions and their coherent motion are measured and only the peak heights await the coupled potentials.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L2 (L2: known physics reproduced on a stated model).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/cosmology/decoupled-peak-spectrum.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-CSM-0056",
+        "quote": null
+      }
+    ]
+  }
+}

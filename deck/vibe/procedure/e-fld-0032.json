@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "a5ab405e-b530-4357-9179-96da5f513827",
+  "title": "E-FLD-0032: a cold vacuum with a kinetic threshold has energy, a quiet vacuum, sound and a viscosity on one rule...",
+  "purpose": "Experiment E-FLD-0032 in the fluids arena: a cold vacuum with a kinetic threshold has energy, a quiet vacuum, sound and a viscosity on one rule: tones carry kinetic stores, two tones head on make a real pair only when each brings a unit (0 of 576 collisions below, 288 of 576 above), the empty vacuum never changes and a lone love never makes anything, and a gas below threshold rings at 0.694 extrapolated to k = 0 (2 percent under c / 2) and relaxes a shear as nu $k^2$ with nu = 0.56 constant to 7 percent from L = 12 to 24 (exponent 1.95), with energy, P, the energy current, charge, local color, reversal and CPT exact; the viscosity is anisotropic by 12.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L2 (L2: known physics reproduced on a stated model).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/fluids/cold-vacuum.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-FLD-0032",
+        "quote": null
+      }
+    ]
+  }
+}

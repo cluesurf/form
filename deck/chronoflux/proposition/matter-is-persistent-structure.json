@@ -1,0 +1,45 @@
+{
+  "record": "proposition",
+  "id": "75eb5586-d333-44cf-a045-18dcb360f768",
+  "kind": "empirical",
+  "epistemic_status": "hypothesized",
+  "title": "Matter is persistent structure in the conserved continuum",
+  "statements": [
+    {
+      "id": "95824114-5cc4-49af-80b9-17e9903b1273",
+      "text": "Matter is not an extra primitive substance. It is a finite-energy, localizable and recoverable organization of the temporal and coherent fields whose declared signature persists through lawful evolution.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "95824114-5cc4-49af-80b9-17e9903b1273",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "e2e6e998-8b7c-44d4-84bb-0cdaeb06d0a9",
+        "locator": "abstract",
+        "quote": "Matter is not inserted as an additional primitive substance."
+      }
+    ]
+  }
+}

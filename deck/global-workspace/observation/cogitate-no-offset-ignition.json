@@ -1,0 +1,39 @@
+{
+  "record": "observation",
+  "id": "94d5f203-724b-4c65-8965-61d7d7ad7a5e",
+  "kind": "experimental_result",
+  "epistemic_status": "observed",
+  "description": "Cogitate (2025): none of 655 prefrontal iEEG electrodes showed the GNWT onset-and-offset profile (BF01 > 3 for all), though 99 showed onset responses and the same model detected onset-offset profiles in 10 visual-cortex electrodes.",
+  "method": "experiment",
+  "status": "reported",
+  "source": "dbe9b66c-4ffb-4615-9fd2-aa5c75424db8",
+  "procedure": "63b85d16-f128-4efc-8b55-8bca33f01370",
+  "variable": null,
+  "value": null,
+  "unit": null,
+  "uncertainty": null,
+  "sample_size": 256,
+  "replication_count": null,
+  "quality": null,
+  "limitations": "One adversarial study of visual consciousness with suprathreshold faces, objects, letters and false fonts. Tests only the predictions both teams preregistered.",
+  "conflicts_of_interest": null,
+  "observed_at": "2025-04-30",
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "dbe9b66c-4ffb-4615-9fd2-aa5c75424db8",
+        "locator": "Results, maintenance of conscious content",
+        "quote": "However, none of the 655 electrodes measured the temporal profile predicted by GNWT (that is, onset and offset)."
+      }
+    ]
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "record": "proposition",
+  "id": "e595ee22-6aa5-45a9-8f62-c144ba618969",
+  "kind": "empirical",
+  "epistemic_status": "hypothesized",
+  "title": "Adaptive robots will need competent, goal-seeking parts",
+  "statements": [
+    {
+      "id": "14633e7d-78aa-441e-87ea-bf670947c97e",
+      "text": "Adaptive, useful robotics will require components that are themselves competent and goal-seeking, at the price that such parts can occasionally defect, as cancer cells do.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": "Highly adaptive robots built from parts with no local goals.",
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-23"
+    }
+  ],
+  "current_statement": "14633e7d-78aa-441e-87ea-bf670947c97e",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": {
+    "resolution_criterion": "Highly adaptive robotic systems are achieved only with components that pursue local goals, and none are achieved with uniformly passive parts.",
+    "resolver": "independent_review",
+    "locked_at": "2019-12-13",
+    "outcome": null,
+    "resolved_at": null,
+    "observation": null
+  },
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "9d7dc0d8-1f18-43d2-b86a-16d31ae12fd3",
+        "locator": "section Predictions and Research Program",
+        "quote": "It is a prediction of this view that adaptive, useful robotics will require components that are themselves competent and goal-seeking."
+      }
+    ]
+  }
+}

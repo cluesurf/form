@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "b7f01357-0514-4687-bee4-3b8e4ae0a551",
+  "title": "E-GRV-0094: a bulk that grows below the husk takes every content line with no sink placed, and screens the husk's...",
+  "purpose": "Experiment E-GRV-0094 in the gravity arena: a bulk that grows below the husk takes every content line with no sink placed, and screens the husk's pull to a Yukawa of about one dock, fail on B3 and B4: with 2 layers of 8 times the docks and a floor, Gauss is exact on husk and bulk, the depth summed from the ground is path independent and no register wraps, but the force of a content-4 source falls to 0.46, 0.24, 0.12, 0.054, 0.019 of E-GRV-0090's 1/r at r = 1 .. 5 (Yukawa length 1.03 against the geometry's 0.92), where a shrinking bulk keeps a 1/r pull at 0.6 .. 0.9 of the husk's; a dense lump's radius follows its volume (1.00, 1.73, 3.00 for 100, 400, 1600 units) not its area, and the M = 400 lump still demands a step of 2.30 and slips 79,283 times, energy 0 to 374.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L2 (L2: known physics reproduced on a stated model).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/gravity/open-husk-static.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-GRV-0094",
+        "quote": null
+      }
+    ]
+  }
+}

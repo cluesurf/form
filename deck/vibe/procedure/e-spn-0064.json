@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "6abd84cf-4821-422a-a286-3d8a465dd806",
+  "title": "E-SPN-0064: the two g = 2 schedules of E-MTR-0017 through E-SPN-0053's token gates, a STAND-IN: the 16-beat nested...",
+  "purpose": "Experiment E-SPN-0064 in the spin arena: the two g = 2 schedules of E-MTR-0017 through E-SPN-0053's token gates, a STAND-IN: the 16-beat nested palindrome and x, y, z, x against rest mass, per-beat covariance under the 12 husk turns, the 2 pi sign, mass isotropy, exact continuity and Gauss's law, the speed of the E-FRC-0179 photon and g = 2 in every plane.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L2 (L2: known physics reproduced on a stated model).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/spin/g-two-token-gates.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-SPN-0064",
+        "quote": null
+      }
+    ]
+  }
+}

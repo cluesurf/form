@@ -1,0 +1,45 @@
+{
+  "record": "proposition",
+  "id": "dabb92c1-31d7-479a-a95b-23924cffa57c",
+  "kind": "empirical",
+  "epistemic_status": "hypothesized",
+  "title": "Dissonance in the brain is suffering",
+  "statements": [
+    {
+      "id": "0019897d-8c9d-4207-ad04-3601f3060983",
+      "text": "If there is dissonance in the brain there is suffering, and if there is suffering there is dissonance in the brain.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-23"
+    }
+  ],
+  "current_statement": "0019897d-8c9d-4207-ad04-3601f3060983",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "8796a23b-967c-4b26-829c-7ddb7717ca3a",
+        "locator": "main text",
+        "quote": "If there is dissonance in the brain, there is suffering; if there is suffering, there is dissonance in the brain."
+      }
+    ]
+  }
+}

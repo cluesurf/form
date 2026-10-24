@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "a0369dad-7801-4bd3-be6f-79900d537b0d",
+  "title": "E-CSM-0059: the husk does not inflate, pass: on the true {3,4,3,4} mesh the husk the seed reaches grows as the cubic...",
+  "purpose": "Experiment E-CSM-0059 in the cosmology arena: the husk does not inflate, pass: on the true {3,4,3,4} mesh the husk the seed reaches grows as the cubic l1 ball, 1, 7, 25, 63, 129 docks by beats 0 to 4 (measured) and 833 by beat 8, a per-beat growth falling as 3 / t that exceeds one e-fold per beat only at beats 1 and 2 (3.22 e-folds in all), while the bulk seed cone grows 1, 25, 481, 8857, 162049 at ln 18.28 = 2.9 e-folds a beat without end: the exponential room is volume off the husk, so inflation's growth has no husk counterpart, and its horizon and flatness jobs are done by the single seed and the horosphere instead (E-CSM-0058).",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L2 (L2: known physics reproduced on a stated model).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/cosmology/husk-growth-rate.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-CSM-0059",
+        "quote": null
+      }
+    ]
+  }
+}

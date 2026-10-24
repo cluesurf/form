@@ -1,0 +1,28 @@
+{
+  "record": "link",
+  "id": "c11d32a1-ad36-45ec-afb3-1b75cd0c2e68",
+  "from": "ff66b667-e447-4b3a-b22e-783b973f4109",
+  "to": "e6252fbd-58ab-4f65-b36e-bf5df2c552d4",
+  "relation": "requires",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "9d7dc0d8-1f18-43d2-b86a-16d31ae12fd3",
+        "locator": "section Defining Individuation From a Cognitive Perspective",
+        "quote": "The formalism places no upper bound on the size of the cognitive light cone."
+      }
+    ]
+  }
+}

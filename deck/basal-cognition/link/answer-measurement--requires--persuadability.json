@@ -1,0 +1,28 @@
+{
+  "record": "link",
+  "id": "daafc1fc-30be-4736-8314-5b60a7c1cc49",
+  "from": "0089d7d6-6931-4443-b600-b93ca6cb078c",
+  "to": "d7ead889-69d2-4ac3-ba19-b5e082cdb6a6",
+  "relation": "requires",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "fd7382f9-52a5-4beb-9680-fc341ff15b98",
+        "locator": "Table 1",
+        "quote": "Estimates of intelligence of any system are observer-dependent"
+      }
+    ]
+  }
+}

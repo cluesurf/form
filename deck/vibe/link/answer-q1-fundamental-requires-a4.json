@@ -1,0 +1,38 @@
+{
+  "record": "link",
+  "id": "575c0ae5-1113-420e-814b-cd65013f1138",
+  "from": "42df4127-8ced-4727-b9cd-78e32c9df11d",
+  "to": "f0af02b4-357b-4420-a419-1fe5fb7b82d5",
+  "relation": "requires",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "7d868dbb-9fb1-455b-8d46-8cf0dce8e24e",
+        "locator": "The goal",
+        "quote": "one deterministic, reversible, integer perception rule, growth, and the arrow"
+      },
+      {
+        "source": "7d868dbb-9fb1-455b-8d46-8cf0dce8e24e",
+        "locator": "The goal",
+        "quote": "Vibe starts from an assumption, not a result: experience is at the base of reality."
+      },
+      {
+        "source": "7d868dbb-9fb1-455b-8d46-8cf0dce8e24e",
+        "locator": "The goal",
+        "quote": "Nothing in the base is fixed."
+      }
+    ]
+  }
+}

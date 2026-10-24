@@ -1,0 +1,28 @@
+{
+  "record": "link",
+  "id": "662591f4-4bf3-4487-bf6f-70c185e0522e",
+  "from": "c8210cf6-459e-4aff-ba2f-6ebfa6439597",
+  "to": "c9586f0d-05ee-4412-a351-3283a6d4e9c0",
+  "relation": "supports",
+  "strength": 0.3,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "a528c72c-55f5-422d-b6c3-61a840e5810d",
+        "locator": "abstract",
+        "quote": "This paper presents a heuristic proof (and simulations of a primordial soup)"
+      }
+    ]
+  }
+}

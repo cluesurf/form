@@ -1,0 +1,28 @@
+{
+  "record": "link",
+  "id": "43fd1400-26d4-4e0a-847a-5e7d66506018",
+  "from": "6c46ef58-b6ff-4a6e-82c6-b2bd9c553fdf",
+  "to": "e01100d6-c62b-4840-a9d6-63e449c5658b",
+  "relation": "requires",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "8443eb2e-406e-4acc-94e8-33cbabbd3679",
+        "locator": "section \"Postulates of physical existence\" (full text)",
+        "quote": "The Φ-structure unfolded from a complex corresponds to the quality of consciousness."
+      }
+    ]
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "22fb4c90-4a62-4053-81c7-40254f99ee69",
+  "title": "E-FRC-0079: strong CP dissolved on the clock: the $Z_3$ vacuum manifold is three exact points (wrapped link...",
+  "purpose": "Experiment E-FRC-0079 in the gauge arena: strong CP dissolved on the clock: the $Z_3$ vacuum manifold is three exact points (wrapped link differences take exactly three values to machine precision and every closed-loop winding is an exact integer across five constructed sectors, while the continuous-phase control takes a continuum and fractional windings), and the committed charge knit is exactly T-reversible on generic states (re-measured, Hamming zero), so a CP-odd vacuum angle has neither a continuum to live in nor a T-violating sector to act through, theta is exactly zero rather than mysteriously small, and the vacuum-angle contribution to the neutron electric dipole moment is predicted to be exactly zero.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L2 (L2: known physics reproduced on a stated model).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/gauge/strong-cp-discrete-theta.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-FRC-0079",
+        "quote": null
+      }
+    ]
+  }
+}

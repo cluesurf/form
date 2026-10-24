@@ -1,0 +1,28 @@
+{
+  "record": "link",
+  "id": "7cbda471-05c1-4176-b370-28d2b0fb9121",
+  "from": "8df47f5b-142c-47cf-aaf2-e2d4f0ce8260",
+  "to": "38bd1a2f-f0af-40cf-8d1a-54774464af00",
+  "relation": "requires",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "fd7382f9-52a5-4beb-9680-fc341ff15b98",
+        "locator": "Table 1",
+        "quote": "Selves are not fixed, permanent agents"
+      }
+    ]
+  }
+}

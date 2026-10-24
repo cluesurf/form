@@ -1,0 +1,45 @@
+{
+  "record": "proposition",
+  "id": "952af8a8-47b4-45cd-a052-1b2321287e3d",
+  "kind": "empirical",
+  "epistemic_status": "hypothesized",
+  "title": "Neural annealing unifies four paradigms",
+  "statements": [
+    {
+      "id": "8cadbcd6-366e-4fbf-be14-fdac994fdeb1",
+      "text": "Neural annealing unifies the free energy principle, connectome-specific harmonic waves, the entropic brain hypothesis and the symmetry theory of valence.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-23"
+    }
+  ],
+  "current_statement": "8cadbcd6-366e-4fbf-be14-fdac994fdeb1",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "5119e232-06a9-431f-820d-84f3120be6f7",
+        "locator": "introduction",
+        "quote": "essentially a unification of Karl Friston's Free Energy Principle (FEP)"
+      }
+    ]
+  }
+}

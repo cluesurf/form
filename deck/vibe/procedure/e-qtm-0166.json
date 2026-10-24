@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "141e8c19-de93-493b-9a21-bb25b7a7b2e3",
+  "title": "E-QTM-0166: on C* the environment picks the dock's pleasure and pain count over the role, pass: the full sea couples...",
+  "purpose": "Experiment E-QTM-0166 in the quantum arena: on C* the environment picks the dock's pleasure and pain count over the role, pass: the full sea couples to nothing, so the environment is one other hole over 8 and 128 docks; a member superposed between pleasure-tone and pain-tone loses 2.0 to 3.2 times more coherence a beat than one superposed between two roles (0.110 to 0.283 against 0.054 to 0.107, mean over 96 beats and 144 cases each; 3.0 and 2.0 times at the first beat), the role loss equal in all 4 classes, the role populations moving by up to 0.167 while the tone's cannot; a tone-blind role-reading kernel reverses it (role loss 0.12 to 0.24, tone kept to 1e-11), and with the fear beat off neither dephases; the 8-dock box recurs every 24 beats, so this is a time-averaged loss, not a rate.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L2 (L2: known physics reproduced on a stated model).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/quantum/pointer-conserved.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-QTM-0166",
+        "quote": null
+      }
+    ]
+  }
+}

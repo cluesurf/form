@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "b2788e21-9bed-443d-9ac0-f44a75c97d36",
+  "title": "E-GRV-0086: the vacuum's response to one sparse pair, averaged over 24 genuinely different paths, is a massive core...",
+  "purpose": "Experiment E-GRV-0086 in the gravity arena: the vacuum's response to one sparse pair, averaged over 24 genuinely different paths, is a massive core plus an outgoing tail and no 1/r, pass: on side 16 (beats 16 to 63, 24 distinct full-key records, read at least 1,639 beats apart) the mean disturbance per husk column is 181.0 at r = 0, 20.0, 3.0, 3.7, 1.6, then 0.53, 0.77, 0.57, 0.36, 0, 0.35, 0.31 out to r = 11; the core fits $a + k e^{-r / 0.5}$ (rms 0.84) better than a + k/r (1.54); the tail from r = 4 fits $k / r^2$ (rms 0.20) better than k/r (0.30), though its log-log slope on nonzero shells is only -1.40, between the two; the registered key gives 2 distinct records over 8 start phases (2,560 and 2,681 alternating), so it could not be averaged.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L2 (L2: known physics reproduced on a stated model).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/gravity/vacuum-response-average.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-GRV-0086",
+        "quote": null
+      }
+    ]
+  }
+}

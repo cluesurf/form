@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "cce23741-5c54-4da7-a7a1-3b181f6f0dd8",
+  "title": "E-SPN-0189: no register member, light wall level or join pair carries or moves charge one, fail as derived: on the...",
+  "purpose": "Experiment E-SPN-0189 in the spin arena: no register member, light wall level or join pair carries or moves charge one, fail as derived: on the register rule the tone is a species label every piece leaves alone, so a member is one vibe and carries (love - fear)/3 = -1/3 or +1/3 in each half (16 member levels) and on every light wall level of the chiral slab (20 levels, L = 4 to 12, worst 5.6e-16), while spin one half holds (the full turn is -1 on both halves); the S -> D join keeps every tone pair (Delta Q 0), a neutral current, where a planted tone-turning contact reads -4/3; the register keeps only 8 one-body charges (5 with the SU(2)+ field), each eigenvalue at least 2-fold, so no Furey number operator lives on one member; charge one needs three like-tone members, two half + and one half - or three half -.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L2 (L2: known physics reproduced on a stated model).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/spin/member-charge.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-SPN-0189",
+        "quote": null
+      }
+    ]
+  }
+}

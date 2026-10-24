@@ -1,0 +1,50 @@
+{
+  "record": "proposition",
+  "id": "95f94bf4-23b0-403a-93c1-7016bdb89170",
+  "kind": "empirical",
+  "epistemic_status": "hypothesized",
+  "title": "A shift-symmetric temporal current unifies the dark background",
+  "statements": [
+    {
+      "id": "152c7cf0-49f9-4a3b-a00f-45c963afc20a",
+      "text": "Near a stable kinetic minimum, one shift-symmetric temporal current splits on the homogeneous background into a vacuum-like term and a dust-like term scaling as $a^{-3}$, a background unification of dark energy and dark matter behavior. It does not by itself derive galactic halos, lensing or cluster dynamics.",
+      "language": "en",
+      "scope": null,
+      "conditions": "graded by the author as a background result with halos, lensing and cluster dynamics left open",
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "152c7cf0-49f9-4a3b-a00f-45c963afc20a",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": {
+    "value": "open",
+    "reason": "The author grades the background result as closed and the halo, lensing and cluster sectors as open. No test has decided it.",
+    "basis": [],
+    "proposal": null
+  },
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "db3aa7f1-67ae-4522-969b-2f3449dc0679",
+        "locator": "abstract",
+        "quote": "This gives a controlled background unification of dark energy and dark matter behaviour. It does not, by itself, derive galactic haloes."
+      }
+    ]
+  }
+}

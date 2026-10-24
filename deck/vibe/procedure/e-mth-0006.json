@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "214ae913-5f3f-43a6-b416-8d8cd5789e46",
+  "title": "E-MTH-0006: a coarse conservation test is blind exactly when the block tiles whole periods of the destroyed quantity...",
+  "purpose": "Experiment E-MTH-0006 in the method arena: a coarse conservation test is blind exactly when the block tiles whole periods of the destroyed quantity AND that quantity sums to zero over a period, which refutes the simpler commensurability guess.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L2 (L2: known physics reproduced on a stated model).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/method/coarse-blindness-criterion.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-MTH-0006",
+        "quote": null
+      }
+    ]
+  }
+}

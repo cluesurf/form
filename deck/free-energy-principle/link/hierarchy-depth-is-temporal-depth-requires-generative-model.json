@@ -1,0 +1,28 @@
+{
+  "record": "link",
+  "id": "d833a3dc-c6a1-4a88-929a-e8b42b9b026a",
+  "from": "fe4f9e7f-ddeb-459f-9fe8-edcf566b40ed",
+  "to": "d8065bab-fd02-46e9-bec2-6508828ae91c",
+  "relation": "requires",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "c3908a50-f858-42d6-8c6b-be810bd5a82f",
+        "locator": "note 10 (full text)",
+        "quote": "higher levels of a hierarchical model generally represent sequences or trajectories with a greater temporal span."
+      }
+    ]
+  }
+}

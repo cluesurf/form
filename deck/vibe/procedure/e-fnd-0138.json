@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "190631a5-308a-4b67-aaad-82e4dcaed9fd",
+  "title": "E-FND-0138: the converged telegraph table on the exact unwrapped instrument: masslessness exact at zero flips over...",
+  "purpose": "Experiment E-FND-0138 in the foundations arena: the converged telegraph table on the exact unwrapped instrument: masslessness exact at zero flips over ten schedule periods (the old lap dips were the instrument, not physics), the charge-conjugate pair exactly degenerate on a third independent instrument, the interacting mass near-universal (band about one point three, the interaction universality expressed in the mass sector), and the pre-committed falsifier FIRED, the converged band sitting decisively below the one point seven six the joint lepton factorization required, closing that account with the model own data while the zitterbewegung mechanism itself stands.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L2 (L2: known physics reproduced on a stated model).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/foundations/exact-telegraph-table.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-FND-0138",
+        "quote": null
+      }
+    ]
+  }
+}

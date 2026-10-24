@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "cd55e3bb-e437-46a4-b378-d83b2be71747",
+  "title": "E-GRV-0024: the Bethe-lattice band-edge boundary coupling falls as 1/r for every branching, but the tree is...",
+  "purpose": "Experiment E-GRV-0024 in the gravity arena: the Bethe-lattice band-edge boundary coupling falls as 1/r for every branching, but the tree is dimension-blind.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L1 (L1: known mathematics, correctly confirmed).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/gravity/gravity-tree.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-GRV-0024",
+        "quote": null
+      }
+    ]
+  }
+}

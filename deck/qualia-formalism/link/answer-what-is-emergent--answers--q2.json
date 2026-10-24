@@ -1,0 +1,28 @@
+{
+  "record": "link",
+  "id": "cc8b913c-8a46-4bf7-96c0-298f30ec21db",
+  "from": "78b44a35-e48e-4969-9a05-fdcab251bcba",
+  "to": "455dff7d-b66c-449d-b2d7-52521b99cba5",
+  "relation": "answers",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "5aaa6bc4-6581-4a09-8249-33c9872090bd",
+        "locator": "main text",
+        "quote": "don't exist intrinsically because there are no objective, frame-invariant"
+      }
+    ]
+  }
+}

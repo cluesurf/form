@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "5ec36f2e-9ea3-4acc-b117-5e7eeae8ca2f",
+  "title": "E-MTH-0029: the registered path key does not run through the beat, and a named full-period key reads the same...",
+  "purpose": "Experiment E-MTH-0029 in the method arena: the registered path key does not run through the beat, and a named full-period key reads the same findings, pass: over 64 beats exchangeAt's key takes 1 value per dock line on side 16 and 4 on sides 8 and 24 (mixBin's frame key 1 and 16), while fullKey (t 40503 + (x 18 + l) 27145 + 12345 + offset) mod $2^{16}$ takes 64 on every line, frame and store slot; rerun on it (side 16, 'pass', Born path, 64 beats) a lone love stays quiet (23 trits apart at beat 64, 4 on the old key), G scrambles and faster (595,934; 41,057 by beat 32 against 1,179), 8 pairs stay quiet (1,039 against 714) and 32 scramble (594,083 against 583,789), and 16 pairs scramble on the full key (576,000) where the old key's run was only turning (17,544); the old key through the new runner reproduces vetoPathRunner bit for bit.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L1 (L1: known mathematics, correctly confirmed).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/method/full-period-key.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-MTH-0029",
+        "quote": null
+      }
+    ]
+  }
+}

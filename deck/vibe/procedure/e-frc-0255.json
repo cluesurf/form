@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "6bd8892a-0b6a-4a79-a5f1-055954f680a9",
+  "title": "E-FRC-0255: matter reads the spanned light at E / Q only where its integer angle takes a few units, fail on P3 at r...",
+  "purpose": "Experiment E-FRC-0255 in the gauge arena: matter reads the spanned light at E / Q only where its integer angle takes a few units, fail on P3 at r = 8 and on the control at r = 4: E-FRC-0252's Peierls test vibe on the spanned light (D 32, side 24, 512 beats, exact over Z[zeta_1024], Gauss exact, both lights and the walkers reversed) with a source q = 65 times E-FRC-0252's is pushed 0.537, 0.383, 0.259, 0.165, 0.096 docks at r = 4 .. 8, love away and fear toward, at 0.997, 0.989, 0.961, 0.895, 0.764 of the static field divided by Q (gate 0.8 to 1.25), falling off where the integer angle ends at 1; with E-FRC-0252's own +4 the integer angle ends at 0 at every r and the push is 0.34 to 0.007 of its reference, so a unit charge on the spanned light needs about q times the beats to be read.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L2 (L2: known physics reproduced on a stated model).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/gauge/span-peierls-test-charge.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-FRC-0255",
+        "quote": null
+      }
+    ]
+  }
+}

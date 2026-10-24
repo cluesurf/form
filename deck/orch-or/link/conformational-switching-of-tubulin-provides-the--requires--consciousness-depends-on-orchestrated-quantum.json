@@ -1,0 +1,28 @@
+{
+  "record": "link",
+  "id": "73ec4a5b-a641-4b75-a7eb-9c4bece32cc2",
+  "from": "f885565d-ac69-4924-8679-3a1c31ff880f",
+  "to": "f992f9e0-4750-4368-93d8-934fbf1a78f2",
+  "relation": "requires",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "aa5fd6b7-8e47-4d59-b30a-6c17aa49e06d",
+        "locator": "p. 2",
+        "quote": "Previously, Hameroff and Penrose had also proposed that conformational switching could produce coupled electron-vibration qubits but this claim is withdrawn in the current review."
+      }
+    ]
+  }
+}

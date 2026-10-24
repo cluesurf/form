@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "b87f9579-f8fc-4f1d-8738-95fa3f78f641",
+  "title": "E-MSC-0001: block-spin decimation reproduces the exact 1D Ising beta function and runs to its fixed point",
+  "purpose": "Experiment E-MSC-0001 in the renormalization arena: block-spin decimation reproduces the exact 1D Ising beta function and runs to its fixed point.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L2 (L2: known physics reproduced on a stated model).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/general/open-rg-flow.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-MSC-0001",
+        "quote": null
+      }
+    ]
+  }
+}

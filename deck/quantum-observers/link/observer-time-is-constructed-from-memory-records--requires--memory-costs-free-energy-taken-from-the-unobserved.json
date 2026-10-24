@@ -1,0 +1,33 @@
+{
+  "record": "link",
+  "id": "68a3e372-9703-4e0c-a86b-cef3df50215d",
+  "from": "97a1d985-691b-41ab-bbac-4f456df021a7",
+  "to": "d6217e4a-08a1-4f1e-bba2-6924670b85a6",
+  "relation": "requires",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "4489b7d7-7273-4b67-a1c2-b53ddab0eeb5",
+        "locator": "section 3.1",
+        "quote": "Here tA is an A-specific time coordinate that must be constructed."
+      },
+      {
+        "source": "b187d010-15da-4476-b407-2a7922c1dcf1",
+        "locator": "section 1",
+        "quote": "The GHP provides a natural definition of system-relative entropic time"
+      }
+    ]
+  }
+}

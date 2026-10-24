@@ -1,0 +1,45 @@
+{
+  "record": "proposition",
+  "id": "1b8f6b8a-3a75-477b-94be-01812b6bf5f2",
+  "kind": "definitional",
+  "epistemic_status": "designed",
+  "title": "Bayesian mechanics",
+  "statements": [
+    {
+      "id": "d0da70f5-4a8d-45bf-a994-42f48a630542",
+      "text": "Bayesian mechanics is the probabilistic mechanics of systems with a particular partition, in which internal states encode the parameters of beliefs about external states. It is the field the principle founds.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-23"
+    }
+  ],
+  "current_statement": "d0da70f5-4a8d-45bf-a994-42f48a630542",
+  "status": "active",
+  "voice": "framework",
+  "defines": "bayesian mechanics",
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "86362c95-6abe-4959-bf7f-166fbbb5b70c",
+        "locator": "abstract (arXiv record)",
+        "quote": "These tools allow us to write down mechanical theories for systems that look as if they are estimating posterior probability distributions over the causes of their sensory states."
+      }
+    ]
+  }
+}

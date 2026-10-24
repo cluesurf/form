@@ -1,0 +1,39 @@
+{
+  "record": "observation",
+  "id": "5885fb85-8ee1-4b2f-a5bb-30a3ccd87402",
+  "kind": "simulation_result",
+  "epistemic_status": "simulated",
+  "description": "The bare knit has no amplitudes. The lattice gas with the nine-state pair table on every line has no quantum single-particle sector: its empty state is a global period-three oscillation, a single seeded value is a classical defect of at most two slots that never spreads, and two defects evolve as the exact union of their separate evolutions with zero cross term, while a coined Dirac walk seeded the same way spreads and interferes.",
+  "method": "simulation",
+  "status": "reported",
+  "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+  "procedure": "cfbcb4a2-7916-453f-b30f-a02a291b6b25",
+  "variable": null,
+  "value": null,
+  "unit": null,
+  "uncertainty": null,
+  "sample_size": null,
+  "replication_count": null,
+  "quality": null,
+  "limitations": "the bare knit only. A middle layer carrying amplitudes is not excluded. The signed weight on the role grid is that layer, adopted into the knit as the fear beat (E-FRC-0159, E-SPN-0063). It gives the roles amplitudes and leaves the positions classical (E-SPN-0081). measured with the pair table on every line (pairCollision), the committed knit until 2026-09-02 and the clock sector of the turning weave since. The period 3 is that pair clock. The committed turning weave's vacuum recurs at beat 24, not before (E-FND-0118). side 8 is even, so the mesh is two disconnected lattices and the run covers one component of 2,048 docks. What would overturn this finding: a counterexample: a seeded state whose difference from the vacuum spreads.",
+  "conflicts_of_interest": null,
+  "observed_at": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "research/result.ts R-FND-0001",
+        "quote": null
+      }
+    ]
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "386335ad-b13d-496c-b174-e4c6cf25071e",
+  "title": "E-FRC-0259: three flavors with the trimaximal mixing on the Clifford register do not break C and CP together, fail...",
+  "purpose": "Experiment E-FRC-0259 in the gauge arena: three flavors with the trimaximal mixing on the Clifford register do not break C and CP together, fail as derived: a flavor index W(F4) does not touch keeps every one-body property of E-FRC-0258 exactly (three copies of E-SPN-0160 at three exact light masses, gamma = 0, c/4, R = tan m/m, isotropy, every census closed, mixed flavors at 2 min M), but mixing on one half is removed by a change of basis, and no piece that keeps E-SPN-0160's Dirac pairing can couple the halves, since its register operators are the right multiplications of Cl+(4) and the volume element is central (rank-exact commutant, with rotations only the chiral masses remain); the one covariant coupling, a phase on the volume blade, makes the trimaximal phase physical (an exact rational T-odd asymmetry, odd in V, rephasing invariant, det[H+, H-] = -2iJ prod $dc^2$) at the cost of the Dirac band and CPT; so C and CP together, and baryon-number violation, need a many-body interaction between the halves, and the mirror half meets this one only through depth and that interaction.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L2 (L2: known physics reproduced on a stated model).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/gauge/flavor-register.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-FRC-0259",
+        "quote": null
+      }
+    ]
+  }
+}

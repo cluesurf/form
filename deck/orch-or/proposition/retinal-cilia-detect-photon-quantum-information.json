@@ -1,0 +1,52 @@
+{
+  "record": "proposition",
+  "id": "6c6e8e0e-5f1f-4608-977f-7dd467beb6a8",
+  "kind": "empirical",
+  "epistemic_status": "hypothesized",
+  "title": "Retinal cilia detect photon quantum information",
+  "statements": [
+    {
+      "id": "e5230188-c1f9-4687-ab10-ac280d2bd12c",
+      "text": "Microtubule-based cilia in retinal rod and cone cells detect photon quantum information.",
+      "language": "en",
+      "scope": "prediction 19 of 20, first published 1998",
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-23"
+    }
+  ],
+  "current_statement": "e5230188-c1f9-4687-ab10-ac280d2bd12c",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": {
+    "resolution_criterion": "A published experiment shows whether microtubule-based cilia in retinal photoreceptors process photon quantum information.",
+    "resolver": "specified_source",
+    "locked_at": "2013-08-20",
+    "outcome": null,
+    "resolved_at": null,
+    "observation": null
+  },
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "c0602528-f093-4705-abc3-e13d7657a680",
+        "locator": "section 5.7, prediction 19",
+        "quote": "Microtubule-based cilia in retinal rod and cone cells detect photon quantum information."
+      }
+    ]
+  }
+}

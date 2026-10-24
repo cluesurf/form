@@ -1,0 +1,28 @@
+{
+  "record": "link",
+  "id": "ffa4d965-b419-4431-b727-e092f1b77226",
+  "from": "aec1ab2c-10c8-43b4-97ba-1b041e3eed6d",
+  "to": "47640b03-c621-46bf-a99f-c9eba092c00e",
+  "relation": "requires",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "cd180db3-bb1d-4ab0-814c-72898fb077ef",
+        "locator": "abstract",
+        "quote": "Conversely, it predicts that feed-forward networks, even complex ones, are not conscious, nor are aggregates such as groups of individuals or heaps of sand."
+      }
+    ]
+  }
+}

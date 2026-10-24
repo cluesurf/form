@@ -1,0 +1,77 @@
+{
+  "record": "proposition",
+  "id": "ecbd5bbb-d8ba-44e0-ab8c-319dc3d45a14",
+  "kind": "philosophical",
+  "epistemic_status": "hypothesized",
+  "title": "Only experience exists",
+  "statements": [
+    {
+      "id": "444420b3-9e13-4d27-81ac-0872d4843ba5",
+      "text": "Only experience, or experiencing agents, exist. The physical world is how other experience appears from outside.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-23"
+    }
+  ],
+  "current_statement": "444420b3-9e13-4d27-81ac-0872d4843ba5",
+  "status": "active",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": {
+    "value": "open",
+    "reason": null,
+    "basis": [],
+    "proposal": null
+  },
+  "origin": [
+    {
+      "repository": "analytic-idealism",
+      "id": "54eac2d8-d0ed-4638-9caf-aa7aeffa2ed1"
+    },
+    {
+      "repository": "analytic-idealism",
+      "id": "6774690b-54ec-47ff-8705-ca42fe925636"
+    },
+    {
+      "repository": "conscious-agents",
+      "id": "5e3e8519-290a-44e2-afce-36a4247ecbf7"
+    }
+  ],
+  "provenance": {
+    "written_by": "github:lancejpollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "837f7d25-4439-4106-a1b4-eb4d29a9819b",
+        "locator": "abstract, p. 125",
+        "quote": "there is only cosmic consciousness."
+      },
+      {
+        "source": "7d9f5b68-21a4-4a36-9b4e-f216fc30a7ce",
+        "locator": "abstract",
+        "quote": "spatially unbound consciousness is posited to be nature's sole ontological primitive."
+      },
+      {
+        "source": "837f7d25-4439-4106-a1b4-eb4d29a9819b",
+        "locator": "abstract, p. 125",
+        "quote": "The inanimate world we see around us is the extrinsic appearance of these thoughts."
+      },
+      {
+        "source": "19e8411a-507c-4ca0-8040-078f5faca0c7",
+        "locator": "Conscious realism, Hypothesis 1",
+        "quote": "The world W consists entirely of conscious agents."
+      }
+    ]
+  }
+}

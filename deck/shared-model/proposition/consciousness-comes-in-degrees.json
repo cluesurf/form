@@ -1,0 +1,109 @@
+{
+  "record": "proposition",
+  "id": "6a5e9ada-49b0-4ed6-9508-684552a4be4f",
+  "kind": "empirical",
+  "epistemic_status": "hypothesized",
+  "title": "Consciousness comes in degrees",
+  "statements": [
+    {
+      "id": "091f6bec-ce38-4f94-a9fb-9f930f309254",
+      "text": "Consciousness comes in degrees, not as all or nothing.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-23"
+    }
+  ],
+  "current_statement": "091f6bec-ce38-4f94-a9fb-9f930f309254",
+  "status": "active",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": {
+    "value": "open",
+    "reason": null,
+    "basis": [],
+    "proposal": null
+  },
+  "origin": [
+    {
+      "repository": "iit",
+      "id": "45569ebd-c53e-431d-bb52-ef02ca1c9a74"
+    },
+    {
+      "repository": "iit",
+      "id": "c5fbd6c2-34c4-4d64-a7e8-5a4419b5bb9c"
+    },
+    {
+      "repository": "basal-cognition",
+      "id": "76f6703f-2916-4878-98ee-753d0bb9cad5"
+    },
+    {
+      "repository": "quantum-observers",
+      "id": "985f2365-7028-498a-bc33-3c5945881f50"
+    },
+    {
+      "repository": "qualia-formalism",
+      "id": "ce67b4b1-ff4a-417b-a622-24bfb507c213"
+    },
+    {
+      "repository": "global-workspace",
+      "id": "8a230362-9e2b-4450-93f7-c0cdc1400a17"
+    }
+  ],
+  "provenance": {
+    "written_by": "github:lancejpollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "1b7e0869-7945-448c-93ed-2e34b04584f8",
+        "locator": "abstract",
+        "quote": "It predicts that consciousness is graded, is common among biological organisms and can occur in some very simple systems."
+      },
+      {
+        "source": "e4d8c629-580e-4340-95ea-b0c6e8e40b8d",
+        "locator": "abstract",
+        "quote": "The theory entails that consciousness is a fundamental quantity, that it is graded, that it is present in infants and animals, and that it should be possible to build conscious artifacts."
+      },
+      {
+        "source": "be55f4bb-688d-42c5-882a-ea49baa45c25",
+        "locator": "abstract",
+        "quote": "According to IIT, a MICS specifies the quality of an experience and integrated information ΦMax its quantity."
+      },
+      {
+        "source": "483bd2e4-b56f-4564-9b55-9b48c0af0291",
+        "locator": "section Consciousness",
+        "quote": "consciousness also comes in degrees and kinds (is not binary)"
+      },
+      {
+        "source": "1d7355fd-09dd-4f09-b56d-fa1379448518",
+        "locator": "abstract",
+        "quote": null
+      },
+      {
+        "source": "43a138a3-627b-44ff-a9ed-32f4c1e128d3",
+        "locator": "section 5.3",
+        "quote": null
+      },
+      {
+        "source": "88c540e3-3056-4e37-8da4-5d2e98506a4b",
+        "locator": "section X, p. 41",
+        "quote": "is the product of valence × intensity × consciousness"
+      },
+      {
+        "source": "ad13b17d-5106-4ad7-b20e-cd8cc419505b",
+        "locator": "section \"An enabling condition: vigilance\"",
+        "quote": "use ‘states of vigilance’ to refer to the non-transitive meaning, i.e. a continuum of states which encompasses wakefulness, sleep, coma, anesthesia, etc."
+      }
+    ]
+  }
+}

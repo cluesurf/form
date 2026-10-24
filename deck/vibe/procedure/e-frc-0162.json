@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "e0c4fb46-d432-4b4f-a439-08e988753bd3",
+  "title": "E-FRC-0162: covariant link moves that cool the Sigma(648) field: every move U -> z W $U^{-1}$ W, W an odd word of...",
+  "purpose": "Experiment E-FRC-0162 in the gauge arena: covariant link moves that cool the Sigma(648) field: every move U -> z W $U^{-1}$ W, W an odd word of the staples and z central, is covariant and its own inverse, and the richer the words the lower the drain goes, from 0.74 per triangle with one staple to -0.53 with 40 words and three centers, and a heat-assisted drain with the same moves reaches -0.80, below a seeded annealing reference at -0.71 after 20,000 sweeps.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L2 (L2: known physics reproduced on a stated model).",
+  "status": "completed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/gauge/sigma-cooling-moves.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "research/result.ts R-FRC-0006",
+        "quote": null
+      }
+    ]
+  }
+}

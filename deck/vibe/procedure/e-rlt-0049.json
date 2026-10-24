@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "63469465-dc16-4bbb-8e82-e56f7410dfb9",
+  "title": "E-RLT-0049: a palindrome buys CPT back and loses the isotropy: folding the orbit knit into a palindrome gives exact...",
+  "purpose": "Experiment E-RLT-0049 in the relativity arena: a palindrome buys CPT back and loses the isotropy: folding the orbit knit into a palindrome gives exact CPT at the mirror phase with the identity coin map, but the glide goes with the fold, its period group shrinks to the 3 beat symmetries (reducible), and its period-averaged long-wave anisotropy rises from 0.23 to 0.63; extended from glides to period groups (glides and reversals together, any motif, any period) and to every subgroup of every beat stabilizer of five beat shapes, including the head-on swap and free orientations, no irreducible period group exists, so the fork between CPT and isotropy by symmetry survives the palindrome.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L2 (L2: known physics reproduced on a stated model).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/relativity/palindromic-orbit-knit.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-RLT-0049",
+        "quote": null
+      }
+    ]
+  }
+}

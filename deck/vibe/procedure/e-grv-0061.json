@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "c4558e6d-f5c1-4432-bac7-c1de60f5f347",
+  "title": "E-GRV-0061: a crowd under the occupancy-gated take is a mirror, not a lens, fail on H2, H3 and H4: exact and...",
+  "purpose": "Experiment E-GRV-0061 in the gravity arena: a crowd under the occupancy-gated take is a mirror, not a lens, fail on H2, H3 and H4: exact and charge-blind (crowd minus flipped 0.000 +- 0.000 on every arrival and deflection), but a signal aimed through it is turned back (the front reaches the source side at beat 7 and the far detector only round the torus, behind column first at 17, detector 19 to 21) instead of coming through slowed; rays beside it are not bent (-0.15 +- 0.24, 0, 0.70 +- 0.86, 0 at b = 3 to 6); a test blob is pushed AWAY while the gate holds the crowd (-16.3 +- 4.7, -12.2 +- 3.6, -5.3 +- 2.2, +2.7 +- 2.2 at r = 4, 5, 6, 8 after 16 beats); after its first take at beat 16 the crowd bursts (it keeps 27 to 29 percent of its energy at beat 32) and the blob readings become the burst, not a pull (slope -0.46).",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L2 (L2: known physics reproduced on a stated model).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/gravity/gated-take-crowd.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-GRV-0061",
+        "quote": null
+      }
+    ]
+  }
+}

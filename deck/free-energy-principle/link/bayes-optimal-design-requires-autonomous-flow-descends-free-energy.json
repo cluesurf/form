@@ -1,0 +1,28 @@
+{
+  "record": "link",
+  "id": "ebfdd17d-b405-42b2-9ca4-93431bbe495d",
+  "from": "e7ab3bf1-05dc-4791-9f5e-9eb017bd3fba",
+  "to": "e47aadcb-f881-4a3b-bb08-92040f1ccec3",
+  "relation": "requires",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "951a63ba-fbb2-4b78-af38-52646f22dbe0",
+        "locator": "abstract (arXiv record)",
+        "quote": "Teleologically, the free energy principle offers a normative account of self-organisation in terms of optimal Bayesian design and decision-making, in the sense of maximising marginal likelihood or Bayesian model evidence."
+      }
+    ]
+  }
+}

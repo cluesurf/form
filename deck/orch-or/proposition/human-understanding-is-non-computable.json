@@ -1,0 +1,45 @@
+{
+  "record": "proposition",
+  "id": "9a3b1f40-da9e-4053-8439-72331c05d855",
+  "kind": "philosophical",
+  "epistemic_status": "hypothesized",
+  "title": "Human understanding is non-computable",
+  "statements": [
+    {
+      "id": "ffbb081d-0a9c-4629-b652-bec4b37e8fdc",
+      "text": "By Gödel’s theorem and related considerations, certain aspects of human consciousness, such as mathematical understanding, lie beyond the scope of any computational system.",
+      "language": "en",
+      "scope": "the Gödelian argument of The Emperor’s New Mind (1989) and Shadows of the Mind (1994)",
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-23"
+    }
+  ],
+  "current_statement": "ffbb081d-0a9c-4629-b652-bec4b37e8fdc",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "c0602528-f093-4705-abc3-e13d7657a680",
+        "locator": "section 4.1",
+        "quote": "both books argued, by appealing to Gödel’s theorem and other considerations, that certain aspects of human consciousness, such as understanding, must be beyond the scope of any computational system"
+      }
+    ]
+  }
+}

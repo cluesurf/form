@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "56c8c76b-9dfe-4c9d-8433-dc6baa2984f6",
+  "title": "E-FRC-0283: the trit rule light is in the Coulomb phase by monopole count, partial: exact cube counts on its...",
+  "purpose": "Experiment E-FRC-0283 in the gauge arena: the trit rule light is in the Coulomb phase by monopole count, partial: exact cube counts on its harmonic vacuum, side 8 to 16 husk, read 0.0156 monopoles per cube at D = 4 (0.021 of random flux, under the 0.03 line), 0.0029 at D = 5, 0.0007 at D = 6 and none in 32,768 cubes at D = 12 and 16, while random flux reads 0.725 and a smooth field wound round its windows 0; but the square-face coupling beta_eff = 0.56 at D = 4 is below the Villain transition 0.643 (crossing at D = 4.5), and at twice the vacuum variance D = 4 reads past the confining line.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L2 (L2: known physics reproduced on a stated model).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/gauge/monopole-density.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-FRC-0283",
+        "quote": null
+      }
+    ]
+  }
+}

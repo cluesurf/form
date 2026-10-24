@@ -1,0 +1,28 @@
+{
+  "record": "link",
+  "id": "ffe0b486-3b9a-45fc-a58c-4d5f7dceda43",
+  "from": "7c8b99dc-d973-4835-900d-340b33ae0a12",
+  "to": "946fdc3b-9759-42d6-a687-54e8c401dfd8",
+  "relation": "requires",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "9359bfc1-6fff-41a8-8d7c-91af2f730b74",
+        "locator": "section 4.3",
+        "quote": "We will equate a 1PP ontologically and axiomatically with fields shaped into such bounded pockets."
+      }
+    ]
+  }
+}

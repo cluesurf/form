@@ -1,0 +1,45 @@
+{
+  "record": "proposition",
+  "id": "cfb65650-b42e-4e91-af9c-870bea54347e",
+  "kind": "philosophical",
+  "epistemic_status": "hypothesized",
+  "title": "Selves are built by networks of agents",
+  "statements": [
+    {
+      "id": "e2783273-f50a-41fb-ab9e-5e038bae9b36",
+      "text": "A self is not given with an agent: it must be constructed by networks of interacting conscious agents.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-23"
+    }
+  ],
+  "current_statement": "e2783273-f50a-41fb-ab9e-5e038bae9b36",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "2207dc33-f8a8-469f-99b2-286f1139ed74",
+        "locator": "section 4",
+        "quote": "a self must be constructed by networks of interacting conscious agents."
+      }
+    ]
+  }
+}

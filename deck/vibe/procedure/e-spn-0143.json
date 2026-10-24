@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "120ff6f8-04dc-4b41-9336-87366be76bb0",
+  "title": "E-SPN-0143: the swap coin gives the dock mixer one limiting speed c/2 with no gamma, but its light mass needs 1/7...",
+  "purpose": "Experiment E-SPN-0143 in the spin arena: the swap coin gives the dock mixer one limiting speed c/2 with no gamma, but its light mass needs 1/7, fail (U4a): at zeta = -1 the coin is the line swap, 22 of 24 one-body bands are exactly flat and the moving pair obeys sin w = sin(theta/2) g(K), so gamma = 0 (7.6e-12) and by Cauchy-Schwarz on the 2-design every band moves strictly under c0 = c/2 (top 0.488 c at theta*, 0.49999997 c massless at |K| 1e-3), and every other coin fails (the massless pair tops c0 by 2 gamma K: 0.571 c at n = 1); in Z[w][1/6] e^(i theta) is a sixth root of unity (Hilbert 90), so the lightest singlet has R = tan(pi/6)/(pi/6) = 1.102658, and alternating in-ring angles (pi, 4pi/3) halves the mass per beat but leaves R 1.102658 exactly (the kick sets R, not its rate); inverting 7 = N(3 + w) gives dense angles k arccos(11/14): at e^(i theta*) = -(360 + 37 w)/343 the singlet is 12 + 11 + 1 with m 0.046778 and R 1.000730, eta -1.8e-4, and k = 2 (R 1.006906) and k = 11 (m 0.0030) follow; the stream moves at c only bare (0.99999997 c at n 4096, theta 0).",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L2 (L2: known physics reproduced on a stated model).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/spin/swap-cone.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-SPN-0143",
+        "quote": null
+      }
+    ]
+  }
+}

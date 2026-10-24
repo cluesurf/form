@@ -1,0 +1,28 @@
+{
+  "record": "link",
+  "id": "9de3ff65-3493-4c93-9d31-ad868658c5cd",
+  "from": "cdb83291-096a-41be-8f7a-75e14edc24dd",
+  "to": "15eb5784-eda9-416f-b2d6-865b0d94a29c",
+  "relation": "weakens",
+  "strength": null,
+  "rationale": "The interface theory is defended by an evolutionary debunking argument the critique finds self-defeating.",
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "ee479c46-981b-4cf2-b053-6602099fd83a",
+        "locator": "abstract",
+        "quote": "I show that the argument is self-defeating"
+      }
+    ]
+  }
+}

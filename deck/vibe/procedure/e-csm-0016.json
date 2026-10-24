@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "12410809-6c9b-4be7-9a57-bdf64bd66643",
+  "title": "E-CSM-0016: the reversible rule churns forever from a generic state and is exactly reversible, an irreversible rule...",
+  "purpose": "Experiment E-CSM-0016 in the cosmology arena: the reversible rule churns forever from a generic state and is exactly reversible, an irreversible rule decays.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L2 (L2: known physics reproduced on a stated model).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/cosmology/eternal-bootstrap.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-CSM-0016",
+        "quote": null
+      }
+    ]
+  }
+}

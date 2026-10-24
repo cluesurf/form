@@ -1,0 +1,28 @@
+{
+  "record": "link",
+  "id": "41e6110f-9b88-445d-a1d9-7558848d5e43",
+  "from": "57d4afb8-0a54-4689-b77d-e55a35c75c35",
+  "to": "9b2a360b-2d76-4efb-8a4a-603e641ad90a",
+  "relation": "weakens",
+  "strength": null,
+  "rationale": "Chalmers argues that identifying experience with global availability leaves unanswered why availability is experienced.",
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "2b6b133e-4518-4282-a485-23150cbd9741",
+        "locator": "section 4, Some Case-studies",
+        "quote": "nothing internal to the theory explains why the information within the global workspace is experienced."
+      }
+    ]
+  }
+}

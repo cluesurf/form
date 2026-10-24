@@ -1,0 +1,50 @@
+{
+  "record": "proposition",
+  "id": "9c6341da-fc56-42e3-8581-ab287a006c6f",
+  "kind": "definitional",
+  "epistemic_status": "designed",
+  "title": "Causal primitives: sufficiency and necessity",
+  "statements": [
+    {
+      "id": "62fc5b5b-1fe2-4421-a648-bf574a8636bc",
+      "text": "Measures of causation rest on two causal primitives: sufficiency, the certainty about an effect given a cause, and necessity, the certainty about a cause given an effect.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-23"
+    }
+  ],
+  "current_statement": "62fc5b5b-1fe2-4421-a648-bf574a8636bc",
+  "status": "active",
+  "voice": "framework",
+  "defines": "causal primitives",
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "c40bbd28-a2c5-4730-84c0-90f7ae0644de",
+        "locator": "section 2.1",
+        "quote": "sufficiency is the certainty about an effect, given a cause, whereas necessity is the certainty about a cause, given an effect"
+      },
+      {
+        "source": "730ddfd3-ad1a-4e42-9b1d-3ef590ddaba4",
+        "locator": "abstract",
+        "quote": null
+      }
+    ]
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "91bf93b6-9041-4bab-b66e-7bbf4fac1275",
+  "title": "E-FRC-0250: no stable husk light moves at the locked token's top speed: c = sqrt(2 kappa / 3) is set by kappa = s f...",
+  "purpose": "Experiment E-FRC-0250 in the gauge arena: no stable husk light moves at the locked token's top speed: c = sqrt(2 kappa / 3) is set by kappa = s f alone, so c = 1/2 is kappa = 3/8, which the trit column light cannot reach at any depth (16 p = 3 (2D + 1), even against odd) and the quantum loop light reaches at every depth (m = 4j, c $r = 6 j^2$), but the husk curl-curl's top eigenvalue 16 makes every husk light with kappa > 1/4 unstable, so c <= 1/sqrt 6 < 1/2 and the locked token outruns every stable husk light's long-wave speed.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L2 (L2: known physics reproduced on a stated model).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/gauge/one-light-split.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-FRC-0250",
+        "quote": null
+      }
+    ]
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "c6238582-19b8-4db4-84d8-e6a431dac54f",
+  "title": "E-QTM-0125: the most magic state of n roles: 5/3 for one role exactly, 25/9 for two by a 20,000-start deterministic...",
+  "purpose": "Experiment E-QTM-0125 in the quantum arena: the most magic state of n roles: 5/3 for one role exactly, 25/9 for two by a 20,000-start deterministic search that nothing exceeds but not proven (the certified bound is 3), and the product formula $(5 / 3)^n$ fails at three roles, where an entangled state reaches 4.7739 above 125/27, so the magic rate per role lies between 1.684 and sqrt 3 and the fear-share ceiling rises toward 1/2.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L1 (L1: known mathematics, correctly confirmed).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/quantum/most-magic-roles.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-QTM-0125",
+        "quote": null
+      }
+    ]
+  }
+}

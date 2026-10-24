@@ -1,0 +1,45 @@
+{
+  "record": "proposition",
+  "id": "74467872-8ce5-46a3-9281-4d76a406ada7",
+  "kind": "empirical",
+  "epistemic_status": "hypothesized",
+  "title": "Vacuum stress depends on the local temporal dilation factor",
+  "statements": [
+    {
+      "id": "98756c23-1069-4306-b3e6-c66c7b1e4278",
+      "text": "The local vacuum stress depends on the temporal dilation factor $\\gamma_t$ of the conservation structure, so a controlled change in the temporal state of a bounded system shifts the Casimir force by a small fraction, with no new geometric scale.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "98756c23-1069-4306-b3e6-c66c7b1e4278",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "e564e66c-5c0a-442d-a31a-8df68b81634b",
+        "locator": "abstract",
+        "quote": "Within the Chronoflux formulation, the local vacuum stress depends on the temporal dilation factor that enters the covariant conservation structure of the theory."
+      }
+    ]
+  }
+}

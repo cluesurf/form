@@ -1,0 +1,28 @@
+{
+  "record": "link",
+  "id": "8b7b9e60-fd5f-416b-8fab-38c63ab94489",
+  "from": "c868f77e-6dc9-45c4-9137-e79963d8977a",
+  "to": "32cdef33-c3ab-44ac-b3f5-e633b389913f",
+  "relation": "supports",
+  "strength": null,
+  "rationale": null,
+  "rule": "deduction",
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "9f6802be-e2fa-4f89-b303-461db4c74e7e",
+        "locator": "Conclusion",
+        "quote": "objects and space-time are simply species-specific perceptual adaptions"
+      }
+    ]
+  }
+}

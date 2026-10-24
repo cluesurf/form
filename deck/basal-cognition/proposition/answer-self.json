@@ -1,0 +1,45 @@
+{
+  "record": "proposition",
+  "id": "498a96f5-fc4a-4b96-82e6-d01538dd0191",
+  "kind": "philosophical",
+  "epistemic_status": "hypothesized",
+  "title": "Answer: a self is the boundary of the goals a system can pursue",
+  "statements": [
+    {
+      "id": "52c32191-9f61-4755-b2f7-5346f4ba7cf6",
+      "text": "A self is a system defined by the size of the goals it can pursue, its cognitive light cone. Selves nest, overlap, change over a lifetime, and can shrink, as in cancer.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-23"
+    }
+  ],
+  "current_statement": "52c32191-9f61-4755-b2f7-5346f4ba7cf6",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "9d7dc0d8-1f18-43d2-b86a-16d31ae12fd3",
+        "locator": "abstract",
+        "quote": "Any Self is demarcated by a computational surface"
+      }
+    ]
+  }
+}

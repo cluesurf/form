@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "ce27bf2a-d2f2-4361-be97-51dacba4096d",
+  "title": "E-SPN-0104: the like meeting's split at unequal points is a contact channel, not a symmetry, and it never unbound...",
+  "purpose": "Experiment E-SPN-0104 in the spin arena: the like meeting's split at unequal points is a contact channel, not a symmetry, and it never unbound E-SPN-0093's cluster: the placement's frame did, pass: exactly two meetings with the equal-point phase w are a permutation times a phase (keep w I, exchange w SWAP), and each keeps the line law and the light cone exactly (0 of 6,144 and 20,736 mesh lines broken, 0 loves outside the cone on every window branch), the vacuum and a lone love bit for bit, norm and reversal; the transport along the line is flat (16 of 16 links, holonomy of order 6), so a cluster placed in one frame meets no unequal points, and with the drift cost and the fermion sign the working rule's own split holds the level for 128 beats exactly as the flat links do (fidelity at least 0.9991, share 0.9822, energy 0.33002, R90 as the stand-in's), as do keep and exchange; E-SPN-0103's point-0 placement is a different frame at every dock, and there no meeting binds (keep 0.16, exchange 0.32, split 0.19); both unbound controls refused; the cost confines a lone love and a pair (far weight 1.7e-4 and 6e-5 against 0.63 and 0.31) and leaves a $Z_3$-neutral trio's outside string at 0 links.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L2 (L2: known physics reproduced on a stated model).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/spin/permutation-meeting.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-SPN-0104",
+        "quote": null
+      }
+    ]
+  }
+}

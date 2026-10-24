@@ -1,0 +1,50 @@
+{
+  "record": "proposition",
+  "id": "4022f322-b9be-4be5-a41f-7f3ce0933abd",
+  "kind": "philosophical",
+  "epistemic_status": "hypothesized",
+  "title": "Continuity is the primitive physical law",
+  "statements": [
+    {
+      "id": "f372e814-c974-4780-a1a1-5f7c1a3ddb65",
+      "text": "Covariant continuity is the one law beneath all others: a physical distinction must stay lawfully related to itself through change, or no physical history joins its states. Conservation, admissibility, recoverability and persistence are its descendants.",
+      "language": "en",
+      "scope": "the Descendancy of Physical Law series, July 2026",
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "f372e814-c974-4780-a1a1-5f7c1a3ddb65",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "1cf60bbd-3fa2-4d65-8956-21024b44ab0b",
+        "locator": "abstract",
+        "quote": "I began beneath the branches and asked what must remain true before any physical distinction can persist through change. The answer is continuity."
+      },
+      {
+        "source": "27a9fcd8-78d2-4f0f-9a16-95edf37f72dc",
+        "locator": "section 1",
+        "quote": "Continuity is the law which carries that identity."
+      }
+    ]
+  }
+}

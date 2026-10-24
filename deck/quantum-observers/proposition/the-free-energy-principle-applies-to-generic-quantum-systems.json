@@ -1,0 +1,45 @@
+{
+  "record": "proposition",
+  "id": "0ec8c633-847a-425a-a552-7df24f9a4d8e",
+  "kind": "mathematical",
+  "epistemic_status": "inferred",
+  "title": "The free energy principle applies to generic quantum systems",
+  "statements": [
+    {
+      "id": "2a04a086-49ee-412e-8378-bd1c59932f2f",
+      "text": "The free energy principle has a quantum-theoretic form that applies to generic quantum systems without a spacetime background or scale assumptions, so quantum fields and black holes can be regarded as Bayesian observers.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-23"
+    }
+  ],
+  "current_statement": "2a04a086-49ee-412e-8378-bd1c59932f2f",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "4489b7d7-7273-4b67-a1c2-b53ddab0eeb5",
+        "locator": "section 5.2",
+        "quote": "Quantum fields, black holes, and other spatially-distributed or topologically-defined systems can, therefore, be regarded as Bayesian observers"
+      }
+    ]
+  }
+}

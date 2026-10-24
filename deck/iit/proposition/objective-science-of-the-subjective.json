@@ -1,0 +1,45 @@
+{
+  "record": "proposition",
+  "id": "417d2f47-19db-4ca9-b27c-07afeee4e706",
+  "kind": "philosophical",
+  "epistemic_status": "inferred",
+  "title": "Subjective properties can be accounted for objectively",
+  "statements": [
+    {
+      "id": "fd9e2b4f-b9f7-4424-bef8-8a2aa4521551",
+      "text": "What science must explain is what experience is intrinsically, not only what can be done with it. Relying only on behavioral, functional and neural correlates is the fallacy of misplaced objectivity.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-23"
+    }
+  ],
+  "current_statement": "fd9e2b4f-b9f7-4424-bef8-8a2aa4521551",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "414c75b9-bd59-403b-b875-c91df48f2de8",
+        "locator": "abstract",
+        "quote": "We argue that it is possible to account for subjective properties objectively once we move beyond cognitive functions and realize what experience is and how it is structured."
+      }
+    ]
+  }
+}

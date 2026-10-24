@@ -1,0 +1,28 @@
+{
+  "record": "link",
+  "id": "21aeebe4-fa7d-4c5a-ae64-0c4a27f01a2e",
+  "from": "31adfd89-c6d9-4dbe-8527-104109db48f8",
+  "to": "9b2a360b-2d76-4efb-8a4a-603e641ad90a",
+  "relation": "requires",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "9b21a09b-835f-4256-afbf-19425df2597e",
+        "locator": "section 6.3, p. 31",
+        "quote": "We envisage that the bringing together of these modules into the conscious workspace may suffice to account for the subjective sense of self."
+      }
+    ]
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "record": "proposition",
+  "id": "dc9529e8-6928-413c-9e5a-cd1bc7d2cda8",
+  "kind": "normative",
+  "epistemic_status": "normative",
+  "title": "Check idealism against neuroimaging of impaired and dissociated states",
+  "statements": [
+    {
+      "id": "e9d096cf-632e-4c5f-90d1-7d05a46f9814",
+      "text": "The checkable consequences lie in neuroimaging: states of reduced or impaired brain function should accompany richer experience, and dissociation should have a distinct measurable appearance. Systematic research into the pattern should continue.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-23"
+    }
+  ],
+  "current_statement": "e9d096cf-632e-4c5f-90d1-7d05a46f9814",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "4047cb59-a856-42f5-98c7-b6e9621caf6f",
+        "locator": "abstract",
+        "quote": "this paper suggests that an as-of-yet unrecognized causal principle underlying the entire pattern might be at work, whose further elucidation through systematic research could hold great promise."
+      }
+    ]
+  }
+}

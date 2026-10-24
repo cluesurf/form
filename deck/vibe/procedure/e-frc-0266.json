@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "3b93ce62-a226-4aca-8ecc-dbb38044c0ee",
+  "title": "E-FRC-0266: the two alphas read from one light: on the husk light the static permittivity from Gauss's law and the...",
+  "purpose": "Experiment E-FRC-0266 in the gauge arena: the two alphas read from one light: on the husk light the static permittivity from Gauss's law and the radiative one from a dimer's golden rule are both 6 and $c^2 = 2$ kappa / 3, so the Coulomb and golden-rule alphas are one number, sqrt(3 / (2 rho)) / (12 N); E-FRC-0240's 1 / (2 N sqrt rho) is the alpha of a lattice with one link per axis and speed sqrt(kappa) (the cubic control and the strip), and the sqrt 24 between them is 6 times sqrt(2/3), per link against per dock and the husk's speed, a convention and not a disagreement.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L2 (L2: known physics reproduced on a stated model).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/gauge/two-alphas.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-FRC-0266",
+        "quote": null
+      }
+    ]
+  }
+}

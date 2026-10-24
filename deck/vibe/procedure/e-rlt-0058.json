@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "2024f214-31d3-4ac4-b5ac-6f79290d3e0f",
+  "title": "E-RLT-0058: what the husk symmetry allows a knit transport: W(F4) forces the husk scalar transport (diffusion...",
+  "purpose": "Experiment E-RLT-0058 in the relativity arena: what the husk symmetry allows a knit transport: W(F4) forces the husk scalar transport (diffusion, sound) isotropic through $k^4$, so its anisotropy is of relative order $k^4$, but forces the husk shear only at leading order, leaving it $k^2$; the husk cubic group forces the scalars at $k^2$ and the shear at no order, Q8 the rank-2 scalars only, and the committed knit, the combined knit and the cold weave keep only {I, -I} (glides and reversals, searched over W(F4)), which forces nothing, so their husk transport may be anisotropic at leading order.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L1 (L1: known mathematics, correctly confirmed).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/relativity/husk-transport-symmetry.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-RLT-0058",
+        "quote": null
+      }
+    ]
+  }
+}

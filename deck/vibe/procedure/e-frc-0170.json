@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "af0baf73-16bc-411f-b578-df0c1b14683f",
+  "title": "E-FRC-0170: triples on a triangle, the algebra: Q = (love - fear) / 3 on the 27 triples of an A2 triangle reproduces...",
+  "purpose": "Experiment E-FRC-0170 in the gauge arena: triples on a triangle, the algebra: Q = (love - fear) / 3 on the 27 triples of an A2 triangle reproduces the Harari-Shupe table on the 15 unmixed triples, the lock between one arrangement and whole charge holds on those 15 and fails on the 6 love-calm-fear triples, and arrangement-color is a second three beside the role, not the same one.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L1 (L1: known mathematics, correctly confirmed).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/gauge/rishon-algebra.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-FRC-0170",
+        "quote": null
+      }
+    ]
+  }
+}

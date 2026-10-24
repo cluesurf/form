@@ -1,0 +1,28 @@
+{
+  "record": "link",
+  "id": "c21b51aa-8761-4e5e-b6e1-c8ab8fe554b6",
+  "from": "3f683f21-847d-4f0a-b994-efaa8cfb6264",
+  "to": "c7b5e11b-c47d-4b79-ab57-24a09a3cd6c4",
+  "relation": "is_in_tension_with",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "c40bbd28-a2c5-4730-84c0-90f7ae0644de",
+        "locator": "section 1",
+        "quote": "The second issue is that CE 1.0 only identified a single causally-relevant scale (the maximum of EI), ignoring all multiscale structure."
+      }
+    ]
+  }
+}

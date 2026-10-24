@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "bb7a2411-51d5-4367-abf7-134db42fb0d0",
+  "title": "E-QTM-0080: topological protection of the edge-mode count: the number of interface edge modes between two gapped...",
+  "purpose": "Experiment E-QTM-0080 in the quantum arena: topological protection of the edge-mode count: the number of interface edge modes between two gapped phases of different winding (W=+2 next to W=-2) is invariant (exactly 8) under a sharp step, smooth interfaces of width 2/3/4, and a deterministic ripple on the coin angles, while the trivial phase carrying the same ripple binds exactly zero, so the count cannot be removed by any smooth gap-preserving deformation.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L2 (L2: known physics reproduced on a stated model).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/quantum/topological-protection.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-QTM-0080",
+        "quote": null
+      }
+    ]
+  }
+}

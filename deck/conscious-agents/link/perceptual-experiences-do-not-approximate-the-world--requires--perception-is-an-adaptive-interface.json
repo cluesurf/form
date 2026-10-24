@@ -1,0 +1,28 @@
+{
+  "record": "link",
+  "id": "8bdb2b96-1c1b-4b4d-a9ed-783f72b505da",
+  "from": "fd054320-3030-434a-8c52-0360124ed71a",
+  "to": "15eb5784-eda9-416f-b2d6-865b0d94a29c",
+  "relation": "requires",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "a7e70d05-b690-4622-b9c7-93120625ba04",
+        "locator": "abstract, p. 87",
+        "quote": "perceptual experiences do not match or approximate properties of the objective world"
+      }
+    ]
+  }
+}

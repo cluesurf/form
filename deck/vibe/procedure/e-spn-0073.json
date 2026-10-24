@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "cd12a5a3-d074-4491-a470-ac85d394b8ec",
+  "title": "E-SPN-0073: three locked loves do not bind as three, a STAND-IN: the lock makes the loves two-component fermions...",
+  "purpose": "Experiment E-SPN-0073 in the spin arena: three locked loves do not bind as three, a STAND-IN: the lock makes the loves two-component fermions (the doublet is the slot), so the fear beat is exactly a contact phase omega on antisymmetric pairs, it holds a diquark and a free love and nothing larger (the two-component Gaudin-Yang result), and a fear is exactly free under the knit's meeting; every Q = 1 state is spinorial with fermion number 3, but the fear beat binds no Q = 1 state.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L2 (L2: known physics reproduced on a stated model).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/spin/locked-charge-one.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-SPN-0073",
+        "quote": null
+      }
+    ]
+  }
+}

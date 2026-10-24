@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "25e8a6e5-41ec-48ed-abd3-18d98944c6e5",
+  "title": "E-RLT-0083: staggered vacuum timing on the living-pair knit, fail as predicted: staggering the hub vacuum by line...",
+  "purpose": "Experiment E-RLT-0083 in the relativity arena: staggered vacuum timing on the living-pair knit, fail as predicted: staggering the hub vacuum by line frame is a choice of STATE (the knit unchanged, its W(F4)-covariance whole), runs the exact period-6 cycle with zero momentum at every dock-beat, holds 4 lines on a hub per beat instead of 12, and keeps 576 elements of W(F4) as space-time symmetries (the frame transpositions keep none); 4 lines is the floor (0 of 3,602 two-generated subgroups whose phase kernel has a line orbit below 4 force the husk scalars through $k^4$); but the lone-love wake under the isometric map stays box-filling (8,952 trits in the first period on side 8, unstaggered 8,896, committed 28), because that map scatters a 60-degree vacuum pair whether one or twelve share the dock (the one-line vacuum, one pair per dock-beat, wakes 266 on side 9).",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L2 (L2: known physics reproduced on a stated model).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/relativity/staggered-vacuum-timing.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-RLT-0083",
+        "quote": null
+      }
+    ]
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "3ca8356c-2fbb-457d-bade-e36536fda52f",
+  "title": "E-FRC-0054: the weak mixing angle at $M_Z$ from 3/8 unification via the known Georgi-Quinn-Weinberg one-loop...",
+  "purpose": "Experiment E-FRC-0054 in the gauge arena: the weak mixing angle at $M_Z$ from 3/8 unification via the known Georgi-Quinn-Weinberg one-loop running, near 0.231 with MSSM-like beta coefficients typed in as a discrete content choice (the choice is what selects 0.231 over the SM 0.207, a one-bit fit).",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L2 (L2: known physics reproduced on a stated model).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/gauge/weak-angle-prediction.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-FRC-0054",
+        "quote": null
+      }
+    ]
+  }
+}

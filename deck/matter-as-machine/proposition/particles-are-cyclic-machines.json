@@ -1,0 +1,50 @@
+{
+  "record": "proposition",
+  "id": "5cb1a80c-e9cb-4470-a2c1-a146e2e6aa4b",
+  "kind": "empirical",
+  "epistemic_status": "hypothesized",
+  "title": "Particles are cyclic machines",
+  "statements": [
+    {
+      "id": "759abb50-98ed-40c2-9175-b33400061222",
+      "text": "Each particle is a machine: a list of instructions, each naming one of six directions in space (left, right, up, down, forward, back), executed one after another in an endless loop.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "759abb50-98ed-40c2-9175-b33400061222",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "f1f9bdb8-14c9-4c62-9e48-01ecc2870699",
+        "locator": "opening",
+        "quote": "A machine consists of a list of instructions."
+      },
+      {
+        "source": "f1f9bdb8-14c9-4c62-9e48-01ecc2870699",
+        "locator": "opening",
+        "quote": "After the last state is executed, control is passed back to the first state."
+      }
+    ]
+  }
+}

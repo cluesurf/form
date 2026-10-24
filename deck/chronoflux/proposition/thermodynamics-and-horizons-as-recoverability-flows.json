@@ -1,0 +1,50 @@
+{
+  "record": "proposition",
+  "id": "318fd379-246e-49cd-8371-2d3939241c42",
+  "kind": "mathematical",
+  "epistemic_status": "inferred",
+  "title": "Rung: thermodynamics, decoherence and horizons as recoverability flows",
+  "statements": [
+    {
+      "id": "7b89af73-ebd8-4350-b8e9-e1bb89fe79b0",
+      "text": "Thermodynamic irreversibility, decoherence and causal horizons are three regimes in which the accessible fraction $R$ falls while global evolution stays lawful: coarse-graining, loss of accessible phase coherence and restriction of the causally accessible domain.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "7b89af73-ebd8-4350-b8e9-e1bb89fe79b0",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "74dae0ca-ffc6-4827-bce0-5561d176e0ee",
+        "locator": "section 9.1",
+        "quote": "Thermodynamics therefore reflects changing recoverability conditions rather than failure of lawful evolution itself."
+      },
+      {
+        "source": "74dae0ca-ffc6-4827-bce0-5561d176e0ee",
+        "locator": "section 14.1",
+        "quote": "Horizons therefore limit recoverable structure without terminating globally lawful evolution."
+      }
+    ]
+  }
+}

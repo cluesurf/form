@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "931db864-04b4-4cc7-bd42-746b9cdc4805",
+  "title": "E-FRC-0190: spontaneous emission into the exactly linear husk light: a stand-in emitter decays at A = omega^3 $|d|^2$...",
+  "purpose": "Experiment E-FRC-0190 in the gauge arena: spontaneous emission into the exactly linear husk light: a stand-in emitter decays at A = omega^3 |d|^2 / (18 pi $c^3$), the rate the husk symbol predicts with c = sqrt(2 kappa / 3) and eps0 = 6, isotropic across link directions, for a one-link dimer and for the stand-in hydrogen 2p -> 1s, where the D4 bulk beside it goes as omega^4.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L2 (L2: known physics reproduced on a stated model).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/gauge/husk-emission-rate.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-FRC-0190",
+        "quote": null
+      }
+    ]
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "ce21e1af-ec25-469a-a938-9ba4656f7741",
+  "title": "E-QTM-0104: the ladder toward T: words of Sigma(648) moves on two roles with m cube-root swap phases, searched level...",
+  "purpose": "Experiment E-QTM-0104 in the quantum arena: the ladder toward T: words of Sigma(648) moves on two roles with m cube-root swap phases, searched level by level, give how close each number of fear beats comes to the qutrit T gate on one role and to the identity, and what grain each finer step costs.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L1 (L1: known mathematics, correctly confirmed).",
+  "status": "completed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/quantum/swap-phase-ladder.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "research/result.ts R-FRC-0003",
+        "quote": null
+      }
+    ]
+  }
+}

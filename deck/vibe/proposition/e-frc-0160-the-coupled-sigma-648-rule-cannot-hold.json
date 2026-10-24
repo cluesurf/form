@@ -1,0 +1,50 @@
+{
+  "record": "proposition",
+  "id": "f8875f20-d473-4341-b675-77900410daf2",
+  "kind": "empirical",
+  "epistemic_status": "simulated",
+  "title": "E-FRC-0160: the coupled Sigma(648) rule cannot hold the confined point of the modified action: its drain stalls 4.4...",
+  "statements": [
+    {
+      "id": "c6ca4977-38a2-470e-bb25-18cbb4375382",
+      "text": "The coupled Sigma(648) rule cannot hold the confined point of the modified action: its drain stalls 4.4 to 9.7 units per link above the lowest level, and releasing them carries beta0 to 7 to 9 from the ordered starts (Polyakov 0.56 to 0.63, chi(2,2) 0.030 +- 0.042) and to 3.8 from the disordered one (confined, loops at the noise), so no confining string tension can be read.",
+      "language": "en",
+      "scope": "experiment E-FRC-0160, arena gauge, depth L2 (L2: known physics reproduced on a stated model)",
+      "conditions": "substrates: 3434. In a paper: false",
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-22"
+    }
+  ],
+  "current_statement": "c6ca4977-38a2-470e-bb25-18cbb4375382",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": {
+    "value": "open",
+    "reason": "holds in the vibe claim graph",
+    "basis": [],
+    "proposal": null
+  },
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "research/result.ts R-FRC-0006",
+        "quote": null
+      }
+    ]
+  }
+}

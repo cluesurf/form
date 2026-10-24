@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "939a66f2-93e8-4ab3-ab5d-f63a12e6b0c7",
+  "title": "E-FND-0009: the dimension estimate agrees with the continuum value at all N",
+  "purpose": "Experiment E-FND-0009 in the foundations arena: the dimension estimate agrees with the continuum value at all N.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L1 (L1: known mathematics, correctly confirmed).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/foundations/continuum-limit.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-FND-0009",
+        "quote": null
+      }
+    ]
+  }
+}

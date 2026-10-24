@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "b2cf6af8-d514-4f8e-9a59-c0226f321952",
+  "title": "E-FRC-0135: does matter shape the field: under the rule where links feel the matter, static source lines pull their...",
+  "purpose": "Experiment E-FRC-0135 in the gauge arena: does matter shape the field: under the rule where links feel the matter, static source lines pull their links into carrying their color (0.81 of the time on the melted field, 0.48 on the cold one, against 1/9 by chance) at an energy cost in the triangles round them, and a meson's link follows it as it moves, but the effect stays on the links the matter touches: no string between separated lines, the pair bound by contact only, the role-point string read only on the cold field, and the gate that the cold field's links respond more than half the time fails.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L2 (L2: known physics reproduced on a stated model).",
+  "status": "completed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/gauge/matter-shapes-the-field.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "research/result.ts R-FRC-0006",
+        "quote": null
+      }
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "record": "link",
+  "id": "bafd6965-24c0-4740-b2e3-b60182e2e8d3",
+  "from": "7a589564-af76-482d-aa28-87f6657594a7",
+  "to": "deb700c1-2f22-450e-97d7-aec45d755f57",
+  "relation": "requires",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "5119e232-06a9-431f-820d-84f3120be6f7",
+        "locator": "predictions",
+        "quote": "I'd expect to see substantially less energy in low-frequency CSHWs after trauma."
+      }
+    ]
+  }
+}

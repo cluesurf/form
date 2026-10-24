@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "b0fdce39-1b84-4897-9dc6-67d4c3f196cd",
+  "title": "E-FRC-0293: a CP-odd flavor structure on the Wilson half of R* passes the piece check, and the dynamical light it...",
+  "purpose": "Experiment E-FRC-0293 in the gauge arena: a CP-odd flavor structure on the Wilson half of R* passes the piece check, and the dynamical light it would bias is beyond the exact engine, open: the trimaximal mixing on the mass and the Wilson units diagonal in the weak basis make two flavor bases on one half, so the phase is physical there (det[H_m, $H_w$] imaginary, nonzero, odd under conj V, exactly 0 when aligned); the pieces keep J, are covariant under the 576 rotations, unitary, keep CPT and the flats of the sea; the flow it would bias is an index, so a net asymmetry needs the whole sea evolved under a dynamical uniform light, 2.3e17 flops and 4e11 bytes on E-SPN-0171 slab, not run.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L2 (L2: known physics reproduced on a stated model).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/gauge/wall-asymmetry.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-FRC-0293",
+        "quote": null
+      }
+    ]
+  }
+}

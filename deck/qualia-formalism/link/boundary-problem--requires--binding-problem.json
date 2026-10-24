@@ -1,0 +1,28 @@
+{
+  "record": "link",
+  "id": "e256c632-2ef0-42e5-9fb3-497e8b7664d7",
+  "from": "af8b86f1-9926-4983-8e87-1d7c75503036",
+  "to": "6900db5d-3f66-4798-bcdb-86e54236ad5b",
+  "relation": "requires",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "9359bfc1-6fff-41a8-8d7c-91af2f730b74",
+        "locator": "abstract",
+        "quote": "the boundary problem asks why we experience hard boundaries around those unified 1PPs"
+      }
+    ]
+  }
+}

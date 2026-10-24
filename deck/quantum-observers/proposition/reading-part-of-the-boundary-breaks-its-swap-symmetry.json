@@ -1,0 +1,45 @@
+{
+  "record": "proposition",
+  "id": "031b8911-a982-41fc-8206-d905076334d1",
+  "kind": "mathematical",
+  "epistemic_status": "inferred",
+  "title": "Reading part of the boundary breaks its swap symmetry",
+  "statements": [
+    {
+      "id": "a18c9d2d-5173-4fdb-8b3d-7c46520236e3",
+      "text": "Deploying a reference frame sensitive to only some bits on the boundary breaks the boundary’s permutation symmetry and creates a decoherent sector. This symmetry breaking is functional or semantic, not physical.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-23"
+    }
+  ],
+  "current_statement": "a18c9d2d-5173-4fdb-8b3d-7c46520236e3",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "4489b7d7-7273-4b67-a1c2-b53ddab0eeb5",
+        "locator": "section 2.5",
+        "quote": "deploying a QRF sensitive to only some degrees of freedom of B (i.e. sensitive to only some bit values encoded on B) breaks the swap symmetry on B and creates a decoherent sector"
+      }
+    ]
+  }
+}

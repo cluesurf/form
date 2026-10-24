@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "0e118327-7cdc-479a-898a-a51847020321",
+  "title": "E-SPN-0060: the four-role one-antirole cluster, Q = 1: its translation-neutral space of 27 holds the natural spin...",
+  "purpose": "Experiment E-SPN-0060 in the spin arena: the four-role one-antirole cluster, Q = 1: its translation-neutral space of 27 holds the natural spin one half doublet exactly twice, beside twisted doublets and bosons, and both natural doublets are orthogonal to every split into a neutral triple and a meson, so the spin one half cannot fall apart at rest; it is the smallest charged cluster with a natural doublet, and its four roles cannot be antisymmetric in the role, so their exchange sign must sit in the slots.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L1 (L1: known mathematics, correctly confirmed).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/spin/four-one-cluster.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-SPN-0060",
+        "quote": null
+      }
+    ]
+  }
+}

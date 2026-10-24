@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "33145c2b-286d-49f8-8b7a-06df6b557497",
+  "title": "E-SPN-0173: a light register pair held by the husk light's Coulomb pull binds like hydrogen but moves 8 to 16 times...",
+  "purpose": "Experiment E-SPN-0173 in the spin arena: a light register pair held by the husk light's Coulomb pull binds like hydrogen but moves 8 to 16 times too heavily, fail (H2, H4, H5): two members at m 0.427 (below pi/6 and below the swap coin's leak at 0.62) carrying the Cl+(4) register, held by an integer-counted pair phase rho^(-n(y)), n = floor(alpha G(y) / theta), in the vector form (every sector moved alike, the S D and D S sectors through exact one-link projector pieces), on the husk quotient, exact in the 16 x 16 moving block (witnessed against the full 192 x 192 rule to 7e-17); every channel open at infinity is closed (D F at 0.41); the level binds within 6% of hydrogen ($E_b$ 0.0948 against 0.0897) and holds 64 cycles with no leak, isotropic to 2e-6, but R = 8.46 against the static formula's 1.23, and 16.45 at the stronger $a_B$ 3 (a clean isolated level, residual 1e-4); the Darwin exchange moves R by the derived 0.16, far short; the doubled coupling would put 5.0 rad a cycle at contact, which no pair phase can hold.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L2 (L2: known physics reproduced on a stated model).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/spin/register-coulomb-hold.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-SPN-0173",
+        "quote": null
+      }
+    ]
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "4c6e8658-b1de-4405-bb12-6e74dda80266",
+  "title": "E-FRC-0285: the species one orientation class carries, fail as derived (second run, after the first crashed in the...",
+  "purpose": "Experiment E-FRC-0285 in the gauge arena: the species one orientation class carries, fail as derived (second run, after the first crashed in the reader before any gate): the Clifford hop of each class has 40 exact zeros on the side-4 box, 8 of them at the zone corners, and 72 on side 12 with Jacobian signs 36 + and 36 -, and the cycle levels of every class and half sit exactly on that set, so each orientation class carries 40 species on the box, not one of a hand: the staggered split leaves the doublers, and only a Wilson-shifted hop keeps one.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L1 (L1: known mathematics, correctly confirmed).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/gauge/staggered-tastes.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-FRC-0285",
+        "quote": null
+      }
+    ]
+  }
+}

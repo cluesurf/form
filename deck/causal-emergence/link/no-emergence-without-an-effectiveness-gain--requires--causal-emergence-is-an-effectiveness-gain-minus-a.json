@@ -1,0 +1,28 @@
+{
+  "record": "link",
+  "id": "220e5599-84f9-4dc0-9e27-a6a0f3824f7e",
+  "from": "b3c81d3f-a7f7-4482-ae08-49ed5bfe0be7",
+  "to": "8ff46383-4feb-43ad-ac28-08a62b818119",
+  "relation": "requires",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "8360d34d-30cb-44f8-89c9-41768fb53f0d",
+        "locator": "Discussion, Applicability to Real Systems",
+        "quote": "(i) if Eff(Sm) ≥ Eff(SM), then causal emergence is impossible and causal reduction holds"
+      }
+    ]
+  }
+}

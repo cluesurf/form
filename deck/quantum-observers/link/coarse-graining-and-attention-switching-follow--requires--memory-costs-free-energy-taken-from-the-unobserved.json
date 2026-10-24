@@ -1,0 +1,28 @@
+{
+  "record": "link",
+  "id": "1f6bca2a-7ed0-4457-9b11-db75f593edeb",
+  "from": "b29a5f8c-827d-48d3-a1e3-be0a5ce2bb16",
+  "to": "d6217e4a-08a1-4f1e-bba2-6924670b85a6",
+  "relation": "requires",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "1792e489-be3b-46bb-ba4b-0dcd00a0abc7",
+        "locator": "abstract",
+        "quote": "common phenomena including stigmergic memory, perceptual coarse-graining, and attention switching follow directly from the thermodynamic requirements of classical computation"
+      }
+    ]
+  }
+}

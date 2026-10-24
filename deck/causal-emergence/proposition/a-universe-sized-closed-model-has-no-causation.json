@@ -1,0 +1,45 @@
+{
+  "record": "proposition",
+  "id": "d5f12cd3-eb77-4046-8155-8545043946e5",
+  "kind": "philosophical",
+  "epistemic_status": "inferred",
+  "title": "A universe-sized closed model has no causation",
+  "statements": [
+    {
+      "id": "adfc967c-c1b2-4317-96cf-80c174a9d3dc",
+      "text": "Even if all micro uncertainty were only epistemic, that would hold for a closed causal model of the whole universe, where causation disappears because no intervention from outside is definable.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-23"
+    }
+  ],
+  "current_statement": "adfc967c-c1b2-4317-96cf-80c174a9d3dc",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "c40bbd28-a2c5-4730-84c0-90f7ae0644de",
+        "locator": "section 6",
+        "quote": "in such a universe-size causal model all notion of causation disappears entirely anyway, as there are no definable interventions from outside the model"
+      }
+    ]
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "record": "proposition",
+  "id": "8a72fda2-1ff9-4aea-a072-27a6558d89db",
+  "kind": "empirical",
+  "epistemic_status": "inferred",
+  "title": "Critique: experience depends on brain function",
+  "statements": [
+    {
+      "id": "310933cd-efd4-4bc5-8ca3-d2d169e40d5d",
+      "text": "Brain activity correlates with reported experience, and physical interference with the brain, such as trauma and drugs, changes inner life dramatically, suggesting causation from a physical body outside consciousness to experience.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-23"
+    }
+  ],
+  "current_statement": "310933cd-efd4-4bc5-8ca3-d2d169e40d5d",
+  "status": "active",
+  "voice": "critique",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b6b6c2ee-ad86-4b5b-b1cb-c6f50cd71910",
+        "locator": "section 9, pp. 23-24",
+        "quote": "This may seem to suggest an arrow of causation pointing from a physical body outside consciousness to phenomenality, which would contradict idealism."
+      }
+    ]
+  }
+}

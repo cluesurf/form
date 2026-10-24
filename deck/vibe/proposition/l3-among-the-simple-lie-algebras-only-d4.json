@@ -1,0 +1,50 @@
+{
+  "record": "proposition",
+  "id": "bead5f87-9ca4-4399-8990-3b02da86c518",
+  "kind": "mathematical",
+  "epistemic_status": "inferred",
+  "title": "L3: among the simple Lie algebras only D4 has an outer automorphism group of order six (triality)",
+  "statements": [
+    {
+      "id": "2862b321-fa1a-4fe2-812e-2f2d9e087f12",
+      "text": "Among the simple Lie algebras only D4 has an outer automorphism group of order six (triality).",
+      "language": "en",
+      "scope": "a mathematical step, proved or cited",
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-22"
+    }
+  ],
+  "current_statement": "2862b321-fa1a-4fe2-812e-2f2d9e087f12",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": {
+    "value": "open",
+    "reason": "holds in the vibe claim graph",
+    "basis": [],
+    "proposal": null
+  },
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "research/node.ts L3",
+        "quote": null
+      }
+    ]
+  }
+}

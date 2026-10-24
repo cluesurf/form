@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "fce8f506-b01d-41f3-8fd6-b6ed0b97b2b2",
+  "title": "E-FRC-0145: a quark string forms with the whole three-trit link: on the melted field the string between a static...",
+  "purpose": "Experiment E-FRC-0145 in the gauge arena: a quark string forms with the whole three-trit link: on the melted field the string between a static love line and a fear line stays taut (excess length under 0.8 per slice at R = 1 to 4, the potential rising 14 to 57) and a meson keeps a mean gap of 1.48 against 65.6 free while it travels, the center flux doing the binding and the grid field only the contact, while on the cold field the meson binds and the string reading is lost in the vacuum flux, so the string gates fail there.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L2 (L2: known physics reproduced on a stated model).",
+  "status": "completed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/gauge/quark-string-forms.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "research/result.ts R-FRC-0006",
+        "quote": null
+      }
+    ]
+  }
+}

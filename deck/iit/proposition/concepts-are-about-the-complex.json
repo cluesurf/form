@@ -1,0 +1,45 @@
+{
+  "record": "proposition",
+  "id": "6c195637-93e0-454e-971c-bb8ef4b2a79e",
+  "kind": "philosophical",
+  "epistemic_status": "inferred",
+  "title": "Experience is about the complex itself",
+  "statements": [
+    {
+      "id": "48c7a901-fb58-4bd1-b16a-382d72d6c2bf",
+      "text": "The concepts that specify the quality of an experience are always about the complex itself and relate only indirectly to the external environment.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-23"
+    }
+  ],
+  "current_statement": "48c7a901-fb58-4bd1-b16a-382d72d6c2bf",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "ff525f31-2442-4b42-b21f-827bf3c74628",
+        "locator": "abstract",
+        "quote": "the concepts that specify the quality of an experience are always about the complex itself and relate only indirectly to the external environment"
+      }
+    ]
+  }
+}

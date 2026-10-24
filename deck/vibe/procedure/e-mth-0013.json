@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "da5b693f-664b-4114-be58-87d66bdd885e",
+  "title": "E-MTH-0013: sound on the husk: the 24 roots' shadows on the cubic husk (axes twice at speed 1, face diagonals once...",
+  "purpose": "Experiment E-MTH-0013 in the method arena: sound on the husk: the 24 roots' shadows on the cubic husk (axes twice at speed 1, face diagonals once at speed sqrt 2) have second moment 12 I, so the husk sound speed is exactly 1 / sqrt 2, isotropic, equal to the bulk's, $c_s$ = v_rms / sqrt 3 for the two-speed husk gas, and the flip weave's waves along the husk axis, face diagonal and body diagonal extrapolate to it, not to the 0.816 of a one-speed 3D gas.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L2 (L2: known physics reproduced on a stated model).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/method/husk-sound.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-MTH-0013",
+        "quote": null
+      }
+    ]
+  }
+}

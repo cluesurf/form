@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "8f3cb555-9629-46d9-86aa-5c822faae7b8",
+  "title": "E-FLD-0025: the scatter weave transports momentum between directions where its base cannot: a shear of the particle...",
+  "purpose": "Experiment E-FLD-0025 in the fluids arena: the scatter weave transports momentum between directions where its base cannot: a shear of the particle momentum relaxes at about 0.005 per beat (exponential, r2 near 0.98) where the head-on turn weave alone freezes it (its perpendicular-line invariant exact), but the rate barely depends on wavelength over k = 0.39 to 1.05, so the gas is kinetic, not viscous, at every size run: its mean free time of about 200 beats puts the k squared regime beyond the mesh; the fast part moves at one dock per beat (free streaming, no sound slower than light), the relaxation depends on orientation (a factor of six between the slowest and fastest of five), and a lone love dresses no more than under the committed rule (a lone fear 33 against 27 in the first period).",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L2 (L2: known physics reproduced on a stated model).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/fluids/scatter-transport.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-FLD-0025",
+        "quote": null
+      }
+    ]
+  }
+}

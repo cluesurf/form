@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "5cb8c0e3-68f0-46d9-954b-d151627523f9",
+  "title": "E-FRC-0105: a color qutrit on three exactly preserved excitations of the committed rule, with the color-symmetric...",
+  "purpose": "Experiment E-FRC-0105 in the gauge arena: a color qutrit on three exactly preserved excitations of the committed rule, with the color-symmetric unitary U(phi) at each of their 15 encounters, makes which excitation ends holding which color a continuous function of phi, a permutation at phi = 0 and pi and fractional between, differing from the matched classical random swap by interference between orders of encounters, while every tone observable, the color content, the Casimir weight and the singlet weight stay fixed.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L2 (L2: known physics reproduced on a stated model).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/gauge/color-shader.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-FRC-0105",
+        "quote": null
+      }
+    ]
+  }
+}

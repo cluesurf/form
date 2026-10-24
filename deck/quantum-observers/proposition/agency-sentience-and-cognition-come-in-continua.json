@@ -1,0 +1,45 @@
+{
+  "record": "proposition",
+  "id": "7ed79d97-ef0f-44e2-ba35-147eb646881f",
+  "kind": "philosophical",
+  "epistemic_status": "hypothesized",
+  "title": "Agency, sentience and cognition come in continua",
+  "statements": [
+    {
+      "id": "e2ec39f0-bf9a-40d7-8603-d948221cd60f",
+      "text": "The framework supports a panpsychist perspective in which the binary split between entities with and without agency, sentience and cognition is replaced by continua.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-23"
+    }
+  ],
+  "current_statement": "e2ec39f0-bf9a-40d7-8603-d948221cd60f",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "4489b7d7-7273-4b67-a1c2-b53ddab0eeb5",
+        "locator": "section 5.3",
+        "quote": "the framework presented here is consistent with [13, 14, 154] in supporting a panpsychist perspective on questions of agency, sentience, and cognition"
+      }
+    ]
+  }
+}

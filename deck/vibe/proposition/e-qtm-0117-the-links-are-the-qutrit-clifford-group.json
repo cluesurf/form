@@ -1,0 +1,50 @@
+{
+  "record": "proposition",
+  "id": "f608a329-1761-4b8b-9119-3d7435289ac3",
+  "kind": "empirical",
+  "epistemic_status": "simulated",
+  "title": "E-QTM-0117: the links are the qutrit Clifford group: Sigma(648) is the determinant-1 lift of the single-qutrit...",
+  "statements": [
+    {
+      "id": "dcb42119-f795-408c-851e-42c1d9e73d5d",
+      "text": "The links are the qutrit Clifford group: Sigma(648) is the determinant-1 lift of the single-qutrit Clifford group, every element maps each Weyl-Heisenberg displacement to a phase times a displacement, its quotient by the 3 central scalars is the model's 216 grid moves exactly, and those are ASL(2, 3) acting on the role grid as qutrit phase space, with 432 isomorphisms, every one a relabeling of the nine points.",
+      "language": "en",
+      "scope": "experiment E-QTM-0117, arena quantum, depth L1 (L1: known mathematics, correctly confirmed)",
+      "conditions": "substrates: any. In a paper: false",
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-22"
+    }
+  ],
+  "current_statement": "dcb42119-f795-408c-851e-42c1d9e73d5d",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": {
+    "value": "open",
+    "reason": "holds in the vibe claim graph",
+    "basis": [],
+    "proposal": null
+  },
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "research/result.ts R-FRC-0003",
+        "quote": null
+      }
+    ]
+  }
+}

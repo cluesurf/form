@@ -1,0 +1,45 @@
+{
+  "record": "proposition",
+  "id": "35e99e05-7055-48cd-8e06-7c142c911cad",
+  "kind": "empirical",
+  "epistemic_status": "inferred",
+  "title": "Bioelectric patterns are instructive pattern memories",
+  "statements": [
+    {
+      "id": "4d1da6fe-6c43-46e8-9b94-aefef9b8b12d",
+      "text": "Spatial patterns of membrane voltage serve as instructive pattern memories that guide a cell collective through anatomical possibilities toward the correct target morphology.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-23"
+    }
+  ],
+  "current_statement": "4d1da6fe-6c43-46e8-9b94-aefef9b8b12d",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "fd7382f9-52a5-4beb-9680-fc341ff15b98",
+        "locator": "section A Bioelectric Model of the Scaling of the Self",
+        "quote": "These spatial patterns serve as instructive pattern memories guiding the activity of a cell collective through anatomical morphospace toward the correct target morphology"
+      }
+    ]
+  }
+}

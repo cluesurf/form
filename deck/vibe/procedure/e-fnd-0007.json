@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "3bd13b8a-76b0-4d82-ab33-9deb09474a4b",
+  "title": "E-FND-0007: the 24 coin directions are the D4 roots with triality, the spin algebra",
+  "purpose": "Experiment E-FND-0007 in the foundations arena: the 24 coin directions are the D4 roots with triality, the spin algebra.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L1 (L1: known mathematics, correctly confirmed).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/foundations/coin-algebra.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-FND-0007",
+        "quote": null
+      }
+    ]
+  }
+}

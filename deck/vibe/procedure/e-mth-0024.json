@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "e93202e4-57a3-4a81-9717-2b95f28bdfa2",
+  "title": "E-MTH-0024: the admissible miss for a number-only identification of alpha and $m_p / m_e$ under the pre-registered...",
+  "purpose": "Experiment E-MTH-0024 in the method arena: the admissible miss for a number-only identification of alpha and $m_p / m_e$ under the pre-registered null: none exists, since the E-MTH-0010 budget null is 0.12 and 0.94 at the targets' own CODATA precision, so only a value named in advance and matching exactly, which no measured route (critical coupling 3.3 percent, Coulomb coefficient 4e-4) approaches, could carry either constant.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L1 (L1: known mathematics, correctly confirmed).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/method/admissible-precision.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-MTH-0024",
+        "quote": null
+      }
+    ]
+  }
+}

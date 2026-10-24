@@ -1,0 +1,50 @@
+{
+  "record": "proposition",
+  "id": "19f55471-537f-401d-8280-0aa4606c9807",
+  "kind": "philosophical",
+  "epistemic_status": "designed",
+  "title": "Systems without a sufficient local state are out of scope",
+  "statements": [
+    {
+      "id": "96803421-c58a-439f-8eca-8e4f49b898da",
+      "text": "The theorem is proved for local classical systems and applies to any theory that supplies a dynamically sufficient local state. A theory in which a subsystem's evolution depends on correlations with its exterior not represented in its local state, as with entangled parts, lies outside its scope.",
+      "language": "en",
+      "scope": null,
+      "conditions": "A consciousness attribution invoking such a theory would have to specify how the historical information is carried and how it bears on subsequent evolution.",
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "96803421-c58a-439f-8eca-8e4f49b898da",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": {
+    "value": "open",
+    "reason": "A limit the paper states: it does not extend the theorem to such theories.",
+    "basis": [],
+    "proposal": null
+  },
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "ac2774e1-a04c-4c89-9db2-7848c6f5ce0b",
+        "locator": "section 2",
+        "quote": "A physical theory that does not have a dynamically sufficient local state — for example, one in which a subsystem's evolution depends on correlations with its exterior that are not represented in its local state — lies outside the present scope"
+      }
+    ]
+  }
+}

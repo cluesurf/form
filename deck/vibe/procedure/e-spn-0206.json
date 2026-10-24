@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "6d32f89d-e9fd-46b0-8c01-f897422473e0",
+  "title": "E-SPN-0206: explores whether the light register pair's excess inertia is its contact well, the lattice light's...",
+  "purpose": "Experiment E-SPN-0206 in the spin arena: explores whether the light register pair's excess inertia is its contact well, the lattice light's on-site pull four times its first shell's: fail at $a_B$ 6 as pre-registered (the well alone is not it there), but a core flattened inside radius 2 cuts the excess 5.8 times and the well removed at $a_B$ 8 cuts it 2.6 times.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L2 (L2: known physics reproduced on a stated model).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/spin/register-contact-core.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-SPN-0206",
+        "quote": null
+      }
+    ]
+  }
+}

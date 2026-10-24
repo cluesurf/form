@@ -1,0 +1,28 @@
+{
+  "record": "link",
+  "id": "a443c10b-0df0-4120-8d05-d1d59d557ea8",
+  "from": "58da05c6-2138-48d4-98ba-e35e7656e95b",
+  "to": "af3ed9d1-0a74-4fde-9d0e-a8fb60c7aaf2",
+  "relation": "supports",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "a4950aff-2b93-4012-8a4d-5c39560e0787",
+        "locator": "abstract",
+        "quote": "the correlation between actual and reported heartbeats is low overall (r = .16)"
+      }
+    ]
+  }
+}

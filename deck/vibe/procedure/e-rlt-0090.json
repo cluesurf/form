@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "e6164836-049e-415b-9715-d186a2cd3232",
+  "title": "E-RLT-0090: walls measured against the hub vacuum's own ideal, the coset wall gate, fail on all 17 starts: the...",
+  "purpose": "Experiment E-RLT-0090 in the relativity arena: walls measured against the hub vacuum's own ideal, the coset wall gate, fail on all 17 starts: the vacuum's ground manifold is exact (3,072 ground states, 12 point cosets of the 576-element stabilizer times 256 translations; the old half-late vacuum is the vacuum two beats ahead), the vacuum alone reads 0 walls where the uniform ideal reads 248,832, the reader equals an independent brute force on six planted coset domains and reduces exactly to the old reading on a uniform vacuum; but no run matches its ideal: the four cosets that keep the hub lattice (C, g, gC, 2 r0) freeze into a one-dock-thick wall exactly at the ideal place (432 defect docks, none in the bulk, the same at every window and start), while the time coset (the old wall) and the r0 translation melt the box (16,848 and about 20,600 of 20,736 docks depart).",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L2 (L2: known physics reproduced on a stated model).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/relativity/vacuum-own-walls.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-RLT-0090",
+        "quote": null
+      }
+    ]
+  }
+}

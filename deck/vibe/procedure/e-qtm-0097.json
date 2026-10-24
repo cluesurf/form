@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "714e6067-ef99-4959-9b50-d2effc562190",
+  "title": "E-QTM-0097: the quantum Hall staircase on the chiral walk: sweeping the coin angle continuously across a topological...",
+  "purpose": "Experiment E-QTM-0097 in the quantum arena: the quantum Hall staircase on the chiral walk: sweeping the coin angle continuously across a topological transition, the measured invariant sits within 0.05 of the integer 0 on one side and 2 on the other at every sweep point (the plateau, an observable pinned at an integer against a continuous knob), steps only at the gap-closing angle where the critical point reads the midpoint 1.0, and the trivial-coin control shows no structure over the same sweep, which with the protection and edge-state results is the integer quantum Hall phenomenology on the model.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L2 (L2: known physics reproduced on a stated model).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/quantum/hall-plateau-staircase.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-QTM-0097",
+        "quote": null
+      }
+    ]
+  }
+}

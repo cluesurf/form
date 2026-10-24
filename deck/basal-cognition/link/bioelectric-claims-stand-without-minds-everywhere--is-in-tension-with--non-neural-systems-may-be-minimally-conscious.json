@@ -1,0 +1,28 @@
+{
+  "record": "link",
+  "id": "e04c2cfa-414b-42ce-a132-2012a68d51b4",
+  "from": "df048aa6-73e2-4131-82f1-c5834376ca7b",
+  "to": "eefdca41-c999-4c83-bf3c-8c95eaabcfb3",
+  "relation": "is_in_tension_with",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "fd7382f9-52a5-4beb-9680-fc341ff15b98",
+        "locator": "Introduction, before Table 1",
+        "quote": "can be explored without accepting the \"minds everywhere\" commitments of the framework"
+      }
+    ]
+  }
+}

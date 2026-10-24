@@ -1,0 +1,50 @@
+{
+  "record": "proposition",
+  "id": "545acea9-d41a-4b1a-9167-8df90e6d8ba4",
+  "kind": "empirical",
+  "epistemic_status": "hypothesized",
+  "title": "Instincts and self-selection speed up evolution",
+  "statements": [
+    {
+      "id": "2b71ccf4-85b0-48f9-8309-45f4735c0716",
+      "text": "Evolution is sped up by instincts, by self-selection, and by instincts that cause self-selection indirectly. Other accelerators may exist, but these are the ones needed to explain people.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "2b71ccf4-85b0-48f9-8309-45f4735c0716",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "c30a21e7-3716-44f1-9aa7-cd010f6223db",
+        "locator": "the mechanisms",
+        "quote": "Here are some evolution acceleration mechanisms:"
+      },
+      {
+        "source": "c30a21e7-3716-44f1-9aa7-cd010f6223db",
+        "locator": "closing",
+        "quote": "I describe only what is important to explain humans."
+      }
+    ]
+  }
+}

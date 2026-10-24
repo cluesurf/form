@@ -1,0 +1,28 @@
+{
+  "record": "link",
+  "id": "f59261bb-380e-4454-80d8-21ee07ef2aca",
+  "from": "d62d80e6-ccdd-4b58-827c-19f8b37ae211",
+  "to": "ee933c24-6dc4-47bd-91d5-0840ae233909",
+  "relation": "requires",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "af04362c-992c-4063-8ee0-0860e42624ed",
+        "locator": "abstract",
+        "quote": "how the causal structure of some systems cannot be fully captured by even the most detailed microscopic model"
+      }
+    ]
+  }
+}

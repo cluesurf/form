@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "cfcbe275-95ee-4209-b318-46b7a4b330d5",
+  "title": "E-QTM-0127: a SUM record: the qutrit SUM, read off its own Wigner kernel as a symplectic permutation of the joint...",
+  "purpose": "Experiment E-QTM-0127 in the quantum arena: a SUM record: the qutrit SUM, read off its own Wigner kernel as a symplectic permutation of the joint grid, copies a role into a fresh token exactly, leaves the role distribution and the partner untouched, erases the tilt, agrees with a second record, and reads any line class when conjugated; the knit's own flow update is SUM on the vibe, but no frame-covariant meeting can read a role.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L2 (L2: known physics reproduced on a stated model).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/quantum/sum-record.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-QTM-0127",
+        "quote": null
+      }
+    ]
+  }
+}

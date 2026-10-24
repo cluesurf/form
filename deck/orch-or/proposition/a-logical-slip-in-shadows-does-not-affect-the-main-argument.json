@@ -1,0 +1,45 @@
+{
+  "record": "proposition",
+  "id": "399e4062-5c7c-4592-aebd-676e29f22127",
+  "kind": "philosophical",
+  "epistemic_status": "inferred",
+  "title": "A logical slip in Shadows does not affect the main argument",
+  "statements": [
+    {
+      "id": "7933f010-0ac5-496b-8e29-0b11378df3ad",
+      "text": "Penrose accepts that Shadows of the Mind made technical slips, the most significant about omega-consistency, but holds that the central Gödelian argument against computational models of mathematical understanding survives them.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-23"
+    }
+  ],
+  "current_statement": "7933f010-0ac5-496b-8e29-0b11378df3ad",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "624a9ed2-fec0-46bb-849a-a17faf39b6d6",
+        "locator": "section 2.1",
+        "quote": "Feferman quite correctly draws attention to some inaccuracies in Shadows with regard to certain logical technicalities."
+      }
+    ]
+  }
+}

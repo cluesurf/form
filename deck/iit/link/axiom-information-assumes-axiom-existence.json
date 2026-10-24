@@ -1,0 +1,28 @@
+{
+  "record": "link",
+  "id": "21cce673-08e9-4f2d-839a-6ccdc6bc9198",
+  "from": "929bab13-53ea-4031-b329-f863af8bf046",
+  "to": "46c7d927-a1f0-4b92-99d4-33ac02902824",
+  "relation": "assumes",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "8443eb2e-406e-4acc-94e8-33cbabbd3679",
+        "locator": "section \"Axioms of phenomenal existence\" (full text)",
+        "quote": "Experience is specific: it is this one."
+      }
+    ]
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "6429fbef-7228-47c5-bc53-e69450c95d22",
+  "title": "E-GRV-0060: a reversible occupancy-gated take exists on the adopted knit, but only as a counter-gated mirror, and it...",
+  "purpose": "Experiment E-GRV-0060 in the gravity arena: a reversible occupancy-gated take exists on the adopted knit, but only as a counter-gated mirror, and it keeps no crowd, fail on R5 alone: one integer counter per dock (counting to L(E) = 1 + max(0, E - 32), E the dock energy after its take) gates the take, a slot beside a paused dock turns back into its own opposite slot, and the rule is a bijection with its inverse built (840 of 840 beats inverted exactly over 21 runs, every run returned, the counter step a permutation for all 17 lengths), conserves energy and charge, keeps the old knit bit for bit on 288 vacuum and gas beats, runs a full torus as the old knit at 1/17 on 204 beats, commutes with charge conjugation and the 2 e4 shift, and takes on exactly L(E) on 472,897 of 472,897 intervals; but the two natural designs are not bijections (take-or-keep loses a vibe, the carry gate read at the take maps two states to one), a counter-only gate slows nothing on average over counter starts (exactly 1 of 17 values at 0 on every beat, for every L), a filled-slot gate cannot spare the vacuum (a hub dock holds 24 of 24 slots on 12,288 of 159,744 dock-beats), and a crowd started at rest melts, taking on 25,345 of 31,680 crowd dock-beats.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L2 (L2: known physics reproduced on a stated model).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/gravity/gated-take-reversible.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-GRV-0060",
+        "quote": null
+      }
+    ]
+  }
+}

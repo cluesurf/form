@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "5527a733-542d-4076-a12e-3ff51d2f3bec",
+  "title": "E-FRC-0137: why the hop-free color weave dresses more, and a search that finds color-local rules that do not: a lone...",
+  "purpose": "Experiment E-FRC-0137 in the gauge arena: why the hop-free color weave dresses more, and a search that finds color-local rules that do not: a lone tone's dressing is pair creation from calm, exactly one plus twice the pairs left, and the committed rule's lower count needs its line reflection, the move that breaks color, while varying the hop-free schedule one freedom at a time finds none that passes every gate and varying the turn and the swap order together finds several.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L1 (L1: known mathematics, correctly confirmed).",
+  "status": "completed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/gauge/color-local-dressing-search.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "research/result.ts R-FRC-0006",
+        "quote": null
+      }
+    ]
+  }
+}

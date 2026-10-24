@@ -1,0 +1,50 @@
+{
+  "record": "proposition",
+  "id": "b6f7752f-03b0-4521-9b4e-ab82da2f7ce6",
+  "kind": "mathematical",
+  "epistemic_status": "inferred",
+  "title": "Answer: space is an effective structure induced by codes",
+  "statements": [
+    {
+      "id": "4574bec1-bc93-4452-bf4f-a2435d39ee23",
+      "text": "The generalized holographic principle is independent of geometry. Effective space and spacetime are induced by the error-correcting codes that communication between agents creates on their boundaries.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-23"
+    }
+  ],
+  "current_statement": "4574bec1-bc93-4452-bf4f-a2435d39ee23",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b187d010-15da-4476-b407-2a7922c1dcf1",
+        "locator": "section 1",
+        "quote": "This GHP is a fully quantum information-theoretic principle that is entirely independent of geometric considerations."
+      },
+      {
+        "source": "0106999c-ce99-4816-800a-819a3635b0f4",
+        "locator": "abstract",
+        "quote": null
+      }
+    ]
+  }
+}

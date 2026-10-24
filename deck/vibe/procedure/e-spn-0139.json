@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "87d81bdb-3293-44f1-9e32-f7875d544db3",
+  "title": "E-SPN-0139: a holding map for three holes on the slab over string tension (pi/3, pi/5, pi/7, pi/13 a link) and mixer...",
+  "purpose": "Experiment E-SPN-0139 in the spin arena: a holding map for three holes on the slab over string tension (pi/3, pi/5, pi/7, pi/13 a link) and mixer rate (0, 1/64 to 1/4) does not follow the Klein-gap criterion N m(theta)^2 >= ln 1000 (m = pi/3 - theta/2, the lone hole's measured slab gap 2 pi/3 - theta), fail (M1, M2, B): the composite holds only with the mixer off (D 3 and D 6), the criterion is right on D 1 to 3 and wrong on all 5 D 6 points with the mixer on (least fidelity 0.90 to 0.0055, tail 0.06 to 0.70), and the weaker string does worse (tail at rate 1/64: 0.29, 0.077, 3.3e-3, 0.060 at D 1, 2, 3, 6), so the leak is not Zener passage; no joint path, no tensor; a bag (inside rate 1/16, outside the working 3) keeps the lone hole free bit for bit but holds nothing (D 3 fidelity 0.856, tail 0.020); E-SPN-0135's one-line and contact-bound levels reproduced exactly.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L2 (L2: known physics reproduced on a stated model).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/spin/slab-hold-map.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-SPN-0139",
+        "quote": null
+      }
+    ]
+  }
+}

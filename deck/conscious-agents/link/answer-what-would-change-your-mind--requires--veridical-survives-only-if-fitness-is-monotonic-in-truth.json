@@ -1,0 +1,28 @@
+{
+  "record": "link",
+  "id": "283713b6-4a24-4150-8db8-b4bb5441c022",
+  "from": "86419e2f-c5fe-448c-adf3-92dd8fc90521",
+  "to": "5c0dd0b0-c3b9-4113-b8f6-0e50dca88cb3",
+  "relation": "requires",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "9f6802be-e2fa-4f89-b303-461db4c74e7e",
+        "locator": "Conscious realism",
+        "quote": "Conscious realism is a precise hypothesis that, of course, might be precisely wrong."
+      }
+    ]
+  }
+}

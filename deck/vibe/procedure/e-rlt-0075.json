@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "bb85301b-b30d-40eb-a10d-5186dee495eb",
+  "title": "E-RLT-0075: the living-pair knit through E-FRC-0159's battery, partial at the default integer start since the frame...",
+  "purpose": "Experiment E-RLT-0075 in the relativity arena: the living-pair knit through E-FRC-0159's battery, partial at the default integer start since the frame fix (E-RLT-0088; fail before it): with the comoving own points carried by the frame change, the swap-phase control reads 0 at the battery's own frame, so the X1 instrument gate fails and the verdict on the knit is not reached (partial marks an instrument that could not fire, not a knit that came closer); all 14 quantum gates pass (the vacuum pair is a line of dock 0's store tokens meeting every 3 beats, CHSH 2.552, H's value) and the husk transport stays isotropic (charge 4.00, trace 4.11, sound 4.04 over the three longest rungs, shear 2.03), but against the combined knit H 6 gates newly fail (the four dressing gates, superposition, walls): the hot vacuum is full on every beat between making and unmaking, one lone vibe breaks its timing and the wake multiplies beat by beat (19, 36, 60, 127, 344, 1,637 trits over the first six) until the box melts (179,854 trits in the first period on side 9, committed 33).",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L2 (L2: known physics reproduced on a stated model).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/relativity/living-pair-battery.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-RLT-0075",
+        "quote": null
+      }
+    ]
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "27b20d26-4373-4499-a11f-e6eb6838b3ab",
+  "title": "E-SLF-0157: a body-hit on one body changes the field record at a distant body through nothing but the shared mesh...",
+  "purpose": "Experiment E-SLF-0157 in the selves arena: a body-hit on one body changes the field record at a distant body through nothing but the shared mesh under the committed deterministic rule, the severed-mesh control gives an exact dynamical zero, and the response attenuates with separation, so influence between bodies is carried by the shared medium and only by it.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L2 (L2: known physics reproduced on a stated model).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/selves/field-coupling-at-range.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-SLF-0157",
+        "quote": null
+      }
+    ]
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "record": "proposition",
+  "id": "afecc06f-3dca-44cc-8456-3e7cdfc9c7a4",
+  "kind": "empirical",
+  "epistemic_status": "inferred",
+  "title": "Critique: quantum mechanics gives no evidence for idealism",
+  "statements": [
+    {
+      "id": "40ab4a67-ea7b-440d-9c9c-c6b62a1abb01",
+      "text": "The claim that physical properties do not exist before observation is an overstatement, and insofar as Kastrup’s cosmopsychism succeeds it stands to quantum experiments exactly as common physical realism does, so the experiments do not favor it.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-23"
+    }
+  ],
+  "current_statement": "40ab4a67-ea7b-440d-9c9c-c6b62a1abb01",
+  "status": "active",
+  "voice": "critique",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "5777d606-b44f-4855-bf3d-c76bc5c70f0d",
+        "locator": "abstract",
+        "quote": "the resulting kind of idealism (cosmopsychism) stands to the results of quantum mechanical experiments in the same relations as common physical realism"
+      }
+    ]
+  }
+}

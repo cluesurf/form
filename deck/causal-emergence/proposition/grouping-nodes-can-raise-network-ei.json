@@ -1,0 +1,45 @@
+{
+  "record": "proposition",
+  "id": "244332d3-0aba-42eb-975d-7ee44fc0c865",
+  "kind": "mathematical",
+  "epistemic_status": "inferred",
+  "title": "Grouping nodes can raise network EI",
+  "statements": [
+    {
+      "id": "b02092a3-0f88-45d6-8f95-26b4286e85ee",
+      "text": "Grouping subgraphs of a network into macro-nodes can shrink the network while raising its effective information.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-23"
+    }
+  ],
+  "current_statement": "b02092a3-0f88-45d6-8f95-26b4286e85ee",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "6498aca9-83cf-4905-a85a-3f5eb327c9e9",
+        "locator": "abstract",
+        "quote": "We show how subgraphs of nodes can be grouped into macro-nodes, reducing the size of a network while increasing its effective information"
+      }
+    ]
+  }
+}

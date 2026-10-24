@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "6cc646b6-c544-4557-aaa0-1edf40adc3f3",
+  "title": "E-FRC-0218: the line's paid string with pairs born in both orientations: does it sample the mod-3 measure E-FRC-0188...",
+  "purpose": "Experiment E-FRC-0218 in the gauge arena: the line's paid string with pairs born in both orientations: does it sample the mod-3 measure E-FRC-0188 solved, and does the rule's own static residual between two static mesons (stand-ins for nucleons) come out as the exact one-meson exchange.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L2 (L2: known physics reproduced on a stated model).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/gauge/pair-line-both.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-FRC-0218",
+        "quote": null
+      }
+    ]
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "ebcdaa87-f5dc-46a8-87d2-bad08fd05a56",
+  "title": "E-SLF-0010: the absorbing boundary absorbs everything and the closed torus recurs exactly, the arrow of openness...",
+  "purpose": "Experiment E-SLF-0010 in the selves arena: the absorbing boundary absorbs everything and the closed torus recurs exactly, the arrow of openness, not healing.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L1 (L1: known mathematics, correctly confirmed).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/selves/bath-damps-soft-mode.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-SLF-0010",
+        "quote": null
+      }
+    ]
+  }
+}

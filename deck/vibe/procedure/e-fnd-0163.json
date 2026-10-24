@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "b68a2488-7ae4-4db8-a2b8-cefe1642d7c6",
+  "title": "E-FND-0163: four holes of the register sea on the L = 4 torus, exact, pass: holes are fermions, so the store keeps...",
+  "purpose": "Experiment E-FND-0163 in the foundations arena: four holes of the register sea on the L = 4 torus, exact, pass: holes are fermions, so the store keeps only the momenta in increasing order (91,808 rows, 3.76e8 amplitudes, 6.0 GB against 8.6e9 and 137 GB), the one-body pieces act row by row and the pair piece on one column per fiber orbit; it matches the dense engine to 3.2e-16 (three holes on L = 4, four on L = 2), reproduces E-FND-0162 (late upper band 0.932108 from both, to 4.4e-16), and runs four holes on L = 4 on the Rust kernel at 32 s a cycle, the free rule equal to its Slater determinant to 4.7e-16 and the norm kept to 2.5e-14; dropping the permutation signs misses by 0.20.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L1 (L1: known mathematics, correctly confirmed).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/foundations/register-sorted-holes.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-FND-0163",
+        "quote": null
+      }
+    ]
+  }
+}

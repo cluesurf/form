@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "9afeac23-83ac-45b8-b61b-724a2dfda5d1",
+  "title": "E-QTM-0090: the measurement holder is derived from the committed rule, not modeled: the committed conserving rule...",
+  "purpose": "Experiment E-QTM-0090 in the quantum arena: the measurement holder is derived from the committed rule, not modeled: the committed conserving rule keeps a compact charge structure bound at about nine tenths of its initial cluster indefinitely on the flat layer with no added cohesion (stable from beat 400 to 800), while curvature disperses it, so the self-maintaining holder E-QTM-0086/0087 modeled with the self-kit emerges from the base rule itself.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L2 (L2: known physics reproduced on a stated model).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/quantum/holder-derived-from-the-rule.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-QTM-0090",
+        "quote": null
+      }
+    ]
+  }
+}

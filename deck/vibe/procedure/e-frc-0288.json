@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "37cf6968-53a3-46cd-bbb6-61a8c4ae9aac",
+  "title": "E-FRC-0288: emission does not choose the light's split, fail as derived: at fixed kappa the coupled split is the...",
+  "purpose": "Experiment E-FRC-0288 in the gauge arena: emission does not choose the light's split, fail as derived: at fixed kappa the coupled split is the same change of units as the free light's, carrying a coupling through E or through A along with its strength rescaled (conjugated runs agree to 2.3e-13), so a STAND-IN emitter on the side-12 husk light emits a share that follows rho1 / rho2 = 1.1127 as the vacuum's does, up to an $O(g^2)$ strength term (1.2e-4 at g = 0.025 for the ladder-like E coupling, 6.0e-6 for the Peierls-like A coupling, a quarter per halving); couplings written in the rescaled units depart by 8e-13 and a gap that moves with the split by 5.7e-2; only a coupling through both fields with split-free weights keeps a first-order departure, 2e-3 in its bound near field; the emitted light balances at a split set by the gap (0.493 at delta 0.5, 0.385 at 1.0), the same at both splits, meeting 0.4614 at delta 0.76 and 0.4146 at 0.91.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L2 (L2: known physics reproduced on a stated model).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/gauge/emission-share.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-FRC-0288",
+        "quote": null
+      }
+    ]
+  }
+}

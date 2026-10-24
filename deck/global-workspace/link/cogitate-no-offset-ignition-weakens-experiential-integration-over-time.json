@@ -1,0 +1,28 @@
+{
+  "record": "link",
+  "id": "170bb2cf-150c-4ea2-b76f-989bab6088ae",
+  "from": "94d5f203-724b-4c65-8965-61d7d7ad7a5e",
+  "to": "87afa729-d8f6-4222-b681-ba4bcbbd0635",
+  "relation": "weakens",
+  "strength": null,
+  "rationale": "A change of conscious content at stimulus offset produced no workspace update, so the diachronic role of the workspace lacks its predicted signature.",
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "dbe9b66c-4ffb-4615-9fd2-aa5c75424db8",
+        "locator": "Results, maintenance of conscious content",
+        "quote": "However, none of the 655 electrodes measured the temporal profile predicted by GNWT (that is, onset and offset)."
+      }
+    ]
+  }
+}

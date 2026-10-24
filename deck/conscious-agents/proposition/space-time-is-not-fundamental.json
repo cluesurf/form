@@ -1,0 +1,45 @@
+{
+  "record": "proposition",
+  "id": "c868f77e-6dc9-45c4-9137-e79963d8977a",
+  "kind": "philosophical",
+  "epistemic_status": "hypothesized",
+  "title": "Space-time is not fundamental",
+  "statements": [
+    {
+      "id": "ed8c35ba-7ae0-430a-9ac4-7fc7f3755941",
+      "text": "Neither objects nor space-time are fundamental. Both are species-specific perceptual adaptations.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-23"
+    }
+  ],
+  "current_statement": "ed8c35ba-7ae0-430a-9ac4-7fc7f3755941",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "9f6802be-e2fa-4f89-b303-461db4c74e7e",
+        "locator": "Conclusion",
+        "quote": "objects and space-time are simply species-specific perceptual adaptions"
+      }
+    ]
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "c98a2b71-d360-4095-ada5-66365fa038da",
+  "title": "E-SPN-0119: a composite's hub cannot walk by recruiting vacuum pairs, pass (H1 by the star theorem): at a dock of...",
+  "purpose": "Experiment E-SPN-0119 in the spin arena: a composite's hub cannot walk by recruiting vacuum pairs, pass (H1 by the star theorem): at a dock of two or three singles plus the vacuum's full lines $K = w_P$ carries full lines onto other lines of the same dock (a vacuum pair takes a new line on 141,312 of 270,336 two-single docks and 439,296 of 901,120 three-single docks, 0 images leave the dock), so with the vacuum two singles already make a hub, but every recruit lands on a line through that dock; since every other piece acts line by line and a dock off X meets at most one line through X, a difference on the twelve lines through X stays on them forever, so no hub step exists at any order and the hop amplitude is exactly 0; in the working knit with its vacuum, three loves on (1,1,0,0), (1,0,1,0), (0,1,1,0) at X fire K 977 times over 18 runs (8 paths on 'pass' and 'lone' at side 8, sides 4 and 12, 128 beats), 0 off X, recruiting 195 vacuum pairs, with 0 readings off the star; the vacuum fires K 0 times, the bare trio stays at X, a lone love keeps its line, and two hubs one root apart fire K off X from beat 0 and cascade over all 4,096 docks by beat 128 (one start, one path), a wake rather than a moving composite.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L1 (L1: known mathematics, correctly confirmed).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/spin/hub-star.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-SPN-0119",
+        "quote": null
+      }
+    ]
+  }
+}

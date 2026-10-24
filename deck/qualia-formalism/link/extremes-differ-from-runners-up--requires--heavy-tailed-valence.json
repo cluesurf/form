@@ -1,0 +1,28 @@
+{
+  "record": "link",
+  "id": "8ff645d8-a0a1-4a8e-b012-1b386fafea44",
+  "from": "fdaab6ea-fff4-4218-87bb-afb025b9c387",
+  "to": "18e77377-2c12-427e-9ff2-70cd2c328f05",
+  "relation": "requires",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "85b7eae8-271a-41ee-9c3c-3c2ad6eae62f",
+        "locator": "section 2.3.3",
+        "quote": "we would also expect larger differences between their most extreme and second most extreme memories."
+      }
+    ]
+  }
+}

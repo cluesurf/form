@@ -1,0 +1,50 @@
+{
+  "record": "proposition",
+  "id": "98600034-f7af-4938-a99c-290a139ddb7f",
+  "kind": "philosophical",
+  "epistemic_status": "hypothesized",
+  "title": "Answer: experience is basic",
+  "statements": [
+    {
+      "id": "6729ddca-f14e-4b01-b2bf-bbd0908a3fce",
+      "text": "Experience is basic. Each conscious agent has a space of possible conscious experiences as a primitive, and brain activity does not create experience: consciousness creates brain activity.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-23"
+    }
+  ],
+  "current_statement": "6729ddca-f14e-4b01-b2bf-bbd0908a3fce",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "a7e70d05-b690-4622-b9c7-93120625ba04",
+        "locator": "abstract, p. 87",
+        "quote": "these correlations arise because consciousness creates brain activity"
+      },
+      {
+        "source": "2207dc33-f8a8-469f-99b2-286f1139ed74",
+        "locator": "section 4",
+        "quote": "has a set of potential conscious experiences"
+      }
+    ]
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "47e5b335-6b89-4b33-bf62-8ae00944cc09",
+  "title": "E-GRV-0071: content does not set its column depth in the model as it is, fail on S2: every depth parameter of the...",
+  "purpose": "Experiment E-GRV-0071 in the gravity arena: content does not set its column depth in the model as it is, fail on S2: every depth parameter of the trit light (q = 2D + 1, h = D, $N_B = 4D$, the angle and potential windows) is fixed when the bulk is built and reads no state, and on the trit light (side 16, D 4, 36 beats) a pulse crossing neutral lumps of 2, 4 and 12 vibes follows the fixed-depth husk rule on 7 of 7 configurations and the content-deepened candidate (each column at D + its vibe count, up to D 8) on none of 6 lumps, though the candidate departs from the fixed rule by beat 6 to 10; lump and flip leave the light identical to the empty run at every entry, so there is no deeper patch and no deficit to fall as 1/r; the smallest change that would ($q_P = 2$ (D + k_P) + 1) needs new trits per column and is contact local, so it gives a sharp patch with no 1/r tail; a 1/r deficit needs a second, even field.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L1 (L1: known mathematics, correctly confirmed).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/gravity/content-sets-depth.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-GRV-0071",
+        "quote": null
+      }
+    ]
+  }
+}

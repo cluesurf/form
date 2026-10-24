@@ -1,0 +1,33 @@
+{
+  "record": "link",
+  "id": "8c410f61-6bc1-451d-b739-8a5394e85a1b",
+  "from": "59ba7980-d2a8-4074-8706-82654d2f5e22",
+  "to": "97a1d985-691b-41ab-bbac-4f456df021a7",
+  "relation": "requires",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "4489b7d7-7273-4b67-a1c2-b53ddab0eeb5",
+        "locator": "section 2.2",
+        "quote": "the “external” time t in these equations is not an observable, clock-referenced time"
+      },
+      {
+        "source": "b187d010-15da-4476-b407-2a7922c1dcf1",
+        "locator": "section 1",
+        "quote": null
+      }
+    ]
+  }
+}

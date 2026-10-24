@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "9641a680-6cf6-4002-b572-d4c7de8bea65",
+  "title": "E-GMT-0035: pacing a bulk triangle and summing the turns gives an angle deficit equal to its area (Gauss-Bonnet)...",
+  "purpose": "Experiment E-GMT-0035 in the geometry arena: pacing a bulk triangle and summing the turns gives an angle deficit equal to its area (Gauss-Bonnet), matched to machine precision by two independent measurements and growing with loop size, while the same legs interpreted flatly give zero deficit.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L2 (L2: known physics reproduced on a stated model).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/geometry/triangle-deficit-walk.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-GMT-0035",
+        "quote": null
+      }
+    ]
+  }
+}

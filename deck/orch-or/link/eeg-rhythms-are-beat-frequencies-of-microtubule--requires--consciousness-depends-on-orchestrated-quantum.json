@@ -1,0 +1,28 @@
+{
+  "record": "link",
+  "id": "d91cc298-65d0-4a0b-bbb6-3fa4893cf016",
+  "from": "178a0c97-f81b-432a-855e-dd3110515708",
+  "to": "f992f9e0-4750-4368-93d8-934fbf1a78f2",
+  "relation": "requires",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "c0602528-f093-4705-abc3-e13d7657a680",
+        "locator": "abstract",
+        "quote": "We also introduce a novel suggestion of ‘beat frequencies’ of faster microtubule vibrations as a possible source of the observed electro-encephalographic (‘EEG’) correlates of consciousness."
+      }
+    ]
+  }
+}

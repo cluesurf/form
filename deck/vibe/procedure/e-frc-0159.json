@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "3da5a9c8-5b39-4fa2-85a8-2d22f87b741f",
+  "title": "E-FRC-0159: the combined knit through every battery with the fear beat off and on and with and without the fold...",
+  "purpose": "Experiment E-FRC-0159 in the gauge arena: the combined knit through every battery with the fear beat off and on and with and without the fold, fail at the default integer link start (E-MTH-0027) on its frame control alone, and pass on 5 of 9 starts of E-MTH-0028's family: on all 9 no gate fails only with the fear beat on and every quantum gate passes with it on (CHSH 2.55 on H, HF and HFL at the default start), so the fear beat works with the knit by the registered rule; each of the 4 failing starts is one where the vacuum pair makes no fear and the frame control (the swap phase at love-fear meetings) reads 0 in both the on and off columns, uninformative rather than a failure of the fear beat; on every start the base's own gates fail on a lone fear's first-period dressing (33 against 27), on the fold (5 vacuum line components, dressing 22,722 at side 9, vacuum period 72) and on lone steering (momentum drift 35), and the kick law stays lost.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L2 (L2: known physics reproduced on a stated model).",
+  "status": "completed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/gauge/combined-knit-battery.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "research/result.ts R-FRC-0006",
+        "quote": null
+      }
+    ]
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "record": "question",
+  "id": "2648f31c-a82e-42de-94b7-1b59432010b5",
+  "text": "The signed weight on the role grid runs in the knit as the fear beat. Can a vibe's position carry amplitudes too, inside the knit's own stream?",
+  "kind": "missing_evidence",
+  "status": "open",
+  "parent": null,
+  "description": "OP-01: give the positions amplitudes.\n\nKnown: the bare knit has no amplitudes: defects add exactly as sets (R-FND-0001). The signed weight on the role grid is the quantum part (E-FRC-0120 to E-FRC-0122, E-FRC-0127), and it runs in the adopted knit as the fear beat, adopted on 2026-09-25 (E-FRC-0158, E-FRC-0159) and in its comoving form on 2026-09-26 (E-SPN-0063, E-MTH-0028). The fear weave runs it inside the lattice: quantum in the roles (chances 1/4, 3/4, 1 against 1/4, 3/8, 7/16, and CHSH above 2 where both classical rules stay at 2, E-QTM-0100). One meeting on a product start gives a three-rung ladder set by the overlap of the two roles, 2, 4 / sqrt 3 and sqrt 7 for like vibes and 2, a quartic 2.3613 (a lower bound on that knot's CHSH maximum) and (2 + 4 sqrt 2) / 3 for a love and a fear (E-QTM-0140, E-QTM-0141), and the knit's own histories read up to 2.5298 as a signed count at the model's own settings (E-RLT-0055 under the comoving fear beat, E-QTM-0111, E-QTM-0143), and a lone vibe moves ballistically under the one-third turn (exponent 0.997 against 0.497, E-QTM-0103). Grain grows: a knot of $9 \\times 4^m$ units is refused at meeting m + 1 (E-QTM-0099).\n\nUnknown: real weights on positions: streaming permutes the Wigner grid only on a ring of 3 docks, so the weight on a position is complex, not loves and fears (E-QTM-0103). The knit's own positions are classical, its stream reading slots and never writing back, and the doublet-locked stream is the unique covariant way a vibe can move with amplitudes (E-SPN-0081). It was adopted on 2026-09-26 and is not built.\n\nWhy it matters: every quantum result about positions in the program is about an imported walk until this exists.\n\nScope: open-ended research. A first negative or positive construction is a paper.\n\nSkills: cellular automata, quantum foundations, numerical simulation.\n\nWhere to start: test/experiment/foundations/rule-has-no-amplitudes.ts; test/experiment/gauge/fear-beat.ts; 't Hooft 2016, The Cellular Automaton Interpretation of Quantum Mechanics.\n\nThe claims it would move: R-FND-0001, R-FRC-0005.\n\nEvidence named: E-FND-0080, E-FRC-0120 to E-FRC-0122, E-FRC-0127, E-FRC-0158, E-FRC-0159, E-SPN-0063, E-SPN-0081, E-MTH-0028, E-QTM-0099, E-QTM-0100, E-QTM-0103, E-QTM-0111, E-QTM-0140, E-QTM-0141, E-QTM-0143, E-RLT-0055.",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "research/problem.ts OP-01",
+        "quote": null
+      }
+    ]
+  }
+}

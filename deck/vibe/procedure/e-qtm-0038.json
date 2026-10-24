@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "1609a53b-f22f-43b8-9ec9-9a128aed1243",
+  "title": "E-QTM-0038: the Tsirelson bound 2 root 2 follows from anticommutation in any qubit theory (Tsirelson 1980, Landau...",
+  "purpose": "Experiment E-QTM-0038 in the quantum arena: the Tsirelson bound 2 root 2 follows from anticommutation in any qubit theory (Tsirelson 1980, Landau 1987), commuting structure gives only the classical bound 2, and the {3,4,3,4} coin quaternion units provide an anticommuting pair, so the quantum maximum is available to the coin without tuning.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L1 (L1: known mathematics, correctly confirmed).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/quantum/tsirelson-forced-by-coin.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-QTM-0038",
+        "quote": null
+      }
+    ]
+  }
+}

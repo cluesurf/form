@@ -1,0 +1,50 @@
+{
+  "record": "proposition",
+  "id": "b2d84737-dc3b-4959-af84-d1c5b7edd8c6",
+  "kind": "mathematical",
+  "epistemic_status": "inferred",
+  "title": "Free energy acts as a Lyapunov function",
+  "statements": [
+    {
+      "id": "e4ee81c9-7799-4b5f-8070-4948a9bd5f55",
+      "text": "Because living systems return to a set of attracting states, their dynamics admit a Lyapunov function, and that function is surprisal, bounded by free energy. A system descending it can be described as performing inference without any added inferential machinery.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-23"
+    }
+  ],
+  "current_statement": "e4ee81c9-7799-4b5f-8070-4948a9bd5f55",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "c3908a50-f858-42d6-8c6b-be810bd5a82f",
+        "locator": "abstract",
+        "quote": "Mathematically, this implies the existence of a Lyapunov function that turns out to be model evidence (i.e., self-evidence) in Bayesian statistics or surprise (i.e., self-information) in information theory."
+      },
+      {
+        "source": "486f9dea-4b8d-4998-8fbb-eea469cbe46b",
+        "locator": "abstract",
+        "quote": "variational free energy is a Lyapunov function for neuronal dynamics, which therefore conform to Hamilton’s principle of least action."
+      }
+    ]
+  }
+}

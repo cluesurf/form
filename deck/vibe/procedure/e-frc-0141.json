@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "caf6cdfb-c2a4-40b8-9382-afe6ef1d60f4",
+  "title": "E-FRC-0141: what splits the three triplet copies: the committed turning weave, which keeps no triality, splits all...",
+  "purpose": "Experiment E-FRC-0141 in the gauge arena: what splits the three triplet copies: the committed turning weave, which keeps no triality, splits all three apart on all 16 A2 planes, while under the triality weave a condensate on one copy sets only that copy apart and leaves the other two exactly degenerate (1 + 2), and the same condensate on all three keeps all three degenerate.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L2 (L2: known physics reproduced on a stated model).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/gauge/generation-splitting.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-FRC-0141",
+        "quote": null
+      }
+    ]
+  }
+}

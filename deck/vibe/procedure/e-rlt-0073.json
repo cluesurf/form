@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "1632a6fe-eb1b-4600-91a5-be639b3f359d",
+  "title": "E-RLT-0073: the candidate knit does not work with everything, fail: over 21 properties against the committed and...",
+  "purpose": "Experiment E-RLT-0073 in the relativity arena: the candidate knit does not work with everything, fail: over 21 properties against the committed and combined knit it gains 6 (all 1,152 coin maps, an energy law, spontaneous rather than explicit breaking, 48 of 48 free lone vibes, the one omega, isotropic husk transport), loses 2 (6 of 14 quantum gates unreadable because its vacuum holds no meeting, no handedness), leaves 3 open (a bounded 82-trit wake, CHSH 2.361 on matter only, 15 of 16 A2 planes split on the hot vacuum), and against H newly fails 10 battery gates and newly passes none.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L2 (L2: known physics reproduced on a stated model).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/relativity/candidate-trade-table.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-RLT-0073",
+        "quote": null
+      }
+    ]
+  }
+}

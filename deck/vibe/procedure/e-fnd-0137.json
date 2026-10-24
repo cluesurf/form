@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "505d6e5b-7406-473e-9a7c-9a05ec00ab82",
+  "title": "E-FND-0137: dynamical localization in a growth-written warp is species-specific and independently supports the...",
+  "purpose": "Experiment E-FND-0137 in the foundations arena: dynamical localization in a growth-written warp is species-specific and independently supports the lepton assignment: exactly one species locks deep (direction eighteen at minus seven with zero spread, the assigned electron at the deepest warp depth), the assigned tau locks at exactly zero spread zero, the assigned muon settles between with the smallest nonzero wander, the massless control never localizes, and the settling order is monotone in the assigned depths with both extremes dynamically locked, properties the mass-ratio selection never used.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L2 (L2: known physics reproduced on a stated model).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/foundations/warp-localization.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-FND-0137",
+        "quote": null
+      }
+    ]
+  }
+}

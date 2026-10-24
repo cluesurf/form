@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "3d854e85-5216-4216-8b4e-5b54e7c1e216",
+  "title": "E-RLT-0095: frozen coset walls on the coset-union vacuum, pass: planted against the vacuum and its image run in...",
+  "purpose": "Experiment E-RLT-0095 in the relativity arena: frozen coset walls on the coset-union vacuum, pass: planted against the vacuum and its image run in lockstep (B', departure only on docks beside the interface and never growing), the four lattice-keeping cosets C, g, gC and 2 r0 freeze on all 17 starts into cores of 1,728, 1,458, 1,728 and 1,728 docks (for C, gC and 2 r0 the hub's 432 four times over, one per independent part) that hold neither side's history, the same at all 20 windows, 0 of 1,728 husk columns departing outside; the translation r0 melts (13,824 docks on 1,152 columns outside); the reader reproduces E-RLT-0092 on the hub vacuum (C and 2 r0 cores of 432, r0 melting) and fails a lone love planted three layers deep (8 docks outside).",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L2 (L2: known physics reproduced on a stated model).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/relativity/union-walls.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-RLT-0095",
+        "quote": null
+      }
+    ]
+  }
+}

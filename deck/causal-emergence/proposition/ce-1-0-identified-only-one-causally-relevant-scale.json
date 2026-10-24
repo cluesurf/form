@@ -1,0 +1,45 @@
+{
+  "record": "proposition",
+  "id": "3f683f21-847d-4f0a-b994-efaa8cfb6264",
+  "kind": "philosophical",
+  "epistemic_status": "inferred",
+  "title": "CE 1.0 identified only one causally relevant scale",
+  "statements": [
+    {
+      "id": "2f1296cc-54a3-4d7b-9974-b3093655f46b",
+      "text": "The first version of causal emergence picked out a single causally relevant scale, the maximum of EI, and ignored all multiscale structure, which Hoel treats as a shortcoming CE 2.0 replaces.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-23"
+    }
+  ],
+  "current_statement": "2f1296cc-54a3-4d7b-9974-b3093655f46b",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "c40bbd28-a2c5-4730-84c0-90f7ae0644de",
+        "locator": "section 1",
+        "quote": "The second issue is that CE 1.0 only identified a single causally-relevant scale (the maximum of EI), ignoring all multiscale structure."
+      }
+    ]
+  }
+}

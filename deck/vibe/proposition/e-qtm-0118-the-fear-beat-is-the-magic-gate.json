@@ -1,0 +1,50 @@
+{
+  "record": "proposition",
+  "id": "2eaa7662-19ac-445f-baa0-ca234ae085bd",
+  "kind": "empirical",
+  "epistemic_status": "simulated",
+  "title": "E-QTM-0118: the fear beat is the magic gate: both its forms are outside the two-qutrit Clifford group; the singlet...",
+  "statements": [
+    {
+      "id": "4c903729-c147-4712-bfea-c527e42021e9",
+      "text": "The fear beat is the magic gate: both its forms are outside the two-qutrit Clifford group; the singlet phase a love and a fear feel is Clifford-equivalent to diag(omega, 1, ..., 1), a controlled-controlled phase at level 4 of the Clifford hierarchy; the swap phase two like vibes feel is Clifford-equivalent to no diagonal gate, its omega-eigenspace carrying nine fears; and each, with Sigma(648) on each role, generates all of su(9).",
+      "language": "en",
+      "scope": "experiment E-QTM-0118, arena quantum, depth L1 (L1: known mathematics, correctly confirmed)",
+      "conditions": "substrates: any. In a paper: false",
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-22"
+    }
+  ],
+  "current_statement": "4c903729-c147-4712-bfea-c527e42021e9",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": {
+    "value": "open",
+    "reason": "holds in the vibe claim graph",
+    "basis": [],
+    "proposal": null
+  },
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "research/result.ts R-FRC-0003",
+        "quote": null
+      }
+    ]
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "record": "proposition",
+  "id": "0bc8d67f-2888-412e-841d-86b1b133ddaf",
+  "kind": "empirical",
+  "epistemic_status": "inferred",
+  "title": "The cell membrane implements a Markov blanket",
+  "statements": [
+    {
+      "id": "f240f484-5775-42f8-ab1c-c2eb617ccef6",
+      "text": "As the site of molecular, thermodynamic and bioelectric exchange with the environment, the cell membrane implements a Markov blanket, so a cell can be described as a Bayesian active inference system.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-23"
+    }
+  ],
+  "current_statement": "f240f484-5775-42f8-ab1c-c2eb617ccef6",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "1792e489-be3b-46bb-ba4b-0dcd00a0abc7",
+        "locator": "introduction",
+        "quote": "the cell membrane implements a Markov Blanket (MB) that renders its interior conditionally independent of its exterior"
+      }
+    ]
+  }
+}

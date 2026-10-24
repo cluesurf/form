@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "9bfa5bc5-4343-4f31-bfd7-db2aa90cdb64",
+  "title": "E-QTM-0085: the measurement amplifier is the arrow: with the value direction on, the active committed rule scrambles...",
+  "purpose": "Experiment E-QTM-0085 in the quantum arena: the measurement amplifier is the arrow: with the value direction on, the active committed rule scrambles a single-cell seed into a macroscopically different definite history (sensitive dependence, robust across size), so a microscopic seed selects a macroscopic branch, while the same rule at dead peace (arrow off) keeps the seed microscopic, tying the amplifier the reversible rule lacks (E-QTM-0084) to the fifth base thing.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L2 (L2: known physics reproduced on a stated model).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/quantum/arrow-is-the-amplifier.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-QTM-0085",
+        "quote": null
+      }
+    ]
+  }
+}

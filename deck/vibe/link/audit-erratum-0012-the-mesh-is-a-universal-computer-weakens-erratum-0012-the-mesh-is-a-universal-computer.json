@@ -1,0 +1,28 @@
+{
+  "record": "link",
+  "id": "1a45bfcf-ce74-4cb6-9f33-3f7db0d822ce",
+  "from": "178418d6-b3f6-4692-b27b-79dede52d7c3",
+  "to": "0bcfbaea-ff7a-4914-8462-e53bafa0c2ef",
+  "relation": "weakens",
+  "strength": null,
+  "rationale": "the 2026-08-31 audit: reproduced, and the verdict is fixed",
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "research/paper.ts ERRATA",
+        "quote": null
+      }
+    ]
+  }
+}

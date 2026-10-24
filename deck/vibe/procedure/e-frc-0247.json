@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "42315e95-d26c-45c9-a7ce-060da8de9555",
+  "title": "E-FRC-0247: composite light on the husk patch, and what would make it, a STAND-IN: the love-fear comoving state is...",
+  "purpose": "Experiment E-FRC-0247 in the gauge arena: composite light on the husk patch, and what would make it, a STAND-IN: the love-fear comoving state is exact at K = 0 for every displacement but carries ONE polarization, the pair's only linear feature (the continuum edge) moves at the token's top directional velocity, which is anisotropic, and a filled sea makes a sharp massless composite only on a line (width $3K^{3/64}$ at the inflection point, slope 1/2), never on the husk.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L2 (L2: known physics reproduced on a stated model).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/gauge/composite-light-husk.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-FRC-0247",
+        "quote": null
+      }
+    ]
+  }
+}

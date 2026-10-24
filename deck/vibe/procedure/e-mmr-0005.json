@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "b5422f49-d049-4234-978c-6281c48776c6",
+  "title": "E-MMR-0005: a content-addressable memory on the {3,4,3,4} bulk recalls every stored word exactly with no false positives",
+  "purpose": "Experiment E-MMR-0005 in the associative arena: a content-addressable memory on the {3,4,3,4} bulk recalls every stored word exactly with no false positives.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L1 (L1: known mathematics, correctly confirmed).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/associative/exact-recall.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-MMR-0005",
+        "quote": null
+      }
+    ]
+  }
+}

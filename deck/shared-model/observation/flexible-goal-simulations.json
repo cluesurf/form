@@ -1,0 +1,44 @@
+{
+  "record": "observation",
+  "id": "2cb1632a-50ed-413a-9435-ff92be3a5273",
+  "kind": "simulation_result",
+  "epistemic_status": "simulated",
+  "description": "Evolutionary simulations in which perceptual systems serve several independent utility functions: as the number of goals grows, selected perceptual systems become more veridical and the interface versus veridical distinction dissolves.",
+  "method": "simulation",
+  "status": "reported",
+  "source": "17ee639a-94ca-48c1-abaf-80a9c6094e0d",
+  "procedure": null,
+  "variable": null,
+  "value": null,
+  "unit": null,
+  "uncertainty": null,
+  "sample_size": null,
+  "replication_count": null,
+  "quality": null,
+  "limitations": null,
+  "conflicts_of_interest": null,
+  "observed_at": null,
+  "origin": [
+    {
+      "repository": "conscious-agents",
+      "id": "1dd2315d-14bc-4b68-b13c-e4bfe4224f94"
+    }
+  ],
+  "provenance": {
+    "written_by": "github:lancejpollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "17ee639a-94ca-48c1-abaf-80a9c6094e0d",
+        "locator": "abstract",
+        "quote": "as the need for flexible goals increases, inflexible perceptual systems must become more veridical."
+      }
+    ]
+  }
+}

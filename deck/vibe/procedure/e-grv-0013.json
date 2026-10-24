@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "d6310e4f-0743-45ab-b987-57fc28f436b9",
+  "title": "E-GRV-0013: the static Newtonian 1/r force from the measured area law, the Verlinde route, no new field",
+  "purpose": "Experiment E-GRV-0013 in the gravity arena: the static Newtonian 1/r force from the measured area law, the Verlinde route, no new field.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L2 (L2: known physics reproduced on a stated model).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/gravity/entropic-newton.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-GRV-0013",
+        "quote": null
+      }
+    ]
+  }
+}

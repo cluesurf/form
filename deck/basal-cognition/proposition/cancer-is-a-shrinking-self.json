@@ -1,0 +1,50 @@
+{
+  "record": "proposition",
+  "id": "b160b9a8-729d-437f-af7c-fcc11994e25f",
+  "kind": "empirical",
+  "epistemic_status": "hypothesized",
+  "title": "Cancer is a shrinking of the self",
+  "statements": [
+    {
+      "id": "8c2f0752-b70c-41a4-8a85-4ff94e548deb",
+      "text": "Cancer is a reversible shrinking of the computational boundary of cells: cut off from the tissue's bioelectric network, a cell's cognitive boundary returns to its pre-multicellular size.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-23"
+    }
+  ],
+  "current_statement": "8c2f0752-b70c-41a4-8a85-4ff94e548deb",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "9d7dc0d8-1f18-43d2-b86a-16d31ae12fd3",
+        "locator": "section Conclusion and Future Outlook",
+        "quote": "Cancer is a (reversible) shrinking of the computational boundary of a biosystem"
+      },
+      {
+        "source": "fd7382f9-52a5-4beb-9680-fc341ff15b98",
+        "locator": "Table 3",
+        "quote": "Selves can dissociate (scale down), as occurs in cancer, by shrinking the computational boundaries of some subunits that de-couple from the network."
+      }
+    ]
+  }
+}

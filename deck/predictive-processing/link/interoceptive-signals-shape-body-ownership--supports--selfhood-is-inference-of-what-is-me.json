@@ -1,0 +1,28 @@
+{
+  "record": "link",
+  "id": "62156d98-3d39-4f56-a740-056559df6c03",
+  "from": "c1725fd1-d2e6-4885-b268-073fd31ec129",
+  "to": "bb50899b-e9fd-4cfb-9562-8d2f8631155f",
+  "relation": "supports",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "7016e8f6-c849-46cf-8311-dbf6faf85fa5",
+        "locator": "abstract",
+        "quote": "Our results demonstrate that interoceptive signals directly influence the experience of body ownership via multisensory integration"
+      }
+    ]
+  }
+}

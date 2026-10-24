@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "3d4df7af-2ade-44d1-9c4f-3a87fe704971",
+  "title": "E-RLT-0064: pair creation that keeps W(F4) exists, and needs an oriented store: no W(F4)-covariant rule makes a pair...",
+  "purpose": "Experiment E-RLT-0064 in the relativity arena: pair creation that keeps W(F4) exists, and needs an oriented store: no W(F4)-covariant rule makes a pair from the symmetric vacuum with any store W(F4) fixes (1 orbit on slots and on lines, so the calm dock is a fixed point); with one trit per line read in the line's orientation, the pair move (love on side sigma and fear opposite with store 0, against a calm line with store sigma) around the isometric coin map, P K P, is an exact involution keeping charge, momentum and E = count + 2 sum |tau| (0 failures on 22,304 docks, count changed on 5,578), commutes with all 1,152 coin maps and charge conjugation, and on the side-3 box reverses exactly with motion reversal and CPT (0 failures); the cold vacuum is still and a lone vibe stays bare, the hot vacuum (store +1 everywhere) clocks with period 2 in its store with its pairs inside the collision, a lone love on it carries a bounded dressing (largest 82 trits per 24 beats, 55 at rest, no avalanche), and a dense gas makes 7,034 and unmakes 7,041 pairs in 48 beats; extra reading: the isometric and pair-making knits keep all 48 fixed-point-free order-3 elements of W(F4), the binary-tetrahedral knit keeps the 8 left cube roots $L_u$ and no color triality, and an $L_u$-invariant start stays invariant with the charge lock on every beat.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L2 (L2: known physics reproduced on a stated model).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/relativity/covariant-pair-making.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-RLT-0064",
+        "quote": null
+      }
+    ]
+  }
+}

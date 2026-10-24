@@ -1,0 +1,45 @@
+{
+  "record": "proposition",
+  "id": "354ce4c7-87f2-4596-8d5d-25a4bc29266e",
+  "kind": "philosophical",
+  "epistemic_status": "inferred",
+  "title": "Critique: the central claims cannot be tested even in principle",
+  "statements": [
+    {
+      "id": "30bfaefd-7581-4e73-a0c4-e23c973df38a",
+      "text": "A 2025 comment argued that IIT is unscientific because its central claims cannot be tested, even in principle.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-23"
+    }
+  ],
+  "current_statement": "30bfaefd-7581-4e73-a0c4-e23c973df38a",
+  "status": "active",
+  "voice": "critique",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "f30abce3-76f8-4cb1-9556-957567196fe0",
+        "locator": "abstract (research portal record), paraphrased",
+        "quote": null
+      }
+    ]
+  }
+}

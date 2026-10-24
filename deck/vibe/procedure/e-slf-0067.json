@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "bcdee40a-540e-4fde-a795-ce179597c3e4",
+  "title": "E-SLF-0067: the pure reversible base rule confines a packet into a persistent bounded structure, streaming alone...",
+  "purpose": "Experiment E-SLF-0067 in the selves arena: the pure reversible base rule confines a packet into a persistent bounded structure, streaming alone spreads it.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L2 (L2: known physics reproduced on a stated model).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/selves/l3-self-from-base-rule.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-SLF-0067",
+        "quote": null
+      }
+    ]
+  }
+}

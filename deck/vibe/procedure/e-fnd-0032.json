@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "a017631c-0d8a-464d-9b4d-e65d50b20596",
+  "title": "E-FND-0032: the Pauli locality profile of a reversible Hamiltonian, validated by a provable control",
+  "purpose": "Experiment E-FND-0032 in the foundations arena: the Pauli locality profile of a reversible Hamiltonian, validated by a provable control.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L2 (L2: known physics reproduced on a stated model).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/foundations/locality.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-FND-0032",
+        "quote": null
+      }
+    ]
+  }
+}

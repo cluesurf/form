@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "9b7b7207-12f5-4f25-9af5-0841d94502da",
+  "title": "E-GRV-0062: a neutral lump in the depth of the bulk does not delay the husk light's front, fail on D2: on the trit...",
+  "purpose": "Experiment E-GRV-0062 in the gravity arena: a neutral lump in the depth of the bulk does not delay the husk light's front, fail on D2: on the trit light (side 16, D 4, 36 beats) a front kicked at (-3, 0, 0) crosses neutral lumps of 2, 4 and 12 vibes (every column sum zero, kept in place by the rule with no stand-in) and reaches (3, 0, 0) at beat 24 exactly as with no lump, with 0 husk entries differing on any beat, the lump flipped the same, because the husk integer rule is closed on column sums (checked every beat on 13 of 13 configurations); the same vibes placed with nonzero column sums are seen from beat 2 or 3 and make the front arrive EARLIER, at 22, 19, 16 (flipped 21, 21, 14), a charge effect that depends on the sign and speeds the front rather than delaying it; on the adopted knit no lump can stay in a column one beat, since 0 of the 24 roots has a zero husk step.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L1 (L1: known mathematics, correctly confirmed).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/gravity/depth-lump-front.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-GRV-0062",
+        "quote": null
+      }
+    ]
+  }
+}

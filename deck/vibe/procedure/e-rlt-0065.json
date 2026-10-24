@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "0ff976fc-be07-4d32-a5a0-a9ffe878ad77",
+  "title": "E-RLT-0065: pair creation keeps the isotropic husk law: the exact 72-index linearization of the pair-making...",
+  "purpose": "Experiment E-RLT-0065 in the relativity arena: pair creation keeps the isotropic husk law: the exact 72-index linearization of the pair-making isometric knit commutes with all 1,152 coin maps (defect 2e-13, the sampled check 0.008), keeps exactly 6 invariants (charge, energy E = count + 2 sum |tau|, momentum; the count is not one), and gives husk exponents 3.84 (charge diffusion), 4.05 (trace), 4.08 (sound) and 1.99 (shear), against 3.99, 3.98, 3.96, 2.01 without the move, while the same move on the first-mirror knit stays anisotropic at leading order (charge 0.01); the stored pairs slow the sound from 0.72 to 0.41 per beat, raise the charge diffusion from 0.45 to 0.60 and the shear rate from 0.63 to 1.25.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L2 (L2: known physics reproduced on a stated model).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/relativity/pair-making-transport.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-RLT-0065",
+        "quote": null
+      }
+    ]
+  }
+}

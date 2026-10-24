@@ -1,0 +1,45 @@
+{
+  "record": "proposition",
+  "id": "90bbb196-a797-4de4-8b02-be1806f63aac",
+  "kind": "empirical",
+  "epistemic_status": "hypothesized",
+  "title": "Neuronal responses are a gradient descent on free energy",
+  "statements": [
+    {
+      "id": "9a85ff86-eea1-4d89-861c-ac5382d5df54",
+      "text": "Neuronal responses can be described as a gradient descent on variational free energy under a Markov decision process model. Derived this way, the dynamics reproduce many known neuronal phenomena.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-23"
+    }
+  ],
+  "current_statement": "9a85ff86-eea1-4d89-861c-ac5382d5df54",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "486f9dea-4b8d-4998-8fbb-eea469cbe46b",
+        "locator": "abstract",
+        "quote": "we ask whether neuronal responses can be described as a gradient descent on variational free energy."
+      }
+    ]
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "record": "proposition",
+  "id": "2ec81570-a0cb-4cf7-a304-5212e2d5cef8",
+  "kind": "philosophical",
+  "epistemic_status": "hypothesized",
+  "title": "Answer: observing is an interaction that destroys the particle",
+  "statements": [
+    {
+      "id": "8a6669d1-9983-4b4d-a5b0-1194567de2fd",
+      "text": "Observing a particle is interacting with it, which destroys the original particle by taking or passing states that cannot be fully controlled, so some of its properties cannot be known afterward.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "8a6669d1-9983-4b4d-a5b0-1194567de2fd",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "f1f9bdb8-14c9-4c62-9e48-01ecc2870699",
+        "locator": "Uncertainty and observer effect",
+        "quote": "Interaction destroys the original particle, so you cannot know some properties of the particle after interaction."
+      }
+    ]
+  }
+}

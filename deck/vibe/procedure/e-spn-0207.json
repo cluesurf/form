@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "414bbecb-bab4-43e0-8c79-05a41b64457e",
+  "title": "E-SPN-0207: the bound clock ticks faster when it moves because its lower level is a contact knot: three locked loves...",
+  "purpose": "Experiment E-SPN-0207 in the spin arena: the bound clock ticks faster when it moves because its lower level is a contact knot: three locked loves (a STAND-IN) held mostly on one dock by the meeting move about three times more heavily per unit energy than the string-held level above, and with the meeting off the knot and the wrong sign both go.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L2 (L2: known physics reproduced on a stated model).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/spin/clock-contact-knot.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-SPN-0207",
+        "quote": null
+      }
+    ]
+  }
+}

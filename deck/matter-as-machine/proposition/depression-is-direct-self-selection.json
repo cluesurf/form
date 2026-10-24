@@ -1,0 +1,50 @@
+{
+  "record": "proposition",
+  "id": "664a1500-a24a-4133-9731-f8354668b210",
+  "kind": "empirical",
+  "epistemic_status": "hypothesized",
+  "title": "Direct self-selection: depression suppresses the drive to act",
+  "statements": [
+    {
+      "id": "5dd7a08d-3092-40bf-80cf-f65d867bb924",
+      "text": "When an animal cannot meet an important instinctive need, its drive to act may be suppressed, so that it stops doing what it needs to survive and reproduce. If that affects which traits are passed on, it is a form of self-selection, and depression may be this mechanism.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "5dd7a08d-3092-40bf-80cf-f65d867bb924",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "c01a576c-01a5-46ae-8a4e-5fed54687b5c",
+        "locator": "Direct: Depression",
+        "quote": "Imagine that when an animal cannot fulfill an important instinctive need, its drive to act is suppressed."
+      },
+      {
+        "source": "c01a576c-01a5-46ae-8a4e-5fed54687b5c",
+        "locator": "Direct: Depression",
+        "quote": "If this response affects which traits are passed on, it could act as a form of self-selection."
+      }
+    ]
+  }
+}

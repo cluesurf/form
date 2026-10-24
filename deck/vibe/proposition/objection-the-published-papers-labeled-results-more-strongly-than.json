@@ -1,0 +1,50 @@
+{
+  "record": "proposition",
+  "id": "88554156-36af-40f5-af94-bdfcf8063c74",
+  "kind": "empirical",
+  "epistemic_status": "inferred",
+  "title": "the published papers labeled results more strongly than the code supports",
+  "statements": [
+    {
+      "id": "1d6edc3d-d56e-4fda-9f0c-4063d5e4f2d1",
+      "text": "The published papers labeled results more strongly than the code supports.",
+      "language": "en",
+      "scope": "verdict stands: the objection is correct about the program today",
+      "conditions": "Measured: 9 passages, listed as errata with what each cited experiment does. Evidence named: the 2026-08-31 audit, the papers page.",
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-22"
+    }
+  ],
+  "current_statement": "1d6edc3d-d56e-4fda-9f0c-4063d5e4f2d1",
+  "status": "active",
+  "voice": "critique",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": {
+    "value": "open",
+    "reason": "verdict stands",
+    "basis": [],
+    "proposal": null
+  },
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "research/objection.ts",
+        "quote": null
+      }
+    ]
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "95006261-804d-4aa8-8621-f7cd62d9644b",
+  "title": "E-QTM-0163: the kept branch of a like meeting interferes in the working vacuum, and only Tsirelson's reached bound...",
+  "purpose": "Experiment E-QTM-0163 in the quantum arena: the kept branch of a like meeting interferes in the working vacuum, and only Tsirelson's reached bound needs it, pass: E-RLT-0105's like pair meets again every 3 beats on side 4 and every 6 on side 8 (the line's wrap), on 17 of 17 starts, and the rule adds terms whose meeting outcomes differ (42 to 140 merges by beat 47); its knot passes the one-meeting ceiling sqrt 7 on 17 and 16 of 17 (up to 2.8284, Schmidt 0.503, 0.497), where with every meeting but the last dephased no member exceeds sqrt 7; of the 13 held rows only Tsirelson's 'reached' needs the interference (E-QTM-0133's 18 words at (1/2, 1/2, 0) on, 0 off), and E-QTM-0100's clause (1/4, 3/4, 1 on, 1/4, 3/8, 7/16 off).",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L2 (L2: known physics reproduced on a stated model).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/quantum/kept-branch.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-QTM-0163",
+        "quote": null
+      }
+    ]
+  }
+}

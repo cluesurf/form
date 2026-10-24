@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "e80e08c1-ff8c-420b-80d6-d0b99d80115b",
+  "title": "E-GRV-0045: the gravitational-wave quadrupole prefactor 2 factorises as (16 pi)(1/4 pi)(1/2), with the 16 pi written...",
+  "purpose": "Experiment E-GRV-0045 in the gravity arena: the gravitational-wave quadrupole prefactor 2 factorises as (16 pi)(1/4 pi)(1/2), with the 16 pi written as algebra from the linearised Einstein coupling, the Green-function coefficient 1/(4 pi) measured in-file on the lattice in k-space, and the tensor virial 1/2 computed in-file from conservation, so the assembled product matches 2 within the measurement tolerance and omitting the virial factor gives 4 (the control).",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L2 (L2: known physics reproduced on a stated model).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/gravity/quadrupole-coefficient-closure.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-GRV-0045",
+        "quote": null
+      }
+    ]
+  }
+}

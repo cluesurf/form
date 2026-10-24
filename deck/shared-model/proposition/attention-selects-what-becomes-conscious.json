@@ -1,0 +1,72 @@
+{
+  "record": "proposition",
+  "id": "5a81aaf0-58df-4a67-bb9c-2c6ecb1b0011",
+  "kind": "empirical",
+  "epistemic_status": "hypothesized",
+  "title": "Attention selects what becomes conscious",
+  "statements": [
+    {
+      "id": "60294cc6-ee98-49af-8476-7e19aeebeed9",
+      "text": "Attention selects which contents become conscious, by amplifying or weighting some signals over others.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-23"
+    }
+  ],
+  "current_statement": "60294cc6-ee98-49af-8476-7e19aeebeed9",
+  "status": "active",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": {
+    "value": "open",
+    "reason": null,
+    "basis": [],
+    "proposal": null
+  },
+  "origin": [
+    {
+      "repository": "global-workspace",
+      "id": "c9dde85b-c378-4106-97e2-729ac044e37d"
+    },
+    {
+      "repository": "global-workspace",
+      "id": "fe385ecd-8cae-433e-8444-db4840e2afe5"
+    },
+    {
+      "repository": "predictive-processing",
+      "id": "88b041e8-3a15-4ee0-a920-06ec490e3b25"
+    }
+  ],
+  "provenance": {
+    "written_by": "github:lancejpollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "a64c1304-2445-461a-91e4-b4b3d00821dc",
+        "locator": "abstract",
+        "quote": "An information becomes conscious, however, if the neural population that represents it is mobilized by top-down attentional amplification into a brain-scale state of coherent activity"
+      },
+      {
+        "source": "427ab436-e19c-4d65-8751-38211ed05943",
+        "locator": "prediction 6, p. 50",
+        "quote": "selective attention can be defined as selection among potential conscious contents"
+      },
+      {
+        "source": "5d0a1afa-5d45-41de-b70d-b77fab9d96c1",
+        "locator": "p. 567",
+        "quote": "This leads to an interpretation of attention as the optimization of precision weighting, balancing the relative influence of prediction errors and prior expectations on perceptual inference"
+      }
+    ]
+  }
+}

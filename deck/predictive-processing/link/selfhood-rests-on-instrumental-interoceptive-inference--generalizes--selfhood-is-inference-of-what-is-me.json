@@ -1,0 +1,28 @@
+{
+  "record": "link",
+  "id": "e768b803-8cca-45a2-b5d7-7a5a2ad9a742",
+  "from": "aa3d8ebd-d187-4b05-b746-0be0f45ab97c",
+  "to": "bb50899b-e9fd-4cfb-9562-8d2f8631155f",
+  "relation": "generalizes",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "bfa85443-4b77-43f1-b5f2-ec1850a4bc3c",
+        "locator": "accepted manuscript p. 2, abstract",
+        "quote": "we describe embodied selfhood in terms of 'instrumental interoceptive inference', which emphasises allostatic regulation and physiological integrity"
+      }
+    ]
+  }
+}

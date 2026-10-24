@@ -1,0 +1,28 @@
+{
+  "record": "link",
+  "id": "cc8414cc-26f2-4a45-9fc8-29747fd526cb",
+  "from": "4178c689-bab8-4711-a7fe-3286c7479ead",
+  "to": "1af7db15-7962-48b6-ad5e-436609832bb4",
+  "relation": "weakens",
+  "strength": null,
+  "rationale": "If the conditions hold only in a narrow parameter range, the principle does not apply to every thing.",
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "3871b0fc-d743-488a-8d26-6f123424ab40",
+        "locator": "abstract (arXiv record)",
+        "quote": "a mathematically central step in the argument, connecting the behaviour of a system to variational inference, relies on an implicit equivalence between the dynamics of the average states of a system with the average of the dynamics of those states."
+      }
+    ]
+  }
+}

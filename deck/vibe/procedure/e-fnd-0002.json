@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "2dfce78c-f6d6-4811-b7d2-643e15130bff",
+  "title": "E-FND-0002: the arrow is the order of the INTEGERS (the discrete beat-count), the unique ordered discrete normed...",
+  "purpose": "Experiment E-FND-0002 in the foundations arena: the arrow is the order of the INTEGERS (the discrete beat-count), the unique ordered discrete normed ring, the discrete geometry rings $(i^2=-1)$ unordered.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L2 (L2: known physics reproduced on a stated model).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/foundations/arrow-from-integer-order.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-FND-0002",
+        "quote": null
+      }
+    ]
+  }
+}

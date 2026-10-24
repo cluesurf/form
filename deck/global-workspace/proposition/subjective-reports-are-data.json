@@ -1,0 +1,45 @@
+{
+  "record": "proposition",
+  "id": "842b67a5-6955-43cc-ae41-8657a5d9f0b7",
+  "kind": "normative",
+  "epistemic_status": "normative",
+  "title": "Subjective reports are the primary data",
+  "statements": [
+    {
+      "id": "c7bda767-e53d-4bb8-9944-41c840011a78",
+      "text": "Subjective reports are the key phenomena a science of consciousness studies and must be recorded as primary data, though not assumed to be accurate descriptions of reality.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-23"
+    }
+  ],
+  "current_statement": "c7bda767-e53d-4bb8-9944-41c840011a78",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "9b21a09b-835f-4256-afbf-19425df2597e",
+        "locator": "section 2, p. 3",
+        "quote": "Subjective reports are the key phenomena that a cognitive neuroscience of consciousness purport to study. As such, they constitute primary data"
+      }
+    ]
+  }
+}

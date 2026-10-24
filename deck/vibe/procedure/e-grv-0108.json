@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "bcde0b45-7dd4-4dd2-8c75-add171342b50",
+  "title": "E-GRV-0108: tearing the husk where its lines are full, so a dense lump's flux leaves down into the shrinking bulk...",
+  "purpose": "Experiment E-GRV-0108 in the gravity arena: tearing the husk where its lines are full, so a dense lump's flux leaves down into the shrinking bulk, gives a horizon with no wrap, pass on its gates: E-GRV-0090's lumps of 400 and 1600 units (which wrap 23,487 and 117,315 times untorn) run with 0 wraps, curl 0 through the vertical links, energy kept to 4e-8 and exact reversal, the husk's step at most 1.34 and the vertical's 30.2 under the derived 36; the horizon's radius 1.00, 1.73, 2.24, 3.32, 4.69 for M = 100 .. 1600 sits within 0.28 dock of where the free field's step reaches the window and grows as $M^{0.54}$ (predicted 0.45), the sqrt(M) of a bound on the field and not a Schwarzschild M; the far pull is the untorn lump's to 0.7 percent at r = 24 .. 40 on a side-96 stack, but only 0.29 .. 0.93 of it at r = 5 .. 11, and the M = 100 lump still wraps 1,126 times because a 10-unit dock left beside the tear swings past the trit from rest.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L2 (L2: known physics reproduced on a stated model).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/gravity/torn-husk-static.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-GRV-0108",
+        "quote": null
+      }
+    ]
+  }
+}

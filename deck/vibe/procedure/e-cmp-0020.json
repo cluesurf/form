@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "6f9c18d6-065a-44c7-a329-8a4afca56383",
+  "title": "E-CMP-0020: one link and the fear beat on two roles make a word of infinite order, exactly: (X x 1) U has an...",
+  "purpose": "Experiment E-CMP-0020 in the computation arena: one link and the fear beat on two roles make a word of infinite order, exactly: (X x 1) U has an eigenvalue that is not a root of unity (its norm polynomial keeps the factor $x^{12}$ + 11/4 $x^9$ + 249/64 $x^6$ + 11/4 $x^3 + 1$, not integral), as do 16 of the 17 words of length 2 and 2,522 of the 2,700 fear-beat words to length 4, where 0 of 4,680 link-only words and 0 of 7,380 words with SWAP in place of the fear beat are.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L1 (L1: known mathematics, correctly confirmed).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/computation/fear-beat-infinite-order.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-CMP-0020",
+        "quote": null
+      }
+    ]
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "record": "proposition",
+  "id": "3e03ab01-a50f-49f3-aebb-2f133322a9f4",
+  "kind": "empirical",
+  "epistemic_status": "simulated",
+  "title": "E-HLG-0033: a far cusp signal arrives through the bulk in logarithmic time (break-even separation six, speedup...",
+  "statements": [
+    {
+      "id": "68b181ea-bf61-4bcc-a4d5-6334667b7e1b",
+      "text": "A far cusp signal arrives through the bulk in logarithmic time (break-even separation six, speedup unbounded to sixty-eight-fold at separation 1024) with the bulk route the graph geodesic (no light-cone violation), while the along-cusp route is linear.",
+      "language": "en",
+      "scope": "experiment E-HLG-0033, arena holography, depth L2 (L2: known physics reproduced on a stated model)",
+      "conditions": "substrates: any. In a paper: false",
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-22"
+    }
+  ],
+  "current_statement": "68b181ea-bf61-4bcc-a4d5-6334667b7e1b",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": {
+    "value": "open",
+    "reason": "holds in the vibe claim graph",
+    "basis": [],
+    "proposal": null
+  },
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "research/result.ts R-HLG-0002",
+        "quote": null
+      }
+    ]
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "2505aff6-e9d6-40b9-86ff-353ba70b8baf",
+  "title": "E-QTM-0107: the walk weight is vibes counted by role phase: every Eisenstein weight is one knot-free count of vibes...",
+  "purpose": "Experiment E-QTM-0107 in the quantum arena: the walk weight is vibes counted by role phase: every Eisenstein weight is one knot-free count of vibes in take, hold and free, unique up to knots, and the walk becomes a rule of additions and knot removal that equals the Eisenstein walk at every slot, drops knots only where the swap phase turns roles, reverses exactly and keeps $2^t$ loves in take as its charge.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L1 (L1: known mathematics, correctly confirmed).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/quantum/role-phased-counts.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-QTM-0107",
+        "quote": null
+      }
+    ]
+  }
+}

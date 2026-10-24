@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "f138f7c4-6fd4-4af2-87f5-594812de3921",
+  "title": "E-FND-0139: the frozen-gradient localization law: the at-rest species settles at exactly zero displacement with a...",
+  "purpose": "Experiment E-FND-0139 in the foundations arena: the frozen-gradient localization law: the at-rest species settles at exactly zero displacement with a locked reading at every one of seventeen seed positions (a position-independent exact pin), the previously deep-sinking species shows only shallow drift bounded within two cells everywhere (the deep dive was a configuration transient, caught by the sweep), the massless control never localizes, and with no deep ladder anywhere the last measured candidate for a dynamical mass-hierarchy origin closes, leaving the hierarchy magnitude a free input exactly as the Standard Model holds it, reached by measurement.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L2 (L2: known physics reproduced on a stated model).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/foundations/frozen-gradient-localization.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-FND-0139",
+        "quote": null
+      }
+    ]
+  }
+}

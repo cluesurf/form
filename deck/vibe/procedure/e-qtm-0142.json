@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "16f3d712-6b81-4597-81be-cef31eb7a8d3",
+  "title": "E-QTM-0142: net records on lines: with the model's own covariant record and in-model settings, the net count of each...",
+  "purpose": "Experiment E-QTM-0142 in the quantum arena: net records on lines: with the model's own covariant record and in-model settings, the net count of each outcome line is a non-negative count equal to the Born rule on every state, but the record is a permutation of joint points, so every fear survives it intact in some outcome cell: the cancellation that makes the count non-negative happens in the sum over the cell, not in the dynamics.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L2 (L2: known physics reproduced on a stated model).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/quantum/net-records-on-lines.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-QTM-0142",
+        "quote": null
+      }
+    ]
+  }
+}

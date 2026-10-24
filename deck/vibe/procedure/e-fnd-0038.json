@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "3700a78b-cbea-425d-ae95-8176034b7595",
+  "title": "E-FND-0038: the ternary tone (minimal with a vacuum and charge conjugation) and the four dimensions (the unique...",
+  "purpose": "Experiment E-FND-0038 in the foundations arena: the ternary tone (minimal with a vacuum and charge conjugation) and the four dimensions (the unique triality D4) are forced.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L2 (L2: known physics reproduced on a stated model).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/foundations/ternary-and-4d-forced.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-FND-0038",
+        "quote": null
+      }
+    ]
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "record": "question",
+  "id": "bcaa5ce0-8497-40a6-ba79-cdd82805c07a",
+  "text": "Does the shared-ancestor mechanism imply $C(r) \\sim r^{-\\alpha}$, and what is $\\alpha$ on the committed knit?",
+  "kind": "missing_evidence",
+  "status": "open",
+  "parent": null,
+  "description": "OP-11: measure the correlation exponent.\n\nKnown: interior distance grows like the logarithm of boundary distance (R-HLG-0002).\n\nUnknown: $\\alpha$, and whether any correlation is measured at all.\n\nWhy it matters: turns candidate PC-01 into a quantitative prediction, the first route to a row.\n\nScope: a small computational investigation.\n\nSkills: hyperbolic geometry, statistical mechanics, numerical simulation.\n\nWhere to start: test/experiment/holography/bulk-shortcut-reachability.ts; Swingle 2012, Entanglement renormalization and holography.\n\nThe claims it would move: R-HLG-0002.\n\nEvidence named: E-HLG-0004, E-HLG-0033.",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "research/problem.ts OP-11",
+        "quote": null
+      }
+    ]
+  }
+}

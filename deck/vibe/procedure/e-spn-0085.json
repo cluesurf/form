@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "68b2ffea-8843-4e5d-8a93-c470bd319732",
+  "title": "E-SPN-0085: the string's count carried by the light's copy on a husk line (the recorded hop at the string's two end...",
+  "purpose": "Experiment E-SPN-0085 in the spin arena: the string's count carried by the light's copy on a husk line (the recorded hop at the string's two end ports), a STAND-IN on locked tokens on a husk line, fail on E7 and E8: the rule is husk-local, reversible, integer, Gauss exact, reaches exactly 2D and keeps Pauli's lock with no flavor, but its two end invariants pin three loves exactly (every band flat to 1e-15, the cluster cannot travel) and the lightest level is not the natural spin one half (0.57 to 0.76).",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L2 (L2: known physics reproduced on a stated model).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/spin/string-count-on-the-hop.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-SPN-0085",
+        "quote": null
+      }
+    ]
+  }
+}

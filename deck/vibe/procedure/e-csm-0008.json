@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "657920ca-a513-467d-835f-c975d17bbf30",
+  "title": "E-CSM-0008: only negative curvature sustains the arrow, a spherical orbit closes and dies, a hyperbolic orbit grows...",
+  "purpose": "Experiment E-CSM-0008 in the cosmology arena: only negative curvature sustains the arrow, a spherical orbit closes and dies, a hyperbolic orbit grows and lives.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L3 (L3: one base rule produced the result as a measured consequence, with a computed control that could have failed).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/cosmology/curvature-arrow.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-CSM-0008",
+        "quote": null
+      }
+    ]
+  }
+}

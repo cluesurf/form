@@ -1,0 +1,28 @@
+{
+  "record": "link",
+  "id": "b0c2a9e2-9130-457c-a19e-b61e198e4204",
+  "from": "bdf50a27-f31a-4130-b216-40a0143c2a13",
+  "to": "c82c7c92-5d96-4c1d-96a1-9d1c73416e52",
+  "relation": "supports",
+  "strength": 0.1,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "18748a2a-239c-4c8a-84be-d6db8f91e70d",
+        "locator": "section IX, p. 35",
+        "quote": "Cognitive dissonance and confusion are surprisingly unpleasant."
+      }
+    ]
+  }
+}

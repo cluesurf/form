@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "7ad889af-4017-479a-a3b0-152509841555",
+  "title": "E-SPN-0089: g on the knit's own lightest charge-one cluster (three loves in one husk column): its Landau levels in a...",
+  "purpose": "Experiment E-SPN-0089 in the spin arena: g on the knit's own lightest charge-one cluster (three loves in one husk column): its Landau levels in a uniform field read from the light's columns, and the g they imply, against the slot-steered lock's g_spin = 0.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L2 (L2: known physics reproduced on a stated model).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/spin/knit-cluster-landau.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-SPN-0089",
+        "quote": null
+      }
+    ]
+  }
+}

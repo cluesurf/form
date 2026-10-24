@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "43f0ee06-2793-4b15-bc4a-8aa752ae6e98",
+  "title": "E-MTR-0007: the covalent bond with stand-ins: one stand-in electron (the charged fear walk) shared by two fixed...",
+  "purpose": "Experiment E-MTR-0007 in the quantum arena: the covalent bond with stand-ins: one stand-in electron (the charged fear walk) shared by two fixed stand-in nuclei in the husk lattice Coulomb potential binds and its antibonding state does not, but at a0 = 4 husk spacings the bond is 21 percent short and 26 percent deep of the continuum H2+ values 1.997 a0 and 0.2053 Ry from the husk lattice core, while a reported follow-up at a0 = 8 reads 1.972 a0 and 0.2027 Ry, within 1.2 percent.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L2 (L2: known physics reproduced on a stated model).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/quantum/standin-h2-plus.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-MTR-0007",
+        "quote": null
+      }
+    ]
+  }
+}

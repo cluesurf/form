@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "42e2ac61-78ea-42de-82bd-7c035d373370",
+  "title": "E-FRC-0248: the doublet-locked knit is not chiral, pass: it keeps P under all 48 husk parities (24 bulk reflections...",
+  "purpose": "Experiment E-FRC-0248 in the gauge arena: the doublet-locked knit is not chiral, pass: it keeps P under all 48 husk parities (24 bulk reflections and 24 bulk rotations, the two lifts the husk cannot tell apart) with any role-point lift, and C, T, CP and CPT, every branch and amplitude exact over 48 beats on 17 of 17 starts; the lock's label along the motion is +1 on every slot for a love and a fear (a polar label), and read as an axial spin it has the V-A shape (love +1, fear -1 under C, +1 under C'), but the knit holds no spin apart from its slot, so that reading is a relabeling: the only P that fails is the antilinear one (47 of 48 beats off), which differs from the kept P by the conjugation T already carries; the linear T fails (46 of 48), a planted chiral twist fails P on 48 of 48 beats with its mirror exactly the left twist, and a fixed quarter turn keeps both inversions and fails the x1 mirror.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L1 (L1: known mathematics, correctly confirmed).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/gauge/locked-parity-ledger.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-FRC-0248",
+        "quote": null
+      }
+    ]
+  }
+}

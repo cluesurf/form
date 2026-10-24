@@ -1,0 +1,86 @@
+{
+  "record": "proposition",
+  "id": "38b0f09f-7f7d-4df6-a799-636d78b83f66",
+  "kind": "philosophical",
+  "epistemic_status": "hypothesized",
+  "title": "Spacetime is not fundamental",
+  "statements": [
+    {
+      "id": "d232a70f-e233-4caa-ad86-a567ef1d7092",
+      "text": "Spacetime is not fundamental: it is derived from something more basic, or is how something more basic appears.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-23"
+    }
+  ],
+  "current_statement": "d232a70f-e233-4caa-ad86-a567ef1d7092",
+  "status": "active",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": {
+    "value": "open",
+    "reason": null,
+    "basis": [],
+    "proposal": null
+  },
+  "origin": [
+    {
+      "repository": "conscious-agents",
+      "id": "c868f77e-6dc9-45c4-9137-e79963d8977a"
+    },
+    {
+      "repository": "conscious-agents",
+      "id": "32cdef33-c3ab-44ac-b3f5-e633b389913f"
+    },
+    {
+      "repository": "quantum-observers",
+      "id": "b6f7752f-03b0-4521-9b4e-ab82da2f7ce6"
+    },
+    {
+      "repository": "analytic-idealism",
+      "id": "e1cbb8c7-7f5b-4aae-8757-8aa935b8234b"
+    }
+  ],
+  "provenance": {
+    "written_by": "github:lancejpollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "19e8411a-507c-4ca0-8040-078f5faca0c7",
+        "locator": "Conclusion",
+        "quote": "objects and space-time are simply species-specific perceptual adaptions"
+      },
+      {
+        "source": "94178bd7-856e-4208-9df3-f0762b6846b5",
+        "locator": "abstract",
+        "quote": "Spacetime, they say, is doomed."
+      },
+      {
+        "source": "d767e11f-e7aa-44bc-ab2c-3056cdbd1df3",
+        "locator": "section 1",
+        "quote": "This GHP is a fully quantum information-theoretic principle that is entirely independent of geometric considerations."
+      },
+      {
+        "source": "17b726b7-5f48-42aa-bc42-75402d0a15d6",
+        "locator": "abstract",
+        "quote": null
+      },
+      {
+        "source": "3bc286f8-93ac-4890-9c13-885969d103e6",
+        "locator": "section 7, p. 22",
+        "quote": "Under idealism, such irreducible causal patterns are posited to be somehow built into universal consciousness itself, instead of an objective fabric of space-time."
+      }
+    ]
+  }
+}

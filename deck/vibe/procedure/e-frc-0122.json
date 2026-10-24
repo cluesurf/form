@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "38ae3d76-f09c-43fe-b8ff-f057d0f70057",
+  "title": "E-FRC-0122: carrying quantum steps with whole loves and fears costs grain, not fear: over rounds of the cube-root...",
+  "purpose": "Experiment E-FRC-0122 in the gauge arena: carrying quantum steps with whole loves and fears costs grain, not fear: over rounds of the cube-root swap phase and classical moves every state is written exactly by whole loves and fears, the units grow each round while the negativity stays under its bound, so a finite number of vibes gives quantum steps at a finite resolution.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L1 (L1: known mathematics, correctly confirmed).",
+  "status": "completed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/gauge/fear-resolution.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "research/result.ts R-FRC-0005",
+        "quote": null
+      }
+    ]
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "record": "proposition",
+  "id": "276a61a6-6c2c-4874-bc8f-b51dbd6174f1",
+  "kind": "empirical",
+  "epistemic_status": "inferred",
+  "title": "the lattice QCD reproductions say nothing about the program",
+  "statements": [
+    {
+      "id": "818f53b2-fab0-449d-b2e8-56e1b209dde0",
+      "text": "The lattice QCD reproductions say nothing about the program.",
+      "language": "en",
+      "scope": "verdict stands: the objection is correct about the program today",
+      "conditions": "Measured: they rest on the Wilson action and a seeded sampler, and on none of the five assumptions. Evidence named: R-FRC-0001, the claim graph.",
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-22"
+    }
+  ],
+  "current_statement": "818f53b2-fab0-449d-b2e8-56e1b209dde0",
+  "status": "active",
+  "voice": "critique",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": {
+    "value": "open",
+    "reason": "verdict stands",
+    "basis": [],
+    "proposal": null
+  },
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "research/objection.ts",
+        "quote": null
+      }
+    ]
+  }
+}

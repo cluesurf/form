@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "c971a285-5e9b-497c-8f5f-dd5ea58c3e3a",
+  "title": "E-SPN-0182: no mode of the register rule stays on the true screen, partial on the instrument: below a cusp of...",
+  "purpose": "Experiment E-SPN-0182 in the spin arena: no mode of the register rule stays on the true screen, partial on the instrument: below a cusp of {3,4,3,4} the husk translations twist the labels (each unit step acts as minus a reflection, the label-trivial kernel is 2 $Z^3$), and by the band law the modes there are the spectrum of H(k) = C^dag C; each depth-1 dock has one layer parent, so the layer couples down with exactly 1/32 at every k (to 6.9e-18), as much as the whole along hop, into shells whose band reaches past 0.106; the most screen-bound band falls from 0.70 to 0.55 to 0.41 of its weight on the layer at depth cuts 1, 2, 3 (0.62 to 0.29 and 0.48 to 0.23 at other momenta), below 1/2 everywhere and faster than its deepest shell allows, and moves at most 0.025 docks a beat against the flat quotient's sqrt(2)/4 (controls: the flat quotient reproduces sqrt(2)/4 and diracSpeed, and the closed screen carries a band at 0.046); the cut 3 Krylov reading left Ritz residuals of 5.5e-5 against 1e-10, so the cut 3 shares are read, not certified.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L2 (L2: known physics reproduced on a stated model).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/spin/screen-modes.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-SPN-0182",
+        "quote": null
+      }
+    ]
+  }
+}

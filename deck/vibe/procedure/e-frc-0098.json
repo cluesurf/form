@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "a2882d65-613c-4f46-91b3-50ad83bc680c",
+  "title": "E-FRC-0098: the SU(3) deconfinement temperature in physical units: on $N_t = 4$ the transition sits at the published...",
+  "purpose": "Experiment E-FRC-0098 in the gauge arena: the SU(3) deconfinement temperature in physical units: on $N_t = 4$ the transition sits at the published beta 5.69, and with the Sommer scale $T_c$ r0 comes out at the published 0.75, near 300 MeV.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L2 (L2: known physics reproduced on a stated model).",
+  "status": "completed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/gauge/su3-deconfinement.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "research/result.ts R-FRC-0001",
+        "quote": null
+      }
+    ]
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "record": "proposition",
+  "id": "fe3a1a8b-704f-4329-98cf-d42798353e8c",
+  "kind": "philosophical",
+  "epistemic_status": "inferred",
+  "title": "Critique: cognition requires representations cells lack",
+  "statements": [
+    {
+      "id": "719a8df2-cf41-4b1d-bd27-a6f0904d0645",
+      "text": "If cognition requires mental states with a specific representational format, studying cognition in bacteria and other cells is a category error that harms both cognitive science and biology.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-23"
+    }
+  ],
+  "current_statement": "719a8df2-cf41-4b1d-bd27-a6f0904d0645",
+  "status": "active",
+  "voice": "critique",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "a2a9b88f-95b0-40d1-87f3-456af2e14117",
+        "locator": "section Introduction: two approaches for addressing the scope of cognition, reporting Adams 2018",
+        "quote": "is seen as preposterous and harmful to both cognitive science and biology"
+      }
+    ]
+  }
+}

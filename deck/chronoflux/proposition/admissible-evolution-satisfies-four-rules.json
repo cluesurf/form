@@ -1,0 +1,50 @@
+{
+  "record": "proposition",
+  "id": "ca8cfa15-a4b2-4b4c-9338-f9e4498db38f",
+  "kind": "normative",
+  "epistemic_status": "normative",
+  "title": "Admissible evolution satisfies four rules (Conservatio Continuum)",
+  "statements": [
+    {
+      "id": "94be302e-358d-4f2f-bd3a-42b80b2a3178",
+      "text": "A model of a physical or engineered system is admissible only if its evolution satisfies (1) a continuity relation, (2) closure of its conserved sectors, (3) invariance under the relevant symmetry action, and (4) consistency with a variational or storage principle. Conservation is a gate a model must pass first, not a property recovered after modeling.",
+      "language": "en",
+      "scope": "Dynamic Behaviourism, the methodology within which Chronoflux is one temporal symmetry sector",
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "94be302e-358d-4f2f-bd3a-42b80b2a3178",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "38659bbd-cda2-44e6-9106-3928f8d37934",
+        "locator": "Definition 1, section 2",
+        "quote": "An evolution is said to be admissible in the Conservatio Continuum sense if it satisfies:"
+      },
+      {
+        "source": "38659bbd-cda2-44e6-9106-3928f8d37934",
+        "locator": "Remark 1, section 2.5",
+        "quote": "In this sense, conservation is treated as a methodological constraint rather than a derived afterthought."
+      }
+    ]
+  }
+}

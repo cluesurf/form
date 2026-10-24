@@ -1,0 +1,28 @@
+{
+  "record": "link",
+  "id": "53033872-2151-4502-a799-d7f1c3e284bb",
+  "from": "2acc6ee8-02ba-477f-b594-f6a755ca68c1",
+  "to": "bb080923-9ecc-497f-b9e8-88d5de316867",
+  "relation": "requires",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "8360d34d-30cb-44f8-89c9-41768fb53f0d",
+        "locator": "introduction",
+        "quote": "EI is maximal for systems that are deterministic and not degenerate, and decreases with noise (causal divergence) and/or degeneracy (causal convergence)."
+      }
+    ]
+  }
+}

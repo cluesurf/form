@@ -1,0 +1,28 @@
+{
+  "record": "link",
+  "id": "f172d375-a7fa-427b-95c2-9ebccc31e900",
+  "from": "fe2651f1-29ba-476f-8f8d-6b31a4154e9c",
+  "to": "95e97bba-1335-4081-9257-691eab1f7748",
+  "relation": "supports",
+  "strength": 0.4,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "dbe9b66c-4ffb-4615-9fd2-aa5c75424db8",
+        "locator": "Results, decoding of conscious content",
+        "quote": "adding prefrontal ROIs did not improve—and in some cases reduced—category and orientation decoding"
+      }
+    ]
+  }
+}

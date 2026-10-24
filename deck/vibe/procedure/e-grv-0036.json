@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "32f46eb2-853e-40b8-98e8-1f95bc76e139",
+  "title": "E-GRV-0036: the gravity field as a stack of tones, three balanced-ternary trits bind, a single trit is too coarse",
+  "purpose": "Experiment E-GRV-0036 in the gravity arena: the gravity field as a stack of tones, three balanced-ternary trits bind, a single trit is too coarse.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L2 (L2: known physics reproduced on a stated model).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/gravity/ternary-field.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-GRV-0036",
+        "quote": null
+      }
+    ]
+  }
+}

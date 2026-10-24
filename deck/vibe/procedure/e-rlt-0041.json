@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "3e8e28a6-c843-4b92-9266-9d5c455935be",
+  "title": "E-RLT-0041: the lattice Lorentz violation is irrelevant with a measured exponent near four on the coin, so exact...",
+  "purpose": "Experiment E-RLT-0041 in the relativity arena: the lattice Lorentz violation is irrelevant with a measured exponent near four on the coin, so exact Lorentz is the infrared fixed point.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L2 (L2: known physics reproduced on a stated model).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/relativity/lorentz-irrelevance-exponent.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-RLT-0041",
+        "quote": null
+      }
+    ]
+  }
+}

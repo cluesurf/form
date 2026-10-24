@@ -1,0 +1,45 @@
+{
+  "record": "proposition",
+  "id": "14227052-a013-4d2a-993f-2e4705aa009a",
+  "kind": "definitional",
+  "epistemic_status": "designed",
+  "title": "Interoceptive inference",
+  "statements": [
+    {
+      "id": "d0787b92-a749-452b-94ba-773a7da7c1dd",
+      "text": "Interoceptive inference is predictive inference applied to signals from inside the body: the brain infers the causes of interoceptive signals with generative models and acts on them.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-23"
+    }
+  ],
+  "current_statement": "d0787b92-a749-452b-94ba-773a7da7c1dd",
+  "status": "active",
+  "voice": "framework",
+  "defines": "interoceptive inference",
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "8ed62dfe-4468-4f53-9b70-f009ba2dbe4f",
+        "locator": "p. 565, abstract",
+        "quote": "'interoceptive inference' conceives of subjective feeling states (emotions) as arising from actively-inferred generative (predictive) models of the causes of interoceptive afferents"
+      }
+    ]
+  }
+}

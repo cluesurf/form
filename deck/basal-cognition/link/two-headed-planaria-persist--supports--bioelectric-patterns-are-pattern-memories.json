@@ -1,0 +1,28 @@
+{
+  "record": "link",
+  "id": "fd31c257-f326-4c4a-8ff7-f5126ea8c1cd",
+  "from": "e1ead7a4-e2f6-43cf-b10e-765b0dd5f61e",
+  "to": "35e99e05-7055-48cd-8e06-7c142c911cad",
+  "relation": "supports",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "d9097dc4-d096-4de7-813b-d6c227e00393",
+        "locator": "abstract",
+        "quote": "the altered regenerative bodyplan is stored in seemingly normal planaria via global patterns of cellular resting potential"
+      }
+    ]
+  }
+}

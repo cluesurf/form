@@ -1,0 +1,39 @@
+{
+  "record": "observation",
+  "id": "08cd013c-9b82-4a8f-99e5-0c4fe86a590f",
+  "kind": "experimental_result",
+  "epistemic_status": "observed",
+  "description": "In tadpoles, depolarizing a cell population caused metastatic transformation of normal melanocytes without genetic change, and hyperpolarization prevented human oncogenes from inducing tumors (Levin's summary of Lobikin et al. and Chernet and Levin).",
+  "method": "experiment",
+  "status": "reported",
+  "source": "9d7dc0d8-1f18-43d2-b86a-16d31ae12fd3",
+  "procedure": null,
+  "variable": null,
+  "value": null,
+  "unit": null,
+  "uncertainty": null,
+  "sample_size": null,
+  "replication_count": null,
+  "quality": null,
+  "limitations": "Reported secondhand here, from the author's own lab.",
+  "conflicts_of_interest": null,
+  "observed_at": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "9d7dc0d8-1f18-43d2-b86a-16d31ae12fd3",
+        "locator": "section Multicellularity vs. Cancer: The Shifting Boundary of the Self",
+        "quote": "human oncogenes which normally induce tumors can be prevented from doing so simply by optogenetic or constitutive hyperpolarization"
+      }
+    ]
+  }
+}

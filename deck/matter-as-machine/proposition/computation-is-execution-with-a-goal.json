@@ -1,0 +1,50 @@
+{
+  "record": "proposition",
+  "id": "0e7dbe21-d460-4e72-a8d2-35adfc08af0a",
+  "kind": "definitional",
+  "epistemic_status": "designed",
+  "title": "Computation is execution with a goal",
+  "statements": [
+    {
+      "id": "cc6640a0-6ea1-44e3-a4c7-70f92382a8c6",
+      "text": "In this model, computation is one kind of execution: execution with a goal, where someone defines the input, the output and the purpose. The word is used this way here without a claim to a universal definition.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "cc6640a0-6ea1-44e3-a4c7-70f92382a8c6",
+  "status": "active",
+  "voice": "framework",
+  "defines": "computation",
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "c253c509-45c9-4ee8-abc0-a1d9d93fec10",
+        "locator": "Execution and computation",
+        "quote": "It is only one specific type of execution: execution with a goal."
+      },
+      {
+        "source": "c253c509-45c9-4ee8-abc0-a1d9d93fec10",
+        "locator": "Execution and computation",
+        "quote": "A computer program computes because someone defines input, output, and purpose."
+      }
+    ]
+  }
+}

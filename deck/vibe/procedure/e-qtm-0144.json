@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "731e7df0-415c-4fe0-8aaa-e62f2b2f17ab",
+  "title": "E-QTM-0144: what one history records under net records: with the fear beat on, a classical member of the knot is a...",
+  "purpose": "Experiment E-QTM-0144 in the quantum arena: what one history records under net records: with the fear beat on, a classical member of the knot is a signed spread after its first meeting, and at in-model settings it often records a spread of outcomes or a negative count on its own; every Bell violation needs such members, so net records give definite outcome statistics for the ensemble, not a definite outcome for each history.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L2 (L2: known physics reproduced on a stated model).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/quantum/single-history-records.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-QTM-0144",
+        "quote": null
+      }
+    ]
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "9072fc06-1d97-4af5-bbdb-bcf807332dc1",
+  "title": "E-SPN-0120: a bound two-hub composite does not move as a unit, fail (Q1): the drift cost is a phase diagonal in the...",
+  "purpose": "Experiment E-SPN-0120 in the spin arena: a bound two-hub composite does not move as a unit, fail (Q1): the drift cost is a phase diagonal in the configuration, so it moves no vibe and every term of the rule runs as without it at every tension; a Z3-neutral set (loves on (1,0,1,0) and (1,1,0,0) at X, fears on (1,1,0,0) and (0,1,1,0) at Y = X + (1,1,0,0)) keeps a wake of 50 to 200 readings on its two stars until two hub firings coincide (trigger at beats 20 to 94 on 16 of 16 terms), then the K-cascade fills 4,091 to 4,096 of 4,096 docks by beat 128 (side 12: 20,727 of 20,736), while the string's costly links grow with the wake to 32,552, a fast-winding phase on every runaway term and no confinement on any; the stars of X and Y cross at exactly the 8 derived common neighbors, the unbound control reproduces E-SPN-0119's 39,184 readings, the one-hub trio stays pinned, the vacuum fires K 0 times; Q2 reads true only through the cascade's K centroid, not a drifting particle; whether interference in the superposed rule could favor the runaway-free histories (always and never exchange never trigger) is not computed, since the working vacuum holds 7,680 unequal-point like meetings a beat.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L1 (L1: known mathematics, correctly confirmed).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/spin/two-hub-bound.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-SPN-0120",
+        "quote": null
+      }
+    ]
+  }
+}

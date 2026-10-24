@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "bfb98550-753c-4adc-a38c-ed666f4fe34a",
+  "title": "E-FRC-0040: a charged wavepacket deflects in a magnetic field, the lattice Lorentz force, with a B = 0 control",
+  "purpose": "Experiment E-FRC-0040 in the gauge arena: a charged wavepacket deflects in a magnetic field, the lattice Lorentz force, with a B = 0 control.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L2 (L2: known physics reproduced on a stated model).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/gauge/ph-magnetism-3434.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-FRC-0040",
+        "quote": null
+      }
+    ]
+  }
+}

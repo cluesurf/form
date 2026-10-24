@@ -1,0 +1,33 @@
+{
+  "record": "link",
+  "id": "85a40558-77cc-4cee-b988-f8ea7edddddd",
+  "from": "f67aa3ff-6907-45ba-8f5f-e45a252abf2b",
+  "to": "455dff7d-b66c-449d-b2d7-52521b99cba5",
+  "relation": "answers",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "7d868dbb-9fb1-455b-8d46-8cf0dce8e24e",
+        "locator": "The goal",
+        "quote": "Space and its dimension, time's arrow, relativity, spin, light, the quantum, gravity and selves would each have to come out of that base, or the base is wrong."
+      },
+      {
+        "source": "7d868dbb-9fb1-455b-8d46-8cf0dce8e24e",
+        "locator": "The goal",
+        "quote": "Nothing here shows yet that they all do."
+      }
+    ]
+  }
+}

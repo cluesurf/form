@@ -1,0 +1,45 @@
+{
+  "record": "proposition",
+  "id": "b9aee761-8092-4584-86b6-075e6ec79a11",
+  "kind": "mathematical",
+  "epistemic_status": "simulated",
+  "title": "Integrated information can also peak at a macro scale",
+  "statements": [
+    {
+      "id": "99668125-c6aa-4891-bcce-e1b06af2fa3a",
+      "text": "In simplified neuron-like systems with indeterminism or degeneracy, the integrated information measure Phi-max can peak at a macro level, when coarse-graining yields macro mechanisms with high irreducible causal selectivity.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-23"
+    }
+  ],
+  "current_statement": "99668125-c6aa-4891-bcce-e1b06af2fa3a",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "43accee2-70fd-4090-88e9-d71562ee222f",
+        "locator": "abstract",
+        "quote": "We show that for systems characterized by indeterminism and/or degeneracy, Φ can indeed peak at a macro level."
+      }
+    ]
+  }
+}

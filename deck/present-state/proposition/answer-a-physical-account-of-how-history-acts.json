@@ -1,0 +1,45 @@
+{
+  "record": "proposition",
+  "id": "6d78b456-5605-4667-8d7a-aa6ec6369de7",
+  "kind": "philosophical",
+  "epistemic_status": "inferred",
+  "title": "Answer: a physical account of how history acts on a system",
+  "statements": [
+    {
+      "id": "5e8cc156-e1b3-4c5a-a312-0a4f74df9dbe",
+      "text": "The conclusion would fall to a theory that gives up local-state sufficiency with a specified physical account of how historical information is carried and acts while locality, conservation and well-posed evolution are kept, or to a theory without a dynamically sufficient local state, which the paper sets outside its scope.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "5e8cc156-e1b3-4c5a-a312-0a4f74df9dbe",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "ac2774e1-a04c-4c89-9db2-7848c6f5ce0b",
+        "locator": "Discussion",
+        "quote": "A genuine departure must explain how the historical information is carried, how it affects the system, and how locality, conservation laws, and well-posed physical evolution are preserved"
+      }
+    ]
+  }
+}

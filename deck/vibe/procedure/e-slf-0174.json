@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "3708356d-476d-4eaf-bbc9-77c15c07f066",
+  "title": "E-SLF-0174: a stored association cycle is an attracting limit cycle of the dynamics (a repeating thought reached...",
+  "purpose": "Experiment E-SLF-0174 in the selves arena: a stored association cycle is an attracting limit cycle of the dynamics (a repeating thought reached from noisy cues on nearly every trial, a wide basin) while scrambling the weights leaves no cycle.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L2 (L2: known physics reproduced on a stated model).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/selves/repeating-thought-cycle.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-SLF-0174",
+        "quote": null
+      }
+    ]
+  }
+}

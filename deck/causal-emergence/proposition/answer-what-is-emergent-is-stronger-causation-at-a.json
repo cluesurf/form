@@ -1,0 +1,45 @@
+{
+  "record": "proposition",
+  "id": "c9a0a86d-62fb-458b-8798-eff03ca01fa3",
+  "kind": "philosophical",
+  "epistemic_status": "inferred",
+  "title": "Answer: what is emergent is stronger causation at a macroscale",
+  "statements": [
+    {
+      "id": "56c9316c-fff1-4a2d-9ffb-a0980429741f",
+      "text": "A macroscale is emergent when its causal relationships are stronger than those of its microscale, because grouping microstates reduces the noise and common causes in the causal relationships.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-23"
+    }
+  ],
+  "current_statement": "56c9316c-fff1-4a2d-9ffb-a0980429741f",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "730ddfd3-ad1a-4e42-9b1d-3ef590ddaba4",
+        "locator": "abstract",
+        "quote": "Causal emergence is the theory that macroscales can reduce the noise in causal relationships, leading to stronger causes at the macroscale."
+      }
+    ]
+  }
+}

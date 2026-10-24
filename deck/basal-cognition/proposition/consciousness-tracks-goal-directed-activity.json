@@ -1,0 +1,45 @@
+{
+  "record": "proposition",
+  "id": "7fbadc21-e88b-496a-8287-55159fcfd29c",
+  "kind": "philosophical",
+  "epistemic_status": "hypothesized",
+  "title": "Consciousness accompanies goal-directed activity, not mere matter",
+  "statements": [
+    {
+      "id": "d36c62a8-8c89-44eb-ac0a-7722812bc4d3",
+      "text": "Consciousness accompanies cognitive processes that spend energy toward goals. Unlike other panpsychist views, mind is not present regardless of physical structure: causal structure and cybernetic properties set a system's capacity.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-23"
+    }
+  ],
+  "current_statement": "d36c62a8-8c89-44eb-ac0a-7722812bc4d3",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "fd7382f9-52a5-4beb-9680-fc341ff15b98",
+        "locator": "section Consciousness",
+        "quote": "Unlike other panpsychist views, TAME does not claim that mind is inevitably baked in regardless of physical implementation or structure."
+      }
+    ]
+  }
+}

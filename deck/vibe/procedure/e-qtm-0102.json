@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "76b3d1db-6c45-42f4-9a51-bcce3333fea9",
+  "title": "E-QTM-0102: the color-respecting gate for a love meeting a fear is the singlet phase: in whole thirds, with fears...",
+  "purpose": "Experiment E-QTM-0102 in the quantum arena: the color-respecting gate for a love meeting a fear is the singlet phase: in whole thirds, with fears, it keeps love minus fear of the two role points in every configuration where the swap phase does not, and a love-fear whole needs no fear at all; no color-respecting meeting of any angle can make or unmake a whole, of two roles or of three, and only the holonomy of the links between meetings can.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L2 (L2: known physics reproduced on a stated model).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/quantum/singlet-phase.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-QTM-0102",
+        "quote": null
+      }
+    ]
+  }
+}

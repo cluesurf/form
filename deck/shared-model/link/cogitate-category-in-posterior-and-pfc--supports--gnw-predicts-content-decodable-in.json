@@ -1,0 +1,34 @@
+{
+  "record": "link",
+  "id": "955eae45-ac8e-4d85-be40-79e2d77119ee",
+  "from": "52e5d5d0-354e-404c-8734-c6cf41621a6a",
+  "to": "3e2907a2-3ac6-40ac-8787-2cbec48035e6",
+  "relation": "supports",
+  "strength": null,
+  "rationale": "Face against object category was decoded in prefrontal regions as well as posterior ones.",
+  "rule": null,
+  "status": "accepted",
+  "origin": [
+    {
+      "repository": "global-workspace",
+      "id": "96bc40da-6341-4ff4-8e37-c97f8a319d15"
+    }
+  ],
+  "provenance": {
+    "written_by": "github:lancejpollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "5acfdefa-f208-419c-af36-1ae64e17cdcf",
+        "locator": "Results, decoding of conscious content",
+        "quote": "Hence, across modalities, face–object decoding occurred in both posterior and prefrontal ROIs, consistent with IIT and GNWT predictions."
+      }
+    ]
+  }
+}

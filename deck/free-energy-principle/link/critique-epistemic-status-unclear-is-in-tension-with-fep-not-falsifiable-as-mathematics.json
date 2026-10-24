@@ -1,0 +1,28 @@
+{
+  "record": "link",
+  "id": "d3673a30-8eff-45a6-a52c-b3ea3327cf00",
+  "from": "7530566f-dcea-427c-8bed-3d7b1c2df230",
+  "to": "a37e77dc-0c53-46d0-b71d-10abf84119d2",
+  "relation": "is_in_tension_with",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "d76a2c8b-55cb-429b-9ce0-dfaeca422228",
+        "locator": "abstract",
+        "quote": "While it might afford a theoretical foundation for understanding the relationship between environment, life, and mind, its epistemic status is unclear."
+      }
+    ]
+  }
+}

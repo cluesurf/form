@@ -1,0 +1,50 @@
+{
+  "record": "proposition",
+  "id": "a1b82fcd-e11b-4960-b8de-a618e59fe757",
+  "kind": "mathematical",
+  "epistemic_status": "inferred",
+  "title": "Rung: the Einstein equations as the minimal divergence-compatible closure",
+  "statements": [
+    {
+      "id": "ebe78278-e3ca-47ce-8338-e9e40cafefb4",
+      "text": "Given conserved redistribution, finite propagation, locality, covariance, second-order metric closure and divergence compatibility, the only admissible large-scale geometric completion is $G_{\\mu\\nu} + \\Lambda g_{\\mu\\nu} = \\kappa_t T_{\\mu\\nu}$.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "ebe78278-e3ca-47ce-8338-e9e40cafefb4",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "74dae0ca-ffc6-4827-bce0-5561d176e0ee",
+        "locator": "Proposition 1, section 2.3",
+        "quote": "the admissible large-scale geometric completion is constrained to the Einstein form with a possible cosmological term."
+      },
+      {
+        "source": "f2c17146-2451-4102-a1a8-1bf1f868feb5",
+        "locator": "abstract",
+        "quote": "the four-dimensional metric equation is selected in Einstein form with a cosmological term."
+      }
+    ]
+  }
+}

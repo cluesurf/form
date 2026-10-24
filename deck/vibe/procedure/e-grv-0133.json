@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "18c1af21-5448-409d-8751-ffb99d74ee7f",
+  "title": "E-GRV-0133: the plaquette move on the shrinking stack's faces keeps Gauss exactly on husk plus bulk, but the closed...",
+  "purpose": "Experiment E-GRV-0133 in the gravity arena: the plaquette move on the shrinking stack's faces keeps Gauss exactly on husk plus bulk, but the closed bulk does not carry the trio's curl away, fail on Q2 and Q3: E-GRV-0130's drive on E-GRV-0100's stack at side 16 (sides 16, 8, 4, 97,536 faces, kappa 10/171 at E-GRV-0130's stability margin, since the overcomplete vertical faces raise lambda_max from 13.6 to 51.6) keeps the stack divergence equal to the drag's on every dock and beat while the husk's own divergence moves up to 0.24 lines down its verticals, never wraps and runs back bit for bit; the summed 64-beat depth gives k 0.0032, 0.128 of the stack's own Poisson k 0.0253 (0.593 over 128 beats), and the husk alone at the same kappa is no better converged (1.62, then 0.30, of its Poisson k); the non-gradient energy within 3 of the source falls to 0.079 of the tube's (gate 0.05), and of the 6.8 that left, 0.86 is in the bulk (gate half) and 6.6 on the husk outside: a finite reversible bulk shares the wave, it does not absorb it; E-GRV-0130's closed-husk arm reproduces k 0.0061529 to every digit and the bare arm -0.2364.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L2 (L2: known physics reproduced on a stated model).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/gravity/trio-stack-plaquette-depth.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-GRV-0133",
+        "quote": null
+      }
+    ]
+  }
+}

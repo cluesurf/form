@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "1482529a-f15a-4f99-bdb9-11ae4ab5e648",
+  "title": "E-CMP-0016: HashLife on the knit: memoized space-time blocks on the D4 lattice gas, keyed by the schedule's phase...",
+  "purpose": "Experiment E-CMP-0016 in the computation arena: HashLife on the knit: memoized space-time blocks on the D4 lattice gas, keyed by the schedule's phase, equal the dense lattice gas and the difference engine bit for bit on both knits, carry a travelling vibe exactly to beat $2^{40} - 1$ in a root $2^{41}$ docks on a side, and pay off where space-time repeats (the vacuum, a crystal) while a dense disturbance defeats the memo.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L2 (L2: known physics reproduced on a stated model).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/computation/hash-life-knit.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-CMP-0016",
+        "quote": null
+      }
+    ]
+  }
+}

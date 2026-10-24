@@ -1,0 +1,45 @@
+{
+  "record": "proposition",
+  "id": "fccaa18c-26ed-48d8-94a9-67b02d34e5f9",
+  "kind": "philosophical",
+  "epistemic_status": "hypothesized",
+  "title": "Consciousness creates brain activity",
+  "statements": [
+    {
+      "id": "93e89b4a-9022-4cbe-b7b8-9cf8b969f9f9",
+      "text": "The correlations between brain activity and consciousness arise because consciousness creates brain activity, and creates all objects and properties of the physical world, not the reverse.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-23"
+    }
+  ],
+  "current_statement": "93e89b4a-9022-4cbe-b7b8-9cf8b969f9f9",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "a7e70d05-b690-4622-b9c7-93120625ba04",
+        "locator": "abstract, p. 87",
+        "quote": "these correlations arise because consciousness creates brain activity"
+      }
+    ]
+  }
+}

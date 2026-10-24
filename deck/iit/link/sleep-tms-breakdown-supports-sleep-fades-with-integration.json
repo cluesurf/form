@@ -1,0 +1,28 @@
+{
+  "record": "link",
+  "id": "8df21fc1-d0a2-4d87-a8e3-8965759fbc30",
+  "from": "d4502a9c-95ba-4707-b920-72ca23b452c4",
+  "to": "4b140503-af00-4104-982a-a6a0a54d3532",
+  "relation": "supports",
+  "strength": 0.5,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "6a566b1c-df08-4059-8136-7eeb2f4123f1",
+        "locator": "abstract",
+        "quote": "During non-rapid eye movement sleep, the initial response was stronger but was rapidly extinguished and did not propagate beyond the stimulation site."
+      }
+    ]
+  }
+}

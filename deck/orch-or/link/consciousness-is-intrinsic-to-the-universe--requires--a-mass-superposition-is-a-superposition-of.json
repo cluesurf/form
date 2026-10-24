@@ -1,0 +1,28 @@
+{
+  "record": "link",
+  "id": "3e823b72-5c47-48ef-8e12-e08d19b71894",
+  "from": "9ff2ed23-d569-4a6c-a695-4dcfb642adaf",
+  "to": "3be86ca9-e2bd-4465-833c-6118e9e9f932",
+  "relation": "requires",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "c0602528-f093-4705-abc3-e13d7657a680",
+        "locator": "abstract",
+        "quote": "We conclude that consciousness plays an intrinsic role in the universe."
+      }
+    ]
+  }
+}

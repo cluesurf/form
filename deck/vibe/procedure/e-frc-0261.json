@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "5d4d74d1-5989-4192-a203-9ac3530b048f",
+  "title": "E-FRC-0261: where the light's split comes from and what it does to one speed and to alpha, partial as derived: the...",
+  "purpose": "Experiment E-FRC-0261 in the gauge arena: where the light's split comes from and what it does to one speed and to alpha, partial as derived: the split is fixed by the virial balance (link columns over plaquette columns, a Planck criterion, not a symmetry; 3/8 or 9/20 on the 3D husk, 3 on the ladder); exact one speed at a balanced split needs the balance to be 3 times a rational square, so on the husk the two cannot both hold under any count; the balance meets one speed as a limit of the register, the Pell splits missing it by 1/(2 $q^2$); alpha = sqrt(3 / (2 rho)) / (12 N) is free of kappa, so one speed leaves alpha unchanged, and no depth gives 137.036 at either split.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L2 (L2: known physics reproduced on a stated model).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/gauge/light-split-origin.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-FRC-0261",
+        "quote": null
+      }
+    ]
+  }
+}

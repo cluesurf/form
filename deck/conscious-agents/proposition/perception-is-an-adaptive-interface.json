@@ -1,0 +1,50 @@
+{
+  "record": "proposition",
+  "id": "15eb5784-eda9-416f-b2d6-865b0d94a29c",
+  "kind": "empirical",
+  "epistemic_status": "hypothesized",
+  "title": "Perception is an adaptive interface",
+  "statements": [
+    {
+      "id": "a4193750-fdbd-470f-bf5c-9adb7d7081de",
+      "text": "Natural selection shapes perceptual systems to be species-specific interfaces that guide adaptive behavior, not windows on the truth.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-23"
+    }
+  ],
+  "current_statement": "a4193750-fdbd-470f-bf5c-9adb7d7081de",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "326bc60f-bdd5-4190-a828-88d73ad2daba",
+        "locator": "abstract, p. 2",
+        "quote": "Perception is an adaptive interface."
+      },
+      {
+        "source": "15e904a9-b714-4166-a1df-29884230fe2a",
+        "locator": "abstract, lines 20-21",
+        "quote": "the FBT Theorem supports the \"interface theory of perception,\""
+      }
+    ]
+  }
+}

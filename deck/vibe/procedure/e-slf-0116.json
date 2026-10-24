@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "2561f384-10a8-42e5-ad4f-71b0e0225568",
+  "title": "E-SLF-0116: the {7,3} hyperbolic bulk has no radial nesting tower",
+  "purpose": "Experiment E-SLF-0116 in the selves arena: the {7,3} hyperbolic bulk has no radial nesting tower.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L2 (L2: known physics reproduced on a stated model).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/selves/self-nesting-73.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-SLF-0116",
+        "quote": null
+      }
+    ]
+  }
+}

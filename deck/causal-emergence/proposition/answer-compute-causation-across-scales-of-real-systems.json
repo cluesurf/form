@@ -1,0 +1,45 @@
+{
+  "record": "proposition",
+  "id": "37a38bce-e27f-41de-8400-94fe642f49f0",
+  "kind": "empirical",
+  "epistemic_status": "hypothesized",
+  "title": "Answer: compute causation across scales of real systems",
+  "statements": [
+    {
+      "id": "260f2488-019c-4600-8e0c-460725aadc21",
+      "text": "Causal emergence is checked by computing EI or the causal primitives across coarse-grains of measured systems: neurons against neuronal groups against brain regions using optogenetics and calcium imaging, gene regulatory networks, and protein interactomes.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-23"
+    }
+  ],
+  "current_statement": "260f2488-019c-4600-8e0c-460725aadc21",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "8360d34d-30cb-44f8-89c9-41768fb53f0d",
+        "locator": "Discussion, Applicability to Real Systems",
+        "quote": "In real neural systems, one could compare the respective effective information at the micro scale of single neurons over millisecond intervals, the meso scale of neuronal groups over hundreds of milliseconds"
+      }
+    ]
+  }
+}

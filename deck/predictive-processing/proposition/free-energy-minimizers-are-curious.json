@@ -1,0 +1,45 @@
+{
+  "record": "proposition",
+  "id": "fc00b420-3ef6-4b15-9155-242782b13099",
+  "kind": "empirical",
+  "epistemic_status": "inferred",
+  "title": "Agents minimizing long-term free energy are curious",
+  "statements": [
+    {
+      "id": "ee70b83b-c0f1-4151-a722-9ca5b37c5de0",
+      "text": "An agent that minimizes expected free energy over the long term seeks information and novelty, so it leaves a dark room even at a short-term cost in prediction error.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-23"
+    }
+  ],
+  "current_statement": "ee70b83b-c0f1-4151-a722-9ca5b37c5de0",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "c9c5835d-7979-407c-992f-7ec84ebe5472",
+        "locator": "accepted manuscript p. 2",
+        "quote": "In short, in order to minimise surprise in the future, an agent needs to be a curious, sensation-seeking agent in the present."
+      }
+    ]
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "40867cf4-4b04-4f2a-8dd7-3e6e858008e1",
+  "title": "E-SCL-0006: the continuum limit is Dirac plus Maxwell, the fermion and photon propagator poles and the...",
+  "purpose": "Experiment E-SCL-0006 in the renormalization arena: the continuum limit is Dirac plus Maxwell, the fermion and photon propagator poles and the conserved-current vertex match QED, broken by an anisotropic rule.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L1 (L1: known mathematics, correctly confirmed).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/renormalization/dirac-maxwell-propagators.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-SCL-0006",
+        "quote": null
+      }
+    ]
+  }
+}

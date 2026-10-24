@@ -1,0 +1,39 @@
+{
+  "record": "observation",
+  "id": "33f9dda1-377a-425f-8548-414d3cdde937",
+  "kind": "experimental_result",
+  "epistemic_status": "observed",
+  "description": "High-density ERPs during masking with finely varied target-mask intervals: considerable subliminal processing occurs early in the occipito-temporal pathway (under 250 ms), and a late (over 270 ms), highly distributed fronto-parieto-temporal activation correlates with conscious report.",
+  "method": "experiment",
+  "status": "reported",
+  "source": "7cbec398-e647-4c01-a5e8-fd64e6239d54",
+  "procedure": null,
+  "variable": null,
+  "value": null,
+  "unit": null,
+  "uncertainty": null,
+  "sample_size": null,
+  "replication_count": null,
+  "quality": null,
+  "limitations": null,
+  "conflicts_of_interest": null,
+  "observed_at": "2007-10-01",
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "7cbec398-e647-4c01-a5e8-fd64e6239d54",
+        "locator": "abstract",
+        "quote": "pointing to a late (>270 ms) and highly distributed fronto-parieto-temporal activation as a correlate of conscious reportability."
+      }
+    ]
+  }
+}

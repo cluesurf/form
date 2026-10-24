@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "7e2e69cd-9e89-49d6-916a-4e752320eddf",
+  "title": "E-FRC-0116: the vibe cannot be an axis of the color grid: a line cannot hold (vibe, flow) because the pair clock...",
+  "purpose": "Experiment E-FRC-0116 in the gauge arena: the vibe cannot be an axis of the color grid: a line cannot hold (vibe, flow) because the pair clock fixes 2 states where a grid map fixes 0, 1, 3 or 9, charge conservation leaves 18 of the 216 color maps and none of the 24 turns, and a flow obeying flow <- flow + vibe adds only its own 3 shifts as symmetries of the committed or triality rule.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L1 (L1: known mathematics, correctly confirmed).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/gauge/vibe-and-flow.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-FRC-0116",
+        "quote": null
+      }
+    ]
+  }
+}

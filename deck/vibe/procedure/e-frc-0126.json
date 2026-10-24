@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "e3918a40-1d67-4244-b915-43ee2959ed34",
+  "title": "E-FRC-0126: the classical color group confines under a rule with no random number: on the kinetic demon automaton of...",
+  "purpose": "Experiment E-FRC-0126 in the gauge arena: the classical color group confines under a rule with no random number: on the kinetic demon automaton of Sigma(648), at two energies in the melted phase a static color pair pays a string tension (Creutz ratio chi(2, 2) above zero, matching the heatbath) and the fundamental Polyakov loop vanishes (the center, the vibe phase, unbroken, so a lone color has infinite free energy), while on the ordered branch the loop is nonzero and a lone color is freed.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L2 (L2: known physics reproduced on a stated model).",
+  "status": "completed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/gauge/deterministic-confinement.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "research/result.ts R-FRC-0006",
+        "quote": null
+      }
+    ]
+  }
+}

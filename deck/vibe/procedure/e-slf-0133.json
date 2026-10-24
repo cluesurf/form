@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "361bb1ac-452b-4a3b-8fb8-fbb7c6329819",
+  "title": "E-SLF-0133: the base conserves total charge exactly, the local re-estimate drifts, a leaking rule breaks it",
+  "purpose": "Experiment E-SLF-0133 in the selves arena: the base conserves total charge exactly, the local re-estimate drifts, a leaking rule breaks it.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L2 (L2: known physics reproduced on a stated model).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/selves/surrogate-conservation.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-SLF-0133",
+        "quote": null
+      }
+    ]
+  }
+}

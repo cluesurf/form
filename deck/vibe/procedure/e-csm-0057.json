@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "92486b56-8646-425f-8b9a-e64cb174e11d",
+  "title": "E-CSM-0057: the dark matter candidate measured structurally: the one-beat clock wall is exactly one slot per...",
+  "purpose": "Experiment E-CSM-0057 in the cosmology arena: the dark matter candidate measured structurally: the one-beat clock wall is exactly one slot per boundary cell at every sampled beat, confined within two columns of the boundary, breathing with exact period six between two pinned configurations (persistent localized energy neither vacuum accounts for), the traveller crosses the same wall class with support exactly one and no phase change through the whole crossing window (transparent to matter per crossing, the delayed-wake caveat of E-FND-0096 cited), while the two-beat wall invades its neighbour (a detector, not dark) and the three-beat offset makes no wall at all, so the model holds a persistent energy-bearing matter-transparent object class with only its coupling into the emergent potential (rotation curves, lensing mass) still unmeasured.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L2 (L2: known physics reproduced on a stated model).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/cosmology/dark-wall-candidate.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-CSM-0057",
+        "quote": null
+      }
+    ]
+  }
+}

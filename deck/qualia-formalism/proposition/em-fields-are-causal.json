@@ -1,0 +1,45 @@
+{
+  "record": "proposition",
+  "id": "2d7533b5-920a-4cf8-aa50-75c5f1605069",
+  "kind": "empirical",
+  "epistemic_status": "hypothesized",
+  "title": "Brain EM fields are causal",
+  "statements": [
+    {
+      "id": "2e544529-819a-4588-b944-20029a336818",
+      "text": "Electromagnetic fields in the brain are not merely a side effect of electrical activity: they act back on it.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-23"
+    }
+  ],
+  "current_statement": "2e544529-819a-4588-b944-20029a336818",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "9359bfc1-6fff-41a8-8d7c-91af2f730b74",
+        "locator": "section 4.2.3",
+        "quote": "EM fields are not merely a side-effect of electrical activity in the brain"
+      }
+    ]
+  }
+}

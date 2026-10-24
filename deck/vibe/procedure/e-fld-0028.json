@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "8ee35cef-3d25-446b-8ca4-285b27228898",
+  "title": "E-FLD-0028: a pair clock paid from per-line demons keeps an exact energy (tones plus counters) with the pair clock...",
+  "purpose": "Experiment E-FLD-0028 in the fluids arena: a pair clock paid from per-line demons keeps an exact energy (tones plus counters) with the pair clock: reversal, charge, P, local color and CPT at the base phase all exact, the vacuum clocking with period 24 when every line holds at least the pair mass 2 and not at all below it; but the energy does not buy sound where the clock runs: with counters of 2 the longitudinal wave slows as k shrinks (omega about $k^{1.89}$, speed 0.70 to 0.38 from L = 12 to 24), a mode that does not propagate at long wavelength, and a lone love sets off a pair avalanche (89,010 slots by the fourth period against 1,508); with the counters empty the clock cannot start and the wave rings, extrapolating to 0.66.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L2 (L2: known physics reproduced on a stated model).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/fluids/paid-clock-energy.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-FLD-0028",
+        "quote": null
+      }
+    ]
+  }
+}

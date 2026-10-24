@@ -1,0 +1,45 @@
+{
+  "record": "proposition",
+  "id": "b59f7b43-fcd7-4596-a1cd-fd0b476977e4",
+  "kind": "empirical",
+  "epistemic_status": "hypothesized",
+  "title": "How interoceptive machinery maps to feeling is open",
+  "statements": [
+    {
+      "id": "691f417c-743f-40c4-ac5b-f6d5c969ebc8",
+      "text": "It remains open which part of interoceptive inference fixes the content of feeling: the posterior belief, the course of prediction error over time, the precision of predicted bodily consequences, or priors over precision.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-23"
+    }
+  ],
+  "current_statement": "691f417c-743f-40c4-ac5b-f6d5c969ebc8",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "bfa85443-4b77-43f1-b5f2-ec1850a4bc3c",
+        "locator": "accepted manuscript p. 15",
+        "quote": "it remains an open question as to how interoceptive experiences map onto the computational machinery of interoceptive inference"
+      }
+    ]
+  }
+}

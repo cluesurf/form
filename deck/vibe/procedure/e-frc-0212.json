@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "d9b71020-abfb-4112-a38b-fb519d106464",
+  "title": "E-FRC-0212: depth is the coupling knob, measured on the trit rule: the longitudinal flux is fixed by the charges at...",
+  "purpose": "Experiment E-FRC-0212 in the gauge arena: depth is the coupling knob, measured on the trit rule: the longitudinal flux is fixed by the charges at every beat, so a static pair holds (pi / D)(G(0) - G(r)) whatever route its string took, the Coulomb coefficient is 1 / (24 D), the photon of the integer rule runs at sqrt(2 kappa / 3) with kappa = 2 / (2D + 1), and alpha = 1 / (24 D c) falls as $D^{-1 / 2}$: 1 / alpha 63.6, 77.2, 110.0, 156.2 at D = 11, 16, 32, 64.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L2 (L2: known physics reproduced on a stated model).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/gauge/trit-alpha.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-FRC-0212",
+        "quote": null
+      }
+    ]
+  }
+}

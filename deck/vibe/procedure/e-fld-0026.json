@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "fc7081c5-8384-4044-a239-a86e0016de16",
+  "title": "E-FLD-0026: the scatter weave reaches hydrodynamics when a lone tone may also scatter against a pair member whose...",
+  "purpose": "Experiment E-FLD-0026 in the fluids arena: the scatter weave reaches hydrodynamics when a lone tone may also scatter against a pair member whose partner line holds a lone tone and every beat tries 36 scatterings: a shear of the particle momentum decays as nu $k^2$ with one viscosity (nu about 0.47, constant to within 10 percent from L = 12 to 24, exponent near 2), with the vacuum period, CPT, reversal, charge, P and local color exact; but no member measured reaches both a constant viscosity and the committed dressing, the dressing growing with every step toward hydrodynamics.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L2 (L2: known physics reproduced on a stated model).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/fluids/scatter-hydrodynamics.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-FLD-0026",
+        "quote": null
+      }
+    ]
+  }
+}

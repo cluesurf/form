@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "70d49d73-1418-4235-af85-e26214672e35",
+  "title": "E-MTR-0024: $E = m c^2$: a coin-phase mass mu on a band of massless speed c0 has rest energy m c_rest^2 with...",
+  "purpose": "Experiment E-MTR-0024 in the relativity arena: $E = m c^2$: a coin-phase mass mu on a band of massless speed c0 has rest energy m c_rest^2 with c_rest^2 = $c0^2$ mu cot(mu); the lazy root token (a STAND-IN, c0 the photon's) meets $E = m c^2$ with the photon's c for a light mass and has the Lorentz band, while the flux-string bound state of three locked loves (a STAND-IN) does not carry the photon's c.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L2 (L2: known physics reproduced on a stated model).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/matter/rest-energy.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-MTR-0024",
+        "quote": null
+      }
+    ]
+  }
+}

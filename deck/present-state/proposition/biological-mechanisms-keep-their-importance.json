@@ -1,0 +1,45 @@
+{
+  "record": "proposition",
+  "id": "27c1ab98-a96c-46ac-bc59-8c41fa708430",
+  "kind": "philosophical",
+  "epistemic_status": "inferred",
+  "title": "Biological mechanisms keep their importance",
+  "statements": [
+    {
+      "id": "93187660-32b1-406f-a508-d47d562310ee",
+      "text": "Nothing in the argument denies the biological importance of broadcasting, recurrence, integration, prediction or higher-order representation. The question is only whether undergoing such a process remains a constituent of consciousness after the complete present physical state it produced is fixed.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "93187660-32b1-406f-a508-d47d562310ee",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "ac2774e1-a04c-4c89-9db2-7848c6f5ce0b",
+        "locator": "section 1",
+        "quote": "Nothing in the present argument denies the biological importance of broadcasting, recurrence, integration, prediction, or higher-order representation."
+      }
+    ]
+  }
+}

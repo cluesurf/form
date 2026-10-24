@@ -1,0 +1,45 @@
+{
+  "record": "proposition",
+  "id": "eabba6ec-d0cf-40a0-b55b-dd7f0ac410b4",
+  "kind": "empirical",
+  "epistemic_status": "hypothesized",
+  "title": "Interaction is a discrete change of one state",
+  "statements": [
+    {
+      "id": "c311e110-e20f-42ec-b09a-50bf40cdfb44",
+      "text": "Interaction is a discrete change: each change in energy equals the energy of one state.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "c311e110-e20f-42ec-b09a-50bf40cdfb44",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "f1f9bdb8-14c9-4c62-9e48-01ecc2870699",
+        "locator": "Discrete action",
+        "quote": "Interaction is a discrete change. A change in energy equals the energy of one state."
+      }
+    ]
+  }
+}

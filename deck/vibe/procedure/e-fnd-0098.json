@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "7bd5da44-6608-4fb4-9f85-9433b32515f1",
+  "title": "E-FND-0098: symmetry breaking as clock condensation with a commensurability law: every grown region picks a definite...",
+  "purpose": "Experiment E-FND-0098 in the foundations arena: symmetry breaking as clock condensation with a commensurability law: every grown region picks a definite $Z_3$ phase (per-column coherence above 0.15 everywhere and 1.0 in the uniform control, the condensate), a growth quench at one column per k beats writes phase k x mod 3 so incommensurate speeds (k = 1, 2) force a domain-wall network denser than one half while commensurate speeds (k = 3, 6) realign to zero walls exactly, and the all-at-once birth control is the uniform condensate at coherence 1, the deterministic Kibble-Zurek statement for the electroweak-analog condensate with the doublet and boson masses still needing the carrier.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L2 (L2: known physics reproduced on a stated model).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/foundations/clock-condensate-symmetry-breaking.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-FND-0098",
+        "quote": null
+      }
+    ]
+  }
+}

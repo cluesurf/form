@@ -1,0 +1,50 @@
+{
+  "record": "proposition",
+  "id": "5ad94ba9-6cd0-44e9-96a8-368be795571f",
+  "kind": "empirical",
+  "epistemic_status": "simulated",
+  "title": "E-QTM-0120: KCBS on the role qutrit: in the grid's own frame a pentagram violation happens exactly when a role's...",
+  "statements": [
+    {
+      "id": "aa7bc519-e214-45a3-98ef-6675fed1ebd1",
+      "text": "KCBS on the role qutrit: in the grid's own frame a pentagram violation happens exactly when a role's Wigner weight falls below -sqrt 5 / 15, so violation implies fear but fear does not imply violation, while the pentagram in its best orientation sees only the spectrum and is violated maximally by fear-free states; the stabilizer states hold no pentagon, so KCBS is not the contextuality that equals negativity.",
+      "language": "en",
+      "scope": "experiment E-QTM-0120, arena quantum, depth L2 (L2: known physics reproduced on a stated model)",
+      "conditions": "substrates: 3434. In a paper: false",
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-22"
+    }
+  ],
+  "current_statement": "aa7bc519-e214-45a3-98ef-6675fed1ebd1",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": {
+    "value": "open",
+    "reason": "holds in the vibe claim graph",
+    "basis": [],
+    "proposal": null
+  },
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "research/result.ts R-FRC-0003",
+        "quote": null
+      }
+    ]
+  }
+}

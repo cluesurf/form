@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "08da22c4-1fd3-46ea-9ecc-636a8c74e173",
+  "title": "E-FND-0099: the traveller's wake characterized as radiation behind an intact particle: at every sampled beat through...",
+  "purpose": "Experiment E-FND-0099 in the foundations arena: the traveller's wake characterized as radiation behind an intact particle: at every sampled beat through and past the eruption a difference slot sits at the particle's exact free-flight position (read from the no-slab control, at two sizes, the particle never stops or dissolves), the wake's growth is honestly detector-sized (support reaching the same order as the offset-2 response in the same geometry, decelerating, under two slots per cell), so growth does not separate emission from detection, and what does is the intact particle plus the recoherence, the total amplitude recoheres to exactly root three on a fifth to a third of post-eruption beats (partial coherence pure decoherence cannot give), and the eruption beat is deterministic per geometry with no simple law across sides (recorded), so the crossing is transparent for the particle while the medium responds at detector scale around it, emission-with-survival rather than absorption, and whether the response carries or records is the named next measurement.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L2 (L2: known physics reproduced on a stated model).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/foundations/wake-is-particle-plus-radiation.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-FND-0099",
+        "quote": null
+      }
+    ]
+  }
+}

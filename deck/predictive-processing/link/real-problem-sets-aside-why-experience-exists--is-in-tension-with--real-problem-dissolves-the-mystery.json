@@ -1,0 +1,28 @@
+{
+  "record": "link",
+  "id": "da8b601a-630b-4b10-b819-2d2cd1a34173",
+  "from": "3710cd7a-392e-4b0f-b8ed-b9a9392f0302",
+  "to": "d64712bd-4a91-4660-b675-f3c6f2d2c1f7",
+  "relation": "is_in_tension_with",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b26cbe1f-9462-4264-82be-b5d3dc8992ac",
+        "locator": "accepted manuscript p. 25, Box 1",
+        "quote": "without attempting to account for the existence of phenomenology as such"
+      }
+    ]
+  }
+}

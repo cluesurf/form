@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "39b3ce80-55eb-4d99-ba21-ed57ca9392cf",
+  "title": "E-FRC-0007: 3D SU(2) confines with a string tension that, measured in units of the coupling at three lattice...",
+  "purpose": "Experiment E-FRC-0007 in the gauge arena: 3D SU(2) confines with a string tension that, measured in units of the coupling at three lattice spacings, extrapolates to the continuum sqrt(sigma) / $g^2 = 0.335$.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L2 (L2: known physics reproduced on a stated model).",
+  "status": "completed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/gauge/confinement.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "research/result.ts R-FRC-0001",
+        "quote": null
+      }
+    ]
+  }
+}

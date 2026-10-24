@@ -1,0 +1,28 @@
+{
+  "record": "link",
+  "id": "3bf5ccef-75e3-4f44-895a-543725838668",
+  "from": "2008bef4-002a-40c4-abbd-abc89303d7f4",
+  "to": "826d85ad-45dc-43a3-8258-6c5a85d5b8fd",
+  "relation": "defines",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "48959277-86d2-4076-9942-58a24f753040",
+        "locator": "Introduction, p. 776",
+        "quote": "Access consciousness refers to the fact that conscious information, unlike unconscious information, is accessible to numerous cognitive processors, such as those mediating working memory, verbal report, or motor behavior."
+      }
+    ]
+  }
+}

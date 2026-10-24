@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "89ec9bb2-65d7-4321-a869-1ab201c605c4",
+  "title": "E-FRC-0217: the matched Yukawa test: the residual between two static color singlets (stand-ins for nucleons) of the...",
+  "purpose": "Experiment E-FRC-0217 in the gauge arena: the matched Yukawa test: the residual between two static color singlets (stand-ins for nucleons) of the paid Z3 string on the D4 box, read on the husk, with the vacuum's pair move on and a control identical except that the move is off, against e^(-m r) / r at the separately measured meson mass, and the deuteron contact.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L2 (L2: known physics reproduced on a stated model).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/gauge/pair-yukawa-matched.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-FRC-0217",
+        "quote": null
+      }
+    ]
+  }
+}

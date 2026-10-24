@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "863bd108-88dd-4a66-9c77-4be342d1ddf9",
+  "title": "E-RLT-0081: the frame vacuum (four orthogonal stored lines on every dock, the least set with an irreducible...",
+  "purpose": "Experiment E-RLT-0081 in the relativity arena: the frame vacuum (four orthogonal stored lines on every dock, the least set with an irreducible stabilizer, W(B4)), partial on an instrument clause: it runs the exact living cycle on every box and its husk transport is isotropic at rank two only (charge 2.03, trace 2.14, sound 2.03, shear 0.15), the same with its store signs averaged, so the orientation does not reach the linear transport and only the stored lines do; but a lone love's wake fills the side-9 box (78,559 trits in the first period, committed 33), growing with the stored orthogonal lines as 266, 4,436, 63,402 and 78,559 for one to four; the registered instrument gate asked 24 symmetries that need charge conjugation to commute as bare coin maps (0.17, with charge conjugation 5e-13).",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L2 (L2: known physics reproduced on a stated model).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/relativity/frame-vacuum.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-RLT-0081",
+        "quote": null
+      }
+    ]
+  }
+}

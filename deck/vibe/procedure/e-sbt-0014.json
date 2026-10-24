@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "423bf9a9-d360-449d-8511-fcd7ea7039ee",
+  "title": "E-SBT-0014: all the Margenstern {p,4} and {p,3} tilings are Lorentz-safe with exponential reach",
+  "purpose": "Experiment E-SBT-0014 in the substrate-survey arena: all the Margenstern {p,4} and {p,3} tilings are Lorentz-safe with exponential reach.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L2 (L2: known physics reproduced on a stated model).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/substrate-survey/margenstern-tilings.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-SBT-0014",
+        "quote": null
+      }
+    ]
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "207440c3-8cef-47b5-baab-6172a632dffe",
+  "title": "E-MTH-0020: what sets the U(1) coupling: on the husk the link sector gives alpha = 1 / (12 N D c) per vibe, the...",
+  "purpose": "Experiment E-MTH-0020 in the method arena: what sets the U(1) coupling: on the husk the link sector gives alpha = 1 / (12 N D c) per vibe, the Coulomb coefficient 1 / (24 pi D) read off the D4 column Green's function (the husk coupling is the bulk one divided by the column depth D) and c = sqrt(2 kappa / 3) off the photon, so alpha^-1 = 12 D sqrt(4 pi K N / 3) / e^2 is a free function of the chosen K, N, charge e and box depth, 238,580 at the committed rule on the side-12 husk box, and nothing in the knit fixes it.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L2 (L2: known physics reproduced on a stated model).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/method/what-sets-the-coupling.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-MTH-0020",
+        "quote": null
+      }
+    ]
+  }
+}

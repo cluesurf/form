@@ -1,0 +1,45 @@
+{
+  "record": "proposition",
+  "id": "d62d80e6-ccdd-4b58-827c-19f8b37ae211",
+  "kind": "philosophical",
+  "epistemic_status": "inferred",
+  "title": "The most detailed model can miss causal structure",
+  "statements": [
+    {
+      "id": "aa64d8a1-61af-4c94-a29e-98083eb58094",
+      "text": "For some systems, even the most detailed microscopic model cannot fully capture the causal structure.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-23"
+    }
+  ],
+  "current_statement": "aa64d8a1-61af-4c94-a29e-98083eb58094",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "af04362c-992c-4063-8ee0-0860e42624ed",
+        "locator": "abstract",
+        "quote": "how the causal structure of some systems cannot be fully captured by even the most detailed microscopic model"
+      }
+    ]
+  }
+}

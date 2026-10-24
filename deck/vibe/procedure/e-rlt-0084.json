@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "69628cb8-ed28-4e10-97d5-02ce1df51a1a",
+  "title": "E-RLT-0084: the lone bounce collision, pass: a dock holding at most one single-held line turns its full lines as -1...",
+  "purpose": "Experiment E-RLT-0084 in the relativity arena: the lone bounce collision, pass: a dock holding at most one single-held line turns its full lines as -1 and moves nothing else, every other dock applies the isometric map; it needs no label (it reads only which lines are full, and never a token), commutes with all 1,152 coin maps and with charge conjugation (0 failures over 57,248 docks, 53,248 of them exhaustive), is an involution keeping momentum, reverses exactly with the motion reversal U1 T U0 T = 1, and leaves the hub, one-line and all-line vacua trit for trit as they were; on the hub vacuum a lone vibe's wake is 13, 15, 13, 15 trits per period on side 8 and 19 to 21 on side 12 (the isometric map: 8,896; committed 28 to 214 and 31 to 805), 22 of 24 directions bare and 0 trits off the vibe's own line, and the exact linear transport keeps the isotropic husk law (charge 4.00, trace 4.11, sound 4.03, shear 2.03, crossover k 0.256 against the isometric 0.262); turning the full lines on EVERY dock gives the same wake but a gas that barely relaxes (crossover k 0.0020, momentum trace 120 times).",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L2 (L2: known physics reproduced on a stated model).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/relativity/lone-bounce-collision.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-RLT-0084",
+        "quote": null
+      }
+    ]
+  }
+}

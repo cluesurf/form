@@ -1,0 +1,45 @@
+{
+  "record": "proposition",
+  "id": "8c1aa655-a9df-43ef-a1cf-691b604fcf5e",
+  "kind": "empirical",
+  "epistemic_status": "hypothesized",
+  "title": "Conscious access can occur without report",
+  "statements": [
+    {
+      "id": "2d66dbc6-1054-4c3b-a8c9-7406244e445c",
+      "text": "Conscious access can occur with or without overt behavioral report, so no-report paradigms can separate access from the act of responding.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-23"
+    }
+  ],
+  "current_statement": "2d66dbc6-1054-4c3b-a8c9-7406244e445c",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "48959277-86d2-4076-9942-58a24f753040",
+        "locator": "Introduction",
+        "quote": "conscious access can occur with or without overt behavioral report"
+      }
+    ]
+  }
+}

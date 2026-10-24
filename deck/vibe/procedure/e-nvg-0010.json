@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "663386b5-b730-493b-9102-1f41b479362e",
+  "title": "E-NVG-0010: local greedy descent in hyperbolic coordinates routes with 100 percent success and unit stretch (the...",
+  "purpose": "Experiment E-NVG-0010 in the addressing arena: local greedy descent in hyperbolic coordinates routes with 100 percent success and unit stretch (the exact walkway a self can follow with only local information) while a scrambled-coordinate map stalls in local minima.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L2 (L2: known physics reproduced on a stated model).",
+  "status": "completed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/addressing/greedy-walkway.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "research/result.ts R-NVG-0001",
+        "quote": null
+      }
+    ]
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "record": "proposition",
+  "id": "da201905-dbc5-4699-93cf-1275ede34fef",
+  "kind": "definitional",
+  "epistemic_status": "designed",
+  "title": "Quantum reference frame",
+  "statements": [
+    {
+      "id": "18f9dde8-a478-49de-825e-c2e7d6981409",
+      "text": "A quantum reference frame is a physical system, such as a meter stick, clock or gyroscope, that lets measured values be compared and given meaning. It encodes unmeasurable phase information and so cannot be fully specified by any finite bit string.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-23"
+    }
+  ],
+  "current_statement": "18f9dde8-a478-49de-825e-c2e7d6981409",
+  "status": "active",
+  "voice": "framework",
+  "defines": "quantum reference frame",
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "4489b7d7-7273-4b67-a1c2-b53ddab0eeb5",
+        "locator": "section 2.4",
+        "quote": "in quantum theory reference frames must be considered physical systems – QRFs – that encode unmeasurable quantum phase information"
+      }
+    ]
+  }
+}

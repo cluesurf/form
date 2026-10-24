@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "0a1f5728-c669-4b70-9e66-8ac52aa4a6f8",
+  "title": "E-FRC-0077: Faraday induction is exactness on the photon sector: sixty leapfrog steps of the free Maxwell dynamics...",
+  "purpose": "Experiment E-FRC-0077 in the gauge arena: Faraday induction is exactness on the photon sector: sixty leapfrog steps of the free Maxwell dynamics swing the plaquette flux by order one while the loop EMF equals minus the flux rate to fourteen decimals at every step, for a single plaquette and a three-by-three loop at two lattice sizes, and an electric field that is no potential's time derivative violates the loop law by the measured order-one circulation, so the homogeneous Maxwell pair (with E-FRC-0076) comes free with a potential-derived connection and only the sourced pair still needs the carrier.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L2 (L2: known physics reproduced on a stated model).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/gauge/faraday-induction.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-FRC-0077",
+        "quote": null
+      }
+    ]
+  }
+}

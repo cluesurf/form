@@ -1,0 +1,55 @@
+{
+  "record": "proposition",
+  "id": "440545ae-ff02-469e-8449-a2ce19fd5118",
+  "kind": "mathematical",
+  "epistemic_status": "inferred",
+  "title": "The theorem extends to stochastic dynamics",
+  "statements": [
+    {
+      "id": "bfce3b43-9ece-4d99-a57f-5fbdfb21ad5e",
+      "text": "With state sufficiency written as a conditional independence, $\\Pr(X_{t+\\Delta} \\mid X_{\\le t}, I) = \\Pr(X_{t+\\Delta} \\mid X_t, I)$, equal states and inputs give equal laws for the future, while a causally efficacious consciousness difference needs the laws to differ. The same contradiction follows, and the conclusion is unchanged.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "bfce3b43-9ece-4d99-a57f-5fbdfb21ad5e",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "ac2774e1-a04c-4c89-9db2-7848c6f5ce0b",
+        "locator": "section 4.10",
+        "quote": "The theorem extends directly to stochastic dynamics."
+      },
+      {
+        "source": "ac2774e1-a04c-4c89-9db2-7848c6f5ce0b",
+        "locator": "section 4.10",
+        "quote": "The contradiction in 4.8 follows. The conclusions therefore follow unchanged."
+      },
+      {
+        "source": "8d2ff930-e6e4-4ff2-8205-679f09787733",
+        "locator": null,
+        "quote": null
+      }
+    ]
+  }
+}

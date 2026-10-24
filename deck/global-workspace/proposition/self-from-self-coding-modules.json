@@ -1,0 +1,45 @@
+{
+  "record": "proposition",
+  "id": "31adfd89-c6d9-4dbe-8527-104109db48f8",
+  "kind": "empirical",
+  "epistemic_status": "hypothesized",
+  "title": "The sense of self is self-coding modules in the workspace",
+  "statements": [
+    {
+      "id": "af594e92-2dbf-48d1-bd42-b5863184b556",
+      "text": "The subjective sense of self arises when the modular circuits that represent body, identity, autobiography and theory of mind are brought together in the conscious workspace, where other processes can inspect them.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-23"
+    }
+  ],
+  "current_statement": "af594e92-2dbf-48d1-bd42-b5863184b556",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "9b21a09b-835f-4256-afbf-19425df2597e",
+        "locator": "section 6.3, p. 31",
+        "quote": "We envisage that the bringing together of these modules into the conscious workspace may suffice to account for the subjective sense of self."
+      }
+    ]
+  }
+}

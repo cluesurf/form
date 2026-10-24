@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "c652a002-2e7c-4d73-b07b-2472b4775d7d",
+  "title": "E-CSM-0058: the horizon and flatness problems read on the husk of the true {3,4,3,4} mesh, pass: the husk (the cusp...",
+  "purpose": "Experiment E-CSM-0058 in the cosmology arena: the horizon and flatness problems read on the husk of the true {3,4,3,4} mesh, pass: the husk (the cusp layer of one ideal vertex) is flat by geometry, not tuning (833 cells to skin 8, degree 6, the cubic lattice's shells, one horosphere to 1.7e-12, inside a bulk growing 1, 24, 456, 8376, 153192); the seed's reach on it is exactly the cubic l1 ball (1, 7, 25, 63, 129 docks by beats 0 to 4), and at every beat every pair of reached husk docks shares a causal past, while a start everywhere at once leaves every pair farther apart than twice the elapsed time with none, so a single-seed start has no horizon problem and no flatness problem; the thermal uniformity of the reached docks and the expansion history are not read.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L2 (L2: known physics reproduced on a stated model).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/cosmology/husk-horizon-flatness.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-CSM-0058",
+        "quote": null
+      }
+    ]
+  }
+}

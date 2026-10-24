@@ -1,0 +1,28 @@
+{
+  "record": "link",
+  "id": "8896ff5d-92bb-4b14-8c35-2283bd84afab",
+  "from": "f0cd13af-3b4d-461d-abd4-3299d559e110",
+  "to": "04d4f968-e9c7-4122-bf33-a28003618459",
+  "relation": "requires",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "968b7917-52aa-4a69-bb5d-6351cfa6ae34",
+        "locator": "abstract",
+        "quote": "in that it does not fall prey to either the 'hard problem of consciousness' or the 'subject combination problem', respectively."
+      }
+    ]
+  }
+}

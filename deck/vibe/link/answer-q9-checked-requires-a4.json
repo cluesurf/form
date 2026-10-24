@@ -1,0 +1,43 @@
+{
+  "record": "link",
+  "id": "f15e9143-5d22-44bd-9770-b0594717c1da",
+  "from": "fc5fb824-c9e1-474c-be88-e3936cd88611",
+  "to": "f0af02b4-357b-4420-a419-1fe5fb7b82d5",
+  "relation": "requires",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "7d868dbb-9fb1-455b-8d46-8cf0dce8e24e",
+        "locator": "The reading, and what is falsifiable",
+        "quote": "Each deep claim carries a control where the answer should be no, and the failures are kept."
+      },
+      {
+        "source": "7d868dbb-9fb1-455b-8d46-8cf0dce8e24e",
+        "locator": "The reading, and what is falsifiable",
+        "quote": "the experiments test structure, never feeling."
+      },
+      {
+        "source": "7d868dbb-9fb1-455b-8d46-8cf0dce8e24e",
+        "locator": "Where it stands",
+        "quote": "a numerical match counted only through a pre-registered null"
+      },
+      {
+        "source": "7d868dbb-9fb1-455b-8d46-8cf0dce8e24e",
+        "locator": "The experiments",
+        "quote": "Everything is finite and deterministic, so every result reproduces exactly."
+      }
+    ]
+  }
+}

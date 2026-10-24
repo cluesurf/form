@@ -1,0 +1,28 @@
+{
+  "record": "link",
+  "id": "9f9ab750-5e2a-4373-a6be-8bc43ca51d1b",
+  "from": "2902a574-6cfc-422f-b457-2932657c1fe1",
+  "to": "0a4a5239-082a-440f-8035-78e5625314d5",
+  "relation": "requires",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "c3908a50-f858-42d6-8c6b-be810bd5a82f",
+        "locator": "full text",
+        "quote": "On this view, loss of consciousness occurs whenever our generative models lose their “thickness” and become as “thin” as a viruses."
+      }
+    ]
+  }
+}

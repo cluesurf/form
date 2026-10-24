@@ -1,0 +1,45 @@
+{
+  "record": "proposition",
+  "id": "c2bf9c45-44b8-4548-a6e1-ff23c7fc9fa4",
+  "kind": "empirical",
+  "epistemic_status": "hypothesized",
+  "title": "Global workspace dynamics: a dynamic cortical connectome",
+  "statements": [
+    {
+      "id": "e7ee4b19-2e66-4b54-9f54-3bcb91d491ee",
+      "text": "In its current brain-based form, Global Workspace Dynamics, workspace functions are carried by the dynamic connectome of the cortex and thalamus rather than by fixed anatomical regions.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-23"
+    }
+  ],
+  "current_statement": "e7ee4b19-2e66-4b54-9f54-3bcb91d491ee",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "c50dac1f-5b63-4762-b48b-a46d0e5eee46",
+        "locator": "Global Workspace Dynamics",
+        "quote": "Static, gross anatomical divisions are superseded by the dynamical connectome of cortex."
+      }
+    ]
+  }
+}

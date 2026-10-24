@@ -1,0 +1,45 @@
+{
+  "record": "proposition",
+  "id": "7da1c485-3b41-4586-8571-d2beaace8450",
+  "kind": "empirical",
+  "epistemic_status": "hypothesized",
+  "title": "Decoherence is confined to membranes",
+  "statements": [
+    {
+      "id": "5af07421-8ee6-40af-b5f3-056d2e833e6a",
+      "text": "Decoherence in cells is limited to the immediate surroundings of the cell membrane and of internal compartment boundaries, while bulk cellular biochemistry processes quantum information.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-23"
+    }
+  ],
+  "current_statement": "5af07421-8ee6-40af-b5f3-056d2e833e6a",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "1a235d11-40a1-4047-a972-4206bd4007b2",
+        "locator": "abstract",
+        "quote": "We suggest that decoherence is limited to the immediate surroundings of the cell membrane and of intercompartmental boundaries within the cell, and that bulk cellular biochemistry implements quantum information processing."
+      }
+    ]
+  }
+}

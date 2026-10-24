@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "50aed7b1-b8b4-463b-9a65-91c02b9893f7",
+  "title": "E-FND-0110: the swap dial mapped and the design laws extracted: wall content grows by one fixed quantum per...",
+  "purpose": "Experiment E-FND-0110 in the foundations arena: the swap dial mapped and the design laws extracted: wall content grows by one fixed quantum per swap-couple whose wire plane contains the wall axis and by nothing otherwise (the linear cost law), one swap gives an exactly period-twelve wall breath at BOTH sizes with the quantum exactly six times side cubed (whole cross-sectional sheets, so the wall fraction falls as one over side, a surface structure) while all-swaps runs away, boundedness claims need phase-locked sampling because the wall oscillates with a long period (a one-phase series fakes constancy, the sampling-phase rule), and the overlap-balanced pairing satisfies isotropy and detectability at once (wires cover every plane, every couple shares an axis), making the overlap-balanced partial knit at one swap the measured maximal candidate, with the traveller, polarization, selectivity and the exact commensurate null all verified under it.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L2 (L2: known physics reproduced on a stated model).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/foundations/swap-dial-design-law.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-FND-0110",
+        "quote": null
+      }
+    ]
+  }
+}

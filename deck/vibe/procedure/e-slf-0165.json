@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "ae76452b-63c0-4dc4-85bf-1006ca38b000",
+  "title": "E-SLF-0165: spatial co-presence integrates strongly while a same-size feed-forward temporal chain does not, the...",
+  "purpose": "Experiment E-SLF-0165 in the selves arena: spatial co-presence integrates strongly while a same-size feed-forward temporal chain does not, the McFadden spatial-binding discriminator.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L2 (L2: known physics reproduced on a stated model).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/selves/spatial-vs-temporal-binding.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-SLF-0165",
+        "quote": null
+      }
+    ]
+  }
+}

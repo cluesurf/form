@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "97736d29-9833-4b3e-a422-5e5141eecfa3",
+  "title": "E-FRC-0074: Snell's law from the clock-rate step: the eikonal ray crossing a planar slow-clock boundary satisfies n1...",
+  "purpose": "Experiment E-FRC-0074 in the gauge arena: Snell's law from the clock-rate step: the eikonal ray crossing a planar slow-clock boundary satisfies n1 sin theta1 = n2 sin theta2 at four incidence angles to under a hundredth of a degree with nothing about angles typed in, the dense-to-rare ray turns back at the bisected critical angle matching asin(n1/n2) to under a tenth of a degree (total internal reflection), and the flat-index control does not bend, so a clock-rate domain refracts exactly like a dielectric and lensing is the same mechanism at a different profile.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L2 (L2: known physics reproduced on a stated model).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/gauge/snell-refraction.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-FRC-0074",
+        "quote": null
+      }
+    ]
+  }
+}

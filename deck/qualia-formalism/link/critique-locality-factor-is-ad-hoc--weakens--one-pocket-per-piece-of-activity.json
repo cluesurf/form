@@ -1,0 +1,28 @@
+{
+  "record": "link",
+  "id": "94ccd2c1-d77c-4462-8e30-0cefeb8d7cf6",
+  "from": "744a37e2-cad8-4447-811b-26f5c3a29387",
+  "to": "7ca391e3-8480-4ac2-9191-1c683cedaba9",
+  "relation": "weakens",
+  "strength": null,
+  "rationale": "The locality requirement that keeps pockets non-arbitrary is added without independent motivation.",
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "1ee77be8-63f4-4644-b8de-1d60a7ecb8d5",
+        "locator": "review, 8 Feb 2024",
+        "quote": "The addition of a locality factor seems rather ad-hoc."
+      }
+    ]
+  }
+}

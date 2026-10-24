@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "15c31155-fabc-44f7-8810-f8ef460b677a",
+  "title": "E-FND-0088: all 24 reversible charge-conserving per-line pair rules, enumerated: exactly 8 have a period-3 vacuum...",
+  "purpose": "Experiment E-FND-0088 in the foundations arena: all 24 reversible charge-conserving per-line pair rules, enumerated: exactly 8 have a period-3 vacuum and every one of those cancels in the $Z_3$ amplitude, the 16 with period-2 or fixed vacuums never cancel, every clocked rule admits a tone birth only in its one empty beat, and the committed charge rule is one of the eight, so the cancelling vacuum clock is equivalent to the charge-zero class being a 3-cycle and the one-phase birth restriction is universal in the rule class.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L1 (L1: known mathematics, correctly confirmed).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/foundations/all-conserving-pair-rules.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-FND-0088",
+        "quote": null
+      }
+    ]
+  }
+}

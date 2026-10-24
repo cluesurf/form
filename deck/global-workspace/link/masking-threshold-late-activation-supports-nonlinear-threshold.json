@@ -1,0 +1,28 @@
+{
+  "record": "link",
+  "id": "20347620-751e-4cae-9d71-5187b4747296",
+  "from": "33f9dda1-377a-425f-8548-414d3cdde937",
+  "to": "a0d66804-1288-4b05-bc48-5c13293bfff0",
+  "relation": "supports",
+  "strength": 0.7,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "7cbec398-e647-4c01-a5e8-fd64e6239d54",
+        "locator": "abstract",
+        "quote": "pointing to a late (>270 ms) and highly distributed fronto-parieto-temporal activation as a correlate of conscious reportability."
+      }
+    ]
+  }
+}

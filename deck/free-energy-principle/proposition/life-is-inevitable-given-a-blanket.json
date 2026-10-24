@@ -1,0 +1,45 @@
+{
+  "record": "proposition",
+  "id": "c9586f0d-05ee-4412-a351-3283a6d4e9c0",
+  "kind": "mathematical",
+  "epistemic_status": "hypothesized",
+  "title": "Life emerges in any ergodic system with a Markov blanket",
+  "statements": [
+    {
+      "id": "87ee47b0-533f-44fe-be9f-6041ca2d4d82",
+      "text": "Biological self-organization is an inevitable and emergent property of any ergodic random dynamical system that possesses a Markov blanket. The argument is offered as a heuristic proof backed by simulation.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-23"
+    }
+  ],
+  "current_statement": "87ee47b0-533f-44fe-be9f-6041ca2d4d82",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "a528c72c-55f5-422d-b6c3-61a840e5810d",
+        "locator": "abstract",
+        "quote": "suggesting that life—or biological self-organization—is an inevitable and emergent property of any (ergodic) random dynamical system that possesses a Markov blanket."
+      }
+    ]
+  }
+}

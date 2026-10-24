@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "a64676b7-9d34-423a-b05b-19c1a31ceb2e",
+  "title": "E-SPN-0028: a propagating spinor on curved {5,3,4}, streaming coupled to the spin connection returns minus itself...",
+  "purpose": "Experiment E-SPN-0028 in the spin arena: a propagating spinor on curved {5,3,4}, streaming coupled to the spin connection returns minus itself per 2pi loop.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L2 (L2: known physics reproduced on a stated model).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/spin/propagating-spinor-534.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-SPN-0028",
+        "quote": null
+      }
+    ]
+  }
+}

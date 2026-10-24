@@ -1,0 +1,33 @@
+{
+  "record": "link",
+  "id": "294fa34a-5b21-44ee-8480-36a4b1184373",
+  "from": "9ec9ede8-d286-4d59-a04e-4c111f9e7484",
+  "to": "2f9ce65f-d9e0-4afd-b7b3-da8fe68aa8c9",
+  "relation": "weakens",
+  "strength": null,
+  "rationale": "If the macro gain comes from the choice of intervention distribution, the EI difference measures that choice and not the system.",
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "e3443755-ce71-4132-994c-b609c7b95871",
+        "locator": "post body",
+        "quote": "we insist on the uniform distribution over microstates when calculating microscopic EI, and we also insist on the uniform distribution over macrostates when calculating macroscopic EI"
+      },
+      {
+        "source": "c40bbd28-a2c5-4730-84c0-90f7ae0644de",
+        "locator": "section 1",
+        "quote": "such as requiring a uniform distribution of interventions, which some have criticized"
+      }
+    ]
+  }
+}

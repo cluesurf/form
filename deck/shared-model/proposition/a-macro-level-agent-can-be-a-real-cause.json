@@ -1,0 +1,77 @@
+{
+  "record": "proposition",
+  "id": "4786b211-007c-4965-9d95-d17215b3c3fb",
+  "kind": "philosophical",
+  "epistemic_status": "hypothesized",
+  "title": "A macro-level agent can be a real cause",
+  "statements": [
+    {
+      "id": "0f03b57f-6295-4968-bef7-77e1b5244035",
+      "text": "A whole agent, at the macro level where its causal power peaks, can be a real cause of what it does, not only its micro parts.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-23"
+    }
+  ],
+  "current_statement": "0f03b57f-6295-4968-bef7-77e1b5244035",
+  "status": "active",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": {
+    "value": "open",
+    "reason": null,
+    "basis": [],
+    "proposal": null
+  },
+  "origin": [
+    {
+      "repository": "iit",
+      "id": "2e144732-b07f-460b-bb51-e13cb7297aa2"
+    },
+    {
+      "repository": "causal-emergence",
+      "id": "7198b103-1dc9-4fec-854c-0eecde0f01c7"
+    },
+    {
+      "repository": "causal-emergence",
+      "id": "bf6c0474-189a-4cc1-aa70-48b5da6fa1fb"
+    }
+  ],
+  "provenance": {
+    "written_by": "github:lancejpollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "a23386f3-5232-4f14-a41d-25cd39198744",
+        "locator": "abstract (arXiv record)",
+        "quote": "what exists absolutely, in physical terms, are intrinsic entities, and only what exists can cause."
+      },
+      {
+        "source": "6bb4f0a7-1584-464c-ad61-663d2ad0353b",
+        "locator": "Discussion (full text)",
+        "quote": "Because only what truly exists (intrinsically, for itself) can truly cause, we, rather than our neurons, cause our willed actions and are responsible for their consequences [18]."
+      },
+      {
+        "source": "945a3545-99a5-4e02-b623-25bc05935a5b",
+        "locator": "Discussion, Causal Exclusion and Its Implications",
+        "quote": "From the perspective of a system, emergence (CE > 0) implies causal “self-definition” at the optimal macro level"
+      },
+      {
+        "source": "945a3545-99a5-4e02-b623-25bc05935a5b",
+        "locator": "Discussion, Causal Exclusion and Its Implications",
+        "quote": "to avoid double-counting causes, optimal macro causation must exclude micro causation"
+      }
+    ]
+  }
+}

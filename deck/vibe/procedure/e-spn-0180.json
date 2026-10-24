@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "64de3e23-78dc-41d1-b63f-2b7e19811983",
+  "title": "E-SPN-0180: a curved SU(2)+ link field keeps the register member light, where E-SPN-0161 made its member heavy: in...",
+  "purpose": "Experiment E-SPN-0180 in the spin arena: a curved SU(2)+ link field keeps the register member light, where E-SPN-0161 made its member heavy: in any static field the register cycle obeys cos E = cos M - 2 cos^2(M/2) mu with mu the spectrum of the covariant Clifford hop $C = Q_D V Q_S$, a naive Dirac operator, so the member rests at a ZERO of C, the center of a chiral spectrum, which disorder fills, where 0161's member rests at the TOP of its averaged hop, an edge disorder pulls in; 2T acting on half + by right multiplication, exactly gauge covariant, keeps one branch, the flats, K blocked and chirality.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L2 (L2: known physics reproduced on a stated model).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/spin/register-curved-links.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-SPN-0180",
+        "quote": null
+      }
+    ]
+  }
+}

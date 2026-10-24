@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "8df794e8-4e84-42f1-88b7-8d0f89410613",
+  "title": "E-NVG-0008: the bulk depth a route reaches equals the logarithm of the boundary separation (penetration = floor...",
+  "purpose": "Experiment E-NVG-0008 in the addressing arena: the bulk depth a route reaches equals the logarithm of the boundary separation (penetration = floor log_b s + 1, route = twice that, incrementing by one per branching factor), the holographic depth-is-RG-scale law, while a flat chain routes linearly.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L2 (L2: known physics reproduced on a stated model).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/addressing/routing-depth-is-scale.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-NVG-0008",
+        "quote": null
+      }
+    ]
+  }
+}

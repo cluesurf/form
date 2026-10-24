@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "4ac492b0-25d6-4ddb-8915-cc4362400c31",
+  "title": "E-FRC-0273: a gauge invariant channel joins the two register halves and keeps every invariant of the register rule...",
+  "purpose": "Experiment E-FRC-0273 in the gauge arena: a gauge invariant channel joins the two register halves and keeps every invariant of the register rule, but no gauge invariant <psi_-^dag psi_+> forms, fail as derived: the center of each dock 2T acts as -J, so every gauge invariant operator holds an even number of half + fields and psi_-^dag psi_+ cannot be dressed into an invariant by any 2T field; the least join moves two half + members in an isospin singlet to two half - members, and by characters the only one that keeps rotations, SU(2)- and spin one half runs from the S sector to the D sector, unique; built as a sector contact counted from the sea, it keeps one branch, the frozen flats, K blocked, the member light and N+ mod 2, converts exactly 3/28 of a contact pair a cycle at rho against 0 for the same phase with nothing joined, and leaves <psi_-^dag psi_+> exactly 0.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L2 (L2: known physics reproduced on a stated model).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/gauge/register-join.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-FRC-0273",
+        "quote": null
+      }
+    ]
+  }
+}

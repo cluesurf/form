@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "b4d69ad4-cf65-4809-bd50-200697672341",
+  "title": "E-HLG-0006: free-fermion entanglement follows a 1D conformal log law and a 2D area law",
+  "purpose": "Experiment E-HLG-0006 in the holography arena: free-fermion entanglement follows a 1D conformal log law and a 2D area law.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L2 (L2: known physics reproduced on a stated model).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/holography/entanglement.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-HLG-0006",
+        "quote": null
+      }
+    ]
+  }
+}

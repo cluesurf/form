@@ -1,0 +1,28 @@
+{
+  "record": "link",
+  "id": "f7d0ef9b-24e4-4268-a83f-284213d80083",
+  "from": "c6b51a7f-d18c-451a-9cff-9bea918e3331",
+  "to": "da201905-dbc5-4699-93cf-1275ede34fef",
+  "relation": "requires",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b187d010-15da-4476-b407-2a7922c1dcf1",
+        "locator": "section 3.1",
+        "quote": "We suggest that this holographic quantum theory of measurement obviates the traditional measurement problem"
+      }
+    ]
+  }
+}

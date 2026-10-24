@@ -1,0 +1,28 @@
+{
+  "record": "link",
+  "id": "7cab57d1-cdd2-4996-a8c3-dba1e5484145",
+  "from": "475a6a33-e966-45a7-aac6-0d28b290ba8d",
+  "to": "71b4b41d-876a-468e-bd04-70b823272d0f",
+  "relation": "weakens",
+  "strength": null,
+  "rationale": "Prefrontal signatures of access may track report and decision rather than consciousness.",
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "29f40e6a-5d69-4dfe-8a4c-acdc32dd15d6",
+        "locator": "abstract",
+        "quote": "these findings might be confounded by postperceptual cognitive processes"
+      }
+    ]
+  }
+}

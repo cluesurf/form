@@ -1,0 +1,50 @@
+{
+  "record": "proposition",
+  "id": "5367c62f-6d84-4057-80bc-48f784b057d9",
+  "kind": "empirical",
+  "epistemic_status": "inferred",
+  "title": "Conscious access is serial and limited",
+  "statements": [
+    {
+      "id": "cc305c38-4537-4292-bfb3-37005b41f352",
+      "text": "Conscious access is serial and of very limited capacity, one content at a time at a central bottleneck, while nonconscious processing is parallel.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-23"
+    }
+  ],
+  "current_statement": "cc305c38-4537-4292-bfb3-37005b41f352",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "2374e38b-3bde-4e20-9ad5-8edab14a34c3",
+        "locator": "section III",
+        "quote": "processing is parallel and nonconscious and that conscious access is serial and occurs at the level of a later central bottleneck"
+      },
+      {
+        "source": "c50dac1f-5b63-4762-b48b-a46d0e5eee46",
+        "locator": "Introduction",
+        "quote": "a serial, integrated and very limited stream of consciousness"
+      }
+    ]
+  }
+}

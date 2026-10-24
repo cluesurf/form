@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "eb33621e-da0a-4915-93d7-0bbedab18a25",
+  "title": "E-FRC-0297: explores whether Sigma(648) colour with the Wilson triangle action on R*'s own D4 lattice has a...",
+  "purpose": "Experiment E-FRC-0297 in the gauge arena: explores whether Sigma(648) colour with the Wilson triangle action on R*'s own D4 lattice has a first-order freezing point beta_f, the coupling decision 012 candidate (b) lets the rule fix, and stores the ensemble on both branches for the colour gates.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L2 (L2: known physics reproduced on a stated model).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/gauge/color-ensemble.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-FRC-0297",
+        "quote": null
+      }
+    ]
+  }
+}

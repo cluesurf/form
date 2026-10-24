@@ -1,0 +1,50 @@
+{
+  "record": "proposition",
+  "id": "f7312b09-e646-43b5-9919-3fa8c25b38d9",
+  "kind": "empirical",
+  "epistemic_status": "hypothesized",
+  "title": "PC-07: light's speed depends on direction first at relative order $k^4$, in one fixed angular shape, never at $k^2$",
+  "statements": [
+    {
+      "id": "8baa8416-e8a8-4efb-80cb-cef032029757",
+      "text": "Light's speed depends on direction first at relative order $k^4$, in one fixed angular shape, never at $k^2$.",
+      "language": "en",
+      "scope": "a prediction candidate, not a frozen prediction row",
+      "conditions": "Where it stands: derived and measured on the husk light: $W(F_4)$ has invariant degrees 2, 6, 8 and 12, so its one quartic invariant is $|k|^4$, and the exact linear symbol is anisotropic at relative order $k^4$ (slope 4.000 in every branch) where a cubic lattice is at $k^2$, with the leading anisotropy in the shape $q - 3r$ (E-MTH-0008). E-MTH-0014 corrects an earlier isotropy figure. The coefficient is in lattice units, and the lattice scale is not fixed. What it needs: the physical length of a dock, so the $k^4$ coefficient becomes a number, set against gamma-ray-burst timing and direction bounds on Lorentz violation.",
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-22"
+    }
+  ],
+  "current_statement": "8baa8416-e8a8-4efb-80cb-cef032029757",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": "26e658e9-c1b3-4d23-92fa-0c1885b4170d",
+  "prediction": null,
+  "standing": {
+    "value": "open",
+    "reason": "a candidate: it has not passed the prediction gate",
+    "basis": [],
+    "proposal": null
+  },
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "research/prediction.ts PC-07",
+        "quote": null
+      }
+    ]
+  }
+}

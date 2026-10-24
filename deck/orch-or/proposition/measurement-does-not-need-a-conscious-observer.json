@@ -1,0 +1,45 @@
+{
+  "record": "proposition",
+  "id": "6d027b50-41c0-4a26-807e-4ea1f0635f82",
+  "kind": "philosophical",
+  "epistemic_status": "inferred",
+  "title": "Measurement does not need a conscious observer",
+  "statements": [
+    {
+      "id": "6c0dce53-f33c-45db-8f9a-2109a782e6aa",
+      "text": "Orch OR reverses the early idea that measurement happens only through a conscious observer: reduction is physical, and consciousness is built from it.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-23"
+    }
+  ],
+  "current_statement": "6c0dce53-f33c-45db-8f9a-2109a782e6aa",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "c0602528-f093-4705-abc3-e13d7657a680",
+        "locator": "section 4.1",
+        "quote": "the proposed connection between consciousness and quantum measurement is almost opposite, in the Orch OR scheme, to the kind of idea that had frequently been put forward in the early days of quantum mechanics"
+      }
+    ]
+  }
+}

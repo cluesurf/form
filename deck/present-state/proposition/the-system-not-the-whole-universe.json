@@ -1,0 +1,50 @@
+{
+  "record": "proposition",
+  "id": "e7e688bc-f1a8-4783-ba23-7d5f10bb6e32",
+  "kind": "philosophical",
+  "epistemic_status": "inferred",
+  "title": "The system, not the whole universe, is what is conscious",
+  "statements": [
+    {
+      "id": "12351d9e-9bb0-45dd-8fdf-b724c3b84c6c",
+      "text": "The whole universe may still hold records, such as waste heat, that tell two histories apart. But process theories assign consciousness to a bounded system from its own properties, and the system's local state, a projection of the global state, discards those records. So the leftover traces outside the system do not rescue the attribution.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "12351d9e-9bb0-45dd-8fdf-b724c3b84c6c",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "ac2774e1-a04c-4c89-9db2-7848c6f5ce0b",
+        "locator": "section 2",
+        "quote": "the projection discards from the present state the very degrees of freedom that distinguish one history from another"
+      },
+      {
+        "source": "ac2774e1-a04c-4c89-9db2-7848c6f5ce0b",
+        "locator": "section 4.1",
+        "quote": "The distinction between global state (Γ𝑡) and local state (𝑋𝑡 ) is essential."
+      }
+    ]
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "579e7022-c341-4284-917b-eac7f2ea13ab",
+  "title": "E-QTM-0149: contextuality on the knots is the fear: the only noncontextual value assignments of two roles'...",
+  "purpose": "Experiment E-QTM-0149 in the quantum arena: contextuality on the knots is the fear: the only noncontextual value assignments of two roles' displacements are the 81 phase points, so a knot is contextual for the model's own readings exactly when it holds a fear, and the 40-context inequality $S_u$ >= 4 reads $S_u = 36$ W(u) + 4 exactly on every knot the knit makes, violated only at fears, never with the fear beat off from stabilizer starts, and changing only at meetings; one role is never contextual for its own readings.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L2 (L2: known physics reproduced on a stated model).",
+  "status": "completed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/quantum/stabilizer-contextuality-is-fear.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "research/result.ts R-FRC-0003",
+        "quote": null
+      }
+    ]
+  }
+}

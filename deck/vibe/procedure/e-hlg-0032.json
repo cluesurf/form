@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "96b12265-b670-43a6-acc9-d7b1235c3645",
+  "title": "E-HLG-0032: holography is a derived theorem of the mesh, not a postulate: the {3,4,3,4} boundary shell holds a...",
+  "purpose": "Experiment E-HLG-0032 in the holography arena: holography is a derived theorem of the mesh, not a postulate: the {3,4,3,4} boundary shell holds a constant 94.5 percent of the ball, exactly (lambda-1)/lambda set by the warp factor (non-amenable, holographic), while the flat lattice boundary fraction tends to zero (amenable, not holographic), so vibe holographic cusp is real and derived and TD refusal to postulate it is honored, the contradiction dissolved.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L2 (L2: known physics reproduced on a stated model).",
+  "status": "completed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/holography/holography-is-derived.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "research/result.ts R-HLG-0001",
+        "quote": null
+      }
+    ]
+  }
+}

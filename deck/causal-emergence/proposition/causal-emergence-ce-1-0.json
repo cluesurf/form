@@ -1,0 +1,45 @@
+{
+  "record": "proposition",
+  "id": "2f9ce65f-d9e0-4afd-b7b3-da8fe68aa8c9",
+  "kind": "definitional",
+  "epistemic_status": "designed",
+  "title": "Causal emergence (CE 1.0)",
+  "statements": [
+    {
+      "id": "37cb26a0-0db1-4143-9180-eaaa25f507e5",
+      "text": "Causal emergence is the gain in effective information when a system is described at a macro level instead of its micro level. It occurs when the EI of the best macro model exceeds the EI of the micro model.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-23"
+    }
+  ],
+  "current_statement": "37cb26a0-0db1-4143-9180-eaaa25f507e5",
+  "status": "active",
+  "voice": "framework",
+  "defines": "causal emergence",
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "8360d34d-30cb-44f8-89c9-41768fb53f0d",
+        "locator": "abstract",
+        "quote": "genuine causal emergence—the gain in EI when moving from a micro to a macro level of analysis"
+      }
+    ]
+  }
+}

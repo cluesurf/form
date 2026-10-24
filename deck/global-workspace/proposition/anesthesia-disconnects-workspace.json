@@ -1,0 +1,45 @@
+{
+  "record": "proposition",
+  "id": "4c81366c-f493-463f-ab11-4ae25204ccd2",
+  "kind": "empirical",
+  "epistemic_status": "inferred",
+  "title": "Anesthesia acts by disconnecting the workspace",
+  "statements": [
+    {
+      "id": "db91d8e8-8ea7-4726-ad76-76bb3a6ccdb0",
+      "text": "General anesthetics of all major classes cause unconsciousness by functionally disconnecting prefrontal from posterior parietal cortex, preventing ignition.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-23"
+    }
+  ],
+  "current_statement": "db91d8e8-8ea7-4726-ad76-76bb3a6ccdb0",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "48959277-86d2-4076-9942-58a24f753040",
+        "locator": "General Anesthesia",
+        "quote": "functionally disconnected by all major classes of general anesthetics"
+      }
+    ]
+  }
+}

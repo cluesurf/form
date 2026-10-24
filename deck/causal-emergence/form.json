@@ -1,0 +1,80 @@
+{
+  "format": "form.surf/1",
+  "id": "4f202f44-299f-4857-aa39-f1cd31bb2960",
+  "name": "causal-emergence",
+  "title": "Causal emergence",
+  "role": "model",
+  "summary": "Erik Hoel's theory, with Tononi, Albantakis, Klein, Comolatti, Varley and Levin, that macroscales of a system can have stronger causal relationships than its microscale, because coarse-graining can reduce noise and degeneracy. Measured first by effective information, then (CE 2.0) by sufficiency and necessity across a path of scales.",
+  "framework": {
+    "originators": [
+      "Erik Hoel",
+      "Larissa Albantakis",
+      "Giulio Tononi"
+    ],
+    "aliases": [
+      "causal emergence 1.0",
+      "causal emergence 2.0",
+      "CE 2.0",
+      "effective information"
+    ],
+    "homepage": "https://www.erikphoel.com"
+  },
+  "community_written": true,
+  "curators": [
+    {
+      "name": "Lance Pollard",
+      "github": "lancejpollard"
+    }
+  ],
+  "license": "CC-BY-4.0",
+  "atlas": {
+    "scope": [
+      "2f9ce65f-d9e0-4afd-b7b3-da8fe68aa8c9",
+      "c04c8e7c-e80f-4e0a-953b-f5376e5dc677",
+      "382c41cb-fe6a-42d6-8d62-ef15cb4d19b4",
+      "6ca2447a-908a-4ca6-8939-935f23e816fc",
+      "993cdb15-0d4a-4ef9-b783-fc98fb4bc556",
+      "c7b5e11b-c47d-4b79-ab57-24a09a3cd6c4",
+      "ccc3e37f-31fa-4f48-9973-b2d027b23c6f"
+    ],
+    "limits": [
+      "9f20f404-7c19-4cc9-afec-cf1c14017209",
+      "674080d5-24e6-472a-ab35-7e057d79b181",
+      "1d18ff99-91ea-4b12-8dea-28469dbb50c8",
+      "b3c81d3f-a7f7-4482-ae08-49ed5bfe0be7"
+    ],
+    "flaws": [
+      "9ec9ede8-d286-4d59-a04e-4c111f9e7484",
+      "08d27757-88ff-4189-b848-46dd8cdb96cb",
+      "77906a82-4c3b-4f42-80d9-e28540ecd1c2",
+      "608545dd-a6d5-43bf-b0ee-4d26ef0c0a3e",
+      "324b16e9-976d-4efd-b30c-e20f65999bf7"
+    ],
+    "dead_ends": [
+      "3f683f21-847d-4f0a-b994-efaa8cfb6264"
+    ]
+  },
+  "draws_from": [],
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "8360d34d-30cb-44f8-89c9-41768fb53f0d",
+        "locator": "abstract",
+        "quote": null
+      },
+      {
+        "source": "c40bbd28-a2c5-4730-84c0-90f7ae0644de",
+        "locator": "abstract",
+        "quote": null
+      }
+    ]
+  }
+}

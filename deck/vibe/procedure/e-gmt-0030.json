@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "54fa1eb5-e11b-4bdb-b042-824ded2b6c9a",
+  "title": "E-GMT-0030: the continuum scale structure is a renormalization fixed point along the bulk depth: the shell-growth...",
+  "purpose": "Experiment E-GMT-0030 in the geometry arena: the continuum scale structure is a renormalization fixed point along the bulk depth: the shell-growth ratio RG-flows (24, 19, 18.37, 18.29) and contracts geometrically to a non-trivial fixed point 18.278 (the scale-invariant anomalous dimension), while the flat lattice flows to the trivial fixed point one, so coarse-graining along the bulk depth pins the continuum scale limit, its exact algebraic value degree at least four and numerically 18.2781.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L2 (L2: known physics reproduced on a stated model).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/geometry/renormalization-fixed-point.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-GMT-0030",
+        "quote": null
+      }
+    ]
+  }
+}

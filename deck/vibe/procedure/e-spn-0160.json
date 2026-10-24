@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "3c202963-b5a1-45dc-b058-e1efd422b27a",
+  "title": "E-SPN-0160: a Clifford register closes the flat-band channels for a light member (m < pi/6), partial (the light...",
+  "purpose": "Experiment E-SPN-0160 in the spin arena: a Clifford register closes the flat-band channels for a light member (m < pi/6), partial (the light speed halves; the hold is not run):a two-component spinor register cannot be exact over Z[w][1/42] (Q8 would make the algebra (-3,-1), ramified at 3, into (-1,-1)), so a member carries the even Clifford algebra Cl+(4) = H + H (8 components, W(F4) acting by minors); the partner D = Phi^dag Phi / 4 of the odd forms is covariant and exactly Clifford, and a two-beat schedule (the mixer u on the singlet, then conj u on D) makes span(S, T D) eight copies of one exact 2 x 2 walk, cos E = cos M - 2 cos^2(M/2) $g^2$, with the other 176 bands flat at eps pi at every K; gamma = 0, R = tan m/m and isotropy are kept exactly, the census has no crossing and B* = 2M (the Dirac value) at m 0.190126, closing exactly at the derived boundary m = pi/6 where D + F touches the threshold, the whole-vector partner reopens it, and by the capture theorem (a partner with no transverse state takes exactly 1/4 of the stream) the light speed is c/4, not c/2.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L2 (L2: known physics reproduced on a stated model).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/spin/spinor-register.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-SPN-0160",
+        "quote": null
+      }
+    ]
+  }
+}

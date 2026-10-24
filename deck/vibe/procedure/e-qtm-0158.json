@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "3685313e-c34c-42e4-ac1d-9300f6153a42",
+  "title": "E-QTM-0158: the path integral on the working rule, pass: the rule's state IS the sum over take histories, enumerated...",
+  "purpose": "Experiment E-QTM-0158 in the quantum arena: the path integral on the working rule, pass: the rule's state IS the sum over take histories, enumerated one history at a time without the rule's beat, term for term (one love to beat 12, two loves with their meetings and link point moves to beat 8, 0 mismatches on 17 of 17 starts; the sum with the meeting left out fails on every start whose run has an unequal-point meeting, 15 of 17); the sum is coherent from beat 3 (L1 0.5625 against the incoherent sum); its long-time limit is stationary phase, E[v^2] 0.134112 to 0.133975 at T = 64 to 1024 against (1/2 pi) int W'^2 = 1 - sqrt 3/2, peaked at the caustic |v| = 0.494 below the top speed 1/2, where the dephased sum diffuses (T E[v^2] 0.334); one dimension, along a line.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L2 (L2: known physics reproduced on a stated model).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/quantum/history-sum.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-QTM-0158",
+        "quote": null
+      }
+    ]
+  }
+}

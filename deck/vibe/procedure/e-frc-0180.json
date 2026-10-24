@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "c90e419c-b7ba-4c4e-aa71-1c019482daab",
+  "title": "E-FRC-0180: light measured against its exact answer: each hot-field estimator of E-FRC-0165 and E-FRC-0169...",
+  "purpose": "Experiment E-FRC-0180 in the gauge arena: light measured against its exact answer: each hot-field estimator of E-FRC-0165 and E-FRC-0169 calibrated on the linear rule, a coherent plane wave through the cold vacuum at the derived symbol's frequency with 2 polarizations on the husk and a dead zone below which nothing moves, the exactly linear integer force shown unstable at every integer slope, and the love-fear field's residual traced to the rule rather than to its lattice reference.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L2 (L2: known physics reproduced on a stated model).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/gauge/photon-calibration.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-FRC-0180",
+        "quote": null
+      }
+    ]
+  }
+}

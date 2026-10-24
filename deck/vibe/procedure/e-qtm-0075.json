@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "b7d5ac60-ccaa-428e-8201-73f4f3d0aba6",
+  "title": "E-QTM-0075: Aubry-Andre localization from the coined Dirac walk model: a deterministic quasiperiodic (golden-ratio)...",
+  "purpose": "Experiment E-QTM-0075 in the quantum arena: Aubry-Andre localization from the coined Dirac walk model: a deterministic quasiperiodic (golden-ratio) mass modulation traps the walk so its spread saturates with time (spread at 500 steps within about 1.8 times the spread at 100 steps and tens of times smaller than the delocalized case), while a zero modulation spreads ballistically (spread grows about five-fold, linearly in time).",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L2 (L2: known physics reproduced on a stated model).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/quantum/aubry-andre-localization.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-QTM-0075",
+        "quote": null
+      }
+    ]
+  }
+}

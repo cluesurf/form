@@ -1,0 +1,50 @@
+{
+  "record": "proposition",
+  "id": "d71a0b12-5ff1-4b05-87fd-78fe0b594fe6",
+  "kind": "empirical",
+  "epistemic_status": "simulated",
+  "title": "E-FRC-0135: does matter shape the field: under the rule where links feel the matter, static source lines pull their...",
+  "statements": [
+    {
+      "id": "8ada3cb7-aaea-4246-8f51-636f09ef20ea",
+      "text": "Does matter shape the field: under the rule where links feel the matter, static source lines pull their links into carrying their color (0.81 of the time on the melted field, 0.48 on the cold one, against 1/9 by chance) at an energy cost in the triangles round them, and a meson's link follows it as it moves, but the effect stays on the links the matter touches: no string between separated lines, the pair bound by contact only, the role-point string read only on the cold field, and the gate that the cold field's links respond more than half the time fails.",
+      "language": "en",
+      "scope": "experiment E-FRC-0135, arena gauge, depth L2 (L2: known physics reproduced on a stated model)",
+      "conditions": "substrates: 3434. In a paper: false",
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-22"
+    }
+  ],
+  "current_statement": "8ada3cb7-aaea-4246-8f51-636f09ef20ea",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": {
+    "value": "open",
+    "reason": "holds in the vibe claim graph",
+    "basis": [],
+    "proposal": null
+  },
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "research/result.ts R-FRC-0006",
+        "quote": null
+      }
+    ]
+  }
+}

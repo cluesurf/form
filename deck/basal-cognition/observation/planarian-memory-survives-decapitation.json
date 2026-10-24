@@ -1,0 +1,39 @@
+{
+  "record": "observation",
+  "id": "a5c6441b-b877-4149-900c-6d7d0dfe4cf9",
+  "kind": "experimental_result",
+  "epistemic_status": "observed",
+  "description": "With an automated training paradigm, planarians showed environmental familiarization lasting at least 14 days, and trained worms whose heads were removed showed memory savings after regenerating a new head.",
+  "method": "experiment",
+  "status": "reported",
+  "source": "abe5ca61-fa6b-441a-a779-1d861c7e93b1",
+  "procedure": null,
+  "variable": null,
+  "value": null,
+  "unit": null,
+  "uncertainty": null,
+  "sample_size": null,
+  "replication_count": null,
+  "quality": null,
+  "limitations": "Savings effect after regeneration. Earlier manual planarian memory studies were confounded, which this paradigm was built to avoid.",
+  "conflicts_of_interest": null,
+  "observed_at": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "abe5ca61-fa6b-441a-a779-1d861c7e93b1",
+        "locator": "abstract",
+        "quote": "trained, decapitated planarians exhibit evidence of memory retrieval in a savings paradigm after regenerating a new head"
+      }
+    ]
+  }
+}

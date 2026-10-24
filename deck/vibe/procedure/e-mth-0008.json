@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "2f8fc9f9-6df5-4e9a-8032-817cb364d8b1",
+  "title": "E-MTH-0008: the husk isotropy law: W(F4) has invariant degrees 2, 6, 8, 12 (Molien, exact), so its one quartic...",
+  "purpose": "Experiment E-MTH-0008 in the method arena: the husk isotropy law: W(F4) has invariant degrees 2, 6, 8, 12 (Molien, exact), so its one quartic invariant is $|k|^4$, and the husk light of the exact linear symbol is anisotropic at relative order $k^4$ (slope 4.000 in every branch) where the cubic torus is at $k^2$ (slope 2.000), with the leading anisotropy of the photon trace in the shape q - 3 r that the restricted F4 sextic fixes (ratio -3.000).",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L2 (L2: known physics reproduced on a stated model).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/method/husk-isotropy-law.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-MTH-0008",
+        "quote": null
+      }
+    ]
+  }
+}

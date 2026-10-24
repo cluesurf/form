@@ -1,0 +1,45 @@
+{
+  "record": "proposition",
+  "id": "8884db73-7889-4d76-8e8e-4b03c7c704e6",
+  "kind": "empirical",
+  "epistemic_status": "hypothesized",
+  "title": "Sensory cortex is hierarchical with asymmetric reciprocal connections",
+  "statements": [
+    {
+      "id": "fd2fbe3e-8a37-458b-86f1-a9e77442ede8",
+      "text": "The theory predicts that sensory cortex is arranged hierarchically, that connections are reciprocal, and that forward connections are driving while backward connections are both driving and modulatory.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-23"
+    }
+  ],
+  "current_statement": "fd2fbe3e-8a37-458b-86f1-a9e77442ede8",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "a6941f16-a2de-4b67-b9c7-f026073173fc",
+        "locator": "abstract",
+        "quote": "the theoretical treatment predicts that sensory cortex should be arranged hierarchically, that connections should be reciprocal and that forward and backward connections should show a functional asymmetry"
+      }
+    ]
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "record": "proposition",
+  "id": "83c77b03-cefb-4011-b263-b4d8d483f753",
+  "kind": "philosophical",
+  "epistemic_status": "inferred",
+  "title": "Answer: failed interoceptive manipulations would count against it",
+  "statements": [
+    {
+      "id": "290cf022-34a7-4b62-ae04-bad939e37263",
+      "text": "The free energy principle itself is not testable, but the process models are. Manipulating interoceptive precision without changing presence, or interoceptive signals without changing body ownership, would count against the account.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-23"
+    }
+  ],
+  "current_statement": "290cf022-34a7-4b62-ae04-bad939e37263",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "c9c5835d-7979-407c-992f-7ec84ebe5472",
+        "locator": "accepted manuscript p. 3",
+        "quote": "the FEP is a framework, not a testable hypothesis in and of itself"
+      },
+      {
+        "source": "329d2407-0571-4ab3-ab6b-0b58f67fd54d",
+        "locator": "Summary",
+        "quote": "artificially induced imprecision in interoceptive predictions should lead to diminished conscious presence and abnormal AIC activity"
+      }
+    ]
+  }
+}

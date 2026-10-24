@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "4d154679-0c96-4526-acd9-06d5c0a3d900",
+  "title": "E-GRV-0117: the clock horizon's radius slope is the stack's massive modes plus a box that costs more than the...",
+  "purpose": "Experiment E-GRV-0117 in the gravity arena: the clock horizon's radius slope is the stack's massive modes plus a box that costs more than the reference's distance, fail on S1 and S2b: on the linear statics of 1, 2, 3 layer stacks under one clock and the lapse (l = 1.10 .. 7.10) and husks of side 32 .. 96, the measured slope sits 0.068 .. 0.094 under the derived [$g(r_h)$ - rho g(r_ref)] / [1 + sum beta_n $(1 + x_n) e^{-x_n}$] at every point (gate 0.03), by an amount nearly the same for every stack at a fixed box (0.068 .. 0.074 on side 96), so the modes' part holds and the box's is about 1.5 rho, not rho; the slope rises as l falls (0.744 .. 0.790 on side 96) but at the largest $r_h / l$ reached (19.2) it is 0.621 (gate 0.95), and the formula puts 0.95 on husks of side 149 .. 767; the field criterion stays at 0.495; finer layering lowers the lightest mass.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L1 (L1: known mathematics, correctly confirmed).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/gravity/horizon-slope-modes.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-GRV-0117",
+        "quote": null
+      }
+    ]
+  }
+}

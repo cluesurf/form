@@ -1,0 +1,54 @@
+{
+  "record": "proposition",
+  "id": "dd27be01-9601-44eb-919f-dcba22222b35",
+  "kind": "empirical",
+  "epistemic_status": "inferred",
+  "title": "Psychedelics reduce brain activity while enriching experience",
+  "statements": [
+    {
+      "id": "ebd21962-d2a7-49e7-a623-c36e977cc08c",
+      "text": "Neuroimaging shows that psychedelics largely decrease brain activity while intensifying experience, the opposite of what the view that the brain generates experience would expect.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-23"
+    }
+  ],
+  "current_statement": "ebd21962-d2a7-49e7-a623-c36e977cc08c",
+  "status": "active",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": {
+    "value": "open",
+    "reason": null,
+    "basis": [],
+    "proposal": null
+  },
+  "origin": [
+    {
+      "repository": "analytic-idealism",
+      "id": "5f0d9fd2-e3eb-48a6-a52c-a94c3feba0b5"
+    }
+  ],
+  "provenance": {
+    "written_by": "github:lancejpollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "fa46cecf-8d41-4f36-a1cc-dc734812efc2",
+        "locator": "section on psychoactive substances",
+        "quote": "Yet, recent neuroimaging studies have shown that psychedelics do largely the opposite (Carhart-Harris et al. 2012; Palhano-Fontes et al. 2015; Carhart-Harris et al. 2016)."
+      }
+    ]
+  }
+}

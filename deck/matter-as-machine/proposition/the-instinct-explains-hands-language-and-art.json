@@ -1,0 +1,50 @@
+{
+  "record": "proposition",
+  "id": "d8e5a563-b099-4fb0-8f3b-82be528245b6",
+  "kind": "empirical",
+  "epistemic_status": "hypothesized",
+  "title": "The instinct explains cleverness, hands, language and art",
+  "statements": [
+    {
+      "id": "0eacf2a5-06e4-4c13-9fb7-99b81c825271",
+      "text": "An ape with a need to change things gains from thinking ahead, since a foolish change can kill, so the instinct drives selection toward cleverness. It also favors skilled hands, makes strength less needed once weapons exist, rewards language for sharing ideas, and gives art as a way to keep changing things through long winters.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "0eacf2a5-06e4-4c13-9fb7-99b81c825271",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "983ce19a-a7da-4801-9728-4eca49c1b243",
+        "locator": "How this could shape humans",
+        "quote": "So this instinct causes a self-selection mechanism, where apes either become extinct or become cleverer and cleverer."
+      },
+      {
+        "source": "983ce19a-a7da-4801-9728-4eca49c1b243",
+        "locator": "How this could shape humans",
+        "quote": "You start drawing - you get art."
+      }
+    ]
+  }
+}

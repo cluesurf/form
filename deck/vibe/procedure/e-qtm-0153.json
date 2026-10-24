@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "0574865f-39f2-431d-a4eb-2fa8f1b2991c",
+  "title": "E-QTM-0153: GHZ, Mermin and monogamy on three knots: reading one role of each of three love-fear pairs on the GHZ...",
+  "purpose": "Experiment E-QTM-0153 in the quantum arena: GHZ, Mermin and monogamy on three knots: reading one role of each of three love-fear pairs on the GHZ coset leaves a GHZ knot on the other three for all 27 outcomes, but its weights are non-negative, so with the model's own readings every one of its 26 perfect correlations is met by 27 local assignments and GHZ's argument does not go through for qutrits, while two-outcome observables outside those readings give Mermin 10/3 > 2; CKW holds on the GHZ knot and fails on the antisymmetric stand-in (Ou 2007), and is read with certified bounds on the knit's own triples.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L2 (L2: known physics reproduced on a stated model).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/quantum/ghz-mermin-and-monogamy.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-QTM-0153",
+        "quote": null
+      }
+    ]
+  }
+}

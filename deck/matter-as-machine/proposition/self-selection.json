@@ -1,0 +1,45 @@
+{
+  "record": "proposition",
+  "id": "852e59ca-1713-49c5-ac34-6492b1a70411",
+  "kind": "definitional",
+  "epistemic_status": "designed",
+  "title": "Self-selection: selection driven by an animal's own evolved behavior",
+  "statements": [
+    {
+      "id": "c5d826b6-daeb-46e1-b783-14c98e35b2d2",
+      "text": "Self-selection is selection driven by an animal's own evolved behavior. It is indirect when a drive exposes some traits to selection, and direct when a mechanism such as a suppressed drive changes which individuals reproduce.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "c5d826b6-daeb-46e1-b783-14c98e35b2d2",
+  "status": "active",
+  "voice": "framework",
+  "defines": "self-selection",
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "c01a576c-01a5-46ae-8a4e-5fed54687b5c",
+        "locator": "opening",
+        "quote": "Self-selection can be indirect and direct"
+      }
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "record": "link",
+  "id": "94554126-6f12-44fa-855c-74d77f3cc1ef",
+  "from": "a03a9368-3c9d-41c7-8704-ffddbe3e507b",
+  "to": "fd49fbed-3dd6-4004-9897-03c3bee6cf1c",
+  "relation": "assumes",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "8360d34d-30cb-44f8-89c9-41768fb53f0d",
+        "locator": "Conclusions",
+        "quote": "complex, multilevel systems such as brains are likely to “work” at a macro level because, in biological systems, selectional processes must deal with unpredictability and lead to degeneracy"
+      }
+    ]
+  }
+}

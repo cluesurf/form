@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "c24a53c7-1774-4841-9903-57c7c369537b",
+  "title": "E-MTR-0022: what holds the moving electron's two components as slots of their own: the two bulk links over one husk...",
+  "purpose": "Experiment E-MTR-0022 in the spin arena: what holds the moving electron's two components as slots of their own: the two bulk links over one husk link, picked by the chirality -i Gamma_x Gamma_y Gamma_z, tested with stand-ins for covariance, Pauli's exclusion on massive schedules, and against the husk reading.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L2 (L2: known physics reproduced on a stated model).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/matter/doublet-bulk-slots.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-MTR-0022",
+        "quote": null
+      }
+    ]
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "record": "proposition",
+  "id": "95be966b-e3b1-4db1-9321-888888af9049",
+  "kind": "empirical",
+  "epistemic_status": "hypothesized",
+  "title": "The attended working-memory item is conscious",
+  "statements": [
+    {
+      "id": "44c3e80e-1693-45d1-b822-ca08b059977e",
+      "text": "The attended item in working memory is conscious and uses the global workspace for broadcasting, while unattended items can be held without it.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-23"
+    }
+  ],
+  "current_statement": "44c3e80e-1693-45d1-b822-ca08b059977e",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "48959277-86d2-4076-9942-58a24f753040",
+        "locator": "Conscious Representations and Working Memory",
+        "quote": "We propose that the attended working memory item is conscious and uses the GNW for broadcasting"
+      }
+    ]
+  }
+}

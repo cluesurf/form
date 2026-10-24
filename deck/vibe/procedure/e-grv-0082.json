@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "ed019697-229a-44d0-8780-dcb496dd1c67",
+  "title": "E-GRV-0082: the working vacuum's response to a placed lump has no front, it fills the box at once, fail on F2 (F2...",
+  "purpose": "Experiment E-GRV-0082 in the gravity arena: the working vacuum's response to a placed lump has no front, it fills the box at once, fail on F2 (F2 was predicted to hold): a content-3 lump in E-SPN-0095's vacuum with G (side 12, Born path, 17 starts that agree bit for bit) is felt first at r = 1 .. 9 on beats 1, 2, 3, 4, 7, 8, 11, 12, 17, inside the cone (a leading edge at 0.625 mesh steps a beat), but the occupied count reaches half its plateau at beats 24, 24, 24, 24, 28 on r = 2 .. 6, nearly together: the linear fit gives 1.25 of the cone (6.2 times the radion's c(16)) with rms 1.13 beats, worse than the diffusive fit's 0.99; the difference stays under 1.4 a column for 20 beats while the scramble grows, then every shell jumps to 20 to 30 a column between beats 23 and 30 and the plateau is flat in r, so what spreads is a chaotic scramble of the whole box, not a field with a speed; without G it stops at r = 6 with under 0.02 a column beyond r = 1.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L2 (L2: known physics reproduced on a stated model).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/gravity/vacuum-response-front.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-GRV-0082",
+        "quote": null
+      }
+    ]
+  }
+}

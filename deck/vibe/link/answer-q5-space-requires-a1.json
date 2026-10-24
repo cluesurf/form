@@ -1,0 +1,43 @@
+{
+  "record": "link",
+  "id": "c929b6ee-a873-44a0-be95-2c85e84e0e25",
+  "from": "cc0f4baa-4fb9-4a9a-be6d-0560194b97ed",
+  "to": "3e791c75-5131-48c7-b552-2a4bb9feff6c",
+  "relation": "requires",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "7d868dbb-9fb1-455b-8d46-8cf0dce8e24e",
+        "locator": "The model, term by term: husk",
+        "quote": "the 3d surface on which physics is read"
+      },
+      {
+        "source": "7d868dbb-9fb1-455b-8d46-8cf0dce8e24e",
+        "locator": "The reading, and what is falsifiable",
+        "quote": "whose flat 3d cusp is the space we live in"
+      },
+      {
+        "source": "7d868dbb-9fb1-455b-8d46-8cf0dce8e24e",
+        "locator": "The model, term by term: mesh",
+        "quote": "In the experiments it is a flat periodic D4 box of side 8, 16 or 24, a disclosed stand-in"
+      },
+      {
+        "source": "7d868dbb-9fb1-455b-8d46-8cf0dce8e24e",
+        "locator": "The model, term by term: take",
+        "quote": "each beat a slot takes its neighbor's value along its direction"
+      }
+    ]
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "c79346fc-1c6c-47b6-98c5-6f1ba5f8f930",
+  "title": "E-FRC-0278: the links and every one-role image of the fear beat generate exactly Sigma(648) in SU(3), not a dense...",
+  "purpose": "Experiment E-FRC-0278 in the gauge arena: the links and every one-role image of the fear beat generate exactly Sigma(648) in SU(3), not a dense group: the links' 216 grid moves lift to Sigma(648) (648 elements, center Z3, irreducible on $C^3$ and on su(3)), the singlet phase's Clifford-frame slices, the swap phase on the color antitriplet and the clean meetings with a classical partner each close with it at 648, and by the classification of finite subgroups of SU(3) any group holding Sigma(648) is either Sigma(648) or dense; the qutrit T gate passes the 3,240 cap as the dense control.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L1 (L1: known mathematics, correctly confirmed).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/gauge/fear-beat-color-closure.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-FRC-0278",
+        "quote": null
+      }
+    ]
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "5781a984-244c-4357-8ef2-85d243b2df01",
+  "title": "E-SPN-0099: every vibe mixer cascades, at every move rate, and the omega mixer is not critical, pass: on six...",
+  "purpose": "Experiment E-SPN-0099 in the spin arena: every vibe mixer cascades, at every move rate, and the omega mixer is not critical, pass: on six full-key paths (side 16, 'pass', 64 beats) the frame mixer at 7N/64 fires at every rate (the 7/64 and 14/64 the registered key never fired on now move 27,977 times or more) and every rate from 7/64 up scrambles the box on every path, with growth a beat rising 1.276, 1.350, 1.382, 1.419, 1.456, 1.473 from 7/64 to 42/64 (21/64 is 1.382, not 1); no mixer holds a wake of at most 27; G on 'bounce' grows slower (1.264 against 1.419) but on the full key it also scrambles (462,115 or more at beat 64, where the registered key's one path read 35,048); Gamma(G) scrambles on both contacts; lone frames in G's wake grow from 2 to 54,263 or more by beat 47; the old key reproduces the probes (7/64 and 14/64 never fire, G 575,174).",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L2 (L2: known physics reproduced on a stated model).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/spin/mixer-cascade.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-SPN-0099",
+        "quote": null
+      }
+    ]
+  }
+}

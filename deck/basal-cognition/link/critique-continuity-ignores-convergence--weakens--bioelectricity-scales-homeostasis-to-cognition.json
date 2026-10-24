@@ -1,0 +1,28 @@
+{
+  "record": "link",
+  "id": "b2d05c0a-5e5e-41b4-9ddf-c1562bddb613",
+  "from": "32130890-89f9-434b-a24b-a0a3a5ef95ea",
+  "to": "e5977b37-c6b1-4486-aee0-580e0e2ba889",
+  "relation": "weakens",
+  "strength": null,
+  "rationale": "A gradual evolutionary path from cell homeostasis to cognition assumes continuity that similar behaviors alone cannot show.",
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "a2a9b88f-95b0-40d1-87f3-456af2e14117",
+        "locator": "section Thinking phylogenetically: homologies, homoplasies and convergent evolution",
+        "quote": "something that we think might be the by-product of their strong assumption of Darwinian continuity"
+      }
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "record": "link",
+  "id": "29d4af15-1933-4213-95f9-3a88b504789a",
+  "from": "d12e5c4f-79e1-492a-89be-75b2161405d7",
+  "to": "85c5678f-a366-45d1-b84b-b58f2f847abe",
+  "relation": "requires",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "8ed62dfe-4468-4f53-9b70-f009ba2dbe4f",
+        "locator": "p. 566",
+        "quote": "or by performing actions to bring about sensory states in line with predictions (active inference; changing the world to fit the model)"
+      }
+    ]
+  }
+}

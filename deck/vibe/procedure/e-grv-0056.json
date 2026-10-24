@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "bdd83090-bb84-4fd1-b2d3-07f630f486d6",
+  "title": "E-GRV-0056: no entropic pull toward a held knot on the adopted knit, fail on G2, G3 and G5: a husk ball of radius 2...",
+  "purpose": "Experiment E-GRV-0056 in the gravity arena: no entropic pull toward a held knot on the adopted knit, fail on G2, G3 and G5: a husk ball of radius 2 held by a reflecting surface (side 24, gas 8 per dock, 17 starts) leaves the settled slot-entropy profile flat, knot minus none within 3 standard errors of zero on all 8 shells r = 3 to 10 (largest -2.1e-4 +- 1.3e-4 at r = 3), and pushes a test blob AWAY: after 8 beats its displacement toward the knot is -0.68, -0.27, -0.21, -0.11, -0.089 columns at r0 = 4 to 8 (each at least 3.8 standard errors), the same sign under the rule's exact inverse (-0.77 to -0.070; forward minus backward within 3 errors except r0 = 5, 3.1), while the blob with no knot stays put (every r0 within 1.4 errors); the knot first touches the blob at beat 1, 2, 3, 3, 4, a causal arrival; the lump inside is invisible from outside bit for bit at every beat, so no held knot on this rule has a mass the outside can feel; energy, charge, the held knot and the return exact.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L2 (L2: known physics reproduced on a stated model).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/gravity/knot-entropic-drift.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-GRV-0056",
+        "quote": null
+      }
+    ]
+  }
+}

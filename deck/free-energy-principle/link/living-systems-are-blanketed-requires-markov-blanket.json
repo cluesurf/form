@@ -1,0 +1,28 @@
+{
+  "record": "link",
+  "id": "24d41bd1-bf6a-4587-9863-a03689270a9b",
+  "from": "33289d6a-81c8-4116-8de1-5eff214b85dc",
+  "to": "c258c2e8-34b1-4ab0-ba23-eddafddeecad",
+  "relation": "requires",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "7360eddd-7087-4c91-acd5-1cfea947cffb",
+        "locator": "abstract",
+        "quote": "(i) any living system is a Markov blanketed system and (ii) the boundaries of such systems need not be co-extensive with the biophysical boundaries of a living organism."
+      }
+    ]
+  }
+}

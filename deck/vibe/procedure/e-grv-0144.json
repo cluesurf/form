@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "0144733d-0588-488f-8541-3062b579ceed",
+  "title": "E-GRV-0144: normal-ordered energy turns the love sea's hole the right way up, fail (N1, and N2's k): counting...",
+  "purpose": "Experiment E-GRV-0144 in the gravity arena: normal-ordered energy turns the love sea's hole the right way up, fail (N1, and N2's k): counting |occupied - the sea's| per slot and 2 per store, the sea reads 0 (depth exactly 0), a hole reads +1 and its register field equals a love's count on the empty mesh at every dock of 8 x 64 beats, so its depth is +1 times the love's (0 off, source +3.685e-3 where the count gave -3.685e-3; the audit's -0.0015 reproduced exactly and flipped); but the register is kept only in the hole sector: a fear in the sea counts 0 and its unmaking into two holes and a store jumps it by 4 at beat 1 (Gauss off at that dock), because conservation under the pair move needs f(love) + f(fear) - 2 f(hole-slot) = the store's weight; the completion that keeps the store at 2 weighs a fear 4 (the count minus twice the charge, from the sea), and it is conserved with exact Gauss on every start; the free hole's 64-beat depth is 1/r-like but spread, k per unit 0.0047 against E-GRV-0119's 0.0102 (0.46), the dispersal of a free particle, not the sign.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L1 (L1: known mathematics, correctly confirmed).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/gravity/normal-ordered-depth.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-GRV-0144",
+        "quote": null
+      }
+    ]
+  }
+}

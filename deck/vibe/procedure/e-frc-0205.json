@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "c6555c0f-f668-401b-8b3f-30ba8aaa9a74",
+  "title": "E-FRC-0205: light by threshold counting, wave-shaped: each plaquette's carried error fed back through the leapfrog's...",
+  "purpose": "Experiment E-FRC-0205 in the gauge arena: light by threshold counting, wave-shaped: each plaquette's carried error fed back through the leapfrog's own operator with the spatial term paid by a second counter instead of rounded, kappa = 1/16, compact angles mod 8192, so the shadow field is linear light to a carried remainder of $2^{-16}$ with no rounding and no real number in the rule, tested on the light battery.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L2 (L2: known physics reproduced on a stated model).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/gauge/photon-count-wave.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-FRC-0205",
+        "quote": null
+      }
+    ]
+  }
+}

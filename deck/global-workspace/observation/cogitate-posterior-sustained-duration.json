@@ -1,0 +1,39 @@
+{
+  "record": "observation",
+  "id": "86bc9e72-0e9c-4a6c-84f6-51a23fa43f38",
+  "kind": "experimental_result",
+  "epistemic_status": "observed",
+  "description": "Cogitate (2025): 25 of 657 posterior iEEG electrodes showed sustained activity tracking stimulus duration, 12 independent of category and 13 category-specific, passing the preregistered IIT duration criterion. Only 8 of 53 face-selective electrodes were sustained, and orientation was not sustained.",
+  "method": "experiment",
+  "status": "reported",
+  "source": "dbe9b66c-4ffb-4615-9fd2-aa5c75424db8",
+  "procedure": "63b85d16-f128-4efc-8b55-8bca33f01370",
+  "variable": null,
+  "value": null,
+  "unit": null,
+  "uncertainty": null,
+  "sample_size": 256,
+  "replication_count": null,
+  "quality": null,
+  "limitations": "One adversarial study of visual consciousness with suprathreshold faces, objects, letters and false fonts. Tests only the predictions both teams preregistered.",
+  "conflicts_of_interest": null,
+  "observed_at": "2025-04-30",
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "dbe9b66c-4ffb-4615-9fd2-aa5c75424db8",
+        "locator": "Results, maintenance of conscious content",
+        "quote": "In posterior cortex ROIs, 25 electrodes (out of 657) measured sustained activity tracking stimulus duration"
+      }
+    ]
+  }
+}

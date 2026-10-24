@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "8aaa8812-e3b8-4b66-8464-c71aad98f0f9",
+  "title": "E-QTM-0042: near distance the model Bell violation is exactly the Tsirelson value (matching quantum mechanics and...",
+  "purpose": "Experiment E-QTM-0042 in the quantum arena: near distance the model Bell violation is exactly the Tsirelson value (matching quantum mechanics and every laboratory Bell test), and beyond a crossover it declines as a power law in physical distance while quantum mechanics stays flat, a falsifiable cosmological-scale signature.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L2 (L2: known physics reproduced on a stated model).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/quantum/bell-deviation-prediction.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-QTM-0042",
+        "quote": null
+      }
+    ]
+  }
+}

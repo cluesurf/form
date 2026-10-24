@@ -1,0 +1,39 @@
+{
+  "record": "observation",
+  "id": "117175ad-639a-48a7-9022-620f485c516a",
+  "kind": "statistical_result",
+  "epistemic_status": "observed",
+  "description": "A related information-decomposition measure of causal emergence, which needs no coarse-graining, detects emergence in the Game of Life, flocking models, and monkey electrocorticography of motor movements.",
+  "method": "derived",
+  "status": "reported",
+  "source": "4379cf9e-06ad-431d-98bb-a788c79ec880",
+  "procedure": null,
+  "variable": null,
+  "value": null,
+  "unit": null,
+  "uncertainty": null,
+  "sample_size": null,
+  "replication_count": null,
+  "quality": null,
+  "limitations": null,
+  "conflicts_of_interest": null,
+  "observed_at": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "4379cf9e-06ad-431d-98bb-a788c79ec880",
+        "locator": "author summary",
+        "quote": "we are able to confirm emergence in the iconic Conway’s Game of Life, in certain flocking patterns, and in representations of motor movements in the monkey’s brain"
+      }
+    ]
+  }
+}

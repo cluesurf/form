@@ -1,0 +1,45 @@
+{
+  "record": "proposition",
+  "id": "d9a46f47-12c8-4b00-a5c9-07cead9397b5",
+  "kind": "philosophical",
+  "epistemic_status": "hypothesized",
+  "title": "Strong AI is false",
+  "statements": [
+    {
+      "id": "29089542-0d47-46f0-8d0a-db8e3097ca3b",
+      "text": "The view that all mental processes are entirely computational is mistaken, because the mind performs a non-computable function.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-23"
+    }
+  ],
+  "current_statement": "29089542-0d47-46f0-8d0a-db8e3097ca3b",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "c0602528-f093-4705-abc3-e13d7657a680",
+        "locator": "section 4.1",
+        "quote": "Critical of the viewpoint of ‘strong artificial intelligence’ (‘strong AI’), according to which all mental processes are entirely computational"
+      }
+    ]
+  }
+}

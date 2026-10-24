@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "7b80d530-5184-4893-bae2-fd4e60d211e1",
+  "title": "E-QTM-0012: the Born rule is DERIVED from envariance: equal-amplitude entangled outcomes are swap-symmetric...",
+  "purpose": "Experiment E-QTM-0012 in the quantum arena: the Born rule is DERIVED from envariance: equal-amplitude entangled outcomes are swap-symmetric (equiprobable), unequal ones fine-grain to the equal case, giving |amplitude|^2, with a product-state control that has no symmetry.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L1 (L1: known mathematics, correctly confirmed).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/quantum/envariance-born.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-QTM-0012",
+        "quote": null
+      }
+    ]
+  }
+}

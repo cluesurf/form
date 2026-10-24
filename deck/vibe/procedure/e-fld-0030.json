@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "4e6785da-2f47-4341-bad5-49a27e596bb4",
+  "title": "E-FLD-0030: the lattice Boltzmann equation of the scatter weave, its collision linearized about the uniform...",
+  "purpose": "Experiment E-FLD-0030 in the fluids arena: the lattice Boltzmann equation of the scatter weave, its collision linearized about the uniform third-each background the knit relaxes to and averaged over a deterministic ensemble of product draws, predicts the knit transport with no fitted number: shear viscosity 0.474 against the measured 0.469 (1.0 percent), sound speed 0.707 against 0.710, and the dispersive speeds 0.832, 0.775, 0.748, 0.735 against the measured 0.821, 0.776, 0.751, 0.737 at k = 0.52 to 0.26, so the Boltzmann closure is close to exact for this dense gas; the equation also finds two exact slab invariants of the knit (S - P0 across axis 0, S - P0 - P1 - P2 across axis 3, none across 1 and 2), which the integer dynamics keeps.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L2 (L2: known physics reproduced on a stated model).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/fluids/knit-lattice-boltzmann.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-FLD-0030",
+        "quote": null
+      }
+    ]
+  }
+}

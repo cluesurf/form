@@ -1,0 +1,45 @@
+{
+  "record": "proposition",
+  "id": "aeb693ff-5e69-426a-a805-053ab62099da",
+  "kind": "definitional",
+  "epistemic_status": "designed",
+  "title": "Perturbational complexity index (PCI)",
+  "statements": [
+    {
+      "id": "21a616e4-3d24-41ac-8fe6-8102693876e0",
+      "text": "The perturbational complexity index is computed by perturbing the cortex with transcranial magnetic stimulation and compressing the spatiotemporal pattern of the evoked electrical response, so it scores both integration and differentiation.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-23"
+    }
+  ],
+  "current_statement": "21a616e4-3d24-41ac-8fe6-8102693876e0",
+  "status": "active",
+  "voice": "framework",
+  "defines": "perturbational complexity index",
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "c436283a-54a1-4d6f-82d7-f9ab987f993a",
+        "locator": "abstract",
+        "quote": "We introduce and test a theory-driven index of the level of consciousness called the perturbational complexity index (PCI)."
+      }
+    ]
+  }
+}

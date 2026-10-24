@@ -1,0 +1,45 @@
+{
+  "record": "proposition",
+  "id": "c7b5e11b-c47d-4b79-ab57-24a09a3cd6c4",
+  "kind": "philosophical",
+  "epistemic_status": "hypothesized",
+  "title": "Each scale is a slice of a multiscale whole",
+  "statements": [
+    {
+      "id": "9f7de129-fdd4-4059-96fe-091746fe8cf1",
+      "text": "A system is best described by the set of scales that contribute to its causal workings. Any single scale, including the microscale, is like a two-dimensional slice of a three-dimensional object.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-23"
+    }
+  ],
+  "current_statement": "9f7de129-fdd4-4059-96fe-091746fe8cf1",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "c40bbd28-a2c5-4730-84c0-90f7ae0644de",
+        "locator": "section 1",
+        "quote": "Any one scale (even the microscale) is much like taking a 2D slice of a 3D object, and therefore cannot fully capture the causation of the system."
+      }
+    ]
+  }
+}

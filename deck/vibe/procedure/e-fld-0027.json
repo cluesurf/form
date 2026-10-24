@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "7ffa2e19-f2b4-46e6-b677-66116c3a19b1",
+  "title": "E-FLD-0027: no rule that makes a love and a fear from calm keeps an additive energy (the create move changes every...",
+  "purpose": "Experiment E-FLD-0027 in the fluids arena: no rule that makes a love and a fear from calm keeps an additive energy (the create move changes every symmetric count, so the only additive invariants of the scatter weave are charge, P and the line-momentum sum), and without one a longitudinal momentum wave does not ring; removing the create move (the flip table) keeps the tone count exactly, and the wave then rings as sound below streaming, its speed falling from 0.82 at k = 0.52 to 0.74 at k = 0.26 and extrapolating to 0.710 at k = 0, within half a percent of the 1 / sqrt 2 = c / 2 of four-dimensional radiation (against c / sqrt 3 = 0.816), nearly isotropic (8 percent over three directions), at the cost of a vacuum that no longer clocks.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L2 (L2: known physics reproduced on a stated model).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/fluids/scatter-sound.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-FLD-0027",
+        "quote": null
+      }
+    ]
+  }
+}

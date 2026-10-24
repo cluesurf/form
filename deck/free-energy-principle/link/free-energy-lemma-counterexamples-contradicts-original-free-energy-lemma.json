@@ -1,0 +1,28 @@
+{
+  "record": "link",
+  "id": "4772e272-02f0-4ef1-adf5-ecadedf78794",
+  "from": "afbd15fe-4ead-47e4-a8e1-e8646abee979",
+  "to": "23e7eee6-bbb3-4427-845b-eef77947b2b6",
+  "relation": "contradicts",
+  "strength": 0.7,
+  "rationale": "Explicit counterexamples show the lemma fails as originally stated.",
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "c9ef4700-4874-48f3-be4f-31772439b03f",
+        "locator": "abstract",
+        "quote": "We prove by counterexamples that the original free energy lemma, when taken at face value, is wrong."
+      }
+    ]
+  }
+}

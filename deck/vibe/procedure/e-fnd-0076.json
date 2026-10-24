@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "d4ec40c6-c243-4efb-9494-2c8a34457fd2",
+  "title": "E-FND-0076: honest negative: there is no intermediate recoverability horizon, a difference hidden inside a coarse...",
+  "purpose": "Experiment E-FND-0076 in the foundations arena: honest negative: there is no intermediate recoverability horizon, a difference hidden inside a coarse block surfaces in the coarse trajectory within one beat at every scale short of the degenerate whole-system one.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L2 (L2: known physics reproduced on a stated model).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/foundations/recoverability-horizon.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-FND-0076",
+        "quote": null
+      }
+    ]
+  }
+}

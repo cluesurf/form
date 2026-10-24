@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "8d3785e7-21c2-4e80-9703-d9d433919bf2",
+  "title": "E-FND-0061: the Freudenthal-Tits magic square from the division-algebra ladder, with D4 and E8 on one grid and the...",
+  "purpose": "Experiment E-FND-0061 in the foundations arena: the Freudenthal-Tits magic square from the division-algebra ladder, with D4 and E8 on one grid and the octonion corner E8 = 248.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L1 (L1: known mathematics, correctly confirmed).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/foundations/magic-square-from-ladder.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-FND-0061",
+        "quote": null
+      }
+    ]
+  }
+}

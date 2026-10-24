@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "be8b8e5c-0289-45aa-99dc-a03e133fd460",
+  "title": "E-GRV-0135: a membrane horizon whose whole surface is one mixed-radix counter refuses exactly at total capacity and...",
+  "purpose": "Experiment E-GRV-0135 in the gravity arena: a membrane horizon whose whole surface is one mixed-radix counter refuses exactly at total capacity and grows by the headroom criterion as an exact area law, pass (B2 bookkeeping): placed at $r_h$ 3.5 .. 20.5 every start forms exactly when the BigInt witness says the infall's one number fits T_cut base-span digits (largest fitting 0.9999985, smallest refused 1.024), fills to capacity form and 1.25 and 2 times are refused, and the 3.5-dock ball that E-GRV-0131's nearest-dock rule refuses at every horizon forms from $r_h$ 6.5 up (4.2 percent of capacity at 20.5); grown over 15 joins (r 3.5 .. 10.5, T_cut 882 .. 8010) with the old counter kept in the low digits and re-laid on the new cut links, each stage forms iff its own infall fits its new digits, 0 interior registers vary, S = T_cut ln(span) at every stage ($R^2$ 1, exponent 2.014), every run reverses bit for bit through joins, beats and feeds, and the outside equals the unpushed run's on every tick; a noisy exterior stops the growth at r 8.5 (each shell 6.4 .. 8.2 times its area increase), and an infall's cost still depends on its depth (a shallow 2-dock ball costs the volume behind it).",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L2 (L2: known physics reproduced on a stated model).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/gravity/balanced-membrane-growth.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-GRV-0135",
+        "quote": null
+      }
+    ]
+  }
+}

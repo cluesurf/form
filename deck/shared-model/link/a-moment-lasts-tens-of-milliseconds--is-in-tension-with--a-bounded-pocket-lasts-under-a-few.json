@@ -1,0 +1,34 @@
+{
+  "record": "link",
+  "id": "f54a8b11-fbc1-4819-9d6a-1350905dc678",
+  "from": "c4bb7b25-5717-4fd9-99d1-e979e5599f34",
+  "to": "f353da23-143c-4055-8d9d-82c1140f4390",
+  "relation": "is_in_tension_with",
+  "strength": null,
+  "rationale": "The 2023 essay bounds a moment at about a hundred milliseconds, the 2023 paper at a few seconds. Both are QRI sources.",
+  "rule": null,
+  "status": "accepted",
+  "origin": [
+    {
+      "repository": "qualia-formalism",
+      "id": "663cb071-1bf5-4143-ab92-0970196269cc"
+    }
+  ],
+  "provenance": {
+    "written_by": "github:lancejpollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "68674292-2a74-41a6-8d0f-9eb907ff2123",
+        "locator": "main text",
+        "quote": "I highly doubt that it can last longer than a hundred milliseconds"
+      }
+    ]
+  }
+}

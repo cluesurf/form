@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "d0f0f19a-cd69-4106-ab60-be1602d8debd",
+  "title": "E-QTM-0151: no beat copies an unknown signed state: every kernel the knit uses is orthogonal up to its divisor and...",
+  "purpose": "Experiment E-QTM-0151 in the quantum arena: no beat copies an unknown signed state: every kernel the knit uses is orthogonal up to its divisor and every link a permutation, so the overlap of two wholes is kept exactly on every beat of every history, and a copier would square it; none of 23,328 two-meeting words copies two non-orthogonal inputs, while the stream's own copy, SUM, copies the role trit of the 3 basis states and leaves each copy of a Strange role with 0 fears.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L2 (L2: known physics reproduced on a stated model).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/quantum/no-cloning-on-the-knit.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-QTM-0151",
+        "quote": null
+      }
+    ]
+  }
+}

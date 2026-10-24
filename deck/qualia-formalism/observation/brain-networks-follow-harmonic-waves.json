@@ -1,0 +1,39 @@
+{
+  "record": "observation",
+  "id": "7e374156-fd63-451d-9215-c2d648dae420",
+  "kind": "experimental_result",
+  "epistemic_status": "observed",
+  "description": "Functional networks of the human brain are predicted by harmonic patterns of the structural connectome, the connectome-specific harmonic waves the framework uses as its measurement basis.",
+  "method": "instrument",
+  "status": "reported",
+  "source": "35d14330-9379-4aa8-9999-de24d61bd3bc",
+  "procedure": null,
+  "variable": null,
+  "value": null,
+  "unit": null,
+  "uncertainty": null,
+  "sample_size": null,
+  "replication_count": null,
+  "quality": null,
+  "limitations": "Shows that harmonics predict functional networks. It does not test any link between harmonics and valence.",
+  "conflicts_of_interest": null,
+  "observed_at": "2016-01-21",
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "35d14330-9379-4aa8-9999-de24d61bd3bc",
+        "locator": "abstract",
+        "quote": "functional networks of the human brain are predicted by harmonic patterns, ubiquitous throughout nature."
+      }
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "record": "link",
+  "id": "e640876c-dfa9-4402-94a7-10d23bec9fb1",
+  "from": "728e7da7-fe62-45d5-91fc-db0c46ed177f",
+  "to": "c356fa9a-70c6-48d5-9b6d-3407d529b127",
+  "relation": "requires",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "e02f6f58-c39b-42b3-8d19-285710666958",
+        "locator": "Predictions, experiment 1",
+        "quote": "GNW predicts ignitions within PFC following stimulus onset and possibly also during stimulus offset, constituting updates to conscious perception"
+      }
+    ]
+  }
+}

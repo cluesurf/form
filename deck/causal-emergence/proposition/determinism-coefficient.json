@@ -1,0 +1,45 @@
+{
+  "record": "proposition",
+  "id": "c56ba3ff-c54f-4ca3-a733-f6452c63471a",
+  "kind": "definitional",
+  "epistemic_status": "designed",
+  "title": "Determinism coefficient",
+  "statements": [
+    {
+      "id": "ffc0d130-5899-45bc-b250-e358210ee957",
+      "text": "The determinism coefficient measures how reliably a state leads to a single future state: 1 when it leads to one future state with probability 1, and 0 when every future state is equally likely.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-23"
+    }
+  ],
+  "current_statement": "ffc0d130-5899-45bc-b250-e358210ee957",
+  "status": "active",
+  "voice": "framework",
+  "defines": "determinism coefficient",
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "8360d34d-30cb-44f8-89c9-41768fb53f0d",
+        "locator": "Theory, State-Dependent Causal Analysis",
+        "quote": "measures how deterministically (reliably) s0 leads to the future state of the system"
+      }
+    ]
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "record": "proposition",
+  "id": "4ef6d1ab-2b7c-4353-9cdd-0477bdf0c148",
+  "kind": "philosophical",
+  "epistemic_status": "hypothesized",
+  "title": "The self is a deeply hidden cause in a model",
+  "statements": [
+    {
+      "id": "b5191cf3-8fcf-4c12-949c-694a1fa6d111",
+      "text": "The self is the deepest hidden cause in a hierarchical generative model: a hypothesis that explains experience across many timescales and senses.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-23"
+    }
+  ],
+  "current_statement": "b5191cf3-8fcf-4c12-949c-694a1fa6d111",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "c3908a50-f858-42d6-8c6b-be810bd5a82f",
+        "locator": "full text",
+        "quote": "On this view, the “self” is constituted by deeply hidden causes that transcend our forward or generative models of introception"
+      }
+    ]
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "ec2314ce-60ab-450d-9a34-745525fa3123",
+  "title": "E-SPN-0200: explores whether a light register pair under a weak Coulomb pull, one level tracked by its overlap with...",
+  "purpose": "Experiment E-SPN-0200 in the spin arena: explores whether a light register pair under a weak Coulomb pull, one level tracked by its overlap with a fixed reference, brings R down to tan m / m: partial, the Darwin-corrected excess falls 1.545, 0.410, 0.169 over the unambiguous radii $a_B$ 6, 8 and 12 (log-log slope -3.13, so no kill), but R is still 16% above tan m / m at $a_B$ 12.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L2 (L2: known physics reproduced on a stated model).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/spin/register-coulomb-track.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-SPN-0200",
+        "quote": null
+      }
+    ]
+  }
+}

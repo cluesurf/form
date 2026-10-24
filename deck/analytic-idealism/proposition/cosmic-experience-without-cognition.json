@@ -1,0 +1,45 @@
+{
+  "record": "proposition",
+  "id": "806d59f0-4f57-4efe-9bf9-b49969e9dc74",
+  "kind": "philosophical",
+  "epistemic_status": "hypothesized",
+  "title": "Cosmic experience need not be cognition",
+  "statements": [
+    {
+      "id": "c7e54bab-6737-43b2-b9da-c764cb69efe4",
+      "text": "The claim is not that the universe thinks like a human or integrates information like a brain, only that raw experience is associated with the universe as a whole.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-23"
+    }
+  ],
+  "current_statement": "c7e54bab-6737-43b2-b9da-c764cb69efe4",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b6b6c2ee-ad86-4b5b-b1cb-c6f50cd71910",
+        "locator": "section 14, pp. 30-31",
+        "quote": "the hypothesis is not even that the universe has cognition, defined as the capacity to acquire knowledge or understanding."
+      }
+    ]
+  }
+}

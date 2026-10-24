@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "02d73232-cf6d-4a8b-b910-a14f2142fd4c",
+  "title": "E-FND-0148: the depth as the husk heat bath, fail as gated (D4, D5 on the dilute control; one D3 sign moved after...",
+  "purpose": "Experiment E-FND-0148 in the foundations arena: the depth as the husk heat bath, fail as gated (D4, D5 on the dilute control; one D3 sign moved after run 1, disclosed): on the adopted knit (coset-union vacuum, lone bounce, side 12, 17 starts) the vacuum store (31,104 lines off its depth image) and the link start break the depth step, so a depth-uniform fill leaves its sector and both fills reach the husk exclusive-slot Gibbs law (Fano 0.994 to 1.005 of 1 - f, binomial to 0.0036) with the slot and store thermometers apart by 1.095 to 1.105 against (1/2) ln 9 = 1.099 once the 9 role points are counted, beta = 3.898 per unit (T = 0.257); in a control where the depth step is exact the depth-uniform fill stays in its sector at every beat with husk Fano 12 times Fermi-Dirac (L = 12); on the dilute empty-vacuum control the depth-broken fill is not Gibbs either (1.67 to 1.76), so D4 and D5 fail, while on a dense all-line control (reported, added after run 1) it is (0.997 to 1.004) and the coarse floor is 10.6 to 13.2 times higher without the depth; the depth does not make the rise faster (tenfold at beat 4 and 7 either way).",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L2 (L2: known physics reproduced on a stated model).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/foundations/depth-bath-entropy.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-FND-0148",
+        "quote": null
+      }
+    ]
+  }
+}

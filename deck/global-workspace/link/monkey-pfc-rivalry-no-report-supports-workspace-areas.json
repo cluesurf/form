@@ -1,0 +1,28 @@
+{
+  "record": "link",
+  "id": "7a5cbe52-5152-4179-884e-3fd18016b06d",
+  "from": "b398394f-9bf8-48e9-ac26-c6210d47c8da",
+  "to": "1b421e80-cf88-4546-b040-73c2c8e3cffd",
+  "relation": "supports",
+  "strength": 0.4,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "48959277-86d2-4076-9942-58a24f753040",
+        "locator": "p. 779",
+        "quote": "prefrontal neurons encode, in firing patterns, the specific current content of consciousness during binocular rivalry and related paradigms"
+      }
+    ]
+  }
+}

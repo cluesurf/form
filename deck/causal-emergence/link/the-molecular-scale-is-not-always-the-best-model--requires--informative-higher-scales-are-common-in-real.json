@@ -1,0 +1,28 @@
+{
+  "record": "link",
+  "id": "befb3daa-cdc9-4fb7-ad76-c6e79d975d09",
+  "from": "7110befd-f85e-4040-a198-6d9ff07dd9b3",
+  "to": "382c41cb-fe6a-42d6-8d62-ef15cb4d19b4",
+  "relation": "requires",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "6f63aea4-d10a-4463-b181-5f13f525dd17",
+        "locator": "abstract",
+        "quote": "It is generally assumed that the most effective description of these processes is in terms of molecular interactions."
+      }
+    ]
+  }
+}

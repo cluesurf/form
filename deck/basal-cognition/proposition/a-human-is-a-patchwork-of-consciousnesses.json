@@ -1,0 +1,45 @@
+{
+  "record": "proposition",
+  "id": "a0aa019c-6c65-43dd-adf7-880400752012",
+  "kind": "philosophical",
+  "epistemic_status": "hypothesized",
+  "title": "A human is a patchwork of consciousnesses",
+  "statements": [
+    {
+      "id": "17d8b41d-5479-416a-87bc-1ed2c808c4e1",
+      "text": "A human is a patchwork of many diverse consciousnesses, only one of which usually can report its states in words.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-23"
+    }
+  ],
+  "current_statement": "17d8b41d-5479-416a-87bc-1ed2c808c4e1",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "fd7382f9-52a5-4beb-9680-fc341ff15b98",
+        "locator": "section Consciousness",
+        "quote": "an agent, such as a typical modern human, is really a patchwork of many diverse consciousnesses"
+      }
+    ]
+  }
+}

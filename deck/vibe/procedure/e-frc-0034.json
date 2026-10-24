@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "250b5e8e-60f7-491f-8c3f-f55f24db2885",
+  "title": "E-FRC-0034: the hypercharge is traceless over the 16, giving the GUT determinant mass relation",
+  "purpose": "Experiment E-FRC-0034 in the gauge arena: the hypercharge is traceless over the 16, giving the GUT determinant mass relation.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L1 (L1: known mathematics, correctly confirmed).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/gauge/mass-relations.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-FRC-0034",
+        "quote": null
+      }
+    ]
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "0f9d8e8d-5950-412f-8c38-e8172094d7c0",
+  "title": "E-SPN-0102: E-SPN-0093's bound one-line cluster does not stay put in the working vacuum, fail on B1 and B3: placed...",
+  "purpose": "Experiment E-SPN-0102 in the spin arena: E-SPN-0093's bound one-line cluster does not stay put in the working vacuum, fail on B1 and B3: placed on the side-16 axis line and run by the working vacuum's own superposed rule, the vacuum is never touched (exact windows on sides 8 and 12: norm and reversal exact, 0 branches disturbed, 0 leak, the ring form equal to the rule to 2e-16), but the rule itself does not bind the three loves: the 90% radius goes from 1 to 7 of the ring's 8 by beat 12 (about half a dock a beat, not the band's 0.03), the fidelity with the level falls to 0.36 after one beat and 0.03 to 0.07 from beat 16, the share to 0.71, the energy reads 2.76 against 0.33; the stand-in's own packet holds (fidelity 1, share 0.98236, energy 0.33002); dropping its drift cost alone already costs fidelity (0.74), dropping the fermion sign (0.20), and the mesh's links split the points; the unbound control (the bounce's unit) is refused.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L2 (L2: known physics reproduced on a stated model).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/spin/held-cluster-vacuum.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-SPN-0102",
+        "quote": null
+      }
+    ]
+  }
+}

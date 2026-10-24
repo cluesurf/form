@@ -1,0 +1,28 @@
+{
+  "record": "link",
+  "id": "a686419e-dd29-454d-9399-d3d9c612f6f8",
+  "from": "95ecdd93-c3e2-4b8f-82b1-925a1417b2c5",
+  "to": "3ddf4084-fdd1-4b1b-8c51-a272ec5478e3",
+  "relation": "supports",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "fd7382f9-52a5-4beb-9680-fc341ff15b98",
+        "locator": "section Specific Conceptual Components of the TAME Framework, figure on navigating spaces",
+        "quote": "regenerate new heads that are barium-insensitive"
+      }
+    ]
+  }
+}

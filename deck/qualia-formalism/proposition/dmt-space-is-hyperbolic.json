@@ -1,0 +1,45 @@
+{
+  "record": "proposition",
+  "id": "a45d95c5-17cb-470a-9c48-163ccf4492d5",
+  "kind": "empirical",
+  "epistemic_status": "hypothesized",
+  "title": "DMT phenomenal space is hyperbolic",
+  "statements": [
+    {
+      "id": "c8284ea2-e904-4a83-99d9-7088d321745e",
+      "text": "The phenomenal space of DMT experiences has an overall geometry that is hyperbolic or hyperbolic-like, acquiring a mean negative curvature.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-23"
+    }
+  ],
+  "current_statement": "c8284ea2-e904-4a83-99d9-7088d321745e",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "be442aa3-8a4a-44e8-a460-d57745249930",
+        "locator": "main text",
+        "quote": "has an overall geometry that can accurately be described as hyperbolic (or hyperbolic-like)"
+      }
+    ]
+  }
+}

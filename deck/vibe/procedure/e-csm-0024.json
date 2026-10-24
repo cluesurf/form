@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "0e5dda28-4dff-4428-a45c-a052a23e71cb",
+  "title": "E-CSM-0024: the deep past washes out, two different starts converge to the same macroscopic state under the arrow",
+  "purpose": "Experiment E-CSM-0024 in the cosmology arena: the deep past washes out, two different starts converge to the same macroscopic state under the arrow.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L2 (L2: known physics reproduced on a stated model).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/cosmology/genesis-forgetting.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-CSM-0024",
+        "quote": null
+      }
+    ]
+  }
+}

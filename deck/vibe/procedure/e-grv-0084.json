@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "794ef5c5-c59b-4b65-b0c5-cc0db0cdfd45",
+  "title": "E-GRV-0084: a lump lowers the vacuum's knot entanglement with no first law, and the knots' G bends light 0.07 to...",
+  "purpose": "Experiment E-GRV-0084 in the gravity arena: a lump lowers the vacuum's knot entanglement with no first law, and the knots' G bends light 0.07 to 0.33 of Newton's count, not 2, fail on F1 and F2 with the instrument exact: in the exact state of the uncoined no-veto vacuum (side 8, checked term for term against vetoBeat, reversed exactly) a lump of content 1, 2, 3 changes S on cubes about it by -1.1 to -3.1, -7.0 to -15.3 and -6.1 to -12.3 nats (not linear in content) while the count changes by -0.3 to +1.2, so delta E / delta S is negative on 6 of 7 cubes: no entanglement temperature; G = 1 / (4 eta) from E-GRV-0083's knot phase (eta 8.435 per husk plaquette) is 0.0296 husk steps squared, fixing the radion's depth per content at b / a = 11.4 (56.6 with c = c(16)), a light-bending factor 0.066 (0.33) against Newton's 1 and general relativity's 2 (b / a 172, 344); the equilibrium slope gives 0.016 (0.081); and eta grows with the bulk depth, so this G is not a constant of the rule.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L2 (L2: known physics reproduced on a stated model).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/gravity/knot-first-law.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-GRV-0084",
+        "quote": null
+      }
+    ]
+  }
+}

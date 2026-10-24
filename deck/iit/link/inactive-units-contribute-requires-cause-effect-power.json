@@ -1,0 +1,28 @@
+{
+  "record": "link",
+  "id": "57797a26-0f81-4fd6-b51c-32ded367deb3",
+  "from": "9f9fe426-cf4f-48a4-9f1e-08501a923ee1",
+  "to": "583e795b-44e3-4581-8f4a-96c55e60ea0f",
+  "relation": "requires",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "ff525f31-2442-4b42-b21f-827bf3c74628",
+        "locator": "abstract",
+        "quote": "a complex can generate a MICS even if its elements are inactive"
+      }
+    ]
+  }
+}

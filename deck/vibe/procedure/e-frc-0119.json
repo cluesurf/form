@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "d3e4e4d4-92b1-44c8-bfe5-160db7639221",
+  "title": "E-FRC-0119: a role point carried round a loop of links survives exactly as often as the adjoint Wilson loop says...",
+  "purpose": "Experiment E-FRC-0119 in the gauge arena: a role point carried round a loop of links survives exactly as often as the adjoint Wilson loop says, since the points a color element fixes number |Tr U|^2, so the classical role sees the gluon string and not the quark string, whose center phase the vibe carries.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L2 (L2: known physics reproduced on a stated model).",
+  "status": "completed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/gauge/role-survives-a-loop.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "research/result.ts R-FRC-0005",
+        "quote": null
+      }
+    ]
+  }
+}

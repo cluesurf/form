@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "0623dc66-faf3-4268-b12d-cc27c189851d",
+  "title": "E-FRC-0095: the committed turning schedule is exactly symmetric under nothing but the identity among all 1152 x 36 x...",
+  "purpose": "Experiment E-FRC-0095 in the gauge arena: the committed turning schedule is exactly symmetric under nothing but the identity among all 1152 x 36 x 24 combinations of a 24-cell element, a tone relabelling and a beat shift, so it keeps no Z3 center and no S3 Weyl skeleton of SU(3), while pure streaming keeps all of W(F4) and the previous knit keeps a group with order-3 elements.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L2 (L2: known physics reproduced on a stated model).",
+  "status": "completed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/gauge/rule-coin-symmetry.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "research/result.ts R-FRC-0003",
+        "quote": null
+      }
+    ]
+  }
+}

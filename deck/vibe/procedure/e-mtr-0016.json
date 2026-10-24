@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "5bd5f2a6-8789-41d4-a00b-b0b7db9b2a2c",
+  "title": "E-MTR-0016: why the spinor token reads g = 4, a STAND-IN: second-order perturbation theory on its symbol gives g = 2...",
+  "purpose": "Experiment E-MTR-0016 in the spin arena: why the spinor token reads g = 4, a STAND-IN: second-order perturbation theory on its symbol gives g = 2 |X| / sqrt(X^2 - 1), X = cos(delta - phi/2) / sin(phi/2), the Zeeman term fed by the ordering commutator of an x copy and a y copy in coin frames delta apart as well as by the Dirac hop; at the model coin every one-x one-y schedule is g = 4 exactly or a saddle, and the Landau ladders confirm the formula at four coins and schedules.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L2 (L2: known physics reproduced on a stated model).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/matter/token-g-derived.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-MTR-0016",
+        "quote": null
+      }
+    ]
+  }
+}

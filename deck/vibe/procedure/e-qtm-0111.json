@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "02aa91f5-2c91-4fbd-bf41-af7504270680",
+  "title": "E-QTM-0111: no signaling on every Bell experiment of the fear beat: over 144 starts and every beat, no setting of...",
+  "purpose": "Experiment E-QTM-0111 in the quantum arena: no signaling on every Bell experiment of the fear beat: over 144 starts and every beat, no setting of one party, a grid move or a meeting with its own ancilla, moves the other party's counts before the two tokens meet again, while a kernel acting across the gap does; at the model's own settings (grid move, then read the role) the reading states stay at CHSH 2, and later knots pass it only by their fears, up to 62/27 = 2.296 as a signed count.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L2 (L2: known physics reproduced on a stated model).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/quantum/bell-no-signaling-gate.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-QTM-0111",
+        "quote": null
+      }
+    ]
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "7f45f0cf-eb4b-4585-9332-874c29f6e9eb",
+  "title": "E-QTM-0058: the Bell violation is monogamous: the singlet pair at Tsirelson forces the third party to CHSH exactly...",
+  "purpose": "Experiment E-QTM-0058 in the quantum arena: the Bell violation is monogamous: the singlet pair at Tsirelson forces the third party to CHSH exactly zero, the squared sum stays below 8 across a swept family (Toner-Verstraete), and the GHZ control holds classical-strength correlation in both pairs at once.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L1 (L1: known mathematics, correctly confirmed).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/quantum/chsh-monogamy.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-QTM-0058",
+        "quote": null
+      }
+    ]
+  }
+}

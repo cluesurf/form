@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "a82560ae-9c1b-439f-80c6-e267fb289649",
+  "title": "E-SPN-0147: a mass string on the swap-coin rule binds a clean level where the phase string leaked, but R is 1.57...",
+  "purpose": "Experiment E-SPN-0147 in the spin arena: a mass string on the swap-coin rule binds a clean level where the phase string leaked, but R is 1.57, fail (Z1 on its tail clause, Z2): at m0 = pi/6 the mixer angle read from the pair separation, u(V) = $w^2$ rho^min(V, 10) in Z[w][1/42] (2 sigma a link, m 0.524 to 1.459), is half mass and half potential because the mixer acts on z only and pins the partner at pi, so every flipped channel is bounded by pi - 2 m0 and a level in the gap (2.094, 2.556) is closed to all of them at every separation and momentum (the gap exists only for m0 > arctan(1/3)); the level sits at eps 2.265323 (predicted 2.2418) with |lambda2| 1 + 1.3e-11, holds 256 beats at window 1.000000 and fidelity 1 - 1.7e-11 with 1.8e-18 absorbed, but its evanescent tail climbs on V 7 to 9 before the cap, which the tail clause counts as 3 rises; it is isotropic to 7.8e-9 with R 1.568 (predicted 1.034; 31% frozen flat admixture), moves at up to 0.242 c* at K 1.2, the vacuum stays exact at three angles, E-SPN-0146 reproduces bit for bit, and the phase string at the same tension holds nothing (singlet share 0.05); the rule matches the model on 3,456 box starts; next: a piece lifting the flat multiplet, since this closure needs heavy members and strong binding.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L2 (L2: known physics reproduced on a stated model).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/spin/swap-mass-string.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-SPN-0147",
+        "quote": null
+      }
+    ]
+  }
+}

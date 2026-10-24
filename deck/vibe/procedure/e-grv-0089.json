@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "b50b440f-75dc-4d17-b9db-54f21a588d3c",
+  "title": "E-GRV-0089: the husk light through the radion's own depth bends by Newton's count, not general relativity's 2...",
+  "purpose": "Experiment E-GRV-0089 in the gravity arena: the husk light through the radion's own depth bends by Newton's count, not general relativity's 2, partial on L3 (the lump's measured pull, not the light) and fail on L4: through the slab at count coupling b = a the light is delayed 34.474 beats against its eikonal 34.431, and against a slow lump's measured fall in the same field that is 1.19 of Newton's count, next to the clock-only control's 1.23 and far from the equal-time-and-space control's 2.75 (closed values 1.058 and 2.243 on this staircase; with the closed pull the light reads 1.060); the control fails its own 5 percent gate because the lumps fall at only 0.89 and 0.85 of the ray law, but the two controls still differ by a factor 2.24; a point lens was out of reach, since a lump of 28 deepens under one column against a Fresnel scale of 17.9 docks.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L2 (L2: known physics reproduced on a stated model).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/gravity/depth-arena-light.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-GRV-0089",
+        "quote": null
+      }
+    ]
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "e7abb2f5-7343-4cf4-bcbc-a0db8f9b201d",
+  "title": "E-FND-0121: the hbar identification survives its first falsifiable test in refined form: the breather is not a bare...",
+  "purpose": "Experiment E-FND-0121 in the foundations arena: the hbar identification survives its first falsifiable test in refined form: the breather is not a bare energy eigenstate (the Z three clock amplitude reads a period-three phase-class cycle, the wrong meter for a period-six object, recorded as the instrument negative) but its temporal spectrum is exactly the harmonic ladder of the predicted fundamental, power at zero, one half, one, and three halves lattice energy units with exactly zero power at every off-ladder frequency, so the lowest nonzero line sits exactly at the E equals one half the kick-law hbar predicted.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L2 (L2: known physics reproduced on a stated model).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/foundations/breather-energy-ladder.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-FND-0121",
+        "quote": null
+      }
+    ]
+  }
+}

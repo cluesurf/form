@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "19ba3aff-d23b-440d-b7cf-6ba52c5a1ddd",
+  "title": "E-SPN-0090: which coin a line of the doublet-locked knit allows: every symmetry the knit keeps, computed on a line's...",
+  "purpose": "Experiment E-SPN-0090 in the spin arena: which coin a line of the doublet-locked knit allows: every symmetry the knit keeps, computed on a line's slot space (e0, e1, o), acts by permutation except the lattice momentum, so the doublet is reducible (1 + sign) under W(F4)'s line stabilizer, the comoving frame, C and T, and a coin alpha P+ + beta P- mixing e0 and e1 is covariant, integer in Z[w] and T-symmetric; the momentum U(1) alone makes the doublet irreducible and forbids it, so a mass costs exact lattice-momentum conservation and nothing else.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L1 (L1: known mathematics, correctly confirmed).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/spin/covariant-coin-theorem.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-SPN-0090",
+        "quote": null
+      }
+    ]
+  }
+}

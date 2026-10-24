@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "6d8661f1-8fff-4028-bd65-02562e8769b5",
+  "title": "E-MMR-0010: the associative numeric-search primitives (max, min, next-value) work on the bulk at constant pass cost",
+  "purpose": "Experiment E-MMR-0010 in the associative arena: the associative numeric-search primitives (max, min, next-value) work on the bulk at constant pass cost.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L1 (L1: known mathematics, correctly confirmed).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/associative/numeric-search.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-MMR-0010",
+        "quote": null
+      }
+    ]
+  }
+}

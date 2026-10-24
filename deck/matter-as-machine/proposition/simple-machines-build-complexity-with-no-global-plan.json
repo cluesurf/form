@@ -1,0 +1,50 @@
+{
+  "record": "proposition",
+  "id": "a9255222-ae58-4613-9cdb-d45957f5a55d",
+  "kind": "philosophical",
+  "epistemic_status": "hypothesized",
+  "title": "Simple machines build complexity with no global plan",
+  "statements": [
+    {
+      "id": "b162c565-06eb-468e-bdf9-5e09ef4024e1",
+      "text": "The machines that build the world need no global plan and no knowledge of what they build. Following their rules, combining, failing, surviving and combining again is enough for complexity, life and civilization to appear.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "b162c565-06eb-468e-bdf9-5e09ef4024e1",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "e88bfc42-89ab-4c5d-9e67-48eda79cb678",
+        "locator": "opening",
+        "quote": "Those machines do not need a global plan."
+      },
+      {
+        "source": "e88bfc42-89ab-4c5d-9e67-48eda79cb678",
+        "locator": "opening",
+        "quote": "That is enough for complexity to grow."
+      }
+    ]
+  }
+}

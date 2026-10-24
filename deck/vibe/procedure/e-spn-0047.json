@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "49776858-07bf-4a31-9b88-ce80a6d22856",
+  "title": "E-SPN-0047: exclusion in the dynamics is the slot: a slot is one trit, so no start of the cold weave ever puts two...",
+  "purpose": "Experiment E-SPN-0047 in the spin arena: exclusion in the dynamics is the slot: a slot is one trit, so no start of the cold weave ever puts two vibes in one slot and nothing in the knit has to act, and the fear walk extended to two vibes under that rule keeps its norm only when the exchanged history enters with -1 (norm |1 - 3 chi|^2 / 16 at a shared dock, exact on all 91 ring starts for 1 to 4 beats and on generic coins, never on a classical permutation coin, which accepts every phase), so the slot plus a free coin forces Fermi statistics, and the fear beat keeps the antisymmetric role pair antisymmetric.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L2 (L2: known physics reproduced on a stated model).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/spin/exclusion-in-the-dynamics.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-SPN-0047",
+        "quote": null
+      }
+    ]
+  }
+}

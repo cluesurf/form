@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "dda3076b-6d40-4d70-80d4-6867a5d34606",
+  "title": "E-FRC-0244: the linear light's seam is compact U(1): E-FRC-0185's shadow obeys the Villain leapfrog exactly, E~_t -...",
+  "purpose": "Experiment E-FRC-0244 in the gauge arena: the linear light's seam is compact U(1): E-FRC-0185's shadow obeys the Villain leapfrog exactly, E~_t - E~_(t-1) = -kappa $C^T$ (C A~_t - N $n_t$) up to its 1/(2q) rounding, with $n_t$ an integer string field, so every departure from the noncompact leapfrog is a Dirac string moving; but the rule reads the branch on the raw flux, off its own light by the carried integers' offset.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L2 (L2: known physics reproduced on a stated model).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/gauge/photon-seam-law.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-FRC-0244",
+        "quote": null
+      }
+    ]
+  }
+}

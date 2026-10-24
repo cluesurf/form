@@ -1,0 +1,45 @@
+{
+  "record": "proposition",
+  "id": "7198b103-1dc9-4fec-854c-0eecde0f01c7",
+  "kind": "philosophical",
+  "epistemic_status": "hypothesized",
+  "title": "A system defines itself at its optimal macro level",
+  "statements": [
+    {
+      "id": "5d298819-268b-4043-8ef0-66da49abad49",
+      "text": "From the system’s own perspective, causal emergence means its causal self-definition sits at the optimal macro level, where its causal interactions come into focus.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-23"
+    }
+  ],
+  "current_statement": "5d298819-268b-4043-8ef0-66da49abad49",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "8360d34d-30cb-44f8-89c9-41768fb53f0d",
+        "locator": "Discussion, Causal Exclusion and Its Implications",
+        "quote": "From the perspective of a system, emergence (CE > 0) implies causal “self-definition” at the optimal macro level"
+      }
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "record": "link",
+  "id": "4cb2ae8d-7b6b-446a-bdc3-985f299dc64e",
+  "from": "57fe4f60-ad2d-4e53-b3a1-3b53bd89ef1a",
+  "to": "328aab40-b793-4c09-a9f5-a6378f90097c",
+  "relation": "weakens",
+  "strength": null,
+  "rationale": "Assigning prediction and error roles to the anterior insula presupposes the biological implementation the critique finds unclear.",
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "13702d28-7e48-4abb-8a0d-c5b2df8b78b6",
+        "locator": "abstract",
+        "quote": "PP remains only loosely connected both to its computational framework and to its hypothetical biological underpinnings, which makes its fundamentals unclear"
+      }
+    ]
+  }
+}

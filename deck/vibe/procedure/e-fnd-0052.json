@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "477dd613-3861-4789-990b-30e0b9c4840a",
+  "title": "E-FND-0052: vibe keeps TD record-phase (time) and scale-flow (connectivity) distinct: scale is static geometry (the...",
+  "purpose": "Experiment E-FND-0052 in the foundations arena: vibe keeps TD record-phase (time) and scale-flow (connectivity) distinct: scale is static geometry (the ball size, a function of radius alone) and time is dynamics (the knit rewrites the state and the wake grows an edge each beat), two different structures, so emergent time is not circular, answering TD five-dimension exclusion, with the wake frontier the only coupling and it is the arrow.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L2 (L2: known physics reproduced on a stated model).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/foundations/record-phase-scale-distinct.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-FND-0052",
+        "quote": null
+      }
+    ]
+  }
+}

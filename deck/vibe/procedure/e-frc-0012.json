@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "fa8096c1-8182-49da-956f-00233e324a1d",
+  "title": "E-FRC-0012: the W and Z masses, $M_W / M_Z$ = cos(theta_W) near the observed value and the custodial rho = 1 from...",
+  "purpose": "Experiment E-FRC-0012 in the gauge arena: the W and Z masses, $M_W / M_Z$ = cos(theta_W) near the observed value and the custodial rho = 1 from the Higgs doublet, a triplet the control.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L2 (L2: known physics reproduced on a stated model).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/gauge/electroweak-boson-masses.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-FRC-0012",
+        "quote": null
+      }
+    ]
+  }
+}

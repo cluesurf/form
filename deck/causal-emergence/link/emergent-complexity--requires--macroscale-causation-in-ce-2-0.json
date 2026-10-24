@@ -1,0 +1,28 @@
+{
+  "record": "link",
+  "id": "f7d2221b-c3a7-4899-b374-cf18d0263cab",
+  "from": "ccc3e37f-31fa-4f48-9973-b2d027b23c6f",
+  "to": "e5b37246-c587-47b1-976d-ceb8107ca3c8",
+  "relation": "requires",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "c40bbd28-a2c5-4730-84c0-90f7ae0644de",
+        "locator": "section 1",
+        "quote": "the emergent complexity: how widely distributed a system’s causal workings are across its scales, wherein systems that possess many contributing scales are more complex"
+      }
+    ]
+  }
+}

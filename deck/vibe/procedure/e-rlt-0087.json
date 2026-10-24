@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "464d27f5-4505-44dd-82ad-3923393cb65a",
+  "title": "E-RLT-0087: line components and walls on the hub vacuum under the bounce collisions, fail on walls as predicted...",
+  "purpose": "Experiment E-RLT-0087 in the relativity arena: line components and walls on the hub vacuum under the bounce collisions, fail on walls as predicted: keeping the lone wake FORCES 12 vacuum line components (a theorem: every dock with full lines and at most one single keeps its lines under L and B, 0 of 53,248 exhaustive occupations cross, K 48,960; the vacuum never holds a single, 0 of 98,304 dock-beats; one seed touches 0 trits off its line against K's 2,223,551), while matter-matter meetings already reconnect the lines under L (160 of 264 two-seed pairs reach other lines, 1 component), so no rule change is needed there and the one-seed gate cannot see it; walls do not form under L, B or K alike (excitation 39,000 to 42,000 trits on 68 to 79 percent of docks, no period, four anchors), and the gate is unpassable on this vacuum by any vacuum-keeping rule because the ideal wall itself is not whole sheets (23,328 to 31,104 trits).",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L2 (L2: known physics reproduced on a stated model).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/relativity/lines-and-walls.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-RLT-0087",
+        "quote": null
+      }
+    ]
+  }
+}

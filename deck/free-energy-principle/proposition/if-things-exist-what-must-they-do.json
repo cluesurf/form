@@ -1,0 +1,45 @@
+{
+  "record": "proposition",
+  "id": "4fa3bb7b-afdc-4a53-bd29-14eff8f2a27b",
+  "kind": "philosophical",
+  "epistemic_status": "hypothesized",
+  "title": "The principle asks what existing things must do",
+  "statements": [
+    {
+      "id": "6d771385-ad81-465e-b5a4-fe39186536bd",
+      "text": "Most theories in biology ask what things must do in order to exist. The free energy principle inverts this and asks what a thing must do, given that it exists as a thing distinct from its surroundings.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-23"
+    }
+  ],
+  "current_statement": "6d771385-ad81-465e-b5a4-fe39186536bd",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "951a63ba-fbb2-4b78-af38-52646f22dbe0",
+        "locator": "section 1",
+        "quote": "The FEP turns this question on its head and asks: “if things exist, what must they do?”"
+      }
+    ]
+  }
+}

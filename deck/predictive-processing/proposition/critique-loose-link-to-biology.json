@@ -1,0 +1,45 @@
+{
+  "record": "proposition",
+  "id": "57fe4f60-ad2d-4e53-b3a1-3b53bd89ef1a",
+  "kind": "empirical",
+  "epistemic_status": "inferred",
+  "title": "Critique: predictive processing is loosely tied to its biology",
+  "statements": [
+    {
+      "id": "fadc30c5-6778-41fb-8baf-3783a0fd89f7",
+      "text": "Predictive processing remains only loosely connected to its computational framework and to its proposed biological basis, so its foundations are unclear.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-23"
+    }
+  ],
+  "current_statement": "fadc30c5-6778-41fb-8baf-3783a0fd89f7",
+  "status": "active",
+  "voice": "critique",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "13702d28-7e48-4abb-8a0d-c5b2df8b78b6",
+        "locator": "abstract",
+        "quote": "PP remains only loosely connected both to its computational framework and to its hypothetical biological underpinnings, which makes its fundamentals unclear"
+      }
+    ]
+  }
+}

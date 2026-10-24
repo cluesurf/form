@@ -1,0 +1,45 @@
+{
+  "record": "proposition",
+  "id": "74e4c9e5-0753-4ca1-8441-99a3a976d322",
+  "kind": "philosophical",
+  "epistemic_status": "inferred",
+  "title": "Empirical use needs a process theory",
+  "statements": [
+    {
+      "id": "9d37d242-53a3-487a-916c-1b8da8d339c0",
+      "text": "The principle does not by itself say how neurons or synapses implement inference. Applying it empirically requires committing to a particular process theory, such as predictive coding or belief propagation on a given generative model.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-23"
+    }
+  ],
+  "current_statement": "9d37d242-53a3-487a-916c-1b8da8d339c0",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "af609f54-2cd2-4ae6-ae79-caf621fe443a",
+        "locator": "abstract",
+        "quote": "Empirical applications of the free-energy principle are not straightforward because they entail a commitment to a particular process theory, especially at the cellular and synaptic levels."
+      }
+    ]
+  }
+}

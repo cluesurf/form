@@ -1,0 +1,50 @@
+{
+  "record": "proposition",
+  "id": "4d0f27d7-634e-435d-9c65-1ca733202ca7",
+  "kind": "empirical",
+  "epistemic_status": "simulated",
+  "title": "E-SPN-0071: the spin-statistics mismatch is a love on the scalar line: the 2 pi sign of any role cluster is...",
+  "statements": [
+    {
+      "id": "f2a5059a-627e-4ad0-8a85-09faa926af32",
+      "text": "The spin-statistics mismatch is a love on the scalar line: the 2 pi sign of any role cluster is $(-1)^N$, N the doublet count (the model's fermion number), which differs from the vibe count by the line count; with every role locked into its doublet, as a moving token must be, every charge-one cluster is spinorial and its Pauli ground under any role-blind binding is the natural spin one half.",
+      "language": "en",
+      "scope": "experiment E-SPN-0071, arena spin, depth L1 (L1: known mathematics, correctly confirmed)",
+      "conditions": "substrates: any. In a paper: false",
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-22"
+    }
+  ],
+  "current_statement": "f2a5059a-627e-4ad0-8a85-09faa926af32",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": {
+    "value": "open",
+    "reason": "holds in the vibe claim graph",
+    "basis": [],
+    "proposal": null
+  },
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "research/objection.ts",
+        "quote": null
+      }
+    ]
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "38eb4cf6-c0f0-41ff-901b-a23d1e00827e",
+  "title": "E-FRC-0176: the Lorentz force and cyclotron motion on the husk: the fear walk as a charge in a husk plane, its...",
+  "purpose": "Experiment E-FRC-0176 in the gauge arena: the Lorentz force and cyclotron motion on the husk: the fear walk as a charge in a husk plane, its Eisenstein weights turned by the link phase on every crossing, deflects sideways in a uniform field, circles at the cyclotron frequency its own symbol predicts, 2 q B per beat for the palindromic walk, and shows Landau levels spaced by it, while the plain alternate walk sits on a saddle.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L2 (L2: known physics reproduced on a stated model).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/gauge/husk-cyclotron.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-FRC-0176",
+        "quote": null
+      }
+    ]
+  }
+}

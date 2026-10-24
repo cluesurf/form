@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "5275da14-4abc-4f3c-823d-4c88c4f9773a",
+  "title": "E-FRC-0289: 't Hooft anomaly matching for a light three-member electron on the register rule, fail as derived: on...",
+  "purpose": "Experiment E-FRC-0289 in the gauge arena: 't Hooft anomaly matching for a light three-member electron on the register rule, fail as derived: on one chiral face the constituents (per tone an SU(2)+ doublet of colour 3, Q -1/3 and +1/3) cancel every Q coefficient and Witten's parity, so $U(1)_Q$ and $U(1)_Q$ x SU(2)+ are vacuous, and with member number the constituents give $\\operatorname{Tr} N^3 = \\operatorname{Tr} N = 12$ while every colour-singlet composite has N = 3, so its $\\operatorname{Tr} N^3$ is 9 times its Tr N: none of 5,764,801 index assignments over the 8 J = 1/2 composite multiplets matches, no anomaly protects a light composite electron, and blocker 2 becomes a rule change on tone.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L1 (L1: known mathematics, correctly confirmed).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/gauge/anomaly-matching.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-FRC-0289",
+        "quote": null
+      }
+    ]
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "ad3f5172-ef07-462a-ba28-b7ec435e4e68",
+  "title": "E-SLF-0103: a rest slot gives a persistent bound identity that radiates free disturbances (0C), self-repair still...",
+  "purpose": "Experiment E-SLF-0103 in the selves arena: a rest slot gives a persistent bound identity that radiates free disturbances (0C), self-repair still needs attraction.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L2 (L2: known physics reproduced on a stated model).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/selves/rest-slot-identity.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-SLF-0103",
+        "quote": null
+      }
+    ]
+  }
+}

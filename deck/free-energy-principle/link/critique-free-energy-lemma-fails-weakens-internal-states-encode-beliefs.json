@@ -1,0 +1,28 @@
+{
+  "record": "link",
+  "id": "567dbabe-b941-4c73-95ba-d1505c23fe51",
+  "from": "8b5b4738-1b5d-49bf-a476-51c5ed1a140f",
+  "to": "f9bffa23-3e9e-4811-ad6a-06bdd3048a14",
+  "relation": "weakens",
+  "strength": null,
+  "rationale": "The critique argues the Bayesian reading of internal states is not sufficiently justified.",
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "c9ef4700-4874-48f3-be4f-31772439b03f",
+        "locator": "abstract",
+        "quote": "We prove by counterexamples that the original free energy lemma, when taken at face value, is wrong."
+      }
+    ]
+  }
+}

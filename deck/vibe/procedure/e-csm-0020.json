@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "20cf7bd4-c628-4831-8fd6-03e54d2c0523",
+  "title": "E-CSM-0020: the per-beat expansion is the growth-ratio invariant of the symbol, fixed and greater than 1, not a free...",
+  "purpose": "Experiment E-CSM-0020 in the cosmology arena: the per-beat expansion is the growth-ratio invariant of the symbol, fixed and greater than 1, not a free knob.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L2 (L2: known physics reproduced on a stated model).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/cosmology/expansion-rate.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-CSM-0020",
+        "quote": null
+      }
+    ]
+  }
+}

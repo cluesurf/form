@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "049345f7-a6b5-439d-88d9-865c5fe05518",
+  "title": "E-SPN-0146: the smallest string on the swap-coin rule makes a composite that moves isotropically under c* but does...",
+  "purpose": "Experiment E-SPN-0146 in the spin arena: the smallest string on the swap-coin rule makes a composite that moves isotropically under c* but does not hold, partial (I6 4.95e-3 on an impure level; Y1, Y2, Y3 fail): Z3 and the charge register allow three holes on the love sea (two holes are +1 mod 3, a fear is unmade), so the two-body composite run is its exact particle-hole image, the love-fear meson on the empty mesh, with m = pi/6 (u = $w^2$) and a route-free phase string sigma 0.093556 in Z[w][1/42] (exact, diagonal, reach unchanged, its sign a derived cost); the rule's dock maps equal the model to 1e-17 on 2,304 box starts; a level sits at eps 1.565757 (predicted 1.5705) but is a resonance, |lambda2| 0.99998, keeping 0.9956 of the window and fidelity 0.980 over 256 beats, its tail flattening at V = 2m/sigma = 11 where a member drops into its 12-fold partner multiplet, whose 11 flat bands are degenerate with the Dirac partner at rest and so escape the Schwinger suppression; it moves isotropically ($K^2$ coefficient spread 9.5e-9) with R 1.0267 (members 1.1027, predicted 0.902), and its band bends under the quadratic form with speeds 0.17, 0.32, 0.41 c* at K 0.4, 0.8, 1.2; the vacuum stays inert with the string on, no string binds nothing, the hill holds no level; next: a mass string (the mixer angle carrying the cost) so no separation makes a flipped member degenerate.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L2 (L2: known physics reproduced on a stated model).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/spin/swap-string-meson.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-SPN-0146",
+        "quote": null
+      }
+    ]
+  }
+}

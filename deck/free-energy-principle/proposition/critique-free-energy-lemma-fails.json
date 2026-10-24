@@ -1,0 +1,55 @@
+{
+  "record": "proposition",
+  "id": "8b5b4738-1b5d-49bf-a476-51c5ed1a140f",
+  "kind": "mathematical",
+  "epistemic_status": "inferred",
+  "title": "Critique: the original free energy lemma is wrong as stated",
+  "statements": [
+    {
+      "id": "02ceaa7b-f45f-48d5-b11e-db8aafde6987",
+      "text": "Counterexamples show the original free energy lemma is wrong when taken at face value, the various definitions of the Markov blanket are not equivalent, and the Bayesian reading is not sufficiently justified. The authors add that this does not rule out the general ideas.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-23"
+    }
+  ],
+  "current_statement": "02ceaa7b-f45f-48d5-b11e-db8aafde6987",
+  "status": "active",
+  "voice": "critique",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "c9ef4700-4874-48f3-be4f-31772439b03f",
+        "locator": "abstract",
+        "quote": "We prove by counterexamples that the original free energy lemma, when taken at face value, is wrong."
+      },
+      {
+        "source": "c9ef4700-4874-48f3-be4f-31772439b03f",
+        "locator": "abstract",
+        "quote": "In particular, we reveal that various definitions of the “Markov blanket” proposed in different works are not equivalent."
+      },
+      {
+        "source": "c9ef4700-4874-48f3-be4f-31772439b03f",
+        "locator": "abstract",
+        "quote": "These problems do not rule out conclusively that the general ideas behind the free energy principle are worth pursuing."
+      }
+    ]
+  }
+}

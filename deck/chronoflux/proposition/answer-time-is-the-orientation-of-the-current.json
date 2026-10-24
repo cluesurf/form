@@ -1,0 +1,50 @@
+{
+  "record": "proposition",
+  "id": "637c5c1a-5569-4388-b681-6a352579cb4d",
+  "kind": "philosophical",
+  "epistemic_status": "hypothesized",
+  "title": "Answer: time is the orientation and duration of a timelike conserved current",
+  "statements": [
+    {
+      "id": "4651410a-1e0c-41bc-9655-8409f39f08ca",
+      "text": "Time is the order and duration that a non-vanishing, future-directed timelike conserved current carries. Clocks read that recovered duration, and global simultaneity holds only where the current's temporal one-form integrates to a foliation.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "4651410a-1e0c-41bc-9655-8409f39f08ca",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "e738f503-c26b-49a1-bba2-39002bacc666",
+        "locator": "abstract",
+        "quote": "The completed Chronoflux Atlas recovers physical time from conserved continuity."
+      },
+      {
+        "source": "e738f503-c26b-49a1-bba2-39002bacc666",
+        "locator": "abstract",
+        "quote": "Where vorticity obstructs such a foliation, invariant duration along the flow remains well defined, as such, while one global simultaneity convention does not."
+      }
+    ]
+  }
+}

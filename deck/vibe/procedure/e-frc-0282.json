@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "3db974a5-df9e-4acc-b231-ea7e906bf9d3",
+  "title": "E-FRC-0282: the seam of the 3D quantum light, fail on its own control: on the ladder the first-order Gaussian seam...",
+  "purpose": "Experiment E-FRC-0282 in the gauge arena: the seam of the 3D quantum light, fail on its own control: on the ladder the first-order Gaussian seam shift reads the exact one-quantum band misses with one constant A = 0.94 (slope 1.09, every box within a factor 1.8, the L = 3 boxes out of sample within 1.6), and carried to the side-8 husk it predicts a leak per beat falling from 0.22 at D = 4 to 1.3e-8 at D = 16 at both candidate splits, so the route does not die; but a husk whose registers do not deepen also falls (5.0e-2 to 6.4e-3 seam weight per dock), against the derivation, so the instrument was not shown to read a leak that does not fall.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L2 (L2: known physics reproduced on a stated model).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/gauge/husk-light-seam.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-FRC-0282",
+        "quote": null
+      }
+    ]
+  }
+}

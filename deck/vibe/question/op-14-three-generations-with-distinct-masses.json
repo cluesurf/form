@@ -1,0 +1,26 @@
+{
+  "record": "question",
+  "id": "af3ebb89-58cf-4f1d-b9b2-445a519b5609",
+  "text": "Which knit breaks the triality among the three triplet copies into three distinct values?",
+  "kind": "missing_evidence",
+  "status": "open",
+  "parent": null,
+  "description": "OP-14: three generations with distinct masses.\n\nKnown: under the triality weave the three copies are exactly degenerate and exactly conserved. The committed knit splits all three (reach 6.74, 2.74, 1.38). A condensate on one copy gives 1 + 2 (E-FRC-0140, E-FRC-0141).\n\nUnknown: a knit that breaks the triality into a hierarchy of three, and its relation to the warp localization of E-FRC-0030 and E-FRC-0033.\n\nWhy it matters: the count of three is algebra until a dynamics sets the three apart.\n\nScope: a computational investigation.\n\nSkills: representation theory, cellular automata.\n\nWhere to start: test/experiment/gauge/generation-splitting.ts.\n\nEvidence named: E-FRC-0140, E-FRC-0141.",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "research/problem.ts OP-14",
+        "quote": null
+      }
+    ]
+  }
+}

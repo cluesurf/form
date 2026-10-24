@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "c5501e0c-2a2d-4974-a025-f1c23ca054cc",
+  "title": "E-FND-0022: the dock is the optimal 4D kissing shell and admits no 25th direction, including against half-integer...",
+  "purpose": "Experiment E-FND-0022 in the foundations arena: the dock is the optimal 4D kissing shell and admits no 25th direction, including against half-integer candidates.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L1 (L1: known mathematics, correctly confirmed).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/foundations/generator-growth.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-FND-0022",
+        "quote": null
+      }
+    ]
+  }
+}

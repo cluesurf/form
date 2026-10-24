@@ -1,0 +1,45 @@
+{
+  "record": "proposition",
+  "id": "a37e77dc-0c53-46d0-b71d-10abf84119d2",
+  "kind": "philosophical",
+  "epistemic_status": "inferred",
+  "title": "The principle is not falsifiable as a mathematical statement",
+  "statements": [
+    {
+      "id": "0219a920-43e9-4723-a7ae-58dc98d80112",
+      "text": "Like the principle of least action, the free energy principle is a general description of things defined in a particular way, not a falsifiable theory about how things behave. It may be falsifiable only insofar as its postulates refer to a class of empirical phenomena.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-23"
+    }
+  ],
+  "current_statement": "0219a920-43e9-4723-a7ae-58dc98d80112",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "951a63ba-fbb2-4b78-af38-52646f22dbe0",
+        "locator": "section 1",
+        "quote": "the FEP is not falsifiable as a mathematical statement, but it may as well be falsifiable to the extent that its postulates refer to a specific class of empirical phenomena that the principle aims to describe."
+      }
+    ]
+  }
+}

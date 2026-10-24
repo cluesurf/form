@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "8ed493bf-cdc4-46ec-b544-6cb0eafb9a9a",
+  "title": "E-GRV-0077: with the even field's static energy counted negative, a light and a heavy lump fall alike and radiation...",
+  "purpose": "Experiment E-GRV-0077 in the gravity arena: with the even field's static energy counted negative, a light and a heavy lump fall alike and radiation stays positive, but the integer light heats and the pull acts at a distance at once, fail on F3 (as predicted): at r = 4 from a neutral source of content 4 on the side-16 husk, a lump of 1 love and a lump of 3 fear accelerate toward it at -6.41986e-4 per unit content each (alike to 5e-12, 1.5 percent from the closed form -6.52e-4; inertia taken as content, a stand-in, so this is the universality of the pull per unit content, not an equivalence of inertial mass), the unmodified field pushes them away by the same, and the light pulls the same two lumps from a charged source with opposite signs; a plane packet carries $U_L = 0$ and H' = I > 0 and moves at 1.00035 c; on 4096 beats of a standing lump the negative part does not move and the positive part stays positive, but grows 52.9 fold with 8 million field wraps (1.83 fold at D 64), and a post run shows the integer rule heats even a clean packet (4.57 to 57.7 in 490 beats, 0 wraps) while the linear leapfrog keeps it exactly, so the growth is the integer light's and not the sign's; and when the source hops one dock the proposal's pull changes at once at every distance ($E_L$ by 1.4e-2 to 3.1e-4 at d = 2 .. 7) while the rule's own flux arrives at beats 5 to 30, about c: the sign breaks the cancellation that keeps the light's pull causal.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L2 (L2: known physics reproduced on a stated model).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/gravity/even-fall.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-GRV-0077",
+        "quote": null
+      }
+    ]
+  }
+}

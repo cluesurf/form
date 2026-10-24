@@ -1,0 +1,50 @@
+{
+  "record": "proposition",
+  "id": "46fc3e40-3d62-4364-9ff2-e718c95dd797",
+  "kind": "philosophical",
+  "epistemic_status": "hypothesized",
+  "title": "Entropic time is an artifact of projection",
+  "statements": [
+    {
+      "id": "05b78e0f-94c5-4004-9441-7882cc626713",
+      "text": "Any projection of agent dynamics by conditional probability induces an entropic arrow of time, so entropic time may be an artifact of projection rather than a fundamental feature of reality.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-23"
+    }
+  ],
+  "current_statement": "05b78e0f-94c5-4004-9441-7882cc626713",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "2207dc33-f8a8-469f-99b2-286f1139ed74",
+        "locator": "section 8",
+        "quote": "entropic time is not a fundamental feature of reality, but merely an artifact of projection."
+      },
+      {
+        "source": "2207dc33-f8a8-469f-99b2-286f1139ed74",
+        "locator": "section 8",
+        "quote": "any projection of this dynamics via conditional probability induces an entropic arrow of time"
+      }
+    ]
+  }
+}

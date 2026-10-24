@@ -1,0 +1,39 @@
+{
+  "record": "observation",
+  "id": "bdf50a27-f31a-4130-b216-40a0143c2a13",
+  "kind": "observation",
+  "epistemic_status": "observed",
+  "description": "Flow states are surprisingly pleasant, and cognitive dissonance and confusion are surprisingly unpleasant, which the framework reads as hints that order feels good.",
+  "method": "document_review",
+  "status": "reported",
+  "source": "18748a2a-239c-4c8a-84be-d6db8f91e70d",
+  "procedure": null,
+  "variable": null,
+  "value": null,
+  "unit": null,
+  "uncertainty": null,
+  "sample_size": null,
+  "replication_count": null,
+  "quality": null,
+  "limitations": null,
+  "conflicts_of_interest": null,
+  "observed_at": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "18748a2a-239c-4c8a-84be-d6db8f91e70d",
+        "locator": "section IX, p. 35",
+        "quote": "Cognitive dissonance and confusion are surprisingly unpleasant."
+      }
+    ]
+  }
+}

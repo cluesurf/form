@@ -1,0 +1,28 @@
+{
+  "record": "link",
+  "id": "d58c9f70-3057-4d72-b6b0-be0e89c6aacb",
+  "from": "bb50899b-e9fd-4cfb-9562-8d2f8631155f",
+  "to": "14227052-a013-4d2a-993f-2e4705aa009a",
+  "relation": "requires",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "8ed62dfe-4468-4f53-9b70-f009ba2dbe4f",
+        "locator": "p. 570, Concluding remarks",
+        "quote": "emotion and embodied selfhood are grounded in active inference of those signals most likely to be 'me' across interoceptive and exteroceptive domains"
+      }
+    ]
+  }
+}

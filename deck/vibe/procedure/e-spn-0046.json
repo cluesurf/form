@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "927307d3-f6e6-41fc-b228-fe92900d33dd",
+  "title": "E-SPN-0046: Hong-Ou-Mandel on the fear walk, partial: the swap phase at one husk dock is a 1 : 3 beam splitter, so...",
+  "purpose": "Experiment E-SPN-0046 in the spin arena: Hong-Ou-Mandel on the fear walk, partial: the swap phase at one husk dock is a 1 : 3 beam splitter, so two identical vibes coincide at 1/4 as bosons, 1 as fermions and 5/8 as distinguishable, exactly as 5/8 -+ (3/8) $I^2$ at every delay (visibility 3/5, never a full dip), while the slot, which has no configuration for two vibes in one slot, forces the pair phase to -1 and makes identical vibes antibunch as fermions.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L2 (L2: known physics reproduced on a stated model).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/spin/hong-ou-mandel.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-SPN-0046",
+        "quote": null
+      }
+    ]
+  }
+}

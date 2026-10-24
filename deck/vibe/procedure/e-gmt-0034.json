@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "9901631e-4479-4bf4-b77f-8034c7febd7e",
+  "title": "E-GMT-0034: two straight bulk walks on nearly the same heading separate as sinh(arc length) (exponential rate one...",
+  "purpose": "Experiment E-GMT-0034 in the geometry arena: two straight bulk walks on nearly the same heading separate as sinh(arc length) (exponential rate one, the curvature) so a bearing cannot be held, while on the flat cusp they separate linearly.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L2 (L2: known physics reproduced on a stated model).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/geometry/geodesic-divergence.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-GMT-0034",
+        "quote": null
+      }
+    ]
+  }
+}

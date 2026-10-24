@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "67165818-e5da-4441-bf4a-c4410c886648",
+  "title": "E-SLF-0149: flipping pain and pleasure mirrors the dynamics exactly, so the base has no drive toward pleasure",
+  "purpose": "Experiment E-SLF-0149 in the selves arena: flipping pain and pleasure mirrors the dynamics exactly, so the base has no drive toward pleasure.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L2 (L2: known physics reproduced on a stated model).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/selves/valence-mirror-symmetry.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-SLF-0149",
+        "quote": null
+      }
+    ]
+  }
+}

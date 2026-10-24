@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "0469081e-4062-4da3-9577-7e555c14b76c",
+  "title": "E-SPN-0063: the comoving fear beat through E-FRC-0159's battery on the combined knit, gate for gate, fail at the...",
+  "purpose": "Experiment E-SPN-0063 in the spin arena: the comoving fear beat through E-FRC-0159's battery on the combined knit, gate for gate, fail at the default integer link start (E-MTH-0027) on its frame control alone, and pass on 11 of 17 starts of E-MTH-0028's family: 0 of 42 quantum gates fail and 0 change verdict against the model's beat on H, HF and HFL (CHSH 2.55 on all three at the default start); each of the 6 failing starts is one where the vacuum pair makes no fear and the frame control (the swap phase at love-fear meetings) reads 0 in both paired columns, uninformative rather than a failure; paired on the same start, the comoving beat adds a quantum-gate failure against the fear-off column on 0 of 17 and against the fixed-frame beat on 0 of 17, and gains CHSH above 2 on HF and HFL at 4; the classical layer takes no kernel (Gauss's law on 3,888 of 3,888 dock-beats), and the fermion number is kept at 831 of 831 meetings where the model's beat breaks it at 197.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L2 (L2: known physics reproduced on a stated model).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/spin/comoving-battery.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-SPN-0063",
+        "quote": null
+      }
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "record": "link",
+  "id": "128929af-6372-4396-8989-736179f98f81",
+  "from": "946fdc3b-9759-42d6-a687-54e8c401dfd8",
+  "to": "af8b86f1-9926-4983-8e87-1d7c75503036",
+  "relation": "requires",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "9359bfc1-6fff-41a8-8d7c-91af2f730b74",
+        "locator": "abstract",
+        "quote": "Topological segmentation can, in principle, create exactly the hard boundaries desired"
+      }
+    ]
+  }
+}

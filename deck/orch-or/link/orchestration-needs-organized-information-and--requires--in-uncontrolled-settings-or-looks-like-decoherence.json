@@ -1,0 +1,28 @@
+{
+  "record": "link",
+  "id": "83fec9c0-2990-4b17-83a3-9785bba6d590",
+  "from": "fc7311b8-335b-4f66-8b50-2938a50cc94a",
+  "to": "24afe82f-37b4-49da-9eda-d1bddad394ea",
+  "relation": "requires",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "c0602528-f093-4705-abc3-e13d7657a680",
+        "locator": "section 4.5",
+        "quote": "isolated from non-orchestrated, random environment long enough for the superposition EG to evolve by the U formalism to reach time τ by τ ≈ h̄/EG , then Orch OR will occur"
+      }
+    ]
+  }
+}

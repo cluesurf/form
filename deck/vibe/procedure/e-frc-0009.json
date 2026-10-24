@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "dfbf82cd-c86f-4e4a-adbb-4d9049cc2e1f",
+  "title": "E-FRC-0009: the bare rule treats the gauge coupling as a free multiplicative constant and fixes no value for it",
+  "purpose": "Experiment E-FRC-0009 in the gauge arena: the bare rule treats the gauge coupling as a free multiplicative constant and fixes no value for it.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L1 (L1: known mathematics, correctly confirmed).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/gauge/coupling-not-fixed-3434.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-FRC-0009",
+        "quote": null
+      }
+    ]
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "20411d67-13a1-46de-9837-89f29b28b589",
+  "title": "E-FRC-0138: dynamical color triplets on the deterministic Sigma(648) automaton break the center: with matter that...",
+  "purpose": "Experiment E-FRC-0138 in the gauge arena: dynamical color triplets on the deterministic Sigma(648) automaton break the center: with matter that hops, is made from calm in pairs and pays a gauge-invariant hopping term from the demons, the Polyakov loop is nonzero and the rule favors one center sector on every configuration, while pure gauge and center-blind matter keep it at zero, every run reversing exactly with energy and charge conserved.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L2 (L2: known physics reproduced on a stated model).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/gauge/finite-color-quarks.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-FRC-0138",
+        "quote": null
+      }
+    ]
+  }
+}

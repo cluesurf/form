@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "fa73bbe7-5a2f-4b54-ac17-427e833641b6",
+  "title": "E-SLF-0125: a vacuum-excluding body attracts a test mass by discrete radiation-pressure shadow (correct sign...",
+  "purpose": "Experiment E-SLF-0125 in the selves arena: a vacuum-excluding body attracts a test mass by discrete radiation-pressure shadow (correct sign, reversible bulk).",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L2 (L2: known physics reproduced on a stated model).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/selves/shadow-pressure-attraction.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-SLF-0125",
+        "quote": null
+      }
+    ]
+  }
+}

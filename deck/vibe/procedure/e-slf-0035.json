@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "6c4d4e92-c59f-4d02-b66b-3bd990aa96a0",
+  "title": "E-SLF-0035: integration wins on total order and recurs into a tower",
+  "purpose": "Experiment E-SLF-0035 in the selves arena: integration wins on total order and recurs into a tower.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L2 (L2: known physics reproduced on a stated model).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/selves/cooperation-tower.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-SLF-0035",
+        "quote": null
+      }
+    ]
+  }
+}

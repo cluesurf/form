@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "cec479e6-16f0-44e4-a4da-88b97180b7da",
+  "title": "E-SPN-0018: the hydrogen atom, the Rydberg series $E_n$ proportional to $-1 / n^2$ and the accidental l-degeneracy...",
+  "purpose": "Experiment E-SPN-0018 in the spin arena: the hydrogen atom, the Rydberg series $E_n$ proportional to $-1 / n^2$ and the accidental l-degeneracy, lifted by a non-Coulomb control.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L2 (L2: known physics reproduced on a stated model).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/spin/hydrogen-spectrum.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-SPN-0018",
+        "quote": null
+      }
+    ]
+  }
+}

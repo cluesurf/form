@@ -1,0 +1,28 @@
+{
+  "record": "link",
+  "id": "7bdb01f8-b41f-4db9-befd-2f23f892c4de",
+  "from": "631b3566-40bc-4720-992e-9ca576c5d8a5",
+  "to": "35e99e05-7055-48cd-8e06-7c142c911cad",
+  "relation": "explains",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "fd7382f9-52a5-4beb-9680-fc341ff15b98",
+        "locator": "section Non-neural Bioelectricity: What Bodies Think About",
+        "quote": "both ion channels and gap junctions are themselves voltage sensitive"
+      }
+    ]
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "bf289cd4-31b0-44b5-a430-53d7dbf00f14",
+  "title": "E-FRC-0125: the color weave's vibes, the turning weave with the hop removed, against the acceptance battery the...",
+  "purpose": "Experiment E-FRC-0125 in the gauge arena: the color weave's vibes, the turning weave with the hop removed, against the acceptance battery the committed rule was adopted by, each item run on both tables by the same code: reversal, charge, CPT, the vacuum, universality, interference, walls and dressing, with travel and protected species reported.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L2 (L2: known physics reproduced on a stated model).",
+  "status": "completed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/gauge/color-weave-acceptance.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "research/result.ts R-FRC-0006",
+        "quote": null
+      }
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "record": "link",
+  "id": "bfe4d6d3-037a-4f5a-ba5f-f02ab6875d24",
+  "from": "e5b37246-c587-47b1-976d-ceb8107ca3c8",
+  "to": "cf92fcb1-1847-4814-88c8-27b123c9cfbc",
+  "relation": "requires",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "c40bbd28-a2c5-4730-84c0-90f7ae0644de",
+        "locator": "section 7",
+        "quote": "macroscale causation is measurable via the gain in information-theoretic generalizations of the causal primitives (sufficiency and necessity) along a specified path"
+      }
+    ]
+  }
+}

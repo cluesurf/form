@@ -1,0 +1,77 @@
+{
+  "record": "proposition",
+  "id": "fde67e23-939b-4186-9e3e-3483e3a9a899",
+  "kind": "empirical",
+  "epistemic_status": "hypothesized",
+  "title": "Conscious selves can nest and overlap in one body",
+  "statements": [
+    {
+      "id": "ff088913-6b68-4a2f-bd62-dd5105415e0c",
+      "text": "One body can house many conscious selves at once, nested inside one another and overlapping, only one of which usually reports in words.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-23"
+    }
+  ],
+  "current_statement": "ff088913-6b68-4a2f-bd62-dd5105415e0c",
+  "status": "active",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": {
+    "value": "open",
+    "reason": null,
+    "basis": [],
+    "proposal": null
+  },
+  "origin": [
+    {
+      "repository": "basal-cognition",
+      "id": "28da1935-bf2a-4b7c-91a5-fc1912fa23ac"
+    },
+    {
+      "repository": "basal-cognition",
+      "id": "a0aa019c-6c65-43dd-adf7-880400752012"
+    },
+    {
+      "repository": "qualia-formalism",
+      "id": "3d5ddc51-1c91-43b6-95a6-f2b198782308"
+    }
+  ],
+  "provenance": {
+    "written_by": "github:lancejpollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "483bd2e4-b56f-4564-9b55-9b48c0af0291",
+        "locator": "Table 1",
+        "quote": "Selves can be nested and overlapping, cooperating and competing both laterally and across levels."
+      },
+      {
+        "source": "ef42df6c-62b8-4f35-a655-e946132111f8",
+        "locator": "section Defining Individuation From a Cognitive Perspective",
+        "quote": "systems house multiple levels of coexisting coherent Selves"
+      },
+      {
+        "source": "483bd2e4-b56f-4564-9b55-9b48c0af0291",
+        "locator": "section Consciousness",
+        "quote": "an agent, such as a typical modern human, is really a patchwork of many diverse consciousnesses"
+      },
+      {
+        "source": "26946c6f-9038-40ae-8bae-ae9f5c3ee40d",
+        "locator": "section 4.3.2",
+        "quote": "dozens or billions of these in any one system"
+      }
+    ]
+  }
+}

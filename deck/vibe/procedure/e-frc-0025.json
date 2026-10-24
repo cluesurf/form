@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "90dc1a69-9155-4a60-ae8e-39db8677ec59",
+  "title": "E-FRC-0025: the coin D4 plus the tone as a fifth axis builds D5 = so(10) and embeds the Standard Model",
+  "purpose": "Experiment E-FRC-0025 in the gauge arena: the coin D4 plus the tone as a fifth axis builds D5 = so(10) and embeds the Standard Model.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L1 (L1: known mathematics, correctly confirmed).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/gauge/gauge-from-coin-tone.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-FRC-0025",
+        "quote": null
+      }
+    ]
+  }
+}

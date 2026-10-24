@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "6a591fe1-e72f-4414-8341-adb9b533712d",
+  "title": "E-SLF-0181: a moving bound three-member state on R* keeps its level but not all of its internal state, partial: the...",
+  "purpose": "Experiment E-SLF-0181 in the selves arena: a moving bound three-member state on R* keeps its level but not all of its internal state, partial: the rest bound triple of E-SPN-0193, boosted into a packet over K = 0 and K = pi/2 d on the L = 4 torus, holds an internal overlap of at least 0.72 along (1,0,0) and 0.55 along (1,1,1) over ten crossings (central estimates 0.87 and 0.73, bound fractions 0.93 and 0.84), against 0.010 and 0.016 with the pair pieces off; the moving level itself is one coherent line (residual 2e-6, no split), but the boosted rest state puts only 0.86 and 0.69 of its weight on it and 0.05 and 0.12 on flat holes, so identity under motion is lost to the K dependence of the internal state, not to decay.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L2 (L2: known physics reproduced on a stated model).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/selves/register-persistence.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-SLF-0181",
+        "quote": null
+      }
+    ]
+  }
+}

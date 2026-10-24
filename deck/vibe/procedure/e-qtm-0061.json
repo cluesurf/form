@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "70ea04ea-41df-4977-9eb5-a14727765589",
+  "title": "E-QTM-0061: the GHZ state gives XXX = +1 and XYY = YXY = YYX = -1 exactly while no local assignment of all...",
+  "purpose": "Experiment E-QTM-0061 in the quantum arena: the GHZ state gives XXX = +1 and XYY = YXY = YYX = -1 exactly while no local assignment of all sixty-four satisfies the four constraints, nonlocality with certainty (all-versus-nothing), absent on a product state.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L1 (L1: known mathematics, correctly confirmed).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/quantum/ghz-paradox.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-QTM-0061",
+        "quote": null
+      }
+    ]
+  }
+}

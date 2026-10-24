@@ -1,0 +1,50 @@
+{
+  "record": "proposition",
+  "id": "000d35f7-b7cc-40d5-81ee-20c7aa7300e1",
+  "kind": "empirical",
+  "epistemic_status": "simulated",
+  "title": "E-RLT-0061: a knit with W(F4) as its exact symmetry exists and keeps CPT: the isometric knit (each dock applies the...",
+  "statements": [
+    {
+      "id": "184df7ae-d95a-4976-8abe-a054cd3e128c",
+      "text": "A knit with W(F4) as its exact symmetry exists and keeps CPT: the isometric knit (each dock applies the one coin map that is -1 on the mirrors holding its momentum, the covariant FCHC isometric collision) is kept by all 1,152 coin maps (rule table exhaustively, exact linearization to 0), is an exact involution keeping charge, count and momentum (0 failures on 21,152 docks), has CPT, C and PT, acts on 57.5 percent of dock states and touches all 24 directions; its exact linear equation gives husk exponents 3.99 (charge diffusion), 3.98 (momentum-sector trace) and 3.96 (sound) and 2.01 (shear), where the first-mirror control with the same conservation and CPT gives 0.00 (charge anisotropy 0.68 at leading order); it gives up exact local color (the side sum changes on 5,273 docks, and under W(F4) exact color would freeze all 12 line momenta) and the clocking vacuum (count is kept, so the calm vacuum is still and a lone vibe stays lone, dressing 1, 24 of 24 travelling).",
+      "language": "en",
+      "scope": "experiment E-RLT-0061, arena relativity, depth L2 (L2: known physics reproduced on a stated model)",
+      "conditions": "substrates: 3434. In a paper: false",
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-22"
+    }
+  ],
+  "current_statement": "184df7ae-d95a-4976-8abe-a054cd3e128c",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": {
+    "value": "open",
+    "reason": "holds in the vibe claim graph",
+    "basis": [],
+    "proposal": null
+  },
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "research/objection.ts",
+        "quote": null
+      }
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "record": "link",
+  "id": "1dec0ce7-70ed-4011-8286-6bcfd6cae23b",
+  "from": "ee684d97-5c74-4910-89e2-71f74d302ab7",
+  "to": "f3fc1a1e-ac4f-44e3-bf28-9b8dee6af710",
+  "relation": "supports",
+  "strength": 0.8,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "335d668a-eb52-421e-8c51-a7855e482d0e",
+        "locator": "abstract",
+        "quote": "generically the answer is no: as the number of world states and payoff values go to infinity"
+      }
+    ]
+  }
+}

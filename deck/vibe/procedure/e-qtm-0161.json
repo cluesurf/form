@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "8a716b0d-2e4a-4f5a-99e0-5d8d09184ae8",
+  "title": "E-QTM-0161: mixed states and a POVM from ancilla vibes on the rule's own gates, partial: two ancilla loves meeting...",
+  "purpose": "Experiment E-QTM-0161 in the quantum arena: mixed states and a POVM from ancilla vibes on the rule's own gates, partial: two ancilla loves meeting one arm with a coin between give 4 outcomes whose effects sum to I exactly, are not projectors and do not commute (not a sharp reading shuffled by noise), and give Born's probabilities on the part exactly on 5 inputs; not informationally complete (the effects span 3 of 4 real dimensions); one coupling leaves the part mixed (purity 23/32) inside a pure whole; with equal points nothing is recorded; gates read bit for bit on 17 of 17 starts, the schedule arranged.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L2 (L2: known physics reproduced on a stated model).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/quantum/povm-from-an-ancilla.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-QTM-0161",
+        "quote": null
+      }
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "record": "link",
+  "id": "ce2820b2-c1a0-4f18-8085-d42b70203018",
+  "from": "db23ff13-eecc-4d8f-96d6-0f50f5d33e76",
+  "to": "dab8ac92-22d3-4389-87cc-b37cfd104c4c",
+  "relation": "supports",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "48959277-86d2-4076-9942-58a24f753040",
+        "locator": "p. 779",
+        "quote": "only the N2 remains under conditions where the stimuli are task-irrelevant yet reported to be consciously perceived"
+      }
+    ]
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "1b1566d5-4e42-4b15-9e6a-6c58a36c7df5",
+  "title": "E-FND-0111: the dressed traveller dissolves the wake worry: in a periodic wall lattice (the dense-tiling physical...",
+  "purpose": "Experiment E-FND-0111 in the foundations arena: the dressed traveller dissolves the wake worry: in a periodic wall lattice (the dense-tiling physical vacuum the model's own growth produces) the candidate knit's particle sits at its exact free-flight position at all seventy-one checked beats at both sizes while its medium response saturates into a finite co-moving dressing (non-positive late slope at both sizes, plateau scaling roughly as side squared) whose total is SUB-ADDITIVE in the walls (three walls cost no more than one, 174 against 177 slots), so dense tilings regularize the response per wall, the model's quasiparticle is the bare traveller plus its dressing, and the coarse bridge's target object is identified.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L2 (L2: known physics reproduced on a stated model).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/foundations/dressed-traveller.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-FND-0111",
+        "quote": null
+      }
+    ]
+  }
+}

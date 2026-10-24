@@ -1,0 +1,50 @@
+{
+  "record": "proposition",
+  "id": "32130890-89f9-434b-a24b-a0a3a5ef95ea",
+  "kind": "philosophical",
+  "epistemic_status": "inferred",
+  "title": "Critique: assumed continuity ignores convergent evolution",
+  "statements": [
+    {
+      "id": "55eb2a7e-90c3-426b-a329-c5c6cd316bd5",
+      "text": "Basal cognition research assumes Darwinian continuity and neglects homoplasy, so similar behaviors in distant organisms may be convergent rather than inherited, and must be tested phylogenetically.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-23"
+    }
+  ],
+  "current_statement": "55eb2a7e-90c3-426b-a329-c5c6cd316bd5",
+  "status": "active",
+  "voice": "critique",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "a2a9b88f-95b0-40d1-87f3-456af2e14117",
+        "locator": "section Thinking phylogenetically: homologies, homoplasies and convergent evolution",
+        "quote": "something that we think might be the by-product of their strong assumption of Darwinian continuity"
+      },
+      {
+        "source": "a2a9b88f-95b0-40d1-87f3-456af2e14117",
+        "locator": "section Thinking phylogenetically: homologies, homoplasies and convergent evolution",
+        "quote": "homology and homoplasy demand thorough and explicit assessment in basal cognition research"
+      }
+    ]
+  }
+}

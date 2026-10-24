@@ -1,0 +1,28 @@
+{
+  "record": "link",
+  "id": "8395297c-1962-46ff-9c4a-33022502ab26",
+  "from": "b841cb48-df38-467e-8598-f86eb0966f59",
+  "to": "3c1c5e6b-2943-4810-baf8-d48f72c4e148",
+  "relation": "answers",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "5aaa6bc4-6581-4a09-8249-33c9872090bd",
+        "locator": "main text",
+        "quote": "I highly doubt that it can last longer than a hundred milliseconds"
+      }
+    ]
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "3c3aa015-45e3-4a98-9a06-0a0f06b04d5d",
+  "title": "E-FRC-0024: the Maxwell operator is derived from the Wilson gauge action in the small-field limit",
+  "purpose": "Experiment E-FRC-0024 in the gauge arena: the Maxwell operator is derived from the Wilson gauge action in the small-field limit.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L1 (L1: known mathematics, correctly confirmed).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/gauge/gauge-from-action.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-FRC-0024",
+        "quote": null
+      }
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "record": "link",
+  "id": "6024b326-8900-459d-b2e5-b08af3a2a455",
+  "from": "757ea101-bdf4-4c03-af3b-0a892c43a221",
+  "to": "c3f5cfc7-0cb5-48b3-829e-d04b3e62f7e8",
+  "relation": "requires",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "18748a2a-239c-4c8a-84be-d6db8f91e70d",
+        "locator": "section VII, p. 25",
+        "quote": "valence is a crisp phenomenon of conscious states upon which we can apply a measure."
+      }
+    ]
+  }
+}

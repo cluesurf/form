@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "ca61a213-3120-4e6d-b68a-ed7eddd0d7eb",
+  "title": "E-FND-0124: the substrate detector is the number operator: N co-moving defects produce a slab response of exactly...",
+  "purpose": "Experiment E-FND-0124 in the foundations arena: the substrate detector is the number operator: N co-moving defects produce a slab response of exactly five N at every occupancy from two to ten, identically for all-aligned and phase-balanced preparations whose net amplitudes verifiably differ (root three N against three halves N), so detection is exactly linear in number and exactly blind to phase, the same character as a laboratory photon counter, and the coarse-bridge question sharpens to whether the dressed sector converts phase differences into number differences the way an interferometer port does, which is now the single load-bearing derivation between the model and the Born rule.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L2 (L2: known physics reproduced on a stated model).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/foundations/number-operator-law.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-FND-0124",
+        "quote": null
+      }
+    ]
+  }
+}

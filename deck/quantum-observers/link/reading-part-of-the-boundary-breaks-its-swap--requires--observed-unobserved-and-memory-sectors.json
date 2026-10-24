@@ -1,0 +1,28 @@
+{
+  "record": "link",
+  "id": "45e3d5cc-9e60-469f-928f-9e5e9b4e87e4",
+  "from": "031b8911-a982-41fc-8206-d905076334d1",
+  "to": "b37d551a-3cc0-4e26-a2f7-f4130e928154",
+  "relation": "requires",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "4489b7d7-7273-4b67-a1c2-b53ddab0eeb5",
+        "locator": "section 2.5",
+        "quote": "deploying a QRF sensitive to only some degrees of freedom of B (i.e. sensitive to only some bit values encoded on B) breaks the swap symmetry on B and creates a decoherent sector"
+      }
+    ]
+  }
+}

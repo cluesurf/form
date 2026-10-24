@@ -1,0 +1,45 @@
+{
+  "record": "proposition",
+  "id": "07146716-c6ad-45f9-aa53-a4554416f42a",
+  "kind": "mathematical",
+  "epistemic_status": "inferred",
+  "title": "Fitness-Beats-Truth theorem",
+  "statements": [
+    {
+      "id": "2df45778-dead-4f8b-94fd-c51793a66c0a",
+      "text": "Formalized with evolutionary game theory and Bayesian decision theory, the claim that natural selection favors veridical perception is false: a strategy tuned only to expected fitness payoff does better than one that estimates the true world state.",
+      "language": "en",
+      "scope": "the game-theoretic and Bayesian formalization in the paper",
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-23"
+    }
+  ],
+  "current_statement": "2df45778-dead-4f8b-94fd-c51793a66c0a",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "15e904a9-b714-4166-a1df-29884230fe2a",
+        "locator": "abstract, lines 14-16",
+        "quote": "which shows that the claim is false"
+      }
+    ]
+  }
+}

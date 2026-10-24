@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "9ea6db80-fa0c-402b-92d8-f87d6da9b714",
+  "title": "E-MTH-0004: the forced-versus-coincidental auditor certifies exact derived numbers with unique simple targets (E8...",
+  "purpose": "Experiment E-MTH-0004 in the method arena: the forced-versus-coincidental auditor certifies exact derived numbers with unique simple targets (E8 240, octave 2:1) and refuses fitted ratios with many rivals (1.25 within 0.03) and unforced integer attributions (21 = 5+7+9, one of 27 ways), a self-tested discipline instrument.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L1 (L1: known mathematics, correctly confirmed).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/method/coincidence-auditor.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-MTH-0004",
+        "quote": null
+      }
+    ]
+  }
+}

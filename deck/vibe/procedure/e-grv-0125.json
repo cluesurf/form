@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "209bf76b-f49e-4e33-a7de-794b20ea6848",
+  "title": "E-GRV-0125: one depth per line class carries spin 2 at the symbol level, pass at L1 with two assumptions: the 12...",
+  "purpose": "Experiment E-GRV-0125 in the gravity arena: one depth per line class carries spin 2 at the symbol level, pass at L1 with two assumptions: the 12 class spans fix all 6 $h_{ij}$ (rank 6; the 6 extras are 3 depth tilts, $e_i + e4$ against $e_i - e4$, and 3 axis-diagonal mismatches), and linearized general relativity on them (central symbol sin p, range 2, Hamiltonian and momentum constraints held, extras held) has exactly 2 TT modes at omega / c k 0.9996 .. 0.9999 at k = 0.05, the $c^2$ limit equal along axis, face and body to 2e-9, vector and longitudinal modes exact gauge zeros, the trace mode at c only off the constraint surface, and a static source with gamma 1 to 2e-14, one span on all 12 classes and Psi within 6e-4 of the scalar depth; the per-class husk operator alone fails S2 (4 non-TT metric modes and 6 extras at c), the husk operator in place of $|q|^2$ breaks the gauge identity at $p^4$ (a vector mode at 0.025 c, no consistent static field), unheld extras add 6 modes at c, and the husk is not simplicial (both diagonals on every face), so this is not Regge's action.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L1 (L1: known mathematics, correctly confirmed).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/gravity/line-class-spin-two.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-GRV-0125",
+        "quote": null
+      }
+    ]
+  }
+}

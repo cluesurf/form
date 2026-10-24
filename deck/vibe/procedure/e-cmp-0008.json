@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "707b2eda-7c6c-4f37-a9b5-ffc482c7f07a",
+  "title": "E-CMP-0008: the committed reversible knit rule on the {3,4,3,4} 24-cell is computationally universal",
+  "purpose": "Experiment E-CMP-0008 in the computation arena: the committed reversible knit rule on the {3,4,3,4} 24-cell is computationally universal.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L2 (L2: known physics reproduced on a stated model).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/computation/reversible-universality-3434.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-CMP-0008",
+        "quote": null
+      }
+    ]
+  }
+}

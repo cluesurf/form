@@ -1,0 +1,28 @@
+{
+  "record": "link",
+  "id": "89366940-be6e-46de-ab59-c712ede79bb4",
+  "from": "734054e8-ad67-453c-944f-171ea7a4ce63",
+  "to": "aec1ab2c-10c8-43b4-97ba-1b041e3eed6d",
+  "relation": "requires",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "8443eb2e-406e-4acc-94e8-33cbabbd3679",
+        "locator": "section \"Axioms\" (full text)",
+        "quote": "Unlike phenomenal existence, which is immediate and irrefutable (an axiom), physical existence is an explanatory construct (a postulate), and it is assessed operationally (from within consciousness)"
+      }
+    ]
+  }
+}

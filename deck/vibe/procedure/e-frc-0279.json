@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "7df2f436-986f-41be-9522-86e9bc015dd3",
+  "title": "E-FRC-0279: no larger link group and no Wilson line to the screen gives SU(2)+ a center-odd scalar, fail as derived...",
+  "purpose": "Experiment E-FRC-0279 in the gauge arena: no larger link group and no Wilson line to the screen gives SU(2)+ a center-odd scalar, fail as derived: restricted to the dock's 2T, the link components of 2O, 2I, 2T x Sigma(648) and the group with W(F4)'s rotations hold 0 center-odd pieces, because the center -J stays central in each; only the group with W(F4)'s mirrors counts (165,888 center-odd dimensions of 663,552, all on the half-swapping elements, odd under both centers like a bidoublet), and its mirrors break the chiral register rule; at the cusp screen every layer dock keeps all 24 links (6 on the layer, 18 down) and Gauss's law holds exactly (gap 0, 4,160 with the down links frozen), so nothing is frozen.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L1 (L1: known mathematics, correctly confirmed).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/gauge/higgs-larger-group.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-FRC-0279",
+        "quote": null
+      }
+    ]
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "record": "proposition",
+  "id": "5bb5cc3b-42a5-4781-860a-bef3b103baab",
+  "kind": "empirical",
+  "epistemic_status": "inferred",
+  "title": "London-force dipoles are fluctuations, not states",
+  "statements": [
+    {
+      "id": "baafebde-cb27-4f5d-b1b7-6ad69c2a42a2",
+      "text": "The London force arises from instantaneous fluctuations of electron distributions, so London-force dipoles are fluctuations and cannot serve as the individual states a qubit needs.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-23"
+    }
+  ],
+  "current_statement": "baafebde-cb27-4f5d-b1b7-6ad69c2a42a2",
+  "status": "active",
+  "voice": "critique",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "aa5fd6b7-8e47-4d59-b30a-6c17aa49e06d",
+        "locator": "p. 2",
+        "quote": "The key feature is that these electric dipoles are fluctuations, not states."
+      }
+    ]
+  }
+}

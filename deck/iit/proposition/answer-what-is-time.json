@@ -1,0 +1,50 @@
+{
+  "record": "proposition",
+  "id": "f3203c1c-491e-4630-973a-90b14bed5c5c",
+  "kind": "philosophical",
+  "epistemic_status": "inferred",
+  "title": "Answer: what is time",
+  "statements": [
+    {
+      "id": "9509edc5-c91c-48cf-96fb-bb4d8fecae8c",
+      "text": "Each experience has a definite temporal grain, the time scale at which cause-effect power is maximal. The felt flow of time is to be explained as a kind of Phi-structure, work the originators call ongoing.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-23"
+    }
+  ],
+  "current_statement": "9509edc5-c91c-48cf-96fb-bb4d8fecae8c",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "ff525f31-2442-4b42-b21f-827bf3c74628",
+        "locator": "abstract",
+        "quote": "exclusion says that it has unique borders and a particular spatio-temporal grain."
+      },
+      {
+        "source": "8443eb2e-406e-4acc-94e8-33cbabbd3679",
+        "locator": "Introduction (full text)",
+        "quote": "Ongoing work is applying the identity to provide a basic account of the feeling of temporal flow [24] and that of objects [25]."
+      }
+    ]
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "11cb53a0-3b52-46db-b79c-435c59c9ca6e",
+  "title": "E-FRC-0158: one knit carrying the head-on turn base, the four-line scatter block, the folded round robin with lone...",
+  "purpose": "Experiment E-FRC-0158 in the gauge arena: one knit carrying the head-on turn base, the four-line scatter block, the folded round robin with lone steering, and the fear beat in color mode: each piece switched on alone reproduces the rule of the experiment that owns it bit for bit, the classical layer is the same whether or not tokens are open, and with everything on the rule reverses exactly with the whole.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L2 (L2: known physics reproduced on a stated model).",
+  "status": "completed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/gauge/combined-knit.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "research/result.ts R-FRC-0006",
+        "quote": null
+      }
+    ]
+  }
+}

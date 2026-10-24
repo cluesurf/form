@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "ed4794e5-477a-4e7a-93ab-71c559091c5c",
+  "title": "E-FRC-0066: the Koide phase delta = 2/9, which sets the individual lepton masses, is not geometric: it matches the...",
+  "purpose": "Experiment E-FRC-0066 in the gauge arena: the Koide phase delta = 2/9, which sets the individual lepton masses, is not geometric: it matches the rational 2/9 to one part in a hundred thousand but no natural root angle or pi-fraction (closest off by more than a thousand times that), an empirical input like the fine-structure constant, while the amplitude b/a = sqrt(2) IS geometric (the control), so the Koide relation is derived and the spectrum is free.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L1 (L1: known mathematics, correctly confirmed).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/gauge/koide-phase-not-geometric.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-FRC-0066",
+        "quote": null
+      }
+    ]
+  }
+}

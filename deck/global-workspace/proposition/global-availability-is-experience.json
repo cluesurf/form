@@ -1,0 +1,50 @@
+{
+  "record": "proposition",
+  "id": "9b2a360b-2d76-4efb-8a4a-603e641ad90a",
+  "kind": "philosophical",
+  "epistemic_status": "hypothesized",
+  "title": "Global availability is conscious experience",
+  "statements": [
+    {
+      "id": "3ef3f8e0-0a77-4c5b-a51c-0c6934315b51",
+      "text": "The global availability of information through the workspace is what we subjectively experience as a conscious state.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-23"
+    }
+  ],
+  "current_statement": "3ef3f8e0-0a77-4c5b-a51c-0c6934315b51",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "9b21a09b-835f-4256-afbf-19425df2597e",
+        "locator": "abstract",
+        "quote": "We postulate that this global availability of information through the workspace is what we subjectively experience as a conscious state."
+      },
+      {
+        "source": "48959277-86d2-4076-9942-58a24f753040",
+        "locator": "Introduction, p. 776",
+        "quote": "it is the wide accessibility of this information that is hypothesized to constitute conscious experience"
+      }
+    ]
+  }
+}

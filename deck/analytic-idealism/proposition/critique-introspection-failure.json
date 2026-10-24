@@ -1,0 +1,45 @@
+{
+  "record": "proposition",
+  "id": "87268117-a7f5-4ddc-a23b-2455ba7b28bd",
+  "kind": "philosophical",
+  "epistemic_status": "inferred",
+  "title": "Critique: the view implies a massive failure of introspection",
+  "statements": [
+    {
+      "id": "5ca9bf58-d117-4be7-95ad-ce55dfa180a6",
+      "text": "The DID model makes us pathological subjects unaware of most experiences we are having, a massive failure of introspection that is uncomfortable for realists about consciousness.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-23"
+    }
+  ],
+  "current_statement": "5ca9bf58-d117-4be7-95ad-ce55dfa180a6",
+  "status": "active",
+  "voice": "critique",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "53d26db2-2a19-4ddd-a45c-3d2eb18617b7",
+        "locator": "section 4, Cosmic idealism, p. 23",
+        "quote": "It makes us pathological subjects who are entirely unaware of the vast majority of experiences we are having."
+      }
+    ]
+  }
+}

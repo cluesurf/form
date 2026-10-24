@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "87015178-32c3-45f3-940a-6fdebcf9a04f",
+  "title": "E-SLF-0015: a stored pattern decays, but redundancy extends its survival and maintenance makes it permanent",
+  "purpose": "Experiment E-SLF-0015 in the selves arena: a stored pattern decays, but redundancy extends its survival and maintenance makes it permanent.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L2 (L2: known physics reproduced on a stated model).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/selves/bulk-persistence.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-SLF-0015",
+        "quote": null
+      }
+    ]
+  }
+}

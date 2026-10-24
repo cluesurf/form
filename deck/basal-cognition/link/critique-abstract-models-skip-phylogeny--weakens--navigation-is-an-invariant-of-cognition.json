@@ -1,0 +1,28 @@
+{
+  "record": "link",
+  "id": "7965f93a-70d1-4e8f-af69-ff87909639c8",
+  "from": "dfc0bcd7-7318-4dee-b058-a0bd0a84bc75",
+  "to": "332e575d-d3e2-4a8c-9c1c-fea529b4eb00",
+  "relation": "weakens",
+  "strength": null,
+  "rationale": "An invariant defined by abstract control models leaves out the relations to accepted cognitive behavior that would justify calling it cognition.",
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "a2a9b88f-95b0-40d1-87f3-456af2e14117",
+        "locator": "section Introduction: two approaches for addressing the scope of cognition, reporting Figdor 2024",
+        "quote": "the phylogenetic and conceptual relationships of these feedback-controlled behaviours to those of organisms we already accept as cognitive is left out of the models"
+      }
+    ]
+  }
+}

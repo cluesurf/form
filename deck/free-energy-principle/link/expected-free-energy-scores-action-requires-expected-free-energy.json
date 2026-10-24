@@ -1,0 +1,28 @@
+{
+  "record": "link",
+  "id": "43f4fca9-e563-422b-b2fd-be4d1b1a48b7",
+  "from": "51075255-9e90-4ad6-9056-9e66b95c297a",
+  "to": "d964227a-bc4a-491a-acf3-0d20dfedea59",
+  "relation": "requires",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "951a63ba-fbb2-4b78-af38-52646f22dbe0",
+        "locator": "section 7",
+        "quote": "Expected free energy plays a definitive role in active inference, where it can be regarded as a fairly universal objective function for selecting autonomous paths of least action."
+      }
+    ]
+  }
+}

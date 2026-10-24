@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "02fb8965-e4b2-4e4d-a726-c694c5b288c2",
+  "title": "E-FND-0089: the amplitude is not in the two-point sector: on the exact 6561-state ring the Koopman compression of...",
+  "purpose": "Experiment E-FND-0089 in the foundations arena: the amplitude is not in the two-point sector: on the exact 6561-state ring the Koopman compression of the charge rule onto constants, tones and pair products leaks 48 percent of the worst basis norm per beat, keeps 7 conserved quadratic observables against the closed stream sector with 13, and carries ZERO period-three eigenmodes for every rule tried, so the vacuum clock lives in trajectories and coarse sums, never as a two-point spectral phase.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L1 (L1: known mathematics, correctly confirmed).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/foundations/two-point-koopman-closure.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-FND-0089",
+        "quote": null
+      }
+    ]
+  }
+}

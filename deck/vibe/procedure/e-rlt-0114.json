@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "bb103165-26aa-49d2-ad21-5b7ebb5264e3",
+  "title": "E-RLT-0114: no composite of lineons moves where no member can, so the line law is not a fracton constraint, fail...",
+  "purpose": "Experiment E-RLT-0114 in the relativity arena: no composite of lineons moves where no member can, so the line law is not a fracton constraint, fail (G1) at L1 as derived: 12 line classes cast 9 husk directions and none a body diagonal, and of 298 sets of 1 to 3 classes none shares a span beyond one class; on the working knit (side 8, four full keys, 64 beats) 396 placed composites in 1,804 runs (176 parallel dipoles, 528 crossing pairs at one dock, 880 crossing triples, the shadows of 150 of the 220 triples spanning the husk, and the 220 triples again at side 12) give 0 bound runs and 0 movers: parallel dipoles put 0 singles off their own lines and fire K 0 times; at a hub K fires 12,288 and 23,320 times, sends singles 3 steps (5 at side 12) along all 9 line shadows, 432 and 872 runs reaching a direction no member has, but only as members leaving the hub (up to 33 singles, with freed vacuum vibes), with 0 readings off the star, 0 K off the hub and 0 body-diagonal reach, so the reach by direction has spread 1.44 over the 13 husk directions, the same as a lone love's; a lone love keeps its own line on 48 of 48 runs, and the two-hub cascade reaches every direction with 15,518 singles and is rejected as unbound.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L1 (L1: known mathematics, correctly confirmed).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/relativity/composite-lineon-mobility.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-RLT-0114",
+        "quote": null
+      }
+    ]
+  }
+}

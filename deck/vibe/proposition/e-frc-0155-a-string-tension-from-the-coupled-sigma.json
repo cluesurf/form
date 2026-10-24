@@ -1,0 +1,50 @@
+{
+  "record": "proposition",
+  "id": "53d23f9c-a8c8-45c7-ac53-8cf064f0aec6",
+  "kind": "empirical",
+  "epistemic_status": "simulated",
+  "title": "E-FRC-0155: a string tension from the coupled Sigma(648) field: at the one stationary ordered point the loops rise...",
+  "statements": [
+    {
+      "id": "eebde3cd-5eec-4e51-80dc-6b3bb7bcb3a8",
+      "text": "A string tension from the coupled Sigma(648) field: at the one stationary ordered point the loops rise far above the noise but the field is deconfined (Polyakov 0.58, chi(2,2) -0.08, chi(3,3) 0.27), with no put-in tension the coupled field holds a flux string within a few links of taut (excess 0.9 to 2.6, against 4,207 uncoupled) and pays for it with energy rising about 21 per unit length, and a cold meson at tension x beta 4.2 binds and moves as a pair but only 4.2 in 600 beats, so three gates fail.",
+      "language": "en",
+      "scope": "experiment E-FRC-0155, arena gauge, depth L2 (L2: known physics reproduced on a stated model)",
+      "conditions": "substrates: 3434. In a paper: false",
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-22"
+    }
+  ],
+  "current_statement": "eebde3cd-5eec-4e51-80dc-6b3bb7bcb3a8",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": {
+    "value": "open",
+    "reason": "holds in the vibe claim graph",
+    "basis": [],
+    "proposal": null
+  },
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "research/result.ts R-FRC-0006",
+        "quote": null
+      }
+    ]
+  }
+}

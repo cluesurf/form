@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "a97390ee-f80b-4591-b948-0eedcaa44964",
+  "title": "E-FRC-0142: the committed rule tells left from right: its only symmetries are the identity and the charge-conjugated...",
+  "purpose": "Experiment E-FRC-0142 in the gauge arena: the committed rule tells left from right: its only symmetries are the identity and the charge-conjugated reversal whose spatial part is the point inversion (a rotation in four dimensions), none of 1152 x 6 x 24 forward or reversal candidates reverses orientation where the pair rule keeps 12 that do, its turn is a chiral rotation (left and right factors turning 90 and 180 degrees), and a lone love's current response has a self-dual half 4.1 and 4.7 times its anti-self-dual half at sides 9 and 13, swapped exactly by the mirrored rule, where the reflection-symmetric pair rule gives equal halves exactly.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L2 (L2: known physics reproduced on a stated model).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/gauge/parity-of-the-rule.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-FRC-0142",
+        "quote": null
+      }
+    ]
+  }
+}

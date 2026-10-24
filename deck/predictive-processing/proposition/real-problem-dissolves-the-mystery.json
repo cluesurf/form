@@ -1,0 +1,45 @@
+{
+  "record": "proposition",
+  "id": "d64712bd-4a91-4660-b675-f3c6f2d2c1f7",
+  "kind": "philosophical",
+  "epistemic_status": "hypothesized",
+  "title": "Explaining properties of experience will dissolve the sense of mystery",
+  "statements": [
+    {
+      "id": "3cf8b5c6-8568-4a85-939c-422182e0bc14",
+      "text": "As science becomes better able to explain, predict and control properties of consciousness through mechanisms, the sense of mystery about how consciousness relates to matter will fade, as vitalism faded for life.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-23"
+    }
+  ],
+  "current_statement": "3cf8b5c6-8568-4a85-939c-422182e0bc14",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "e391f78a-61b9-464c-883b-2181082dabd3",
+        "locator": "accepted manuscript p. 23",
+        "quote": "as we become better able to explain, predict, and control properties of consciousness in terms of underlying mechanisms, the sense of mystery about how consciousness relates to matter will dissolve"
+      }
+    ]
+  }
+}

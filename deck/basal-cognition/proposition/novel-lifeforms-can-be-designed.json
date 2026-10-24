@@ -1,0 +1,45 @@
+{
+  "record": "proposition",
+  "id": "6fc1cfba-8cee-46b8-86c7-3476a0ef9c3f",
+  "kind": "empirical",
+  "epistemic_status": "inferred",
+  "title": "New living forms can be designed from unaltered cells",
+  "statements": [
+    {
+      "id": "547f1155-bd98-4ea3-9f37-373e8f6d9250",
+      "text": "Designs evolved in simulation can be built from frog cells into new living forms with predicted behaviors, without genetic engineering.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-23"
+    }
+  ],
+  "current_statement": "547f1155-bd98-4ea3-9f37-373e8f6d9250",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "17f35253-060e-4e9b-8b47-01ee8cf43fdd",
+        "locator": "abstract",
+        "quote": "transferable designs are then created using a cell-based construction toolkit to realize living systems with the predicted behaviors"
+      }
+    ]
+  }
+}

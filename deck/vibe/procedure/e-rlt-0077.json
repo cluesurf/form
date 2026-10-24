@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "f75c979a-d308-4a31-bb44-469c0e462aa6",
+  "title": "E-RLT-0077: a sparse living vacuum, fail (the lone wake, the walls): a pattern of stored units runs the living-pair...",
+  "purpose": "Experiment E-RLT-0077 in the relativity arena: a sparse living vacuum, fail (the lone wake, the walls): a pattern of stored units runs the living-pair knit's exact period-6 cycle exactly when every dock's beat-1 occupation momentum is zero (condition Z) and the veto separates neighboring units (A), 0 disagreements over 5,187 patterns, all 4,095 uniform line sets exact; the simplest, one line on every dock, keeps W(F4) as a rule (0 failures over 1,152 coin maps and box automorphisms) while its state keeps 48, C, reversal, motion reversal and CPT, and its vacuum pairs meet (160 in 480 beats); superposition holds (2e-16), but a lone love at 60 degrees to the line wakes 266 trits in the first period on side 9 (committed 33; orthogonal 1, along 23), a wake that fills a plane of docks until the torus stops it (about 3 $L^2$), and the walls item is quantized for only the 6 of 12 lines lying in the wall.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L2 (L2: known physics reproduced on a stated model).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/relativity/sparse-living-vacuum.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-RLT-0077",
+        "quote": null
+      }
+    ]
+  }
+}

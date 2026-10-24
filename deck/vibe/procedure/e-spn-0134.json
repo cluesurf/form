@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "691101e2-d302-4260-8f73-7748909b17f5",
+  "title": "E-SPN-0134: what the candidate rule for 3d motion (flat links, a filled love sea, the fermionic frame mixer) breaks...",
+  "purpose": "Experiment E-SPN-0134 in the spin arena: what the candidate rule for 3d motion (flat links, a filled love sea, the fermionic frame mixer) breaks, fail (A2, the front): of 17 checked results 10 change, 6 do not and 1 does not apply; the working keyed beat's occupation is link-blind (the line law and K 0 off on flat links) but the like meetings' equal-point share goes from 37,994 to 389,747 of 491,318, E-SPN-0103's ring form from fidelity 0.30 to 0.9996 (E-SPN-0104's Kab 0.21 to 0.9996), E-SPN-0130's gated share from 0.03 to 1, and the point-veto knit's occupation by 1,761,568 trits over 48 beats (veto off: 0), a reader E-SPN-0132 missed; the love sea and the fear sea are both stationary vacua (0 off, 0 moves, 0 K) and charge conjugation maps every run on one to the other exactly (0 off), so C returns as a choice of sea; the sea is charged (98,304 at side 8) but sources no field, alpha is unchanged (two holes interact exactly as two loves, ratio 1.0000) and Gauss for the dragged energy lines holds (0 off), but a hole's depth is exactly the negative of a love's (-0.0015 against +0.0015 at the source), so under the count as the source the sea's excitations fall up; the mixer breaks the line law (2 lines) as 3d motion must, the love-fear meson and its Klein channel are gone (a fear is two holes and a store after one beat), the vacuum's stores are still (0 changes against 625,152), and the mixed excitation's front reaches 4 box steps in 8 beats against the working lineon's 8, half the speed, on the love sea and the empty mesh alike.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L1 (L1: known mathematics, correctly confirmed).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/spin/candidate-rule-audit.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-SPN-0134",
+        "quote": null
+      }
+    ]
+  }
+}

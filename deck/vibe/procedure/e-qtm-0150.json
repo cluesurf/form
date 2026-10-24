@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "8e6a6b6a-8879-4f5c-aa82-29cd8e35bda5",
+  "title": "E-QTM-0150: state-independent contextuality lives in the measurements, not in the knot: commuting displacements of...",
+  "purpose": "Experiment E-QTM-0150 in the quantum arena: state-independent contextuality lives in the measurements, not in the knot: commuting displacements of odd dimension multiply with no phase, so the phase points assign every Clifford reading of any number of roles consistently and no Peres-Mermin square or Kochen-Specker set exists among the model's readings (the qubit square has 0 of 512), while Yu-Oh's 13 rays, 9 of them outside the stabilizer states, read 25/3 against 8 on every reduced role state the knit reaches, with fear or without.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L1 (L1: known mathematics, correctly confirmed).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/quantum/state-independent-contextuality.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-QTM-0150",
+        "quote": null
+      }
+    ]
+  }
+}

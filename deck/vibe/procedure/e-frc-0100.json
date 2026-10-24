@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "810506bd-9026-48e7-bf52-b41e2f379611",
+  "title": "E-FRC-0100: a color-symmetric permutation rule can only relabel slots (2 of 9! pair permutations, 1 for a...",
+  "purpose": "Experiment E-FRC-0100 in the gauge arena: a color-symmetric permutation rule can only relabel slots (2 of 9! pair permutations, 1 for a color-anticolor pair, 6 for three slots), the color-symmetric pair unitaries are a circle whose only classical points are identity and swap, every other point entangles, and a tone that is also the clock keeps only 3 of the 9 color generators.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L1 (L1: known mathematics, correctly confirmed).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/gauge/color-needs-amplitudes.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-FRC-0100",
+        "quote": null
+      }
+    ]
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "350508fc-dd94-42a9-a0ce-21aba1ac465e",
+  "title": "E-FRC-0114: a pair rule that keeps a color triality as a glide in time, sigma $U_t = U_{t+2}$ sigma, with no...",
+  "purpose": "Experiment E-FRC-0114 in the gauge arena: a pair rule that keeps a color triality as a glide in time, sigma $U_t = U_{t+2}$ sigma, with no four-line vertex: it reverses exactly, conserves charge, moves a single tone from a color line onto one orbit line, which no rule symmetric beat by beat can do, and connects all twelve lines.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L2 (L2: known physics reproduced on a stated model).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/gauge/glide-weave.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-FRC-0114",
+        "quote": null
+      }
+    ]
+  }
+}

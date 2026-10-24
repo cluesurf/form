@@ -1,0 +1,45 @@
+{
+  "record": "proposition",
+  "id": "e0d20212-c0ab-4673-86eb-764588ff283f",
+  "kind": "philosophical",
+  "epistemic_status": "inferred",
+  "title": "Physical objects have no causal powers",
+  "statements": [
+    {
+      "id": "4c029a97-6d6c-4765-8039-8c79b0505981",
+      "text": "Under conscious realism, physical objects, being icons of an interface, have no causal powers of their own.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-23"
+    }
+  ],
+  "current_statement": "4c029a97-6d6c-4765-8039-8c79b0505981",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "9f6802be-e2fa-4f89-b303-461db4c74e7e",
+        "locator": "Objections and replies, objection 14",
+        "quote": "physical objects have no causal powers"
+      }
+    ]
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "abce7f3a-f236-44a2-ba40-dbce0f1df8ef",
+  "title": "E-GRV-0018: two graviton polarizations measured from the derived operator spectrum",
+  "purpose": "Experiment E-GRV-0018 in the gravity arena: two graviton polarizations measured from the derived operator spectrum.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L2 (L2: known physics reproduced on a stated model).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/gravity/graviton.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-GRV-0018",
+        "quote": null
+      }
+    ]
+  }
+}

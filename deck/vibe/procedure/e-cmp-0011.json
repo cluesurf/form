@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "a1cb2884-4990-4d4b-a4a7-c3fa28ffdc4e",
+  "title": "E-CMP-0011: {3,4,3,4} is computationally universal via railway structure, ternary NAND and Rule 110, a register...",
+  "purpose": "Experiment E-CMP-0011 in the computation arena: {3,4,3,4} is computationally universal via railway structure, ternary NAND and Rule 110, a register machine, and cusp Life.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L2 (L2: known physics reproduced on a stated model).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/computation/turing-3434.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-CMP-0011",
+        "quote": null
+      }
+    ]
+  }
+}

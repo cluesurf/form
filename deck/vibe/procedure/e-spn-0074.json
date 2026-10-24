@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "be1513dd-fe0e-485f-babd-645e904aa056",
+  "title": "E-SPN-0074: a string that reads the love-fear pair through the flux, a STAND-IN on locked tokens: paid from a store...",
+  "purpose": "Experiment E-SPN-0074 in the spin arena: a string that reads the love-fear pair through the flux, a STAND-IN on locked tokens: paid from a store (a joint copy past what the store holds bounces), it is an integer, reversible, role-blind rule that binds the love-fear pair in every channel the fear beat cannot see and three loves as three, and the bound pair still travels ballistically; charged as a phase omega^span instead it cannot confine (about a third of the weight escapes, a = 0.64), because a phase is periodic in the length: in discrete time only a count confines.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L2 (L2: known physics reproduced on a stated model).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/spin/paid-string-binding.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-SPN-0074",
+        "quote": null
+      }
+    ]
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "d62331ea-89a2-43fe-aec7-5d3e7ac93d82",
+  "title": "E-GRV-0063: no bending of the husk light by a neutral depth lump, fail on E2 and E3: on the trit light (side 16, D...",
+  "purpose": "Experiment E-GRV-0063 in the gravity arena: no bending of the husk light by a neutral depth lump, fail on E2 and E3: on the trit light (side 16, D 4) a front passing a neutral lump of 2, 4 or 12 vibes at impact b = 1 to 4 is deflected by exactly 0, delayed by 0 and differs from the no-lump front at 0 husk entries on every beat, flipped or not, so nothing grows with the depth content or falls as 1/b; the same vibes with nonzero column sums shift the front's centroid by whole columns (N = 12: +1.43, +0.46, -0.57, -1.48 at b = 1 to 4, flipped +1.49, +0.59, -0.48, -1.52), away from the lump near it and toward where its strings run beyond, and bring it 1 to 11 beats early: the strings' radiated light, not a potential.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L1 (L1: known mathematics, correctly confirmed).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/gravity/depth-lump-bending.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-GRV-0063",
+        "quote": null
+      }
+    ]
+  }
+}

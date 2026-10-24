@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "d7f3d72a-a04d-4a56-8d03-e09e51dc6109",
+  "title": "E-QTM-0046: given the orthogonal rotation coin (an inserted ingredient that conserves the L2 norm by construction)...",
+  "purpose": "Experiment E-QTM-0046 in the quantum arena: given the orthogonal rotation coin (an inserted ingredient that conserves the L2 norm by construction), the quadratic intensity $a^2+b^2$ is the only conserved measure among the tested candidates (quadratic, L1, signed) on the emergent-i walk, a conservation consistency check on the Born-weight form, with a non-orthogonal coin control that breaks the conservation.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L1 (L1: known mathematics, correctly confirmed).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/quantum/born-weight-from-conservation.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-QTM-0046",
+        "quote": null
+      }
+    ]
+  }
+}

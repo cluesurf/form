@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "b9cade90-1b33-44ef-8baf-9960922704c1",
+  "title": "E-FLD-0022: in the committed rule's design family a rule conserves particle momentum exactly if and only if its wire...",
+  "purpose": "Experiment E-FLD-0022 in the fluids arena: in the committed rule's design family a rule conserves particle momentum exactly if and only if its wire table has no hop and its exchange never moves momentum between the couple's lines, and then it conserves each of the twelve line momenta separately (a couple is too small a block for momentum to pass between lines, so every such rule has momentum but no momentum exchange); of the 1,345 distinct such members with a negation-symmetric condition, 31 pass every committed structural gate (CPT, a vacuum period, line components, travel, superposition, reversal, walls), all palindromic on the two pair-making hop-free tables, among them the committed exchange widened to a lone tone against a calm or paired line; the smallest change that lets momentum pass between lines is a block of three lines of one A2 plane (the FHP triple), and four-line binary scatterings leave P and charge parity as the only invariants.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L1 (L1: known mathematics, correctly confirmed).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/fluids/momentum-family.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-FLD-0022",
+        "quote": null
+      }
+    ]
+  }
+}

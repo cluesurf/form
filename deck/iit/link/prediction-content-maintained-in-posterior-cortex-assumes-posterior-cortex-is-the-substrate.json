@@ -1,0 +1,28 @@
+{
+  "record": "link",
+  "id": "896c9bb9-0e07-4e5b-be62-bfd3af71d524",
+  "from": "5c32f7b6-9915-46a5-8c78-379485bb203d",
+  "to": "fe02a59f-4a93-4f35-9d54-34725cd7dff6",
+  "relation": "assumes",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b84809ac-0650-4173-b863-4ba1c946fcca",
+        "locator": "Fig. 1 legend (full text)",
+        "quote": "For prediction 2 (maintenance of conscious content), IIT posits that conscious content is actively maintained in the posterior cortex"
+      }
+    ]
+  }
+}

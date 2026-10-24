@@ -1,0 +1,39 @@
+{
+  "record": "observation",
+  "id": "72ee1518-8e36-4dec-92de-806bfd8dc649",
+  "kind": "simulation_result",
+  "epistemic_status": "simulated",
+  "description": "A system of four noisy binary AND gates has 1.15 bits of effective information at the micro level and 1.55 bits at a two-element macro level, a causal emergence of 0.40 bits.",
+  "method": "simulation",
+  "status": "reported",
+  "source": "8360d34d-30cb-44f8-89c9-41768fb53f0d",
+  "procedure": null,
+  "variable": "causal emergence",
+  "value": "0.40",
+  "unit": "bits",
+  "uncertainty": null,
+  "sample_size": null,
+  "replication_count": null,
+  "quality": null,
+  "limitations": null,
+  "conflicts_of_interest": null,
+  "observed_at": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "8360d34d-30cb-44f8-89c9-41768fb53f0d",
+        "locator": "Results, Spatial Causal Emergence",
+        "quote": "For the macro level, EI(SM) = 1.55 bits, higher than EI(Sm) = 1.15 bits. Thus, CE(S) = 0.40 bits"
+      }
+    ]
+  }
+}

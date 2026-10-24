@@ -1,0 +1,45 @@
+{
+  "record": "proposition",
+  "id": "23e7eee6-bbb3-4427-845b-eef77947b2b6",
+  "kind": "mathematical",
+  "epistemic_status": "inferred",
+  "title": "Original free energy lemma",
+  "statements": [
+    {
+      "id": "352450e6-05bd-42c2-9f62-fe4666bfcabb",
+      "text": "In the 2013 formulation, the existence of a Markov blanket at steady state means that internal states minimize a free energy functional of blanket states, so that the density they encode matches the conditional density over external states.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-23"
+    }
+  ],
+  "current_statement": "352450e6-05bd-42c2-9f62-fe4666bfcabb",
+  "status": "disputed",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "a528c72c-55f5-422d-b6c3-61a840e5810d",
+        "locator": "abstract",
+        "quote": "The existence of a Markov blanket means that internal states will appear to minimize a free energy functional of the states of their Markov blanket."
+      }
+    ]
+  }
+}

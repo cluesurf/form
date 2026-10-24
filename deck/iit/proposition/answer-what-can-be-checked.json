@@ -1,0 +1,45 @@
+{
+  "record": "proposition",
+  "id": "06751c0d-ca82-45e5-b01d-5c319e30f69f",
+  "kind": "philosophical",
+  "epistemic_status": "inferred",
+  "title": "Answer: what can be checked, and how",
+  "statements": [
+    {
+      "id": "8b68dd25-35c2-424d-9d87-00bd50c1fe1f",
+      "text": "Predictions about where and when the substrate of consciousness is (posterior cortex, not cerebellum, fading in dreamless sleep), the perturbational complexity index in patients, and the prediction that changing connectivity without changing activity changes experience.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-23"
+    }
+  ],
+  "current_statement": "8b68dd25-35c2-424d-9d87-00bd50c1fe1f",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "3218938b-67fa-48e6-bf07-e92f08ecd46c",
+        "locator": "abstract",
+        "quote": "The theory leads to some counterintuitive predictions and can be used to develop new tools for assessing consciousness in non-communicative patients."
+      }
+    ]
+  }
+}

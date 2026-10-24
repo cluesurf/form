@@ -1,0 +1,45 @@
+{
+  "record": "proposition",
+  "id": "90a12d96-630f-458b-aeb1-8a382305796c",
+  "kind": "definitional",
+  "epistemic_status": "designed",
+  "title": "Self-transcendence",
+  "statements": [
+    {
+      "id": "50c0c78b-4d53-4d8a-9020-d80a1cc1fea6",
+      "text": "Self-transcendence is the abrupt broadening of one’s sense of self through a step-function enrichment of subjective inner life, such as feeling unconfined to the body or gaining new skills or insights.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-23"
+    }
+  ],
+  "current_statement": "50c0c78b-4d53-4d8a-9020-d80a1cc1fea6",
+  "status": "active",
+  "voice": "framework",
+  "defines": "self-transcendence",
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "4047cb59-a856-42f5-98c7-b6e9621caf6f",
+        "locator": "Introduction, p. 33",
+        "quote": "‘self-transcendence’ is defined as the abrupt—thus not gradual—broadening of one’s sense of self through a step-function enrichment of one’s subjective inner life"
+      }
+    ]
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "record": "proposition",
+  "id": "4f941517-e7bd-49d5-bc3b-ee40a60511d3",
+  "kind": "empirical",
+  "epistemic_status": "hypothesized",
+  "title": "Consciousness and cognition are scale-free",
+  "statements": [
+    {
+      "id": "163583dd-b72d-4620-b7fc-fdd7921f8de1",
+      "text": "Consciousness and cognition are scale-free, so basal nonneural systems, including synthetic constructs, are informative about experience in complex systems and easier to manipulate experimentally.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-23"
+    }
+  ],
+  "current_statement": "163583dd-b72d-4620-b7fc-fdd7921f8de1",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "1792e489-be3b-46bb-ba4b-0dcd00a0abc7",
+        "locator": "abstract",
+        "quote": "we advance a scale-free characterization of consciousness and cognition that regards basal systems, including synthetic constructs, as not only informative about the structure and function of experience in more complex systems"
+      }
+    ]
+  }
+}

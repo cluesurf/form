@@ -1,0 +1,39 @@
+{
+  "record": "observation",
+  "id": "0067d47d-9402-4284-a3d4-e35daee79229",
+  "kind": "documentary_record",
+  "epistemic_status": "observed",
+  "description": "A review of the mechanisms behind the mismatch negativity, an automatic brain response to a broken sensory rule, weighed the adaptation and model adjustment hypotheses and proposed predictive coding as a framework that unifies both.",
+  "method": "document_review",
+  "status": "reported",
+  "source": "fa171de0-e5de-44aa-8b15-739f50ee933b",
+  "procedure": null,
+  "variable": null,
+  "value": null,
+  "unit": null,
+  "uncertainty": null,
+  "sample_size": null,
+  "replication_count": null,
+  "quality": null,
+  "limitations": "A review that proposes a unifying account. It is not a decisive test between the hypotheses.",
+  "conflicts_of_interest": "Karl Friston is a co-author.",
+  "observed_at": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "fa171de0-e5de-44aa-8b15-739f50ee933b",
+        "locator": "abstract",
+        "quote": "This paper presents a review of studies that focus on neuronal mechanisms underlying the MMN generation, discusses the two major explanatory hypotheses, and proposes predictive coding as a general framework that attempts to unify both."
+      }
+    ]
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "5c6c5c7e-90e0-4137-9224-39b88c35aa13",
+  "title": "E-FRC-0127: the cube-root swap phase as a beat on whole loves and fears: an exact, reversible, charge-conserving...",
+  "purpose": "Experiment E-FRC-0127 in the gauge arena: the cube-root swap phase as a beat on whole loves and fears: an exact, reversible, charge-conserving integer step whose fears come from calm as pairs, exact for exactly as many steps as the whole has grain, and the gate set it completes checked universal, its closure containing SU(9).",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L1 (L1: known mathematics, correctly confirmed).",
+  "status": "completed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/gauge/fear-beat.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "research/result.ts R-FRC-0006",
+        "quote": null
+      }
+    ]
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "record": "proposition",
+  "id": "37c76752-35b3-439b-b163-1bf44b416b33",
+  "kind": "empirical",
+  "epistemic_status": "hypothesized",
+  "title": "2025: one temporal field unifies bioelectric morphogenesis and microtubule coherence",
+  "statements": [
+    {
+      "id": "ec7c952d-eb65-4ad5-abc4-826cae43dc69",
+      "text": "Bioelectric morphogenesis and quantum coherent microtubular states arise from one conserved temporal transport field, giving coherence times and bioelectric relaxation rates as functions of temporal shear and spacetime curvature.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "ec7c952d-eb65-4ad5-abc4-826cae43dc69",
+  "status": "superseded",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": {
+    "value": "open",
+    "reason": "The author graded this claim superseded in his July 2026 Version 2.0 rebuild. No test has decided it.",
+    "basis": [],
+    "proposal": null
+  },
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "e8972a92-3c03-4ed2-9b1b-3ac54e4f9ebb",
+        "locator": "abstract",
+        "quote": "A four-dimensional temporal hydrodynamic formulation is developed in which bioelectric morphogenesis and quantum coherent microtubular states arise from a single conserved temporal transport field."
+      }
+    ]
+  }
+}

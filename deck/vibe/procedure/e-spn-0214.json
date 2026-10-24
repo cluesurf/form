@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "0c77af67-e08e-4f0a-a8b8-8687a34d6c5f",
+  "title": "E-SPN-0214: explores whether the register pair's 1s-2s clock, read at the first contact-well-removed point where...",
+  "purpose": "Experiment E-SPN-0214 in the spin arena: explores whether the register pair's 1s-2s clock, read at the first contact-well-removed point where both levels are clean single lines, ticks slower when it moves as relativity says.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L2 (L2: known physics reproduced on a stated model).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/spin/register-pair-clean-clock.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-SPN-0214",
+        "quote": null
+      }
+    ]
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "record": "proposition",
+  "id": "8d5e22ee-8804-4369-bc5f-af2fd4805540",
+  "kind": "definitional",
+  "epistemic_status": "designed",
+  "title": "The global workspace",
+  "statements": [
+    {
+      "id": "1f5ef2f9-5f25-4106-a4d2-20cd0c7b14f5",
+      "text": "The global workspace is a fleeting, limited-capacity memory in which only one consistent content dominates at a time, and whose dominant content is distributed widely to the many specialized networks of the brain.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-23"
+    }
+  ],
+  "current_statement": "1f5ef2f9-5f25-4106-a4d2-20cd0c7b14f5",
+  "status": "active",
+  "voice": "framework",
+  "defines": "global workspace",
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "27d49895-2a70-4caf-8a9d-44136817650c",
+        "locator": "p. 47",
+        "quote": "Global workspace theory suggests a fleeting memory capacity in which only one consistent content can be dominant at any given moment [1–6]. Dominant information is widely distributed in the brain."
+      }
+    ]
+  }
+}

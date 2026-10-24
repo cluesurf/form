@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "505a546c-8843-49c5-a5fa-f54d108406c7",
+  "title": "E-GRV-0151: the first law dM = T dS on the membrane horizon holds up to one constant, partial (H1 fails, the kill...",
+  "purpose": "Experiment E-GRV-0151 in the gravity arena: the first law dM = T dS on the membrane horizon holds up to one constant, partial (H1 fails, the kill does not fire): with M = CAP / profile(r_h), the same object in E-GRV-0123 and 0131, T the profile kappa / 2 pi in inverse docks and S = T_cut ln(span), T dS/dM reads 1.432 .. 1.502 over M 502 .. 2955 (spread 4.9 percent, from the profile T M; neighbour differences 1.40 .. 1.53), the S / A over 1/4G of E-GRV-0131 as derived; a cut link would need 12.48 nats (0.993 of 4 pi) against 18.18, or a unit of M 1.457 inverse docks; the headroom register C does not enter (the horizon is the same at C 243 and 1539); the held tear reads 5.2 .. 24.3 and A / 4G within 0.029 of 1.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L2 (L2: known physics reproduced on a stated model).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/gravity/first-law-check.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-GRV-0151",
+        "quote": null
+      }
+    ]
+  }
+}

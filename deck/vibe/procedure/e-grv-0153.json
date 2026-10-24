@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "ad1e1df2-3c52-465d-9067-dc829f409ca7",
+  "title": "E-GRV-0153: a uniform source on a closed husk box moves only the depth's zero and tilts nothing, exact, pass: on...",
+  "purpose": "Experiment E-GRV-0153 in the gravity arena: a uniform source on a closed husk box moves only the depth's zero and tilts nothing, exact, pass: on E-GRV-0090's bounded depth field (side 16, 1,024 beats) the lines cannot hold a uniform content (every line field's divergence sums to 0), and a uniform source of 1, -2 or 50 units a dock given directly leaves every step, rest and found depth bit for bit the departure's alone, with zero or a dipole beneath it, while the rate of every dock gains the same 2 c 297^2 a beat (wrapping up to 471,040 times unseen); sources of the same total that are not uniform tilt it (a planar pair's averaged contrast 0.674 against the static 2/3); below one content unit a uniform source changes steps on a structured field by up to 8.6e-6 of a step, the carried rest's rounding.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L1 (L1: known mathematics, correctly confirmed).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/gravity/uniform-source-blind.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-GRV-0153",
+        "quote": null
+      }
+    ]
+  }
+}

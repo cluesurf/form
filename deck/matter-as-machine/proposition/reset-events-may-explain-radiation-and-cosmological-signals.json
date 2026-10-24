@@ -1,0 +1,50 @@
+{
+  "record": "proposition",
+  "id": "6892f54a-272d-4585-a912-f329a4dfc629",
+  "kind": "empirical",
+  "epistemic_status": "hypothesized",
+  "title": "Reset events may explain radiation and cosmological signals",
+  "statements": [
+    {
+      "id": "56959b63-08d0-464a-9ecf-3d33af6315c2",
+      "text": "Reset events may account for the source of electromagnetic radiation, the proton to electron mass ratio, the black-body spectrum, the cosmic microwave background, and, together with photons slowing down, cosmological redshift.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "56959b63-08d0-464a-9ecf-3d33af6315c2",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "db353f68-4e44-4edf-9c3b-89c4dc2c48b2",
+        "locator": "what they may explain",
+        "quote": "the black-body radiation spectrum;"
+      },
+      {
+        "source": "db353f68-4e44-4edf-9c3b-89c4dc2c48b2",
+        "locator": "what they may explain",
+        "quote": "cosmological redshift, when combined with photon deceleration;"
+      }
+    ]
+  }
+}

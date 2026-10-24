@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "da0ac5f8-e216-4585-aedd-f1bdf8029697",
+  "title": "E-FND-0071: a pair of ternary tones has exactly nine joint states (three squared) and the balanced two-trit place...",
+  "purpose": "Experiment E-FND-0071 in the foundations arena: a pair of ternary tones has exactly nine joint states (three squared) and the balanced two-trit place spans nine values symmetrically from minus four to plus four, so nine is the forced ternary squared, while a binary pair gives only four.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L1 (L1: known mathematics, correctly confirmed).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/foundations/nine-is-ternary-squared.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-FND-0071",
+        "quote": null
+      }
+    ]
+  }
+}

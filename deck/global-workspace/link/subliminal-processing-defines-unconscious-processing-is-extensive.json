@@ -1,0 +1,28 @@
+{
+  "record": "link",
+  "id": "446ac649-55e6-4868-9d6c-37b5cd9e4c36",
+  "from": "4a0271dd-1f10-43de-bb2d-3308a7d9af7b",
+  "to": "531299ba-d038-40da-833a-b9daf54d142a",
+  "relation": "defines",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "2374e38b-3bde-4e20-9ad5-8edab14a34c3",
+        "locator": "Major Experimental Paradigms",
+        "quote": "A subliminal stimulus is one in which the bottom-up, stimulus-driven information is so reduced as to make it undetectable, even with focused attention."
+      }
+    ]
+  }
+}

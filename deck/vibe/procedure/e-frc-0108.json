@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "59906de0-02ed-4930-88e5-4d2b17a1a5ec",
+  "title": "E-FRC-0108: on a box with D4-shaped periods all 1152 coin symmetries act, against 384 on the integer torus the...",
+  "purpose": "Experiment E-FRC-0108 in the gauge arena: on a box with D4-shaped periods all 1152 coin symmetries act, against 384 on the integer torus the committed rule was searched on, and there the previous knit evolves in exact step with its two color-selecting trialities while the committed turning weave commutes with none.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L2 (L2: known physics reproduced on a stated model).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/gauge/d4-box-triality.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-FRC-0108",
+        "quote": null
+      }
+    ]
+  }
+}

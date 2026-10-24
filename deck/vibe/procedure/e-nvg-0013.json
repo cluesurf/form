@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "b3c32591-e7c6-445b-9a25-3f33fb99ee33",
+  "title": "E-NVG-0013: the admissible-address count (no two adjacent ones) follows the Fibonacci recurrence and grows by the...",
+  "purpose": "Experiment E-NVG-0013 in the addressing arena: the admissible-address count (no two adjacent ones) follows the Fibonacci recurrence and grows by the golden ratio (1 + sqrt 5)/2, so the five enters the addressing through the square root of five in the golden mean, while plain binary grows by two.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L1 (L1: known mathematics, correctly confirmed).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/addressing/five-golden-addressing.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-NVG-0013",
+        "quote": null
+      }
+    ]
+  }
+}

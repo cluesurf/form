@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "373de43b-82bb-4276-9722-3eff1c882be4",
+  "title": "E-CSM-0014: the bare Benincasa-Dowker action exhibits non-manifold dominance, a phase transition where...",
+  "purpose": "Experiment E-CSM-0014 in the cosmology arena: the bare Benincasa-Dowker action exhibits non-manifold dominance, a phase transition where manifold-likeness collapses as the coupling rises.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L1 (L1: known mathematics, correctly confirmed).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/cosmology/dynamics.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-CSM-0014",
+        "quote": null
+      }
+    ]
+  }
+}

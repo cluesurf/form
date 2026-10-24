@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "5f696fdf-9285-4b1b-bcdd-a97654f67539",
+  "title": "E-FRC-0160: the coupled Sigma(648) rule cannot hold the confined point of the modified action: its drain stalls 4.4...",
+  "purpose": "Experiment E-FRC-0160 in the gauge arena: the coupled Sigma(648) rule cannot hold the confined point of the modified action: its drain stalls 4.4 to 9.7 units per link above the lowest level, and releasing them carries beta0 to 7 to 9 from the ordered starts (Polyakov 0.56 to 0.63, chi(2,2) 0.030 +- 0.042) and to 3.8 from the disordered one (confined, loops at the noise), so no confining string tension can be read.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L2 (L2: known physics reproduced on a stated model).",
+  "status": "completed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/gauge/sigma-confined-point.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "research/result.ts R-FRC-0006",
+        "quote": null
+      }
+    ]
+  }
+}

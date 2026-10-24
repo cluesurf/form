@@ -1,0 +1,28 @@
+{
+  "record": "link",
+  "id": "c1edecce-0e7e-4293-9e9f-8a891bb0e1ea",
+  "from": "7da1c485-3b41-4586-8571-d2beaace8450",
+  "to": "0bc8d67f-2888-412e-841d-86b1b133ddaf",
+  "relation": "requires",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "1a235d11-40a1-4047-a972-4206bd4007b2",
+        "locator": "abstract",
+        "quote": "We suggest that decoherence is limited to the immediate surroundings of the cell membrane and of intercompartmental boundaries within the cell, and that bulk cellular biochemistry implements quantum information processing."
+      }
+    ]
+  }
+}

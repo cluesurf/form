@@ -1,0 +1,45 @@
+{
+  "record": "proposition",
+  "id": "a26014f2-e539-4e1d-a7cc-2a5bbf8042b8",
+  "kind": "empirical",
+  "epistemic_status": "hypothesized",
+  "title": "Conscious access arises as a collective network state",
+  "statements": [
+    {
+      "id": "08140a6a-c44a-4f79-b6ae-910b24e014d5",
+      "text": "Conscious access is not a property of single neurons: it arises when tight bidirectional connectivity among workspace hubs triggers a sudden collective reverberant state.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-23"
+    }
+  ],
+  "current_statement": "08140a6a-c44a-4f79-b6ae-910b24e014d5",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "48959277-86d2-4076-9942-58a24f753040",
+        "locator": "p. 777",
+        "quote": "Their tight bidirectional connectivity creates the conditions for ignition"
+      }
+    ]
+  }
+}

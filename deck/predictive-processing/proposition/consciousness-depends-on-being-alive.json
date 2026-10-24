@@ -1,0 +1,45 @@
+{
+  "record": "proposition",
+  "id": "64ce15ca-292e-414c-a199-f6796aed5316",
+  "kind": "philosophical",
+  "epistemic_status": "hypothesized",
+  "title": "Consciousness depends on being a living organism",
+  "statements": [
+    {
+      "id": "eb803170-35f4-45f2-8895-1cf1dcf57e62",
+      "text": "Computation is not a sufficient basis for consciousness. Consciousness depends on our nature as living organisms, a form of biological naturalism.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-23"
+    }
+  ],
+  "current_statement": "eb803170-35f4-45f2-8895-1cf1dcf57e62",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "e391f78a-61b9-464c-883b-2181082dabd3",
+        "locator": "accepted manuscript p. 1, abstract",
+        "quote": "challenging the assumption that computation provides a sufficient basis for consciousness"
+      }
+    ]
+  }
+}

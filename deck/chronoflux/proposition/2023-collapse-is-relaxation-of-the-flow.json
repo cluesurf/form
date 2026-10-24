@@ -1,0 +1,45 @@
+{
+  "record": "proposition",
+  "id": "d0ce589f-6528-4ae1-b66f-049202f85087",
+  "kind": "empirical",
+  "epistemic_status": "hypothesized",
+  "title": "2023: quantum collapse is a relaxation of the temporal flow",
+  "statements": [
+    {
+      "id": "90c18f68-46d2-40b6-983c-a5e248abe06c",
+      "text": "Quantum collapse is a physical relaxation process with a local rate built from invariants of the temporal flow, giving a covariant, non-signaling Lindblad dynamics with quantitative predictions for interferometers, superconducting circuits and optomechanical resonators.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "90c18f68-46d2-40b6-983c-a5e248abe06c",
+  "status": "superseded",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "d3a02b90-0aa6-42e9-a552-ed28f62768c1",
+        "locator": "abstract",
+        "quote": "Collapse is treated as a relaxation process driven by invariants of temporal flow rather than as an axiom or external postulate."
+      }
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "record": "link",
+  "id": "20a52858-b173-4c3c-b823-631352310b9d",
+  "from": "04c32671-c3be-4875-b42b-6167e347dc16",
+  "to": "d8065bab-fd02-46e9-bec2-6508828ae91c",
+  "relation": "requires",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "c3908a50-f858-42d6-8c6b-be810bd5a82f",
+        "locator": "full text",
+        "quote": "The idea here is that possessing a generative model that can distinguish between self and another is necessary for self-consciousness."
+      }
+    ]
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "record": "link",
+  "id": "9bc3fbe6-74fd-41c9-97c0-ed6c13cb6b2a",
+  "from": "b311a2a6-201b-4083-a829-5fb5e6200b2e",
+  "to": "0ea75589-ad54-440a-b902-48977501dda6",
+  "relation": "contradicts",
+  "strength": null,
+  "rationale": "The author shows the 2025 ratio is an exact metrological identity, so it fixes no value of alpha and the claim of a parameter-free derivation fails.",
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "3ecdec4e-6a4b-4ab2-8fb6-d41aafa39e18",
+        "locator": "abstract",
+        "quote": null
+      },
+      {
+        "source": "897d033e-437c-4d7a-8374-f7b185797bb5",
+        "locator": "abstract",
+        "quote": null
+      }
+    ]
+  }
+}

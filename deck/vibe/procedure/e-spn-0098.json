@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "9d632cd1-f26a-4858-8ef6-80c0f480c8b7",
+  "title": "E-SPN-0098: the tone on every mesh line is an exact law of the knit with no mixer, and the collision's bounce piece...",
+  "purpose": "Experiment E-SPN-0098 in the spin arena: the tone on every mesh line is an exact law of the knit with no mixer, and the collision's bounce piece is what breaks it once stores move, pass: on side 8 over 48 beats the tone holds on 6,144 of 6,144 lines on four full-key paths and the old key, and G breaks it on all 6,144 (the directed tone breaks on 1,153 even with no mixer, the coin flipping direction); the store mixer on side 16 breaks it on 41,699 of 49,152 lines in 72 beats, every break made by the collision's bounce piece (from beat 4) and none by the mixing step, the coin, the meeting, the pair move or the stream, while without the store mixer the bounce piece breaks none; the old key reproduces the probe's 519, 1,059, 1,141 exactly (full key 473, 1,025, 1,183).",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L2 (L2: known physics reproduced on a stated model).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/spin/line-law.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-SPN-0098",
+        "quote": null
+      }
+    ]
+  }
+}

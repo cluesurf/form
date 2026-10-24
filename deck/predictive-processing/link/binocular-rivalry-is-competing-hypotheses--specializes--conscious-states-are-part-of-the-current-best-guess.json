@@ -1,0 +1,28 @@
+{
+  "record": "link",
+  "id": "00e25da3-0995-41e8-ab67-97390b04542c",
+  "from": "09683d22-f443-4e26-87cb-ee3188e6547f",
+  "to": "e7820b79-8c99-45a0-bd8f-d7811e5f3583",
+  "relation": "specializes",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b26cbe1f-9462-4264-82be-b5d3dc8992ac",
+        "locator": "accepted manuscript p. 10",
+        "quote": "PP envisages two competing perceptual hypotheses (best-guesses), one of which 'wins', leading to perceptual dominance"
+      }
+    ]
+  }
+}

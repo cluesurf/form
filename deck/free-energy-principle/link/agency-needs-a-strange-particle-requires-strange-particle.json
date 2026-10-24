@@ -1,0 +1,28 @@
+{
+  "record": "link",
+  "id": "c6c5f373-60cd-409f-98ad-0a54bf51f1c6",
+  "from": "aa7426c9-71c5-45eb-8fe1-6fae40678187",
+  "to": "37625a4a-f4a2-4537-96e5-2f60d2ee0bdf",
+  "relation": "requires",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "550e8bd7-62b0-4fdd-964e-95f8e9dcd664",
+        "locator": "abstract (arXiv record)",
+        "quote": "Specifically, we consider the distinction between dissipative and conservative particles, inert and active particles and, finally, ordinary and strange particles."
+      }
+    ]
+  }
+}

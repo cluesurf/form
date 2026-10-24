@@ -1,0 +1,28 @@
+{
+  "record": "link",
+  "id": "f8e40ead-568e-4f84-bb19-d1a87a7a4131",
+  "from": "8f838e96-4057-4e1c-ab99-96320386ab1d",
+  "to": "d8065bab-fd02-46e9-bec2-6508828ae91c",
+  "relation": "requires",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "d119f39b-eab6-4042-94a9-df36465abe1e",
+        "locator": "abstract",
+        "quote": "The free energy considered here measures the difference between the probability distribution of environmental quantities that act on the system and an arbitrary distribution encoded by its configuration."
+      }
+    ]
+  }
+}

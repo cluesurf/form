@@ -1,0 +1,45 @@
+{
+  "record": "proposition",
+  "id": "cd355d71-9c4a-4360-b9b6-5c3d27159ad4",
+  "kind": "philosophical",
+  "epistemic_status": "inferred",
+  "title": "An exact copy need only be possible in principle",
+  "statements": [
+    {
+      "id": "5b26f122-c81a-4af5-a216-02d3c72234fd",
+      "text": "Building a microstate-exact copy is thermodynamically infeasible and quantum cloning is forbidden, but the theorem does not need the copy to be prepared, only that such a pair of states can exist in principle, which the no-cloning law does not prevent.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "5b26f122-c81a-4af5-a216-02d3c72234fd",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "ac2774e1-a04c-4c89-9db2-7848c6f5ce0b",
+        "locator": "section 4.11",
+        "quote": "the theorem itself does not require the actual preparation of such states, merely that such states can exist in principle"
+      }
+    ]
+  }
+}

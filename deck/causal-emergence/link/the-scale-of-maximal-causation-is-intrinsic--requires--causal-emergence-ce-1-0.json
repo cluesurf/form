@@ -1,0 +1,28 @@
+{
+  "record": "link",
+  "id": "8e525068-b60b-488e-b878-6f00a53da593",
+  "from": "104b3ed2-5144-4244-b688-f0833a77c478",
+  "to": "2f9ce65f-d9e0-4afd-b7b3-da8fe68aa8c9",
+  "relation": "requires",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "8360d34d-30cb-44f8-89c9-41768fb53f0d",
+        "locator": "Discussion, Emergence as an Intrinsic Property of a System",
+        "quote": "the particular spatiotemporal grain at which EI reaches a maximum is again an intrinsic property of the system"
+      }
+    ]
+  }
+}

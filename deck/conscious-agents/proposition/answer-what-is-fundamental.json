@@ -1,0 +1,50 @@
+{
+  "record": "proposition",
+  "id": "7de701a7-0422-4dd1-8258-80ad5b88b2e4",
+  "kind": "philosophical",
+  "epistemic_status": "hypothesized",
+  "title": "Answer: conscious agents are fundamental",
+  "statements": [
+    {
+      "id": "257f8513-d7ff-4ad1-82b9-52ffc19aa528",
+      "text": "Conscious agents and their experiences are fundamental. Spacetime and physical objects are not.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-23"
+    }
+  ],
+  "current_statement": "257f8513-d7ff-4ad1-82b9-52ffc19aa528",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "9f6802be-e2fa-4f89-b303-461db4c74e7e",
+        "locator": "Conscious realism, Hypothesis 1",
+        "quote": "The world W consists entirely of conscious agents."
+      },
+      {
+        "source": "2207dc33-f8a8-469f-99b2-286f1139ed74",
+        "locator": "abstract",
+        "quote": null
+      }
+    ]
+  }
+}

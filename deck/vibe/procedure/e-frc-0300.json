@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "c3ca5c1b-fc5b-4012-8438-0e91a6be025b",
+  "title": "E-FRC-0300: explores whether the fully frustrated Z3 centre flux cf0 keeps chiral wall members that its bulk levels...",
+  "purpose": "Experiment E-FRC-0300 in the gauge arena: explores whether the fully frustrated Z3 centre flux cf0 keeps chiral wall members that its bulk levels only pushed out of the window: a Laughlin pump of one colour-singlet flux quantum and a closed x2 twist counts the wall levels crossing pi, an index no box size can fake.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L2 (L2: known physics reproduced on a stated model).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/gauge/center-pump.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-FRC-0300",
+        "quote": null
+      }
+    ]
+  }
+}

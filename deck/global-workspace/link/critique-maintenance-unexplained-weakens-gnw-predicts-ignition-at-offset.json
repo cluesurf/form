@@ -1,0 +1,28 @@
+{
+  "record": "link",
+  "id": "43e0e54d-b295-49bf-9292-5659206d7e3c",
+  "from": "bd661fea-f471-4045-8e2c-eca1b09fe273",
+  "to": "728e7da7-fe62-45d5-91fc-db0c46ed177f",
+  "relation": "weakens",
+  "strength": null,
+  "rationale": "The consortium judged the absence of offset ignition the most substantial challenge to GNWT.",
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "dbe9b66c-4ffb-4615-9fd2-aa5c75424db8",
+        "locator": "Discussion",
+        "quote": "Thus, that aspect of consciousness remains unexplained within the GNWT framework."
+      }
+    ]
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "af20a8d2-c13f-44e3-92e6-2cf823a99dca",
+  "title": "E-GRV-0113: a horizon that presents only the count of lines through it stays exact and slip free, but each tear...",
+  "purpose": "Experiment E-GRV-0113 in the gravity arena: a horizon that presents only the count of lines through it stays exact and slip free, but each tear jolts the field and the horizon runs away, fail on H2 and H3 (partial: the held rule's two orders agree, so H3 could not refuse): E-GRV-0112's M = 1600 accreted lump with the count spread evenly over the horizon's verticals and the torn steps kept unread runs 4,223 beats with 0 wraps, curl 0, Gauss and the count's Gauss 0 off, energy to 2.5e-8 and exact reversal (the rule that erases the torn steps does not reverse); but the horizon grows through the settle to 2,154 docks at radius 11.2 (sweep order 2,119 at 15.1) against the placed lump's 779 at 5.83, so r = 8 .. 11 is inside it and the forces there are 283 percent off the placed lump's and 65 percent apart between orders.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L2 (L2: known physics reproduced on a stated model).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/gravity/count-horizon-growth.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-GRV-0113",
+        "quote": null
+      }
+    ]
+  }
+}

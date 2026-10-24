@@ -1,0 +1,39 @@
+{
+  "record": "observation",
+  "id": "2ce0f76c-c860-42ae-a8ec-74ec31bb1d76",
+  "kind": "simulation_result",
+  "epistemic_status": "simulated",
+  "description": "Closed-form solutions and Monte Carlo simulations of interface games found that veridical perceptual strategies can be driven to extinction by nonveridical strategies tuned to utility.",
+  "method": "simulation",
+  "status": "reported",
+  "source": "ffca533b-9e2b-4869-b5a5-82c2fda78bd8",
+  "procedure": null,
+  "variable": null,
+  "value": null,
+  "unit": null,
+  "uncertainty": null,
+  "sample_size": null,
+  "replication_count": null,
+  "quality": null,
+  "limitations": "Simple games with frequency-dependent selection and complete mixing in infinite populations, as the authors state.",
+  "conflicts_of_interest": "The authors are the originators of the interface theory.",
+  "observed_at": "2010-07-24",
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "ffca533b-9e2b-4869-b5a5-82c2fda78bd8",
+        "locator": "abstract, p. 504",
+        "quote": "We find that veridical perceptions can be driven to extinction by non-veridical strategies that are tuned to utility rather than objective reality."
+      }
+    ]
+  }
+}

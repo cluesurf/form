@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "55163045-990c-4e28-accf-344dc6e24b74",
+  "title": "E-SPN-0142: the dock mixer's isolated singlet is a relativistic particle at small K but moves at c/2 with a...",
+  "purpose": "Experiment E-SPN-0142 in the spin arena: the dock mixer's isolated singlet is a relativistic particle at small K but moves at c/2 with a first-order speed shift, fail (S3d, S4b): at theta = 2pi/3 + pi/24 (n = 1) the hole's staggered mode is a nondegenerate band edge (12 + 11 + 1, gap pi/24), its inverse mass tensor isotropic to 4e-10 and its first anisotropy $K^6$ (slopes 5.98, face/body 2.2535); its rest energy m = pi/48, c_eff = 0.499643 c and inertia equal to $m / c0^2$ to tan(m)/m = 1.00143, the $K^4$ departure from $E^2 = m^2 + c^2 K^2$ eta = 0.0088, both vanishing as m -> 0 (slopes 2.00 and 0.95); but the massless pair (theta = phi) is E = +-c0 K + gamma $K^2$ with c0 = 0.5000000 c exactly and gamma = cot(phi/2)/8 = 0.0722 (0.4665 at n = 4, 0 at the swap coin n = 2/3), a speed shift linear in K, and c0 is half the stream's cone c that E-GRV-0141's graviton moves at, while the love under the same mixer is the hole's mirror (the same m and c to 2e-11) and the heavy bands reach 0.564 c; a frame mixer's singlet (a 3-design) is anisotropic at $K^4$ (slope 3.98) and at theta = 4pi/3 R = 1.654.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L2 (L2: known physics reproduced on a stated model).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/spin/singlet-relativity.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-SPN-0142",
+        "quote": null
+      }
+    ]
+  }
+}

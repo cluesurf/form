@@ -1,0 +1,45 @@
+{
+  "record": "proposition",
+  "id": "9e802fef-93f7-408e-ae4b-73f459ded021",
+  "kind": "definitional",
+  "epistemic_status": "designed",
+  "title": "P1: history matters (irreducible history dependence)",
+  "statements": [
+    {
+      "id": "dc8f15c4-ef14-41e0-b91b-885ff3775f82",
+      "text": "P1: two realizations $\\alpha$ and $\\beta$ with the same complete present local state ($X^\\alpha_t = X^\\beta_t$) and the same inputs ($I^\\alpha = I^\\beta$) can still be assigned different consciousness, $f(X^\\alpha_t, X^\\alpha_{<t}) \\neq f(X^\\beta_t, X^\\beta_{<t})$, because their prior histories differ. A process theory must hold this, or its attribution is merely state-based.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "dc8f15c4-ef14-41e0-b91b-885ff3775f82",
+  "status": "active",
+  "voice": "framework",
+  "defines": "irreducible history dependence",
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "ac2774e1-a04c-4c89-9db2-7848c6f5ce0b",
+        "locator": "section 4.4",
+        "quote": "A process theory must be irreducibly history-dependent. The requirement of differential attribution (16) must persist even when the complete present local state and inputs are made equal between the two realizations."
+      }
+    ]
+  }
+}

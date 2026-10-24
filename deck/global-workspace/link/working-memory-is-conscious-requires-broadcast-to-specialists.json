@@ -1,0 +1,28 @@
+{
+  "record": "link",
+  "id": "98c8078a-e83a-45d8-bdd6-a59e7c9c1cab",
+  "from": "95be966b-e3b1-4db1-9321-888888af9049",
+  "to": "f6f764fe-3c28-46b7-9be5-8fc2b364733e",
+  "relation": "requires",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "48959277-86d2-4076-9942-58a24f753040",
+        "locator": "Conscious Representations and Working Memory",
+        "quote": "We propose that the attended working memory item is conscious and uses the GNW for broadcasting"
+      }
+    ]
+  }
+}

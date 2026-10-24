@@ -1,0 +1,50 @@
+{
+  "record": "proposition",
+  "id": "21034d30-2162-4a77-871a-7f6433e7f8a3",
+  "kind": "definitional",
+  "epistemic_status": "designed",
+  "title": "Rest mass is the states of cyclic motion",
+  "statements": [
+    {
+      "id": "beb96211-0dc0-4a05-88a6-edf861e6668d",
+      "text": "Rest mass is the number of states that make up cyclic motion. A left-right pair moves the machine nowhere but still takes ticks of time to execute.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "beb96211-0dc0-4a05-88a6-edf861e6668d",
+  "status": "active",
+  "voice": "framework",
+  "defines": "rest mass",
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "f1f9bdb8-14c9-4c62-9e48-01ecc2870699",
+        "locator": "Rest mass",
+        "quote": "Rest mass is the amount of states that represent cyclic motion."
+      },
+      {
+        "source": "f1f9bdb8-14c9-4c62-9e48-01ecc2870699",
+        "locator": "Rest mass",
+        "quote": "does not move the machine anywhere, but it still takes ticks of time to execute."
+      }
+    ]
+  }
+}

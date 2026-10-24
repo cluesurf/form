@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "1a45297b-8f1a-4db7-af66-8c56d69e60dd",
+  "title": "E-FND-0114: the exact interaction map of the committed rule: clock-couple matter passes through a true head-on...",
+  "purpose": "Experiment E-FND-0114 in the foundations arena: the exact interaction map of the committed rule: clock-couple matter passes through a true head-on collision with zero deviation at every beat (free by measurement and by construction), swap-couple matter genuinely scatters (zero deviation before the crossing, then a growing mismatch), two defects in different couples at the same cell are exactly decoupled (the six couples are independent subsystems sharing only the active-cell geometry), and matter plus wire of the swap couple at one cell is a contact vertex interacting from the first beat.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L2 (L2: known physics reproduced on a stated model).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/foundations/weave-interaction-map.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-FND-0114",
+        "quote": null
+      }
+    ]
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "d022425c-5ae3-497f-9adb-6583c08c0da1",
+  "title": "E-QTM-0165: the love-fear middle rung's true CHSH maximum is the aligned value (8 + 2 sqrt 21 + 2 sqrt 35 - 2 sqrt...",
+  "purpose": "Experiment E-QTM-0165 in the quantum arena: the love-fear middle rung's true CHSH maximum is the aligned value (8 + 2 sqrt 21 + 2 sqrt 35 - 2 sqrt 15) / 9 = 2.36126, by Jordan's lemma, pass: a root of 6561 $x^4 - 23328 x^3 - 14904 x^2 + 123840 x - 106160$, in Q(sqrt 15, sqrt 21) and so outside the knot's own field Q(sqrt 15); an independent search over exact Jordan pairs and every see-saw in the package at 1,500 starts reach it to 5e-15 and never pass it, so the recorded 2.3848 is not a value this knot can give.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L1 (L1: known mathematics, correctly confirmed).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/quantum/middle-rung-jordan.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-QTM-0165",
+        "quote": null
+      }
+    ]
+  }
+}

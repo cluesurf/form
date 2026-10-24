@@ -1,0 +1,28 @@
+{
+  "record": "link",
+  "id": "f1ba4489-34eb-445e-9c66-39d83a8720b8",
+  "from": "624c89a2-9ceb-48b3-94bd-53451d99f122",
+  "to": "46fc3e40-3d62-4364-9ff2-e718c95dd797",
+  "relation": "requires",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "2207dc33-f8a8-469f-99b2-286f1139ed74",
+        "locator": "section 8",
+        "quote": "entropic time is not a fundamental feature of reality, but merely an artifact of projection."
+      }
+    ]
+  }
+}

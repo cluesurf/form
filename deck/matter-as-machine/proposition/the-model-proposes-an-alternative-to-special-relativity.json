@@ -1,0 +1,50 @@
+{
+  "record": "proposition",
+  "id": "088eb683-b3ed-4955-bef0-19c01c063cf9",
+  "kind": "empirical",
+  "epistemic_status": "hypothesized",
+  "title": "The model proposes an alternative to special relativity",
+  "statements": [
+    {
+      "id": "07f46142-8837-4fee-bff0-c9c980f5ec4b",
+      "text": "The emission rule and the clock slowdown are part of a proposed alternative to special relativity, to be set out in a separate article, and slow photons are the prediction meant to tell the two apart.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "07f46142-8837-4fee-bff0-c9c980f5ec4b",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "ce59e052-9c70-46a0-8b8d-89266cb60dd8",
+        "locator": "What about clocks?",
+        "quote": "present the proposed alternative to special relativity in a separate article."
+      },
+      {
+        "source": "8103813e-0395-422a-b13a-8d91e58a2d3b",
+        "locator": "the timeline of the model",
+        "quote": "to find predictions that would disprove Special Relativity"
+      }
+    ]
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "37c98f0e-5225-4da6-b0cc-79c723aa2618",
+  "title": "E-SBT-0003: a sweep of 4D regular honeycombs, all give 3D physical space and {3,4,3,4} is the unique D4-facet one",
+  "purpose": "Experiment E-SBT-0003 in the substrate-survey arena: a sweep of 4D regular honeycombs, all give 3D physical space and {3,4,3,4} is the unique D4-facet one.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L1 (L1: known mathematics, correctly confirmed).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/substrate-survey/4d-tessellations.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-SBT-0003",
+        "quote": null
+      }
+    ]
+  }
+}

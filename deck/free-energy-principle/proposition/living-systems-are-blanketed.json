@@ -1,0 +1,45 @@
+{
+  "record": "proposition",
+  "id": "33289d6a-81c8-4116-8de1-5eff214b85dc",
+  "kind": "empirical",
+  "epistemic_status": "hypothesized",
+  "title": "Every living system has a Markov blanket",
+  "statements": [
+    {
+      "id": "2a8a67b9-9f45-46f5-8d82-cd021b655b5c",
+      "text": "Any living system is a Markov-blanketed system, and the boundaries of such systems need not coincide with the biophysical boundary of the organism.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-23"
+    }
+  ],
+  "current_statement": "2a8a67b9-9f45-46f5-8d82-cd021b655b5c",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "7360eddd-7087-4c91-acd5-1cfea947cffb",
+        "locator": "abstract",
+        "quote": "(i) any living system is a Markov blanketed system and (ii) the boundaries of such systems need not be co-extensive with the biophysical boundaries of a living organism."
+      }
+    ]
+  }
+}

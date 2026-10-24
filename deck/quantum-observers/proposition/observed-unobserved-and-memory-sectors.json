@@ -1,0 +1,45 @@
+{
+  "record": "proposition",
+  "id": "b37d551a-3cc0-4e26-a2f7-f4130e928154",
+  "kind": "definitional",
+  "epistemic_status": "designed",
+  "title": "Observed, unobserved and memory sectors",
+  "statements": [
+    {
+      "id": "c6a28dc6-3689-45d3-bc06-e37e56a61652",
+      "text": "An observer divides its boundary into three disjoint sectors: the observed environment E, the unobserved environment F, and the memory Y.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-23"
+    }
+  ],
+  "current_statement": "c6a28dc6-3689-45d3-bc06-e37e56a61652",
+  "status": "active",
+  "voice": "framework",
+  "defines": "boundary sectors",
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "4489b7d7-7273-4b67-a1c2-b53ddab0eeb5",
+        "locator": "section 2.5",
+        "quote": "Such systems effectively decompose the holographic screen B into three disjoint sectors that we will label E the observed environment, F the unobserved environment, and Y the memory sector"
+      }
+    ]
+  }
+}

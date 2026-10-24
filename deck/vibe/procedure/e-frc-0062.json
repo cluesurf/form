@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "1eb0630b-8c8b-4e49-854e-d92f30c98f75",
+  "title": "E-FRC-0062: the Koide assignment is grounded in the triality-sector geometry: within a sector the nearest-neighbour...",
+  "purpose": "Experiment E-FRC-0062 in the gauge arena: the Koide assignment is grounded in the triality-sector geometry: within a sector the nearest-neighbour scale is the long root sqrt(2) and between sectors it is the short root 1, so the mass-operator ratio |c|/a = 1/sqrt(2) hence Q = 2/3 is selected by the nearest-neighbour scale reading, with the alternative pairings as controls giving wrong Q (max-based gives 5/6), resting on the sector-to-generation identification (Boyle) and the load-bearing nearest-neighbour choice.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L1 (L1: known mathematics, correctly confirmed).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/gauge/koide-assignment-from-sectors.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-FRC-0062",
+        "quote": null
+      }
+    ]
+  }
+}

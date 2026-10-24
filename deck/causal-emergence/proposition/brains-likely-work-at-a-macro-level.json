@@ -1,0 +1,45 @@
+{
+  "record": "proposition",
+  "id": "a03a9368-3c9d-41c7-8704-ffddbe3e507b",
+  "kind": "empirical",
+  "epistemic_status": "hypothesized",
+  "title": "Brains likely work at a macro level",
+  "statements": [
+    {
+      "id": "5cf8e54c-9b5d-4fe3-91c8-e99e4b59982d",
+      "text": "Complex multilevel systems such as brains are likely to work at a macro level, because selection in biology must deal with unpredictability and produces degeneracy.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-23"
+    }
+  ],
+  "current_statement": "5cf8e54c-9b5d-4fe3-91c8-e99e4b59982d",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "8360d34d-30cb-44f8-89c9-41768fb53f0d",
+        "locator": "Conclusions",
+        "quote": "complex, multilevel systems such as brains are likely to “work” at a macro level because, in biological systems, selectional processes must deal with unpredictability and lead to degeneracy"
+      }
+    ]
+  }
+}

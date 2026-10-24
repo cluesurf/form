@@ -1,0 +1,45 @@
+{
+  "record": "proposition",
+  "id": "afede6f2-6458-436f-839c-8896dea8a612",
+  "kind": "empirical",
+  "epistemic_status": "hypothesized",
+  "title": "A 10-micron crystal in superposition would test OR",
+  "statements": [
+    {
+      "id": "1a90c76e-4eca-4d2d-ba11-e215c6bdb889",
+      "text": "Effects of OR should begin to show if a 10-micron cube of crystalline material is held in a superposition of two locations about a nuclear diameter apart for seconds or minutes.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-23"
+    }
+  ],
+  "current_statement": "1a90c76e-4eca-4d2d-ba11-e215c6bdb889",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "c0602528-f093-4705-abc3-e13d7657a680",
+        "locator": "section 4.5",
+        "quote": "one ought to begin to see the effects of this OR scheme if a small object, such as a 10-µm cube of crystalline material could be held in a coherent superposition of two locations"
+      }
+    ]
+  }
+}

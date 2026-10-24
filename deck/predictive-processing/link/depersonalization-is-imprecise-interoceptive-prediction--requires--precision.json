@@ -1,0 +1,28 @@
+{
+  "record": "link",
+  "id": "205b195d-4df2-4f0f-a70c-442715757e1a",
+  "from": "1fb01e13-6086-4e6b-bfe5-0679aa9bd997",
+  "to": "ad4a64d0-7c5f-43d3-b6e0-ef17bceb3739",
+  "relation": "requires",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "8ed62dfe-4468-4f53-9b70-f009ba2dbe4f",
+        "locator": "p. 571, Box 3",
+        "quote": "Seth et al. have suggested that DPD may arise from imprecise (as opposed to inaccurate) interoceptive predictions"
+      }
+    ]
+  }
+}

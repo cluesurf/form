@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "0d386df6-59f1-4819-a524-4d675c6c2d69",
+  "title": "E-FRC-0101: pairwise color exchange with no three-body term binds the baryon: on an open chain of three triplets the...",
+  "purpose": "Experiment E-FRC-0101 in the gauge arena: pairwise color exchange with no three-body term binds the baryon: on an open chain of three triplets the unique ground state is the epsilon singlet (gap 1), a triplet and antitriplet bind into the meson singlet (gap 3), two triplets have no singlet at all, and singlets exist only at triality zero, while no classical state holds more than 1/6 of the baryon.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L1 (L1: known mathematics, correctly confirmed).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/gauge/singlet-from-pair-exchange.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-FRC-0101",
+        "quote": null
+      }
+    ]
+  }
+}

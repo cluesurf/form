@@ -1,0 +1,50 @@
+{
+  "record": "proposition",
+  "id": "e2724547-536c-41c3-a806-8117df9fbe5c",
+  "kind": "mathematical",
+  "epistemic_status": "inferred",
+  "title": "Charge, state and structure are recovered under different conditions",
+  "statements": [
+    {
+      "id": "addbe92e-8bed-4265-88d3-556e36db1627",
+      "text": "Continuity and measured boundary flux recover an integrated charge. Recovering a whole earlier state also needs injective evolution and complete later data, and recovering structure needs a declared identifying observable map.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "addbe92e-8bed-4265-88d3-556e36db1627",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "2ff451a9-6bb8-4a35-9583-ddf755477c5f",
+        "locator": "abstract",
+        "quote": "Charge recovery requires only continuity and measured boundary flux. Structural recovery is not claimed without an identifying observable map."
+      },
+      {
+        "source": "2ff451a9-6bb8-4a35-9583-ddf755477c5f",
+        "locator": "abstract",
+        "quote": "Earlier ideal states can be reconstructed from complete later states on a periodic domain"
+      }
+    ]
+  }
+}

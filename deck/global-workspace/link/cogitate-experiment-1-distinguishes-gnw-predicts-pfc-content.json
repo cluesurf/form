@@ -1,0 +1,33 @@
+{
+  "record": "link",
+  "id": "66701ba2-0a8e-4314-8d14-ab94932a26bc",
+  "from": "63b85d16-f128-4efc-8b55-8bca33f01370",
+  "to": "34e0e798-3df3-44f4-b361-54ed55a7afb3",
+  "relation": "distinguishes",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "e02f6f58-c39b-42b3-8d19-285710666958",
+        "locator": "Methods",
+        "quote": null
+      },
+      {
+        "source": "dbe9b66c-4ffb-4615-9fd2-aa5c75424db8",
+        "locator": "abstract",
+        "quote": "Human participants (n = 256) viewed suprathreshold stimuli for variable durations"
+      }
+    ]
+  }
+}

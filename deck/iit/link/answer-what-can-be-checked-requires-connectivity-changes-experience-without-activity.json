@@ -1,0 +1,28 @@
+{
+  "record": "link",
+  "id": "7400fd78-7436-4459-92a9-598ddac7d689",
+  "from": "06751c0d-ca82-45e5-b01d-5c319e30f69f",
+  "to": "7b7234a4-d7b1-428d-a844-307b2bb85f39",
+  "relation": "requires",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "3218938b-67fa-48e6-bf07-e92f08ecd46c",
+        "locator": "abstract",
+        "quote": "The theory leads to some counterintuitive predictions and can be used to develop new tools for assessing consciousness in non-communicative patients."
+      }
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "record": "link",
+  "id": "93a1216a-a7b6-4576-8d0f-69f6dc05f14e",
+  "from": "db23ff13-eecc-4d8f-96d6-0f50f5d33e76",
+  "to": "71b4b41d-876a-468e-bd04-70b823272d0f",
+  "relation": "weakens",
+  "strength": null,
+  "rationale": "If the P3b vanishes for seen but task-irrelevant stimuli, it may mark report-related processing rather than access.",
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "48959277-86d2-4076-9942-58a24f753040",
+        "locator": "p. 779",
+        "quote": "only the N2 remains under conditions where the stimuli are task-irrelevant yet reported to be consciously perceived"
+      }
+    ]
+  }
+}

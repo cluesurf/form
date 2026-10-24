@@ -1,0 +1,28 @@
+{
+  "record": "link",
+  "id": "b181ff58-587b-4d7c-9ea8-6ab2d5f5d1b3",
+  "from": "a5c6441b-b877-4149-900c-6d7d0dfe4cf9",
+  "to": "8df47f5b-142c-47cf-aaf2-e2d4f0ce8260",
+  "relation": "supports",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "abe5ca61-fa6b-441a-a779-1d861c7e93b1",
+        "locator": "abstract",
+        "quote": "trained, decapitated planarians exhibit evidence of memory retrieval in a savings paradigm after regenerating a new head"
+      }
+    ]
+  }
+}

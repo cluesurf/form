@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "de58bf06-2ced-46bf-a539-e98217b69998",
+  "title": "E-FRC-0067: the absolute lepton Yukawas do not sit on a clean geometric ladder: the warped-cusp lambda^(1/2)...",
+  "purpose": "Experiment E-FRC-0067 in the gauge arena: the absolute lepton Yukawas do not sit on a clean geometric ladder: the warped-cusp lambda^(1/2) suppression depths (electron 8.77, muon 5.10, tau 3.16) are non-integer with non-uniform spacings, so the exact absolute masses are free inputs, the Standard Model Yukawa problem, with the average generation spacing within a factor 3.2 of lambda as a loose order-of-magnitude control on the scale.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L1 (L1: known mathematics, correctly confirmed).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/gauge/absolute-yukawa-not-a-ladder.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-FRC-0067",
+        "quote": null
+      }
+    ]
+  }
+}

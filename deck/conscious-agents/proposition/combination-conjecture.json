@@ -1,0 +1,45 @@
+{
+  "record": "proposition",
+  "id": "32feef21-5d38-4142-b2cf-17e91d9d47c5",
+  "kind": "mathematical",
+  "epistemic_status": "hypothesized",
+  "title": "Agents combine into new agents",
+  "statements": [
+    {
+      "id": "c71bf442-b73c-4d98-9691-8955c4b4c82c",
+      "text": "Conscious agents in general can be combined to create a new conscious agent, which the authors offer as their constructive answer to the combination problem.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-23"
+    }
+  ],
+  "current_statement": "c71bf442-b73c-4d98-9691-8955c4b4c82c",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "9f6802be-e2fa-4f89-b303-461db4c74e7e",
+        "locator": "The combination problem, Conjecture 3",
+        "quote": "can be combined to create a new conscious agent."
+      }
+    ]
+  }
+}

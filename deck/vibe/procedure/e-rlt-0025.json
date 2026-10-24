@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "f500b000-74fc-4935-b634-734de5970525",
+  "title": "E-RLT-0025: the walk dispersion gives rest energy = mass, Lorentz at long wave, and a massless light-speed mode",
+  "purpose": "Experiment E-RLT-0025 in the relativity arena: the walk dispersion gives rest energy = mass, Lorentz at long wave, and a massless light-speed mode.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L1 (L1: known mathematics, correctly confirmed).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/relativity/measured-dispersion-3434.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-RLT-0025",
+        "quote": null
+      }
+    ]
+  }
+}

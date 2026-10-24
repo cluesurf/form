@@ -1,0 +1,28 @@
+{
+  "record": "link",
+  "id": "44f062ae-fb0c-4294-9d51-bcba065d1f76",
+  "from": "64c8d988-c4af-4560-8e2b-6b650e31f795",
+  "to": "7da1c485-3b41-4586-8571-d2beaace8450",
+  "relation": "requires",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "1a235d11-40a1-4047-a972-4206bd4007b2",
+        "locator": "abstract",
+        "quote": "Detection of Bell-inequality violations in responses to perturbation of recently-separated sister cells would provide a sensitive test of this prediction."
+      }
+    ]
+  }
+}

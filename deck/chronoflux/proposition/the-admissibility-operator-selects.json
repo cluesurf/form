@@ -1,0 +1,45 @@
+{
+  "record": "proposition",
+  "id": "262a7ad4-ccbc-4e31-9c27-933fca6ea95c",
+  "kind": "definitional",
+  "epistemic_status": "designed",
+  "title": "The admissibility operator selects descriptions, it adds no dynamics",
+  "statements": [
+    {
+      "id": "e424a758-7fcb-4579-91d5-ddca145753a4",
+      "text": "An admissibility operator $\\mathcal{A}$ keeps only those descriptive structures that satisfy continuity, finite propagation, covariance, locality, stress conservation and divergence compatibility. It introduces no dynamics of its own.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "e424a758-7fcb-4579-91d5-ddca145753a4",
+  "status": "active",
+  "voice": "framework",
+  "defines": "admissibility operator",
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "74dae0ca-ffc6-4827-bce0-5561d176e0ee",
+        "locator": "section 2.3",
+        "quote": "The operator does not introduce new dynamics by itself. Its purpose is selection."
+      }
+    ]
+  }
+}

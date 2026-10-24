@@ -1,0 +1,45 @@
+{
+  "record": "proposition",
+  "id": "382c41cb-fe6a-42d6-8d62-ef15cb4d19b4",
+  "kind": "empirical",
+  "epistemic_status": "inferred",
+  "title": "Informative higher scales are common in real networks",
+  "statements": [
+    {
+      "id": "3302b93f-ddb6-4da5-9456-16b545e4b2d4",
+      "text": "Informative higher scales, macro-node groupings with higher effective information, are common in simulated and real networks across biological, social, informational and technological domains.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-23"
+    }
+  ],
+  "current_statement": "3302b93f-ddb6-4da5-9456-16b545e4b2d4",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "6498aca9-83cf-4905-a85a-3f5eb327c9e9",
+        "locator": "abstract",
+        "quote": "We find that informative higher scales are common in simulated and real networks across biological, social, informational, and technological domains."
+      }
+    ]
+  }
+}

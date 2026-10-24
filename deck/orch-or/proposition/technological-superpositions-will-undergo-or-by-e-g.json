@@ -1,0 +1,63 @@
+{
+  "record": "proposition",
+  "id": "83efae08-ae2e-4ccb-8285-f280080e17ed",
+  "kind": "empirical",
+  "epistemic_status": "hypothesized",
+  "title": "Technological superpositions will undergo OR by $\\tau \\approx \\hbar / E_G$",
+  "statements": [
+    {
+      "id": "52d75f46-56c5-4127-80d7-72c62b7799f0",
+      "text": "An unperturbed, isolated technological quantum superposition will be shown to self-collapse at τ ≈ ħ/E_G.",
+      "language": "en",
+      "scope": "prediction 18 of 20, first published 1998",
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-23"
+    },
+    {
+      "id": "fc3f04e6-8a03-459f-b048-b1a570af670e",
+      "text": "An unperturbed, isolated technological quantum superposition will be shown to self-collapse at $\\tau \\approx \\hbar / E_G$.",
+      "language": "en",
+      "scope": "prediction 18 of 20, first published 1998",
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": "52d75f46-56c5-4127-80d7-72c62b7799f0",
+      "change_reason": "Math written as LaTeX (format section 3.6).",
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "fc3f04e6-8a03-459f-b048-b1a570af670e",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": {
+    "resolution_criterion": "A superposition experiment of sufficient mass and isolation shows reduction at $\\tau \\approx \\hbar / E_G$, or persists well beyond it.",
+    "resolver": "specified_source",
+    "locked_at": "2013-08-20",
+    "outcome": null,
+    "resolved_at": null,
+    "observation": null
+  },
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "c0602528-f093-4705-abc3-e13d7657a680",
+        "locator": "section 5.7, prediction 18",
+        "quote": "Technological quantum superpositions will be shown to undergo OR by τ ≈ ℏ/EG ."
+      }
+    ]
+  }
+}

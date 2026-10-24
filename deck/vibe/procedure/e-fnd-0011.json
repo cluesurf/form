@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "bb6cd908-34e7-4b82-9ec3-036402c3c00f",
+  "title": "E-FND-0011: the discrete CPT theorem, the reversible knit has C, P, T symmetries and the combined CPT is a symmetry...",
+  "purpose": "Experiment E-FND-0011 in the foundations arena: the discrete CPT theorem, the reversible knit has C, P, T symmetries and the combined CPT is a symmetry of the dynamics, the no-T case the control.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L2 (L2: known physics reproduced on a stated model).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/foundations/cpt-theorem.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-FND-0011",
+        "quote": null
+      }
+    ]
+  }
+}

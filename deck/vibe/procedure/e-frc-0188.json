@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "0f8522ea-24e9-45d3-8d61-30e73cef6ee8",
+  "title": "E-FRC-0188: binding needs pair creation, derived: the paid Z3 string whose vacuum makes pairs is the 3-state Potts...",
+  "purpose": "Experiment E-FRC-0188 in the gauge arena: binding needs pair creation, derived: the paid Z3 string whose vacuum makes pairs is the 3-state Potts model in a magnetic field (exact on a D4 patch), so without pairs two static color singlets (stand-ins for nucleons) are exactly unjoined on the line and with pairs they attract at the dressed meson's own mass, the line's static baryon is inert, and the leading-order D4 profile gives the predicted meson mass.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L1 (L1: known mathematics, correctly confirmed).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/gauge/pair-string-derivation.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-FRC-0188",
+        "quote": null
+      }
+    ]
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "23ec29df-6914-4199-95fd-2d33ade8d250",
+  "title": "E-FRC-0192: the natural line width on the husk: a stand-in emitter in the exactly linear husk light decays at the...",
+  "purpose": "Experiment E-FRC-0192 in the gauge arena: the natural line width on the husk: a stand-in emitter in the exactly linear husk light decays at the golden-rule rate A and leaves a Lorentzian line of full width A, in the quantum single-excitation dynamics over every photon mode of a husk torus and in a semiclassical real-space run with Gauss law exact.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L2 (L2: known physics reproduced on a stated model).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/gauge/husk-emission-line-width.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-FRC-0192",
+        "quote": null
+      }
+    ]
+  }
+}

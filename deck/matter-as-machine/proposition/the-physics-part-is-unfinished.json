@@ -1,0 +1,45 @@
+{
+  "record": "proposition",
+  "id": "731255eb-a34a-452a-86fb-1f8eaa885faf",
+  "kind": "philosophical",
+  "epistemic_status": "observed",
+  "title": "The physics part is unfinished and explains physics only in part",
+  "statements": [
+    {
+      "id": "2179b844-3921-486d-9e94-ed8912e3405d",
+      "text": "The low-level part, the algorithms of matter, is simple but not finished, and so far explains physics only in part.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "2179b844-3921-486d-9e94-ed8912e3405d",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "bffef020-4c26-4528-b4eb-4b822d610062",
+        "locator": "the two parts",
+        "quote": "The second part is simple, but it is not fully finished yet. It partially explains physics."
+      }
+    ]
+  }
+}

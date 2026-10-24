@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "80d4328d-8390-41c6-92b6-231b2a362efe",
+  "title": "E-SPN-0057: the bulk is the husk's heat bath, fail as gated: with the depth step broken by the {3,4,3,4} cusp's...",
+  "purpose": "Experiment E-SPN-0057 in the spin arena: the bulk is the husk's heat bath, fail as gated: with the depth step broken by the {3,4,3,4} cusp's measure as each layer's collision clock (a stand-in for the warped metric), the depth-uniform fill that the flat box keeps at 9 times the Fermi-Dirac Fano factor leaves the husk sector at once and its depth-moving slots relax to independent exclusive slots in about 40 performed collision beats, but at the full warp the deep layers' clocks (lambda^-j per beat) are so slow that their in-layer slots stay at the start for 1,500 beats (diagonal class 2.98 times Fermi-Dirac).",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L2 (L2: known physics reproduced on a stated model).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/spin/husk-heat-bath.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-SPN-0057",
+        "quote": null
+      }
+    ]
+  }
+}

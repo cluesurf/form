@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "e1d9a193-c29c-420c-88d5-44cb3e2dc3d0",
+  "title": "E-CSM-0055: freeze-out, the BBN mechanism, on the instrumented gas: the confined cloud reacts forever at a steady...",
+  "purpose": "Experiment E-CSM-0055 in the cosmology arena: freeze-out, the BBN mechanism, on the instrumented gas: the confined cloud reacts forever at a steady rate (no freeze-out without expansion), opening the region at one radius cell per 4 beats, per 2 beats, and instantly makes the total reaction count fall strictly monotonically (the faster the expansion the earlier the Gamma-versus-H race is lost), and the k = 4 per-window rate collapses to under thirty percent of its start while the confined rate holds above eighty percent, so the relic-abundance mechanism exists on the model with the nuclear network the open half.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L2 (L2: known physics reproduced on a stated model).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/cosmology/freeze-out-vs-expansion.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-CSM-0055",
+        "quote": null
+      }
+    ]
+  }
+}

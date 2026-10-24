@@ -1,0 +1,28 @@
+{
+  "record": "link",
+  "id": "987b4fe7-bbaa-40f5-ab05-dfd2b66a7723",
+  "from": "0861c04b-ed4e-4bef-b497-9ecfb3f16ceb",
+  "to": "e3f35112-cf88-494c-abd6-b0d3463d9642",
+  "relation": "requires",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "bfa85443-4b77-43f1-b5f2-ec1850a4bc3c",
+        "locator": "accepted manuscript p. 14",
+        "quote": "This view pushes back against popular views of mind and self as substrate-independent forms of information processing"
+      }
+    ]
+  }
+}

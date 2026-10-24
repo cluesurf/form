@@ -1,0 +1,45 @@
+{
+  "record": "proposition",
+  "id": "dab8ac92-22d3-4389-87cc-b37cfd104c4c",
+  "kind": "empirical",
+  "epistemic_status": "inferred",
+  "title": "Critique: the P3b may index post-perceptual processing",
+  "statements": [
+    {
+      "id": "a1d1dccf-3df8-4699-ac91-55c37063182f",
+      "text": "When stimuli are task-irrelevant yet reported seen, only the earlier N2 negativity remains and the P3b disappears, so the P3b may index post-perceptual processing rather than awareness. The GNW authors call the question unresolved.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-23"
+    }
+  ],
+  "current_statement": "a1d1dccf-3df8-4699-ac91-55c37063182f",
+  "status": "active",
+  "voice": "critique",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "48959277-86d2-4076-9942-58a24f753040",
+        "locator": "Empirical Evidence in Support of the Ignition Concept, p. 779",
+        "quote": "It remains unclear whether P3b is correlated with awareness (Salti et al., 2012), post-perceptual processes (Andersen et al., 2016; Koivisto et al., 2016), or both."
+      }
+    ]
+  }
+}

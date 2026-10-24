@@ -1,0 +1,28 @@
+{
+  "record": "link",
+  "id": "94332299-8e6d-46c4-88d5-0d8ff4600f53",
+  "from": "8f9d1af8-f713-4ec0-b24a-d93eb429a7df",
+  "to": "d04f9ed4-1519-49e3-87cc-d414f5c5c792",
+  "relation": "requires",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "9359bfc1-6fff-41a8-8d7c-91af2f730b74",
+        "locator": "section 5",
+        "quote": "We predict that such exercises will only identify topologies at a broadly consistent spatial scale"
+      }
+    ]
+  }
+}

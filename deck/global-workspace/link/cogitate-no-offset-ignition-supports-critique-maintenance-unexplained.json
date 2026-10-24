@@ -1,0 +1,28 @@
+{
+  "record": "link",
+  "id": "f9fa28e6-5a26-4e01-a3a5-a02f997a3b35",
+  "from": "94d5f203-724b-4c65-8965-61d7d7ad7a5e",
+  "to": "bd661fea-f471-4045-8e2c-eca1b09fe273",
+  "relation": "supports",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "dbe9b66c-4ffb-4615-9fd2-aa5c75424db8",
+        "locator": "Results, maintenance of conscious content",
+        "quote": "However, none of the 655 electrodes measured the temporal profile predicted by GNWT (that is, onset and offset)."
+      }
+    ]
+  }
+}

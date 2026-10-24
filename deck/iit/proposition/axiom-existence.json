@@ -1,0 +1,50 @@
+{
+  "record": "proposition",
+  "id": "46c7d927-a1f0-4b92-99d4-33ac02902824",
+  "kind": "philosophical",
+  "epistemic_status": "observed",
+  "title": "Zeroth axiom: experience exists",
+  "statements": [
+    {
+      "id": "0d87cb75-1e2e-4f77-9be6-642c5915c36a",
+      "text": "Experience exists: there is something. Doubting that one's experience exists is itself an experience, so the existence of experience is the starting point for everything, including logic and physics.",
+      "language": "en",
+      "scope": "IIT holds this is known immediately and irrefutably, from within experience.",
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-23"
+    }
+  ],
+  "current_statement": "0d87cb75-1e2e-4f77-9be6-642c5915c36a",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "8443eb2e-406e-4acc-94e8-33cbabbd3679",
+        "locator": "section \"Axioms of phenomenal existence\" (full text)",
+        "quote": "Experience exists: there is something."
+      },
+      {
+        "source": "8443eb2e-406e-4acc-94e8-33cbabbd3679",
+        "locator": "section \"Axioms of phenomenal existence\" (full text)",
+        "quote": "The existence of experience is the ultimate axiom—the starting point for everything, including logic and physics."
+      }
+    ]
+  }
+}

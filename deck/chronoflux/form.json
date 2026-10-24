@@ -1,0 +1,84 @@
+{
+  "format": "form.surf/1",
+  "id": "0378404f-3bf6-4794-b72f-d5fd13c56f6f",
+  "name": "chronoflux",
+  "title": "Chronoflux",
+  "role": "model",
+  "summary": "Roy D. Herbert's program in which covariant continuity, a conserved temporal current, is the one primitive law, and relativity, gravity, quantum mechanics, thermodynamics, fluids and cosmology are recovered from it rung by rung. The papers are self-published on Zenodo, not peer-reviewed and not independently replicated.",
+  "framework": {
+    "originators": [
+      "Roy D. Herbert"
+    ],
+    "aliases": [
+      "Chronoflux framework",
+      "Chronoflux Research Initiative",
+      "Dilation Theory",
+      "Conservatio Continuum",
+      "temporal continuity"
+    ],
+    "homepage": "https://orcid.org/0009-0001-2132-2194"
+  },
+  "community_written": true,
+  "curators": [
+    {
+      "name": "Lance Pollard",
+      "github": "lancejpollard"
+    }
+  ],
+  "license": "CC-BY-4.0",
+  "atlas": {
+    "scope": [
+      "4022f322-b9be-4be5-a41f-7f3ce0933abd",
+      "a1b82fcd-e11b-4960-b8de-a618e59fe757",
+      "b9084c74-5d49-4d13-96c7-cc4481984f49",
+      "318fd379-246e-49cd-8371-2d3939241c42",
+      "6a7c9187-2d83-4a37-8ced-d3ef854717ca",
+      "52840fc4-6d8e-4741-8274-544108dfe4be",
+      "ba5c664d-3674-46a2-8cae-bd2038cf2394",
+      "7164b4c2-15ec-41c7-924e-03dc1ade2b8a"
+    ],
+    "limits": [
+      "898c8778-bd63-450c-ac28-60e253ffa447",
+      "95f94bf4-23b0-403a-93c1-7016bdb89170",
+      "b311a2a6-201b-4083-a829-5fb5e6200b2e",
+      "f529baea-9758-429b-a54c-20e8ec78fec9",
+      "a1568aef-3ba6-4e21-aba7-1e2eba7e3196"
+    ],
+    "flaws": [
+      "7533bb10-ff79-48b4-a7dc-b1f7608323b1",
+      "0a7c96b8-13d2-441b-8b10-be8f041f5cb8",
+      "0267c83a-16f1-4e01-aaa3-dd717bbc1702",
+      "71774551-d580-4df1-bb09-725d2c789a51",
+      "c409b62b-6516-43fa-a14c-eee130595fcb"
+    ],
+    "dead_ends": [
+      "c9ff4adb-b6a1-47dd-a65f-fbf8d9f30e25",
+      "0ea75589-ad54-440a-b902-48977501dda6",
+      "d0ce589f-6528-4ae1-b66f-049202f85087",
+      "9fa57007-0942-41b7-aa80-b3c4147fa134",
+      "9115dacd-cfec-4f21-854f-5144f5450830",
+      "bd6a479b-fe6b-4edb-8d8a-40daacc31ed9",
+      "37c76752-35b3-439b-b163-1bf44b416b33",
+      "d6ca89fa-d669-4f0a-9f3e-61a3231a3630",
+      "794c37a8-3079-4a74-b42b-c12385c102a5"
+    ]
+  },
+  "draws_from": [],
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "1cf60bbd-3fa2-4d65-8956-21024b44ab0b",
+        "locator": "abstract",
+        "quote": null
+      }
+    ]
+  }
+}

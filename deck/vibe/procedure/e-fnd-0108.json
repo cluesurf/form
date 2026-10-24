@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "a9cbb594-82b1-4a99-b396-7bbc7883d928",
+  "title": "E-FND-0108: the bare carrier-matter coupling is unity: the wall mode's downstream content past one pinned defect is...",
+  "purpose": "Experiment E-FND-0108 in the foundations arena: the bare carrier-matter coupling is unity: the wall mode's downstream content past one pinned defect is exactly zero at every sampled late beat at two defect positions (total absorption per single encounter, measured against the matter-alone run so the defect's footprint cancels) while the free mode's downstream content is nonzero and the matter's own zone survives the encounter, so the model has no small coupling knob at the base and the physical fine-structure constant must come entirely from coarse structure (how rarely carrier and matter meet), relocating the alpha question from the base to the coarse theory.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L2 (L2: known physics reproduced on a stated model).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/foundations/unit-coupling-absorption.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-FND-0108",
+        "quote": null
+      }
+    ]
+  }
+}

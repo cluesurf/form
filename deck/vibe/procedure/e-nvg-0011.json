@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "154e8d1a-8df9-4b4b-b3ba-c18fb98f72b2",
+  "title": "E-NVG-0011: recalling a memory is a coarse-to-fine descent of the bulk hierarchy in log(N) steps (100 percent from a...",
+  "purpose": "Experiment E-NVG-0011 in the addressing arena: recalling a memory is a coarse-to-fine descent of the bulk hierarchy in log(N) steps (100 percent from a clean cue, robust to noise) while scrambling the coarse patterns collapses recall to chance, the mental walkway.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L2 (L2: known physics reproduced on a stated model).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/addressing/hierarchical-recall.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-NVG-0011",
+        "quote": null
+      }
+    ]
+  }
+}

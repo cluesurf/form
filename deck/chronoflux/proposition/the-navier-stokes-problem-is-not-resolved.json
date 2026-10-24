@@ -1,0 +1,55 @@
+{
+  "record": "proposition",
+  "id": "71774551-d580-4df1-bb09-725d2c789a51",
+  "kind": "mathematical",
+  "epistemic_status": "inferred",
+  "title": "The continuity route does not resolve the Navier-Stokes problem",
+  "statements": [
+    {
+      "id": "99b245c9-80af-4622-86bd-9d21fe41e592",
+      "text": "Full-state coercivity of the continuity system does not descend automatically to the classical velocity variables, so the weighted resistance estimate is conditional and the continuity route does not resolve the Navier-Stokes Millennium problem.",
+      "language": "en",
+      "scope": null,
+      "conditions": "graded by the author as open at the zero-regulator limit",
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "99b245c9-80af-4622-86bd-9d21fe41e592",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": {
+    "value": "open",
+    "reason": "The author grades the zero-regulator limit as open. No proof has been offered or checked.",
+    "basis": [],
+    "proposal": null
+  },
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "609267f6-3433-479d-8d29-fc2b682abf66",
+        "locator": "abstract",
+        "quote": "An explicit fibre example proves that density-gradient resistance can diverge while the projected velocity remains fixed, so full-state coercivity does not descend automatically to the classical variables."
+      },
+      {
+        "source": "609267f6-3433-479d-8d29-fc2b682abf66",
+        "locator": "abstract",
+        "quote": "it does not claim a resolution of the Navier–Stokes Millennium problem."
+      }
+    ]
+  }
+}

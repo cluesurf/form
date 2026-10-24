@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "7ba5fabc-ea67-4a72-b4b3-20cac0371371",
+  "title": "E-FRC-0198: no deuteron for color singlets (stand-ins for nucleons) of the paid-string rule: zero bound levels in...",
+  "purpose": "Experiment E-FRC-0198 in the gauge arena: no deuteron for color singlets (stand-ins for nucleons) of the paid-string rule: zero bound levels in energy by theorem, and two mesons in contact 1.01 times as often as an ideal gas of the same singlets at two fills (zero free energy within error), with saturation unreadable.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L2 (L2: known physics reproduced on a stated model).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/gauge/nucleon-deuteron.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-FRC-0198",
+        "quote": null
+      }
+    ]
+  }
+}

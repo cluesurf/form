@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "30baa444-1b2f-4a4e-a419-637e6e889382",
+  "title": "E-QTM-0167: matter's Weyl pair on a ring is the covering ring's, pass: the lone vibe's beat commutes exactly with...",
+  "purpose": "Experiment E-QTM-0167 in the quantum arena: matter's Weyl pair on a ring is the covering ring's, pass: the lone vibe's beat commutes exactly with the shift by one dock that carries the vibe's point across each link (17 of 17 starts at L = 3, 6, 9, 27, U T = zeta_L T U on all), never with the plain shift (0 of 17; pure gauge links with trivial holonomy break it too), and $T^L$ is the link holonomy, never trivial, so the pair is that of Z_(L c) on the covering ring, where the lone vibe is the fear walk bit for bit (c from 1 to 6), which gives E-QTM-0157's after-wrap L1 exactly (1,304,279,928 / $4^{16} = 0.3037$ on 16 starts, 0 on integer+13); Schwinger's column pair reaches [x, p] = i on its lowest 5 rungs faster than any power of N (|c - 1| 2.9e-5 at D = 8, float floor from D = 16 to 64).",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L2 (L2: known physics reproduced on a stated model).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/quantum/weyl-pair.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-QTM-0167",
+        "quote": null
+      }
+    ]
+  }
+}

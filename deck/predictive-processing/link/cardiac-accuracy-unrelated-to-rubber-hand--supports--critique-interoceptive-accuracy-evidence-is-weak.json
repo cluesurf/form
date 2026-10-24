@@ -1,0 +1,28 @@
+{
+  "record": "link",
+  "id": "07781436-d6dd-4b15-acef-387d1f7173fa",
+  "from": "a8f1b842-f143-4870-b859-8b220da4e521",
+  "to": "af3ed9d1-0a74-4fde-9d0e-a8fb60c7aaf2",
+  "relation": "supports",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "7419b409-0892-4ae6-ac52-223508fc99bc",
+        "locator": "abstract",
+        "quote": "We concluded that individual differences in proprioceptive processing impact the RHI, while cardioceptive accuracy is unrelated to it."
+      }
+    ]
+  }
+}

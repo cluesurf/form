@@ -1,0 +1,50 @@
+{
+  "record": "proposition",
+  "id": "0b0fd7ab-7ff7-4ff8-a7c3-d634edf7e931",
+  "kind": "empirical",
+  "epistemic_status": "hypothesized",
+  "title": "One temporal-flow scalar spans many observational arenas",
+  "statements": [
+    {
+      "id": "f78d08dd-be48-45a3-9719-b7d3416b0ac0",
+      "text": "A conserved scalar of temporal-flow differentials, $\\chi$, with a few shared parameters, accounts for signatures across gravitational-wave ringdowns, horizon imaging, neutrino transients, precision clocks and cosmology, with gradients that define inertia and gravity.",
+      "language": "en",
+      "scope": null,
+      "conditions": "The 2026 rebuild requires a parameter to be shared only when one action or constitutive law derives it in every arena.",
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "f78d08dd-be48-45a3-9719-b7d3416b0ac0",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "4e122635-26fc-4d42-bb3b-7e7af6cafd45",
+        "locator": "section 1",
+        "quote": "I posit a conserved scalar of temporal-flow differentials, χ, whose gradients define inertia and gravity"
+      },
+      {
+        "source": "9fa9fb29-0013-440b-b0d5-57de1d1c2c72",
+        "locator": "section 1",
+        "quote": "The problem was that numerical similarity and shared notation were allowed to stand in for a derived physical bridge."
+      }
+    ]
+  }
+}

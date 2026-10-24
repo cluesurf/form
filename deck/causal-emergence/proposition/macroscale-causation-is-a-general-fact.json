@@ -1,0 +1,45 @@
+{
+  "record": "proposition",
+  "id": "c6eb561f-8abf-4059-877f-61b42f83d4fc",
+  "kind": "philosophical",
+  "epistemic_status": "inferred",
+  "title": "Macroscale causation is a general fact",
+  "statements": [
+    {
+      "id": "1b051eb7-a6ad-4f19-9a62-fc8888ff15b9",
+      "text": "Macroscale causation is a general property of causal relationships, detectable by science, and not an artifact of one chosen measure.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-23"
+    }
+  ],
+  "current_statement": "1b051eb7-a6ad-4f19-9a62-fc8888ff15b9",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "730ddfd3-ad1a-4e42-9b1d-3ef590ddaba4",
+        "locator": "abstract",
+        "quote": "macroscale causation is a general fact about causal relationships, is scientifically detectable, and is not a quirk of any particular measure of causation"
+      }
+    ]
+  }
+}

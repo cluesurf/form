@@ -1,0 +1,45 @@
+{
+  "record": "proposition",
+  "id": "0cf80ed8-5c76-437e-8d73-71a1bb218db3",
+  "kind": "philosophical",
+  "epistemic_status": "observed",
+  "title": "Axiom: experience is structured",
+  "statements": [
+    {
+      "id": "0ad4d445-b798-46be-9c6d-ba98a1f08537",
+      "text": "Experience is structured: it is composed of distinctions and the relations that bind them, yielding a phenomenal structure that feels the way it feels.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-23"
+    }
+  ],
+  "current_statement": "0ad4d445-b798-46be-9c6d-ba98a1f08537",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "8443eb2e-406e-4acc-94e8-33cbabbd3679",
+        "locator": "section \"Axioms of phenomenal existence\" (full text)",
+        "quote": "Experience is structured: it is composed of distinctions and the relations that bind them together, yielding a phenomenal structure that feels the way it feels."
+      }
+    ]
+  }
+}

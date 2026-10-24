@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "2164f638-800c-4936-89b4-5e9e658a2307",
+  "title": "E-FRC-0262: the husk light's 3D balance split, measured, partial as derived: by exact equipartition the bulk light's...",
+  "purpose": "Experiment E-FRC-0262 in the gauge arena: the husk light's 3D balance split, measured, partial as derived: by exact equipartition the bulk light's registers balance at exactly 3/8 with every link and triangle alike, while the husk light read with its own column weights balances at about 0.4614, none of the carried-over 3/8, the bare husk count 9/20, 3/5 or 9/32, and no single split fills every husk register class alike; alpha at that balance gives no depth near 137.036.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L2 (L2: known physics reproduced on a stated model).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/gauge/husk-balance.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-FRC-0262",
+        "quote": null
+      }
+    ]
+  }
+}

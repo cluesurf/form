@@ -1,0 +1,50 @@
+{
+  "record": "proposition",
+  "id": "45569ebd-c53e-431d-bb52-ef02ca1c9a74",
+  "kind": "empirical",
+  "epistemic_status": "hypothesized",
+  "title": "Consciousness is graded and widespread",
+  "statements": [
+    {
+      "id": "3c6e29f3-945a-40a4-8c44-438d32996cec",
+      "text": "Consciousness is graded, is common among biological organisms, is present in infants and animals, and can occur in some very simple systems.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-23"
+    }
+  ],
+  "current_statement": "3c6e29f3-945a-40a4-8c44-438d32996cec",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "cd180db3-bb1d-4ab0-814c-72898fb077ef",
+        "locator": "abstract",
+        "quote": "It predicts that consciousness is graded, is common among biological organisms and can occur in some very simple systems."
+      },
+      {
+        "source": "3d779a7d-830e-4033-ae1a-0f90c39c36e6",
+        "locator": "abstract",
+        "quote": "The theory entails that consciousness is a fundamental quantity, that it is graded, that it is present in infants and animals, and that it should be possible to build conscious artifacts."
+      }
+    ]
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "record": "proposition",
+  "id": "db5ab6bc-2d3a-41de-be24-eb29f89a53e0",
+  "kind": "empirical",
+  "epistemic_status": "hypothesized",
+  "title": "Momentum is conserved because directional states are",
+  "statements": [
+    {
+      "id": "fdee2446-316a-4a93-adae-c7812a7ecf19",
+      "text": "Conservation of momentum follows from the conservation of the directional states that particles pass between them when they interact.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "fdee2446-316a-4a93-adae-c7812a7ecf19",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "f1f9bdb8-14c9-4c62-9e48-01ecc2870699",
+        "locator": "Momentum and conservation of momentum",
+        "quote": "Conservation of momentum follows from the conservation of those directional states during interaction."
+      }
+    ]
+  }
+}

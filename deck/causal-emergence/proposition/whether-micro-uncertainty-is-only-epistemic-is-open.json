@@ -1,0 +1,45 @@
+{
+  "record": "proposition",
+  "id": "674080d5-24e6-472a-ab35-7e057d79b181",
+  "kind": "philosophical",
+  "epistemic_status": "hypothesized",
+  "title": "Whether micro uncertainty is only epistemic is open",
+  "statements": [
+    {
+      "id": "886030e7-c8ca-41ff-aabb-ed240f9dab9f",
+      "text": "Whether the noise and common causes that macroscales remove exist in nature or only in our models is an open question that depends on the end state of physics.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-23"
+    }
+  ],
+  "current_statement": "886030e7-c8ca-41ff-aabb-ed240f9dab9f",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "c40bbd28-a2c5-4730-84c0-90f7ae0644de",
+        "locator": "section 6",
+        "quote": "there is the broader question of whether uncertainty (in the form of noise or common causes) exists merely epistemically when it comes to the causal models of science"
+      }
+    ]
+  }
+}

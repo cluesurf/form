@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "4bc27cb4-9a62-4b2a-90ae-d65849e4adda",
+  "title": "E-GRV-0010: rays bend toward matter (lensing) scaling with mass, curvature sourced by matter",
+  "purpose": "Experiment E-GRV-0010 in the gravity arena: rays bend toward matter (lensing) scaling with mass, curvature sourced by matter.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L0 (L0: circular: the answer reaches the verdict as a typed constant).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/gravity/effective-metric.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-GRV-0010",
+        "quote": null
+      }
+    ]
+  }
+}

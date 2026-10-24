@@ -1,0 +1,28 @@
+{
+  "record": "link",
+  "id": "540c6f03-6fb9-4c47-b0ac-c599d9683866",
+  "from": "224e2680-a114-468b-8334-0dfa4f709998",
+  "to": "1742bbfe-92c2-4298-aa13-2df7e20acb32",
+  "relation": "answers",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "4489b7d7-7273-4b67-a1c2-b53ddab0eeb5",
+        "locator": "section 5.4",
+        "quote": "Experimental designs that explicitly test for coherence effects will, we expect, be required to test the above predictions."
+      }
+    ]
+  }
+}

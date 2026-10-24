@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "55a9c707-e84e-4ac2-aa60-404b4c211341",
+  "title": "E-GRV-0075: the even field read as the husk depth gives a staircase with a 1/r tail and pulls matter in, but the...",
+  "purpose": "Experiment E-GRV-0075 in the gravity arena: the even field read as the husk depth gives a staircase with a 1/r tail and pulls matter in, but the light does not follow its rays, fail on L2 to L4: the even potential of a placed lump (content 28, 7 columns) counted in thresholds of M / (24 pi 10) deepens 4,169 columns up to D 29 with shells at r = 1, 2, 3, 4, 6, 11 and makes a medium identical bit for bit under the charge flip; the lens run reverses exactly with 0 Gauss violations and 0 wraps, but the exit-plane delay is nearly flat, 0.095, 0.293, 0.411, 0.719, 1.350 beats at b = 0 .. 8 against the straight-line eikonal 9.504, 5.368, 3.833, 2.525, 1.931, near the eikonal's cross-section mean 0.723 (post run), and the wavefront tilts AWAY, -0.021 to -0.047 rad at b = 3 .. 6 against +0.229 to +0.096: a packet 16 docks long past a lens of radius 10 is read 20 docks on, inside one Fresnel zone (about 18 docks), so no ray reading holds and the 1/b test is not reached; a unit charge's self-energy ($q^2$, charge blind) rises monotonically away from the lump by 1.14e-3 from r = 2 to 14 (a fall, in unit steps at the shells), but the even field's own repulsion of unit content over the same span is 3.17e-2, 28 times larger.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L2 (L2: known physics reproduced on a stated model).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/gravity/even-lens.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-GRV-0075",
+        "quote": null
+      }
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "record": "link",
+  "id": "602dfdcc-a57c-4d1c-97fd-57a07a89ad3f",
+  "from": "14e8a957-511d-4bb4-abc6-d84fddacd955",
+  "to": "08d27757-88ff-4189-b848-46dd8cdb96cb",
+  "relation": "weakens",
+  "strength": null,
+  "rationale": "The critique compares predictive power. Hoel separates prediction from causation, so a micro that predicts at least as well need not be the better cause.",
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "c40bbd28-a2c5-4730-84c0-90f7ae0644de",
+        "locator": "section 1",
+        "quote": "However, prediction is not the same thing as causation [4]."
+      }
+    ]
+  }
+}

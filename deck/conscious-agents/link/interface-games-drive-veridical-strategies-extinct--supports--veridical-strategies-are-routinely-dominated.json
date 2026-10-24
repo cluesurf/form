@@ -1,0 +1,28 @@
+{
+  "record": "link",
+  "id": "21a2f63d-3980-4d38-a41f-0121382a3c95",
+  "from": "2ce0f76c-c860-42ae-a8ec-74ec31bb1d76",
+  "to": "a7907ffd-c41a-4ec6-a71b-961967759777",
+  "relation": "supports",
+  "strength": 0.6,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "ffca533b-9e2b-4869-b5a5-82c2fda78bd8",
+        "locator": "abstract, p. 504",
+        "quote": "We find that veridical perceptions can be driven to extinction by non-veridical strategies that are tuned to utility rather than objective reality."
+      }
+    ]
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "dca0d18e-b55c-423c-97ce-ff2da26504a9",
+  "title": "E-SPN-0110: two vibes on crossing mesh lines bound by the drift cost's string are held at the crossing and cannot...",
+  "purpose": "Experiment E-SPN-0110 in the spin arena: two vibes on crossing mesh lines bound by the drift cost's string are held at the crossing and cannot move, partial (M1 holds, M2 and M3 fail, one calibration failed): the rule writes a link only where a vibe copies across it, so the string's path between two lines is frozen and its cost separates into one term per line ($n_A(s_A) + n_B(s_B)$, no term in the separation), and the pair is held at the dock where the string meets both lines; two loves admit no flux at all ($Z_3$ charge 2: 0 assignments against a love and a fear's 9), and at the crossing the working bounce swaps two vibes whose roots meet at 90 or 120 degrees and keeps them at 60; in the stand-in (rings of 28, explicit flux, the committed bounce table) the exchange-symmetric level holds exactly (tail 7.2e-5, fidelity 1 - 1e-13 over 256 beats, g60 and g90), but boosted along the bisector to pi/2 it moves 2e-5 docks a beat against 0.17 predicted and its energy stays within 9e-4 against a predicted rise to 0.25, while the same reading on two free vibes follows the prediction to 1.1 percent; the one-line pair calibration moved 5.5 docks but its least-squares slope reached 1.96 of the 3 docks required; spreading over the twelve line classes averages to an energy isotropic through $K^4$ (D4 is a 5-design) but its branches separate at sqrt 3 times the mean drift.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L2 (L2: known physics reproduced on a stated model).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/spin/crossing-lines.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-SPN-0110",
+        "quote": null
+      }
+    ]
+  }
+}

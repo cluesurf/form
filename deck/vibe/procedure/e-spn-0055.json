@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "9063ef41-ed15-45bc-b2ea-2066b5e61c5b",
+  "title": "E-SPN-0055: color from the translations, spin from the turns: the translation-neutral states of n roles and m...",
+  "purpose": "Experiment E-SPN-0055 in the spin arena: color from the translations, spin from the turns: the translation-neutral states of n roles and m antiroles number $3^{n+m-2}$ when n = m mod 3 with (rank - (-1)^(n+m))/2 spinorial, so the meson is a boson and the triple holds a totally symmetric spinorial doublet of 2T beside an antisymmetric boson; the doublet is a piece of spin 3/2, not spin 1/2 (the uuu, Delta-like case), and the fear beat two loves feel acts on it as exactly 1; the smallest neutral cluster with a natural spin one half is four roles and one antirole.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L1 (L1: known mathematics, correctly confirmed).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/spin/translation-color-triple.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-SPN-0055",
+        "quote": null
+      }
+    ]
+  }
+}

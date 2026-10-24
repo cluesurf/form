@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "52d37645-ac99-4473-b2c5-42c2c0aa26d5",
+  "title": "E-SLF-0063: a coherent self reaches its goal while a fragmented self of the same parts cannot, so integration...",
+  "purpose": "Experiment E-SLF-0063 in the selves arena: a coherent self reaches its goal while a fragmented self of the same parts cannot, so integration amplifies agency.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L2 (L2: known physics reproduced on a stated model).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/selves/integration-amplifies-agency.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-SLF-0063",
+        "quote": null
+      }
+    ]
+  }
+}

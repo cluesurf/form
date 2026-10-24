@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "c47776ef-2ac5-4491-9710-ae8d706b53cd",
+  "title": "E-FND-0128: the kick generator is charge-signed, the abelian gauge coupling measured directly: the same wall steps...",
+  "purpose": "Experiment E-FND-0128 in the foundations arena: the kick generator is charge-signed, the abelian gauge coupling measured directly: the same wall steps the particle phase down one clock unit (one hundred fifty to thirty, clean at support one) and the antiparticle phase up one (minus one hundred fifty to minus thirty, read at the amplitude level through a small stable dressing with the amplitude locked at root three), while Z three closure by composition stays honestly open with its three measured obstructions recorded (mutual domain reshaping, configuration-global regimes, self-wake dressing of the Wilson loop).",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L2 (L2: known physics reproduced on a stated model).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/foundations/charge-signed-kick.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-FND-0128",
+        "quote": null
+      }
+    ]
+  }
+}

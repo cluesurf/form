@@ -1,0 +1,45 @@
+{
+  "record": "proposition",
+  "id": "71ea40ca-3421-48f9-b178-858f19b22c27",
+  "kind": "mathematical",
+  "epistemic_status": "inferred",
+  "title": "Code-induced spacetime supplies classical redundancy",
+  "statements": [
+    {
+      "id": "a8644778-6b71-4a6f-8bf2-29c44ba97a29",
+      "text": "The spacetimes induced by quantum error-correcting codes provide the classical redundancy that classical communication between separated observers requires.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-23"
+    }
+  ],
+  "current_statement": "a8644778-6b71-4a6f-8bf2-29c44ba97a29",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "0106999c-ce99-4816-800a-819a3635b0f4",
+        "locator": "abstract",
+        "quote": "show that QECC-induced spacetimes provide the classical redundancy required for LOCC"
+      }
+    ]
+  }
+}

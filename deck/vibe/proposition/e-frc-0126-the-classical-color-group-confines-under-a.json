@@ -1,0 +1,50 @@
+{
+  "record": "proposition",
+  "id": "fe8c15ab-ba54-4416-aa09-69c5a2b9ebf8",
+  "kind": "empirical",
+  "epistemic_status": "simulated",
+  "title": "E-FRC-0126: the classical color group confines under a rule with no random number: on the kinetic demon automaton of...",
+  "statements": [
+    {
+      "id": "ff6b8aad-c219-45e0-b1f1-4e66801fc845",
+      "text": "The classical color group confines under a rule with no random number: on the kinetic demon automaton of Sigma(648), at two energies in the melted phase a static color pair pays a string tension (Creutz ratio chi(2, 2) above zero, matching the heatbath) and the fundamental Polyakov loop vanishes (the center, the vibe phase, unbroken, so a lone color has infinite free energy), while on the ordered branch the loop is nonzero and a lone color is freed.",
+      "language": "en",
+      "scope": "experiment E-FRC-0126, arena gauge, depth L2 (L2: known physics reproduced on a stated model)",
+      "conditions": "substrates: any. In a paper: false",
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-22"
+    }
+  ],
+  "current_statement": "ff6b8aad-c219-45e0-b1f1-4e66801fc845",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": {
+    "value": "open",
+    "reason": "holds in the vibe claim graph",
+    "basis": [],
+    "proposal": null
+  },
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "research/result.ts R-FRC-0006",
+        "quote": null
+      }
+    ]
+  }
+}

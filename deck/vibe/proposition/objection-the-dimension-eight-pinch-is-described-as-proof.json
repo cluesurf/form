@@ -1,0 +1,50 @@
+{
+  "record": "proposition",
+  "id": "676aea5e-3e71-49b1-871d-aec35fa4fd11",
+  "kind": "empirical",
+  "epistemic_status": "inferred",
+  "title": "the dimension-eight pinch is described as proof-checked, but the kernel checks it only on integers",
+  "statements": [
+    {
+      "id": "e4bb0b1c-ca01-4fff-b8f7-bf728119fb19",
+      "text": "The dimension-eight pinch is described as proof-checked, but the kernel checks it only on integers.",
+      "language": "en",
+      "scope": "verdict stands: the objection is correct about the program today",
+      "conditions": "Measured: the formal pinch file holds integer spot checks. The converse of Hurwitz is not a checked proof. Evidence named: R-FND-0002, open problem OP-09.",
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-22"
+    }
+  ],
+  "current_statement": "e4bb0b1c-ca01-4fff-b8f7-bf728119fb19",
+  "status": "active",
+  "voice": "critique",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": {
+    "value": "open",
+    "reason": "verdict stands",
+    "basis": [],
+    "proposal": null
+  },
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "research/objection.ts",
+        "quote": null
+      }
+    ]
+  }
+}

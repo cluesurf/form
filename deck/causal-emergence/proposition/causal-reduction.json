@@ -1,0 +1,45 @@
+{
+  "record": "proposition",
+  "id": "f6cab92b-506d-408f-a1c9-7fc832b468f8",
+  "kind": "definitional",
+  "epistemic_status": "designed",
+  "title": "Causal reduction",
+  "statements": [
+    {
+      "id": "ddd8b60e-942c-4f5b-b179-2b11ac2fb2e5",
+      "text": "Causal reduction holds when every macro level has less effective information than the micro level, so the micro is the best level of causal analysis.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-23"
+    }
+  ],
+  "current_statement": "ddd8b60e-942c-4f5b-b179-2b11ac2fb2e5",
+  "status": "active",
+  "voice": "framework",
+  "defines": "causal reduction",
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "8360d34d-30cb-44f8-89c9-41768fb53f0d",
+        "locator": "Theory, Causal Emergence/Reduction",
+        "quote": "If for every macro-level CE < 0, causal reduction holds."
+      }
+    ]
+  }
+}

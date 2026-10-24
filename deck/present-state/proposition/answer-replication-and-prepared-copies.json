@@ -1,0 +1,50 @@
+{
+  "record": "proposition",
+  "id": "114ceab9-067a-4c6b-a3f7-3c87c3670169",
+  "kind": "empirical",
+  "epistemic_status": "inferred",
+  "title": "Answer: replication, and copies prepared at the logical level",
+  "statements": [
+    {
+      "id": "29d5beb4-dc69-4d1d-9b03-e461997c54b8",
+      "text": "A consciousness difference must show up as a difference in a system's future state under the same inputs, the same standard that makes experiments replicable. For computational theories the test pair can be prepared, since a computer can be set into another's logical state without running its history.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "29d5beb4-dc69-4d1d-9b03-e461997c54b8",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "ac2774e1-a04c-4c89-9db2-7848c6f5ce0b",
+        "locator": "section 4.5",
+        "quote": "Including the stochastic (§4.10) and realizability extensions (§4.11), this approximates the principle of experimental replicability."
+      },
+      {
+        "source": "ac2774e1-a04c-4c89-9db2-7848c6f5ce0b",
+        "locator": "section 4.11",
+        "quote": "The β of §3 is therefore preparable: it requires setting logical states, not atoms."
+      }
+    ]
+  }
+}

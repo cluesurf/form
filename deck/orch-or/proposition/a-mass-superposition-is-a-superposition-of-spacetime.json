@@ -1,0 +1,45 @@
+{
+  "record": "proposition",
+  "id": "3be86ca9-e2bd-4465-833c-6118e9e9f932",
+  "kind": "philosophical",
+  "epistemic_status": "hypothesized",
+  "title": "A mass superposition is a superposition of spacetime geometries",
+  "statements": [
+    {
+      "id": "0afb0b58-1a83-45db-b080-322479684796",
+      "text": "Superposed states whose mass distributions differ have different spacetime geometries, so the physical reality is a superposition of slightly differing spacetimes, which becomes unstable as their separation grows.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-23"
+    }
+  ],
+  "current_statement": "0afb0b58-1a83-45db-b080-322479684796",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "c0602528-f093-4705-abc3-e13d7657a680",
+        "locator": "section 4.4",
+        "quote": "superposed quantum states for which the respective mass distributions differ significantly from one another will have space–time geometries that also correspondingly differ"
+      }
+    ]
+  }
+}

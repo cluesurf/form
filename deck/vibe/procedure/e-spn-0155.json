@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "07eed7ae-47d0-4e17-8211-a3efe8136fea",
+  "title": "E-SPN-0155: a love and a fear bound by the husk Coulomb law on the swap-coin rule (the static stand-in), partial on...",
+  "purpose": "Experiment E-SPN-0155 in the spin arena: a love and a fear bound by the husk Coulomb law on the swap-coin rule (the static stand-in), partial on the instrument (the Green table 8e-11 against 1e-11): heavy members bind into an exactly held, isotropic level that moves (R 1.41 to 1.44 against tan m / m 1.347), the tightest point collapses onto contact, and the light member leaks through the flat-band channel open at infinity.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L2 (L2: known physics reproduced on a stated model).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/spin/husk-coulomb-meson.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-SPN-0155",
+        "quote": null
+      }
+    ]
+  }
+}

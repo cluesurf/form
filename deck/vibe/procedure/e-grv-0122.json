@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "5b5cd07e-194e-4e8c-9f74-abf7b180b9d4",
+  "title": "E-GRV-0122: a lapse set by the metric register's remaining room traps light and keeps the weak field, but the dock...",
+  "purpose": "Experiment E-GRV-0122 in the gravity arena: a lapse set by the metric register's remaining room traps light and keeps the weak field, but the dock ends its exponential redshift after 1.5 .. 2.3 e-folds, fail on H2 and H3: with the light's two metric parts running at h = (CAP - e) / CAP (f = h, matter's clock sqrt(h), $G = k_u / 2$ CAP, $r_h = 2$ G M) on the box-free profile at $r_h = 6.5$ .. 48.5 (M = 942 .. 6990), no packet crosses a full register, the light slows to 0.010 .. 0.053 c on the first live dock and finds the horizon to 0.2 dock; its largest redshift is ln z 1.47, 1.73, 2.04, 2.29, the staircase's 1.30 .. 2.20 plus 0.1, growing as ln(M) / 2, so the near zone spans 0 .. 1.24 e-folds (gate 2) at slope 0.75 .. 0.86 of kappa; T_light M spreads 0.127 (gate 0.1) where the profile's is flat to 1.5 percent; bending 1.9985, alpha flat to 8e-10, the room light equal value for value to the minimal-coupling light at q0 C / k; E-GRV-0120's rule lets light out and reads 0.045 e-folds; exact, reversed bit for bit.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L2 (L2: known physics reproduced on a stated model).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/gravity/headroom-horizon-temperature.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-GRV-0122",
+        "quote": null
+      }
+    ]
+  }
+}

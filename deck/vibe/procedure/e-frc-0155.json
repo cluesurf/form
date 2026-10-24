@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "47327453-0be9-457f-b86d-4285d844dcf9",
+  "title": "E-FRC-0155: a string tension from the coupled Sigma(648) field: at the one stationary ordered point the loops rise...",
+  "purpose": "Experiment E-FRC-0155 in the gauge arena: a string tension from the coupled Sigma(648) field: at the one stationary ordered point the loops rise far above the noise but the field is deconfined (Polyakov 0.58, chi(2,2) -0.08, chi(3,3) 0.27), with no put-in tension the coupled field holds a flux string within a few links of taut (excess 0.9 to 2.6, against 4,207 uncoupled) and pays for it with energy rising about 21 per unit length, and a cold meson at tension x beta 4.2 binds and moves as a pair but only 4.2 in 600 beats, so three gates fail.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L2 (L2: known physics reproduced on a stated model).",
+  "status": "completed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/gauge/sigma-string-tension.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "research/result.ts R-FRC-0006",
+        "quote": null
+      }
+    ]
+  }
+}

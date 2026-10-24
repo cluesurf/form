@@ -1,0 +1,45 @@
+{
+  "record": "proposition",
+  "id": "4d580562-87f0-4af1-a420-4519a0b1fc27",
+  "kind": "definitional",
+  "epistemic_status": "designed",
+  "title": "Energy is the number of states",
+  "statements": [
+    {
+      "id": "b4162cfe-1662-4442-aad3-4e076512e2fe",
+      "text": "A particle's total energy $E$ is the number of states in its machine.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "b4162cfe-1662-4442-aad3-4e076512e2fe",
+  "status": "active",
+  "voice": "framework",
+  "defines": "energy",
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "f1f9bdb8-14c9-4c62-9e48-01ecc2870699",
+        "locator": "Energy",
+        "quote": "is total energy: the total number of states."
+      }
+    ]
+  }
+}

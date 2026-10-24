@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "2fd4f48f-d376-433a-9e38-bfc55871c83f",
+  "title": "E-SPN-0107: a light walk built from the same parts restores a lone love's inertia to its energy, pass on W1 and W2...",
+  "purpose": "Experiment E-SPN-0107 in the spin arena: a light walk built from the same parts restores a lone love's inertia to its energy, pass on W1 and W2, but no bound trio survives it: the fine coin (the coin's phase w taken as its n-th part, zeta = e^(2 pi i/(3n)), carried exactly by a count in $Z_n$ that wraps into w) gives a lone love half-gap pi/(3n), m*/E_rest 1.6540, 1.1027, 1.0235, 1.0058 at n = 1, 2, 4, 8 (tan m/m to 4e-5) and top speed 0.500, 0.866, 0.966, 0.991 (cos m), exact, unitary and reversible on the side-8 window (ring form to 1e-16, 0 leak, 0 mesh lines broken, t docks at beat t), n = 1 the working rule bit for bit; the slow coin (the working coin every n-th beat) keeps 1.654 and 1/2 at every n, the same walk on docks n times larger; n is (pi/3) times the Compton wavelength in docks, a new free input; at n = 2, 4, 8 no three-love level is held in the stand-in's box (least tail beyond N 0.22, 0.19, 0.09 against 6e-4 at n = 1), since the fine coin also turns a full dock's det C from w to zeta, the contact that held the level.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L2 (L2: known physics reproduced on a stated model).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/spin/fine-coin.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-SPN-0107",
+        "quote": null
+      }
+    ]
+  }
+}

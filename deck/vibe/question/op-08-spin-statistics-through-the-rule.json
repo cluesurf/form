@@ -1,0 +1,26 @@
+{
+  "record": "question",
+  "id": "b92cc652-447c-4950-ba62-85cdae448289",
+  "text": "Does a moving vibe carry spin one half and the minus sign under exchange through the knit's own stream, rather than as an input?",
+  "kind": "missing_evidence",
+  "status": "open",
+  "parent": null,
+  "description": "OP-08: spin-statistics through the rule.\n\nKnown: the turning weave does not carry the spinor sign: the coin directions are a 2T torsor, the turn lifts after four beats to (-1, +1) in $SU(2)_L \\times SU(2)_R$, and the palindromic schedule nets +1 where the rejected cyclic one nets -1 (E-SPN-0044). The role carries it: under the 2 pi turn every role is a spin one half doublet and a scalar, the turn lifting to -P in Sigma(648) (E-SPN-0051, E-SPN-0054). A full turn of a cluster is $(-1)^N$ with N the doublet count, the model's fermion number, and with every role locked into its doublet every charge-one state is spinorial, so turn sign and exchange sign agree (E-SPN-0071). A moving token is a spinor by force: no husk-covariant stream can copy the scalar line (E-SPN-0066). Exclusion lives in the signed weight: the fermion pair on the role grid is 72 loves and 18 fears, every fear on a coincident point (E-SPN-0045). E-SPN-0014 computes an identity true of every vector, and its exchange signs were typed.\n\nUnknown: the doublet-locked stream in the knit itself, adopted on 2026-09-26 and not built: the adopted knit copies all 24 roots at once, so its copies commute and the spin never enters the band (E-SPN-0083). The tokens of E-SPN-0066 and E-SPN-0071 are stand-ins.\n\nWhy it matters: the published paper claimed it.\n\nScope: open research.\n\nSkills: representation theory, quantum foundations.\n\nWhere to start: test/experiment/spin/fermi-exclusion.ts.\n\nThe claims it would move: R-FND-0001.\n\nEvidence named: paper errata, E-SPN-0014, E-SPN-0044, E-SPN-0045, E-SPN-0051, E-SPN-0054, E-SPN-0066, E-SPN-0071, E-SPN-0083.",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "research/problem.ts OP-08",
+        "quote": null
+      }
+    ]
+  }
+}

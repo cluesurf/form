@@ -1,0 +1,28 @@
+{
+  "record": "link",
+  "id": "39e4b623-90da-4e77-9948-63ffd3817dbb",
+  "from": "28aa165a-656d-4d8d-95f4-c697fe3d8afd",
+  "to": "b0a2543b-7fc2-4e58-96e2-c948d8893284",
+  "relation": "assumes",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "a059c9f1-900d-470f-be1e-40a09f7844c6",
+        "locator": "abstract",
+        "quote": "The redundancy of encoding required by quantum Darwinism must, therefore, be assumed from outside the quantum-mechanical formalism and without the possibility of experimental demonstration."
+      }
+    ]
+  }
+}

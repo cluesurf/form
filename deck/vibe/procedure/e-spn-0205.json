@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "ca99c135-bf6e-4740-8ea7-b378f88d926b",
+  "title": "E-SPN-0205: explores whether the one-walker state space keeps the register rule's statistics species by species: on...",
+  "purpose": "Experiment E-SPN-0205 in the spin arena: explores whether the one-walker state space keeps the register rule's statistics species by species: on 0002's exact box, every walker species (grades 0 to 3, both tones, the link acting as Lambda^k of a non-monomial det-1 colour) keeps minors over walker modes reversible, composing, covariant, with the full sea one branch and one walker a mode, while permanents fail; the exchange sign is -1 and the 2 pi turn of the one register a walker carries is -1 on every grade; R*'s member pair piece on co-located members lifts to 1 + (e^(i j k phi) - 1) $Q_A Q_B$ on all 16 (j, k), with self-phase C(k, 2) phi(0).",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L1 (L1: known mathematics, correctly confirmed).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/spin/walker-species.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-SPN-0205",
+        "quote": null
+      }
+    ]
+  }
+}

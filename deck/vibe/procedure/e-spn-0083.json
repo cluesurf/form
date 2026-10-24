@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "becb31d2-0fb4-483c-a344-5d07fc629b08",
+  "title": "E-SPN-0083: g = 2 on the knit's own schedule, fail as predicted (not derived): the adopted knit copies all 24 roots...",
+  "purpose": "Experiment E-SPN-0083 in the spin arena: g = 2 on the knit's own schedule, fail as predicted (not derived): the adopted knit copies all 24 roots in one permutation per beat, steered by the slot, so its copies commute and T = 0 holds trivially, but the spin never enters the band (spectator symbols commute with sigma exactly) and a lone vibe keeps its slot on 294,912 of 294,912 docks (no coin: a massless line mover whose census word is a bowl in no plane); a spin-steered copy cannot be simultaneous (the locked generators anticommute), and read with its order averaged the one-beat x, y, z copy is the Dirac square root at period one (T = 0, g = 2) while all 6 sequential orders are saddles; the role decides which vacuum member a lone vibe meets (up to 6 histories from 9 role points) but never its line, on 17 of 17 starts; the lazy root token also copies in one permutation, so laziness does not change T.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L2 (L2: known physics reproduced on a stated model).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/spin/knit-g-schedule.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-SPN-0083",
+        "quote": null
+      }
+    ]
+  }
+}

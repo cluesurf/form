@@ -1,0 +1,28 @@
+{
+  "record": "link",
+  "id": "ea55fe65-1ecf-4dd7-97a6-22af0dd34f13",
+  "from": "5ff01a5d-b1c7-4dc4-97e4-42d550e87bf9",
+  "to": "1b421e80-cf88-4546-b040-73c2c8e3cffd",
+  "relation": "weakens",
+  "strength": null,
+  "rationale": "A conscious feature that prefrontal cortex does not represent is hard to square with prefrontal workspace neurons carrying conscious content.",
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "dbe9b66c-4ffb-4615-9fd2-aa5c75424db8",
+        "locator": "Results, decoding of conscious content",
+        "quote": "decoding of face orientation (left, right or front views) was achieved in posterior but not in prefrontal ROIs"
+      }
+    ]
+  }
+}

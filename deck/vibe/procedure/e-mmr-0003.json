@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "0730ac05-dbef-42e7-bee3-0ea6c5ef938f",
+  "title": "E-MMR-0003: free association as a content-cued walk, each recalled word cues the next nearest memory",
+  "purpose": "Experiment E-MMR-0003 in the associative arena: free association as a content-cued walk, each recalled word cues the next nearest memory.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L2 (L2: known physics reproduced on a stated model).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/associative/chaining.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-MMR-0003",
+        "quote": null
+      }
+    ]
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "e5bd656c-2eb4-4173-9449-91f83289b4d9",
+  "title": "E-QTM-0172: no discrete-time Zeno law from the fear beat: on the vacuum pair's role transfer (17 starts, 48 beats...",
+  "purpose": "Experiment E-QTM-0172 in the quantum arena: no discrete-time Zeno law from the fear beat: on the vacuum pair's role transfer (17 starts, 48 beats, exact over Q(w)) a meeting every k-th beat with a partner from the frame-invariant vacuum is the depolarizing channel (lambda 2/3 love-fear, 1/4 like, 18 of 18 matrix units), so it reads no basis and pulls the time-mean survival to 0.126 to 0.135 and 0.120 to 0.122 at k = 1 against 0.114 to 0.356 with none, partial: a rise above no meeting only on the 5 and 3 starts whose transfer had already taken survival below that, no curve non-increasing in k; the ideal reading saturates at one reading per drive interval (k = 1, 2, 3 equal on 17 of 17) and never freezes.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L1 (L1: known mathematics, correctly confirmed).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/quantum/discrete-zeno-law.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-QTM-0172",
+        "quote": null
+      }
+    ]
+  }
+}

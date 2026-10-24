@@ -1,0 +1,28 @@
+{
+  "record": "link",
+  "id": "f1e581fe-cc6a-445f-a114-544dd9d0c767",
+  "from": "8884db73-7889-4d76-8e8e-4b03c7c704e6",
+  "to": "de4ece67-abb5-4cf5-9f67-d376a867e846",
+  "relation": "requires",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "a6941f16-a2de-4b67-b9c7-f026073173fc",
+        "locator": "abstract",
+        "quote": "the theoretical treatment predicts that sensory cortex should be arranged hierarchically, that connections should be reciprocal and that forward and backward connections should show a functional asymmetry"
+      }
+    ]
+  }
+}

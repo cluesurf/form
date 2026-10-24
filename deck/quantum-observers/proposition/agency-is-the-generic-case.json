@@ -1,0 +1,45 @@
+{
+  "record": "proposition",
+  "id": "1d3b823b-fb72-479c-889a-aef302f93d76",
+  "kind": "philosophical",
+  "epistemic_status": "inferred",
+  "title": "Agency is the generic case",
+  "statements": [
+    {
+      "id": "4edaa058-b196-4018-9cff-18ea742a0d14",
+      "text": "Quantum systems with complex enough internal information flows exhibit active inference, so agency is a generic expectation and the merely physical system is the special case needing explanation.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-23"
+    }
+  ],
+  "current_statement": "4edaa058-b196-4018-9cff-18ea742a0d14",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "4489b7d7-7273-4b67-a1c2-b53ddab0eeb5",
+        "locator": "section 5.4",
+        "quote": "by making agency a generic expectation, it makes the “merely physical” the special case demanding explanation"
+      }
+    ]
+  }
+}

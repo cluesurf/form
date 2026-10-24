@@ -1,0 +1,45 @@
+{
+  "record": "proposition",
+  "id": "30bf344e-36f3-4b87-8c85-80997c23ae1b",
+  "kind": "empirical",
+  "epistemic_status": "hypothesized",
+  "title": "Mass, momentum and spin as projections",
+  "statements": [
+    {
+      "id": "7acac066-818d-407d-86a4-d276db87ad92",
+      "text": "Physical properties such as mass, momentum and spin should arise as projections from Markov polytopes. The paper names this as open work.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-23"
+    }
+  ],
+  "current_statement": "7acac066-818d-407d-86a4-d276db87ad92",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "2207dc33-f8a8-469f-99b2-286f1139ed74",
+        "locator": "section 7",
+        "quote": "how physical properties such as mass, momentum, and spin arise as projections from Markov polytopes"
+      }
+    ]
+  }
+}

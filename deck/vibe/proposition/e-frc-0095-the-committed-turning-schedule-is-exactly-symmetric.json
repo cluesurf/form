@@ -1,0 +1,50 @@
+{
+  "record": "proposition",
+  "id": "146952fb-36c4-47d6-85bf-4169cf1105e2",
+  "kind": "empirical",
+  "epistemic_status": "simulated",
+  "title": "E-FRC-0095: the committed turning schedule is exactly symmetric under nothing but the identity among all 1152 x 36 x...",
+  "statements": [
+    {
+      "id": "5b785fe3-726e-4dd0-b83f-098be2309b41",
+      "text": "The committed turning schedule is exactly symmetric under nothing but the identity among all 1152 x 36 x 24 combinations of a 24-cell element, a tone relabelling and a beat shift, so it keeps no Z3 center and no S3 Weyl skeleton of SU(3), while pure streaming keeps all of W(F4) and the previous knit keeps a group with order-3 elements.",
+      "language": "en",
+      "scope": "experiment E-FRC-0095, arena gauge, depth L2 (L2: known physics reproduced on a stated model)",
+      "conditions": "substrates: 3434. In a paper: false",
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-22"
+    }
+  ],
+  "current_statement": "5b785fe3-726e-4dd0-b83f-098be2309b41",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": {
+    "value": "open",
+    "reason": "holds in the vibe claim graph",
+    "basis": [],
+    "proposal": null
+  },
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "research/result.ts R-FRC-0003",
+        "quote": null
+      }
+    ]
+  }
+}

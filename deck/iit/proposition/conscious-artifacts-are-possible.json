@@ -1,0 +1,45 @@
+{
+  "record": "proposition",
+  "id": "b3456c2f-17bb-4ff6-847d-477e18f6d951",
+  "kind": "empirical",
+  "epistemic_status": "hypothesized",
+  "title": "Conscious artifacts can be built",
+  "statements": [
+    {
+      "id": "d79bd489-9464-43f8-8ab1-74e08eb89077",
+      "text": "It should be possible to build conscious artifacts, provided their physical architecture, not only their function, satisfies the postulates.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-23"
+    }
+  ],
+  "current_statement": "d79bd489-9464-43f8-8ab1-74e08eb89077",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "3d779a7d-830e-4033-ae1a-0f90c39c36e6",
+        "locator": "abstract",
+        "quote": "The theory entails that consciousness is a fundamental quantity, that it is graded, that it is present in infants and animals, and that it should be possible to build conscious artifacts."
+      }
+    ]
+  }
+}

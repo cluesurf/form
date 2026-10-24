@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "7f614460-3d79-4156-b123-ac0592d8f1e9",
+  "title": "E-DST-0007: phase 3: the exact B-tree order (cell coordination) of every tessellation, computed from its symbol",
+  "purpose": "Experiment E-DST-0007 in the data-structure arena: phase 3: the exact B-tree order (cell coordination) of every tessellation, computed from its symbol.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L1 (L1: known mathematics, correctly confirmed).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/data-structure/cell-coordination.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-DST-0007",
+        "quote": null
+      }
+    ]
+  }
+}

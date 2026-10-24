@@ -1,0 +1,28 @@
+{
+  "record": "link",
+  "id": "19e52a76-cb9f-452a-a9e5-5572ffa22f1b",
+  "from": "234c8610-0468-4dc0-bbc9-323ced5a057c",
+  "to": "14227052-a013-4d2a-993f-2e4705aa009a",
+  "relation": "requires",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "329d2407-0571-4ab3-ab6b-0b58f67fd54d",
+        "locator": "Introduction",
+        "quote": "presence is the result of successful suppression by top-down predictions of informative interoceptive signals"
+      }
+    ]
+  }
+}

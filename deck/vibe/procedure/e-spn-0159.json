@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "1ac9e015-3974-4ab2-b1fb-2df14be8f1d7",
+  "title": "E-SPN-0159: no covariant two-beat schedule (of any period) closes the flat-band channel for a light composite, fail...",
+  "purpose": "Experiment E-SPN-0159 in the spin arena: no covariant two-beat schedule (of any period) closes the flat-band channel for a light composite, fail (F3, F4): the cycle is exactly T G2 T^dag G1, so the band sum keeps a constant term and every projector rest phase is free, but the singlet partner D rests in the irreducible vector Pi4, pinning three transverse states at D rest in every covariant schedule, and by the 4-design identity their only first-order partner Pi9 carries them at most sqrt(2/3) of the longitudinal speed, so S + transverse reaches the threshold (proved for far sectors and for one common speed, 8,192 of 8,192 continuum cluster points and 314 of 314 R-keeping lattice schedules at m 0.190126 open); the exact candidate (ring mixer, then mixer plus odd-octet phase, Z[w][1/42]) keeps gamma to 1e-11, R = tan m/m to 1e-12, isotropy to 1e-12, every speed under c* and the vacuum exact, and lifts 7 flats into the safe window while 14 stay at D rest; the one-beat schedule reproduces E-SPN-0143 bit for bit; the next escape is a spinor (Clifford) partner space, which an ideal Dirac multiplet shows passes the census.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L2 (L2: known physics reproduced on a stated model).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/spin/swap-two-beat.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-SPN-0159",
+        "quote": null
+      }
+    ]
+  }
+}

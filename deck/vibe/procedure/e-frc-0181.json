@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "9d2f4ae1-86b6-4b74-9448-ea57e6ec8d93",
+  "title": "E-FRC-0181: light with a carried remainder: the leapfrog U(1) sector with an error-diffusion force, f = floor((p B +...",
+  "purpose": "Experiment E-FRC-0181 in the gauge arena: light with a carried remainder: the leapfrog U(1) sector with an error-diffusion force, f = floor((p B + r) / q) and r' = (p B + r) mod q on each plaquette, stays an exact integer bijection with Gauss's law, has no dead zone, and is tested against the exact photon symbol for coherent husk waves from |B| = 1 to 1024, the hot-field estimators, the love-fear field and heating; the remainder is the history of a triangle of links, not of one link.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L2 (L2: known physics reproduced on a stated model).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/gauge/photon-remainder.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-FRC-0181",
+        "quote": null
+      }
+    ]
+  }
+}

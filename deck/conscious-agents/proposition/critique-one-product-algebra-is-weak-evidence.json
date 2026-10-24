@@ -1,0 +1,45 @@
+{
+  "record": "proposition",
+  "id": "e1964b8f-e7d5-41e3-9177-bb40c95baeea",
+  "kind": "philosophical",
+  "epistemic_status": "inferred",
+  "title": "One example object is weak evidence for fusion",
+  "statements": [
+    {
+      "id": "a3c3c9f7-97b0-4972-94e6-75a8c4174a3f",
+      "text": "Finding one mathematical object that obeys the required product algebra is only weak evidence that conscious agents combine and fuse that way.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-23"
+    }
+  ],
+  "current_statement": "a3c3c9f7-97b0-4972-94e6-75a8c4174a3f",
+  "status": "active",
+  "voice": "critique",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "0508848c-f673-40ec-bce2-7d77b2bbc0a3",
+        "locator": "main text",
+        "quote": "identifying one example mathematical object that obeys product algebra is only very weak evidence"
+      }
+    ]
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "record": "proposition",
+  "id": "54eac2d8-d0ed-4638-9caf-aa7aeffa2ed1",
+  "kind": "philosophical",
+  "epistemic_status": "hypothesized",
+  "title": "There is only cosmic consciousness",
+  "statements": [
+    {
+      "id": "7dc6b5cb-5e3e-487f-8aad-9663d223f153",
+      "text": "There is only cosmic consciousness. Every concrete thing is grounded in it, and nothing non-experiential lies beneath it.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-23"
+    }
+  ],
+  "current_statement": "7dc6b5cb-5e3e-487f-8aad-9663d223f153",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "9c8de529-0562-4ede-9748-a99db6ec0056",
+        "locator": "abstract, p. 125",
+        "quote": "there is only cosmic consciousness."
+      },
+      {
+        "source": "968b7917-52aa-4a69-bb5d-6351cfa6ae34",
+        "locator": "abstract",
+        "quote": "spatially unbound consciousness is posited to be nature's sole ontological primitive."
+      }
+    ]
+  }
+}

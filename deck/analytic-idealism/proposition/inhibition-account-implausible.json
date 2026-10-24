@@ -1,0 +1,45 @@
+{
+  "record": "proposition",
+  "id": "9ad71fc5-d2d0-4e27-a84d-eaf415592740",
+  "kind": "empirical",
+  "epistemic_status": "inferred",
+  "title": "Release from inhibition does not explain the pattern",
+  "statements": [
+    {
+      "id": "16d05b91-d607-479d-b602-44abc8635daa",
+      "text": "The pattern cannot be explained by impairment selectively shutting down inhibitory neural processes, for example because global hypoxia would not spare excitatory correlates of experience.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-23"
+    }
+  ],
+  "current_statement": "16d05b91-d607-479d-b602-44abc8635daa",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "4047cb59-a856-42f5-98c7-b6e9621caf6f",
+        "locator": "abstract",
+        "quote": "The idea that these correlations could be rather trivially accounted for on the basis of disruptions to inhibitory neural processes is reviewed and shown to be implausible."
+      }
+    ]
+  }
+}

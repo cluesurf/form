@@ -1,0 +1,28 @@
+{
+  "record": "link",
+  "id": "c095444f-64c8-411e-a148-25bed01a0b6a",
+  "from": "6c6e8e0e-5f1f-4608-977f-7dd467beb6a8",
+  "to": "f992f9e0-4750-4368-93d8-934fbf1a78f2",
+  "relation": "requires",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "c0602528-f093-4705-abc3-e13d7657a680",
+        "locator": "section 5.7, prediction 19",
+        "quote": "Microtubule-based cilia in retinal rod and cone cells detect photon quantum information."
+      }
+    ]
+  }
+}

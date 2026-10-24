@@ -1,0 +1,28 @@
+{
+  "record": "link",
+  "id": "4f5b8136-d6ad-4d39-a0f6-99693c4ff1c9",
+  "from": "5c6cc4ff-185e-41b0-b6f0-b48982227290",
+  "to": "d6105418-b77d-4588-9f31-657b2c04c5ac",
+  "relation": "weakens",
+  "strength": null,
+  "rationale": "verdict stands. recall 0 on the bare rule against 1 on a dissipative Hopfield layer, chance 0.167, 6 patterns, 256 docks",
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "research/objection.ts",
+        "quote": null
+      }
+    ]
+  }
+}

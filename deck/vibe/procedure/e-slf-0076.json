@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "a41264ed-e373-47b2-9a76-de24b2ae4b97",
+  "title": "E-SLF-0076: an activator-inhibitor rule self-organizes a regular striped pattern whose wavelength is set by the...",
+  "purpose": "Experiment E-SLF-0076 in the selves arena: an activator-inhibitor rule self-organizes a regular striped pattern whose wavelength is set by the rule, not the seed.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L2 (L2: known physics reproduced on a stated model).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/selves/morphogenesis-pattern.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-SLF-0076",
+        "quote": null
+      }
+    ]
+  }
+}

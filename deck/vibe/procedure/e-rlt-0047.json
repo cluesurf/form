@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "342b03f0-da18-4a7c-be9d-3198271581f6",
+  "title": "E-RLT-0047: no single emergent metric absorbs the committed knit's anisotropy: its dense-background kinetic tensor...",
+  "purpose": "Experiment E-RLT-0047 in the relativity arena: no single emergent metric absorbs the committed knit's anisotropy: its dense-background kinetic tensor is nearly isotropic while its vacuum lone-tone tensor is not, the two stay further apart than the pre-registered 0.1 at sides 9, 13 and 17, and pure streaming, where both are proportional, shows the test can pass; a third tensor, the sound tensor fitted from peak frequencies, is a quadratic form for the committed knit (residual 0.064) and disagrees with both (distances 0.95 and 1.12), so three rank-2 responses point three ways.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L2 (L2: known physics reproduced on a stated model).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/relativity/emergent-metric-escape.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-RLT-0047",
+        "quote": null
+      }
+    ]
+  }
+}

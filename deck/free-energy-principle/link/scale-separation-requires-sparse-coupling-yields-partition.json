@@ -1,0 +1,28 @@
+{
+  "record": "link",
+  "id": "bc812445-2375-42c8-8726-ed939a4ab246",
+  "from": "7b294583-550f-449e-919a-bc11bab4f4a7",
+  "to": "b7c70840-e081-4b00-8e24-4bec8218b285",
+  "relation": "requires",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "951a63ba-fbb2-4b78-af38-52646f22dbe0",
+        "locator": "section 8",
+        "quote": "particles at one scale can only exist if there is a nonequilibrium steady-state density at a higher scale that entails Markov blankets of Markov blankets"
+      }
+    ]
+  }
+}

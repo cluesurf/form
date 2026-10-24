@@ -1,0 +1,73 @@
+{
+  "format": "form.surf/1",
+  "id": "4e2c0a69-2242-4799-b76c-b0cb2d3a78a0",
+  "name": "free-energy-principle",
+  "title": "Free energy principle",
+  "role": "model",
+  "summary": "Karl Friston's principle that any thing with a Markov blanket that persists can be described as minimizing variational free energy, an upper bound on surprise, together with active inference, the process theories built on it, and its account of life, self and consciousness.",
+  "framework": {
+    "originators": [
+      "Karl Friston"
+    ],
+    "aliases": [
+      "FEP",
+      "active inference",
+      "Bayesian mechanics"
+    ],
+    "homepage": "https://www.fil.ion.ucl.ac.uk/~karl/"
+  },
+  "community_written": true,
+  "curators": [
+    {
+      "name": "Lance Pollard",
+      "github": "lancejpollard"
+    }
+  ],
+  "license": "CC-BY-4.0",
+  "atlas": {
+    "scope": [
+      "f9bffa23-3e9e-4811-ad6a-06bdd3048a14",
+      "d49ec1a8-76ce-444f-bd8d-79e126252d32",
+      "de4ece67-abb5-4cf5-9f67-d376a867e846",
+      "51075255-9e90-4ad6-9056-9e66b95c297a",
+      "c9586f0d-05ee-4412-a351-3283a6d4e9c0",
+      "33289d6a-81c8-4116-8de1-5eff214b85dc",
+      "0a4a5239-082a-440f-8035-78e5625314d5"
+    ],
+    "limits": [
+      "a37e77dc-0c53-46d0-b71d-10abf84119d2",
+      "74e4c9e5-0753-4ca1-8441-99a3a976d322",
+      "e7827c9f-e6f9-4c18-a8b4-16e1ad096361"
+    ],
+    "flaws": [
+      "0af8f6e7-b038-4ca5-a135-74215d4489cf",
+      "8b5b4738-1b5d-49bf-a476-51c5ed1a140f",
+      "4178c689-bab8-4711-a7fe-3286c7479ead",
+      "fd26c17b-5f5e-4d8c-b038-d51ba11b0e32",
+      "7530566f-dcea-427c-8bed-3d7b1c2df230",
+      "51f60b73-3e96-458f-8461-c020adfdc886",
+      "3692a447-8d9d-4df2-ad6e-c7714ed84192"
+    ],
+    "dead_ends": [
+      "23e7eee6-bbb3-4427-845b-eef77947b2b6"
+    ]
+  },
+  "draws_from": [],
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "951a63ba-fbb2-4b78-af38-52646f22dbe0",
+        "locator": "section 1",
+        "quote": "the FEP is not falsifiable as a mathematical statement, but it may as well be falsifiable to the extent that its postulates refer to a specific class of empirical phenomena that the principle aims to describe."
+      }
+    ]
+  }
+}

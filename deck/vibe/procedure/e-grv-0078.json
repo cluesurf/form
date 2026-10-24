@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "eafce7cb-7cdb-42f5-9698-6fbf2cf2a72a",
+  "title": "E-GRV-0078: E-GRV-0077's F3 passes on the carried light: its failure was the one-level light's known heating, not...",
+  "purpose": "Experiment E-GRV-0078 in the gravity arena: E-GRV-0077's F3 passes on the carried light: its failure was the one-level light's known heating, not the sign, pass: the standing lump (content 4, side 8, 4096 beats) on the three-level shaped light keeps its transverse energy to 1.0001 fold at D 16 and 1.0000 at D 64, against 52.88 and 1.83 fold on the one-level light that E-GRV-0077 stepped (its recorded 9.2694 to 490.17 reproduced exactly), with Gauss 0 on every beat and exact reversal; so the negative static energy passes every gate it was given, and only the pull acting at once (E-GRV-0077 R) stands against it.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L2 (L2: known physics reproduced on a stated model).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/gravity/even-fall-carried.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-GRV-0078",
+        "quote": null
+      }
+    ]
+  }
+}

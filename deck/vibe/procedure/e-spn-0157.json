@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "31a11547-e2fa-4878-9336-c5894574efc8",
+  "title": "E-SPN-0157: a collective excitation of the working vacuum is no husk particle, fail as derived: while K never fires...",
+  "purpose": "Experiment E-SPN-0157 in the spin arena: a collective excitation of the working vacuum is no husk particle, fail as derived: while K never fires the rule factorizes line by line exactly (K on 0 docks in 48 class runs, 0 slots off the class), so a husk charge wave is the class sum of 24 line laws and the classes perpendicular to K never move, leaving A(96) 0.547, 0.301, 0.297, 0.178 on the axis, face, body and (2,1,0) over frozen shares 1/2, 1/4, 1/4, 1/6; a packet is twelve beams (kurtosis 1.34 to 1.37 against 1) whose biased centers drift backward, and even the early decay is 7 percent anisotropic because the coset-union vacuum gives the classes different line laws (<s^2> 15.7 to 27.1); the only line mixer K acts by melting the vacuum (a lineon per dock leaves 38,300 of 196,608 stored units), after which the wave relaxes with no frozen share but does not propagate and its diffusivity spreads 1.42 over four directions read at four wavelengths; the K-off control keeps every line and freezes by direction; on {3,4,3,4} a lone love moves at most 1.207 lattice units on the husk over 336 runs while it travels 4 docks into the bulk, and a dense packet keeps its husk radius (0.71 to 0.75) and centroid (0.009): the four-part mixer is still needed for motion.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L2 (L2: known physics reproduced on a stated model).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/spin/collective-husk-wave.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-SPN-0157",
+        "quote": null
+      }
+    ]
+  }
+}

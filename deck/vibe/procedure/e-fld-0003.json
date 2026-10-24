@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "c9ccabc0-47d5-46d3-b718-6cf21919165b",
+  "title": "E-FLD-0003: a shear dissipates on the rich 24-direction coin but barely on the impoverished cubic coin, coin...",
+  "purpose": "Experiment E-FLD-0003 in the fluids arena: a shear dissipates on the rich 24-direction coin but barely on the impoverished cubic coin, coin richness makes the fluid.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L2 (L2: known physics reproduced on a stated model).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/fluids/coin-richness-shear.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-FLD-0003",
+        "quote": null
+      }
+    ]
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "b945f42e-6247-4731-834b-535641122450",
+  "title": "E-GRV-0055: frame dragging from Fresnel drag on the rotating clock-rate well: the static well is mirror-symmetric to...",
+  "purpose": "Experiment E-GRV-0055 in the gravity arena: frame dragging from Fresnel drag on the rotating clock-rate well: the static well is mirror-symmetric to the last digit, rotation switches on a prograde-retrograde deflection asymmetry that is linear in the spin to a tenth of a percent, reverses exactly under spin reversal, and falls off faster with impact parameter than the static deflection (the gravitomagnetic near-field), so the Lense-Thirring signature is moving-medium optics on the emergent metric with nothing about rotation typed in.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L2 (L2: known physics reproduced on a stated model).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/gravity/frame-dragging-fresnel.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-GRV-0055",
+        "quote": null
+      }
+    ]
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "record": "proposition",
+  "id": "da202903-e7a6-4c14-abf5-54e2e6060ad6",
+  "kind": "empirical",
+  "epistemic_status": "hypothesized",
+  "title": "Conscious contents are the content of top-down predictions",
+  "statements": [
+    {
+      "id": "220be41e-c5d9-4259-b995-f6b408df398d",
+      "text": "What a person consciously perceives is given by the joint content of the brain's top-down perceptual predictions, its best guesses.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-23"
+    }
+  ],
+  "current_statement": "220be41e-c5d9-4259-b995-f6b408df398d",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "e391f78a-61b9-464c-883b-2181082dabd3",
+        "locator": "accepted manuscript p. 18",
+        "quote": "conscious contents are given by the brain's 'best guesses'"
+      }
+    ]
+  }
+}

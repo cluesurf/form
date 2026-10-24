@@ -1,0 +1,28 @@
+{
+  "record": "link",
+  "id": "d0bee116-c349-471c-a274-f3de6041339c",
+  "from": "4de6dc85-639d-48f9-be01-3b85220e05e6",
+  "to": "6bb319a4-1471-4970-8c37-fd93149e8a86",
+  "relation": "supports",
+  "strength": null,
+  "rationale": "The page cites the structured-photon delay as the demonstration that light can be slower than $c$ in free space.",
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "ce59e052-9c70-46a0-8b8d-89266cb60dd8",
+        "locator": null,
+        "quote": null
+      }
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "record": "link",
+  "id": "ccc1438e-953f-4790-8dbd-65c2fc016e62",
+  "from": "a7fd9032-2ad7-4d67-9447-e9ddcc404151",
+  "to": "a0d8c6cd-1e0f-4779-8c49-9443a46e7b52",
+  "relation": "requires",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "research/result.ts R-FRC-0006",
+        "quote": null
+      }
+    ]
+  }
+}

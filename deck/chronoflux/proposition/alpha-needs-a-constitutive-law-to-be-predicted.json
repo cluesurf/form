@@ -1,0 +1,50 @@
+{
+  "record": "proposition",
+  "id": "b311a2a6-201b-4083-a829-5fb5e6200b2e",
+  "kind": "mathematical",
+  "epistemic_status": "inferred",
+  "title": "The 2025 derivation of $\\alpha$ was circular, and a prediction needs a constitutive law",
+  "statements": [
+    {
+      "id": "f322ba49-96fd-48ca-b4ff-34089676c4ba",
+      "text": "Writing $\\alpha = Z_0 / (2 R_K)$ is an exact metrological identity, not a prediction. Phase winding quantizes flux but does not fix the charge, so a genuine prediction of $\\alpha$ needs an explicit constitutive law that fixes the electromagnetic response without importing the measured coupling.",
+      "language": "en",
+      "scope": null,
+      "conditions": "graded by the author as an open gate",
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "f322ba49-96fd-48ca-b4ff-34089676c4ba",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "3ecdec4e-6a4b-4ab2-8fb6-d41aafa39e18",
+        "locator": "abstract",
+        "quote": "That step was circular."
+      },
+      {
+        "source": "3ecdec4e-6a4b-4ab2-8fb6-d41aafa39e18",
+        "locator": "abstract",
+        "quote": "A genuine Chronoflux prediction requires an explicit constitutive law that fixes the response without importing the measured coupling."
+      }
+    ]
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "record": "proposition",
+  "id": "18e77377-2c12-427e-9ff2-70cd2c328f05",
+  "kind": "empirical",
+  "epistemic_status": "hypothesized",
+  "title": "Heavy-tailed valence",
+  "statements": [
+    {
+      "id": "1febbbb6-b9b9-441e-95b0-717d831ce491",
+      "text": "The accessible human capacity for pleasure and pain spans at least two orders of magnitude, against the view that the most intense experiences are at most about ten times the mildest.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-23"
+    }
+  ],
+  "current_statement": "1febbbb6-b9b9-441e-95b0-717d831ce491",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "85b7eae8-271a-41ee-9c3c-3c2ad6eae62f",
+        "locator": "abstract and introduction",
+        "quote": "spans a minimum of two orders of magnitude"
+      }
+    ]
+  }
+}

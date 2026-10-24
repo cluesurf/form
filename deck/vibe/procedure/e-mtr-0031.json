@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "6513fc95-bafc-4a2f-aab7-08bf17993275",
+  "title": "E-MTR-0031: explores whether binding repairs or inherits the members' lattice dispersion: the light register pair (m...",
+  "purpose": "Experiment E-MTR-0031 in the spin arena: explores whether binding repairs or inherits the members' lattice dispersion: the light register pair (m 0.284, $a_B$ 12, contact well removed) read by the sector eigensolver at K 0.2, 0.35, 0.5, 1.0, its quartic as a fraction of relativity's against its members' 1.77: fail on the instrument gates, and the fitted fraction 2.21 +- 0.05 lies outside both hypotheses, so binding neither repairs nor simply inherits the members' band.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L2 (L2: known physics reproduced on a stated model).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/matter/light-pair-dispersion.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-MTR-0031",
+        "quote": null
+      }
+    ]
+  }
+}

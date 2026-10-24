@@ -1,0 +1,45 @@
+{
+  "record": "proposition",
+  "id": "989de0c6-d546-48c1-86da-daa3c88bd8de",
+  "kind": "definitional",
+  "epistemic_status": "designed",
+  "title": "Minimal physicalism",
+  "statements": [
+    {
+      "id": "b5dcd185-58d4-48fe-804e-d7ac362db19e",
+      "text": "Minimal physicalism is an approach to cognition and consciousness that makes no assumptions beyond those of quantum information theory, so it applies from the molecular scale upward.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-23"
+    }
+  ],
+  "current_statement": "b5dcd185-58d4-48fe-804e-d7ac362db19e",
+  "status": "active",
+  "voice": "framework",
+  "defines": "minimal physicalism",
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "1792e489-be3b-46bb-ba4b-0dcd00a0abc7",
+        "locator": "abstract",
+        "quote": "Our “minimal physicalist” approach makes no assumptions beyond those of quantum information theory, and hence is applicable from the molecular scale upwards."
+      }
+    ]
+  }
+}

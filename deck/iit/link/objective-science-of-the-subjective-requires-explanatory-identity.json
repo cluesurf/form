@@ -1,0 +1,28 @@
+{
+  "record": "link",
+  "id": "c6b401f8-f03d-49f8-bd18-bc6ee5fdd73b",
+  "from": "417d2f47-19db-4ca9-b27c-07afeee4e706",
+  "to": "79c54001-d62b-4535-9bf1-5ca0a2766a35",
+  "relation": "requires",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "414c75b9-bd59-403b-b875-c91df48f2de8",
+        "locator": "abstract",
+        "quote": "We argue that it is possible to account for subjective properties objectively once we move beyond cognitive functions and realize what experience is and how it is structured."
+      }
+    ]
+  }
+}

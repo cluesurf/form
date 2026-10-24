@@ -1,0 +1,50 @@
+{
+  "record": "proposition",
+  "id": "5dbffaf6-d9e8-47a3-a951-b26a1e6599f2",
+  "kind": "philosophical",
+  "epistemic_status": "inferred",
+  "title": "Answer: what is fundamental",
+  "statements": [
+    {
+      "id": "7195353a-d2db-4463-ba20-6444a189c7d6",
+      "text": "A random dynamical system is fundamental: states changing by a flow plus random fluctuations. There is one kind of thing, and mind and matter are two information geometries of the same blanketed system.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-23"
+    }
+  ],
+  "current_statement": "7195353a-d2db-4463-ba20-6444a189c7d6",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "951a63ba-fbb2-4b78-af38-52646f22dbe0",
+        "locator": "section 2",
+        "quote": "We start by describing the world with a stochastic differential equation"
+      },
+      {
+        "source": "2dd94478-888b-48b9-bba8-eb449f0b667d",
+        "locator": "abstract",
+        "quote": "(1) fundamentally, there is only one type of thing and only one type of irreducible property (hence monism)."
+      }
+    ]
+  }
+}

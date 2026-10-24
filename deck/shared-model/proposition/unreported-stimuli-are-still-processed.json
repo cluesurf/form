@@ -1,0 +1,72 @@
+{
+  "record": "proposition",
+  "id": "5c24f0f9-c678-40cf-97f1-1d6cb0055159",
+  "kind": "empirical",
+  "epistemic_status": "observed",
+  "title": "Stimuli people cannot report are still processed",
+  "statements": [
+    {
+      "id": "8b3893c1-660b-4ed8-8f66-32e87eeeb9de",
+      "text": "Stimuli that people cannot report, such as backward-masked words, are still processed in sensory cortex, while the same stimuli when reported also evoke a late, widespread fronto-parietal activation.",
+      "language": "en",
+      "scope": "masking studies of vision, as reported in the global-workspace repository",
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-23"
+    }
+  ],
+  "current_statement": "8b3893c1-660b-4ed8-8f66-32e87eeeb9de",
+  "status": "active",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": {
+    "value": "open",
+    "reason": "Proposed for integration in the seed proposal, pending the user's review.",
+    "basis": [],
+    "proposal": null
+  },
+  "origin": [
+    {
+      "repository": "global-workspace",
+      "id": "531299ba-d038-40da-833a-b9daf54d142a"
+    },
+    {
+      "repository": "global-workspace",
+      "id": "1055d47d-5d1e-4e5f-ae45-d6e775e2fe73"
+    },
+    {
+      "repository": "analytic-idealism",
+      "id": "cd0d5d00-1ff3-4933-b1fe-e9a4481f53a8"
+    }
+  ],
+  "provenance": {
+    "written_by": "github:lancejpollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "a64c1304-2445-461a-91e4-b4b3d00821dc",
+        "locator": "abstract",
+        "quote": "a considerable amount of processing is possible without consciousness"
+      },
+      {
+        "source": "1ee507c5-ffc4-4b72-90ae-10aeb7ad8ff0",
+        "locator": "Is Conscious Perception Slow and Late?",
+        "quote": "early bottom-up sensory events, prior to global ignition (<200–300 ms), contribute solely to nonconscious percept construction"
+      },
+      {
+        "source": "7e8726f6-224e-4ee6-ab53-26c906b52c3b",
+        "locator": "section on meta-consciousness",
+        "quote": "they fundamentally cannot distinguish between truly unconscious processes and conscious processes that simply aren’t meta-conscious, for both types are equally unreportable to self and others."
+      }
+    ]
+  }
+}

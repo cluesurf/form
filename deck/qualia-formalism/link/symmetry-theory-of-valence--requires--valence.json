@@ -1,0 +1,28 @@
+{
+  "record": "link",
+  "id": "eadfc6de-b23b-494e-849c-a050793b4ff7",
+  "from": "c82c7c92-5d96-4c1d-96a1-9d1c73416e52",
+  "to": "c3f5cfc7-0cb5-48b3-829e-d04b3e62f7e8",
+  "relation": "requires",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "18748a2a-239c-4c8a-84be-d6db8f91e70d",
+        "locator": "section X, p. 35",
+        "quote": "Given a mathematical object isomorphic to the qualia of a system, the mathematical property which corresponds to how pleasant it is to be that system is that object's symmetry."
+      }
+    ]
+  }
+}

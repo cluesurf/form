@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "4414f366-ce91-4b9d-98aa-10780bb2420c",
+  "title": "E-SPN-0117: a dipole of lineons on parallel mesh lines is not a planon, pass at L1: no piece of the working knit...",
+  "purpose": "Experiment E-SPN-0117 in the spin arena: a dipole of lineons on parallel mesh lines is not a planon, pass at L1: no piece of the working knit carries a vibe, a store or a love-fear pair between parallel lines (pairs are made and unmade on one dock line, and the bounce with at most one single on a dock keeps every line), so given a vacuum with no single line (Z), a start differing from it only on lines of one class stays equal to it off those lines and equals each line's own run on them, exactly; on side 8 over 128 beats, 16 starts (a love on A and a fear on A' one dock over, sparse pairs and stores, dense hashed fills) on 7 path variants of 'pass', 'lone' and 'bounce': 0 vacuum singles, 0 readings off S, 0 unfactored, reach 4 box steps, 18,672 store changes on S; so the sideways hop amplitude is exactly 0 and the Klein channel (one token per branch of its own line's walk) cannot supply it; K on every dock leaves S at beat 1, and 32 of 44 pairs on crossing lines at one dock reach other lines while all 44 move their per-line tone, so the occupied-line set and E-SPN-0098's line tone are conserved only for parallel composites.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L1 (L1: known mathematics, correctly confirmed).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/spin/planon-lines.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-SPN-0117",
+        "quote": null
+      }
+    ]
+  }
+}

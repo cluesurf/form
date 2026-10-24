@@ -1,0 +1,28 @@
+{
+  "record": "link",
+  "id": "b5e021b9-41a4-44b7-b506-c8803a5bb575",
+  "from": "7f8bf988-3713-4e96-9aa2-376dbed8f107",
+  "to": "9a3b1f40-da9e-4053-8439-72331c05d855",
+  "relation": "weakens",
+  "strength": null,
+  "rationale": "Errors in the logical discussion and the argument’s failure to persuade even sympathetic logicians undercut the Gödelian case.",
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "2c621570-37ce-4d01-a51e-adecbb9070e8",
+        "locator": "section 2.1",
+        "quote": "his subsequent discussion of it -- especially in relation to Gödel's own formulation and various of its generalizations -- is unfortunately marred by a number of errors"
+      }
+    ]
+  }
+}

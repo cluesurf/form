@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "04af87e2-f7e6-4188-ae86-d37c0151580f",
+  "title": "E-MTH-0023: the critical coupling of the E-FRC-0164 link sector measured on its own rule: the thermal D4 bulk (a 4D...",
+  "purpose": "Experiment E-MTH-0023 in the method arena: the critical coupling of the E-FRC-0164 link sector measured on its own rule: the thermal D4 bulk (a 4D Euclidean compact U(1), $1 / e^2 = 2$ beta from the root pairs) confines below beta_c, located by the monopole crossing on sides 4 and 6, the bulk candidate for a self-tuned alpha.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L2 (L2: known physics reproduced on a stated model).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/method/critical-coupling-of-the-link-sector.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-MTH-0023",
+        "quote": null
+      }
+    ]
+  }
+}

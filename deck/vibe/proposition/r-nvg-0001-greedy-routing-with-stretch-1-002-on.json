@@ -1,0 +1,50 @@
+{
+  "record": "proposition",
+  "id": "e583032c-f5cc-4075-9f80-6ecc3498a5b4",
+  "kind": "empirical",
+  "epistemic_status": "simulated",
+  "title": "R-NVG-0001: Greedy routing with stretch 1.002 on a hyperbolic tiling",
+  "statements": [
+    {
+      "id": "77ed7cf6-2a2e-4063-a3f3-db02ebea9600",
+      "text": "On the {5,4} hyperbolic tiling of the plane, greedy descent in hyperbolic coordinates delivers all 2,541 tested pairs with mean stretch 1.002 against the shortest path, while the same descent on scrambled coordinates delivers 3.4 percent.",
+      "language": "en",
+      "scope": "network geometry. status simulated. category reproduction (an established result recovered, by a method brought in from outside. Worth: evidence the machinery works. Not evidence that nature uses it). depth L2 (L2: known physics reproduced on a stated model)",
+      "conditions": "Limits: the experiment builds a two-dimensional {5,4} tiling of at most 2,500 vertices, not the {3,4,3,4} honeycomb. Its catalog substrate label is wrong. one size. Launch gate. Pass: quantitative, auditable. Fail: prior_art_reviewed, novel, derived, differentiating, falsifiable, skeptic_reviewed, independently_reproduced, interesting. Unknown: none. Novelty: known. Free parameters: 0. Fitted: false. Known before: true.",
+      "falsification_criteria": "a run on {3,4,3,4} at growing size with stretch that grows",
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-22"
+    }
+  ],
+  "current_statement": "77ed7cf6-2a2e-4063-a3f3-db02ebea9600",
+  "status": "disputed",
+  "voice": "framework",
+  "defines": null,
+  "question": "6956ce90-65e8-40b0-9b2c-4b249ea5aa0e",
+  "prediction": null,
+  "standing": {
+    "value": "open",
+    "reason": "holds in the vibe claim graph",
+    "basis": [],
+    "proposal": null
+  },
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "research/result.ts R-NVG-0001",
+        "quote": null
+      }
+    ]
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "b8cb8e82-e3c9-4770-8e3d-e5627354bd98",
+  "title": "E-SPN-0096: the frame mixer G lifted to a frame's whole occupation (the knit's fermion statistics), fail on two...",
+  "purpose": "Experiment E-SPN-0096 in the spin arena: the frame mixer G lifted to a frame's whole occupation (the knit's fermion statistics), fail on two mis-stated clauses (L4, L5), the substance as derived: Gamma(G) = $(-1)^{N_u}$, on n vibes keep (4 - n)/4 or one vibe to one empty frame slot with -1/4 and the fermion sign, every exterior power of G (38,607 minors), an involution, covariant under the signed W(F4) action on 2,325 dock occupations (the unsigned action fails on 1,151 elements); it keeps charge, count, C and the stores; it is unitary and covariant only on frames of one content (with a love and a fear: carrying the content is not unitary, largest overlap 2/16; a love and a fear field put 3/32 on one slot; by rank unitary but not covariant), so the vacuum's love-and-fear frames are left alone; of the 180 line-mixing ring unitaries 0 fix a full line, any frame of 1 to 7 vibes, or a love-and-fear line pair: no mixer leaves the vacuum untouched and still mixes.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L1 (L1: known mathematics, correctly confirmed).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/spin/frame-lift-theorem.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-SPN-0096",
+        "quote": null
+      }
+    ]
+  }
+}

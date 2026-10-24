@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "d5e309c7-e226-405f-9324-5fc010d6d47f",
+  "title": "E-SLF-0062: a configuration has a Markov-blanket score and an integration proxy",
+  "purpose": "Experiment E-SLF-0062 in the selves arena: a configuration has a Markov-blanket score and an integration proxy.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L0 (L0: circular: the answer reaches the verdict as a typed constant).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/selves/integration.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-SLF-0062",
+        "quote": null
+      }
+    ]
+  }
+}

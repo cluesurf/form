@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "a394d2eb-f84f-42c6-8c7c-b870dedfe1f3",
+  "title": "E-FND-0145: the conjugate keeping ladder: the pre-registered universal CPT mirror is falsified as written and...",
+  "purpose": "Experiment E-FND-0145 in the foundations arena: the conjugate keeping ladder: the pre-registered universal CPT mirror is falsified as written and replaced by a measured four-rung ladder at side thirteen (saturated, exactly mirrored about beat nine for one pair, balanced without symmetry, violated in exact three-beat clock quanta), whose one size-robust rung is the saturation law, the exact-ladder CPT bound-state pair keeps its origin at every birth beat at both tested sizes, so the model cleanest quantum objects never forget where they were born while the rest of the ladder is finite-size and the thermodynamic-limit fate is the posed frontier.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L2 (L2: known physics reproduced on a stated model).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/foundations/conjugate-keeping-ladder.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-FND-0145",
+        "quote": null
+      }
+    ]
+  }
+}

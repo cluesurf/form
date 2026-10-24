@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "82e73715-64f8-428c-ba96-d7ff52d28c12",
+  "title": "E-MTR-0003: stand-in hydrogen on the husk against Fock $S^3$: the shells split as the husk cubic group $O_h$...",
+  "purpose": "Experiment E-MTR-0003 in the quantum arena: stand-in hydrogen on the husk against Fock $S^3$: the shells split as the husk cubic group $O_h$ predicts (1 + 3 and 1 + 2 + 3 + 3), with no remnant of 2T, W(D4) or W(F4), whose restrictions would keep 2s with 2p or 3s with the Eg half of 3d.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L2 (L2: known physics reproduced on a stated model).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/matter/stand-in-hydrogen-fock.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-MTR-0003",
+        "quote": null
+      }
+    ]
+  }
+}

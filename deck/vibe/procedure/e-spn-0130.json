@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "b398c306-a781-47d8-8668-fd0a04e1c96f",
+  "title": "E-SPN-0130: a fermionic frame mixer is Pauli-blocked on full frames, but no sea of the working beat lets it turn a...",
+  "purpose": "Experiment E-SPN-0130 in the spin arena: a fermionic frame mixer is Pauli-blocked on full frames, but no sea of the working beat lets it turn a hole, fail (SW): M = exp(i theta $N_u$) at theta 2 pi/3 is exact in Z[w]/8, unitary and reversible on one-content frames (0 entries off, equal to (1 + w)/2 + (1 - w)/2 liftBranch on 3,840 of 3,840), w on a full frame and 1 on an empty one, while unsigned it fails on 2 to 7 vibes (10,248 entries) and with two contents too (373,856); the working vacuum is partly filled (side 8, 128 beats: frames holding 2, 4, 6 vibes on 246,528 of 1,572,864 frame-beats, 3,171 of one content) and the piece cascades it (4,094 of 4,096 docks, K 247,501 firings, the meson 4,096 on 4 of 4 paths); the working beat keeps three full-or-empty seas (the empty mesh, a neutral sea with every store full returning at beat 2, a love sea staying full) and the piece leaves each bit for bit, but a hole in a full sea sits in a frame of several contents (love and fear, or loves whose points the links split: no point field fits, 10,820 to 10,870 defects per frame component) on all but 1 or 2 of 128 beats and stays a lineon (1 mesh line); with flat links, the minimal change, the love sea is stationary bit for bit and exactly (one branch of amplitude 1), a hole touches 30 to 39 mesh lines as a vibe on the empty mesh does, a hole and a fear stay within 4 readings, and the edge's mean inverse mass tensor is -0.288675 I in 4d (a quarter of one line's), its branches spread over 2 to 4 lines along directions of rank 3 (0 at theta 0); a string-bound composite is not decided.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L1 (L1: known mathematics, correctly confirmed).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/spin/pauli-blocked-mixer.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-SPN-0130",
+        "quote": null
+      }
+    ]
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "6866a274-9704-48d1-a83f-a5ab2df06ade",
+  "title": "E-SPN-0078: the flux string gives no integer relation to the depth beyond its built-in range 2D, a pre-registered...",
+  "purpose": "Experiment E-SPN-0078 in the spin arena: the flux string gives no integer relation to the depth beyond its built-in range 2D, a pre-registered negative: the bound pair grows as $N^{1 / 3}$ and its energy falls as $N^{-2 / 3}$ (continuum Airy scaling of a slope pi / N), the three-love state's size is set by its meetings, and no size or energy at D = 16 passes the E-MTH-0010 null, so the string does not select D and alpha stays a chosen knob.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L1 (L1: known mathematics, correctly confirmed).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/spin/string-depth-relation.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-SPN-0078",
+        "quote": null
+      }
+    ]
+  }
+}

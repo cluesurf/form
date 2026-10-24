@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "904764f3-61e1-469a-af41-a86afb71e4df",
+  "title": "E-FRC-0232: Planck in a closed box of quantum light: every level of the plaquette ladder's beat on boxes of two and...",
+  "purpose": "Experiment E-FRC-0232 in the gauge arena: Planck in a closed box of quantum light: every level of the plaquette ladder's beat on boxes of two and three squares is a sum of whole quanta of its measured band (an integer ladder of occupation, none missing, none extra), so the box's thermal energy is Planck's, while the same registers read as classical points hold Rayleigh-Jeans' T per mode and the classical light's own split breaks the ladder.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L2 (L2: known physics reproduced on a stated model).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/gauge/ladder-planck.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-FRC-0232",
+        "quote": null
+      }
+    ]
+  }
+}

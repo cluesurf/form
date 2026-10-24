@@ -1,0 +1,50 @@
+{
+  "record": "proposition",
+  "id": "a19a6ae7-dbcb-4a5c-9f1f-d5dbb3ddcf4c",
+  "kind": "empirical",
+  "epistemic_status": "hypothesized",
+  "title": "Changes spread by force or by appeal",
+  "statements": [
+    {
+      "id": "d9384185-1c19-412e-af39-939f655eb260",
+      "text": "A change spreads in two ways. It is forced, as when a competitive device leaves others to copy it or lose, or promoted, as when it looks beautiful to enough people, which lets even useless changes such as fashions or conspiracy theories take hold.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "d9384185-1c19-412e-af39-939f655eb260",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "983ce19a-a7da-4801-9728-4eca49c1b243",
+        "locator": "Result",
+        "quote": "Imagine that you create a competitive device."
+      },
+      {
+        "source": "983ce19a-a7da-4801-9728-4eca49c1b243",
+        "locator": "Result",
+        "quote": "Some changes appear to be beautiful to others, so as long as there is enough support, you can apply even useless changes."
+      }
+    ]
+  }
+}

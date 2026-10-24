@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "ff4fdf93-2d4a-4835-9b55-046c2be71b7e",
+  "title": "E-MMR-0015: spreading activation through semantic memory IS the bulk query wave, made logarithmic by hyperbolic geometry",
+  "purpose": "Experiment E-MMR-0015 in the associative arena: spreading activation through semantic memory IS the bulk query wave, made logarithmic by hyperbolic geometry.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L3 (L3: one base rule produced the result as a measured consequence, with a computed control that could have failed).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/associative/spreading-activation.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-MMR-0015",
+        "quote": null
+      }
+    ]
+  }
+}

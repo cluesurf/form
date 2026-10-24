@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "39a4bbc0-de7c-4827-9564-744344101b11",
+  "title": "E-QTM-0134: frame-covariant meetings of three tokens: the Clifford meetings that commute with every change of frame...",
+  "purpose": "Experiment E-QTM-0134 in the quantum arena: frame-covariant meetings of three tokens: the Clifford meetings that commute with every change of frame are A (x) 1 with A orthogonal for the tokens' signs and fixed on the all-ones vector, whose norm is the vibe charge; on a knot of three (LLL) they are only the 6 permutations, and on a love-love-fear triple they add the reflection through the frame direction, the one covariant meeting that is not a permutation.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L2 (L2: known physics reproduced on a stated model).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/quantum/frame-covariant-meetings.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-QTM-0134",
+        "quote": null
+      }
+    ]
+  }
+}

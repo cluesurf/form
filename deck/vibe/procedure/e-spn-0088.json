@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "0b5f2141-5b47-41d8-9634-885d1be4b17e",
+  "title": "E-SPN-0088: the drift-cost binding carried off one line onto the doublet-locked knit's own loves, on the 3D husk...",
+  "purpose": "Experiment E-SPN-0088 in the spin arena: the drift-cost binding carried off one line onto the doublet-locked knit's own loves, on the 3D husk over columns of depth 4 and 8: whether the lightest charge-one cluster of three loves, held only by the light's drift phase per flux link with Gauss exact, is the natural spin one half, N = 3 with 2 pi sign -1, compact and travelling, over the 17-start family.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L2 (L2: known physics reproduced on a stated model).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/spin/knit-drift-binding.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-SPN-0088",
+        "quote": null
+      }
+    ]
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "record": "proposition",
+  "id": "2008bef4-002a-40c4-abbd-abc89303d7f4",
+  "kind": "definitional",
+  "epistemic_status": "designed",
+  "title": "Access consciousness",
+  "statements": [
+    {
+      "id": "6388deeb-06d5-45e6-811d-526aea0654e8",
+      "text": "Access consciousness is the fact that conscious information, unlike unconscious information, is available to many cognitive processors such as working memory, verbal report and motor behavior.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-23"
+    }
+  ],
+  "current_statement": "6388deeb-06d5-45e6-811d-526aea0654e8",
+  "status": "active",
+  "voice": "framework",
+  "defines": "access consciousness",
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "48959277-86d2-4076-9942-58a24f753040",
+        "locator": "Introduction, p. 776",
+        "quote": "Access consciousness refers to the fact that conscious information, unlike unconscious information, is accessible to numerous cognitive processors, such as those mediating working memory, verbal report, or motor behavior."
+      }
+    ]
+  }
+}

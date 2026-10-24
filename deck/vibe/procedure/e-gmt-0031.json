@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "8284c866-8c9f-4e80-aff8-dadab98a2fa0",
+  "title": "E-GMT-0031: the warp factor has an exact closed form, a cubic: the {3,4,3,4} cone-type transfer matrix...",
+  "purpose": "Experiment E-GMT-0031 in the geometry arena: the warp factor has an exact closed form, a cubic: the {3,4,3,4} cone-type transfer matrix [[15,11,9],[4,4,3],[0,1,2]] (read from one shell-four build) has characteristic polynomial lambda^3 - 21 lambda^2 + 51 lambda - 23 = 0, whose largest root 18.2787 is the growth rate, degree three (irreducible), and the recurrence 21,-51,23 reproduces shell five (2800344) and predicts shell six with no enumeration.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L2 (L2: known physics reproduced on a stated model).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/geometry/warp-factor-minimal-polynomial.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-GMT-0031",
+        "quote": null
+      }
+    ]
+  }
+}

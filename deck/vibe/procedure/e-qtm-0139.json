@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "56939fe6-ff84-4684-8284-45cd13d53600",
+  "title": "E-QTM-0139: the knot phase, a non-Clifford meeting that commutes with every frame change on three loves, moves joint...",
+  "purpose": "Experiment E-QTM-0139 in the quantum arena: the knot phase, a non-Clifford meeting that commutes with every frame change on three loves, moves joint points only by diagonal shifts, keeps every pairwise difference, measures nothing exactly with apparatus on lines, and makes mana from stabilizer inputs at every angle but 0.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L2 (L2: known physics reproduced on a stated model).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/quantum/knot-phase-meeting.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-QTM-0139",
+        "quote": null
+      }
+    ]
+  }
+}

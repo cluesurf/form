@@ -1,0 +1,50 @@
+{
+  "record": "proposition",
+  "id": "9008f9ed-b67f-4d07-9e03-248db0e3eec1",
+  "kind": "empirical",
+  "epistemic_status": "hypothesized",
+  "title": "Ideas and biases stand in for copying genes",
+  "statements": [
+    {
+      "id": "a80878cf-7e91-44ba-b305-e243963a7ade",
+      "text": "Nature gives no way to copy a useful gene directly, which would speed up evolution. It gives ideas and biases instead: a useful idea can be copied, and even a fatal idea teaches others what not to do.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "a80878cf-7e91-44ba-b305-e243963a7ade",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "983ce19a-a7da-4801-9728-4eca49c1b243",
+        "locator": "Ideas and biases",
+        "quote": "But instead it gave us ideas and biases."
+      },
+      {
+        "source": "983ce19a-a7da-4801-9728-4eca49c1b243",
+        "locator": "Ideas and biases",
+        "quote": "An idea can be good or bad. A useful idea can be copied."
+      }
+    ]
+  }
+}

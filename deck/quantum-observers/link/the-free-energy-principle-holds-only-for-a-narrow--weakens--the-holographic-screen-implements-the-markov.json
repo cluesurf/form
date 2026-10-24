@@ -1,0 +1,28 @@
+{
+  "record": "link",
+  "id": "6cd10ccf-034c-4de1-bf81-afde0421a796",
+  "from": "1abbde12-3116-4fbb-97d3-8d977e7f3e44",
+  "to": "fe90eae2-c7a5-4609-ae58-eca401d78290",
+  "relation": "weakens",
+  "strength": null,
+  "rationale": "If the Markov blanket condition holds only in a narrow parameter range, identifying every holographic screen with a Markov blanket inherits that restriction.",
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "11a4c47c-f5d4-44d0-a625-569973b4d472",
+        "locator": "abstract",
+        "quote": "are only valid for a very narrow space of parameters"
+      }
+    ]
+  }
+}

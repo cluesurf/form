@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "32a1b855-ca41-4c34-935f-ab6fc24be192",
+  "title": "E-FRC-0129: a part is bound and a whole is free under a rule with no random number: with the triality flux as an...",
+  "purpose": "Experiment E-FRC-0129 in the gauge arena: a part is bound and a whole is free under a rule with no random number: with the triality flux as an energy that a charge must pay to move, a love and a fear stay a few cells apart while their pair travels, three loves hold together, and a baryon and an antibaryon, each a whole, separate freely, where with no tension the love and fear wander over the ring.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L2 (L2: known physics reproduced on a stated model).",
+  "status": "completed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/gauge/string-binds.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "research/result.ts R-FRC-0003",
+        "quote": null
+      }
+    ]
+  }
+}

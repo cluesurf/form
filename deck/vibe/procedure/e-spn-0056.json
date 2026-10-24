@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "f13414c1-d681-4233-8e93-5168a4564659",
+  "title": "E-SPN-0056: the husk is a closed depth sector, fail as gated on one threshold (the equilibrium share of slots off...",
+  "purpose": "Experiment E-SPN-0056 in the spin arena: the husk is a closed depth sector, fail as gated on one threshold (the equilibrium share of slots off their depth image is 49 percent, the gate asked for more than half): the cold weave commutes exactly with the depth step, so on the side-9 box the gas splits into one closed sector per divisor of 9 (depth period 1, 3, 9), a period-m fill relaxes inside its sector to (9 / m) times the Fermi-Dirac Fano factor, and a single flipped slot, which has content at every depth momentum, takes the depth-uniform fill out of the husk sector to the full Fermi-Dirac value.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L2 (L2: known physics reproduced on a stated model).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/spin/depth-sectors.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-SPN-0056",
+        "quote": null
+      }
+    ]
+  }
+}

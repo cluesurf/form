@@ -1,0 +1,45 @@
+{
+  "record": "proposition",
+  "id": "67c1d893-dffc-45b3-9bc6-c573cdc08527",
+  "kind": "definitional",
+  "epistemic_status": "designed",
+  "title": "Symmetry",
+  "statements": [
+    {
+      "id": "1b4ab459-8cee-47f7-92ac-f4b049736dba",
+      "text": "Symmetry is invariance under transformation: for each symmetry an object has, some transformation applied to it leaves it unchanged.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-23"
+    }
+  ],
+  "current_statement": "1b4ab459-8cee-47f7-92ac-f4b049736dba",
+  "status": "active",
+  "voice": "framework",
+  "defines": "symmetry",
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "18748a2a-239c-4c8a-84be-d6db8f91e70d",
+        "locator": "section X, p. 35",
+        "quote": "In its most basic form, symmetry means invariance under transformations"
+      }
+    ]
+  }
+}

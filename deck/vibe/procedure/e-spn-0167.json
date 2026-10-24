@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "dbba29aa-56aa-452c-bcb5-42c5aa0a5af0",
+  "title": "E-SPN-0167: the register results read on the husk, not in the bulk, partial (P violation does not survive on the...",
+  "purpose": "Experiment E-SPN-0167 in the spin arena: the register results read on the husk, not in the bulk, partial (P violation does not survive on the quotient): on the flat mesh the physical husk reading is the shadow along the cusp, and on the thinnest column it is exactly the bulk band on the slice K = (q, 0), where the depth slope of the band vanishes, so the member band, c* = sqrt 2 / 4 husk docks a beat (c/4 is a bulk label: the stream's own husk front runs 1 to sqrt 2), R = tan m/m, isotropy, the census B* = 2M (also on a column with conserved depth momentum) and the graviton's speed all survive exactly, and $C_b$ and CP at rest survive; but two W(F4) elements invert the husk, -I (keeping the chiral halves) and the depth-keeping reflection (swapping them), and on the quotient the rule keeps -I, so the husk sees an exact parity and E-FRC-0258's P violation needs an oriented depth (the cusp or a slab face); read: with depth momentum not conserved the census still closes but B* falls to 3M - Smax.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L2 (L2: known physics reproduced on a stated model).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/spin/husk-reading.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-SPN-0167",
+        "quote": null
+      }
+    ]
+  }
+}

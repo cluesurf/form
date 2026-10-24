@@ -1,0 +1,45 @@
+{
+  "record": "proposition",
+  "id": "56b6e530-3565-4159-8dc4-7ece3398a0af",
+  "kind": "philosophical",
+  "epistemic_status": "inferred",
+  "title": "Critique: the dark room problem",
+  "statements": [
+    {
+      "id": "64349721-5041-4eec-b84d-3aec65ff992c",
+      "text": "If the mind aims to minimize prediction error, an agent could hack the aim by staying in a highly predictable place where nothing happens.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-23"
+    }
+  ],
+  "current_statement": "64349721-5041-4eec-b84d-3aec65ff992c",
+  "status": "active",
+  "voice": "critique",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "ed66ab82-d308-4c17-b148-9a79b9351d3c",
+        "locator": "abstract",
+        "quote": "prediction-error minimization can be 'hacked', by placing oneself in highly predictable environments where nothing happens"
+      }
+    ]
+  }
+}

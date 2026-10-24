@@ -1,0 +1,45 @@
+{
+  "record": "proposition",
+  "id": "5b1048d4-0d26-4fdf-a4ea-cf55a8ba874e",
+  "kind": "mathematical",
+  "epistemic_status": "inferred",
+  "title": "The blanket is symmetric between inside and outside",
+  "statements": [
+    {
+      "id": "2bd3e865-e084-4a6a-a5e5-9adb49250f3d",
+      "text": "Because the Markov blanket is symmetric, the same derivation runs with internal and external states swapped: external states can equally be read as tracking internal states, a form of generalized synchrony.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-23"
+    }
+  ],
+  "current_statement": "2bd3e865-e084-4a6a-a5e5-9adb49250f3d",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "951a63ba-fbb2-4b78-af38-52646f22dbe0",
+        "locator": "section 5.1",
+        "quote": "because of the symmetric setup of the Markov blanket, it would be possible to repeat everything above but switch the labels of internal and external states"
+      }
+    ]
+  }
+}

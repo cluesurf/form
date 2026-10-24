@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "b135225c-cd87-440b-8f7f-73e58987fbe1",
+  "title": "E-RLT-0099: the knit's quantum results under the doublet-locked rule, pass: a love and a fear meet as the identity...",
+  "purpose": "Experiment E-RLT-0099 in the relativity arena: the knit's quantum results under the doublet-locked rule, pass: a love and a fear meet as the identity (0 terms made on 17 of 17, where the old whole moves on 17), so the love-fear rungs are gone; a like meeting of two vacuum vibes makes a knot of exact weights 3/4 and 1/4 on orthogonal point registers, CHSH sqrt 7 on 17 of 17 where the old whole reads 4/sqrt 3 on 13 and 2 on 4, so the ladder collapses to {2, sqrt 7}; the terms hold 3 occupations (positions carry amplitude through the veto), interfere (the old history's weight 7/256 after three meetings against the dephased 1/64), keep norm, reversal, love minus fear and gauge covariance exactly; and every moving vibe holds a fixed fear, four Wigner weights (1 - sqrt 3)/12, share 0.164, mana 0.397, because the doublet's four stabilizer states are pairwise at overlap 1/3 and no lock puts a copy direction on one, so two moving vibes violate $S_u$ >= 4 at 40 of 81 points with no meeting: magic and contextuality come with motion, not only with the fear beat.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L2 (L2: known physics reproduced on a stated model).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/relativity/doublet-locked-quantum.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-RLT-0099",
+        "quote": null
+      }
+    ]
+  }
+}

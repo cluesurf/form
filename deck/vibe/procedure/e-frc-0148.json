@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "ba418e12-24a9-4dd1-885a-4d3c1be0c407",
+  "title": "E-FRC-0148: the choice between the two color-local knit candidates by a rule written before the numbers: eligibility...",
+  "purpose": "Experiment E-FRC-0148 in the gauge arena: the choice between the two color-local knit candidates by a rule written before the numbers: eligibility on every gate of E-FRC-0136 at sides 7, 9 and 11 for both signs, then the lowest worst-period dressing ratio against the committed rule.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L2 (L2: known physics reproduced on a stated model).",
+  "status": "completed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/gauge/color-knit-choice.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "research/result.ts R-FRC-0006",
+        "quote": null
+      }
+    ]
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "97c6c4b1-f62c-4832-b9e9-475dd2c19698",
+  "title": "E-FRC-0252: matter reads the light, pass: a test vibe whose hop carries the Peierls phase zeta_128^(-q A) of the...",
+  "purpose": "Experiment E-FRC-0252 in the gauge arena: matter reads the light, pass: a test vibe whose hop carries the Peierls phase zeta_128^(-q A) of the shaped husk light's integer angle (D 32, side 24, exact over Z[zeta_1024], 512 beats) is pushed by a +4 source: the love moves away and the fear toward at every r = 4 .. 8, electric move 0.568, 0.435, 0.317, 0.205, 0.121 docks at 1.056, 1.124, 1.173, 1.108, 0.959 of the same walk in the static lattice Coulomb field; Gauss exact, the light and the walks reverse exactly, norms exact, and a gauge map moves the light's angles and the walker's phases exactly (0 entries off); the integer angle carries the field in its time mean, not in each beat; a test vibe does not source the light and hops on one husk line (stand-ins).",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L2 (L2: known physics reproduced on a stated model).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/gauge/peierls-test-charge.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-FRC-0252",
+        "quote": null
+      }
+    ]
+  }
+}

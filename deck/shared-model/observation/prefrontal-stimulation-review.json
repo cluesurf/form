@@ -1,0 +1,44 @@
+{
+  "record": "observation",
+  "id": "c6fae89b-44af-4081-8152-1a52cfb95968",
+  "kind": "observation",
+  "epistemic_status": "observed",
+  "description": "Review of intracranial electrical stimulation in humans: stimulation of orbitofrontal and anterior cingulate cortex reliably alters conscious experience, while stimulation of anterolateral prefrontal sites seldom elicits any reportable alteration.",
+  "method": "document_review",
+  "status": "reported",
+  "source": "708bd783-e45a-45cc-a364-a32fdd50056c",
+  "procedure": null,
+  "variable": null,
+  "value": null,
+  "unit": null,
+  "uncertainty": null,
+  "sample_size": null,
+  "replication_count": null,
+  "quality": null,
+  "limitations": null,
+  "conflicts_of_interest": null,
+  "observed_at": null,
+  "origin": [
+    {
+      "repository": "global-workspace",
+      "id": "3d4bfbf2-85f4-46c9-9dec-12ff5433771d"
+    }
+  ],
+  "provenance": {
+    "written_by": "github:lancejpollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "708bd783-e45a-45cc-a364-a32fdd50056c",
+        "locator": "abstract",
+        "quote": "seldom elicits any reportable alterations in consciousness"
+      }
+    ]
+  }
+}

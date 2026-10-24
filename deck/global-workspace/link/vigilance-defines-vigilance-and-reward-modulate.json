@@ -1,0 +1,28 @@
+{
+  "record": "link",
+  "id": "530676c1-2c34-4175-ac59-8b10b303aa4b",
+  "from": "8a230362-9e2b-4450-93f7-c0cdc1400a17",
+  "to": "cbc4387b-630e-4213-8afe-398812b9c755",
+  "relation": "defines",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "3d0df20f-34a9-44eb-8975-1eaabe5a7c19",
+        "locator": "section \"An enabling condition: vigilance\"",
+        "quote": "use ‘states of vigilance’ to refer to the non-transitive meaning, i.e. a continuum of states which encompasses wakefulness, sleep, coma, anesthesia, etc."
+      }
+    ]
+  }
+}

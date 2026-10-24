@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "260c57d3-fecd-44a2-bacf-dd2f9d0a2129",
+  "title": "E-FND-0027: the Higgs is the quaternionic SU(2) doublet (the internal connection), forced by custodial rho=1...",
+  "purpose": "Experiment E-FND-0027 in the foundations arena: the Higgs is the quaternionic SU(2) doublet (the internal connection), forced by custodial rho=1, completing the Standard Model from the octonion seed.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L2 (L2: known physics reproduced on a stated model).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/foundations/higgs-from-octonions.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-FND-0027",
+        "quote": null
+      }
+    ]
+  }
+}

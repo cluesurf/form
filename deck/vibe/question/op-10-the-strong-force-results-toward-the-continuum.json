@@ -1,0 +1,26 @@
+{
+  "record": "question",
+  "id": "62bc7e74-eb1f-4bfb-9dfa-2d1dd1994bc3",
+  "text": "Do the 4D SU(3) results hold at three or more couplings, extrapolated, with the Luscher term and zero-temperature string breaking?",
+  "kind": "missing_evidence",
+  "status": "open",
+  "parent": null,
+  "description": "OP-10: the strong-force results toward the continuum.\n\nKnown: one or two couplings each. Only 3D SU(2) is extrapolated.\n\nUnknown: the continuum limits in 4D, the Luscher term, the potential flattening near 1.2 fm.\n\nWhy it matters: planned paper 1 is stronger with continuum limits.\n\nScope: boxes of $16^4$ and more, days of compute.\n\nSkills: lattice gauge theory, compute.\n\nWhere to start: note/experiment/gauge/strong-force.md; code/dynamics/gauge-lattice.ts.\n\nThe claims it would move: R-FRC-0001, R-FRC-0004.\n\nEvidence named: strong-force map, what is still open.",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "research/problem.ts OP-10",
+        "quote": null
+      }
+    ]
+  }
+}

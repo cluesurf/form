@@ -1,0 +1,45 @@
+{
+  "record": "proposition",
+  "id": "224e2680-a114-468b-8334-0dfa4f709998",
+  "kind": "empirical",
+  "epistemic_status": "hypothesized",
+  "title": "Answer: biological systems that never show quantum coherence",
+  "statements": [
+    {
+      "id": "8124eac0-d5dd-4705-82d3-be26129bfb8d",
+      "text": "Experiments explicitly designed to detect coherence that find no quantum information processing in cells, and no Bell or Leggett-Garg violations between interacting biological systems, would count against the framework’s biological predictions.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-23"
+    }
+  ],
+  "current_statement": "8124eac0-d5dd-4705-82d3-be26129bfb8d",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "4489b7d7-7273-4b67-a1c2-b53ddab0eeb5",
+        "locator": "section 5.4",
+        "quote": "Experimental designs that explicitly test for coherence effects will, we expect, be required to test the above predictions."
+      }
+    ]
+  }
+}

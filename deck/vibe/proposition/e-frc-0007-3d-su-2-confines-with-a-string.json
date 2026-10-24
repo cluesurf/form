@@ -1,0 +1,50 @@
+{
+  "record": "proposition",
+  "id": "7ad7fcbd-37a6-47dd-b715-54a6e39f42b1",
+  "kind": "empirical",
+  "epistemic_status": "simulated",
+  "title": "E-FRC-0007: 3D SU(2) confines with a string tension that, measured in units of the coupling at three lattice...",
+  "statements": [
+    {
+      "id": "b3ad8254-48eb-4323-be86-26aef732f2ce",
+      "text": "3D SU(2) confines with a string tension that, measured in units of the coupling at three lattice spacings, extrapolates to the continuum sqrt(sigma) / $g^2 = 0.335$.",
+      "language": "en",
+      "scope": "experiment E-FRC-0007, arena gauge, depth L2 (L2: known physics reproduced on a stated model)",
+      "conditions": "substrates: any. In a paper: false",
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-22"
+    }
+  ],
+  "current_statement": "b3ad8254-48eb-4323-be86-26aef732f2ce",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": {
+    "value": "open",
+    "reason": "holds in the vibe claim graph",
+    "basis": [],
+    "proposal": null
+  },
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "research/result.ts R-FRC-0001",
+        "quote": null
+      }
+    ]
+  }
+}

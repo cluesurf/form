@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "48edce29-1975-42dd-a263-3fc3002c966c",
+  "title": "E-SLF-0077: the B4 two-speed coin is mobile and valid but does not lift the binding obstruction, capture is...",
+  "purpose": "Experiment E-SLF-0077 in the selves arena: the B4 two-speed coin is mobile and valid but does not lift the binding obstruction, capture is architectural.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L2 (L2: known physics reproduced on a stated model).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/selves/multi-speed-coin-b4.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-SLF-0077",
+        "quote": null
+      }
+    ]
+  }
+}

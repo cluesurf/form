@@ -1,0 +1,45 @@
+{
+  "record": "proposition",
+  "id": "d8179287-7be6-4cc7-9d47-455b993b4921",
+  "kind": "philosophical",
+  "epistemic_status": "inferred",
+  "title": "Experience has a definite spatiotemporal grain",
+  "statements": [
+    {
+      "id": "32a41515-4e79-4523-a30c-f1b4db63b3c9",
+      "text": "By exclusion, an experience has definite borders and a particular spatiotemporal grain: the units and the time scale at which cause-effect power is maximally irreducible.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-23"
+    }
+  ],
+  "current_statement": "32a41515-4e79-4523-a30c-f1b4db63b3c9",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "ff525f31-2442-4b42-b21f-827bf3c74628",
+        "locator": "abstract",
+        "quote": "exclusion says that it has unique borders and a particular spatio-temporal grain."
+      }
+    ]
+  }
+}

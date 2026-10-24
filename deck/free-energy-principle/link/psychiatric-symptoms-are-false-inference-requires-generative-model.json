@@ -1,0 +1,28 @@
+{
+  "record": "link",
+  "id": "3c820122-30b8-4fa1-854f-132e1ec142b1",
+  "from": "760791c0-eab3-4401-a005-0ed06f2c6b7c",
+  "to": "d8065bab-fd02-46e9-bec2-6508828ae91c",
+  "relation": "requires",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "c3908a50-f858-42d6-8c6b-be810bd5a82f",
+        "locator": "full text",
+        "quote": "the ability to understand the signs and symptoms of psychiatric disorder as false inference."
+      }
+    ]
+  }
+}

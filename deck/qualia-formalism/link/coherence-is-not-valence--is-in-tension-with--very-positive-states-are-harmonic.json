@@ -1,0 +1,28 @@
+{
+  "record": "link",
+  "id": "50501e2a-572f-48af-af81-a238edab31e7",
+  "from": "13afe92c-e399-4d84-a341-71153bf01f8e",
+  "to": "811e3ff9-4680-409c-a22f-168ca034d3f8",
+  "relation": "is_in_tension_with",
+  "strength": null,
+  "rationale": "Coherence and harmonic relationship are close neural measures, and the overview says high coherence need not mean high valence.",
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "6f8f1612-4ddf-4fed-9dd3-4070a070fa8b",
+        "locator": "main text",
+        "quote": "just because you have high coherence doesn't mean it's going to be high valence."
+      }
+    ]
+  }
+}

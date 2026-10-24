@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "c3bd3aed-50eb-4a11-9e0b-db2a8c5d429a",
+  "title": "E-QTM-0169: the love-fear middle rung violates the qutrit Bell inequality CGLMP, pass: over projective readings, two...",
+  "purpose": "Experiment E-QTM-0169 in the quantum arena: the love-fear middle rung violates the qutrit Bell inequality CGLMP, pass: over projective readings, two a party, a deterministic search reaches 2.312116 against the local bound 2 (its CHSH maximum is 2.36126), and the knot cut to its two largest weights reaches 2.274824, so the third Schmidt weight adds 0.0373; the standard Fourier readings see no violation (1.25589, 1.13499, 1.59511 over the three placements, closed forms), so the readings must be fitted to the knot; the instrument reads 2.8729 and 1 + sqrt(11/3) on its reference states and 2 on separable ones; a reached value, not a proven maximum.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L2 (L2: known physics reproduced on a stated model).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/quantum/middle-rung-cglmp.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-QTM-0169",
+        "quote": null
+      }
+    ]
+  }
+}

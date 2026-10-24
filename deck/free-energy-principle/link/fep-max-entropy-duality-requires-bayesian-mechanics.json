@@ -1,0 +1,28 @@
+{
+  "record": "link",
+  "id": "1911de4f-7ba3-49bf-b808-7aa30710bfa2",
+  "from": "43c23ede-7283-459a-a3d1-c07449b242aa",
+  "to": "1b8f6b8a-3a75-477b-94be-01812b6bf5f2",
+  "relation": "requires",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "86362c95-6abe-4959-bf7f-166fbbb5b70c",
+        "locator": "abstract (arXiv record)",
+        "quote": "We go on to examine a duality between the free energy principle and the constrained maximum entropy principle, both of which lie at the heart of Bayesian mechanics, and discuss its implications."
+      }
+    ]
+  }
+}

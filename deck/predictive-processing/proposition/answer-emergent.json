@@ -1,0 +1,45 @@
+{
+  "record": "proposition",
+  "id": "b0bea400-b7bb-438d-82d9-dd8dbfa18c5e",
+  "kind": "philosophical",
+  "epistemic_status": "inferred",
+  "title": "Answer: experience and self emerge from living regulation",
+  "statements": [
+    {
+      "id": "e1b29a52-68a8-4b07-bdbb-dfdf6b2621c2",
+      "text": "Conscious experience and the self are not separate additions to a body. They arise from, and are continuous with, the predictive self-regulation of living systems.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-23"
+    }
+  ],
+  "current_statement": "e1b29a52-68a8-4b07-bdbb-dfdf6b2621c2",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "bfa85443-4b77-43f1-b5f2-ec1850a4bc3c",
+        "locator": "accepted manuscript p. 14",
+        "quote": "More radically, it underpins a strong continuity between life, mind, and consciousness"
+      }
+    ]
+  }
+}

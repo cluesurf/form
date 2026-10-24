@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "959388de-1c58-47fa-b85f-f13c20e5ae34",
+  "title": "E-FND-0033: monism (vector = spinor) forces dimension eight uniquely, the pinch-point floor from the base not from...",
+  "purpose": "Experiment E-FND-0033 in the foundations arena: monism (vector = spinor) forces dimension eight uniquely, the pinch-point floor from the base not from observed families; three generations emerge as the three faces 8v 8s 8c.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L1 (L1: known mathematics, correctly confirmed).",
+  "status": "completed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/foundations/monism-forces-eight.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "research/result.ts R-FND-0002",
+        "quote": null
+      }
+    ]
+  }
+}

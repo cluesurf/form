@@ -1,0 +1,59 @@
+{
+  "record": "proposition",
+  "id": "a6ae4c7c-8956-4ca1-86b4-02c1c21b62da",
+  "kind": "empirical",
+  "epistemic_status": "hypothesized",
+  "title": "Symmetry theory of valence",
+  "statements": [
+    {
+      "id": "5ff8b3ff-0673-4c6b-87ad-2e2c0d30226f",
+      "text": "Given a mathematical object isomorphic to the qualia of a system, the property that corresponds to how pleasant it is to be that system is the symmetry of that object.",
+      "language": "en",
+      "scope": "any conscious system for which qualia formalism holds",
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-23"
+    }
+  ],
+  "current_statement": "5ff8b3ff-0673-4c6b-87ad-2e2c0d30226f",
+  "status": "active",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": {
+    "value": "open",
+    "reason": null,
+    "basis": [],
+    "proposal": null
+  },
+  "origin": [
+    {
+      "repository": "qualia-formalism",
+      "id": "c82c7c92-5d96-4c1d-96a1-9d1c73416e52"
+    }
+  ],
+  "provenance": {
+    "written_by": "github:lancejpollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "88c540e3-3056-4e37-8da4-5d2e98506a4b",
+        "locator": "section X, p. 35",
+        "quote": "Given a mathematical object isomorphic to the qualia of a system, the mathematical property which corresponds to how pleasant it is to be that system is that object's symmetry."
+      },
+      {
+        "source": "4228d4a9-1a62-4a71-bb75-a6c1c9c118c0",
+        "locator": "main text",
+        "quote": "the symmetry of this representation will encode how pleasant the experience is"
+      }
+    ]
+  }
+}

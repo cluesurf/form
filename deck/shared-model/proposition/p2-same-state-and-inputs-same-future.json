@@ -1,0 +1,59 @@
+{
+  "record": "proposition",
+  "id": "51801b62-4cd1-47d9-b395-28df7310af45",
+  "kind": "empirical",
+  "epistemic_status": "hypothesized",
+  "title": "P2: same state and inputs, same future",
+  "statements": [
+    {
+      "id": "e7211852-a205-4911-9b76-21579fdabb98",
+      "text": "P2: identical complete present local states evolving under identical physical inputs have identical subsequent local physical states, $X^\\alpha_t = X^\\beta_t \\wedge I^\\alpha_{>t} = I^\\beta_{>t} \\Rightarrow X^\\alpha_{>t} = X^\\beta_{>t}$. This is the state sufficiency of physics, and it underwrites experimental replicability.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-23"
+    }
+  ],
+  "current_statement": "e7211852-a205-4911-9b76-21579fdabb98",
+  "status": "active",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": {
+    "value": "open",
+    "reason": null,
+    "basis": [],
+    "proposal": null
+  },
+  "origin": [
+    {
+      "repository": "present-state",
+      "id": "2a196211-3758-4f49-84f7-54dea848daa4"
+    }
+  ],
+  "provenance": {
+    "written_by": "github:lancejpollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "5d97e1e3-0f25-4bf8-b5ec-780fc621c55d",
+        "locator": "section 4.5",
+        "quote": "Local state sufficiency, described in P2, states that identical complete present local states (i), evolving under identical physical inputs (ii), have identical subsequent local physical states (iii)"
+      },
+      {
+        "source": "5d97e1e3-0f25-4bf8-b5ec-780fc621c55d",
+        "locator": "abstract",
+        "quote": "the assumption underwriting experimental replicability, since preparing the same system under the same conditions is expected to yield the same result"
+      }
+    ]
+  }
+}

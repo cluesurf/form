@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "650a1d3b-7a9e-47c2-9762-0b2ae8db13ac",
+  "title": "E-FND-0075: the discrete balance law is the same on three different complexes (degree 4, 6 and 24), so it is not an...",
+  "purpose": "Experiment E-FND-0075 in the foundations arena: the discrete balance law is the same on three different complexes (degree 4, 6 and 24), so it is not an artefact of one adjacency, while momentum conservation is rule-selective, which shows the battery can tell conservation structures apart.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L2 (L2: known physics reproduced on a stated model).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/foundations/adjacency-invariance.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-FND-0075",
+        "quote": null
+      }
+    ]
+  }
+}

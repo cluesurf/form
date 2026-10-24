@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "13b1f4e5-46ec-448e-98d9-728b4cda3e08",
+  "title": "E-FRC-0178: an audit of the Hermitian eigensolver: its eigenvectors fail to span a degenerate eigenspace, so the...",
+  "purpose": "Experiment E-FRC-0178 in the gauge arena: an audit of the Hermitian eigensolver: its eigenvectors fail to span a degenerate eigenspace, so the matrix sign built on them is not a sign, and the two overlap-fermion condensate experiments passed their free-theory control only because of it: the free overlap's exact zero modes at p = 0 (densities 0.04 and 1/9) vanish under the shipped solver.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L1 (L1: known mathematics, correctly confirmed).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/gauge/eig-hermitian-audit.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-FRC-0178",
+        "quote": null
+      }
+    ]
+  }
+}

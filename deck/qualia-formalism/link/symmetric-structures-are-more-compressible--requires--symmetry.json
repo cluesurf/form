@@ -1,0 +1,28 @@
+{
+  "record": "link",
+  "id": "b3f7acfd-4412-4e50-96ed-29cd0be18b29",
+  "from": "d603b365-6539-4a1c-bb01-ef762dab2cde",
+  "to": "67c1d893-dffc-45b3-9bc6-c573cdc08527",
+  "relation": "requires",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "18748a2a-239c-4c8a-84be-d6db8f91e70d",
+        "locator": "section X, p. 36",
+        "quote": "all else being equal, more symmetric data structures will be more compressible."
+      }
+    ]
+  }
+}

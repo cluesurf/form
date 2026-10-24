@@ -1,0 +1,28 @@
+{
+  "record": "link",
+  "id": "76f624ea-f929-40ea-aa1f-d8e9a89644c3",
+  "from": "16fc5cd1-eed6-401d-84ea-3621b4d0c48c",
+  "to": "664a1500-a24a-4133-9731-f8354668b210",
+  "relation": "supports",
+  "strength": 0.2,
+  "rationale": "Conditions that change what an animal can do also changed its reproduction. Several conditions changed at once, so the behavior that mattered is unknown.",
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "c01a576c-01a5-46ae-8a4e-5fed54687b5c",
+        "locator": null,
+        "quote": null
+      }
+    ]
+  }
+}

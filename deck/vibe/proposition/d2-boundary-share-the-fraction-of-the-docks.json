@@ -1,0 +1,50 @@
+{
+  "record": "proposition",
+  "id": "ec2e4570-8441-495a-a946-85371e50da07",
+  "kind": "definitional",
+  "epistemic_status": "designed",
+  "title": "D2: boundary share: the fraction of the docks within graph radius r of a dock that lie at exactly radius r",
+  "statements": [
+    {
+      "id": "a301f38c-7fec-4c5d-af5f-fb91be786c0a",
+      "text": "Boundary share: the fraction of the docks within graph radius r of a dock that lie at exactly radius r.",
+      "language": "en",
+      "scope": "a defined quantity, so a number means one thing",
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-22"
+    }
+  ],
+  "current_statement": "a301f38c-7fec-4c5d-af5f-fb91be786c0a",
+  "status": "active",
+  "voice": "framework",
+  "defines": "boundary share",
+  "question": null,
+  "prediction": null,
+  "standing": {
+    "value": "open",
+    "reason": "holds in the vibe claim graph",
+    "basis": [],
+    "proposal": null
+  },
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "research/node.ts D2",
+        "quote": null
+      }
+    ]
+  }
+}

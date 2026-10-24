@@ -1,0 +1,50 @@
+{
+  "record": "proposition",
+  "id": "d49ec1a8-76ce-444f-bd8d-79e126252d32",
+  "kind": "empirical",
+  "epistemic_status": "hypothesized",
+  "title": "Global brain theories optimize one quantity",
+  "statements": [
+    {
+      "id": "f2ee6ffb-5f48-46ce-bd6c-b135007457a8",
+      "text": "Several global brain theories, from neural Darwinism to optimal control, optimize the same quantity: value or its complement, surprise. They can therefore be unified within a free energy framework.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-23"
+    }
+  ],
+  "current_statement": "f2ee6ffb-5f48-46ce-bd6c-b135007457a8",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "d2a12538-0cbe-40f3-832c-092a09e858f2",
+        "locator": "abstract",
+        "quote": "Furthermore, if we look closely at what is optimized, the same quantity keeps emerging, namely value (expected reward, expected utility) or its complement, surprise (prediction error, expected cost)."
+      },
+      {
+        "source": "d2a12538-0cbe-40f3-832c-092a09e858f2",
+        "locator": "abstract",
+        "quote": "which suggests that several global brain theories might be unified within a free-energy framework."
+      }
+    ]
+  }
+}

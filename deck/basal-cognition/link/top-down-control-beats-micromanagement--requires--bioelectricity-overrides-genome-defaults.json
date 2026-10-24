@@ -1,0 +1,28 @@
+{
+  "record": "link",
+  "id": "4b33290c-af86-4ae7-b86f-75ce234c2adc",
+  "from": "ff187b20-57a0-4f44-a7a2-679ca6ac78fb",
+  "to": "c15e0750-262e-4b02-8e2d-3d500fdcc531",
+  "relation": "requires",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "ace9be22-0f28-4934-89ff-c29f4e6bb2aa",
+        "locator": "abstract",
+        "quote": "providing strategies for top-down control (not micromanagement) to address complex disease and injury"
+      }
+    ]
+  }
+}

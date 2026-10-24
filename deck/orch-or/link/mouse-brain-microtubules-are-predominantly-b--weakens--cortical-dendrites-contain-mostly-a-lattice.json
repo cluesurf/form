@@ -1,0 +1,28 @@
+{
+  "record": "link",
+  "id": "47060125-2cdd-4533-a77b-2b76c9e5278a",
+  "from": "832b86d8-d3bd-479c-b0b5-ed3b3ce6c250",
+  "to": "71a07035-9559-4c6d-b402-28f827adde7f",
+  "relation": "weakens",
+  "strength": 0.4,
+  "rationale": "Predominantly B-lattice microtubules in mouse brain cut against a mostly A-lattice dendritic population.",
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "c0602528-f093-4705-abc3-e13d7657a680",
+        "locator": "section 5.7, prediction 9",
+        "quote": "Orch OR has been criticized because mouse brain microtubules are predominantly B lattice MTs."
+      }
+    ]
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "record": "proposition",
+  "id": "0267c83a-16f1-4e01-aaa3-dd717bbc1702",
+  "kind": "mathematical",
+  "epistemic_status": "inferred",
+  "title": "The Millennium Problems are open projection routes, not resolutions",
+  "statements": [
+    {
+      "id": "60f63e26-fc48-4455-bd11-0c426e7fdaf8",
+      "text": "The 2025 paper promoted analogies into resolution language. Each problem is now a projection route with a stated missing bridge: for Yang-Mills, a positive classical mode on a regulated background is not the Clay mass gap.",
+      "language": "en",
+      "scope": null,
+      "conditions": "graded by the author as open closure gates",
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "60f63e26-fc48-4455-bd11-0c426e7fdaf8",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": {
+    "value": "open",
+    "reason": "The author grades every route as an open closure gate. No proof has been offered or checked.",
+    "basis": [],
+    "proposal": null
+  },
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "30849996-bb4d-4aa5-90be-30070f28224e",
+        "locator": "abstract",
+        "quote": "it promoted analogies and undeclared identifications into resolution language."
+      },
+      {
+        "source": "30849996-bb4d-4aa5-90be-30070f28224e",
+        "locator": "abstract",
+        "quote": "For Yang–Mills I derive the gauge-covariant constitutive fluctuation operator and state why a positive classical mode on a regulated background is not the Clay mass gap."
+      }
+    ]
+  }
+}

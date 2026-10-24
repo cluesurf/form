@@ -1,0 +1,28 @@
+{
+  "record": "link",
+  "id": "b088227a-6e4a-45bf-86db-4256992f7c7f",
+  "from": "fd26c17b-5f5e-4d8c-b038-d51ba11b0e32",
+  "to": "d49ec1a8-76ce-444f-bd8d-79e126252d32",
+  "relation": "weakens",
+  "strength": null,
+  "rationale": "The critique argues the generality comes from the formalism, not from the systems described.",
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b167f733-48b5-4a25-aad0-5345e67bd8f4",
+        "locator": "abstract",
+        "quote": "(i) FEP is just a way to generalize Bayesian inference to all domains by the use of a Markov blanket formalism, a generalization we call the Markov blanket trick; and that (ii) active inference presupposes successful perception and action instead of explaining them."
+      }
+    ]
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "c60fe425-6b35-4ac1-a72b-f5322cd35519",
+  "title": "E-FND-0166: two composites of two holes each on the L = 4 torus, read for Bose bunching, fail as derived: the rule...",
+  "purpose": "Experiment E-FND-0166 in the foundations arena: two composites of two holes each on the L = 4 torus, read for Bose bunching, fail as derived: the rule binds two holes on one site in the sector (0.933 of their sector weight stays at contact, 0.298 free), two such composites stay composites (0.37 of the weight in two contact pairs, 0.003 under the free rule), their relative amplitude is even to 2.3e-17 (exchange +1, kinematic), and the same read on two single holes vanishes at the exchange-fixed separations (3.3e-29, Pauli); but the fixed-point bunching that would show Bose statistics in the dynamics (2 for bosons, 1 for none) reads 0.82 and 7.69 from two starts, unresolved, because the composites are heavy and pinned by the pair string (2.6e-3 and 2.3e-4 of the weight leaves the start's separation in 48 cycles).",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L2 (L2: known physics reproduced on a stated model).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/foundations/register-bosons.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-FND-0166",
+        "quote": null
+      }
+    ]
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "de8d8324-d544-49ad-bdf9-382ec95a9e1c",
+  "title": "E-FRC-0073: the edge fills gate transport like the magnitude of a Wilson line and carry no phase: on the fill-gated...",
+  "purpose": "Experiment E-FRC-0073 in the gauge arena: the edge fills gate transport like the magnitude of a Wilson line and carry no phase: on the fill-gated sweep the conducting walk reaches its horizon and an insulating fill at any position inside it truncates the maximum reach at exactly its own position, exhaustively (the blocking law of a connection), every tone change over two thousand beats is edge-paired with the pair sum conserved (an exact per-edge continuity), and the Hebbian fill dynamics turns the vacuum insulating, so the fills supply the magnitude half of a gauge connection and nothing supplies the phase half.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L2 (L2: known physics reproduced on a stated model).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/gauge/fills-gate-transport.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-FRC-0073",
+        "quote": null
+      }
+    ]
+  }
+}

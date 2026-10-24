@@ -1,0 +1,55 @@
+{
+  "record": "source",
+  "id": "b22ec8dc-1daf-426e-9074-639457f968d8",
+  "category": "preprint",
+  "title": "Decompositional equivalence: A fundamental symmetry underlying quantum theory",
+  "authors": [
+    "Chris Fields"
+  ],
+  "year": 2014,
+  "journal": null,
+  "volume": null,
+  "pages": null,
+  "publisher": null,
+  "doi": "10.48550/arXiv.1402.6629",
+  "isbn": null,
+  "pmid": null,
+  "arxiv_id": "1402.6629",
+  "url": "https://arxiv.org/abs/1402.6629",
+  "url_original": "https://arxiv.org/abs/1402.6629",
+  "doi_match": {
+    "via": "arxiv_id",
+    "confidence": 1,
+    "checked_at": "2026-10-24"
+  },
+  "open_access": {
+    "url": "https://arxiv.org/pdf/1402.6629",
+    "version": "accepted",
+    "host_type": "repository",
+    "license": null,
+    "checked_at": "2026-10-24",
+    "via": "openalex"
+  },
+  "license": null,
+  "hostable": false,
+  "is_peer_reviewed": false,
+  "content_hash": null,
+  "accessed_at": "2026-10-23",
+  "origin": [
+    {
+      "repository": "quantum-observers",
+      "id": "74508b9f-1e20-4e6b-921a-b8c0a71321ad"
+    }
+  ],
+  "provenance": {
+    "written_by": "github:lancejpollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": []
+  }
+}

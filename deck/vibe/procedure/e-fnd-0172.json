@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "66e0f511-6ffc-4031-a86b-d378ad22bf0d",
+  "title": "E-FND-0172: do the hard constraints leave one rule? the two-vibe dock, partial (the lifted Grover mixer is unitary...",
+  "purpose": "Experiment E-FND-0172 in the foundations arena: do the hard constraints leave one rule? the two-vibe dock, partial (the lifted Grover mixer is unitary only on like fermions, so the instrument and control gates fail on the unsigned and love-fear sectors, a defect of the derivation), and on the physical sector the answer is no: on two like fermions of one dock the W(F4) commutant has dimension 122 (13 irreducible pieces, not multiplicity-free), and the product of the lifted Grover mixer and the contact phase w on full lines, both covariant ring unitaries, has tr(W^3) = (273 - 54w)/2 outside Z[w], so an eigenvalue that is not a root of unity: covariance, reversibility and Eisenstein coefficients admit infinitely many two-vibe dock rules, while one vibe's 216 stay finite; one rule stays decision 4.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L1 (L1: known mathematics, correctly confirmed).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/foundations/two-vibe-uniqueness.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-FND-0172",
+        "quote": null
+      }
+    ]
+  }
+}

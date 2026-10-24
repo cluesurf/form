@@ -1,0 +1,50 @@
+{
+  "record": "proposition",
+  "id": "9ac4b9c1-e729-4acf-a903-8ac06ee09a9a",
+  "kind": "mathematical",
+  "epistemic_status": "inferred",
+  "title": "Rung: special relativity from finite signal speed",
+  "statements": [
+    {
+      "id": "70b086f1-778e-4ae4-81c2-5801ec792a33",
+      "text": "Once the conserved redistribution propagates at a finite invariant speed $c_t$, Galilean comparison between observers fails, and the Lorentz transformations are the admissible comparison structure that keeps the propagation boundary invariant.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "70b086f1-778e-4ae4-81c2-5801ec792a33",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "74dae0ca-ffc6-4827-bce0-5561d176e0ee",
+        "locator": "section 5",
+        "quote": "Lorentz covariance therefore appears because lawful observer comparison can no longer preserve both Galilean simultaneity and invariant finite signalling simultaneously."
+      },
+      {
+        "source": "74dae0ca-ffc6-4827-bce0-5561d176e0ee",
+        "locator": "section 5",
+        "quote": "This section is intentionally standard. The novelty does not lie in a new Lorentz transformation."
+      }
+    ]
+  }
+}

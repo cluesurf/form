@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "c81c25d6-6a03-40d3-930a-663ae5d200f3",
+  "title": "E-FRC-0118: a whole without amplitudes: role points whose vibe-signed sum is zero stay whole under every change of...",
+  "purpose": "Experiment E-FRC-0118 in the gauge arena: a whole without amplitudes: role points whose vibe-signed sum is zero stay whole under every change of frame exactly when love minus fear is a multiple of 3, the same pattern as the quantum singlets of SU(3) and of Sigma(648), and three loves are whole exactly when they lie on a line of the role grid, the rule of SET.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L1 (L1: known mathematics, correctly confirmed).",
+  "status": "completed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/gauge/whole-is-a-line.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "research/result.ts R-FRC-0005",
+        "quote": null
+      }
+    ]
+  }
+}

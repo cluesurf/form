@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "781cf1df-20f8-4448-9c71-9dbb2c1d288e",
+  "title": "E-FND-0123: the substrate detector is exactly phase-blind counting, measured with phase-controlled configurations on...",
+  "purpose": "Experiment E-FND-0123 in the foundations arena: the substrate detector is exactly phase-blind counting, measured with phase-controlled configurations on the adopted rule: conjugate-phase defect pairs whose net clock amplitude is verifiably smaller than the aligned pairs (three against twice root three, six against six point nine at four defects) produce EXACTLY the same slab response as the aligned ones (ten and twenty, exact multiples of the solo baseline), so the Born weight is not quadratic at the substrate and the coarse-bridge programme inherits its boundary condition: the observed squared-amplitude rule must emerge from coarse dynamics and statistics or not at all, never from detection.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L2 (L2: known physics reproduced on a stated model).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/foundations/born-discriminator.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-FND-0123",
+        "quote": null
+      }
+    ]
+  }
+}

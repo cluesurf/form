@@ -1,0 +1,45 @@
+{
+  "record": "proposition",
+  "id": "88716908-d94d-4bfe-9f62-0e110474aa15",
+  "kind": "philosophical",
+  "epistemic_status": "hypothesized",
+  "title": "Perhaps mind is a state of matter, and matter a state of mind",
+  "statements": [
+    {
+      "id": "f309eb91-0958-4583-8546-88c358aead29",
+      "text": "Perhaps mind is a state of matter, and matter is a state of mind.",
+      "language": "en",
+      "scope": "The paper's last line, a perspective the state-based framework is said to suggest",
+      "conditions": "Offered with \"perhaps\" in the closing sentence of section 6. It is not derived from P1 to P3 and no section argues for it. An author's comment outside the preprint, that the result implies an equivalence of matter and consciousness, is not part of the paper.",
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "f309eb91-0958-4583-8546-88c358aead29",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "ac2774e1-a04c-4c89-9db2-7848c6f5ce0b",
+        "locator": "section 6, last sentence",
+        "quote": "It redirects us to the state-based framework and a perspective which suggests that perhaps mind is a state of matter, and matter is a state of mind."
+      }
+    ]
+  }
+}

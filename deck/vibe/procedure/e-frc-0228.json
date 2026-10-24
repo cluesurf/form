@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "d2fa947b-5845-4dfd-ac65-e54428bf0b99",
+  "title": "E-FRC-0228: spontaneous emission into the flow light: in exact lattice QED on two husk squares, a STAND-IN atom...",
+  "purpose": "Experiment E-FRC-0228 in the gauge arena: spontaneous emission into the flow light: in exact lattice QED on two husk squares, a STAND-IN atom meeting fresh plaquette registers (STAND-IN for the light leaving) decays toward its ground state and cools from the maximally mixed state only when the register has its plaquette step (memory, flow turned to angle between two reads); the record light (plaquette step off) is exactly unital, the mean-field rule keeps the atom pure, and short collisions follow the first-order (golden-rule) transfer.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L2 (L2: known physics reproduced on a stated model).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/gauge/flow-light-emission.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-FRC-0228",
+        "quote": null
+      }
+    ]
+  }
+}

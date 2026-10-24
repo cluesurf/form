@@ -1,0 +1,45 @@
+{
+  "record": "proposition",
+  "id": "f885565d-ac69-4924-8679-3a1c31ff880f",
+  "kind": "empirical",
+  "epistemic_status": "hypothesized",
+  "title": "Conformational switching of tubulin provides the qubits",
+  "statements": [
+    {
+      "id": "40c23ad6-fbca-495e-a602-ebff1a28d11d",
+      "text": "Conformational switching of tubulin produces coupled electron-vibration qubits for microtubule quantum computation.",
+      "language": "en",
+      "scope": "an earlier form of the proposal, withdrawn in the 2014 review according to Reimers et al.",
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-23"
+    }
+  ],
+  "current_statement": "40c23ad6-fbca-495e-a602-ebff1a28d11d",
+  "status": "retracted",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "aa5fd6b7-8e47-4d59-b30a-6c17aa49e06d",
+        "locator": "p. 2",
+        "quote": "Previously, Hameroff and Penrose had also proposed that conformational switching could produce coupled electron-vibration qubits but this claim is withdrawn in the current review."
+      }
+    ]
+  }
+}

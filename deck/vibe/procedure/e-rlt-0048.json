@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "ea3a3387-e992-4237-af94-b4b0c54ed859",
+  "title": "E-RLT-0048: no schedule of the committed architecture can restore rotation symmetry, since only one non-central coin...",
+  "purpose": "Experiment E-RLT-0048 in the relativity arena: no schedule of the committed architecture can restore rotation symmetry, since only one non-central coin map (minus a reflection) leaves any of its beats invariant, so every glide group is abelian and reducible, as measured for the committed, color turn, momentum and round-robin knits; letting each line carry its own orientation and the swap run on an orbit of couples admits 24 irreducible glide groups of order 24, each of complex type with one invariant two-form of one handedness (chirality allowed beside isotropy), none with a CPT partner; the orbit knit built from one keeps reversal, charge and a periodic vacuum and its glide-averaged long-wave response is isotropic within the noise where the committed knit's is not, but it has no CPT and can couple at most 54 of the 66 line pairs, so isotropy by symmetry pulls against both CPT and the round robin.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L2 (L2: known physics reproduced on a stated model).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/relativity/knit-that-restores-isotropy.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-RLT-0048",
+        "quote": null
+      }
+    ]
+  }
+}

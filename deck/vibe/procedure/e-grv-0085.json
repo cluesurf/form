@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "2dced4c1-c6a8-4152-a9a0-0a10e500d0f9",
+  "title": "E-GRV-0085: two quiet clusters interact with no fall with distance on 'pass' and not at all on 'bounce', and the...",
+  "purpose": "Experiment E-GRV-0085 in the gravity arena: two quiet clusters interact with no fall with distance on 'pass' and not at all on 'bounce', and the density at which pairs scramble the vacuum falls as the box grows, pass: on two full-key paths (side 16, 64 beats) non-additive slot-beats are 3.7 and 8.9 million at r = 1 (the box scrambles), 464 to 19,818 at r = 2 to 7 with no trend (far over near 0.98 and 0.86, where 1/r would give 0.46), and 0 at every r on 'bounce' with each cluster on its own 2 lines; the cluster is not one object (B touches 3, 11 or 12 lines by where it sits); 1 to 8 pairs level off (about 94 to 131 trits a pair) and 16, 32 and 64 scramble on three paths (16 pairs 517,922 to 576,000, where the registered key's run was only turning); on side 24, 40 pairs (the density of 8 on side 16) scramble (about 2 million) and 20 run away late on one path (13,638 and 93,677 at beat 64); the old key reproduces 3,706, 714 and 583,789.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L2 (L2: known physics reproduced on a stated model).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/gravity/cluster-density.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-GRV-0085",
+        "quote": null
+      }
+    ]
+  }
+}

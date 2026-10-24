@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "04a2399f-76c7-4d21-9946-0cc695e1e28a",
+  "title": "E-QTM-0047: the continuous U(1) phase of quantum mechanics emerges from the discrete-COIN walk: the local phase...",
+  "purpose": "Experiment E-QTM-0047 in the quantum arena: the continuous U(1) phase of quantum mechanics emerges from the discrete-COIN walk: the local phase densely fills the circle (about 126 distinct values, 34 of 36 histogram bins) even though the coin angle is a single discrete pi/4, because the amplitude is an interfering sum, while the degenerate coin pi/2 collapses the field to one phase, the amplitude continuum itself being an input of the walk layer, completing the emergent-i-and-continuous-phase piece of frontier 1.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L2 (L2: known physics reproduced on a stated model).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/quantum/continuous-phase-from-discrete-coin.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-QTM-0047",
+        "quote": null
+      }
+    ]
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "record": "proposition",
+  "id": "fade2def-3048-46dc-b12d-05f6e69d9a1d",
+  "kind": "empirical",
+  "epistemic_status": "inferred",
+  "title": "R-FND-0002: Dimension eight, pinched from above and below",
+  "statements": [
+    {
+      "id": "383505b9-6e5d-4552-a395-9e1f8168f77b",
+      "text": "Normed division algebras exist only in dimensions 1, 2, 4 and 8 (Hurwitz), and among the $D_n$ Lie algebras only $D_4$, whose vector is eight-dimensional, has an outer automorphism of order three (triality), while vector and half-spinor dimensions agree only at $n = 8$.",
+      "language": "en",
+      "scope": "mathematical physics. status derived. category explanation (a proposed mechanism for a known phenomenon. Worth: possibly interesting. Not prospective evidence). depth L1 (L1: known mathematics, correctly confirmed)",
+      "conditions": "Limits: no machine-checked proof of the pinch: the formal kernel checks the norm is multiplicative for the complex numbers, quaternions and octonions, and the pinch itself only as integer spot checks. the converse of Hurwitz, that no other composition algebra exists, is not a checked proof. the step from dimension eight to {3,4,3,4} is argued, and the hyperbolic tiling over the flat {3,4,3,3} is stated as a premise (E-FND-0043). Launch gate. Pass: quantitative, auditable. Fail: prior_art_reviewed, novel, differentiating, falsifiable, skeptic_reviewed, independently_reproduced. Unknown: derived, interesting. Novelty: known. Free parameters: 0. Fitted: false. Known before: true.",
+      "falsification_criteria": "a hidden assumption in the chain from eight to the honeycomb",
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-22"
+    }
+  ],
+  "current_statement": "383505b9-6e5d-4552-a395-9e1f8168f77b",
+  "status": "disputed",
+  "voice": "framework",
+  "defines": null,
+  "question": "1eb6d58b-4526-457d-abe5-6a9683927829",
+  "prediction": null,
+  "standing": {
+    "value": "open",
+    "reason": "holds in the vibe claim graph",
+    "basis": [],
+    "proposal": null
+  },
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "research/result.ts R-FND-0002",
+        "quote": null
+      }
+    ]
+  }
+}

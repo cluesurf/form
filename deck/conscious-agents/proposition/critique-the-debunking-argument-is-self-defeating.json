@@ -1,0 +1,45 @@
+{
+  "record": "proposition",
+  "id": "cdb83291-096a-41be-8f7a-75e14edc24dd",
+  "kind": "philosophical",
+  "epistemic_status": "inferred",
+  "title": "The debunking argument is self-defeating",
+  "statements": [
+    {
+      "id": "82ec1f2d-a4ab-4692-8754-080e4a4b9f01",
+      "text": "Hoffman's evolutionary argument against trusting ordinary perception undermines the evidence it rests on, and appealing to Universal Darwinism to escape this leads to a fatal dilemma.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-23"
+    }
+  ],
+  "current_statement": "82ec1f2d-a4ab-4692-8754-080e4a4b9f01",
+  "status": "active",
+  "voice": "critique",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "ee479c46-981b-4cf2-b053-6602099fd83a",
+        "locator": "abstract",
+        "quote": "I show that the argument is self-defeating"
+      }
+    ]
+  }
+}

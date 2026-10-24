@@ -1,0 +1,65 @@
+{
+  "record": "proposition",
+  "id": "f88a1b96-a5c4-4522-bb41-5c72acd5eefc",
+  "kind": "philosophical",
+  "epistemic_status": "hypothesized",
+  "title": "Answer: a self is a patch of vibes that acts as one, still open",
+  "statements": [
+    {
+      "id": "2fc19501-6651-4c18-8205-6d989efa58bd",
+      "text": "A self is a patch of vibes that acts as one. Vibe explores whether it is the region that loses the most when cut: its integration, read from one snapshot of the tones and links at one beat, so the border of a self is a fact of the present state. A self's tone is the sum of its members' tones and nothing more. This is open: every ledger row for selves is partial, and on the working rule shared history gives no bounded self (E-SLF-0177).",
+      "language": "en",
+      "scope": "open. The self experiments mostly ran on older rules, a known attractor model or the mesh graph alone",
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "2fc19501-6651-4c18-8205-6d989efa58bd",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": {
+    "value": "open",
+    "reason": "vibe's own answer to the questionnaire",
+    "basis": [],
+    "proposal": null
+  },
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "7d868dbb-9fb1-455b-8d46-8cf0dce8e24e",
+        "locator": "The reading, and what is falsifiable",
+        "quote": "A patch of tiles is a thing or a mind, the whole mesh is the universe, and its growing edge is the present."
+      },
+      {
+        "source": "202a25d6-5b2f-478e-9e68-e4292a77daf0",
+        "locator": "opening",
+        "quote": "The model explores whether a self is the region that loses the most when cut."
+      },
+      {
+        "source": "202a25d6-5b2f-478e-9e68-e4292a77daf0",
+        "locator": "Integration: what a cut loses",
+        "quote": "Integration is a fact about a region at one beat"
+      },
+      {
+        "source": "ea8887b3-680b-486b-8ac6-ee1812adb581",
+        "locator": "On which rule each result holds: the working rule",
+        "quote": "shared history gives no bounded self (E-SLF-0177, fail)"
+      }
+    ]
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "660047a7-c5ee-4c09-9f4f-43b933d08490",
+  "title": "E-FND-0084: the $Z_3$ coarse amplitude of the charge rule: the flashing vacuum sums to exactly zero over its period...",
+  "purpose": "Experiment E-FND-0084 in the foundations arena: the $Z_3$ coarse amplitude of the charge rule: the flashing vacuum sums to exactly zero over its period, a defect keeps magnitude sqrt 3 with a phase locked to the vacuum clock (30, 30, 150 degrees, period three), and two defects have relative phase zero at every beat so their intensities add without interference, while the momentum rule shows neither the cancellation nor the clock.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L2 (L2: known physics reproduced on a stated model).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/foundations/vacuum-clock-amplitude.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-FND-0084",
+        "quote": null
+      }
+    ]
+  }
+}

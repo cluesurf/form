@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "ac22442b-ec60-4cee-8460-da8dd203c38a",
+  "title": "E-FND-0112: canon under the weave, part one: cross-species two-path interference is exact on the committed rule (a...",
+  "purpose": "Experiment E-FND-0112 in the foundations arena: canon under the weave, part one: cross-species two-path interference is exact on the committed rule (a kicked x-coupled branch at 30 degrees against a free x-blind branch of another species at 150 gives the joint amplitude exactly root three at 90 at co-recoherence beats and exactly two root three at 150 when aligned, additivity at machine precision), the counting-weight law carries unchanged (wall response to one, two, three defects in exact ratios 2.000 and 3.000), and the recorded geometry lesson is that the polarization law makes committed-rule interference naturally cross-species, since every same-couple traveller sees the same walls.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L2 (L2: known physics reproduced on a stated model).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/foundations/weave-canon-interference.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-FND-0112",
+        "quote": null
+      }
+    ]
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "d026708d-981e-4bd1-a310-71b6a8e76d37",
+  "title": "E-SPN-0048: quantum statistics in the cold vacuum, read on the husk, fail as gated: from a low-discrepancy fill the...",
+  "purpose": "Experiment E-SPN-0048 in the spin arena: quantum statistics in the cold vacuum, read on the husk, fail as gated: from a low-discrepancy fill the cold weave brings every husk mode (a column of bulk slots, g = 14 or 7) to the Fermi-Dirac Fano factor 1 - n / g within 0.008 (0.503 against 0.511 and 0.509), 0.5 from Maxwell-Boltzmann and 1.0 from Bose-Einstein, but a depth-uniform start never relaxes, because the knit commutes with the depth translation: it stays at 3.53 to 3.55, the Fermi value with every vibe counted 7 times, so the husk statistics are Fermi-Dirac of the depth-varying bulk, not of the husk alone.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L2 (L2: known physics reproduced on a stated model).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/spin/quantum-statistics.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-SPN-0048",
+        "quote": null
+      }
+    ]
+  }
+}

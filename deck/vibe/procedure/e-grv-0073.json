@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "170b9891-1c12-4fae-b675-bba45a0a538d",
+  "title": "E-GRV-0073: no curvature from shared history around a cluster on the working vacuum, fail on K2 and K3, with the...",
+  "purpose": "Experiment E-GRV-0073 in the gravity arena: no curvature from shared history around a cluster on the working vacuum, fail on K2 and K3, with the wrong sign: 2,816 loves placed in the 19 center columns (side 16, 5 starts that agree bit for bit, the labeled beat the rule's on all 15 runs) LOWER the count of recent meetings between neighboring columns near them (21.8 at the center against the vacuum's 88.0, and 28.0, 37.4, 47.5 at r = 2 to 4 against 69.2, 64.4, 67.0), so relational distance grows toward the cluster, a deficit of -0.57, -0.31, -0.19, -0.07, -0.03 at r = 2 to 6 that is a front, not a 1/r well; the surplus breaks the vacuum's 12-beat cycle and by T = 24 halves the neighbor count everywhere (about 30 at every r); the placed vibes disperse (68 of 2,816 within 2 of the center at T = 48); love and fear agree to 2.5e-3 far out but differ by 0.10 at the center, so the reading is not exactly charge-blind.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L2 (L2: known physics reproduced on a stated model).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/gravity/shared-history-curvature.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-GRV-0073",
+        "quote": null
+      }
+    ]
+  }
+}

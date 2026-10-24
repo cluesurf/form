@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "73742324-5ce1-4691-b958-79ee4c89db2c",
+  "title": "E-QTM-0066: the copy chain turns a micro superposition into a macroscopic record: coherence decays exponentially in...",
+  "purpose": "Experiment E-QTM-0066 in the quantum arena: the copy chain turns a micro superposition into a macroscopic record: coherence decays exponentially in the copies, a twenty-cell fragment of two hundred carries the full pointer information, and ten disjoint fragments each suffice (redundant objectivity).",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L2 (L2: known physics reproduced on a stated model).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/quantum/measurement-chain.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-QTM-0066",
+        "quote": null
+      }
+    ]
+  }
+}

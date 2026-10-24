@@ -1,0 +1,39 @@
+{
+  "record": "observation",
+  "id": "5489ad53-9eb2-41ed-a02f-76e5783c34e4",
+  "kind": "experimental_result",
+  "epistemic_status": "observed",
+  "description": "Intracranial recordings from 176 sites in ten epileptic patients viewing masked and unmasked words (Gaillard et al. 2009, reported by Dehaene and Changeux) found four signatures of conscious perception: late distributed ERPs reaching prefrontal cortex, late high-gamma power, long-distance beta synchrony, and increased causal relations between distant areas.",
+  "method": "instrument",
+  "status": "reported",
+  "source": "2374e38b-3bde-4e20-9ad5-8edab14a34c3",
+  "procedure": null,
+  "variable": null,
+  "value": null,
+  "unit": null,
+  "uncertainty": null,
+  "sample_size": 10,
+  "replication_count": null,
+  "quality": null,
+  "limitations": null,
+  "conflicts_of_interest": null,
+  "observed_at": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "2374e38b-3bde-4e20-9ad5-8edab14a34c3",
+        "locator": "section II",
+        "quote": "Four objective signatures of conscious perception were identified (Figure 3)"
+      }
+    ]
+  }
+}

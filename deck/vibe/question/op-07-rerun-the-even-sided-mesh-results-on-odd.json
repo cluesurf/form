@@ -1,0 +1,26 @@
+{
+  "record": "question",
+  "id": "dde980a2-b13b-42c5-9e25-7bdd91456cb0",
+  "text": "Which whole-mesh figures change when d4Mesh has an odd side and is one connected lattice?",
+  "kind": "missing_evidence",
+  "status": "open",
+  "parent": null,
+  "description": "OP-07: rerun the even-sided mesh results on odd sides.\n\nKnown: an even-sided d4Mesh is two disconnected lattices.\n\nUnknown: which reported figures depend on it.\n\nWhy it matters: a whole-mesh count on two components is a two-component figure.\n\nScope: a mechanical pass.\n\nSkills: TypeScript.\n\nWhere to start: code/tool/mesh.ts, the PARITY note on d4Mesh.\n\nThe claims it would move: R-FND-0001.\n\nEvidence named: d4-mesh-parity, roadmap item 0017.",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "research/problem.ts OP-07",
+        "quote": null
+      }
+    ]
+  }
+}

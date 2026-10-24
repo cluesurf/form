@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "0fa65b66-d9f3-4653-81b0-bfcff6242175",
+  "title": "E-FLD-0023: the momentum weave, the committed rule with the hop removed and the palindromic exchange widened to a...",
+  "purpose": "Experiment E-FLD-0023 in the fluids arena: the momentum weave, the committed rule with the hop removed and the palindromic exchange widened to a lone tone against a calm or paired line, conserves particle momentum and each of the twelve line momenta exactly and keeps color an exact local law, and does at least as well as the committed rule on every structural acceptance item (reversal, charge, CPT, the vacuum period, one line-graph component on the vacuum and on a dense background against the committed 3 and 1, superposition, walls) with more directions travelling (20 of 24 against 12), at the price of a dressing that spreads the disturbance of a lone tone over most of the box (1,725 slots in the first period and 108,080 of 157,464 in the fourth, against the committed 33 and 1,508).",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L2 (L2: known physics reproduced on a stated model).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/fluids/momentum-weave-acceptance.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-FLD-0023",
+        "quote": null
+      }
+    ]
+  }
+}

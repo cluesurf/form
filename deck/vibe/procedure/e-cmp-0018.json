@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "cf9dc0d2-be79-4e54-8cae-1018c8da04be",
+  "title": "E-CMP-0018: Landauer on the adopted knit, pass on the information side: three starts differing only in a register...",
+  "purpose": "Experiment E-CMP-0018 in the computation arena: Landauer on the adopted knit, pass on the information side: three starts differing only in a register trit (fear, calm, love) stay three distinct configurations at every beat on all 17 link starts, so erasing the register (it reads one value from beat 1) puts exactly ln 3 into the rest of the box, the bound met with equality at zero dissipation, and the whole record sits on the register own mesh line (line law); read through the husk coarse map the three runs make two coarse states at beat 1 (fear and love weigh the same), so ln 3 - H(1/3, 2/3) = 0.462 nats of the erased trit are invisible to the coarse description, the heat (0.392 nats on average over 24 beats); the record comes back round the 8-dock line (a finite reversible box never erases for good); the kT ln 3 energy cost is not measured.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L2 (L2: known physics reproduced on a stated model).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/computation/landauer-line.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-CMP-0018",
+        "quote": null
+      }
+    ]
+  }
+}

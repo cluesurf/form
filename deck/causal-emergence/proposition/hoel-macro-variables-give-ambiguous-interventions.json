@@ -1,0 +1,45 @@
+{
+  "record": "proposition",
+  "id": "77906a82-4c3b-4f42-80d9-e28540ecd1c2",
+  "kind": "mathematical",
+  "epistemic_status": "inferred",
+  "title": "Hoel macro variables give ambiguous interventions",
+  "statements": [
+    {
+      "id": "11fcd87f-430e-4974-be35-ad703cc06d9c",
+      "text": "The macro variables implied by Hoel’s 2017 account yield interventions with significant ambiguity, and marginalization and abstraction do not commute, problems traced to averaging steps and a maximum-entropy distribution extraneous to the system.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-23"
+    }
+  ],
+  "current_statement": "11fcd87f-430e-4974-be35-ad703cc06d9c",
+  "status": "active",
+  "voice": "critique",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "a493fd6c-c2ff-4b36-b0a9-86e89983754c",
+        "locator": "abstract",
+        "quote": "We provide a critical assessment of the account of causal emergence presented in Erik Hoel's 2017 article"
+      }
+    ]
+  }
+}

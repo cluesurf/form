@@ -1,0 +1,45 @@
+{
+  "record": "proposition",
+  "id": "15b9bbf0-af3e-4dc6-8e7b-afbab57dceb6",
+  "kind": "philosophical",
+  "epistemic_status": "inferred",
+  "title": "Digital computers experience next to nothing",
+  "statements": [
+    {
+      "id": "82d03b34-6a8d-409b-89d5-2a868f5ae367",
+      "text": "Digital computers, even if they behaved exactly as we do or ran faithful simulations of a human brain, would experience next to nothing, because of how they are physically organized.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-23"
+    }
+  ],
+  "current_statement": "82d03b34-6a8d-409b-89d5-2a868f5ae367",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "cd180db3-bb1d-4ab0-814c-72898fb077ef",
+        "locator": "abstract",
+        "quote": "IIT implies that digital computers, even if their behaviour were to be functionally equivalent to ours, and even if they were to run faithful simulations of the human brain, would experience next to nothing."
+      }
+    ]
+  }
+}

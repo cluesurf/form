@@ -1,0 +1,50 @@
+{
+  "record": "proposition",
+  "id": "6f1b6ed0-2632-4592-9aa3-5f36bd4f6623",
+  "kind": "philosophical",
+  "epistemic_status": "hypothesized",
+  "title": "Qualia are rich workspace states beyond report",
+  "statements": [
+    {
+      "id": "3f372334-aae5-4b29-82da-43372f075f74",
+      "text": "The intuition of qualia reflects workspace states of enormous combinatorial diversity that exceed verbal description or memory storage, and phenomenal and access consciousness are facets of one phenomenon.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-23"
+    }
+  ],
+  "current_statement": "3f372334-aae5-4b29-82da-43372f075f74",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "9b21a09b-835f-4256-afbf-19425df2597e",
+        "locator": "section 6.2, p. 30",
+        "quote": "These biological properties seem potentially capable of substantiating philosophers’ intuitions about the ‘qualia’ of conscious experience"
+      },
+      {
+        "source": "9b21a09b-835f-4256-afbf-19425df2597e",
+        "locator": "section 6.2, p. 30",
+        "quote": "Both, however, would be facets of the same underlying phenomenon."
+      }
+    ]
+  }
+}

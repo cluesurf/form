@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "fcad276b-482a-4cf8-94d3-8da24b0f391a",
+  "title": "E-SPN-0168: the domain wall read as the screen: its member is light by depth alone and relativistic, the husk parity...",
+  "purpose": "Experiment E-SPN-0168 in the spin arena: the domain wall read as the screen: its member is light by depth alone and relativistic, the husk parity breaks on the chiral face by a whole chirality with the two faces opposite, and E . B moves member number through the wall in the finest field the model holds exactly, but the wall pair census is open, partial: a slab of Wilson and E-SPN-0160 register rule pairs its two walls into one Dirac member whose mass falls exponentially with the depth (0.1145 at 4 classes, 0.000122 at 12) while the bulk stays heavy, with inertia over energy tending to 1 and an isotropic dispersion; E-SPN-0166 anisotropy was a derivative error, gone under Richardson; the husk inversion that keeps the depth is a reflection that swaps the register halves, a symmetry of the symmetric slab and broken on each face of the chiral one; flux 1/15, exact in the ring the light column of depth 7 supplies, keeps the Wilson gap open and each wall doublet flows by 4 levels per loop, opposite at the faces and between the halves; but on the wall the census is open, through pairs whose depth momentum the wall no longer conserves and a Floquet resonance with the Wilson far-side walk, whose bandwidth |arg v| exceeds every light wall mass.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L2 (L2: known physics reproduced on a stated model).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/spin/wall-face.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-SPN-0168",
+        "quote": null
+      }
+    ]
+  }
+}

@@ -1,0 +1,3917 @@
+{
+  "record": "proposal",
+  "id": "90905bba-26bd-4dcf-b340-82de2bb60589",
+  "title": "Seed the shared model from the twelve model repositories",
+  "summary": "Adds the claims two or more frameworks share, worded neutrally, every contradiction between them as open claims joined by contradicts or is_in_tension_with, the recorded failures of every framework (vibe included) as rejected, and proposes integration for a small set of claims with recorded evidence.",
+  "author": {
+    "name": "Lance Pollard",
+    "github": "lancejpollard"
+  },
+  "from_repository": {
+    "name": "shared-model",
+    "url": null,
+    "commit": null
+  },
+  "base_revision": null,
+  "changes": [
+    {
+      "action": "add",
+      "record": "dc8b8d17-965f-4093-babd-3c8c28458622",
+      "standing_from": null,
+      "standing_to": null,
+      "basis": [],
+      "reason": null
+    },
+    {
+      "action": "add",
+      "record": "7a74b731-78af-4798-9c46-968ae63d6a4d",
+      "standing_from": null,
+      "standing_to": null,
+      "basis": [],
+      "reason": null
+    },
+    {
+      "action": "add",
+      "record": "7ada61a6-c39f-418e-b806-c9035212e39a",
+      "standing_from": null,
+      "standing_to": null,
+      "basis": [],
+      "reason": null
+    },
+    {
+      "action": "add",
+      "record": "be310ee7-7783-4d0f-8968-0b227fdd3c90",
+      "standing_from": null,
+      "standing_to": null,
+      "basis": [],
+      "reason": null
+    },
+    {
+      "action": "add",
+      "record": "3162481a-4f1d-4e13-ba63-d13d8410d431",
+      "standing_from": null,
+      "standing_to": null,
+      "basis": [],
+      "reason": null
+    },
+    {
+      "action": "add",
+      "record": "52e5d5d0-354e-404c-8734-c6cf41621a6a",
+      "standing_from": null,
+      "standing_to": null,
+      "basis": [],
+      "reason": null
+    },
+    {
+      "action": "add",
+      "record": "45b2428c-862c-40e3-9061-1fc252bac52b",
+      "standing_from": null,
+      "standing_to": null,
+      "basis": [],
+      "reason": null
+    },
+    {
+      "action": "add",
+      "record": "89499492-eb34-494c-8403-077c746c44cd",
+      "standing_from": null,
+      "standing_to": null,
+      "basis": [],
+      "reason": null
+    },
+    {
+      "action": "add",
+      "record": "2d00b34b-961e-4078-8f9f-8320454cda6f",
+      "standing_from": null,
+      "standing_to": null,
+      "basis": [],
+      "reason": null
+    },
+    {
+      "action": "add",
+      "record": "35c7f9ac-859e-48c0-906e-77cd341365e8",
+      "standing_from": null,
+      "standing_to": null,
+      "basis": [],
+      "reason": null
+    },
+    {
+      "action": "add",
+      "record": "13e765fa-f137-4486-a49a-0a4bb277a7c0",
+      "standing_from": null,
+      "standing_to": null,
+      "basis": [],
+      "reason": null
+    },
+    {
+      "action": "add",
+      "record": "ade47bab-eabe-4bf0-a919-26de2d80a1e4",
+      "standing_from": null,
+      "standing_to": null,
+      "basis": [],
+      "reason": null
+    },
+    {
+      "action": "add",
+      "record": "c6fae89b-44af-4081-8152-1a52cfb95968",
+      "standing_from": null,
+      "standing_to": null,
+      "basis": [],
+      "reason": null
+    },
+    {
+      "action": "add",
+      "record": "707202c9-3b74-4332-886d-dcbd0609de59",
+      "standing_from": null,
+      "standing_to": null,
+      "basis": [],
+      "reason": null
+    },
+    {
+      "action": "add",
+      "record": "9993027f-c69a-417f-a0fc-ecd2a89bf4fc",
+      "standing_from": null,
+      "standing_to": null,
+      "basis": [],
+      "reason": null
+    },
+    {
+      "action": "add",
+      "record": "e6087b81-eb9e-4d2e-bfd8-0c138d0158e2",
+      "standing_from": null,
+      "standing_to": null,
+      "basis": [],
+      "reason": null
+    },
+    {
+      "action": "add",
+      "record": "522a4b80-ba36-4ce4-a149-a18ea67b2122",
+      "standing_from": null,
+      "standing_to": null,
+      "basis": [],
+      "reason": null
+    },
+    {
+      "action": "add",
+      "record": "68b9b39c-a6f9-4485-b54e-52c778cda70f",
+      "standing_from": null,
+      "standing_to": null,
+      "basis": [],
+      "reason": null
+    },
+    {
+      "action": "add",
+      "record": "24314af4-1f31-4300-b936-dca90f96bc9b",
+      "standing_from": null,
+      "standing_to": null,
+      "basis": [],
+      "reason": null
+    },
+    {
+      "action": "add",
+      "record": "59e29779-4b01-41a4-a265-766f20d826d2",
+      "standing_from": null,
+      "standing_to": null,
+      "basis": [],
+      "reason": null
+    },
+    {
+      "action": "add",
+      "record": "b493c526-eb84-4119-8882-f308b0fab049",
+      "standing_from": null,
+      "standing_to": null,
+      "basis": [],
+      "reason": null
+    },
+    {
+      "action": "add",
+      "record": "2aefa124-d0c9-45df-b6bf-c70d74d0857b",
+      "standing_from": null,
+      "standing_to": null,
+      "basis": [],
+      "reason": null
+    },
+    {
+      "action": "add",
+      "record": "31a5f901-7cf0-4642-b2b5-8ec8da034b12",
+      "standing_from": null,
+      "standing_to": null,
+      "basis": [],
+      "reason": null
+    },
+    {
+      "action": "add",
+      "record": "2cb1632a-50ed-413a-9435-ff92be3a5273",
+      "standing_from": null,
+      "standing_to": null,
+      "basis": [],
+      "reason": null
+    },
+    {
+      "action": "add",
+      "record": "61b60745-8d00-45f3-b594-6233254a40ba",
+      "standing_from": null,
+      "standing_to": null,
+      "basis": [],
+      "reason": null
+    },
+    {
+      "action": "add",
+      "record": "ef9c3326-9d2d-499c-8a38-a012994341de",
+      "standing_from": null,
+      "standing_to": null,
+      "basis": [],
+      "reason": null
+    },
+    {
+      "action": "add",
+      "record": "082663f3-7b0a-4694-a44a-52d1adfbc9ca",
+      "standing_from": null,
+      "standing_to": null,
+      "basis": [],
+      "reason": null
+    },
+    {
+      "action": "add",
+      "record": "e802df60-20a6-462a-97d3-fc1fd73c1e6b",
+      "standing_from": null,
+      "standing_to": null,
+      "basis": [],
+      "reason": null
+    },
+    {
+      "action": "add",
+      "record": "5ebf3527-30ad-40e5-a186-9efe51f3537a",
+      "standing_from": null,
+      "standing_to": null,
+      "basis": [],
+      "reason": null
+    },
+    {
+      "action": "add",
+      "record": "8770ae1b-966e-4881-9fab-380f046a1a0c",
+      "standing_from": null,
+      "standing_to": null,
+      "basis": [],
+      "reason": null
+    },
+    {
+      "action": "add",
+      "record": "4d97a345-c127-46a3-b56e-09c302a040c9",
+      "standing_from": null,
+      "standing_to": null,
+      "basis": [],
+      "reason": null
+    },
+    {
+      "action": "add",
+      "record": "76e1b9ec-1de5-4cd1-a7c2-cce9c57aaa62",
+      "standing_from": null,
+      "standing_to": null,
+      "basis": [],
+      "reason": null
+    },
+    {
+      "action": "add",
+      "record": "f1a23e32-2e72-4219-86dc-28c3f5ca7caf",
+      "standing_from": null,
+      "standing_to": null,
+      "basis": [],
+      "reason": null
+    },
+    {
+      "action": "add",
+      "record": "c0500963-0aff-4416-94ff-9f9470a9d45b",
+      "standing_from": null,
+      "standing_to": null,
+      "basis": [],
+      "reason": null
+    },
+    {
+      "action": "add",
+      "record": "9758d7d0-9e8f-4965-affe-9e51afe1dc81",
+      "standing_from": null,
+      "standing_to": null,
+      "basis": [],
+      "reason": null
+    },
+    {
+      "action": "add",
+      "record": "93b794c0-d877-4bd3-a921-d8db543556de",
+      "standing_from": null,
+      "standing_to": null,
+      "basis": [],
+      "reason": null
+    },
+    {
+      "action": "add",
+      "record": "0827850a-4577-40cc-9701-f8258ed1fde6",
+      "standing_from": null,
+      "standing_to": null,
+      "basis": [],
+      "reason": null
+    },
+    {
+      "action": "add",
+      "record": "3d4f6cd5-0ad7-48a4-b1ea-705baa0e8ab6",
+      "standing_from": null,
+      "standing_to": null,
+      "basis": [],
+      "reason": null
+    },
+    {
+      "action": "add",
+      "record": "db9e821f-27ac-4298-a916-0d6e19f2d98a",
+      "standing_from": null,
+      "standing_to": null,
+      "basis": [],
+      "reason": null
+    },
+    {
+      "action": "add",
+      "record": "17b05ebc-6944-443a-9a0a-cbeacd9e0131",
+      "standing_from": null,
+      "standing_to": null,
+      "basis": [],
+      "reason": null
+    },
+    {
+      "action": "add",
+      "record": "8321a02d-3f6f-4c61-954f-cafeaf8b34e5",
+      "standing_from": null,
+      "standing_to": null,
+      "basis": [],
+      "reason": null
+    },
+    {
+      "action": "add",
+      "record": "d49f29fb-77e6-4ffb-afab-aa30e3e80d66",
+      "standing_from": null,
+      "standing_to": null,
+      "basis": [],
+      "reason": null
+    },
+    {
+      "action": "add",
+      "record": "62a26080-d720-46d7-9198-1e4dd89ee9aa",
+      "standing_from": null,
+      "standing_to": null,
+      "basis": [],
+      "reason": null
+    },
+    {
+      "action": "add",
+      "record": "c63555cc-8a4f-479c-8fa0-4f5a27a1fd2d",
+      "standing_from": null,
+      "standing_to": "open",
+      "basis": [],
+      "reason": null
+    },
+    {
+      "action": "add",
+      "record": "f59667e6-9b20-458c-98c9-6cabb6d24e7c",
+      "standing_from": null,
+      "standing_to": "open",
+      "basis": [],
+      "reason": null
+    },
+    {
+      "action": "add",
+      "record": "c4487ff3-0f16-482f-90d3-0a37ea22040c",
+      "standing_from": null,
+      "standing_to": "open",
+      "basis": [],
+      "reason": null
+    },
+    {
+      "action": "add",
+      "record": "0a39056d-b6f8-4c2c-98ea-8c29137d8e8e",
+      "standing_from": null,
+      "standing_to": "open",
+      "basis": [],
+      "reason": null
+    },
+    {
+      "action": "add",
+      "record": "9b455052-cc8f-45d5-b45f-e18c8c1f6b54",
+      "standing_from": null,
+      "standing_to": "open",
+      "basis": [],
+      "reason": null
+    },
+    {
+      "action": "add",
+      "record": "e4559fd8-9a5d-4d68-8a65-9daf55206fdd",
+      "standing_from": null,
+      "standing_to": "open",
+      "basis": [],
+      "reason": null
+    },
+    {
+      "action": "add",
+      "record": "7056582e-aeef-4d54-8f1f-85fd8d89677c",
+      "standing_from": null,
+      "standing_to": "open",
+      "basis": [],
+      "reason": null
+    },
+    {
+      "action": "add",
+      "record": "d12205a9-c3b4-4649-927e-c0b916c201ee",
+      "standing_from": null,
+      "standing_to": "open",
+      "basis": [],
+      "reason": null
+    },
+    {
+      "action": "add",
+      "record": "d99056a2-e89d-4517-8641-776add4c0df6",
+      "standing_from": null,
+      "standing_to": "open",
+      "basis": [],
+      "reason": null
+    },
+    {
+      "action": "add",
+      "record": "bce4ce45-020b-4bde-93e4-8b35d5da287f",
+      "standing_from": null,
+      "standing_to": "open",
+      "basis": [],
+      "reason": null
+    },
+    {
+      "action": "add",
+      "record": "10958ed8-959c-439b-8a23-d4343ae4a98d",
+      "standing_from": null,
+      "standing_to": "open",
+      "basis": [],
+      "reason": null
+    },
+    {
+      "action": "add",
+      "record": "4cd66540-e1c4-40c1-b33c-8930f6bb0c3a",
+      "standing_from": null,
+      "standing_to": "open",
+      "basis": [],
+      "reason": null
+    },
+    {
+      "action": "add",
+      "record": "b3fe6c00-0db6-458c-a898-c4343384ba7a",
+      "standing_from": null,
+      "standing_to": "open",
+      "basis": [],
+      "reason": null
+    },
+    {
+      "action": "add",
+      "record": "e1cdd6cd-36f8-491c-b20f-08bb1a800367",
+      "standing_from": null,
+      "standing_to": "open",
+      "basis": [],
+      "reason": null
+    },
+    {
+      "action": "add",
+      "record": "fde67e23-939b-4186-9e3e-3483e3a9a899",
+      "standing_from": null,
+      "standing_to": "open",
+      "basis": [],
+      "reason": null
+    },
+    {
+      "action": "add",
+      "record": "2ee7f0e7-aa18-4952-a315-df37cca851dd",
+      "standing_from": null,
+      "standing_to": "open",
+      "basis": [],
+      "reason": null
+    },
+    {
+      "action": "add",
+      "record": "7c252c42-dd91-4dec-83ba-d5dcf5dd57f5",
+      "standing_from": null,
+      "standing_to": "open",
+      "basis": [],
+      "reason": null
+    },
+    {
+      "action": "add",
+      "record": "b0d2b5ae-487d-4903-bb59-fd0b52f2d5b9",
+      "standing_from": null,
+      "standing_to": "open",
+      "basis": [],
+      "reason": null
+    },
+    {
+      "action": "add",
+      "record": "763d34ff-601b-451d-9800-df4d24c15fc3",
+      "standing_from": null,
+      "standing_to": "open",
+      "basis": [],
+      "reason": null
+    },
+    {
+      "action": "add",
+      "record": "557ad30d-aa57-46f2-bba9-992a7b4e79dd",
+      "standing_from": null,
+      "standing_to": "open",
+      "basis": [],
+      "reason": null
+    },
+    {
+      "action": "add",
+      "record": "4fb02043-41c0-4811-b3f8-154a777a5bf8",
+      "standing_from": null,
+      "standing_to": "open",
+      "basis": [],
+      "reason": null
+    },
+    {
+      "action": "add",
+      "record": "2bc5310f-d20a-4656-8913-9232b49c05ea",
+      "standing_from": null,
+      "standing_to": "open",
+      "basis": [],
+      "reason": null
+    },
+    {
+      "action": "add",
+      "record": "cbcbfb26-adaf-4125-b3be-544d442b06bb",
+      "standing_from": null,
+      "standing_to": "open",
+      "basis": [],
+      "reason": null
+    },
+    {
+      "action": "add",
+      "record": "467a1b16-f23f-4a37-a140-bc1f8f2c9cba",
+      "standing_from": null,
+      "standing_to": "open",
+      "basis": [],
+      "reason": null
+    },
+    {
+      "action": "add",
+      "record": "4786b211-007c-4965-9d95-d17215b3c3fb",
+      "standing_from": null,
+      "standing_to": "open",
+      "basis": [],
+      "reason": null
+    },
+    {
+      "action": "add",
+      "record": "c5bc4403-43e5-4395-a7f1-f9bbd0e087c6",
+      "standing_from": null,
+      "standing_to": "open",
+      "basis": [],
+      "reason": null
+    },
+    {
+      "action": "add",
+      "record": "7770a3a8-5570-4ec2-9e57-d08adacd4b91",
+      "standing_from": null,
+      "standing_to": "open",
+      "basis": [],
+      "reason": null
+    },
+    {
+      "action": "add",
+      "record": "ecbd5bbb-d8ba-44e0-ab8c-319dc3d45a14",
+      "standing_from": null,
+      "standing_to": "open",
+      "basis": [],
+      "reason": null
+    },
+    {
+      "action": "add",
+      "record": "93be7682-3fd8-43c7-a29f-6a9272d8d11d",
+      "standing_from": null,
+      "standing_to": "open",
+      "basis": [],
+      "reason": null
+    },
+    {
+      "action": "add",
+      "record": "47003d87-aa75-4d53-9139-1292d23d503d",
+      "standing_from": null,
+      "standing_to": "open",
+      "basis": [],
+      "reason": null
+    },
+    {
+      "action": "add",
+      "record": "8c2a7fc5-9f82-4bad-80c0-d980e00f6506",
+      "standing_from": null,
+      "standing_to": "open",
+      "basis": [],
+      "reason": null
+    },
+    {
+      "action": "add",
+      "record": "38b0f09f-7f7d-4df6-a799-636d78b83f66",
+      "standing_from": null,
+      "standing_to": "open",
+      "basis": [],
+      "reason": null
+    },
+    {
+      "action": "add",
+      "record": "b9ec189e-1722-49d5-9448-3de494ef4d1e",
+      "standing_from": null,
+      "standing_to": "open",
+      "basis": [],
+      "reason": null
+    },
+    {
+      "action": "add",
+      "record": "e2a8eca2-4c9f-4c74-b9e5-1a6603f6f6c5",
+      "standing_from": null,
+      "standing_to": "open",
+      "basis": [],
+      "reason": null
+    },
+    {
+      "action": "add",
+      "record": "8e7dd323-0407-4ab5-9268-08ced7005bc9",
+      "standing_from": null,
+      "standing_to": "open",
+      "basis": [],
+      "reason": null
+    },
+    {
+      "action": "add",
+      "record": "6d0f6fa4-581c-4ef8-a7dc-997f2317fc3d",
+      "standing_from": null,
+      "standing_to": "open",
+      "basis": [],
+      "reason": null
+    },
+    {
+      "action": "add",
+      "record": "c6b1e406-1541-49dc-a87f-971128cf4f6f",
+      "standing_from": null,
+      "standing_to": "open",
+      "basis": [],
+      "reason": null
+    },
+    {
+      "action": "add",
+      "record": "1555e014-1b87-4c63-a610-7bdf30390c3f",
+      "standing_from": null,
+      "standing_to": "open",
+      "basis": [],
+      "reason": null
+    },
+    {
+      "action": "add",
+      "record": "0d06f64a-f317-4b5c-90e6-9991b7dc9387",
+      "standing_from": null,
+      "standing_to": "open",
+      "basis": [],
+      "reason": null
+    },
+    {
+      "action": "add",
+      "record": "62ac8ac2-4300-4aad-a12f-017a1d32a434",
+      "standing_from": null,
+      "standing_to": "open",
+      "basis": [],
+      "reason": null
+    },
+    {
+      "action": "add",
+      "record": "8665d536-ffaa-4c18-912e-9875973fb2b3",
+      "standing_from": null,
+      "standing_to": "open",
+      "basis": [],
+      "reason": null
+    },
+    {
+      "action": "add",
+      "record": "268dde52-0661-4f25-be3f-b8877200b101",
+      "standing_from": null,
+      "standing_to": "open",
+      "basis": [],
+      "reason": null
+    },
+    {
+      "action": "add",
+      "record": "c06cae7f-dd9a-499d-a47e-a63d9a74b743",
+      "standing_from": null,
+      "standing_to": "open",
+      "basis": [],
+      "reason": null
+    },
+    {
+      "action": "add",
+      "record": "67737d2a-b774-4757-9d69-6a0524dc5f68",
+      "standing_from": null,
+      "standing_to": "open",
+      "basis": [],
+      "reason": null
+    },
+    {
+      "action": "add",
+      "record": "c4bb7b25-5717-4fd9-99d1-e979e5599f34",
+      "standing_from": null,
+      "standing_to": "open",
+      "basis": [],
+      "reason": null
+    },
+    {
+      "action": "add",
+      "record": "d8ff40a1-8a20-4a37-b3c8-a922a2571ed6",
+      "standing_from": null,
+      "standing_to": "open",
+      "basis": [],
+      "reason": null
+    },
+    {
+      "action": "add",
+      "record": "f353da23-143c-4055-8d9d-82c1140f4390",
+      "standing_from": null,
+      "standing_to": "open",
+      "basis": [],
+      "reason": null
+    },
+    {
+      "action": "add",
+      "record": "6a5e9ada-49b0-4ed6-9508-684552a4be4f",
+      "standing_from": null,
+      "standing_to": "open",
+      "basis": [],
+      "reason": null
+    },
+    {
+      "action": "add",
+      "record": "58ad8271-66e5-421f-94fd-a7153f351714",
+      "standing_from": null,
+      "standing_to": "open",
+      "basis": [],
+      "reason": null
+    },
+    {
+      "action": "add",
+      "record": "fdb13739-f46c-4f34-a026-12f3490866d7",
+      "standing_from": null,
+      "standing_to": "open",
+      "basis": [],
+      "reason": null
+    },
+    {
+      "action": "add",
+      "record": "bdfa38ca-385b-45ba-9219-e4a476de2779",
+      "standing_from": null,
+      "standing_to": "open",
+      "basis": [],
+      "reason": null
+    },
+    {
+      "action": "add",
+      "record": "78a9d476-89d2-44e7-94fa-8ce891162043",
+      "standing_from": null,
+      "standing_to": "open",
+      "basis": [],
+      "reason": null
+    },
+    {
+      "action": "add",
+      "record": "b054483f-aed7-49ef-815b-c1b14b6f036b",
+      "standing_from": null,
+      "standing_to": "open",
+      "basis": [],
+      "reason": null
+    },
+    {
+      "action": "add",
+      "record": "f078d1fd-5ea7-4894-bced-8c88259aa557",
+      "standing_from": null,
+      "standing_to": "open",
+      "basis": [],
+      "reason": null
+    },
+    {
+      "action": "add",
+      "record": "60301688-ff30-4caf-a498-2a54f32a0cd8",
+      "standing_from": null,
+      "standing_to": "open",
+      "basis": [],
+      "reason": null
+    },
+    {
+      "action": "add",
+      "record": "928d1e57-15ca-4d7e-93b7-d17add708b1e",
+      "standing_from": null,
+      "standing_to": "open",
+      "basis": [],
+      "reason": null
+    },
+    {
+      "action": "add",
+      "record": "62df6a9b-1eb6-4429-955e-d37439bf5e3d",
+      "standing_from": null,
+      "standing_to": "open",
+      "basis": [],
+      "reason": null
+    },
+    {
+      "action": "add",
+      "record": "3f197fa7-0ddf-4249-977a-bcbf3b2a2a69",
+      "standing_from": null,
+      "standing_to": "open",
+      "basis": [],
+      "reason": null
+    },
+    {
+      "action": "add",
+      "record": "cb2c8b8a-94ec-4f46-82a1-4607cc99733c",
+      "standing_from": null,
+      "standing_to": "open",
+      "basis": [],
+      "reason": null
+    },
+    {
+      "action": "add",
+      "record": "1b0a47da-c630-4dc6-8e0e-c7350a9730b4",
+      "standing_from": null,
+      "standing_to": "open",
+      "basis": [],
+      "reason": null
+    },
+    {
+      "action": "add",
+      "record": "c669906f-2de3-41fa-9c94-62ba46a9067a",
+      "standing_from": null,
+      "standing_to": "open",
+      "basis": [],
+      "reason": null
+    },
+    {
+      "action": "add",
+      "record": "3fc0866f-2679-411e-800a-8e35e69d2265",
+      "standing_from": null,
+      "standing_to": "open",
+      "basis": [],
+      "reason": null
+    },
+    {
+      "action": "add",
+      "record": "8a257a68-e197-4a53-8c4d-10705c558a79",
+      "standing_from": null,
+      "standing_to": "open",
+      "basis": [],
+      "reason": null
+    },
+    {
+      "action": "add",
+      "record": "57f20aff-c876-4a4e-b9d5-b1185137fac0",
+      "standing_from": null,
+      "standing_to": "open",
+      "basis": [],
+      "reason": null
+    },
+    {
+      "action": "add",
+      "record": "27a3d874-5fcb-490f-b20e-70fe9a057207",
+      "standing_from": null,
+      "standing_to": "rejected",
+      "basis": [
+        "bac7e932-319d-438d-91a2-1981e44c27f6"
+      ],
+      "reason": null
+    },
+    {
+      "action": "add",
+      "record": "5a81aaf0-58df-4a67-bb9c-2c6ecb1b0011",
+      "standing_from": null,
+      "standing_to": "open",
+      "basis": [],
+      "reason": null
+    },
+    {
+      "action": "add",
+      "record": "38f41fc0-850a-493a-9f1f-45bb30bf7c75",
+      "standing_from": null,
+      "standing_to": "open",
+      "basis": [],
+      "reason": null
+    },
+    {
+      "action": "add",
+      "record": "03c0291c-a5a2-4aac-891a-d9cc89a938b7",
+      "standing_from": null,
+      "standing_to": "open",
+      "basis": [],
+      "reason": null
+    },
+    {
+      "action": "add",
+      "record": "97b4ba6a-fe93-413b-b570-5dc992c74559",
+      "standing_from": null,
+      "standing_to": "open",
+      "basis": [],
+      "reason": null
+    },
+    {
+      "action": "add",
+      "record": "5c24f0f9-c678-40cf-97f1-1d6cb0055159",
+      "standing_from": null,
+      "standing_to": "open",
+      "basis": [],
+      "reason": null
+    },
+    {
+      "action": "add",
+      "record": "a3e02d51-ccea-4eaa-bb31-64b1cab9e08f",
+      "standing_from": null,
+      "standing_to": "open",
+      "basis": [],
+      "reason": null
+    },
+    {
+      "action": "add",
+      "record": "62e2d708-5093-4bc4-a948-45c1138f13f0",
+      "standing_from": null,
+      "standing_to": "open",
+      "basis": [],
+      "reason": null
+    },
+    {
+      "action": "add",
+      "record": "be3c404e-6efc-41b2-9159-9acedc5e6920",
+      "standing_from": null,
+      "standing_to": "open",
+      "basis": [],
+      "reason": null
+    },
+    {
+      "action": "add",
+      "record": "4f5e9222-dc75-4f39-9941-76c6abc22834",
+      "standing_from": null,
+      "standing_to": "open",
+      "basis": [],
+      "reason": null
+    },
+    {
+      "action": "add",
+      "record": "548117ef-6f54-4854-b47e-3a3ff51d560e",
+      "standing_from": null,
+      "standing_to": "open",
+      "basis": [],
+      "reason": null
+    },
+    {
+      "action": "add",
+      "record": "c689e977-d4c4-4d4b-a318-4a562ae6894d",
+      "standing_from": null,
+      "standing_to": "open",
+      "basis": [],
+      "reason": null
+    },
+    {
+      "action": "add",
+      "record": "7645d287-4968-465b-adb7-e40c26c95019",
+      "standing_from": null,
+      "standing_to": "open",
+      "basis": [],
+      "reason": null
+    },
+    {
+      "action": "add",
+      "record": "58a98eb5-f581-480e-b8c0-ff87a9cbddf6",
+      "standing_from": null,
+      "standing_to": "open",
+      "basis": [],
+      "reason": null
+    },
+    {
+      "action": "add",
+      "record": "93103fc2-6fb9-4de8-81fc-e3bf82f7974d",
+      "standing_from": null,
+      "standing_to": "rejected",
+      "basis": [
+        "c9b232f8-8cde-4231-befa-c732ffbf2e2f"
+      ],
+      "reason": null
+    },
+    {
+      "action": "add",
+      "record": "5b22c541-6ed2-4330-a74e-616fc5d0ad22",
+      "standing_from": null,
+      "standing_to": "rejected",
+      "basis": [
+        "9c5eb0b4-4c78-4e0f-a282-50096b9233d5"
+      ],
+      "reason": null
+    },
+    {
+      "action": "add",
+      "record": "3e2907a2-3ac6-40ac-8787-2cbec48035e6",
+      "standing_from": null,
+      "standing_to": "open",
+      "basis": [],
+      "reason": null
+    },
+    {
+      "action": "add",
+      "record": "0a796585-d797-476c-8756-f76f31b20f6c",
+      "standing_from": null,
+      "standing_to": "rejected",
+      "basis": [
+        "b052c53e-b476-4aaf-bc04-09ed2c369219"
+      ],
+      "reason": null
+    },
+    {
+      "action": "add",
+      "record": "21a56408-34d9-4508-b261-2ae3146a2deb",
+      "standing_from": null,
+      "standing_to": "open",
+      "basis": [],
+      "reason": null
+    },
+    {
+      "action": "add",
+      "record": "ea4beaba-c257-4a92-ac33-958f604d9014",
+      "standing_from": null,
+      "standing_to": "open",
+      "basis": [],
+      "reason": null
+    },
+    {
+      "action": "add",
+      "record": "564bb0ad-05b3-4d56-acd0-21cf7b6aa356",
+      "standing_from": null,
+      "standing_to": "open",
+      "basis": [],
+      "reason": null
+    },
+    {
+      "action": "add",
+      "record": "c8256037-4964-488c-8092-9d20671c7956",
+      "standing_from": null,
+      "standing_to": "open",
+      "basis": [],
+      "reason": null
+    },
+    {
+      "action": "add",
+      "record": "e0a7a845-367c-4fd4-a192-9d7fcba2ad17",
+      "standing_from": null,
+      "standing_to": "open",
+      "basis": [],
+      "reason": null
+    },
+    {
+      "action": "add",
+      "record": "1339a6f9-c248-48ae-9d20-6bee31205fd5",
+      "standing_from": null,
+      "standing_to": "open",
+      "basis": [],
+      "reason": null
+    },
+    {
+      "action": "add",
+      "record": "3e70d55a-1eed-454a-b2f2-0f60bf60bbf4",
+      "standing_from": null,
+      "standing_to": "open",
+      "basis": [],
+      "reason": null
+    },
+    {
+      "action": "add",
+      "record": "2ae719dc-ee1a-4bce-995b-c3d639460998",
+      "standing_from": null,
+      "standing_to": "open",
+      "basis": [],
+      "reason": null
+    },
+    {
+      "action": "add",
+      "record": "6808735b-1c84-4d6e-bb50-1369f0df0a3d",
+      "standing_from": null,
+      "standing_to": "open",
+      "basis": [],
+      "reason": null
+    },
+    {
+      "action": "add",
+      "record": "db7bd169-ece2-49e6-b137-6522acd6d5f1",
+      "standing_from": null,
+      "standing_to": "open",
+      "basis": [],
+      "reason": null
+    },
+    {
+      "action": "add",
+      "record": "d928fe2f-5025-40d9-b46c-b5678afd852f",
+      "standing_from": null,
+      "standing_to": "open",
+      "basis": [],
+      "reason": null
+    },
+    {
+      "action": "add",
+      "record": "44d4f3dd-3ac3-40c2-a67b-5504b19b9f37",
+      "standing_from": null,
+      "standing_to": "open",
+      "basis": [],
+      "reason": null
+    },
+    {
+      "action": "add",
+      "record": "28a7f4cf-d085-4b0f-83ef-de9c78801ad2",
+      "standing_from": null,
+      "standing_to": "open",
+      "basis": [],
+      "reason": null
+    },
+    {
+      "action": "add",
+      "record": "a08c9f9b-f063-4a7c-9264-c828cd3f73ba",
+      "standing_from": null,
+      "standing_to": "open",
+      "basis": [],
+      "reason": null
+    },
+    {
+      "action": "add",
+      "record": "4d2ee1ba-121f-4479-9ccd-779ba319b378",
+      "standing_from": null,
+      "standing_to": "open",
+      "basis": [],
+      "reason": null
+    },
+    {
+      "action": "add",
+      "record": "4486ba43-520c-4178-be46-72e2f11f1fbb",
+      "standing_from": null,
+      "standing_to": "open",
+      "basis": [],
+      "reason": null
+    },
+    {
+      "action": "add",
+      "record": "483acd8a-eb6e-488a-ab53-9750bccfdb97",
+      "standing_from": null,
+      "standing_to": "open",
+      "basis": [],
+      "reason": null
+    },
+    {
+      "action": "add",
+      "record": "8f838606-68e1-4cfd-95f2-4a5505f0f49a",
+      "standing_from": null,
+      "standing_to": "open",
+      "basis": [],
+      "reason": null
+    },
+    {
+      "action": "add",
+      "record": "cb502bcb-4691-4fda-a1a9-8c5fba295ac7",
+      "standing_from": null,
+      "standing_to": "open",
+      "basis": [],
+      "reason": null
+    },
+    {
+      "action": "add",
+      "record": "73a80445-df84-4a85-bd43-8b67b20735c5",
+      "standing_from": null,
+      "standing_to": "open",
+      "basis": [],
+      "reason": null
+    },
+    {
+      "action": "add",
+      "record": "3d53be2b-0b3a-4ffc-b9dc-45d5f147532d",
+      "standing_from": null,
+      "standing_to": "open",
+      "basis": [],
+      "reason": null
+    },
+    {
+      "action": "add",
+      "record": "a00fab25-fd9f-4f8d-8d69-563ca27ac1e6",
+      "standing_from": null,
+      "standing_to": "open",
+      "basis": [],
+      "reason": null
+    },
+    {
+      "action": "add",
+      "record": "40e08f46-97cb-464d-8c0d-0a947fa95e07",
+      "standing_from": null,
+      "standing_to": "rejected",
+      "basis": [
+        "0767ccd7-516c-4f49-9adf-3584f9b75b51"
+      ],
+      "reason": null
+    },
+    {
+      "action": "add",
+      "record": "49a5e908-89c1-42bb-8687-7eb302139351",
+      "standing_from": null,
+      "standing_to": "open",
+      "basis": [],
+      "reason": null
+    },
+    {
+      "action": "add",
+      "record": "a6ae4c7c-8956-4ca1-86b4-02c1c21b62da",
+      "standing_from": null,
+      "standing_to": "open",
+      "basis": [],
+      "reason": null
+    },
+    {
+      "action": "add",
+      "record": "bca3c40a-6383-487a-8221-58d89ecf742e",
+      "standing_from": null,
+      "standing_to": "open",
+      "basis": [],
+      "reason": null
+    },
+    {
+      "action": "add",
+      "record": "160f54e2-b967-45a4-81cc-12e4d72dff98",
+      "standing_from": null,
+      "standing_to": "open",
+      "basis": [],
+      "reason": null
+    },
+    {
+      "action": "add",
+      "record": "dd27be01-9601-44eb-919f-dcba22222b35",
+      "standing_from": null,
+      "standing_to": "open",
+      "basis": [],
+      "reason": null
+    },
+    {
+      "action": "add",
+      "record": "d3d7f66e-ebe9-4052-8159-b6157d578e64",
+      "standing_from": null,
+      "standing_to": "open",
+      "basis": [],
+      "reason": null
+    },
+    {
+      "action": "add",
+      "record": "11fc7de2-1f1b-4db4-8cbd-44522dc68c27",
+      "standing_from": null,
+      "standing_to": "open",
+      "basis": [],
+      "reason": null
+    },
+    {
+      "action": "add",
+      "record": "eedb106f-2b93-44fd-81e9-fb652fac6bbb",
+      "standing_from": null,
+      "standing_to": "open",
+      "basis": [],
+      "reason": null
+    },
+    {
+      "action": "add",
+      "record": "5ff71235-7d84-4a97-b862-4ec02db92222",
+      "standing_from": null,
+      "standing_to": "open",
+      "basis": [],
+      "reason": null
+    },
+    {
+      "action": "add",
+      "record": "6ed6bd6a-7bf3-40f5-b4bf-02bc288964cd",
+      "standing_from": null,
+      "standing_to": "open",
+      "basis": [],
+      "reason": null
+    },
+    {
+      "action": "add",
+      "record": "91851331-c4e5-44a6-973d-e2667a5dea33",
+      "standing_from": null,
+      "standing_to": "open",
+      "basis": [],
+      "reason": null
+    },
+    {
+      "action": "add",
+      "record": "26463c69-41ce-4cc7-9022-2bb49f4ec412",
+      "standing_from": null,
+      "standing_to": "open",
+      "basis": [],
+      "reason": null
+    },
+    {
+      "action": "add",
+      "record": "3ac4452f-b9e4-4435-b597-8ee48756b2e5",
+      "standing_from": null,
+      "standing_to": "open",
+      "basis": [],
+      "reason": null
+    },
+    {
+      "action": "add",
+      "record": "6190f766-d982-468b-890e-876904c9a242",
+      "standing_from": null,
+      "standing_to": "open",
+      "basis": [],
+      "reason": null
+    },
+    {
+      "action": "add",
+      "record": "aba670f8-c038-4880-93a5-d48b1be9bf27",
+      "standing_from": null,
+      "standing_to": "open",
+      "basis": [],
+      "reason": null
+    },
+    {
+      "action": "add",
+      "record": "3c1cd99c-2306-4866-948e-fad9205cb29b",
+      "standing_from": null,
+      "standing_to": "open",
+      "basis": [],
+      "reason": null
+    },
+    {
+      "action": "add",
+      "record": "15c56cff-d23d-415e-ada4-9f5e385318e0",
+      "standing_from": null,
+      "standing_to": "open",
+      "basis": [],
+      "reason": null
+    },
+    {
+      "action": "add",
+      "record": "91f36ce6-a6cf-40d6-b9f3-e580eb54c343",
+      "standing_from": null,
+      "standing_to": "open",
+      "basis": [],
+      "reason": null
+    },
+    {
+      "action": "add",
+      "record": "a86e349b-1ca8-4505-bf6d-d669b48fe6f9",
+      "standing_from": null,
+      "standing_to": "open",
+      "basis": [],
+      "reason": null
+    },
+    {
+      "action": "add",
+      "record": "9e4a60eb-5d4f-4ab6-9383-dbb33484a785",
+      "standing_from": null,
+      "standing_to": "open",
+      "basis": [],
+      "reason": null
+    },
+    {
+      "action": "add",
+      "record": "51801b62-4cd1-47d9-b395-28df7310af45",
+      "standing_from": null,
+      "standing_to": "open",
+      "basis": [],
+      "reason": null
+    },
+    {
+      "action": "add",
+      "record": "203adeef-1b47-402b-befc-609a0ee5797e",
+      "standing_from": null,
+      "standing_to": "rejected",
+      "basis": [
+        "cd0ba09e-959d-4c23-98a9-49c471e0a290"
+      ],
+      "reason": null
+    },
+    {
+      "action": "add",
+      "record": "713cce03-ba86-4e40-b649-f38a90753e0b",
+      "standing_from": null,
+      "standing_to": "rejected",
+      "basis": [
+        "f88c2a83-ab80-4c49-9f42-1d6c46ae2240"
+      ],
+      "reason": null
+    },
+    {
+      "action": "add",
+      "record": "06a2dc94-8794-4946-bbe8-332c59469672",
+      "standing_from": null,
+      "standing_to": "rejected",
+      "basis": [
+        "c0af77a8-8609-4a3a-a4a2-6b01bb095253"
+      ],
+      "reason": null
+    },
+    {
+      "action": "add",
+      "record": "793fdce2-4b15-4667-a942-4988b40318d1",
+      "standing_from": null,
+      "standing_to": "rejected",
+      "basis": [
+        "21d6da4a-3102-42cd-b1e6-6a38722b9c9e"
+      ],
+      "reason": null
+    },
+    {
+      "action": "add",
+      "record": "a8e7e827-83a8-40c3-b6a1-d3f963773aa3",
+      "standing_from": null,
+      "standing_to": "rejected",
+      "basis": [
+        "8e723921-a668-4faa-b1b2-bf0221d161cb"
+      ],
+      "reason": null
+    },
+    {
+      "action": "add",
+      "record": "2fb2280d-0ae1-4eea-b3f9-05710909abd9",
+      "standing_from": null,
+      "standing_to": "rejected",
+      "basis": [
+        "021bef5d-3dcf-48db-bb2f-71507af2d906"
+      ],
+      "reason": null
+    },
+    {
+      "action": "add",
+      "record": "20d920cd-d92c-499f-a346-bed6ded4a551",
+      "standing_from": null,
+      "standing_to": "rejected",
+      "basis": [
+        "bfd36374-ea4a-4990-aea0-09603a010723"
+      ],
+      "reason": null
+    },
+    {
+      "action": "add",
+      "record": "d3ec7822-68df-4a53-9893-edb9ff2d5920",
+      "standing_from": null,
+      "standing_to": "rejected",
+      "basis": [
+        "f26d0947-16bb-4128-82c4-ae91f97561c5"
+      ],
+      "reason": null
+    },
+    {
+      "action": "add",
+      "record": "002920cb-a310-4f7a-bd36-71d173519ecf",
+      "standing_from": null,
+      "standing_to": "rejected",
+      "basis": [
+        "d52b94ab-d1b6-4ec3-8c2d-2f6755719702"
+      ],
+      "reason": null
+    },
+    {
+      "action": "add",
+      "record": "f5d7e773-1999-4b56-bf42-6f31ed959bd7",
+      "standing_from": null,
+      "standing_to": "rejected",
+      "basis": [
+        "cb43ac8d-a5f4-42b5-a867-ff6288f8c1c6"
+      ],
+      "reason": null
+    },
+    {
+      "action": "add",
+      "record": "2b85d251-94e9-4745-8008-2fb888c36d0e",
+      "standing_from": null,
+      "standing_to": "rejected",
+      "basis": [
+        "4cc1e738-2dc9-444d-a90f-0b21885c10e3"
+      ],
+      "reason": null
+    },
+    {
+      "action": "add",
+      "record": "daa77c12-9a16-4a72-8c90-69860119f522",
+      "standing_from": null,
+      "standing_to": null,
+      "basis": [],
+      "reason": null
+    },
+    {
+      "action": "add",
+      "record": "1c98b1a2-ec78-40e7-a2df-7f31c97c5248",
+      "standing_from": null,
+      "standing_to": null,
+      "basis": [],
+      "reason": null
+    },
+    {
+      "action": "add",
+      "record": "83df7cdf-371b-443f-baea-e375cbd4ce6c",
+      "standing_from": null,
+      "standing_to": null,
+      "basis": [],
+      "reason": null
+    },
+    {
+      "action": "add",
+      "record": "c25164d1-c90a-4bc4-a1a4-e9699bcefce4",
+      "standing_from": null,
+      "standing_to": null,
+      "basis": [],
+      "reason": null
+    },
+    {
+      "action": "add",
+      "record": "145affdb-7e11-44e0-8721-b75eab8b5e3c",
+      "standing_from": null,
+      "standing_to": null,
+      "basis": [],
+      "reason": null
+    },
+    {
+      "action": "add",
+      "record": "cdf4f9ad-2d0a-4d4c-99a3-a993a0615314",
+      "standing_from": null,
+      "standing_to": null,
+      "basis": [],
+      "reason": null
+    },
+    {
+      "action": "add",
+      "record": "77249635-46e9-4a22-ab49-a090145c2283",
+      "standing_from": null,
+      "standing_to": null,
+      "basis": [],
+      "reason": null
+    },
+    {
+      "action": "add",
+      "record": "ad7f10f5-66ee-41eb-b172-ca03ce8eeb43",
+      "standing_from": null,
+      "standing_to": null,
+      "basis": [],
+      "reason": null
+    },
+    {
+      "action": "add",
+      "record": "6a756eb6-2fd4-4d23-a821-0ea793e98776",
+      "standing_from": null,
+      "standing_to": null,
+      "basis": [],
+      "reason": null
+    },
+    {
+      "action": "add",
+      "record": "a71cd743-c051-41b8-a7d2-5e2d5034c119",
+      "standing_from": null,
+      "standing_to": null,
+      "basis": [],
+      "reason": null
+    },
+    {
+      "action": "add",
+      "record": "407e8db6-3c3e-4fd4-8062-f4530c7146c2",
+      "standing_from": null,
+      "standing_to": null,
+      "basis": [],
+      "reason": null
+    },
+    {
+      "action": "add",
+      "record": "ee948976-e21d-484b-9d52-0cf21e0eac9d",
+      "standing_from": null,
+      "standing_to": null,
+      "basis": [],
+      "reason": null
+    },
+    {
+      "action": "add",
+      "record": "b2b689ed-a2c0-41ae-83ac-b0761f33ea5f",
+      "standing_from": null,
+      "standing_to": null,
+      "basis": [],
+      "reason": null
+    },
+    {
+      "action": "add",
+      "record": "3f11b69d-b25e-4c22-9d97-ace202028333",
+      "standing_from": null,
+      "standing_to": null,
+      "basis": [],
+      "reason": null
+    },
+    {
+      "action": "add",
+      "record": "df830006-f29e-4475-9ec4-72ad98995867",
+      "standing_from": null,
+      "standing_to": null,
+      "basis": [],
+      "reason": null
+    },
+    {
+      "action": "add",
+      "record": "476c26aa-b656-4a89-8c5c-38f0a0f99c0d",
+      "standing_from": null,
+      "standing_to": null,
+      "basis": [],
+      "reason": null
+    },
+    {
+      "action": "add",
+      "record": "5ad0243b-2aa7-462f-b646-0d2727aa332a",
+      "standing_from": null,
+      "standing_to": null,
+      "basis": [],
+      "reason": null
+    },
+    {
+      "action": "add",
+      "record": "f4a60148-50c1-4fd7-bfe1-6c2c78caa056",
+      "standing_from": null,
+      "standing_to": null,
+      "basis": [],
+      "reason": null
+    },
+    {
+      "action": "add",
+      "record": "cdee198a-c561-42d7-a7c4-dff0df33d2ca",
+      "standing_from": null,
+      "standing_to": null,
+      "basis": [],
+      "reason": null
+    },
+    {
+      "action": "add",
+      "record": "68299aef-6be2-41ef-815e-dcc2ffaedd5a",
+      "standing_from": null,
+      "standing_to": null,
+      "basis": [],
+      "reason": null
+    },
+    {
+      "action": "add",
+      "record": "982d734b-e327-47fd-aa79-05304a41885e",
+      "standing_from": null,
+      "standing_to": null,
+      "basis": [],
+      "reason": null
+    },
+    {
+      "action": "add",
+      "record": "eeaafccf-8194-4c20-8cc4-5a183ae61aaf",
+      "standing_from": null,
+      "standing_to": null,
+      "basis": [],
+      "reason": null
+    },
+    {
+      "action": "add",
+      "record": "a697f53c-6d36-4c9c-9087-d975a871c9bf",
+      "standing_from": null,
+      "standing_to": null,
+      "basis": [],
+      "reason": null
+    },
+    {
+      "action": "add",
+      "record": "f3fe29b3-0d1b-4950-8c9f-44c9551e5f38",
+      "standing_from": null,
+      "standing_to": null,
+      "basis": [],
+      "reason": null
+    },
+    {
+      "action": "add",
+      "record": "f2758e49-0395-439a-be9a-c82633c95b08",
+      "standing_from": null,
+      "standing_to": null,
+      "basis": [],
+      "reason": null
+    },
+    {
+      "action": "add",
+      "record": "36d2ff87-5e33-45ab-b0da-9cda6a5b4b8d",
+      "standing_from": null,
+      "standing_to": null,
+      "basis": [],
+      "reason": null
+    },
+    {
+      "action": "add",
+      "record": "3859ddcf-eff8-420b-96ad-baae0b537e27",
+      "standing_from": null,
+      "standing_to": null,
+      "basis": [],
+      "reason": null
+    },
+    {
+      "action": "add",
+      "record": "33db8d61-d8b2-447c-b7d4-7bda59c746c8",
+      "standing_from": null,
+      "standing_to": null,
+      "basis": [],
+      "reason": null
+    },
+    {
+      "action": "add",
+      "record": "7332a20d-53d8-4c79-ab11-11b0d33ab361",
+      "standing_from": null,
+      "standing_to": null,
+      "basis": [],
+      "reason": null
+    },
+    {
+      "action": "add",
+      "record": "c4596e4d-db3e-4768-9c2b-7b25a3bf3d4d",
+      "standing_from": null,
+      "standing_to": null,
+      "basis": [],
+      "reason": null
+    },
+    {
+      "action": "add",
+      "record": "feae091e-958c-4115-b80c-6f13f3ef50c6",
+      "standing_from": null,
+      "standing_to": null,
+      "basis": [],
+      "reason": null
+    },
+    {
+      "action": "add",
+      "record": "7c6b483b-2fee-4700-9f33-e8f8d51afdd2",
+      "standing_from": null,
+      "standing_to": null,
+      "basis": [],
+      "reason": null
+    },
+    {
+      "action": "add",
+      "record": "a2c93e6b-c94e-462c-935b-35f79411cfc3",
+      "standing_from": null,
+      "standing_to": null,
+      "basis": [],
+      "reason": null
+    },
+    {
+      "action": "add",
+      "record": "ab2cea59-99fc-48e1-874b-08c49ec654b8",
+      "standing_from": null,
+      "standing_to": null,
+      "basis": [],
+      "reason": null
+    },
+    {
+      "action": "add",
+      "record": "3d082198-a536-4d26-a82e-e7ab87a589d4",
+      "standing_from": null,
+      "standing_to": null,
+      "basis": [],
+      "reason": null
+    },
+    {
+      "action": "add",
+      "record": "8b714a99-c25c-42bc-a73a-6add3c61e8e3",
+      "standing_from": null,
+      "standing_to": null,
+      "basis": [],
+      "reason": null
+    },
+    {
+      "action": "add",
+      "record": "57e0ba3e-eb2e-4919-8d9f-c564c7ba6157",
+      "standing_from": null,
+      "standing_to": null,
+      "basis": [],
+      "reason": null
+    },
+    {
+      "action": "add",
+      "record": "89e5de48-3193-4f0f-b735-76d479879741",
+      "standing_from": null,
+      "standing_to": null,
+      "basis": [],
+      "reason": null
+    },
+    {
+      "action": "add",
+      "record": "ca308caa-5d3b-4de7-9f44-0e2c00ecc81b",
+      "standing_from": null,
+      "standing_to": null,
+      "basis": [],
+      "reason": null
+    },
+    {
+      "action": "add",
+      "record": "f75cf914-0992-4661-8c82-f14dfc905c4d",
+      "standing_from": null,
+      "standing_to": null,
+      "basis": [],
+      "reason": null
+    },
+    {
+      "action": "add",
+      "record": "3a927b7b-64d9-493e-8b6e-a519ef8fa1ca",
+      "standing_from": null,
+      "standing_to": null,
+      "basis": [],
+      "reason": null
+    },
+    {
+      "action": "add",
+      "record": "36cf399c-9f2a-4ff4-ad67-301bf66c91e5",
+      "standing_from": null,
+      "standing_to": null,
+      "basis": [],
+      "reason": null
+    },
+    {
+      "action": "add",
+      "record": "a4c6024e-cbbe-40a4-af84-d7b57a743dc9",
+      "standing_from": null,
+      "standing_to": null,
+      "basis": [],
+      "reason": null
+    },
+    {
+      "action": "add",
+      "record": "a2854681-555e-429b-bde9-c34d1febf0f5",
+      "standing_from": null,
+      "standing_to": null,
+      "basis": [],
+      "reason": null
+    },
+    {
+      "action": "add",
+      "record": "df4b49ab-b727-45df-b9f0-04cb7fb253dd",
+      "standing_from": null,
+      "standing_to": null,
+      "basis": [],
+      "reason": null
+    },
+    {
+      "action": "add",
+      "record": "f4efd9ee-a397-4744-8397-26be599fce8c",
+      "standing_from": null,
+      "standing_to": null,
+      "basis": [],
+      "reason": null
+    },
+    {
+      "action": "add",
+      "record": "6f700602-a894-4f4a-bfe6-5a38def46de8",
+      "standing_from": null,
+      "standing_to": null,
+      "basis": [],
+      "reason": null
+    },
+    {
+      "action": "add",
+      "record": "3f041ebf-7487-4630-befd-a0f98534523f",
+      "standing_from": null,
+      "standing_to": null,
+      "basis": [],
+      "reason": null
+    },
+    {
+      "action": "add",
+      "record": "1ac005cd-37f8-4f20-b57d-d642cdc6c3f6",
+      "standing_from": null,
+      "standing_to": null,
+      "basis": [],
+      "reason": null
+    },
+    {
+      "action": "add",
+      "record": "6b5611b5-8b44-4fad-93ca-842e5e86d9bf",
+      "standing_from": null,
+      "standing_to": null,
+      "basis": [],
+      "reason": null
+    },
+    {
+      "action": "add",
+      "record": "249ec442-a889-4c23-9346-098fdb6afc36",
+      "standing_from": null,
+      "standing_to": null,
+      "basis": [],
+      "reason": null
+    },
+    {
+      "action": "add",
+      "record": "fdee3950-5830-4d0f-b8b8-149897b1d46d",
+      "standing_from": null,
+      "standing_to": null,
+      "basis": [],
+      "reason": null
+    },
+    {
+      "action": "add",
+      "record": "f54a8b11-fbc1-4819-9d6a-1350905dc678",
+      "standing_from": null,
+      "standing_to": null,
+      "basis": [],
+      "reason": null
+    },
+    {
+      "action": "add",
+      "record": "9bae42cd-7ae0-4f11-b5ce-b62dd429cf86",
+      "standing_from": null,
+      "standing_to": null,
+      "basis": [],
+      "reason": null
+    },
+    {
+      "action": "add",
+      "record": "b0e70e17-7900-4295-8930-726611cd5676",
+      "standing_from": null,
+      "standing_to": null,
+      "basis": [],
+      "reason": null
+    },
+    {
+      "action": "add",
+      "record": "f8991582-918c-4220-a701-09507cc1b0af",
+      "standing_from": null,
+      "standing_to": null,
+      "basis": [],
+      "reason": null
+    },
+    {
+      "action": "add",
+      "record": "6e27fd97-83b8-4670-834b-9ab0cffdc750",
+      "standing_from": null,
+      "standing_to": null,
+      "basis": [],
+      "reason": null
+    },
+    {
+      "action": "add",
+      "record": "5b4f5a61-fa2e-40dd-b039-ed8b1536717d",
+      "standing_from": null,
+      "standing_to": null,
+      "basis": [],
+      "reason": null
+    },
+    {
+      "action": "add",
+      "record": "66bd416e-4e62-4efb-9c82-c4e967dce418",
+      "standing_from": null,
+      "standing_to": null,
+      "basis": [],
+      "reason": null
+    },
+    {
+      "action": "add",
+      "record": "11999617-8fc0-46ef-9aca-8cf54141ec15",
+      "standing_from": null,
+      "standing_to": null,
+      "basis": [],
+      "reason": null
+    },
+    {
+      "action": "add",
+      "record": "2123aa2c-2c7c-415b-9048-9edd6a14786e",
+      "standing_from": null,
+      "standing_to": null,
+      "basis": [],
+      "reason": null
+    },
+    {
+      "action": "add",
+      "record": "6e5ea9f6-22b1-4513-b31f-d1fc8b248bcb",
+      "standing_from": null,
+      "standing_to": null,
+      "basis": [],
+      "reason": null
+    },
+    {
+      "action": "add",
+      "record": "b0cf95c7-d0dd-46cf-9dcc-3e2cfe7c56f8",
+      "standing_from": null,
+      "standing_to": null,
+      "basis": [],
+      "reason": null
+    },
+    {
+      "action": "add",
+      "record": "9e567aa8-6d76-49cd-8090-e6d46b24200d",
+      "standing_from": null,
+      "standing_to": null,
+      "basis": [],
+      "reason": null
+    },
+    {
+      "action": "add",
+      "record": "a5ac8fb3-172c-4940-9362-943afa62bb09",
+      "standing_from": null,
+      "standing_to": null,
+      "basis": [],
+      "reason": null
+    },
+    {
+      "action": "add",
+      "record": "b7e0b92b-7885-4067-bad1-832131738ce6",
+      "standing_from": null,
+      "standing_to": null,
+      "basis": [],
+      "reason": null
+    },
+    {
+      "action": "add",
+      "record": "64542063-af88-47e7-a781-ed62f34da586",
+      "standing_from": null,
+      "standing_to": null,
+      "basis": [],
+      "reason": null
+    },
+    {
+      "action": "add",
+      "record": "19bfc285-ad66-450e-97e3-18bad106fa1a",
+      "standing_from": null,
+      "standing_to": null,
+      "basis": [],
+      "reason": null
+    },
+    {
+      "action": "add",
+      "record": "772d886c-e074-49e5-bcd9-25ae49bbaefc",
+      "standing_from": null,
+      "standing_to": null,
+      "basis": [],
+      "reason": null
+    },
+    {
+      "action": "add",
+      "record": "bac7e932-319d-438d-91a2-1981e44c27f6",
+      "standing_from": null,
+      "standing_to": null,
+      "basis": [],
+      "reason": null
+    },
+    {
+      "action": "add",
+      "record": "c492b8cb-e229-4803-a670-b5a853b46034",
+      "standing_from": null,
+      "standing_to": null,
+      "basis": [],
+      "reason": null
+    },
+    {
+      "action": "add",
+      "record": "3d40d745-0f3e-4173-b64e-ca85c268c703",
+      "standing_from": null,
+      "standing_to": null,
+      "basis": [],
+      "reason": null
+    },
+    {
+      "action": "add",
+      "record": "1a34fe06-7389-4d23-b8fa-1b5be605610f",
+      "standing_from": null,
+      "standing_to": null,
+      "basis": [],
+      "reason": null
+    },
+    {
+      "action": "add",
+      "record": "a6904370-e298-4fd8-89f0-6ba4b9b1b75a",
+      "standing_from": null,
+      "standing_to": null,
+      "basis": [],
+      "reason": null
+    },
+    {
+      "action": "add",
+      "record": "d8e1253f-02fe-422b-94fb-36bf541372bf",
+      "standing_from": null,
+      "standing_to": null,
+      "basis": [],
+      "reason": null
+    },
+    {
+      "action": "add",
+      "record": "c48d5b8d-130d-4b71-b012-ec4a04fca3fa",
+      "standing_from": null,
+      "standing_to": null,
+      "basis": [],
+      "reason": null
+    },
+    {
+      "action": "add",
+      "record": "e6e78cc4-8277-4560-a0f4-1450cbfd4e6c",
+      "standing_from": null,
+      "standing_to": null,
+      "basis": [],
+      "reason": null
+    },
+    {
+      "action": "add",
+      "record": "922e93e6-3665-4f52-8401-0f6246ee0d18",
+      "standing_from": null,
+      "standing_to": null,
+      "basis": [],
+      "reason": null
+    },
+    {
+      "action": "add",
+      "record": "414b012e-65a2-4fd8-b1aa-92d662bd1491",
+      "standing_from": null,
+      "standing_to": null,
+      "basis": [],
+      "reason": null
+    },
+    {
+      "action": "add",
+      "record": "faf90efa-15e2-4ba8-9d16-9f489d9db126",
+      "standing_from": null,
+      "standing_to": null,
+      "basis": [],
+      "reason": null
+    },
+    {
+      "action": "add",
+      "record": "c575513d-3b76-4958-90df-2248e328a814",
+      "standing_from": null,
+      "standing_to": null,
+      "basis": [],
+      "reason": null
+    },
+    {
+      "action": "add",
+      "record": "1abda3d0-7bf1-43a3-bd7b-b2c93099f553",
+      "standing_from": null,
+      "standing_to": null,
+      "basis": [],
+      "reason": null
+    },
+    {
+      "action": "add",
+      "record": "2fa0d107-5396-402d-aac4-3fe73d9eb779",
+      "standing_from": null,
+      "standing_to": null,
+      "basis": [],
+      "reason": null
+    },
+    {
+      "action": "add",
+      "record": "647c8ed7-155c-4dbc-a07f-b0dfc459bdaf",
+      "standing_from": null,
+      "standing_to": null,
+      "basis": [],
+      "reason": null
+    },
+    {
+      "action": "add",
+      "record": "1a76a354-f6f4-4701-bfff-91a1c285daa3",
+      "standing_from": null,
+      "standing_to": null,
+      "basis": [],
+      "reason": null
+    },
+    {
+      "action": "add",
+      "record": "11866f45-571c-45aa-8584-9e2a18a3518b",
+      "standing_from": null,
+      "standing_to": null,
+      "basis": [],
+      "reason": null
+    },
+    {
+      "action": "add",
+      "record": "7e8e4156-380d-418a-bfd0-a475f5604b5c",
+      "standing_from": null,
+      "standing_to": null,
+      "basis": [],
+      "reason": null
+    },
+    {
+      "action": "add",
+      "record": "188636a2-dc49-4df9-9d35-375a9184e6f0",
+      "standing_from": null,
+      "standing_to": null,
+      "basis": [],
+      "reason": null
+    },
+    {
+      "action": "add",
+      "record": "54d8443b-405e-44d1-8d6d-2bfc3e920781",
+      "standing_from": null,
+      "standing_to": null,
+      "basis": [],
+      "reason": null
+    },
+    {
+      "action": "add",
+      "record": "9405cd3b-3382-4a61-886f-8874cfa49ef3",
+      "standing_from": null,
+      "standing_to": null,
+      "basis": [],
+      "reason": null
+    },
+    {
+      "action": "add",
+      "record": "c9b232f8-8cde-4231-befa-c732ffbf2e2f",
+      "standing_from": null,
+      "standing_to": null,
+      "basis": [],
+      "reason": null
+    },
+    {
+      "action": "add",
+      "record": "9c5eb0b4-4c78-4e0f-a282-50096b9233d5",
+      "standing_from": null,
+      "standing_to": null,
+      "basis": [],
+      "reason": null
+    },
+    {
+      "action": "add",
+      "record": "9b5751fe-9295-4474-a48f-4898b19de862",
+      "standing_from": null,
+      "standing_to": null,
+      "basis": [],
+      "reason": null
+    },
+    {
+      "action": "add",
+      "record": "955eae45-ac8e-4d85-be40-79e2d77119ee",
+      "standing_from": null,
+      "standing_to": null,
+      "basis": [],
+      "reason": null
+    },
+    {
+      "action": "add",
+      "record": "c6e1f6d9-eaee-4ad3-b98e-d7e746c79580",
+      "standing_from": null,
+      "standing_to": null,
+      "basis": [],
+      "reason": null
+    },
+    {
+      "action": "add",
+      "record": "b052c53e-b476-4aaf-bc04-09ed2c369219",
+      "standing_from": null,
+      "standing_to": null,
+      "basis": [],
+      "reason": null
+    },
+    {
+      "action": "add",
+      "record": "388bad66-8893-47d9-8fee-e950b38f48f7",
+      "standing_from": null,
+      "standing_to": null,
+      "basis": [],
+      "reason": null
+    },
+    {
+      "action": "add",
+      "record": "cf8111e7-59dc-4f01-a07a-527562d48506",
+      "standing_from": null,
+      "standing_to": null,
+      "basis": [],
+      "reason": null
+    },
+    {
+      "action": "add",
+      "record": "696a247a-f51b-4db2-92c1-b5e30015a7e0",
+      "standing_from": null,
+      "standing_to": null,
+      "basis": [],
+      "reason": null
+    },
+    {
+      "action": "add",
+      "record": "8d0cd348-0c3b-4e43-8a6a-5e1f039a2993",
+      "standing_from": null,
+      "standing_to": null,
+      "basis": [],
+      "reason": null
+    },
+    {
+      "action": "add",
+      "record": "a1275792-7f0d-4532-8a59-a588509d7587",
+      "standing_from": null,
+      "standing_to": null,
+      "basis": [],
+      "reason": null
+    },
+    {
+      "action": "add",
+      "record": "a7325be3-23df-4e58-9217-8640ff27e42d",
+      "standing_from": null,
+      "standing_to": null,
+      "basis": [],
+      "reason": null
+    },
+    {
+      "action": "add",
+      "record": "f3282385-e333-497d-9240-6758ab548842",
+      "standing_from": null,
+      "standing_to": null,
+      "basis": [],
+      "reason": null
+    },
+    {
+      "action": "add",
+      "record": "290db519-f31b-489a-aefd-a09fdf672022",
+      "standing_from": null,
+      "standing_to": null,
+      "basis": [],
+      "reason": null
+    },
+    {
+      "action": "add",
+      "record": "e9099767-7d22-4a66-8b73-d29800750880",
+      "standing_from": null,
+      "standing_to": null,
+      "basis": [],
+      "reason": null
+    },
+    {
+      "action": "add",
+      "record": "a3799a25-6379-4edb-b885-30833be447cc",
+      "standing_from": null,
+      "standing_to": null,
+      "basis": [],
+      "reason": null
+    },
+    {
+      "action": "add",
+      "record": "f5314d6b-2abd-4efd-9a7a-bc7cbb39e15b",
+      "standing_from": null,
+      "standing_to": null,
+      "basis": [],
+      "reason": null
+    },
+    {
+      "action": "add",
+      "record": "f22b874b-123a-46f5-b78b-df640f12ff82",
+      "standing_from": null,
+      "standing_to": null,
+      "basis": [],
+      "reason": null
+    },
+    {
+      "action": "add",
+      "record": "2e106f77-4cd1-4183-a13f-f1a8630a61cf",
+      "standing_from": null,
+      "standing_to": null,
+      "basis": [],
+      "reason": null
+    },
+    {
+      "action": "add",
+      "record": "029ead1c-5ba6-415b-a676-0d03bcb37fe6",
+      "standing_from": null,
+      "standing_to": null,
+      "basis": [],
+      "reason": null
+    },
+    {
+      "action": "add",
+      "record": "9487baa5-4e47-4436-ba68-bc1414cef085",
+      "standing_from": null,
+      "standing_to": null,
+      "basis": [],
+      "reason": null
+    },
+    {
+      "action": "add",
+      "record": "6bb884b8-9f9e-4720-b227-597b60a55e73",
+      "standing_from": null,
+      "standing_to": null,
+      "basis": [],
+      "reason": null
+    },
+    {
+      "action": "add",
+      "record": "a28cce99-1e0d-4858-bbdc-385a8b26004d",
+      "standing_from": null,
+      "standing_to": null,
+      "basis": [],
+      "reason": null
+    },
+    {
+      "action": "add",
+      "record": "33e2ea01-7605-45fa-839d-d7852090302b",
+      "standing_from": null,
+      "standing_to": null,
+      "basis": [],
+      "reason": null
+    },
+    {
+      "action": "add",
+      "record": "a31f3696-b8e2-4e5f-9919-b578b74a9d44",
+      "standing_from": null,
+      "standing_to": null,
+      "basis": [],
+      "reason": null
+    },
+    {
+      "action": "add",
+      "record": "92f3003a-2b97-4f13-ae07-562e3c4a1163",
+      "standing_from": null,
+      "standing_to": null,
+      "basis": [],
+      "reason": null
+    },
+    {
+      "action": "add",
+      "record": "4c8b6736-5a77-4031-a6ac-db8d84d9dda0",
+      "standing_from": null,
+      "standing_to": null,
+      "basis": [],
+      "reason": null
+    },
+    {
+      "action": "add",
+      "record": "4e4aa786-d8bb-4b79-867a-887864e447bf",
+      "standing_from": null,
+      "standing_to": null,
+      "basis": [],
+      "reason": null
+    },
+    {
+      "action": "add",
+      "record": "5f5d67d6-7f0f-48c3-aac2-520f8d4cf27a",
+      "standing_from": null,
+      "standing_to": null,
+      "basis": [],
+      "reason": null
+    },
+    {
+      "action": "add",
+      "record": "806fde33-0780-4bfc-bbb1-9a8285313757",
+      "standing_from": null,
+      "standing_to": null,
+      "basis": [],
+      "reason": null
+    },
+    {
+      "action": "add",
+      "record": "7a9a0e2e-f0d2-4659-a8f4-0596abb0cfc3",
+      "standing_from": null,
+      "standing_to": null,
+      "basis": [],
+      "reason": null
+    },
+    {
+      "action": "add",
+      "record": "319435b8-98d0-4dda-a6a3-88954a8be966",
+      "standing_from": null,
+      "standing_to": null,
+      "basis": [],
+      "reason": null
+    },
+    {
+      "action": "add",
+      "record": "4410443d-8229-4dc9-a79f-56b2d8d715aa",
+      "standing_from": null,
+      "standing_to": null,
+      "basis": [],
+      "reason": null
+    },
+    {
+      "action": "add",
+      "record": "1127ca29-4ff5-4651-878e-ebceb6b8c752",
+      "standing_from": null,
+      "standing_to": null,
+      "basis": [],
+      "reason": null
+    },
+    {
+      "action": "add",
+      "record": "9cf051e4-1520-4bb9-a38f-4c280ade21a7",
+      "standing_from": null,
+      "standing_to": null,
+      "basis": [],
+      "reason": null
+    },
+    {
+      "action": "add",
+      "record": "50ccca0e-5aeb-434c-8116-d7f3ee609f01",
+      "standing_from": null,
+      "standing_to": null,
+      "basis": [],
+      "reason": null
+    },
+    {
+      "action": "add",
+      "record": "0767ccd7-516c-4f49-9adf-3584f9b75b51",
+      "standing_from": null,
+      "standing_to": null,
+      "basis": [],
+      "reason": null
+    },
+    {
+      "action": "add",
+      "record": "7159e136-951a-4b67-8589-2205696626dd",
+      "standing_from": null,
+      "standing_to": null,
+      "basis": [],
+      "reason": null
+    },
+    {
+      "action": "add",
+      "record": "91ee3016-df81-4079-b7db-ad3dd60e44d8",
+      "standing_from": null,
+      "standing_to": null,
+      "basis": [],
+      "reason": null
+    },
+    {
+      "action": "add",
+      "record": "c257a88f-c3c8-4fb9-b341-6ddd9f65cc59",
+      "standing_from": null,
+      "standing_to": null,
+      "basis": [],
+      "reason": null
+    },
+    {
+      "action": "add",
+      "record": "e3eee1b3-509a-4580-8e98-d62437e5a255",
+      "standing_from": null,
+      "standing_to": null,
+      "basis": [],
+      "reason": null
+    },
+    {
+      "action": "add",
+      "record": "f102b41e-ba93-4fc0-b659-fc6ac856d07e",
+      "standing_from": null,
+      "standing_to": null,
+      "basis": [],
+      "reason": null
+    },
+    {
+      "action": "add",
+      "record": "448438a9-9b5d-43a8-8f0e-374d6c0b5e41",
+      "standing_from": null,
+      "standing_to": null,
+      "basis": [],
+      "reason": null
+    },
+    {
+      "action": "add",
+      "record": "63413e9b-c48c-4ce8-a655-1b13406fa286",
+      "standing_from": null,
+      "standing_to": null,
+      "basis": [],
+      "reason": null
+    },
+    {
+      "action": "add",
+      "record": "df041992-2ccb-4083-af85-d0672f83942a",
+      "standing_from": null,
+      "standing_to": null,
+      "basis": [],
+      "reason": null
+    },
+    {
+      "action": "add",
+      "record": "e3bc3295-5879-404d-a90b-8d3b75b4a4fa",
+      "standing_from": null,
+      "standing_to": null,
+      "basis": [],
+      "reason": null
+    },
+    {
+      "action": "add",
+      "record": "8be81f67-729d-4e72-9799-86b183154ca0",
+      "standing_from": null,
+      "standing_to": null,
+      "basis": [],
+      "reason": null
+    },
+    {
+      "action": "add",
+      "record": "55ceff43-e58c-45f9-95e3-7889cd56802d",
+      "standing_from": null,
+      "standing_to": null,
+      "basis": [],
+      "reason": null
+    },
+    {
+      "action": "add",
+      "record": "6cf7b818-bc59-4e93-969f-3e83b57dca8b",
+      "standing_from": null,
+      "standing_to": null,
+      "basis": [],
+      "reason": null
+    },
+    {
+      "action": "add",
+      "record": "29f62577-06b3-465b-ba79-ecf4eafe45d6",
+      "standing_from": null,
+      "standing_to": null,
+      "basis": [],
+      "reason": null
+    },
+    {
+      "action": "add",
+      "record": "bab6623f-0057-4276-81c0-83d24d0d9afd",
+      "standing_from": null,
+      "standing_to": null,
+      "basis": [],
+      "reason": null
+    },
+    {
+      "action": "add",
+      "record": "68cecc7e-8463-4e2c-97ee-4fca7035714d",
+      "standing_from": null,
+      "standing_to": null,
+      "basis": [],
+      "reason": null
+    },
+    {
+      "action": "add",
+      "record": "1231ef6b-66a2-4887-88e6-cbc5e4b17fe8",
+      "standing_from": null,
+      "standing_to": null,
+      "basis": [],
+      "reason": null
+    },
+    {
+      "action": "add",
+      "record": "eabdcfc9-6961-4d00-8c2f-9ef03631ecd1",
+      "standing_from": null,
+      "standing_to": null,
+      "basis": [],
+      "reason": null
+    },
+    {
+      "action": "add",
+      "record": "62b7dad8-a86c-4a7b-ad3d-75b630547a10",
+      "standing_from": null,
+      "standing_to": null,
+      "basis": [],
+      "reason": null
+    },
+    {
+      "action": "add",
+      "record": "cd0ba09e-959d-4c23-98a9-49c471e0a290",
+      "standing_from": null,
+      "standing_to": null,
+      "basis": [],
+      "reason": null
+    },
+    {
+      "action": "add",
+      "record": "f88c2a83-ab80-4c49-9f42-1d6c46ae2240",
+      "standing_from": null,
+      "standing_to": null,
+      "basis": [],
+      "reason": null
+    },
+    {
+      "action": "add",
+      "record": "07bcdb1b-f9af-4481-8ca2-4dfe9ee9e823",
+      "standing_from": null,
+      "standing_to": null,
+      "basis": [],
+      "reason": null
+    },
+    {
+      "action": "add",
+      "record": "c0af77a8-8609-4a3a-a4a2-6b01bb095253",
+      "standing_from": null,
+      "standing_to": null,
+      "basis": [],
+      "reason": null
+    },
+    {
+      "action": "add",
+      "record": "21d6da4a-3102-42cd-b1e6-6a38722b9c9e",
+      "standing_from": null,
+      "standing_to": null,
+      "basis": [],
+      "reason": null
+    },
+    {
+      "action": "add",
+      "record": "8e723921-a668-4faa-b1b2-bf0221d161cb",
+      "standing_from": null,
+      "standing_to": null,
+      "basis": [],
+      "reason": null
+    },
+    {
+      "action": "add",
+      "record": "021bef5d-3dcf-48db-bb2f-71507af2d906",
+      "standing_from": null,
+      "standing_to": null,
+      "basis": [],
+      "reason": null
+    },
+    {
+      "action": "add",
+      "record": "bfd36374-ea4a-4990-aea0-09603a010723",
+      "standing_from": null,
+      "standing_to": null,
+      "basis": [],
+      "reason": null
+    },
+    {
+      "action": "add",
+      "record": "f26d0947-16bb-4128-82c4-ae91f97561c5",
+      "standing_from": null,
+      "standing_to": null,
+      "basis": [],
+      "reason": null
+    },
+    {
+      "action": "add",
+      "record": "d52b94ab-d1b6-4ec3-8c2d-2f6755719702",
+      "standing_from": null,
+      "standing_to": null,
+      "basis": [],
+      "reason": null
+    },
+    {
+      "action": "add",
+      "record": "cb43ac8d-a5f4-42b5-a867-ff6288f8c1c6",
+      "standing_from": null,
+      "standing_to": null,
+      "basis": [],
+      "reason": null
+    },
+    {
+      "action": "add",
+      "record": "4cc1e738-2dc9-444d-a90f-0b21885c10e3",
+      "standing_from": null,
+      "standing_to": null,
+      "basis": [],
+      "reason": null
+    },
+    {
+      "action": "add",
+      "record": "cdf08bd2-da21-46d0-9466-cb1ee44d5a3a",
+      "standing_from": null,
+      "standing_to": null,
+      "basis": [],
+      "reason": null
+    },
+    {
+      "action": "add",
+      "record": "2ca5fd2d-7ed7-42a1-af84-98bf34d77d6e",
+      "standing_from": null,
+      "standing_to": null,
+      "basis": [],
+      "reason": null
+    },
+    {
+      "action": "add",
+      "record": "51a7f3e4-231e-4a3f-9edc-f366fb316588",
+      "standing_from": null,
+      "standing_to": null,
+      "basis": [],
+      "reason": null
+    },
+    {
+      "action": "add",
+      "record": "6fe49a98-314a-4d2e-a2c9-5ba913039d9c",
+      "standing_from": null,
+      "standing_to": null,
+      "basis": [],
+      "reason": null
+    },
+    {
+      "action": "add",
+      "record": "95bf4091-f0f1-4b19-8c29-edf150dadb00",
+      "standing_from": null,
+      "standing_to": null,
+      "basis": [],
+      "reason": null
+    },
+    {
+      "action": "add",
+      "record": "153260a1-6ed7-437e-b003-ff090f14218c",
+      "standing_from": null,
+      "standing_to": null,
+      "basis": [],
+      "reason": null
+    },
+    {
+      "action": "add",
+      "record": "c6ecc88f-4ab0-4d83-8ff6-b24bd6d74c42",
+      "standing_from": null,
+      "standing_to": null,
+      "basis": [],
+      "reason": null
+    },
+    {
+      "action": "add",
+      "record": "bf84571a-b680-4323-83f4-ebe77c3325ad",
+      "standing_from": null,
+      "standing_to": null,
+      "basis": [],
+      "reason": null
+    },
+    {
+      "action": "add",
+      "record": "e48709a9-c8b4-4699-b884-f08bcee27fe9",
+      "standing_from": null,
+      "standing_to": null,
+      "basis": [],
+      "reason": null
+    },
+    {
+      "action": "add",
+      "record": "280a5cc0-6f84-47e3-8127-1a0bad955f34",
+      "standing_from": null,
+      "standing_to": null,
+      "basis": [],
+      "reason": null
+    },
+    {
+      "action": "add",
+      "record": "221f626a-dc5d-40bc-b928-264bbeb0562f",
+      "standing_from": null,
+      "standing_to": null,
+      "basis": [],
+      "reason": null
+    },
+    {
+      "action": "add",
+      "record": "677ba6e0-6bb4-455a-a3e7-bd3232c156ac",
+      "standing_from": null,
+      "standing_to": null,
+      "basis": [],
+      "reason": null
+    },
+    {
+      "action": "add",
+      "record": "482eb077-76cc-413b-abfe-cc4ada6ac074",
+      "standing_from": null,
+      "standing_to": null,
+      "basis": [],
+      "reason": null
+    },
+    {
+      "action": "add",
+      "record": "556b0055-cae6-4ef5-8461-b13c69cd06a8",
+      "standing_from": null,
+      "standing_to": null,
+      "basis": [],
+      "reason": null
+    },
+    {
+      "action": "add",
+      "record": "04edc912-a1b0-4eb5-ac52-a05aa8fb3984",
+      "standing_from": null,
+      "standing_to": null,
+      "basis": [],
+      "reason": null
+    },
+    {
+      "action": "add",
+      "record": "236b6ee6-5256-4ee7-a946-483de471e468",
+      "standing_from": null,
+      "standing_to": null,
+      "basis": [],
+      "reason": null
+    },
+    {
+      "action": "add",
+      "record": "c8733064-2bca-4e4f-ab96-12130468a9ad",
+      "standing_from": null,
+      "standing_to": null,
+      "basis": [],
+      "reason": null
+    },
+    {
+      "action": "add",
+      "record": "84ba16e4-45dd-409a-8e7e-eb9e1afc5251",
+      "standing_from": null,
+      "standing_to": null,
+      "basis": [],
+      "reason": null
+    },
+    {
+      "action": "add",
+      "record": "87e45d40-62e4-4352-b3fe-3dc69ba499eb",
+      "standing_from": null,
+      "standing_to": null,
+      "basis": [],
+      "reason": null
+    },
+    {
+      "action": "add",
+      "record": "d18d270f-6a9d-4734-b264-70853876de1a",
+      "standing_from": null,
+      "standing_to": null,
+      "basis": [],
+      "reason": null
+    },
+    {
+      "action": "add",
+      "record": "2bddb788-dc3d-4527-9a18-554337b0060e",
+      "standing_from": null,
+      "standing_to": null,
+      "basis": [],
+      "reason": null
+    },
+    {
+      "action": "add",
+      "record": "6c50965f-fbdd-42cb-88f3-c1c1c708bd87",
+      "standing_from": null,
+      "standing_to": null,
+      "basis": [],
+      "reason": null
+    },
+    {
+      "action": "add",
+      "record": "46207c8c-4332-4334-8748-affb89c15d8e",
+      "standing_from": null,
+      "standing_to": null,
+      "basis": [],
+      "reason": null
+    },
+    {
+      "action": "add",
+      "record": "6c886140-be6d-4e81-a370-1ee6153d1898",
+      "standing_from": null,
+      "standing_to": null,
+      "basis": [],
+      "reason": null
+    },
+    {
+      "action": "add",
+      "record": "ec8744b8-35ca-438f-b48c-63eb48570bc6",
+      "standing_from": null,
+      "standing_to": null,
+      "basis": [],
+      "reason": null
+    },
+    {
+      "action": "add",
+      "record": "455dff7d-b66c-449d-b2d7-52521b99cba5",
+      "standing_from": null,
+      "standing_to": null,
+      "basis": [],
+      "reason": null
+    },
+    {
+      "action": "add",
+      "record": "94d1e6cc-101d-4e1b-9fc7-56d44571b271",
+      "standing_from": null,
+      "standing_to": null,
+      "basis": [],
+      "reason": null
+    },
+    {
+      "action": "add",
+      "record": "3c1c5e6b-2943-4810-baf8-d48f72c4e148",
+      "standing_from": null,
+      "standing_to": null,
+      "basis": [],
+      "reason": null
+    },
+    {
+      "action": "add",
+      "record": "74e87691-55c5-45d4-bcbe-85fb62e5912d",
+      "standing_from": null,
+      "standing_to": null,
+      "basis": [],
+      "reason": null
+    },
+    {
+      "action": "add",
+      "record": "40dc81c7-5c68-457a-b6c2-e77c0207606e",
+      "standing_from": null,
+      "standing_to": null,
+      "basis": [],
+      "reason": null
+    },
+    {
+      "action": "add",
+      "record": "1db1bbe9-0f32-4e1f-8237-c8fe26bf268f",
+      "standing_from": null,
+      "standing_to": null,
+      "basis": [],
+      "reason": null
+    },
+    {
+      "action": "add",
+      "record": "1742bbfe-92c2-4298-aa13-2df7e20acb32",
+      "standing_from": null,
+      "standing_to": null,
+      "basis": [],
+      "reason": null
+    },
+    {
+      "action": "add",
+      "record": "89daaa69-7198-4608-a93d-8a520820bbb9",
+      "standing_from": null,
+      "standing_to": null,
+      "basis": [],
+      "reason": null
+    },
+    {
+      "action": "add",
+      "record": "080a0a8d-7283-408e-9561-15e92f84fcf6",
+      "standing_from": null,
+      "standing_to": null,
+      "basis": [],
+      "reason": null
+    },
+    {
+      "action": "add",
+      "record": "43a138a3-627b-44ff-a9ed-32f4c1e128d3",
+      "standing_from": null,
+      "standing_to": null,
+      "basis": [],
+      "reason": null
+    },
+    {
+      "action": "add",
+      "record": "5d97e1e3-0f25-4bf8-b5ec-780fc621c55d",
+      "standing_from": null,
+      "standing_to": null,
+      "basis": [],
+      "reason": null
+    },
+    {
+      "action": "add",
+      "record": "4228d4a9-1a62-4a71-bb75-a6c1c9c118c0",
+      "standing_from": null,
+      "standing_to": null,
+      "basis": [],
+      "reason": null
+    },
+    {
+      "action": "add",
+      "record": "b3bf7efb-63f2-407b-991d-101120b4db07",
+      "standing_from": null,
+      "standing_to": null,
+      "basis": [],
+      "reason": null
+    },
+    {
+      "action": "add",
+      "record": "6bb4f0a7-1584-464c-ad61-663d2ad0353b",
+      "standing_from": null,
+      "standing_to": null,
+      "basis": [],
+      "reason": null
+    },
+    {
+      "action": "add",
+      "record": "427ab436-e19c-4d65-8751-38211ed05943",
+      "standing_from": null,
+      "standing_to": null,
+      "basis": [],
+      "reason": null
+    },
+    {
+      "action": "add",
+      "record": "6fe5a7db-33d9-40d9-a73c-2bd7046e4e23",
+      "standing_from": null,
+      "standing_to": null,
+      "basis": [],
+      "reason": null
+    },
+    {
+      "action": "add",
+      "record": "2c4e62d4-10da-4a81-a20d-ef0eaf66c272",
+      "standing_from": null,
+      "standing_to": null,
+      "basis": [],
+      "reason": null
+    },
+    {
+      "action": "add",
+      "record": "1a4c2cf8-f25d-43a0-8e3e-52073cc8638f",
+      "standing_from": null,
+      "standing_to": null,
+      "basis": [],
+      "reason": null
+    },
+    {
+      "action": "add",
+      "record": "18ce0a87-0f0e-47e3-a979-17b57c6f4326",
+      "standing_from": null,
+      "standing_to": null,
+      "basis": [],
+      "reason": null
+    },
+    {
+      "action": "add",
+      "record": "16f74acd-6eb4-43a7-9553-1a9d18166346",
+      "standing_from": null,
+      "standing_to": null,
+      "basis": [],
+      "reason": null
+    },
+    {
+      "action": "add",
+      "record": "6dcf708f-f779-4bd8-97c7-9cee28980176",
+      "standing_from": null,
+      "standing_to": null,
+      "basis": [],
+      "reason": null
+    },
+    {
+      "action": "add",
+      "record": "5ac78bc4-935f-48a3-817e-afe38298a2b0",
+      "standing_from": null,
+      "standing_to": null,
+      "basis": [],
+      "reason": null
+    },
+    {
+      "action": "add",
+      "record": "34afca77-a742-4432-b746-1906b1ac039c",
+      "standing_from": null,
+      "standing_to": null,
+      "basis": [],
+      "reason": null
+    },
+    {
+      "action": "add",
+      "record": "e58f4ecc-dd9c-4068-b7f5-65c7289d0d18",
+      "standing_from": null,
+      "standing_to": null,
+      "basis": [],
+      "reason": null
+    },
+    {
+      "action": "add",
+      "record": "6653d98a-f577-4226-a06a-6005e53c8ad2",
+      "standing_from": null,
+      "standing_to": null,
+      "basis": [],
+      "reason": null
+    },
+    {
+      "action": "add",
+      "record": "5acfdefa-f208-419c-af36-1ae64e17cdcf",
+      "standing_from": null,
+      "standing_to": null,
+      "basis": [],
+      "reason": null
+    },
+    {
+      "action": "add",
+      "record": "ad0d0b9d-b075-4649-be9c-0e8e5aa25ce4",
+      "standing_from": null,
+      "standing_to": null,
+      "basis": [],
+      "reason": null
+    },
+    {
+      "action": "add",
+      "record": "17b726b7-5f48-42aa-bc42-75402d0a15d6",
+      "standing_from": null,
+      "standing_to": null,
+      "basis": [],
+      "reason": null
+    },
+    {
+      "action": "add",
+      "record": "f90175d2-10bd-4254-b5a3-776af67fc636",
+      "standing_from": null,
+      "standing_to": null,
+      "basis": [],
+      "reason": null
+    },
+    {
+      "action": "add",
+      "record": "79272d57-3c01-4835-bdf2-eef0f5450d4e",
+      "standing_from": null,
+      "standing_to": null,
+      "basis": [],
+      "reason": null
+    },
+    {
+      "action": "add",
+      "record": "d496f824-2bdc-4e84-93d0-d8813496083c",
+      "standing_from": null,
+      "standing_to": null,
+      "basis": [],
+      "reason": null
+    },
+    {
+      "action": "add",
+      "record": "11fbc394-198d-4655-b96e-8bb85f2dfa83",
+      "standing_from": null,
+      "standing_to": null,
+      "basis": [],
+      "reason": null
+    },
+    {
+      "action": "add",
+      "record": "b22ec8dc-1daf-426e-9074-639457f968d8",
+      "standing_from": null,
+      "standing_to": null,
+      "basis": [],
+      "reason": null
+    },
+    {
+      "action": "add",
+      "record": "ad13b17d-5106-4ad7-b20e-cd8cc419505b",
+      "standing_from": null,
+      "standing_to": null,
+      "basis": [],
+      "reason": null
+    },
+    {
+      "action": "add",
+      "record": "1ee507c5-ffc4-4b72-90ae-10aeb7ad8ff0",
+      "standing_from": null,
+      "standing_to": null,
+      "basis": [],
+      "reason": null
+    },
+    {
+      "action": "add",
+      "record": "a64c1304-2445-461a-91e4-b4b3d00821dc",
+      "standing_from": null,
+      "standing_to": null,
+      "basis": [],
+      "reason": null
+    },
+    {
+      "action": "add",
+      "record": "a5ef8951-86bf-4bd3-9698-d3a3a6940398",
+      "standing_from": null,
+      "standing_to": null,
+      "basis": [],
+      "reason": null
+    },
+    {
+      "action": "add",
+      "record": "79f1188e-4939-4116-b6bb-57dc748228ac",
+      "standing_from": null,
+      "standing_to": null,
+      "basis": [],
+      "reason": null
+    },
+    {
+      "action": "add",
+      "record": "26946c6f-9038-40ae-8bae-ae9f5c3ee40d",
+      "standing_from": null,
+      "standing_to": null,
+      "basis": [],
+      "reason": null
+    },
+    {
+      "action": "add",
+      "record": "288cb738-aa74-4407-a266-dc6a4e991924",
+      "standing_from": null,
+      "standing_to": null,
+      "basis": [],
+      "reason": null
+    },
+    {
+      "action": "add",
+      "record": "32f47520-af87-4a5e-9eca-5ebc836b62ce",
+      "standing_from": null,
+      "standing_to": null,
+      "basis": [],
+      "reason": null
+    },
+    {
+      "action": "add",
+      "record": "4e8d7038-fb03-4c18-b186-a4ade966b5df",
+      "standing_from": null,
+      "standing_to": null,
+      "basis": [],
+      "reason": null
+    },
+    {
+      "action": "add",
+      "record": "bb4a8bc4-ef58-4516-9f1f-0ce96b348fb0",
+      "standing_from": null,
+      "standing_to": null,
+      "basis": [],
+      "reason": null
+    },
+    {
+      "action": "add",
+      "record": "d9e27fad-4378-4f50-b870-b506c84b6ece",
+      "standing_from": null,
+      "standing_to": null,
+      "basis": [],
+      "reason": null
+    },
+    {
+      "action": "add",
+      "record": "17ee639a-94ca-48c1-abaf-80a9c6094e0d",
+      "standing_from": null,
+      "standing_to": null,
+      "basis": [],
+      "reason": null
+    },
+    {
+      "action": "add",
+      "record": "3fb57145-12f4-44d9-937b-967f8f8b9086",
+      "standing_from": null,
+      "standing_to": null,
+      "basis": [],
+      "reason": null
+    },
+    {
+      "action": "add",
+      "record": "da06665a-8068-4b7d-a80f-bc7fdca0b1c8",
+      "standing_from": null,
+      "standing_to": null,
+      "basis": [],
+      "reason": null
+    },
+    {
+      "action": "add",
+      "record": "151f6574-0861-4d95-af8e-8b5bef99d2b9",
+      "standing_from": null,
+      "standing_to": null,
+      "basis": [],
+      "reason": null
+    },
+    {
+      "action": "add",
+      "record": "cbb7f75a-bb5f-4c46-9080-6e412bc0434d",
+      "standing_from": null,
+      "standing_to": null,
+      "basis": [],
+      "reason": null
+    },
+    {
+      "action": "add",
+      "record": "6351bd8a-ade7-4593-9e68-cd8c377db921",
+      "standing_from": null,
+      "standing_to": null,
+      "basis": [],
+      "reason": null
+    },
+    {
+      "action": "add",
+      "record": "050d9499-5e99-4e27-9b2f-880fe07c7ef1",
+      "standing_from": null,
+      "standing_to": null,
+      "basis": [],
+      "reason": null
+    },
+    {
+      "action": "add",
+      "record": "94178bd7-856e-4208-9df3-f0762b6846b5",
+      "standing_from": null,
+      "standing_to": null,
+      "basis": [],
+      "reason": null
+    },
+    {
+      "action": "add",
+      "record": "814b4234-c518-4e2b-ada0-57e48cdbcb86",
+      "standing_from": null,
+      "standing_to": null,
+      "basis": [],
+      "reason": null
+    },
+    {
+      "action": "add",
+      "record": "12954771-1e84-4186-818f-7883b58f814b",
+      "standing_from": null,
+      "standing_to": null,
+      "basis": [],
+      "reason": null
+    },
+    {
+      "action": "add",
+      "record": "b84a8545-804d-4559-8408-6e4b3c68eddd",
+      "standing_from": null,
+      "standing_to": null,
+      "basis": [],
+      "reason": null
+    },
+    {
+      "action": "add",
+      "record": "d1dad042-c51a-4bd4-9cb4-3b7c15f47cff",
+      "standing_from": null,
+      "standing_to": null,
+      "basis": [],
+      "reason": null
+    },
+    {
+      "action": "add",
+      "record": "7d9f5b68-21a4-4a36-9b4e-f216fc30a7ce",
+      "standing_from": null,
+      "standing_to": null,
+      "basis": [],
+      "reason": null
+    },
+    {
+      "action": "add",
+      "record": "3bc286f8-93ac-4890-9c13-885969d103e6",
+      "standing_from": null,
+      "standing_to": null,
+      "basis": [],
+      "reason": null
+    },
+    {
+      "action": "add",
+      "record": "fa46cecf-8d41-4f36-a1cc-dc734812efc2",
+      "standing_from": null,
+      "standing_to": null,
+      "basis": [],
+      "reason": null
+    },
+    {
+      "action": "add",
+      "record": "7e8726f6-224e-4ee6-ab53-26c906b52c3b",
+      "standing_from": null,
+      "standing_to": null,
+      "basis": [],
+      "reason": null
+    },
+    {
+      "action": "add",
+      "record": "837f7d25-4439-4106-a1b4-eb4d29a9819b",
+      "standing_from": null,
+      "standing_to": null,
+      "basis": [],
+      "reason": null
+    },
+    {
+      "action": "add",
+      "record": "ab552d12-1b24-4dd6-87ba-5100a511f128",
+      "standing_from": null,
+      "standing_to": null,
+      "basis": [],
+      "reason": null
+    },
+    {
+      "action": "add",
+      "record": "630b73ed-0ebe-43ee-a623-4277a560850d",
+      "standing_from": null,
+      "standing_to": null,
+      "basis": [],
+      "reason": null
+    },
+    {
+      "action": "add",
+      "record": "a5e6a3f8-6984-42ea-a5f2-3c9020e354f6",
+      "standing_from": null,
+      "standing_to": null,
+      "basis": [],
+      "reason": null
+    },
+    {
+      "action": "add",
+      "record": "ef42df6c-62b8-4f35-a655-e946132111f8",
+      "standing_from": null,
+      "standing_to": null,
+      "basis": [],
+      "reason": null
+    },
+    {
+      "action": "add",
+      "record": "483bd2e4-b56f-4564-9b55-9b48c0af0291",
+      "standing_from": null,
+      "standing_to": null,
+      "basis": [],
+      "reason": null
+    },
+    {
+      "action": "add",
+      "record": "08b902e4-5dff-41a5-9b20-8b9a87b26443",
+      "standing_from": null,
+      "standing_to": null,
+      "basis": [],
+      "reason": null
+    },
+    {
+      "action": "add",
+      "record": "88e28970-502d-4f74-9769-174971301954",
+      "standing_from": null,
+      "standing_to": null,
+      "basis": [],
+      "reason": null
+    },
+    {
+      "action": "add",
+      "record": "c331506b-042c-4eb6-b0ae-9cb1102c70df",
+      "standing_from": null,
+      "standing_to": null,
+      "basis": [],
+      "reason": null
+    },
+    {
+      "action": "add",
+      "record": "48a5d83e-54ce-46f8-a215-bb4b88c017fc",
+      "standing_from": null,
+      "standing_to": null,
+      "basis": [],
+      "reason": null
+    },
+    {
+      "action": "add",
+      "record": "a588a03b-a3ee-4afe-b269-ba599a3ab10a",
+      "standing_from": null,
+      "standing_to": null,
+      "basis": [],
+      "reason": null
+    },
+    {
+      "action": "add",
+      "record": "1d7355fd-09dd-4f09-b56d-fa1379448518",
+      "standing_from": null,
+      "standing_to": null,
+      "basis": [],
+      "reason": null
+    },
+    {
+      "action": "add",
+      "record": "19e8411a-507c-4ca0-8040-078f5faca0c7",
+      "standing_from": null,
+      "standing_to": null,
+      "basis": [],
+      "reason": null
+    },
+    {
+      "action": "add",
+      "record": "be55f4bb-688d-42c5-882a-ea49baa45c25",
+      "standing_from": null,
+      "standing_to": null,
+      "basis": [],
+      "reason": null
+    },
+    {
+      "action": "add",
+      "record": "18c80261-682b-4898-a356-ccc04b74dfcf",
+      "standing_from": null,
+      "standing_to": null,
+      "basis": [],
+      "reason": null
+    },
+    {
+      "action": "add",
+      "record": "88c540e3-3056-4e37-8da4-5d2e98506a4b",
+      "standing_from": null,
+      "standing_to": null,
+      "basis": [],
+      "reason": null
+    },
+    {
+      "action": "add",
+      "record": "945a3545-99a5-4e02-b623-25bc05935a5b",
+      "standing_from": null,
+      "standing_to": null,
+      "basis": [],
+      "reason": null
+    },
+    {
+      "action": "add",
+      "record": "ac9f349a-1c49-4ac8-ae04-7c2d842ac050",
+      "standing_from": null,
+      "standing_to": null,
+      "basis": [],
+      "reason": null
+    },
+    {
+      "action": "add",
+      "record": "708bd783-e45a-45cc-a364-a32fdd50056c",
+      "standing_from": null,
+      "standing_to": null,
+      "basis": [],
+      "reason": null
+    },
+    {
+      "action": "add",
+      "record": "c67980ab-f5da-49c2-b98c-28f320c99d2c",
+      "standing_from": null,
+      "standing_to": null,
+      "basis": [],
+      "reason": null
+    },
+    {
+      "action": "add",
+      "record": "f4f4864e-186e-4e06-9df8-207c9055405c",
+      "standing_from": null,
+      "standing_to": null,
+      "basis": [],
+      "reason": null
+    },
+    {
+      "action": "add",
+      "record": "70655580-5b41-44b4-aed0-4083a3172495",
+      "standing_from": null,
+      "standing_to": null,
+      "basis": [],
+      "reason": null
+    },
+    {
+      "action": "add",
+      "record": "d7497029-d320-4ed2-9af1-d34f36a923cf",
+      "standing_from": null,
+      "standing_to": null,
+      "basis": [],
+      "reason": null
+    },
+    {
+      "action": "add",
+      "record": "5d0a1afa-5d45-41de-b70d-b77fab9d96c1",
+      "standing_from": null,
+      "standing_to": null,
+      "basis": [],
+      "reason": null
+    },
+    {
+      "action": "add",
+      "record": "1c1ffa90-f2cb-42aa-99d7-8b99d6b0ccd3",
+      "standing_from": null,
+      "standing_to": null,
+      "basis": [],
+      "reason": null
+    },
+    {
+      "action": "add",
+      "record": "d15c4374-b78e-40ca-b5f3-36b9a834f1bf",
+      "standing_from": null,
+      "standing_to": null,
+      "basis": [],
+      "reason": null
+    },
+    {
+      "action": "add",
+      "record": "93616313-8dd7-4f42-952f-7ccca5579082",
+      "standing_from": null,
+      "standing_to": null,
+      "basis": [],
+      "reason": null
+    },
+    {
+      "action": "add",
+      "record": "b56c9bad-f762-4836-ab9e-08fe6ab3e2c6",
+      "standing_from": null,
+      "standing_to": null,
+      "basis": [],
+      "reason": null
+    },
+    {
+      "action": "add",
+      "record": "4da668be-b7a9-434a-8379-d28e82a9e3fc",
+      "standing_from": null,
+      "standing_to": null,
+      "basis": [],
+      "reason": null
+    },
+    {
+      "action": "add",
+      "record": "1a711337-d50e-4602-b203-51f84420679a",
+      "standing_from": null,
+      "standing_to": null,
+      "basis": [],
+      "reason": null
+    },
+    {
+      "action": "add",
+      "record": "67e56f67-951e-474b-bcf3-89c015766a2e",
+      "standing_from": null,
+      "standing_to": null,
+      "basis": [],
+      "reason": null
+    },
+    {
+      "action": "add",
+      "record": "be459dcd-f659-4cd5-9242-8412bba44881",
+      "standing_from": null,
+      "standing_to": null,
+      "basis": [],
+      "reason": null
+    },
+    {
+      "action": "add",
+      "record": "4d74d88a-e367-4c40-8f86-e12cec83de38",
+      "standing_from": null,
+      "standing_to": null,
+      "basis": [],
+      "reason": null
+    },
+    {
+      "action": "add",
+      "record": "e3a3be74-1593-40b5-8750-83da0648a8b1",
+      "standing_from": null,
+      "standing_to": null,
+      "basis": [],
+      "reason": null
+    },
+    {
+      "action": "add",
+      "record": "522a9275-053c-46fa-8615-2e1181505c59",
+      "standing_from": null,
+      "standing_to": null,
+      "basis": [],
+      "reason": null
+    },
+    {
+      "action": "add",
+      "record": "d767e11f-e7aa-44bc-ab2c-3056cdbd1df3",
+      "standing_from": null,
+      "standing_to": null,
+      "basis": [],
+      "reason": null
+    },
+    {
+      "action": "add",
+      "record": "8c6341d2-1eb4-4774-88ec-183c4af7318a",
+      "standing_from": null,
+      "standing_to": null,
+      "basis": [],
+      "reason": null
+    },
+    {
+      "action": "add",
+      "record": "68674292-2a74-41a6-8d0f-9eb907ff2123",
+      "standing_from": null,
+      "standing_to": null,
+      "basis": [],
+      "reason": null
+    },
+    {
+      "action": "add",
+      "record": "e4d8c629-580e-4340-95ea-b0c6e8e40b8d",
+      "standing_from": null,
+      "standing_to": null,
+      "basis": [],
+      "reason": null
+    },
+    {
+      "action": "add",
+      "record": "a23386f3-5232-4f14-a41d-25cd39198744",
+      "standing_from": null,
+      "standing_to": null,
+      "basis": [],
+      "reason": null
+    },
+    {
+      "action": "add",
+      "record": "1b7e0869-7945-448c-93ed-2e34b04584f8",
+      "standing_from": null,
+      "standing_to": null,
+      "basis": [],
+      "reason": null
+    },
+    {
+      "action": "add",
+      "record": "a3b08d28-ee06-4288-8138-c79f305db11f",
+      "standing_from": null,
+      "standing_to": null,
+      "basis": [],
+      "reason": null
+    },
+    {
+      "action": "add",
+      "record": "01314618-4f7c-4d20-90f6-28e8d1332efd",
+      "standing_from": null,
+      "standing_to": null,
+      "basis": [],
+      "reason": null
+    },
+    {
+      "action": "add",
+      "record": "6bdbc262-4089-4c2b-a6aa-0960c4da67e8",
+      "standing_from": null,
+      "standing_to": null,
+      "basis": [],
+      "reason": null
+    },
+    {
+      "action": "add",
+      "record": "4fa34807-b61c-4d48-8990-71c426b0db15",
+      "standing_from": null,
+      "standing_to": null,
+      "basis": [],
+      "reason": null
+    },
+    {
+      "action": "add",
+      "record": "13f7a20e-6ef8-478a-b41d-d3a47a702149",
+      "standing_from": null,
+      "standing_to": null,
+      "basis": [],
+      "reason": null
+    },
+    {
+      "action": "add",
+      "record": "9a0fb579-cbde-4f88-a694-8d4b9f1a852b",
+      "standing_from": null,
+      "standing_to": null,
+      "basis": [],
+      "reason": null
+    },
+    {
+      "action": "add",
+      "record": "9510260c-f598-4375-8df7-8bbf00183862",
+      "standing_from": null,
+      "standing_to": null,
+      "basis": [],
+      "reason": null
+    },
+    {
+      "action": "add",
+      "record": "22a0c591-bbee-4cca-971e-b2c390a6a54f",
+      "standing_from": null,
+      "standing_to": null,
+      "basis": [],
+      "reason": null
+    },
+    {
+      "action": "set_standing",
+      "record": "763d34ff-601b-451d-9800-df4d24c15fc3",
+      "standing_from": "open",
+      "standing_to": "integrated",
+      "basis": [
+        "eeaafccf-8194-4c20-8cc4-5a183ae61aaf",
+        "a697f53c-6d36-4c9c-9087-d975a871c9bf"
+      ],
+      "reason": "Two experiments: a bioelectric perturbation gave stable two-headed planaria that kept the plan through later cuts and reverted when the state was reversed, and a gap junction block gave heads of other species, both with an unchanged genome."
+    },
+    {
+      "action": "set_standing",
+      "record": "4fb02043-41c0-4811-b3f8-154a777a5bf8",
+      "standing_from": "open",
+      "standing_to": "integrated",
+      "basis": [
+        "36d2ff87-5e33-45ab-b0da-9cda6a5b4b8d"
+      ],
+      "reason": "A worked example: four noisy AND gates have 1.15 bits of effective information at the micro level and 1.55 bits at a two-element macro level. The claim is scoped to the stated convention, which the normalization critique disputes as a measure of causation, not as arithmetic."
+    },
+    {
+      "action": "set_standing",
+      "record": "5c24f0f9-c678-40cf-97f1-1d6cb0055159",
+      "standing_from": "open",
+      "standing_to": "integrated",
+      "basis": [
+        "d8e1253f-02fe-422b-94fb-36bf541372bf",
+        "c48d5b8d-130d-4b71-b012-ec4a04fca3fa"
+      ],
+      "reason": "fMRI of masked against visible words, and high-density ERPs across finely varied masking intervals, both show early sensory processing of stimuli that are not reported. Both global workspace theory and analytic idealism accept this finding and read it differently."
+    },
+    {
+      "action": "set_standing",
+      "record": "ea4beaba-c257-4a92-ac33-958f604d9014",
+      "standing_from": "open",
+      "standing_to": "integrated",
+      "basis": [
+        "8d0cd348-0c3b-4e43-8a6a-5e1f039a2993"
+      ],
+      "reason": "Preregistered adversarial test: 25 of 657 posterior intracranial electrodes showed sustained activity tracking stimulus duration, passing the preregistered IIT duration criterion. Only 8 of 53 face-selective electrodes were sustained, so the claim is scoped to some posterior sites."
+    },
+    {
+      "action": "set_standing",
+      "record": "e0a7a845-367c-4fd4-a192-9d7fcba2ad17",
+      "standing_from": "open",
+      "standing_to": "integrated",
+      "basis": [
+        "f3282385-e333-497d-9240-6758ab548842",
+        "290db519-f31b-489a-aefd-a09fdf672022"
+      ],
+      "reason": "TMS with high-density EEG found a local, short response in NREM sleep against a spreading one in wakefulness, and the perturbational complexity index separated wakefulness, sleep, three anesthetics and post-coma patients individually. The finding is integrated, not the IIT reading of it: the observations name Tononi and Massimini as co-authors."
+    }
+  ],
+  "evidence": [
+    "e6087b81-eb9e-4d2e-bfd8-0c138d0158e2",
+    "522a4b80-ba36-4ce4-a149-a18ea67b2122",
+    "24314af4-1f31-4300-b936-dca90f96bc9b",
+    "35c7f9ac-859e-48c0-906e-77cd341365e8",
+    "13e765fa-f137-4486-a49a-0a4bb277a7c0",
+    "3162481a-4f1d-4e13-ba63-d13d8410d431",
+    "707202c9-3b74-4332-886d-dcbd0609de59",
+    "9993027f-c69a-417f-a0fc-ecd2a89bf4fc"
+  ],
+  "checks": [
+    {
+      "command": "form check --with deck/form/deck",
+      "result": "pass",
+      "ran_at": "2026-10-23"
+    }
+  ],
+  "ai": {
+    "used": true,
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "parts": [
+      "every added record",
+      "the neutral wording of every shared claim",
+      "every link rationale not copied from a model repository",
+      "every proposed integration and its reason"
+    ]
+  },
+  "decision": {
+    "state": "pending",
+    "by": null,
+    "at": null,
+    "reasoning": null,
+    "merge_commit": null
+  },
+  "provenance": {
+    "written_by": "github:lancejpollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": []
+  }
+}

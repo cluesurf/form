@@ -1,0 +1,28 @@
+{
+  "record": "link",
+  "id": "a233cfb4-4976-46f9-bfca-afa7ee89e179",
+  "from": "c3020337-23c4-4949-8871-19090fcf1f08",
+  "to": "05894217-e47a-4b38-97b6-9f32d63ca8f0",
+  "relation": "supports",
+  "strength": 0.2,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "0e8a27d1-8b93-45f2-a326-74fe69301c54",
+        "locator": "abstract",
+        "quote": "A computer simulation of the Stroop task shows workspace activation to increase"
+      }
+    ]
+  }
+}

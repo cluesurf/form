@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "03b3e7c1-0159-4634-afe0-f19895b1ff2d",
+  "title": "E-GRV-0105: the lapse carried inside the link weights as well as the clock, built as an exact rule (a layer-k step...",
+  "purpose": "Experiment E-GRV-0105 in the gravity arena: the lapse carried inside the link weights as well as the clock, built as an exact rule (a layer-k step stored $2^k$ times finer, one division by Q $4^k$, no new register), solves its lapsed statics to 7.1e-5 and keeps the pull's front at 1.003 c, but its long-range k is 0.726 of the husk alone's against the zero mode's 256/341 = 0.751, 3.28 percent under against a 3 percent gate, fail on L2 and L3: the smooth layer model sits about 3 percent over the lattice stack here as it did for the one-clock and warped stacks (0.549 against 0.566), and that level error swamps the correction, which reads 0.20, 0.13, 0.04 at r = 1, 2, 4 against the prediction's 0.24, 0.15, 0.07 and turns negative from r = 7; RS II's 2/(3 $k^2 r^2$) is 18 times the predicted correction at r = 4, and the same profile in 32 slabs a doubling still reaches only a quarter of it there because k r is near 1; exact and bounded, reversal bit for bit.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L2 (L2: known physics reproduced on a stated model).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/gravity/lapse-husk-static.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-GRV-0105",
+        "quote": null
+      }
+    ]
+  }
+}

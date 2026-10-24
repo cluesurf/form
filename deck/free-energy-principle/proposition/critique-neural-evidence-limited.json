@@ -1,0 +1,45 @@
+{
+  "record": "proposition",
+  "id": "3692a447-8d9d-4df2-ad6e-c7714ed84192",
+  "kind": "empirical",
+  "epistemic_status": "inferred",
+  "title": "Critique: neural evidence for predictive processing is limited",
+  "statements": [
+    {
+      "id": "ee58d1dd-5f01-430e-8805-790b2b2b272b",
+      "text": "Predictive processing models, the neural process theory most often tied to the principle, are criticized for lacking the empirical support their status implies, partly because their unique predictions are hard to test.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-23"
+    }
+  ],
+  "current_statement": "ee58d1dd-5f01-430e-8805-790b2b2b272b",
+  "status": "active",
+  "voice": "critique",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "cb5978a2-a9b7-46d4-9bc3-61a3f856f512",
+        "locator": "abstract",
+        "quote": "Although these predictive processing (PP) models have become increasingly influential in cognitive neuroscience, they are also criticized for lacking the empirical support to justify their status."
+      }
+    ]
+  }
+}

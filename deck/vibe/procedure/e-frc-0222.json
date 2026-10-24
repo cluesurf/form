@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "ed06e11f-6360-4b38-9ccc-d09138629939",
+  "title": "E-FRC-0222: 2p -> 1s on trits, semiclassically: the STAND-IN quantum atom radiates into the five-level trit light at...",
+  "purpose": "Experiment E-FRC-0222 in the gauge arena: 2p -> 1s on trits, semiclassically: the STAND-IN quantum atom radiates into the five-level trit light at a rate read before the torus returns its light, by the semiclassical law dP/dt = -Gamma P (1 - P), so a pure 2p never starts to decay.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L2 (L2: known physics reproduced on a stated model).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/gauge/trit-quantum-decay.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-FRC-0222",
+        "quote": null
+      }
+    ]
+  }
+}

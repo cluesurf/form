@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "533a22f9-d259-43f1-8e3a-a7c3fdbcc554",
+  "title": "E-GRV-0091: the bounded depth field reverses exactly, never acts at once, falls alike and keeps its energy, but a...",
+  "purpose": "Experiment E-GRV-0091 in the gravity arena: the bounded depth field reverses exactly, never acts at once, falls alike and keeps its energy, but a hopping source's radiation fills the trit window in a closed box, fail on D1's wraps and D2's speed reading: the found depth equals E-GRV-0079's radion to 5.6e-17, covariant under reflections bit for bit, every run reverses; after a hop nothing changes at d = 2 .. 7 on the next beat and the first register changes 2 to 12 beats later, but the change rings in the periodic box so its half-of-maximum reading scatters (1.50 c; post run its leading edge travels at about 1.2 and 1.08 c); lumps fall at -6.41986e-4 per unit content, alike to 8.8e-12; energy drift 1.9e-5 of the static at three digits; 15 hops of 4 units pump the undamped field from 0.44 to 1.48 steps a link and 30 steps wrap.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L2 (L2: known physics reproduced on a stated model).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/gravity/step-depth-moving.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-GRV-0091",
+        "quote": null
+      }
+    ]
+  }
+}

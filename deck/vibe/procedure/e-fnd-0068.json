@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "0da8b0de-21e8-492f-b5fc-28a37032d9f4",
+  "title": "E-FND-0068: the base ternary is exactly charge-conjugation symmetric (a configuration and its sign-flip mirror...",
+  "purpose": "Experiment E-FND-0068 in the foundations arena: the base ternary is exactly charge-conjugation symmetric (a configuration and its sign-flip mirror exactly), so the plus and minus poles carry no intrinsic give-versus-restrain asymmetry, while a hand-made asymmetric rule is detected.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L1 (L1: known mathematics, correctly confirmed).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/foundations/charge-conjugation-symmetry.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-FND-0068",
+        "quote": null
+      }
+    ]
+  }
+}

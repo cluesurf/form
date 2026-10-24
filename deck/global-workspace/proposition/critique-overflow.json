@@ -1,0 +1,45 @@
+{
+  "record": "proposition",
+  "id": "28e89614-15d7-4d51-af0c-9457c26dd491",
+  "kind": "empirical",
+  "epistemic_status": "inferred",
+  "title": "Critique: phenomenal consciousness overflows access",
+  "statements": [
+    {
+      "id": "5a7cd4b3-8206-455d-b29a-85a5fd910898",
+      "text": "Phenomenal consciousness overflows cognitive accessibility, and the neural basis of phenomenal consciousness does not include the neural machinery of access that underlies report.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-23"
+    }
+  ],
+  "current_statement": "5a7cd4b3-8206-455d-b29a-85a5fd910898",
+  "status": "active",
+  "voice": "critique",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "ac3aecc2-e9d1-4b65-af98-9727000a394a",
+        "locator": "abstract, p. 481",
+        "quote": "data that show that in a certain sense phenomenal consciousness overflows cognitive accessibility"
+      }
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "record": "link",
+  "id": "0628dbe1-7af1-4c13-8f70-75fc307eb575",
+  "from": "0e201188-4a11-4e07-be3f-074417ab7a1b",
+  "to": "a03a9368-3c9d-41c7-8704-ffddbe3e507b",
+  "relation": "supports",
+  "strength": 0.3,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "f6b06e02-6204-43ba-88f0-d63f5f1d20c1",
+        "locator": "abstract",
+        "quote": "We analyzed the protein interactomes of over 1800 species"
+      }
+    ]
+  }
+}

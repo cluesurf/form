@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "c5b37a8b-a179-4a9e-94c8-2a0feedd0dbe",
+  "title": "E-SPN-0118: a composite held by bounce meetings changes lines but not place, fail (M2): K on two singles only keeps...",
+  "purpose": "Experiment E-SPN-0118 in the spin arena: a composite held by bounce meetings changes lines but not place, fail (M2): K on two singles only keeps or swaps them (0 of 264 pairs change the line set, and 0 of 270,336 two-single docks move a single off its lines; the lines K changes there are recruited vacuum pairs), and K on three singles changes lines (576 of 1,760) only onto lines through the same dock, so a composite's lines change only at a hub where three of its lines meet and, for up to five lines, its hubs never move; in a stand-in of three loves on (1,1,0,0), (1,0,1,0), (0,1,1,0) through X, with the drift cost's string, the working coin and the committed bounce table, the equal sum over the 4 line triples K reaches is an exact level (fidelity 1 - 4e-8, tail 5.2e-5 over 128 beats) that holds 6 lines and passes 7.6 of its weight through line-changing meetings, yet boosted to pi/2 along six husk directions its energy moves -0.0011 against 0.077 to 0.115 predicted, the same offset as with a line-keeping contact, while the reading gives a free trio 0.4 percent from prediction; the inverse mass tensor is zero to resolution, so its isotropy is not measurable; the vacuum and a lone love run identically with and without K and the love keeps its line; with no string the tail reaches 0.33.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L2 (L2: known physics reproduced on a stated model).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/spin/bounce-mover.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-SPN-0118",
+        "quote": null
+      }
+    ]
+  }
+}

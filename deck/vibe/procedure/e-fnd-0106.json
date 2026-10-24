@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "40e8ce3c-a6d2-4eca-bfb7-72c1a5fecccf",
+  "title": "E-FND-0106: the unit-kick phase law closes the in-flight rotation question: the polarized traveller keeps the same...",
+  "purpose": "Experiment E-FND-0106 in the foundations arena: the unit-kick phase law closes the in-flight rotation question: the polarized traveller keeps the same intrinsic phase class at four consecutive creation beats (matter slots do not flash, so no omega winding exists at the base), a thin coupled wall adds exactly one rotated class to the recoherence set for one-beat AND two-beat wall offsets alike (event-quantized, unit-sized, offset-independent), one, two, and three walls give the identical two-class set (kicks record that, not how many), and the blind orientation and the free run keep the single intrinsic class exactly, so base-level continuous rotation cannot exist on the $Z_3$ clock and the discrete kinematics is complete, with the continuum e^{i(kx - wt)} a coarse walk-level object and the remaining work a derivation bridge rather than a missing mechanism.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L2 (L2: known physics reproduced on a stated model).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/foundations/unit-kick-phase-law.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-FND-0106",
+        "quote": null
+      }
+    ]
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "record": "proposition",
+  "id": "2167c474-f650-4a19-8a2a-b1646c7c3e10",
+  "kind": "empirical",
+  "epistemic_status": "simulated",
+  "title": "E-FRC-0099: three cyclic values per link under a deterministic reversible rule reproduce Z3 confinement at high...",
+  "statements": [
+    {
+      "id": "77c19d47-d5a2-4ca5-8399-073629dfddfe",
+      "text": "Three cyclic values per link under a deterministic reversible rule reproduce Z3 confinement at high energy and the first-order coexistence of its transition, and freeze at low energy, where the ordered phase needs a kinetic variable.",
+      "language": "en",
+      "scope": "experiment E-FRC-0099, arena gauge, depth L2 (L2: known physics reproduced on a stated model)",
+      "conditions": "substrates: any. In a paper: false",
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-22"
+    }
+  ],
+  "current_statement": "77c19d47-d5a2-4ca5-8399-073629dfddfe",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": {
+    "value": "open",
+    "reason": "holds in the vibe claim graph",
+    "basis": [],
+    "proposal": null
+  },
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "research/result.ts R-FRC-0002",
+        "quote": null
+      }
+    ]
+  }
+}

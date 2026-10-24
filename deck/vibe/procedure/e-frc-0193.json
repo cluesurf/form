@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "23e64392-82f9-444b-b29e-122949a4f8c8",
+  "title": "E-FRC-0193: stimulated emission on the husk: each mode of the exactly linear husk leapfrog oscillates at one...",
+  "purpose": "Experiment E-FRC-0193 in the gauge arena: stimulated emission on the husk: each mode of the exactly linear husk leapfrog oscillates at one frequency at every amplitude, a harmonic oscillator, so a stand-in emitter in light holding n photons per mode near its line decays at (n + 1) times its spontaneous rate, where modes that hold one quantum at most block it.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L2 (L2: known physics reproduced on a stated model).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/gauge/husk-emission-stimulated.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-FRC-0193",
+        "quote": null
+      }
+    ]
+  }
+}

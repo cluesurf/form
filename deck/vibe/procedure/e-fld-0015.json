@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "b23b8fb1-1e09-4638-81e9-d47636890047",
+  "title": "E-FLD-0015: the vibe gas has no wavelength-independent damping: the exact echo returns the microstate with Hamming...",
+  "purpose": "Experiment E-FLD-0015 in the fluids arena: the vibe gas has no wavelength-independent damping: the exact echo returns the microstate with Hamming distance zero, the k -> 0 intercept of the shear decay rate is bounded by 0.011 per beat with unstable sign across two sides (consistent with zero within the k-squared law's systematic) an order of magnitude under the smallest measured rate, and a deterministically leaky control gas shows the imposed positive intercept, while Chronoflux's damped Navier-Stokes limit requires a strictly positive intercept, so one measured number separates the frameworks.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L2 (L2: known physics reproduced on a stated model).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/fluids/no-wavelength-independent-damping.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-FLD-0015",
+        "quote": null
+      }
+    ]
+  }
+}

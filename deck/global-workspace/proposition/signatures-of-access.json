@@ -1,0 +1,45 @@
+{
+  "record": "proposition",
+  "id": "71b4b41d-876a-468e-bd04-70b823272d0f",
+  "kind": "empirical",
+  "epistemic_status": "inferred",
+  "title": "Objective signatures of conscious access",
+  "statements": [
+    {
+      "id": "32f6ae9a-0be2-499a-ad25-d609000800a5",
+      "text": "Conscious access has objective neural signatures: late amplification of relevant sensory activity, long-distance cortico-cortical synchronization at beta and gamma frequencies, and ignition of a large-scale prefronto-parietal network.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-23"
+    }
+  ],
+  "current_statement": "32f6ae9a-0be2-499a-ad25-d609000800a5",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "2374e38b-3bde-4e20-9ad5-8edab14a34c3",
+        "locator": "abstract",
+        "quote": "late amplification of relevant sensory activity, long-distance cortico-cortical synchronization at beta and gamma frequencies, and “ignition” of a large-scale prefronto-parietal network"
+      }
+    ]
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "record": "proposition",
+  "id": "40adf01e-5521-4880-91d4-1d889c362bc7",
+  "kind": "mathematical",
+  "epistemic_status": "inferred",
+  "title": "Agent networks build memory, attention and planning",
+  "statements": [
+    {
+      "id": "a5b0bc3d-1384-4af6-a6fc-b19cdfa9abb1",
+      "text": "Networks of conscious agents can implement short and long term memory, attention, categorization and case-based planning, and the simplest networks can be analyzed exhaustively.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-23"
+    }
+  ],
+  "current_statement": "a5b0bc3d-1384-4af6-a6fc-b19cdfa9abb1",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "0eb77ed5-7d23-4e3d-93cf-44a9600980a2",
+        "locator": "abstract, lines 10-12",
+        "quote": "The construction of short- and long-term memories and the implementation of attention, categorization and case-based planning are demonstrated."
+      }
+    ]
+  }
+}

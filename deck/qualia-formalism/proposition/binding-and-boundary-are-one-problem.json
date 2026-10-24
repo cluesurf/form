@@ -1,0 +1,45 @@
+{
+  "record": "proposition",
+  "id": "562b2a44-b9a4-4a5b-ad88-0b020b9dd2d9",
+  "kind": "philosophical",
+  "epistemic_status": "hypothesized",
+  "title": "Binding and boundary as one problem",
+  "statements": [
+    {
+      "id": "134a22d9-9ee6-4189-826e-3ee2d1ec772c",
+      "text": "Principia Qualia treats the binding problem and the boundary problem as two phrasings of one problem: how to fix the correct boundaries of a conscious system in a principled way.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-23"
+    }
+  ],
+  "current_statement": "134a22d9-9ee6-4189-826e-3ee2d1ec772c",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "18748a2a-239c-4c8a-84be-d6db8f91e70d",
+        "locator": "section VI, p. 22, footnote 9",
+        "quote": "Both ways of phrasing this problem are logically identical"
+      }
+    ]
+  }
+}

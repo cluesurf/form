@@ -1,0 +1,50 @@
+{
+  "record": "proposition",
+  "id": "2e504cf4-47af-45af-8d62-f32c66df9bb9",
+  "kind": "philosophical",
+  "epistemic_status": "hypothesized",
+  "title": "Evolution is more than survival and adaptation",
+  "statements": [
+    {
+      "id": "78b3aabf-3209-45d1-a092-f43e557e22d7",
+      "text": "Bursts of new forms make no sense if evolution is only survival and adaptation. Evolution is the creation of new algorithms.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "78b3aabf-3209-45d1-a092-f43e557e22d7",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "1a96ac74-7168-4b4b-be74-1fdd4d133912",
+        "locator": "closing",
+        "quote": "Such explosions make no sense if we claim that evolution is purely survival and adaptation."
+      },
+      {
+        "source": "1a96ac74-7168-4b4b-be74-1fdd4d133912",
+        "locator": "closing",
+        "quote": "Evolution is creation. Creation of new algorithms."
+      }
+    ]
+  }
+}

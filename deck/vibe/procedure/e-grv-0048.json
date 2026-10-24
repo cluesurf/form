@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "00550956-c50f-44c2-8594-ebbb4c2a6997",
+  "title": "E-GRV-0048: the {3,4,3,4} geometry sustains a coherent ringdown after a pulse (energy keeps returning to the source)...",
+  "purpose": "Experiment E-GRV-0048 in the gravity arena: the {3,4,3,4} geometry sustains a coherent ringdown after a pulse (energy keeps returning to the source) while a degree-matched scramble dephases and dies, the discrete form of an elastic-spacetime ringdown.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L2 (L2: known physics reproduced on a stated model).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/gravity/ringdown-discreteness-echo.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-GRV-0048",
+        "quote": null
+      }
+    ]
+  }
+}

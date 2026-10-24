@@ -1,0 +1,50 @@
+{
+  "record": "proposition",
+  "id": "f8a885d7-e398-4db7-adcb-9e33c909c060",
+  "kind": "empirical",
+  "epistemic_status": "simulated",
+  "title": "E-SPN-0054: the role parity in the dynamics: the lift of the 2 pi turn in the link group Sigma(648) is -P, the group...",
+  "statements": [
+    {
+      "id": "d26cde99-5a86-44d4-91cf-30f54f429cf9",
+      "text": "The role parity in the dynamics: the lift of the 2 pi turn in the link group Sigma(648) is -P, the group has no central -1, only the 24 point-fixing turns keep P while every translation carries it to the parity about the moved point, all 648 links are exactly covariant, and both fear-beat forms keep only the whole's sign P (x) P, trading it between the roles.",
+      "language": "en",
+      "scope": "experiment E-SPN-0054, arena spin, depth L1 (L1: known mathematics, correctly confirmed)",
+      "conditions": "substrates: 3434. In a paper: false",
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-22"
+    }
+  ],
+  "current_statement": "d26cde99-5a86-44d4-91cf-30f54f429cf9",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": {
+    "value": "open",
+    "reason": "holds in the vibe claim graph",
+    "basis": [],
+    "proposal": null
+  },
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "research/objection.ts",
+        "quote": null
+      }
+    ]
+  }
+}

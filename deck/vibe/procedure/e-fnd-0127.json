@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "362ac5b0-b3e0-4949-8f86-e8478f06732f",
+  "title": "E-FND-0127: single-particle outcomes are deterministic per vacuum phase and distributed over the phase ensemble: the...",
+  "purpose": "Experiment E-FND-0127 in the foundations arena: single-particle outcomes are deterministic per vacuum phase and distributed over the phase ensemble: the same packet prepared at four different beats of the schedule transmits pinned different numbers through the same port (at least three distinct outcomes per charge), each exactly reproducible at its beat, so Born randomness in this model is epistemic ignorance of the vacuum clock phase with the outcome histogram a measurement rather than an axiom, the hidden-variable account and its superdeterminism-adjacent Bell posture stated plainly, and the exactly balanced full-period charge sums found at side twenty-five held as measured-once with the window caveat recorded.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L2 (L2: known physics reproduced on a stated model).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/foundations/born-ensemble.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-FND-0127",
+        "quote": null
+      }
+    ]
+  }
+}

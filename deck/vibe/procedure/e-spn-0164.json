@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "f2189938-cb02-458a-bbf8-6c5d22d985e1",
+  "title": "E-SPN-0164: C and CP break together inside one sea with no C-odd piece, and the sea itself adds nothing, partial...",
+  "purpose": "Experiment E-SPN-0164 in the spin arena: C and CP break together inside one sea with no C-odd piece, and the sea itself adds nothing, partial (the pair table's split stays 1/2 and 1/2, so number violation is still lacking): the tone mirror (E-SPN-0134's C) commutes with the register rule exactly, so the love sea only selects a sector and every love-sea rate equals its mirror image's on the fear sea (route A, spontaneous C from the sea, is impossible); inside one sea the member's particle branch (S, +M) and antiparticle branch (D, -M, the S branch run backward) carry exactly opposite T-odd asymmetries once the register exchange makes the trimaximal phase physical, so C (the branch map) and CP (with the depth-keeping parity) break together, CPT holds exactly when the D branch's meeting phase is the conjugate, and the C- and CP-odd observable is rephasing invariant and vanishes for a real mixing; E-SPN-0163's C-even reading compared the full background with the empty one, not a particle with its antiparticle; the pair table's two branches keep equal weight at every beat by the mirror, so the net transfer is 0.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L1 (L1: known mathematics, correctly confirmed).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/spin/sea-conjugation.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-SPN-0164",
+        "quote": null
+      }
+    ]
+  }
+}

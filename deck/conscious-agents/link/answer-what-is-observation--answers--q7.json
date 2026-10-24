@@ -1,0 +1,28 @@
+{
+  "record": "link",
+  "id": "9b275061-5f14-4e32-b726-34817a23e2ed",
+  "from": "e2f7afbd-a978-4d15-b0ed-0aebd49ec562",
+  "to": "1db1bbe9-0f32-4e1f-8237-c8fe26bf268f",
+  "relation": "answers",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "9f6802be-e2fa-4f89-b303-461db4c74e7e",
+        "locator": "Objections and replies, objection 11",
+        "quote": "have definite values only when they are observed."
+      }
+    ]
+  }
+}

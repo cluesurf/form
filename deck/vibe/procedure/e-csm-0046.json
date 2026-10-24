@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "66ad7683-2180-4fa4-8f3d-3eece36c3370",
+  "title": "E-CSM-0046: the tensor-ratio tension of the quadratic inflaton (E-CSM-0044, r about 0.14) is resolved by a plateau...",
+  "purpose": "Experiment E-CSM-0046 in the cosmology arena: the tensor-ratio tension of the quadratic inflaton (E-CSM-0044, r about 0.14) is resolved by a plateau potential, which the exponential growth of the hyperbolic mesh naturally produces (constant-H de Sitter): the plateau gives $n_s$ about 0.965 matching Planck and r about 0.004 well below the 0.06 bound, so the tensor tension signals a plateau, the mesh-derived shape the remaining step.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L2 (L2: known physics reproduced on a stated model).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/cosmology/plateau-inflation-tensor.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-CSM-0046",
+        "quote": null
+      }
+    ]
+  }
+}

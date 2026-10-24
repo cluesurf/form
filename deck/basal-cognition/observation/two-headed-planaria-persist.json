@@ -1,0 +1,44 @@
+{
+  "record": "observation",
+  "id": "e1ead7a4-e2f6-43cf-b10e-765b0dd5f61e",
+  "kind": "experimental_result",
+  "epistemic_status": "observed",
+  "description": "A brief perturbation of bioelectric networks in amputated planarian trunk fragments produced a stable ratio of two-headed regenerates. Normal-looking regenerates stored the altered body plan in resting potential patterns and regenerated two heads when cut again, with no difference in histology or key polarity gene expression. Reversing the bioelectric state restored wild-type regeneration.",
+  "method": "experiment",
+  "status": "reported",
+  "source": "d9097dc4-d096-4de7-813b-d6c227e00393",
+  "procedure": null,
+  "variable": null,
+  "value": null,
+  "unit": null,
+  "uncertainty": null,
+  "sample_size": null,
+  "replication_count": null,
+  "quality": null,
+  "limitations": "One planarian species and protocol. The pattern memory is inferred from regeneration outcomes and voltage imaging.",
+  "conflicts_of_interest": null,
+  "observed_at": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "d9097dc4-d096-4de7-813b-d6c227e00393",
+        "locator": "abstract",
+        "quote": "the altered regenerative bodyplan is stored in seemingly normal planaria via global patterns of cellular resting potential"
+      },
+      {
+        "source": "d9097dc4-d096-4de7-813b-d6c227e00393",
+        "locator": "abstract",
+        "quote": "experimental reversals of bioelectric state reset subsequent regenerative morphology back to wild-type"
+      }
+    ]
+  }
+}

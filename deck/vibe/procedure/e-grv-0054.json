@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "058f8f69-d47c-46e9-984a-d9b182d368e5",
+  "title": "E-GRV-0054: both structural redundancies of Chronoflux's withdrawn 2022 action verified numerically: the flow...",
+  "purpose": "Experiment E-GRV-0054 in the gravity arena: both structural redundancies of Chronoflux's withdrawn 2022 action verified numerically: the flow potential's field-equation term vanishes on every constrained configuration (below 1e-12, and never below 1e-4 off the constraint), and the non-minimal gauge factor is a constant the coupling absorbs (the on-shell field of a charge equals the rescaled-charge field to machine precision, while a constraint-violating flow makes it position-dependent), and the rebuilt 2026 action carries neither structure.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L1 (L1: known mathematics, correctly confirmed).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/gravity/chronoflux-withdrawn-action-redundancies.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-GRV-0054",
+        "quote": null
+      }
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "record": "link",
+  "id": "0bb64d8f-64b7-4fb8-b04e-8915acc1b0fe",
+  "from": "a1df2c2a-35cc-4094-b6d8-105163c598c3",
+  "to": "97f96ed7-c7e0-4a7e-a7f9-e34ce06c3e8a",
+  "relation": "requires",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "bfa85443-4b77-43f1-b5f2-ec1850a4bc3c",
+        "locator": "accepted manuscript p. 9",
+        "quote": "there is no necessity that predictive models most useful for control are those that represent sensory signals and their causes in an action-independent, veridical manner"
+      }
+    ]
+  }
+}

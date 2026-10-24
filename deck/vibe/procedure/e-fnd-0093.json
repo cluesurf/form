@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "0ccd3070-24da-4df0-9388-9148c6365c11",
+  "title": "E-FND-0093: the sixth-thing rule search: in the 13824-rule wire-conditioned family the harness finds 8704 clocked...",
+  "purpose": "Experiment E-FND-0093 in the foundations arena: the sixth-thing rule search: in the 13824-rule wire-conditioned family the harness finds 8704 clocked vacuums and 2804 compact movers with a hard ceiling (exact magnitude, distance 2, two phases, none ballistic, re-verified here on the identity-on-empty slice), the wanderer candidate holds exactly sqrt 3 for 24 beats while roaming to distance 3, and the park rule outside the family travels ballistically to distance 7 by beat 6 with the difference recohering to exactly sqrt 3 at two of every three beats, so transport without amplification exists and only the phase rotation along the path is still unsupplied, all as candidate dynamics against the committed rule whose defect never leaves its own line neighbourhood.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L2 (L2: known physics reproduced on a stated model).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/foundations/sixth-thing-search.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-FND-0093",
+        "quote": null
+      }
+    ]
+  }
+}

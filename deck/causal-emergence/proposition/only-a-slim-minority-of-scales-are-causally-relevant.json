@@ -1,0 +1,45 @@
+{
+  "record": "proposition",
+  "id": "a8fb71fa-7419-441a-a8c0-3af827c20e8e",
+  "kind": "empirical",
+  "epistemic_status": "simulated",
+  "title": "Only a slim minority of scales are causally relevant",
+  "statements": [
+    {
+      "id": "1860a021-6d54-4013-8b5b-25e65208ec21",
+      "text": "Of all the possible dimension reductions of a system, only a small minority contribute to its causal workings, and CE 2.0 identifies which.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-23"
+    }
+  ],
+  "current_statement": "1860a021-6d54-4013-8b5b-25e65208ec21",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "c40bbd28-a2c5-4730-84c0-90f7ae0644de",
+        "locator": "section 7",
+        "quote": "but only a slim minority of these scales are causally relevant, and the theory can identify them"
+      }
+    ]
+  }
+}

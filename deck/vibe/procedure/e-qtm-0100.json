@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "da6260a5-20e2-48b6-b72d-00b846ac2164",
+  "title": "E-QTM-0100: the fear weave is quantum in its roles, pass at the default integer link start (E-MTH-0027), and on 9 of...",
+  "purpose": "Experiment E-QTM-0100 in the quantum arena: the fear weave is quantum in its roles, pass at the default integer link start (E-MTH-0027), and on 9 of 17 starts of E-MTH-0028's family: a pair made together reads 1/4, 3/4, 1 over three meetings with fears cancelling where the phase-free stand-in gives 1/4, 3/8, 7/16, and its tokens violate CHSH from different docks where both classical rules stay at 2, at a rung of one meeting's three-rung ladder {2, 4 / sqrt 3, sqrt 7} (E-QTM-0140) that the start chooses: at the default start the gated top rung sqrt 7 = 2.6458 (color mode 2.5523), and on the 8 starts whose reading lands on the middle rung 4 / sqrt 3 = 2.3094 (color mode 2.3612 to 2.3669 by its eight-start see-saw, a lower bound; the retired golden start among them) it fails that gate; meetings keep the singlet share of three roles at exactly 1/6, so they can neither make nor unmake a knot of different roles.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L2 (L2: known physics reproduced on a stated model).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/quantum/fear-witness.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-QTM-0100",
+        "quote": null
+      }
+    ]
+  }
+}

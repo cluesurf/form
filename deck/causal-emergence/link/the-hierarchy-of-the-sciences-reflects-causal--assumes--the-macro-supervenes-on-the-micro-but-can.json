@@ -1,0 +1,28 @@
+{
+  "record": "link",
+  "id": "ba48ede7-309a-4fb7-8498-9ecb2105bb1f",
+  "from": "993cdb15-0d4a-4ef9-b783-fc98fb4bc556",
+  "to": "747e80d6-8e82-4e22-986a-2fb0b6e3d007",
+  "relation": "assumes",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "8360d34d-30cb-44f8-89c9-41768fb53f0d",
+        "locator": "Conclusions",
+        "quote": "the hierarchy of the sciences, from microphysics to macroeconomics, may not just be a matter of convenience but a genuine reflection of causal gains at the relevant levels of organization"
+      }
+    ]
+  }
+}

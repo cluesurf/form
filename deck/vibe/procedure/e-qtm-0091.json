@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "47000eea-c976-4176-96a7-cde50fcefb69",
+  "title": "E-QTM-0091: the definite outcome and its Born weight are separate mechanisms: the emergent holder settles every run...",
+  "purpose": "Experiment E-QTM-0091 in the quantum arena: the definite outcome and its Born weight are separate mechanisms: the emergent holder settles every run to a definite branch (the collapse works) but the fraction settling to A is a STEP in the bias (flat on each side of the midpoint, jumping across it), not the proportional or squared Born weight, so |amplitude|^2 is not microstate counting on the holder and must come from the conserved norm.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L2 (L2: known physics reproduced on a stated model).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/quantum/collapse-is-not-the-weight.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-QTM-0091",
+        "quote": null
+      }
+    ]
+  }
+}

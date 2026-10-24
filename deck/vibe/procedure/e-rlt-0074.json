@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "f75a574c-e95c-47b0-a79b-963b7dc762d5",
+  "title": "E-RLT-0074: vacuum pairs that live across beats, fail on one gate (the vacuum pair carries no fear): the pair move...",
+  "purpose": "Experiment E-RLT-0074 in the relativity arena: vacuum pairs that live across beats, fail on one gate (the vacuum pair carries no fear): the pair move applied once per beat, alternately before and after the coin map, keeps W(F4) (0 failures over 1,152 coin maps on both collisions and 1,152 box automorphisms), charge conjugation, exact reversal, the motion reversal T = S R (0 failures; the one-phase schedule fails 6 of 6), CPT, charge, momentum and energy, the held color and every token's sign; its hot vacuum runs exactly as derived on sides 3 to 9 (period 6, each dock making, refusing and unmaking 12 pairs in turn), every vacuum pair streams two beats and meets its own partner again (7,776 partner and 7,776 cross meetings in 24 beats, 0 stray) where the palindrome's vacuum meets 0 times, and dock 0's pair meets 160 times in 480 beats; but it meets only its partner with net identity transport, so the love-fear kernel (I + (omega - 1) P, P on the correlated state sum_j |j, j>) cycles it through 3 wholes from an equal-digit start, leaves the other 6 basis starts untouched, and never makes a fear.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L2 (L2: known physics reproduced on a stated model).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/relativity/living-vacuum-pairs.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-RLT-0074",
+        "quote": null
+      }
+    ]
+  }
+}

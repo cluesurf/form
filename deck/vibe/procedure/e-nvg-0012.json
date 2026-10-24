@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "8176ea55-6cee-45aa-a119-0ca0b08ae1c4",
+  "title": "E-NVG-0012: a boundary loop encloses a definite bulk region (the subtree under the common ancestor), disjoint loops...",
+  "purpose": "Experiment E-NVG-0012 in the addressing arena: a boundary loop encloses a definite bulk region (the subtree under the common ancestor), disjoint loops enclose disjoint regions, and a wider loop reaches deeper, so a loop is an exact composable anchor for an object.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L2 (L2: known physics reproduced on a stated model).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/addressing/loop-encloses-region.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-NVG-0012",
+        "quote": null
+      }
+    ]
+  }
+}

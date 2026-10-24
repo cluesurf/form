@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "6d9f2bd8-fb05-4392-ae4f-49429ccd1909",
+  "title": "E-QTM-0070: objectivity is redundancy not decoherence: a copied pointer is read by every single environment cell...",
+  "purpose": "Experiment E-QTM-0070 in the quantum arena: objectivity is redundancy not decoherence: a copied pointer is read by every single environment cell (N-fold redundant record) while a globally stored cat-state record decoheres the system just as strongly yet no fragment short of the whole bath can read it, so it is not objective.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L2 (L2: known physics reproduced on a stated model).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/quantum/objectivity-needs-redundant-records.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-QTM-0070",
+        "quote": null
+      }
+    ]
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "c536e044-70fd-49b1-b6a4-957e8bb5ccda",
+  "title": "E-SPN-0175: the many-body register rule run with the sea present, pass: the sea is run exactly through its holes...",
+  "purpose": "Experiment E-SPN-0175 in the spin arena: the many-body register rule run with the sea present, pass: the sea is run exactly through its holes (Jacobi and particle-hole checked on every Fock state of an exact toy and on 72 literal complementary minors of the real 192-mode pieces, worst 3.6e-13), a pair piece must be counted from the sea or its Hartree phase makes the hole's mass depend on the box, the full sea is one branch with a unit amplitude every beat, two holes interacting through the sector string and the sector contact keep the 176 flat modes exactly decoupled for 64 cycles on the L = 4 torus ($N_F$ within 1.2e-13 of 0 from two moving starts and of 1 from a frozen-plus-moving start), and K and the store never fire (least slot occupancy 6 over all 4,718,592 two-hole configurations: the register's capacity blocks them); E-SPN-0163's register exchange placed as a dock contact releases flat weight ($N_F$ to 0.69) and E-SPN-0147's member string leaks 8.6e-3, so only sector pieces keep the flats.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L1 (L1: known mathematics, correctly confirmed).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/spin/register-sea.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-SPN-0175",
+        "quote": null
+      }
+    ]
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "c7e92834-f933-4e25-9eea-90c1b9d32421",
+  "title": "E-QTM-0116: quantum Zeno on the fear weave: an ideal role record never freezes the vacuum pair's transfer below the...",
+  "purpose": "Experiment E-QTM-0116 in the quantum arena: quantum Zeno on the fear weave: an ideal role record never freezes the vacuum pair's transfer below the stochastic 7/16, because a meeting moves a finite quarter of the chance at once, while the model's own record, a fear-beat meeting with a fresh ancilla, suppresses the transfer by resetting the pair to the ancilla's role, not by freezing it.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L2 (L2: known physics reproduced on a stated model).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/quantum/meeting-zeno.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-QTM-0116",
+        "quote": null
+      }
+    ]
+  }
+}

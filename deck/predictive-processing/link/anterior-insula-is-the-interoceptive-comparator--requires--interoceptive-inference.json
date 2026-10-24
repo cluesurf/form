@@ -1,0 +1,28 @@
+{
+  "record": "link",
+  "id": "ee828851-6bed-470f-8c96-df19ae438d15",
+  "from": "328aab40-b793-4c09-a9f5-a6378f90097c",
+  "to": "14227052-a013-4d2a-993f-2e4705aa009a",
+  "relation": "requires",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "8ed62dfe-4468-4f53-9b70-f009ba2dbe4f",
+        "locator": "p. 567",
+        "quote": "both as a comparator that registers top-down predictions against bottom-up prediction errors and as a source of anticipatory visceromotor control"
+      }
+    ]
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "record": "observation",
+  "id": "38f69e99-d1f5-4fff-809b-f5ccc5c09b58",
+  "kind": "experimental_result",
+  "epistemic_status": "observed",
+  "description": "Psilocybin fMRI in 30 volunteers (15 arterial spin labeling, 15 BOLD): only decreases in cerebral blood flow and BOLD signal were seen, maximal in hubs such as thalamus and cingulate cortex, and the size of the mPFC decrease predicted the intensity of subjective effects.",
+  "method": "instrument",
+  "status": "reported",
+  "source": "de23b468-1802-43c8-a751-b24fc28087ea",
+  "procedure": null,
+  "variable": null,
+  "value": null,
+  "unit": null,
+  "uncertainty": null,
+  "sample_size": 30,
+  "replication_count": null,
+  "quality": null,
+  "limitations": null,
+  "conflicts_of_interest": null,
+  "observed_at": "2012-02-07",
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "de23b468-1802-43c8-a751-b24fc28087ea",
+        "locator": "abstract",
+        "quote": "only decreases in cerebral blood flow and BOLD signal were seen, and these were maximal in hub regions"
+      }
+    ]
+  }
+}

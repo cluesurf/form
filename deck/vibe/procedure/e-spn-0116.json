@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "0c5f3c2c-97c9-4c22-9a1d-ea8e4e0cbf88",
+  "title": "E-SPN-0116: a controlled quantum plaquette mixer bends the string of a love-fear pair on crossing lines but the pair...",
+  "purpose": "Experiment E-SPN-0116 in the spin arena: a controlled quantum plaquette mixer bends the string of a love-fear pair on crossing lines but the pair neither holds nor moves, partial (B1, B2, B3 fail; the theta = 0 velocity control missed its 1 percent bound on g90, -2.12e-3 against 2.06e-3): the Kogut-Susskind face term $f(U_p)$ as a coin on each face's $Z_3$ clock shift, acting only where the face's oriented flux is not uniform, is exact in (1/3) Z[zeta_42], unitary, reverses bit for bit, keeps Gauss and fixes the vacuum; no mixer can keep the vacuum, bend a straight string and commute with the stream's recorded copies, so it changes a lone love's walk (0.043 in total variation) but not its line or reach; and a pair on two lines that meet once cannot move whatever the string does, since a common shift takes both vibes from the crossing and the string is at least their distance; at theta = 2 pi / 42 on the 8 (g60) and 4 (g90) faces at the crossing the level leaks (tail plus dropped 7.7e-3 and 3.9e-2 by 64 beats, the phase hold spoiled), moves 1e-3 docks a beat against 0.30 and 0.21 predicted, and its energy stays within 0.004 of rest against 0.25 and 0.17; its string is bent with weight 0.015 and 0.028, 1.5 and 2.8 percent of it cutting the corner.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L2 (L2: known physics reproduced on a stated model).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/spin/bent-string.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-SPN-0116",
+        "quote": null
+      }
+    ]
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "record": "proposition",
+  "id": "9d59395c-3a35-4551-ab82-990b283eb97b",
+  "kind": "empirical",
+  "epistemic_status": "inferred",
+  "title": "Dissociation can literally blind an alter",
+  "statements": [
+    {
+      "id": "750b0041-338c-414c-accc-cce99d8a3656",
+      "text": "Dissociation can blind an alter to contents outside its field, as in a DID patient whose blind alters lacked the brain activity of sight while her eyes were open.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-23"
+    }
+  ],
+  "current_statement": "750b0041-338c-414c-accc-cce99d8a3656",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "9c8de529-0562-4ede-9748-a99db6ec0056",
+        "locator": "section 9, p. 143",
+        "quote": "there is strong empirical evidence for the literally blinding power of dissociation"
+      }
+    ]
+  }
+}

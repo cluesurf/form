@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "6e9b7dad-0e9d-45b0-9e9c-9d0146938477",
+  "title": "E-SLF-0078: two bath-coupled bodies bind into a higher composite self with its own identity and agency, selves nest",
+  "purpose": "Experiment E-SLF-0078 in the selves arena: two bath-coupled bodies bind into a higher composite self with its own identity and agency, selves nest.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L2 (L2: known physics reproduced on a stated model).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/selves/nested-bath-selves.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-SLF-0078",
+        "quote": null
+      }
+    ]
+  }
+}

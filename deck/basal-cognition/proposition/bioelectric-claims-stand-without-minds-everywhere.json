@@ -1,0 +1,45 @@
+{
+  "record": "proposition",
+  "id": "df048aa6-73e2-4131-82f1-c5834376ca7b",
+  "kind": "philosophical",
+  "epistemic_status": "inferred",
+  "title": "The bioelectric hypotheses stand without the minds-everywhere commitments",
+  "statements": [
+    {
+      "id": "5cf5f28d-098f-4da3-8ac2-379e5a119e78",
+      "text": "The hypotheses about bioelectric scaling and multi-scale competency can be explored without accepting the framework's broader claims about minds everywhere.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-23"
+    }
+  ],
+  "current_statement": "5cf5f28d-098f-4da3-8ac2-379e5a119e78",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "fd7382f9-52a5-4beb-9680-fc341ff15b98",
+        "locator": "Introduction, before Table 1",
+        "quote": "can be explored without accepting the \"minds everywhere\" commitments of the framework"
+      }
+    ]
+  }
+}

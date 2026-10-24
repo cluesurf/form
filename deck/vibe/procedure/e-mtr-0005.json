@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "eb0d4d33-8949-4ca6-8b73-058abbe60933",
+  "title": "E-MTR-0005: the fear-walk token trembles at 2 arccos(cos k / 2), 2 pi / 3 at rest on the line and on the 18-slot...",
+  "purpose": "Experiment E-MTR-0005 in the quantum arena: the fear-walk token trembles at 2 arccos(cos k / 2), 2 pi / 3 at rest on the line and on the 18-slot husk token alike, twice its rest energy pi / 3, whose chord 2 sin(pi / 3) = |1 - omega| = sqrt 3 is its rest mass, and a start in one band does not tremble.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L2 (L2: known physics reproduced on a stated model).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/matter/stand-in-zitterbewegung.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-MTR-0005",
+        "quote": null
+      }
+    ]
+  }
+}

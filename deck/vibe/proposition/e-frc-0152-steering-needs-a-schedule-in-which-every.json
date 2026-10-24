@@ -1,0 +1,50 @@
+{
+  "record": "proposition",
+  "id": "79add179-fbf7-4290-8b64-25cc81c51740",
+  "kind": "empirical",
+  "epistemic_status": "simulated",
+  "title": "E-FRC-0152: steering needs a schedule in which every line meets every other, and no knit that precesses one...",
+  "statements": [
+    {
+      "id": "21c9b493-f3a2-4381-b2a4-bc62c5fe37b7",
+      "text": "Steering needs a schedule in which every line meets every other, and no knit that precesses one partition by a symmetry of the box has one: the color turn weave's couples reach 12 of 66 pairs and no power of any of the 1,152 symmetries reaches more than 36, while a round robin folded into the 24-beat palindrome reaches all 66, keeps CPT, and with lone steering leaves the vacuum exactly as it was.",
+      "language": "en",
+      "scope": "experiment E-FRC-0152, arena gauge, depth L1 (L1: known mathematics, correctly confirmed)",
+      "conditions": "substrates: 3434. In a paper: false",
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-22"
+    }
+  ],
+  "current_statement": "21c9b493-f3a2-4381-b2a4-bc62c5fe37b7",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": {
+    "value": "open",
+    "reason": "holds in the vibe claim graph",
+    "basis": [],
+    "proposal": null
+  },
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "research/result.ts R-FRC-0006",
+        "quote": null
+      }
+    ]
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "record": "proposition",
+  "id": "734054e8-ad67-453c-944f-171ea7a4ce63",
+  "kind": "philosophical",
+  "epistemic_status": "inferred",
+  "title": "Answer: what is emergent",
+  "statements": [
+    {
+      "id": "d82b84c5-a842-4c3a-8c60-cb00a8796a0e",
+      "text": "Physical existence is the derived notion, an explanatory construct inferred from within experience. Consciousness does not emerge from computation or function, and aggregates such as crowds do not exist as single conscious entities.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-23"
+    }
+  ],
+  "current_statement": "d82b84c5-a842-4c3a-8c60-cb00a8796a0e",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "8443eb2e-406e-4acc-94e8-33cbabbd3679",
+        "locator": "section \"Axioms\" (full text)",
+        "quote": "Unlike phenomenal existence, which is immediate and irrefutable (an axiom), physical existence is an explanatory construct (a postulate), and it is assessed operationally (from within consciousness)"
+      }
+    ]
+  }
+}

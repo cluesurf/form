@@ -1,0 +1,54 @@
+{
+  "record": "proposition",
+  "id": "bca3c40a-6383-487a-8221-58d89ecf742e",
+  "kind": "empirical",
+  "epistemic_status": "hypothesized",
+  "title": "Emotions are interoceptive inferences",
+  "statements": [
+    {
+      "id": "6aaa0430-98f4-48a8-9c3e-16cb1ebc9383",
+      "text": "Emotional feelings arise from actively inferred predictive models of the causes of interoceptive signals, extending appraisal theories of emotion.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-23"
+    }
+  ],
+  "current_statement": "6aaa0430-98f4-48a8-9c3e-16cb1ebc9383",
+  "status": "active",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": {
+    "value": "open",
+    "reason": null,
+    "basis": [],
+    "proposal": null
+  },
+  "origin": [
+    {
+      "repository": "predictive-processing",
+      "id": "bfea6bd6-b8c9-44e5-938d-61bbd85e353d"
+    }
+  ],
+  "provenance": {
+    "written_by": "github:lancejpollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "5d0a1afa-5d45-41de-b70d-b77fab9d96c1",
+        "locator": "p. 565, abstract",
+        "quote": "'interoceptive inference' conceives of subjective feeling states (emotions) as arising from actively-inferred generative (predictive) models of the causes of interoceptive afferents"
+      }
+    ]
+  }
+}

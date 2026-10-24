@@ -1,0 +1,50 @@
+{
+  "record": "proposition",
+  "id": "fe598b24-399d-424f-988d-4bc3d0461f08",
+  "kind": "definitional",
+  "epistemic_status": "designed",
+  "title": "D1: pull: (measured - published) / sigma, with sigma the combined error",
+  "statements": [
+    {
+      "id": "39d23028-530a-4c45-a349-d783c797924b",
+      "text": "Pull: (measured - published) / sigma, with sigma the combined error.",
+      "language": "en",
+      "scope": "a defined quantity, so a number means one thing",
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-22"
+    }
+  ],
+  "current_statement": "39d23028-530a-4c45-a349-d783c797924b",
+  "status": "active",
+  "voice": "framework",
+  "defines": "pull",
+  "question": null,
+  "prediction": null,
+  "standing": {
+    "value": "open",
+    "reason": "holds in the vibe claim graph",
+    "basis": [],
+    "proposal": null
+  },
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "research/node.ts D1",
+        "quote": null
+      }
+    ]
+  }
+}

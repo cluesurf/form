@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "c71cec09-d343-42f0-b61c-a416d57ab241",
+  "title": "E-FRC-0221: the first quantum atom on trits: a STAND-IN fear-walk electron whose charge and current enter the...",
+  "purpose": "Experiment E-FRC-0221 in the gauge arena: the first quantum atom on trits: a STAND-IN fear-walk electron whose charge and current enter the five-level shaped light as the signed whole's expectation (semiclassical), counted into the rule by thresholds and carried by a shaped bucket, with the light's field acting back on the walk's phases, stays bound over 15 orbital periods where a classical point charge flew apart, keeps matter plus light energy, keeps Gauss exact and reverses exactly.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L2 (L2: known physics reproduced on a stated model).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/gauge/trit-quantum-atom.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-FRC-0221",
+        "quote": null
+      }
+    ]
+  }
+}

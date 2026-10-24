@@ -1,0 +1,50 @@
+{
+  "record": "proposition",
+  "id": "7533bb10-ff79-48b4-a7dc-b1f7608323b1",
+  "kind": "mathematical",
+  "epistemic_status": "inferred",
+  "title": "The recovered response metric equals the carrier metric only at an unproved fixed point",
+  "statements": [
+    {
+      "id": "9aa74e2a-bb37-4f0e-8c35-8752bc6b02ad",
+      "text": "Linearizing about an admissible state gives a unique Lorentzian response metric in four dimensions, but its equality with the declared carrier metric is a coupled fixed-point condition that is stated and not yet proved.",
+      "language": "en",
+      "scope": null,
+      "conditions": "graded by the author as an open geometric closure gate",
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "9aa74e2a-bb37-4f0e-8c35-8752bc6b02ad",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "e731e152-07fe-4e9c-bb57-f298772da6af",
+        "locator": "abstract",
+        "quote": "Equality of that response metric with the carrier metric remains a coupled fixed-point condition, while Einstein form is a selection result rather than a consequence of continuity alone."
+      },
+      {
+        "source": "07b60777-d937-46dd-ab61-df0260b46566",
+        "locator": "abstract",
+        "quote": "That recovered response metric is distinct from the carrier metric until a coupled fixed point is proved."
+      }
+    ]
+  }
+}

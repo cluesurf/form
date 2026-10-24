@@ -1,0 +1,50 @@
+{
+  "record": "proposition",
+  "id": "e0608a9b-e3e9-4ac6-904f-f3b38d843bab",
+  "kind": "empirical",
+  "epistemic_status": "hypothesized",
+  "title": "One near-horizon boundary layer controls both echoes and evaporation",
+  "statements": [
+    {
+      "id": "b2fce4de-5d0d-47c0-94a6-cf80fc1cdab3",
+      "text": "A thin boundary layer near a horizon, set by a few dimensionless parameters for impedance contrast, reflectivity, absorption and shear of the conserved current, produces delayed ringdown echoes and modifies late primordial black hole evaporation. It reduces to general relativity when the layer vanishes.",
+      "language": "en",
+      "scope": "a phenomenological model on a classical general-relativity background",
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "b2fce4de-5d0d-47c0-94a6-cf80fc1cdab3",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "020ab9c6-3c80-4042-8845-f97e49eb2e53",
+        "locator": "abstract",
+        "quote": "Because both effects depend on the same scaling combination of parameters, gravitationalwave and gamma-ray observations provide a joint consistency test of the effective description."
+      },
+      {
+        "source": "020ab9c6-3c80-4042-8845-f97e49eb2e53",
+        "locator": "section 1",
+        "quote": "The central idea explored here is that a single near-horizon shear parameter can control both effects."
+      }
+    ]
+  }
+}

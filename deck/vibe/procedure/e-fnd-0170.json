@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "aac5d8c0-3823-402e-85d9-d2125f8a9877",
+  "title": "E-FND-0170: every conserved density of the working rule up to degree 2 at support one dock, found by exact linear...",
+  "purpose": "Experiment E-FND-0170 in the foundations arena: every conserved density of the working rule up to degree 2 at support one dock, found by exact linear algebra over Q and Z3, fail as predicted (nothing new in general, 11 new on the vacuum family): on every content of a dock with up to 3 vibes, up to 2 stores and every momentum the bounce table acts on (296,332 probes), the rule keeps exactly the love and fear counts (2 found at degree 1 and at degree 2, Z3 the same); the twelve line tones are not conserved in general, because a dock of two singles carries one across lines; on the vacuum family (sides 4 and 8, 96 disturbances, 48 beats) it keeps 24, the love and fear count of every line direction, 11 beyond the known list, all from the line law's occupation form and nothing beyond it; W(F4) covariant at degree 1 (2 trivial, 22 nontrivial); controls: the bare stream finds 72 and 336, a decay map 0, rule 184 its particle count, a mod-3 toy 0 over Q and 1 over Z3.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L2 (L2: known physics reproduced on a stated model).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/foundations/conserved-search.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-FND-0170",
+        "quote": null
+      }
+    ]
+  }
+}

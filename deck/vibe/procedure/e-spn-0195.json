@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "50d936bc-d0e2-429f-99c8-8b88ad7804be",
+  "title": "E-SPN-0195: R and g as one matching table: the register member's NRQED coefficients M1 = m, M2 = tan m, (M2 / M4)^3...",
+  "purpose": "Experiment E-SPN-0195 in the spin arena: R and g as one matching table: the register member's NRQED coefficients M1 = m, M2 = tan m, (M2 / M4)^3 = (32/3) tan^2 m + cos 2m / cos^2 m and $c_F$ from its Landau levels, read at five masses, predict a bound pair's excess R - tan m / m with no free parameter (Kronfeld's first-order kinetic mass), compared with E-SPN-0183's measured R at $a_B$ 8 and 12.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L2 (L2: known physics reproduced on a stated model).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/spin/matching-table.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-SPN-0195",
+        "quote": null
+      }
+    ]
+  }
+}

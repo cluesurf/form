@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "ea58c507-85d4-4d3b-872c-a12c2baaa9e9",
+  "title": "E-GRV-0047: the momentum transport law closes integer-exactly at every coarse block scale under the...",
+  "purpose": "Experiment E-GRV-0047 in the gravity arena: the momentum transport law closes integer-exactly at every coarse block scale under the momentum-conserving rule (block momentum change equals minus the boundary momentum flux, all four components, every beat), while the pair-table control leaves a nonzero residual, so both halves of the Chronoflux covariant transport closure, the scalar law and the momentum law, emerge exactly from the discrete substrate.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L2 (L2: known physics reproduced on a stated model).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/gravity/coarse-stress-closure.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-GRV-0047",
+        "quote": null
+      }
+    ]
+  }
+}

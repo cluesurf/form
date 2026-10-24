@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "6a1261d9-f408-4bc7-b15b-61e74e9a8716",
+  "title": "E-SPN-0198: The chiral slab's wall-pair leak as a two-path evanescent sum: each domain's decay kappa and wave number...",
+  "purpose": "Experiment E-SPN-0198 in the spin arena: The chiral slab's wall-pair leak as a two-path evanescent sum: each domain's decay kappa and wave number q at quasienergy pi from its bulk symbol alone (complex band structure), frozen, then tested on 81 asymmetric slabs (Wilson width and plain width 4 to 12 each), fit on 45 and predicted on 36.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L2 (L2: known physics reproduced on a stated model).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/spin/wall-leak-channels.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-SPN-0198",
+        "quote": null
+      }
+    ]
+  }
+}

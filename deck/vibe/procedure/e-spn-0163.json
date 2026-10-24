@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "aaaf2356-7ad7-419e-8481-ca23631e578e",
+  "title": "E-SPN-0163: the many-body rule with registers is Gaussian, keeps the full sea exactly and makes one hole a member...",
+  "purpose": "Experiment E-SPN-0163 in the spin arena: the many-body rule with registers is Gaussian, keeps the full sea exactly and makes one hole a member, and a covariant two-body vertex makes the trimaximal phase physical and lets number move between the halves, partial (C and CP still do not break together): every piece of the register rule is one-body, so the fermionic rule is its second quantization (minors, Cauchy-Binet, exact on the register Fock space), the full sea stays one branch with a unit amplitude every beat and exactly 1 per cycle (det X = +1, $u^8$ conj(u)^8 = 1), and by Jacobi one hole moves with the member's own band (c/4, gamma = 0, R = tan m/m); no Dirac-class piece of any order changes a member's chirality (the commutant R (x) R commutes with J), but a contact vertex, the register exchange (covariant under all 1,152, exact, integer-valued, T-even and P-even), turns a (+, -) pair into (-, +) flavor-diagonally and makes the trimaximal phase physical (an exact T-odd asymmetry, odd in V, zero for real mixing, rephasing invariant); it is C-even (particle-hole maps it to itself up to 12 - 4N), so C is kept; and a covariant pair table can make one + member and one - member (the rotations keep exactly one pair state in H+ (x) H-), moving number between the halves with no net direction while C holds.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L1 (L1: known mathematics, correctly confirmed).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/spin/register-many-body.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-SPN-0163",
+        "quote": null
+      }
+    ]
+  }
+}

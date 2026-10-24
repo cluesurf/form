@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "3c3668b3-2fdc-4f23-8370-66be0e264b33",
+  "title": "E-SBT-0017: the 5D pentacomb has a genuine hyperbolic embedding, greedy routing on $H^5$ delivers",
+  "purpose": "Experiment E-SBT-0017 in the substrate-survey arena: the 5D pentacomb has a genuine hyperbolic embedding, greedy routing on $H^5$ delivers.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L2 (L2: known physics reproduced on a stated model).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/substrate-survey/pentacomb-geometric.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-SBT-0017",
+        "quote": null
+      }
+    ]
+  }
+}

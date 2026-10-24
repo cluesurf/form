@@ -1,0 +1,28 @@
+{
+  "record": "link",
+  "id": "ee712148-4818-46c3-b7b9-80d496024dc1",
+  "from": "11dd51bb-d39e-41b1-9a2b-87410ae128ee",
+  "to": "8f42382b-1b97-40c3-9a79-60a2eb5a9bba",
+  "relation": "requires",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "8360d34d-30cb-44f8-89c9-41768fb53f0d",
+        "locator": "Theory, State-Independent Causal Analysis",
+        "quote": "the effectiveness (Eff) of the causal interactions within a system can be captured by normalizing EI by the system’s size"
+      }
+    ]
+  }
+}

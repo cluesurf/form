@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "ee36dbc4-ecbf-4211-aabe-e5e3a12f6ab1",
+  "title": "E-SCL-0015: the wave equation commutes up the coarse-graining tower with an invariant speed",
+  "purpose": "Experiment E-SCL-0015 in the renormalization arena: the wave equation commutes up the coarse-graining tower with an invariant speed.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L2 (L2: known physics reproduced on a stated model).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/renormalization/wave-chain.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-SCL-0015",
+        "quote": null
+      }
+    ]
+  }
+}

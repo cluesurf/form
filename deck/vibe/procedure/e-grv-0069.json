@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "97d5efea-746c-49f9-81cf-c5961783af5e",
+  "title": "E-GRV-0069: no curvature from shared information around a lone vibe on the quantum state of the working vacuum, fail...",
+  "purpose": "Experiment E-GRV-0069 in the gravity arena: no curvature from shared information around a lone vibe on the quantum state of the working vacuum, fail on K1 and K2: the vacuum with the coin (side 8, 17 starts, 16 beats) is one term at every beat, so its neighboring husk columns share exactly 0 bits and there is no background geometry to curve; a lone love, in superposition over 16 to 130 terms, correlates only the 4 to 8 columns of its own line, and the shell mean of neighbor information around it falls from 4.2e-2 at r = 0 to 5.9e-3 (2.8 errors), 1.8e-3, 6.3e-4 and 2.2e-4 at r = 1 to 4 and to 0 from r = 5, a log slope of -2.31 that is one line diluted over growing shells, not 1/r; charge blind (love and fear agree within errors at every r), norm exact.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L2 (L2: known physics reproduced on a stated model).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/gravity/quantum-shared-curvature.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-GRV-0069",
+        "quote": null
+      }
+    ]
+  }
+}

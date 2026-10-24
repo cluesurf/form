@@ -1,0 +1,28 @@
+{
+  "record": "link",
+  "id": "9e3fbbd1-7e0d-4a42-833e-7e9994532060",
+  "from": "3ebde410-f1ee-4290-ad77-967eb6fed373",
+  "to": "5e3e8519-290a-44e2-afce-36a4247ecbf7",
+  "relation": "requires",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "2207dc33-f8a8-469f-99b2-286f1139ed74",
+        "locator": "section 3",
+        "quote": "Objects do not exist when they are not observed."
+      }
+    ]
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "7938a2ed-9e57-434e-b941-2348cd696a6d",
+  "title": "E-FRC-0260: the husk light at the register's one speed, partial: in D4 coordinates per beat the register's c / 4 is...",
+  "purpose": "Experiment E-FRC-0260 in the gauge arena: the husk light at the register's one speed, partial: in D4 coordinates per beat the register's c / 4 is sqrt 2 / 4 and the husk light's speed is sqrt(2 kappa / 3), so one speed is kappa = 3/16, stable (kappa lambda at most 3) and isotropic on the husk; the trit column light never reaches it (32 p = 3 (2D + 1), even against odd), the quantum loop light reaches it at every depth (m = 4j, c $r = 3 j^2$) with the ladder's balance rho = 3 but never with the husk's 3D balance rho = 3/8, whose speed 4t / m is rational; the register's speed sits under the stable cap 1/sqrt 6, so the old refusal of one speed does not apply to the register rule.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L2 (L2: known physics reproduced on a stated model).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/gauge/register-light-speed.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-FRC-0260",
+        "quote": null
+      }
+    ]
+  }
+}

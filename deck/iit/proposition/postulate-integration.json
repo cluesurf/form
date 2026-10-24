@@ -1,0 +1,45 @@
+{
+  "record": "proposition",
+  "id": "5e7bdd89-3f68-4664-8201-fca0e796541e",
+  "kind": "philosophical",
+  "epistemic_status": "inferred",
+  "title": "Postulate: cause-effect power is unitary",
+  "statements": [
+    {
+      "id": "76c27af3-02c8-41e2-abe5-81775e1861a6",
+      "text": "The substrate's cause-effect power must be unitary: it must specify its cause-effect state as a whole, irreducible to separate subsets of units.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-23"
+    }
+  ],
+  "current_statement": "76c27af3-02c8-41e2-abe5-81775e1861a6",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "8443eb2e-406e-4acc-94e8-33cbabbd3679",
+        "locator": "section \"Postulates of physical existence\" (full text)",
+        "quote": "Its cause–effect power must be unitary: it must specify its cause–effect state as a whole"
+      }
+    ]
+  }
+}

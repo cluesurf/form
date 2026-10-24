@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "b55bb861-ff33-4f03-87ec-f5609ef3cf75",
+  "title": "E-FRC-0075: the CKM angle scale from shell overlaps: the derived {3,4,3,4} growth rate gives sin theta12 =...",
+  "purpose": "Experiment E-FRC-0075 in the gauge arena: the CKM angle scale from shell overlaps: the derived {3,4,3,4} growth rate gives sin theta12 = lambda^(-1/2), the Cabibbo angle within four percent with zero free parameters (the shell form of the Gatto-Sartori-Tonin relation), the two- and three-shell angles in the right order within the factor-few honesty band, and the flat lattice control puts its angle above forty degrees, so the mixing SCALE lives at the shell layer that the algebra layer (E-FRC-0070) provably cannot supply.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L2 (L2: known physics reproduced on a stated model).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/gauge/ckm-from-shell-overlap.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-FRC-0075",
+        "quote": null
+      }
+    ]
+  }
+}

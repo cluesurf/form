@@ -1,0 +1,63 @@
+{
+  "record": "proposition",
+  "id": "eedb106f-2b93-44fd-81e9-fb652fac6bbb",
+  "kind": "empirical",
+  "epistemic_status": "hypothesized",
+  "title": "Dark energy is a property of the base medium",
+  "statements": [
+    {
+      "id": "ef79b7d5-9928-4099-927c-0826ceb74b47",
+      "text": "Dark energy is a vacuum-like term of the base medium itself, not a separate added substance.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-23"
+    }
+  ],
+  "current_statement": "ef79b7d5-9928-4099-927c-0826ceb74b47",
+  "status": "active",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": {
+    "value": "open",
+    "reason": null,
+    "basis": [],
+    "proposal": null
+  },
+  "origin": [
+    {
+      "repository": "chronoflux",
+      "id": "95f94bf4-23b0-403a-93c1-7016bdb89170"
+    },
+    {
+      "repository": "vibe",
+      "id": "c2805a22-8c98-47e3-a53f-70f180b708a3"
+    }
+  ],
+  "provenance": {
+    "written_by": "github:lancejpollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "4d74d88a-e367-4c40-8f86-e12cec83de38",
+        "locator": "abstract",
+        "quote": "This gives a controlled background unification of dark energy and dark matter behaviour. It does not, by itself, derive galactic haloes."
+      },
+      {
+        "source": "13f7a20e-6ef8-478a-b41d-d3a47a702149",
+        "locator": "research/prediction.ts PC-04",
+        "quote": null
+      }
+    ]
+  }
+}

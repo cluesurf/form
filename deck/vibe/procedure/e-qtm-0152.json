@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "4e69cf1a-66a0-48b4-9aaf-e8923b055893",
+  "title": "E-QTM-0152: teleportation and entanglement swapping on the knit: the pair a love and a fear make at one meeting from...",
+  "purpose": "Experiment E-QTM-0152 in the quantum arena: teleportation and entanglement swapping on the knit: the pair a love and a fear make at one meeting from a common role point is maximally entangled and a stabilizer state, and with it, a reading of two roles on a Lagrangian coset (two classical trits, each outcome at chance 1/9) and one link move per outcome, every input reaches the receiving role exactly on all 17 link starts, fears included, and half of a fear-carrying knot swaps onto a role that never met its partner; with the fear beat off the pair is a product, and a like pair, an ebit at best, teleports no qutrit.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L2 (L2: known physics reproduced on a stated model).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/quantum/teleportation-and-swapping.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-QTM-0152",
+        "quote": null
+      }
+    ]
+  }
+}

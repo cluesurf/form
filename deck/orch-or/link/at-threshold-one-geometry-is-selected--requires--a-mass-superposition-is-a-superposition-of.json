@@ -1,0 +1,28 @@
+{
+  "record": "link",
+  "id": "da3a5fc0-a88a-4c9b-bfaa-b97e4f7bb62c",
+  "from": "92a93ba2-c2ad-4ee4-a7d9-5bc0c97372c1",
+  "to": "3be86ca9-e2bd-4465-833c-6118e9e9f932",
+  "relation": "requires",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "c0602528-f093-4705-abc3-e13d7657a680",
+        "locator": "Fig. 9 caption",
+        "quote": "As superposition curvature E reaches threshold (by EG = h̄/τ ), OR occurs and one particle location/curvature is selected, and becomes classical. The other ceases to exist."
+      }
+    ]
+  }
+}

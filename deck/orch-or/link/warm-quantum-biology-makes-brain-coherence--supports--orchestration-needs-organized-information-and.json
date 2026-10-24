@@ -1,0 +1,28 @@
+{
+  "record": "link",
+  "id": "13869d2f-2182-4d54-aae9-d7236e4befa2",
+  "from": "904d9de7-897f-45d4-b40f-fe7c6558e080",
+  "to": "fc7311b8-335b-4f66-8b50-2938a50cc94a",
+  "relation": "supports",
+  "strength": 0.3,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "c0602528-f093-4705-abc3-e13d7657a680",
+        "locator": "section 4.5",
+        "quote": "Further research has shown warm quantum effects in bird-brain navigation [128], ion channels [129], sense of smell"
+      }
+    ]
+  }
+}

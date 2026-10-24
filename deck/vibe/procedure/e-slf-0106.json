@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "ed8f14c0-46df-4b2a-a04d-b7b106b39358",
+  "title": "E-SLF-0106: topological solitons exist on the 4D horosphere but are over-dimensional",
+  "purpose": "Experiment E-SLF-0106 in the selves arena: topological solitons exist on the 4D horosphere but are over-dimensional.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L1 (L1: known mathematics, correctly confirmed).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/selves/s53333-selves.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-SLF-0106",
+        "quote": null
+      }
+    ]
+  }
+}

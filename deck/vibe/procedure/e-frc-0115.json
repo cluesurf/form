@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "de5b78ad-92b1-48d8-a030-ac11d788ecbe",
+  "title": "E-FRC-0115: geometric color has one global frame and no local one: rotating the color of half the box is invisible...",
+  "purpose": "Experiment E-FRC-0115 in the gauge arena: geometric color has one global frame and no local one: rotating the color of half the box is invisible on the triality weave vacuum and a visible wall on the committed rule vacuum, and visible for every rule on a dense background, and the cells a color triality fixes are a thin sheet.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L2 (L2: known physics reproduced on a stated model).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/gauge/color-frame.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-FRC-0115",
+        "quote": null
+      }
+    ]
+  }
+}

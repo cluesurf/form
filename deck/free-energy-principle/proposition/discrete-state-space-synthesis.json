@@ -1,0 +1,45 @@
+{
+  "record": "proposition",
+  "id": "3be6edf2-bff1-4124-b43e-9fb6f5686e7d",
+  "kind": "mathematical",
+  "epistemic_status": "designed",
+  "title": "Active inference on discrete state spaces derives neuronal dynamics",
+  "statements": [
+    {
+      "id": "8c67ceb4-5d6e-49f0-86cf-1a740f39647c",
+      "text": "For discrete state-space generative models, active inference can be written out in full and used to derive neuronal dynamics from first principles, which then serve as in-silico predictions for experiments.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-23"
+    }
+  ],
+  "current_statement": "8c67ceb4-5d6e-49f0-86cf-1a740f39647c",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "309d44ca-d7a4-44c2-a90c-b75354cef951",
+        "locator": "abstract (arXiv record)",
+        "quote": "This technical summary provides an overview of the theory, derives neuronal dynamics from first principles and relates this dynamics to biological processes."
+      }
+    ]
+  }
+}

@@ -1,0 +1,86 @@
+{
+  "record": "proposition",
+  "id": "7770a3a8-5570-4ec2-9e57-d08adacd4b91",
+  "kind": "philosophical",
+  "epistemic_status": "hypothesized",
+  "title": "Experience is derived",
+  "statements": [
+    {
+      "id": "01eec643-6cca-400c-9585-d465617ba20e",
+      "text": "Experience is derived: it arises from processes, such as inference in a living body or the global broadcasting of information in a brain, that are not themselves experiences.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-23"
+    }
+  ],
+  "current_statement": "01eec643-6cca-400c-9585-d465617ba20e",
+  "status": "active",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": {
+    "value": "open",
+    "reason": null,
+    "basis": [],
+    "proposal": null
+  },
+  "origin": [
+    {
+      "repository": "free-energy-principle",
+      "id": "48281a30-7464-4f68-99a1-b6162d06014e"
+    },
+    {
+      "repository": "predictive-processing",
+      "id": "914846a5-d143-42ca-ab36-c6016a6c8e1d"
+    },
+    {
+      "repository": "global-workspace",
+      "id": "9b2a360b-2d76-4efb-8a4a-603e641ad90a"
+    },
+    {
+      "repository": "global-workspace",
+      "id": "28df8088-7867-4072-afd2-70ca83187535"
+    }
+  ],
+  "provenance": {
+    "written_by": "github:lancejpollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "cbb7f75a-bb5f-4c46-9080-6e412bc0434d",
+        "locator": "abstract",
+        "quote": "On this view, consciousness is nothing more than inference about my future; namely, the self-evidencing consequences of what I could do."
+      },
+      {
+        "source": "93616313-8dd7-4f42-952f-7ccca5579082",
+        "locator": "accepted manuscript p. 18",
+        "quote": "conscious contents are actively generated, rather than passively registered"
+      },
+      {
+        "source": "a64c1304-2445-461a-91e4-b4b3d00821dc",
+        "locator": "abstract",
+        "quote": "We postulate that this global availability of information through the workspace is what we subjectively experience as a conscious state."
+      },
+      {
+        "source": "08b902e4-5dff-41a5-9b20-8b9a87b26443",
+        "locator": "Introduction, p. 776",
+        "quote": "it is the wide accessibility of this information that is hypothesized to constitute conscious experience"
+      },
+      {
+        "source": "a64c1304-2445-461a-91e4-b4b3d00821dc",
+        "locator": "section 2, p. 3",
+        "quote": "Within a materialistic framework, each instance of mental activity is also a physical brain state."
+      }
+    ]
+  }
+}

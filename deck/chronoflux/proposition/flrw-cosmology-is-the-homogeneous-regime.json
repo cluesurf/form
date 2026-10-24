@@ -1,0 +1,50 @@
+{
+  "record": "proposition",
+  "id": "6a7c9187-2d83-4a37-8ced-d3ef854717ca",
+  "kind": "mathematical",
+  "epistemic_status": "inferred",
+  "title": "Rung: FLRW cosmology is the homogeneous regime of the same current",
+  "statements": [
+    {
+      "id": "2bb9d80e-ff1b-47d0-a403-c3c7fd3322f0",
+      "text": "For a comoving flow on an FLRW metric, continuity becomes $\\dot\\rho_t + 3H(\\rho_t + p_t) = 0$ and the geometric closure gives the Friedmann equations, so cosmology needs no new conservation principle.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "2bb9d80e-ff1b-47d0-a403-c3c7fd3322f0",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "e9bae950-bb2d-4846-bc12-5f19b8e973a1",
+        "locator": "section 9",
+        "quote": "There is no new conservation principle in cosmology."
+      },
+      {
+        "source": "e9bae950-bb2d-4846-bc12-5f19b8e973a1",
+        "locator": "section 9",
+        "quote": "These equations show that large scale expansion is again a regime of the same mechanical core."
+      }
+    ]
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "record": "observation",
+  "id": "eb540f39-3e9e-4f85-b08b-728a1cae3f91",
+  "kind": "experimental_result",
+  "epistemic_status": "observed",
+  "description": "Cogitate (2025), a preregistered adversarial collaboration with 256 participants measured with fMRI, MEG and intracranial EEG, found no sustained content-specific synchronization within posterior cortex, which the authors say contradicts the IIT claim that network connectivity specifies consciousness.",
+  "method": "experiment",
+  "status": "reported",
+  "source": "b84809ac-0650-4173-b863-4ba1c946fcca",
+  "procedure": null,
+  "variable": null,
+  "value": null,
+  "unit": null,
+  "uncertainty": null,
+  "sample_size": 256,
+  "replication_count": null,
+  "quality": null,
+  "limitations": "Tests three predictions agreed by the proponents before data collection. Critics hold these predictions are not entailed by the theory itself.",
+  "conflicts_of_interest": null,
+  "observed_at": "2025-04-30",
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b84809ac-0650-4173-b863-4ba1c946fcca",
+        "locator": "abstract",
+        "quote": "For IIT, a lack of sustained synchronization within the posterior cortex contradicts the claim that network connectivity specifies consciousness."
+      }
+    ]
+  }
+}

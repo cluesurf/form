@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "824980a0-e484-45f7-8a66-6e78f2e6f770",
+  "title": "E-FND-0126: the port law is exactly linear: with per-quantum transmission coefficients from the pure runs (one unit...",
+  "purpose": "Experiment E-FND-0126 in the foundations arena: the port law is exactly linear: with per-quantum transmission coefficients from the pure runs (one unit per particle, four per antiparticle), every mixed composition of a four-quantum packet transmits exactly the linear sum, five compositions of five to the slot with no cross-quantum term, which is quantum mechanics own prediction for number states, so the substrate now reproduces quantum measurement statistics exactly for every preparation it can express, and the single-quantum class superposition it cannot express is the models stated falsifiable frontier rather than an evasion.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L2 (L2: known physics reproduced on a stated model).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/foundations/linear-port-law.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-FND-0126",
+        "quote": null
+      }
+    ]
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "record": "proposition",
+  "id": "da3638ef-2f94-4493-bbcc-9b3b6882fd90",
+  "kind": "empirical",
+  "epistemic_status": "hypothesized",
+  "title": "Paper 0012: three large dimensions. Derived",
+  "statements": [
+    {
+      "id": "9814af56-e631-4856-acf6-701d365d9354",
+      "text": "Three large dimensions. Derived.",
+      "language": "en",
+      "scope": "as stated in published paper 0012",
+      "conditions": "The 2026-08-31 audit regraded it: reproduced, L1.",
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-22"
+    }
+  ],
+  "current_statement": "9814af56-e631-4856-acf6-701d365d9354",
+  "status": "retracted",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": {
+    "value": "open",
+    "reason": "the paper's label is withdrawn. Regraded: reproduced, L1",
+    "basis": [],
+    "proposal": null
+  },
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "research/paper.ts ERRATA",
+        "quote": null
+      }
+    ]
+  }
+}

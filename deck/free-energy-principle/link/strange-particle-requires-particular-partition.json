@@ -1,0 +1,28 @@
+{
+  "record": "link",
+  "id": "1617f1c1-ddc1-4941-827f-3be234feaafc",
+  "from": "37625a4a-f4a2-4537-96e5-2f60d2ee0bdf",
+  "to": "22163c81-aa83-40dd-adc9-21775bac8bcd",
+  "relation": "requires",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "550e8bd7-62b0-4fdd-964e-95f8e9dcd664",
+        "locator": "abstract (arXiv record)",
+        "quote": "Strange particles can be described as inferring their own actions, endowing them with apparent autonomy or agency."
+      }
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "record": "link",
+  "id": "4d4a8759-4499-4844-bf60-4d7b35ebe947",
+  "from": "c43b9d2e-f55b-4e99-96c7-53dc2dd0e5da",
+  "to": "6fc1cfba-8cee-46b8-86c7-3476a0ef9c3f",
+  "relation": "supports",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "17f35253-060e-4e9b-8b47-01ee8cf43fdd",
+        "locator": "abstract",
+        "quote": "Although some steps in this pipeline still require manual intervention"
+      }
+    ]
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "record": "observation",
+  "id": "43487a0f-42ab-45cb-bb02-8f7c1c47b28a",
+  "kind": "documentary_record",
+  "epistemic_status": "observed",
+  "description": "A review of human and animal neurophysiology found a recent surge of studies testing predictive processing, while the evidence base remains limited, partly because the unique predictions of these models are hard to test.",
+  "method": "document_review",
+  "status": "reported",
+  "source": "cb5978a2-a9b7-46d4-9bc3-61a3f856f512",
+  "procedure": null,
+  "variable": null,
+  "value": null,
+  "unit": null,
+  "uncertainty": null,
+  "sample_size": null,
+  "replication_count": null,
+  "quality": null,
+  "limitations": "Reviews predictive processing broadly, not the free energy principle specifically.",
+  "conflicts_of_interest": null,
+  "observed_at": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "cb5978a2-a9b7-46d4-9bc3-61a3f856f512",
+        "locator": "abstract",
+        "quote": "This limited evidence base partly reflects the considerable methodological challenges that are presented when trying to test the unique predictions of these models."
+      }
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "record": "link",
+  "id": "4ec558b3-1bc3-4bf1-844f-696fc4356a40",
+  "from": "c6878ce1-90c8-4a9c-9331-9e298240f739",
+  "to": "fd49fbed-3dd6-4004-9897-03c3bee6cf1c",
+  "relation": "requires",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "c40bbd28-a2c5-4730-84c0-90f7ae0644de",
+        "locator": "section 6",
+        "quote": "The source of these gains beyond the microscale is non-mysterious, being based in uncertainty reduction [10, 55], which in turn stems from the multiple-realizability of macrostates [3]."
+      }
+    ]
+  }
+}

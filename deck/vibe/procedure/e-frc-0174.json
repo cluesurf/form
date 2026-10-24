@@ -1,0 +1,37 @@
+{
+  "record": "procedure",
+  "id": "7865d004-896e-47e6-82bb-42dbfc59322c",
+  "title": "E-FRC-0174: links as vibe-vibe relations, the algebra: a relation of the two slots of an edge is a covariant link...",
+  "purpose": "Experiment E-FRC-0174 in the gauge arena: links as vibe-vibe relations, the algebra: a relation of the two slots of an edge is a covariant link only if each slot holds a frame on which the gauged group acts freely, so role and tilt carry the 9 translations of the 216 and no more, the turn between an edge's two slots is the same central -1 for all 24 directions, and the center cannot ride the role points' relation with a flux history under any of the 6,561 sections; the relation of slots is not pure gauge (on the knit's own role points a triangle is trivial 0.110 of the time against 1/9, with one point per dock always), but in the knit, where both slots of an edge are the two contents crossing it, the relation carries each role point onto its partner's and no role point ever leaves its dock.",
+  "hypothesis": null,
+  "steps": null,
+  "analysis_plan": null,
+  "success_criteria": null,
+  "failure_criteria": null,
+  "known_limitations": "Depth L1 (L1: known mathematics, correctly confirmed).",
+  "status": "designed",
+  "question": null,
+  "preregistration": null,
+  "code": {
+    "url": "https://github.com/cluesurf/vibe",
+    "path": "test/experiment/gauge/relational-links.ts",
+    "commit": null
+  },
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-22",
+    "tool": "importer_vibe",
+    "model": null,
+    "ai_written": false,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b431debd-f39c-47fa-b57d-f5a449c2f862",
+        "locator": "test/registry.csv E-FRC-0174",
+        "quote": null
+      }
+    ]
+  }
+}

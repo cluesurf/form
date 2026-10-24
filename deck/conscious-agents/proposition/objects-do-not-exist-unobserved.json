@@ -1,0 +1,45 @@
+{
+  "record": "proposition",
+  "id": "3ebde410-f1ee-4290-ad77-967eb6fed373",
+  "kind": "philosophical",
+  "epistemic_status": "hypothesized",
+  "title": "Objects do not exist unobserved",
+  "statements": [
+    {
+      "id": "4f1b3c25-0e8d-4fda-a824-a5608abc7a14",
+      "text": "Objects do not exist when they are not observed.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-23"
+    }
+  ],
+  "current_statement": "4f1b3c25-0e8d-4fda-a824-a5608abc7a14",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "2207dc33-f8a8-469f-99b2-286f1139ed74",
+        "locator": "section 3",
+        "quote": "Objects do not exist when they are not observed."
+      }
+    ]
+  }
+}

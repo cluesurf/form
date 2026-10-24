@@ -1,0 +1,28 @@
+{
+  "record": "link",
+  "id": "24673af1-ac49-44b1-ba7d-4621028da07a",
+  "from": "b82f0df9-7bd3-4820-845d-b765c468b6e6",
+  "to": "c6878ce1-90c8-4a9c-9331-9e298240f739",
+  "relation": "supports",
+  "strength": 0.5,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-23",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "8360d34d-30cb-44f8-89c9-41768fb53f0d",
+        "locator": "Results, Spatial Causal Emergence",
+        "quote": "the gain in effectiveness ∆IEff at the macro level comes primarily (91%) from counteracting noise"
+      }
+    ]
+  }
+}
