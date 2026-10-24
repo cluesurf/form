@@ -1,0 +1,45 @@
+{
+  "record": "proposition",
+  "id": "b864e892-2dad-489b-9599-07904ffe91ec",
+  "kind": "empirical",
+  "epistemic_status": "hypothesized",
+  "title": "Posner binding and melting is a quantum measurement that raises firing",
+  "statements": [
+    {
+      "id": "04843434-835a-4174-beaa-b776f6237412",
+      "text": "Quantum measurements occur when a pair of Posner molecules chemically bind and then melt, releasing a shower of intracellular calcium ions that can trigger neurotransmitter release and raise the probability of postsynaptic firing.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "04843434-835a-4174-beaa-b776f6237412",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "031558db-d715-456e-b580-d47a6b3bc323",
+        "locator": "abstract",
+        "quote": "Quantum measurements can occur when a pair of Posner molecules chemically bind and subsequently melt, releasing a shower of intra-cellular calcium ions"
+      }
+    ]
+  }
+}

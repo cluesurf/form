@@ -1,0 +1,45 @@
+{
+  "record": "proposition",
+  "id": "d0a7ecd1-74c5-49a2-8d8f-70a80d215f13",
+  "kind": "philosophical",
+  "epistemic_status": "inferred",
+  "title": "Reductions transfer information instantly",
+  "statements": [
+    {
+      "id": "6d095399-0e35-4a39-a49a-e3b16b56f2ad",
+      "text": "An earlier measurement outcome has an immediate effect on the evolving state of the universe and on the propensities for a faraway later measurement. The transfer acts on information and propensities, not on matter or energy.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "6d095399-0e35-4a39-a49a-e3b16b56f2ad",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "cf0e8d1a-00df-4de4-82b8-3266e56aa4a9",
+        "locator": "section 'Nonlocality and Relativity'",
+        "quote": "It acts on a mathematical structure that represents, rather, information and propensities."
+      }
+    ]
+  }
+}

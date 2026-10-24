@@ -1,0 +1,50 @@
+{
+  "record": "proposition",
+  "id": "c74f2436-d854-4156-aa4a-9e2068676133",
+  "kind": "empirical",
+  "epistemic_status": "hypothesized",
+  "title": "Phosphorus spins in a tumbling Posner stay coherent for about a day",
+  "statements": [
+    {
+      "id": "29f8a2c2-a659-4101-899f-4f4c2804a921",
+      "text": "Rapid tumbling of Posner molecules in water averages the dipole fields of nearby protons to zero, and the residual fluctuations give the phosphorus spins coherence times estimated at about $10^5$ seconds, roughly a day, with a later estimate of 21 days.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "29f8a2c2-a659-4101-899f-4f4c2804a921",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "031558db-d715-456e-b580-d47a6b3bc323",
+        "locator": "page 2",
+        "quote": "The phosphorus spins in a Posner molecule are expected to have very long coherence times"
+      },
+      {
+        "source": "f726b134-86ca-42a4-944e-e37979cd3163",
+        "locator": "page 7",
+        "quote": "scenario gives T1 = 1.8 × 106 s = 21 days"
+      }
+    ]
+  }
+}

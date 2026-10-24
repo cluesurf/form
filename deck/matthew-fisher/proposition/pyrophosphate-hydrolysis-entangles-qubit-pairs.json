@@ -1,0 +1,45 @@
+{
+  "record": "proposition",
+  "id": "9e6e1d12-669a-487b-bdd5-3bdff35c3cd8",
+  "kind": "empirical",
+  "epistemic_status": "hypothesized",
+  "title": "Enzymatic pyrophosphate hydrolysis entangles pairs of phosphorus spins",
+  "statements": [
+    {
+      "id": "5251bb2d-f3f2-4539-8247-d87765071e07",
+      "text": "The enzyme-catalyzed reaction that breaks a pyrophosphate ion into two phosphate ions can quantum entangle the pair of phosphorus spins, and Posner molecules built from such pairs with calcium inherit the entanglement.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "5251bb2d-f3f2-4539-8247-d87765071e07",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "031558db-d715-456e-b580-d47a6b3bc323",
+        "locator": "abstract",
+        "quote": "It is argued that the enzyme catalyzed chemical reaction which breaks a pyrophosphate ion into two phosphate ions can quantum entangle pairs of qubits"
+      }
+    ]
+  }
+}

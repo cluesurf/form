@@ -1,0 +1,50 @@
+{
+  "record": "proposition",
+  "id": "30b2ffe5-a501-4a08-b0cf-39507681abb6",
+  "kind": "mathematical",
+  "epistemic_status": "hypothesized",
+  "title": "Spacetime curvature feels matter on neighboring trajectories",
+  "statements": [
+    {
+      "id": "cd574b40-574f-4d3d-8eba-2ba80f08cb52",
+      "text": "The Einstein field equations are generalized so that curvature in our spacetime feels the energy-momentum of matter on neighboring trajectories of $I_U$, through a measure that smears the delta function of general relativity over a $p$-adic neighborhood. The modification reduces smoothly to general relativity as $p \\rightarrow \\infty$ and would likely prevent curvature singularities.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "cd574b40-574f-4d3d-8eba-2ba80f08cb52",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "478fe2c6-b5e1-40b0-8272-63eec047745e",
+        "locator": "section 6",
+        "quote": "the curvature of space-time feels the energymomentum of matter fields in space-times associated with neighbouring trajectories"
+      },
+      {
+        "source": "9ad7e0a5-cb50-42f0-a664-d897d255b8ba",
+        "locator": "abstract",
+        "quote": "an extension of the Einstein field equations on $I_U$ is proposed which reduces smoothly to general relativity as $p \\rightarrow \\infty$"
+      }
+    ]
+  }
+}

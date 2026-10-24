@@ -1,0 +1,45 @@
+{
+  "record": "proposition",
+  "id": "1aee006e-a00f-489c-844f-edd1a50f6830",
+  "kind": "philosophical",
+  "epistemic_status": "hypothesized",
+  "title": "The real continuum is the wrong model of mental space",
+  "statements": [
+    {
+      "id": "9667965d-e887-4b87-88e7-86eddbb9f4cb",
+      "text": "The real continuum suits physical space but not mental space, since mind is not infinitely divisible and mental states are hierarchical rather than homogeneous, so mental space should be discontinuous and hierarchical.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "9667965d-e887-4b87-88e7-86eddbb9f4cb",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "70724093-351c-45ad-a068-f580f29abb5b",
+        "locator": "section 1",
+        "quote": "but mental space is not continuous: mind is not infinitely divisible"
+      }
+    ]
+  }
+}

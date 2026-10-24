@@ -1,0 +1,45 @@
+{
+  "record": "proposition",
+  "id": "730398f4-42e0-4e72-b5ae-949d04fda158",
+  "kind": "mathematical",
+  "epistemic_status": "inferred",
+  "title": "A crossing algebra rooted in distinctions counts link components",
+  "statements": [
+    {
+      "id": "89612c02-175a-43e8-971e-619aa9d24817",
+      "text": "An elementary crossing algebra, related to generalizations of Boolean logic and to foundations in diagrams and distinctions, counts the components of arborescent knots, links, tangles and bracket states.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "89612c02-175a-43e8-971e-619aa9d24817",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "a43021a7-a976-4f6f-98d5-0c34e5517469",
+        "locator": "abstract",
+        "quote": "This algebra is elementary and foundational, and it is related to generalisations of boolean logic and to aspects of foundations based in diagrams and distinctions"
+      }
+    ]
+  }
+}

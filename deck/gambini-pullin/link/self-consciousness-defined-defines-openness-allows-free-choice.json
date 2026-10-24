@@ -1,0 +1,28 @@
+{
+  "record": "link",
+  "id": "5579987e-7896-4442-a052-8bc22ed1e97a",
+  "from": "4e593cee-9b7f-428f-b51d-b5c64b2ac325",
+  "to": "586212b8-2682-419b-a329-ff88ee4e721a",
+  "relation": "defines",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "e32b75c5-a1e2-4316-9779-76770e23ad7c",
+        "locator": "abstract, p. 1",
+        "quote": "Here, we analyze self-consciousness as the capacity to view oneself as a subject of experience."
+      }
+    ]
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "record": "proposition",
+  "id": "e81d0041-999a-4f8b-905d-af4201249f3d",
+  "kind": "philosophical",
+  "epistemic_status": "observed",
+  "title": "Answer: no account of space, which enters as content the brain computes",
+  "statements": [
+    {
+      "id": "35cf2235-4112-4080-90fa-09370f6be338",
+      "text": "The global workspace theory takes no position on what space is. Space enters only as content the brain computes and may bring into the workspace: the spatial location of a sound can be attended to consciously, while the cues the nervous system uses to compute it, such as the small delay between the two ears, stay out of consciousness.",
+      "language": "en",
+      "scope": "a theory of conscious access in the brain. Physical space lies outside it",
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "35cf2235-4112-4080-90fa-09370f6be338",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "9b21a09b-835f-4256-afbf-19425df2597e",
+        "locator": "p. 16",
+        "quote": "We can consciously attend to the spatial location of a sound, but we are oblivious to the cues that our nervous system uses to compute it."
+      }
+    ]
+  }
+}

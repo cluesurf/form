@@ -1,0 +1,33 @@
+{
+  "record": "link",
+  "id": "843f8b3e-713c-4f6d-9d30-995d45706838",
+  "from": "3de4637a-c831-4610-bf77-89032343ba85",
+  "to": "1fa476c4-db3e-4f9e-a71b-11257c9a8795",
+  "relation": "is_in_tension_with",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "2321ad9b-1f3b-4811-88be-b449bc24f696",
+        "locator": "p. 6",
+        "quote": "If possession of a global workspace is sufficient for consciousness, then GWT, is rampantly panpsychist."
+      },
+      {
+        "source": "2321ad9b-1f3b-4811-88be-b449bc24f696",
+        "locator": "p. 8",
+        "quote": "IIT is thereby, like GWT, hugely panpsychist."
+      }
+    ]
+  }
+}

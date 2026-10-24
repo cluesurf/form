@@ -1,0 +1,45 @@
+{
+  "record": "proposition",
+  "id": "bf8114ac-c7aa-493b-8fda-ffd87dc38633",
+  "kind": "philosophical",
+  "epistemic_status": "hypothesized",
+  "title": "Answer: space is derived from the consciousness units",
+  "statements": [
+    {
+      "id": "90d61bb3-8e42-415b-bfbb-628cda1731ca",
+      "text": "Space is not fundamental. Consciousness units exist before space, and space, along with time, matter and energy, must be explained with new primitive concepts drawn from the nature of the units.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "90d61bb3-8e42-415b-bfbb-628cda1731ca",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "6fe53ccc-970a-4952-8f73-fed7c748e93b",
+        "locator": "section 'The Scientific Study of Inner Reality'",
+        "quote": "we must then explain the concepts of space, time, matter, and energy—so far held to be fundamental—with new primitive concepts that derive directly from the nature of the CUs"
+      }
+    ]
+  }
+}

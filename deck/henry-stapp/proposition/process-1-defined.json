@@ -1,0 +1,45 @@
+{
+  "record": "proposition",
+  "id": "05d614fd-0795-482e-bb9e-68d7b6cf61d8",
+  "kind": "definitional",
+  "epistemic_status": "designed",
+  "title": "Process 1: posing a question",
+  "statements": [
+    {
+      "id": "366f14f3-0c91-4811-b3fd-7dd5468483f7",
+      "text": "Von Neumann's Process 1 poses a yes-or-no question to nature: at certain times the state jumps to $S(t) = P S(t-0) P + (1-P) S(t-0) (1-P)$, where $P$ is a projection operator whose two eigenvalues stand for the answers yes and no.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "366f14f3-0c91-4811-b3fd-7dd5468483f7",
+  "status": "active",
+  "voice": "framework",
+  "defines": "process 1",
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "7761ff84-c434-4367-8566-43c9037d7b81",
+        "locator": "section 2, eq. 2.2",
+        "quote": "The second basic equation specifies von Neumann’s process I. This process “poses a question”."
+      }
+    ]
+  }
+}

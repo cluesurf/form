@@ -1,0 +1,28 @@
+{
+  "record": "link",
+  "id": "4e8f3cde-0a57-4c58-b63b-cd5ad39f01b1",
+  "from": "d0471f9c-8490-4c2a-8f87-c9b27818bf14",
+  "to": "9f7ae07c-a751-4b65-8bf9-d8f5e9026437",
+  "relation": "requires",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "76c9fdfa-1e59-484e-9f0e-240675c8d9f8",
+        "locator": "section 1.3",
+        "quote": "space-time is not considered as the basic concept, but it is derived from treelike structure of events collected by an observer. In this way, spacetime is subjective"
+      }
+    ]
+  }
+}

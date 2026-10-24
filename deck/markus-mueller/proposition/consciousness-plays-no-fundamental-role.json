@@ -1,0 +1,50 @@
+{
+  "record": "proposition",
+  "id": "a30c7534-0b76-4f1a-9418-8b8d6c0a9abc",
+  "kind": "philosophical",
+  "epistemic_status": "hypothesized",
+  "title": "Answer: consciousness plays no fundamental role",
+  "statements": [
+    {
+      "id": "7794f93e-83a6-4637-af1d-6931190de9bc",
+      "text": "Despite its name, algorithmic idealism gives consciousness, belief and agency no fundamental role. Only a small subset of self states describe agents, and a smaller subset conscious agents. The view complements, and does not contradict, the view that the material world causes experience.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "7794f93e-83a6-4637-af1d-6931190de9bc",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "9000a5bd-f121-420b-8890-4c02d4c528be",
+        "locator": "section IV",
+        "quote": "higher-level concepts such as consciousness or belief do not play any fundamental role"
+      },
+      {
+        "source": "6422624e-088a-4331-8cb2-d26c67c31f1e",
+        "locator": "abstract",
+        "quote": "why it would complement but not contradict the view that the material world is the cause of our experience"
+      }
+    ]
+  }
+}

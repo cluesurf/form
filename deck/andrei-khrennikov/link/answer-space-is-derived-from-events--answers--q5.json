@@ -1,0 +1,28 @@
+{
+  "record": "link",
+  "id": "a3dbfac3-b7c7-47d5-a905-f626d72f9636",
+  "from": "dc83995f-5343-4892-9945-aa34706c2b23",
+  "to": "74e87691-55c5-45d4-bcbe-85fb62e5912d",
+  "relation": "answers",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "76c9fdfa-1e59-484e-9f0e-240675c8d9f8",
+        "locator": "section 1.3",
+        "quote": "This is the important foundational advantage of DHT: space-time is not considered as the basic concept"
+      }
+    ]
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "record": "proposition",
+  "id": "48dcdccc-50c0-4972-a082-77039d2279fc",
+  "kind": "philosophical",
+  "epistemic_status": "observed",
+  "title": "Answer: the papers state no account of a self",
+  "statements": [
+    {
+      "id": "7cdb6432-5b45-4dff-be77-57ce6e72cba2",
+      "text": "Chronoflux says nothing about a self, a subject or an agent. Its descendancy runs in ten tiers from the primitives of continuity to observation and test, and living things appear only within the tier of matter, atomic and biological organization, with no tier, sector or branch for a self.",
+      "language": "en",
+      "scope": "a reading of the papers cited in this folder, July 2026 and earlier",
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "7cdb6432-5b45-4dff-be77-57ce6e72cba2",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "1cf60bbd-3fa2-4d65-8956-21024b44ab0b",
+        "locator": "section 8",
+        "quote": "The ten descendance tiers realised by the Atlas are:"
+      },
+      {
+        "source": "1cf60bbd-3fa2-4d65-8956-21024b44ab0b",
+        "locator": "section 8",
+        "quote": "Matter, atomic and biological organisation"
+      }
+    ]
+  }
+}

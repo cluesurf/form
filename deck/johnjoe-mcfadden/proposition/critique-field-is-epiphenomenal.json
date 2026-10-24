@@ -1,0 +1,50 @@
+{
+  "record": "proposition",
+  "id": "9ba0fc97-2988-4aad-ab25-e6ccd7721e44",
+  "kind": "empirical",
+  "epistemic_status": "hypothesized",
+  "title": "Critique: the brain’s field is epiphenomenal",
+  "statements": [
+    {
+      "id": "2e62d87a-2b76-4129-9ab9-354b4c9cf37b",
+      "text": "Many neuroscientists hold that the brain's electromagnetic field plays no more role in brain function than a steam whistle plays in running a steam engine, a by-product with no causal part in thought.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "2e62d87a-2b76-4129-9ab9-354b4c9cf37b",
+  "status": "active",
+  "voice": "critique",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "6a2cb2e5-fef2-4be0-ac3e-95393200dd19",
+        "locator": "p. 2",
+        "quote": "some scholars maintaining the view that they are largely or entirely epiphenomenal"
+      },
+      {
+        "source": "6b6941ee-d23f-4fc1-8bd3-accd6d86afad",
+        "locator": "p. 2",
+        "quote": "more role in brain function that that of a steam whistle on the operation of a steam engine"
+      }
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "record": "link",
+  "id": "9130f0a3-61ef-4f9d-84c2-c0e8ab25ae7e",
+  "from": "9a43588d-2d0e-4cf9-9945-1238a4916a2d",
+  "to": "43fc6225-2526-4555-8128-80b38e2fbaf4",
+  "relation": "answers",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "cf0e8d1a-00df-4de4-82b8-3266e56aa4a9",
+        "locator": "section 'The Physical World as Information'",
+        "quote": "This choice on the part of the mind-brain-body system that constitutes the individual is, in this specific sense, a free choice"
+      }
+    ]
+  }
+}

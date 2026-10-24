@@ -1,0 +1,45 @@
+{
+  "record": "proposition",
+  "id": "1c82a732-fd35-45c4-9927-ec67d4461efe",
+  "kind": "mathematical",
+  "epistemic_status": "inferred",
+  "title": "A basic construction produces Clifford algebras inductively",
+  "statements": [
+    {
+      "id": "8704ef95-3957-42fa-aa45-3b28ef745a7a",
+      "text": "Starting with an associative algebra with involution, a basic construction analogous to Cayley-Dickson always produces associative algebras and, iterated, produces Clifford algebras.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "8704ef95-3957-42fa-aa45-3b28ef745a7a",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "4419471d-b712-483e-86d2-e19f49d434dc",
+        "locator": "abstract",
+        "quote": "The paper explains a basic construction producing Clifford algebras inductively, starting with a base algebra A that is associative and has an involution"
+      }
+    ]
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "record": "proposition",
+  "id": "f4c721df-c226-44d5-a65b-0a13bb04b655",
+  "kind": "empirical",
+  "epistemic_status": "inferred",
+  "title": "Quantum effects in biology show decoherence does not remove them all",
+  "statements": [
+    {
+      "id": "c48bd1c0-e367-4e55-aedc-67217f0bcf1d",
+      "text": "Tunneling, superposition, coherence and entanglement have been found in biological phenomena, so the decoherence effects Tegmark estimated are not enough to remove every quantum effect in biological systems beyond the molecular level.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "c48bd1c0-e367-4e55-aedc-67217f0bcf1d",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "d5b85533-f9ce-4956-9ca1-9102da7a2b10",
+        "locator": "p. 11",
+        "quote": "the decoherence effects observed by Tegmark are not sufficient to eliminate all quantum effects in biological systems beyond the molecular level"
+      }
+    ]
+  }
+}

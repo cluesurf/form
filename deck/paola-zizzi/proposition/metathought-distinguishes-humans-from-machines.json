@@ -1,0 +1,45 @@
+{
+  "record": "proposition",
+  "id": "08eb3f0b-8d6f-4a4e-a0c0-646042082273",
+  "kind": "philosophical",
+  "epistemic_status": "hypothesized",
+  "title": "Metathought distinguishes humans from machines",
+  "statements": [
+    {
+      "id": "0c73f776-5e4c-4332-96d0-185aae806193",
+      "text": "The language of metathought, being a non-algorithmic metalanguage, cannot be acquired on its own by a machine endowed only with an object language, and this is what distinguishes humans from machines.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "0c73f776-5e4c-4332-96d0-185aae806193",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "7a402f8b-3b1f-45e0-b6bd-6942c2daab7a",
+        "locator": "section 1",
+        "quote": "The very importance of metathough, which deals with intuition, intention and control, resides in the fact that it distinguishes humans from machines"
+      }
+    ]
+  }
+}

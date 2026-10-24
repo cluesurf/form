@@ -1,0 +1,50 @@
+{
+  "record": "proposition",
+  "id": "f3ce6930-7737-4d5e-9715-ba7d80b08840",
+  "kind": "empirical",
+  "epistemic_status": "inferred",
+  "title": "Information in matter is integrated only within molecules",
+  "statements": [
+    {
+      "id": "821f9d08-e5f8-4733-a071-44b811274ad9",
+      "text": "The wave nature of massive particles is limited by their de Broglie wavelength, so under normal conditions information encoded in matter is integrated only within atoms and molecules, never between them. Information in the matter of neurons is discrete and cannot be the substrate of bound conscious information.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "821f9d08-e5f8-4733-a071-44b811274ad9",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "f0c60d5f-9d43-4f34-b442-f38b3ffcf271",
+        "locator": "p. 10",
+        "quote": "under normal circumstances the information encoded within matter particles is integrated only within atoms and molecules, not between them"
+      },
+      {
+        "source": "f0c60d5f-9d43-4f34-b442-f38b3ffcf271",
+        "locator": "p. 10",
+        "quote": "cannot be the substrate of physically integrated, unified and bound conscious information"
+      }
+    ]
+  }
+}

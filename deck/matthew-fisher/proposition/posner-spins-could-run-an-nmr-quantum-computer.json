@@ -1,0 +1,45 @@
+{
+  "record": "proposition",
+  "id": "30179d38-2a80-40f5-a5db-3dd626976f6b",
+  "kind": "empirical",
+  "epistemic_status": "hypothesized",
+  "title": "Posner spins could host liquid state NMR quantum computation",
+  "statements": [
+    {
+      "id": "64d348c9-aa4b-46d0-b74a-97b3d1f85aed",
+      "text": "The Posner molecule gives its six phosphorus-31 nuclear spins very long coherence times, so in vitro the spins could be a platform for liquid state nuclear magnetic resonance quantum computation.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "64d348c9-aa4b-46d0-b74a-97b3d1f85aed",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "f726b134-86ca-42a4-944e-e37979cd3163",
+        "locator": "abstract",
+        "quote": "In vitro, the spins could provide a platform for liquid-state nuclear magnetic resonance quantum computation"
+      }
+    ]
+  }
+}

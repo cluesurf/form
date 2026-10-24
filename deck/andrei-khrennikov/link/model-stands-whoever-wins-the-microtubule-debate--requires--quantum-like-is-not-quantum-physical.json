@@ -1,0 +1,28 @@
+{
+  "record": "link",
+  "id": "8001beb6-b33d-4ccd-9319-1412bac47fb3",
+  "from": "6ba528e3-a69e-4ade-a1a5-a61f682aea50",
+  "to": "d2c6bcd3-4529-4084-81f2-8dcf1b6b0021",
+  "relation": "requires",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "867a687a-aed0-42a1-b80e-9390a2b61f64",
+        "locator": "page 4",
+        "quote": "QIB describes well processing of mental informational states, independently of who will be right: Penrose and Hameroff or Tegmark"
+      }
+    ]
+  }
+}

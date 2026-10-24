@@ -1,0 +1,28 @@
+{
+  "record": "link",
+  "id": "4880cef0-113a-446a-93f7-41e62486ce3a",
+  "from": "56f7574c-7ef2-40e9-9f60-fcc30476fd5e",
+  "to": "088717cd-dd6e-477f-a554-ec67aa630311",
+  "relation": "weakens",
+  "strength": null,
+  "rationale": "The model needs the brain to form superpositions of mental states, and no neurophysiological account of that exists yet.",
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "867a687a-aed0-42a1-b80e-9390a2b61f64",
+        "locator": "page 4",
+        "quote": "For a moment, there is no commonly accepted model of creation of superposition of information states by a bio-system"
+      }
+    ]
+  }
+}

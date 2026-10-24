@@ -1,0 +1,45 @@
+{
+  "record": "proposition",
+  "id": "6a74b5e9-61bd-4b54-a6ca-e0d5c1e2c607",
+  "kind": "philosophical",
+  "epistemic_status": "hypothesized",
+  "title": "Answer (consciousness): the alternation of quantum and classical computation",
+  "statements": [
+    {
+      "id": "c36c4c68-1d0a-4c1a-9fb1-fb978f541397",
+      "text": "Consciousness is begotten by the alternation of quantum and classical computational modes, ending in an objective reduction of a superposed quantum state, in the brain or in the early universe.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "c36c4c68-1d0a-4c1a-9fb1-fb978f541397",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "7906bb27-7024-4cb3-ba97-eaea4cd63f4c",
+        "locator": "section 1",
+        "quote": "which begets consciousness"
+      }
+    ]
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "record": "proposition",
+  "id": "b216384c-35a0-4f51-bce8-c4efccad4858",
+  "kind": "empirical",
+  "epistemic_status": "hypothesized",
+  "title": "A rigid spectral invariant assigns Chern numbers to topological materials",
+  "statements": [
+    {
+      "id": "effbc41d-8e36-4ae0-8f75-b939cfd2c87e",
+      "text": "A spectral invariant $\\kappa_{SC} = 815.2$ of Cayley graphs of $H_9$ yields a classification of physical systems by integer Chern number, whose values for twisted rhombohedral graphene, monolayer antimony and related materials ($C_n = +2, 0, +3, -1$) are stated to agree with 2026 measurements. A lattice algorithm offers a falsifiable check.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "effbc41d-8e36-4ae0-8f75-b939cfd2c87e",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "9622e03a-8c07-4330-b146-62f7d5013189",
+        "locator": "abstract",
+        "quote": "we demonstrate that the model’s exact predictions (C_n = +2, 0, +3, -1) are fully consistent with observed multi-layered quantum Hall metrics"
+      }
+    ]
+  }
+}

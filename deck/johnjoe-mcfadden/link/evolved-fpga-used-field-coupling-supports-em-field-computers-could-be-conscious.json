@@ -1,0 +1,28 @@
+{
+  "record": "link",
+  "id": "981204ca-419b-471b-a304-31625570219a",
+  "from": "b51ee22e-7ab0-4c17-9106-6d4045d09b1a",
+  "to": "bd4af72c-4ed8-4545-832b-cef3e4ee407c",
+  "relation": "supports",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "f0c60d5f-9d43-4f34-b442-f38b3ffcf271",
+        "locator": "p. 9",
+        "quote": "harnessed EMF coupling between the FPGA chip and the radio"
+      }
+    ]
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "record": "proposition",
+  "id": "b2bfff73-4f24-4d5a-9006-1604ce656e0f",
+  "kind": "philosophical",
+  "epistemic_status": "inferred",
+  "title": "Answer: the papers give no account of life",
+  "statements": [
+    {
+      "id": "f9597e66-1087-4e8e-964c-b2af1ab89334",
+      "text": "Invariant set theory takes no position on what life is. The consciousness paper treats the human brain as an organ shaped by evolution toward energy efficiency, without defining life.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "f9597e66-1087-4e8e-964c-b2af1ab89334",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "a118ef59-7655-4abb-96e0-6e1844639f45",
+        "locator": "section 7",
+        "quote": "the miniaturisation of the neuronal pathways in the brain has resulted in an exceptionally energy efficient organ"
+      }
+    ]
+  }
+}

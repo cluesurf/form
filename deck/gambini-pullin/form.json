@@ -1,0 +1,78 @@
+{
+  "format": "form.surf/1",
+  "id": "3c8dfad7-6ff4-4f18-bc54-513cf8e05b3e",
+  "name": "gambini-pullin",
+  "title": "Quantum panprotopsychism (Gambini and Pullin)",
+  "role": "model",
+  "summary": "Rodolfo Gambini and Jorge Pullin read quantum mechanics as an ontology of systems in states and the events they produce, each with an inner phenomenal aspect. Entangled wholes do not supervene on their parts, so the combination problems of panpsychism, which assume classical supervenience, do not arise.",
+  "framework": {
+    "originators": [
+      "Rodolfo Gambini",
+      "Jorge Pullin"
+    ],
+    "aliases": [
+      "quantum panprotopsychism",
+      "protophenomenal regularism",
+      "quantum ontology of states and events"
+    ],
+    "homepage": null,
+    "publication": {
+      "venue": [
+        "preprint",
+        "peer_reviewed"
+      ],
+      "peer_review": "partial",
+      "replication": "not_applicable"
+    }
+  },
+  "community_written": true,
+  "curators": [
+    {
+      "name": "Lance Pollard",
+      "github": "lancejpollard"
+    }
+  ],
+  "license": "CC-BY-4.0",
+  "atlas": {
+    "scope": [
+      "7645b291-acbb-4bb4-820a-da21c254ee0b",
+      "f0082b2d-aa45-49c7-a333-6184e52b6ca2",
+      "da6c2cb9-0e5e-4157-ba3c-53d90bb1662b",
+      "468d8fca-3986-48bc-b6ec-1ade6000bc21",
+      "2c4dbf9e-7aa9-4db7-97a2-74967c7316a5"
+    ],
+    "limits": [
+      "09af802a-e1bf-4406-8130-4182d2738cf0",
+      "7bce04d9-8911-40df-8342-7be7f5c997fa"
+    ],
+    "issues": [
+      "7b883220-aac1-4717-8ac1-3e9cfa2f4249",
+      "2202fc1b-2df0-4621-804e-079f8a3a765b",
+      "560ae2f0-2b3b-46e0-b05c-3d14e2099be8"
+    ],
+    "dead_ends": []
+  },
+  "draws_from": [],
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "d5b85533-f9ce-4956-9ca1-9102da7a2b10",
+        "locator": "abstract, p. 1",
+        "quote": null
+      },
+      {
+        "source": "c2ffb9d7-7445-4825-9bd5-b4647158960b",
+        "locator": "abstract, p. 1",
+        "quote": null
+      }
+    ]
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "record": "proposition",
+  "id": "f6074995-6362-4600-b0ac-402b4369db77",
+  "kind": "philosophical",
+  "epistemic_status": "hypothesized",
+  "title": "P2: experience is not sharable, even in principle",
+  "statements": [
+    {
+      "id": "bfe41fa3-95b8-456d-8d61-ac81caf78453",
+      "text": "Experience cannot be shared, and this holds in principle, not only as a limit of technology. Which systems take part in an experience may be knowable, but never the experience itself.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "bfe41fa3-95b8-456d-8d61-ac81caf78453",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "4a842576-1434-482e-9bd8-b970f99a257b",
+        "locator": "section 1, p. 5",
+        "quote": "P2: Privacy principle: Experience is not sharable, even in principle."
+      },
+      {
+        "source": "4a842576-1434-482e-9bd8-b970f99a257b",
+        "locator": "section 1, p. 5",
+        "quote": "We hypothesize that that non shareability of experience holds in principle, not just as a technological limitation."
+      }
+    ]
+  }
+}

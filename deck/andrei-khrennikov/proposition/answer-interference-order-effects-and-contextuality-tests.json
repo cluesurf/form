@@ -1,0 +1,45 @@
+{
+  "record": "proposition",
+  "id": "f060e61f-71ec-4ddb-ab7f-9912e29d6593",
+  "kind": "philosophical",
+  "epistemic_status": "hypothesized",
+  "title": "Answer: interference coefficients, the QQ-equality and contextuality tests",
+  "statements": [
+    {
+      "id": "eb75f119-c712-47ef-a14c-6fac54cb7a18",
+      "text": "The interference coefficient can be found from statistical data on mental observables, the QQ-equality and response replicability test question order models, and Contextuality-by-Default separates true contextuality from direct influences.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "eb75f119-c712-47ef-a14c-6fac54cb7a18",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "cc0bfb59-e0b4-48fe-a6c9-5a461cf9b0d6",
+        "locator": "section 1",
+        "quote": "This coefficient can be found on the basis of statistical data"
+      }
+    ]
+  }
+}

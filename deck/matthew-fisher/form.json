@@ -1,0 +1,73 @@
+{
+  "format": "form.surf/1",
+  "id": "6087bc7d-c234-4355-9b4c-283be4f7a3e0",
+  "name": "matthew-fisher",
+  "title": "Posner quantum cognition (Fisher)",
+  "role": "model",
+  "summary": "Matthew Fisher: phosphorus-31 nuclear spins are the one biological qubit that escapes fast decoherence. Pyrophosphate hydrolysis entangles them in pairs, Posner molecules Ca9(PO4)6 protect them, and Posner binding inside neurons releases calcium that couples spin entanglement to neuron firing. A layered, testable mechanism for quantum processing, silent on experience.",
+  "framework": {
+    "originators": [
+      "Matthew P. A. Fisher"
+    ],
+    "aliases": [
+      "quantum cognition with nuclear spins",
+      "Posner model of quantum cognition",
+      "Posner qubits",
+      "Quantum Dynamical Selection"
+    ],
+    "homepage": null,
+    "publication": {
+      "venue": [
+        "peer_reviewed",
+        "preprint"
+      ],
+      "peer_review": "yes",
+      "replication": "none"
+    }
+  },
+  "community_written": true,
+  "curators": [
+    {
+      "name": "Lance Pollard",
+      "github": "lancejpollard"
+    }
+  ],
+  "license": "CC-BY-4.0",
+  "atlas": {
+    "scope": [
+      "76d5b1ba-bd03-450d-a7d4-9aae368842a9",
+      "d1792620-65c0-4e33-9f4f-14562d4f96d6",
+      "9e6e1d12-669a-487b-bdd5-3bdff35c3cd8",
+      "423645c6-15dc-494c-999d-09eb2e5f69af",
+      "eb34663a-e5e2-4848-b078-83865a6dc0b3",
+      "d2a541f3-3c19-49ea-83ec-02765d49a948"
+    ],
+    "limits": [
+      "7ed04dc3-8d49-472e-8528-35e5b1ff1a95"
+    ],
+    "issues": [
+      "0962adab-d8d9-45a3-b866-238668b19698",
+      "ed195988-aaa4-41f3-a27c-d36b5810e798",
+      "e904193d-1db9-4990-af6d-293e276f8d27"
+    ],
+    "dead_ends": []
+  },
+  "draws_from": [],
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "031558db-d715-456e-b580-d47a6b3bc323",
+        "locator": "abstract",
+        "quote": null
+      }
+    ]
+  }
+}

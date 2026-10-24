@@ -1,0 +1,28 @@
+{
+  "record": "link",
+  "id": "4102c0ab-ff28-46e4-8543-aec00c9852e1",
+  "from": "fe8d4c88-7ddb-400d-b8ba-7f9494cee1e7",
+  "to": "95564fbf-0916-4c9f-9036-b67a3d23cbd3",
+  "relation": "weakens",
+  "strength": null,
+  "rationale": "With no reduction there is no Process 1 choice for mind to make.",
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "cf0e8d1a-00df-4de4-82b8-3266e56aa4a9",
+        "locator": "section 'Two Simple Conclusions'",
+        "quote": "This conclusion does not cover Everett-type theories, which reject at the outset the fundamental idea used here that definite outcomes actually occur."
+      }
+    ]
+  }
+}

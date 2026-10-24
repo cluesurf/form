@@ -1,0 +1,33 @@
+{
+  "record": "link",
+  "id": "ed6c43e3-cff1-418e-b0c5-ed17c6ee01ae",
+  "from": "fe035a3e-1f1f-4355-9673-f98c16626440",
+  "to": "1c258481-67f5-45d5-bca9-9e8a1cd8865f",
+  "relation": "requires",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "4a842576-1434-482e-9bd8-b970f99a257b",
+        "locator": "section 7, p. 18",
+        "quote": "In principle quantumness could be established through experimental demonstration of one of the two main nonclassical features of quantum theory: nonlocality and complementarity."
+      },
+      {
+        "source": "4a842576-1434-482e-9bd8-b970f99a257b",
+        "locator": "section 7, p. 19",
+        "quote": "may be helpful to make a preliminary mapping of the dimensionality of the spaces of conscious systems involved"
+      }
+    ]
+  }
+}

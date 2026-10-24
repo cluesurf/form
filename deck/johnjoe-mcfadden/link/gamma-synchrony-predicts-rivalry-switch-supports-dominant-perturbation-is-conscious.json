@@ -1,0 +1,28 @@
+{
+  "record": "link",
+  "id": "5da463f8-eea4-417e-b574-8f52bb032888",
+  "from": "1a9f4e84-e612-4fee-b0cc-77f83204c9e6",
+  "to": "4bfcfdfc-c601-4bd6-96df-47d55fcda039",
+  "relation": "supports",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "f0c60d5f-9d43-4f34-b442-f38b3ffcf271",
+        "locator": "p. 6",
+        "quote": "increased gamma-band synchrony predicts switching of conscious perceptual objects in classic binocular rivalry"
+      }
+    ]
+  }
+}

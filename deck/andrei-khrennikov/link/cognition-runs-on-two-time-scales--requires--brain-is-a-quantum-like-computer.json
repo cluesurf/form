@@ -1,0 +1,28 @@
+{
+  "record": "link",
+  "id": "80f8169e-d822-4149-87bf-e848b831ccd5",
+  "from": "eefd29a1-08bd-4d19-ad1a-c61d222f6667",
+  "to": "088717cd-dd6e-477f-a554-ec67aa630311",
+  "relation": "requires",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "2f180ea7-97cb-44bd-b806-14b03fd4ba33",
+        "locator": "abstract",
+        "quote": "subcognitive time scale (which is very fine) and cognitive time scale (which is essentially coarser)"
+      }
+    ]
+  }
+}

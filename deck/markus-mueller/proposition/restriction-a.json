@@ -1,0 +1,50 @@
+{
+  "record": "proposition",
+  "id": "6592dae1-c429-4404-9a55-2ae6c5c93676",
+  "kind": "philosophical",
+  "epistemic_status": "inferred",
+  "title": "Restriction A: no theory describes the observations of all agents",
+  "statements": [
+    {
+      "id": "3aaa1822-c0a2-4821-924e-528201485550",
+      "text": "Extended Wigner's friend scenarios, agent duplication and the Boltzmann brain problem share one structural feature, Restriction A: a physical theory cannot give a probabilistic description of the observations of all agents. The gist of Wigner's friend can be reproduced without quantum physics.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "3aaa1822-c0a2-4821-924e-528201485550",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "d7f1cbc9-9eca-4355-b26a-3a7f4f37cf85",
+        "locator": "abstract",
+        "quote": "a physical theory cannot give us a probabilistic description of the observations of all agents"
+      },
+      {
+        "source": "d7f1cbc9-9eca-4355-b26a-3a7f4f37cf85",
+        "locator": "abstract",
+        "quote": "the gist of the Wigner's Friend paradox can be reproduced without assuming quantum physics"
+      }
+    ]
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "record": "proposition",
+  "id": "9895f7bd-41c0-4020-b858-4944bc4e2ad7",
+  "kind": "philosophical",
+  "epistemic_status": "inferred",
+  "title": "Answer: takes no position on life",
+  "statements": [
+    {
+      "id": "059afc5d-e4d0-4b0d-b4d9-8fda9be125d1",
+      "text": "The papers take no position on what life is. They treat the person as a body, brain and mind system and leave the biology unspecified.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "059afc5d-e4d0-4b0d-b4d9-8fda9be125d1",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "de10839f-7550-4565-a920-4405a14753fe",
+        "locator": "section on the Heisenberg Choice",
+        "quote": "the observer is a body/brain/mind subsystem"
+      }
+    ]
+  }
+}

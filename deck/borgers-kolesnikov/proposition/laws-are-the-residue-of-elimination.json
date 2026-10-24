@@ -1,0 +1,45 @@
+{
+  "record": "proposition",
+  "id": "1ad5fa83-3685-4087-9844-e1306887f4eb",
+  "kind": "philosophical",
+  "epistemic_status": "hypothesized",
+  "title": "Physical law is the residue left by universal noise",
+  "statements": [
+    {
+      "id": "c1eedf92-def4-4151-b49e-187723f14ed4",
+      "text": "Physical law is not a prior design but the residue of elimination: noise acts as a universal selection pressure that removes every informational trajectory unable to keep its coherence, and what persists is law. Reality is what remains.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "c1eedf92-def4-4151-b49e-187723f14ed4",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b4a3428a-c37f-4e93-9fc7-87998da54404",
+        "locator": "abstract",
+        "quote": "physical law is not a pre-existing design, but the \"Residue of Elimination\" resulting from universal stochastic interaction"
+      }
+    ]
+  }
+}

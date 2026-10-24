@@ -1,0 +1,28 @@
+{
+  "record": "link",
+  "id": "305cfbfa-8263-4a70-a6b7-74e2b32d35f1",
+  "from": "f2025b87-ab40-4bf4-8e8d-d0d1055821b9",
+  "to": "9b435a53-9f64-480e-8b8c-3b54912e630a",
+  "relation": "requires",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "4a842576-1434-482e-9bd8-b970f99a257b",
+        "locator": "section 7, p. 20",
+        "quote": "With a RAM of the order of Gbytes one could definitely operate with a dozen qubits at a time."
+      }
+    ]
+  }
+}

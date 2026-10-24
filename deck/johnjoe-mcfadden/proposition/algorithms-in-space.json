@@ -1,0 +1,50 @@
+{
+  "record": "proposition",
+  "id": "f3328fe9-a19d-4e14-8c3c-f65ab7c30bee",
+  "kind": "empirical",
+  "epistemic_status": "hypothesized",
+  "title": "Consciousness runs algorithms in space within the field",
+  "statements": [
+    {
+      "id": "24e0e394-e877-48fc-a03c-fdf50bd4a1e4",
+      "text": "An electromagnetic field can compute, as a logic gate distributed over the space of overlapping fields, and field-implemented algorithms in the brain are the physical substrate of conscious thoughts. Such an algorithm works only when its nodes fire synchronously.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "24e0e394-e877-48fc-a03c-fdf50bd4a1e4",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "f0c60d5f-9d43-4f34-b442-f38b3ffcf271",
+        "locator": "p. 4",
+        "quote": "Field-implemented algorithms such as these, but in the brain, are, I argue, the physical substrate of conscious thoughts."
+      },
+      {
+        "source": "f0c60d5f-9d43-4f34-b442-f38b3ffcf271",
+        "locator": "p. 5",
+        "quote": "an algorithm in space can function only when its computational nodes fire synchronously"
+      }
+    ]
+  }
+}

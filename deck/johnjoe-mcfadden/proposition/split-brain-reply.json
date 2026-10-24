@@ -1,0 +1,45 @@
+{
+  "record": "proposition",
+  "id": "b16694c2-d64b-4bd3-8aa5-6c765551639f",
+  "kind": "empirical",
+  "epistemic_status": "inferred",
+  "title": "Field effects are local and need synchronous relays",
+  "statements": [
+    {
+      "id": "c820f159-2fa2-4868-8877-14c881882d96",
+      "text": "Field strength falls off by an inverse square or cube law, so conscious field information spreads across the brain only through relays of synchronously firing recurrent networks. Cutting the corpus callosum cuts those relays and locks each hemisphere’s field information in place.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "c820f159-2fa2-4868-8877-14c881882d96",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "f0c60d5f-9d43-4f34-b442-f38b3ffcf271",
+        "locator": "p. 8",
+        "quote": "Without the unification provided by networks of synchronously firing neurons, EM field information in each hemisphere will remain locked in each hemisphere."
+      }
+    ]
+  }
+}

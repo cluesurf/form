@@ -1,0 +1,45 @@
+{
+  "record": "proposition",
+  "id": "2202fc1b-2df0-4621-804e-079f8a3a765b",
+  "kind": "philosophical",
+  "epistemic_status": "inferred",
+  "title": "Critique: subjects cannot sum",
+  "statements": [
+    {
+      "id": "237b8f46-52bc-4c54-9fb0-ed2e924379d2",
+      "text": "The subject-summing problem, first raised by William James and pressed by Coleman, holds that subject summing is incoherent because each subject has a viewpoint that excludes the viewpoints of all others.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "237b8f46-52bc-4c54-9fb0-ed2e924379d2",
+  "status": "active",
+  "voice": "critique",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "c2ffb9d7-7445-4825-9bd5-b4647158960b",
+        "locator": "p. 16",
+        "quote": "subject summing is incoherent on the grounds that each subject has a viewpoint that excludes the viewpoints of all"
+      }
+    ]
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "record": "proposition",
+  "id": "db46a01c-c974-4d3c-8386-79280e852d5d",
+  "kind": "philosophical",
+  "epistemic_status": "observed",
+  "title": "Answer: no account of measurement, and collapse accounts are left open",
+  "statements": [
+    {
+      "id": "0bfbe69a-e19b-4e44-b64a-1fde34300c38",
+      "text": "The theorem takes no position on measurement or on the quantum measurement problem. It holds for quantum theories insofar as they supply a dynamically sufficient local state, and it leaves open accounts that tie consciousness to a present quantum state or to collapse, which are not excluded merely because they invoke change or an instantaneous event.",
+      "language": "en",
+      "scope": "the no-go theorem, version 1 of the preprint",
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "0bfbe69a-e19b-4e44-b64a-1fde34300c38",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "ac2774e1-a04c-4c89-9db2-7848c6f5ce0b",
+        "locator": "p. 3",
+        "quote": "It applies to any other physical theory, including quantum theories, insofar as that theory supplies an analogous dynamically sufficient local state."
+      },
+      {
+        "source": "ac2774e1-a04c-4c89-9db2-7848c6f5ce0b",
+        "locator": "section 5.4, p. 14",
+        "quote": "Such accounts are not excluded merely because they invoke change or an instantaneous event."
+      }
+    ]
+  }
+}

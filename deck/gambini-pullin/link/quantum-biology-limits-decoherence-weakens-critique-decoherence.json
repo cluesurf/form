@@ -1,0 +1,28 @@
+{
+  "record": "link",
+  "id": "8ecf8d1b-900a-4b99-83b4-ef1b3db6b5c0",
+  "from": "f4c721df-c226-44d5-a65b-0a13bb04b655",
+  "to": "7b883220-aac1-4717-8ac1-3e9cfa2f4249",
+  "relation": "weakens",
+  "strength": null,
+  "rationale": "Quantum effects found in biological systems show decoherence does not remove all quantum behavior above the molecular level.",
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "d5b85533-f9ce-4956-9ca1-9102da7a2b10",
+        "locator": "p. 11",
+        "quote": "the decoherence effects observed by Tegmark are not sufficient to eliminate all quantum effects in biological systems beyond the molecular level"
+      }
+    ]
+  }
+}

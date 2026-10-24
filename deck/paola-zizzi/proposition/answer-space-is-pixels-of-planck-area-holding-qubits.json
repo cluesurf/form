@@ -1,0 +1,45 @@
+{
+  "record": "proposition",
+  "id": "885abcc2-3f10-4601-8c1d-398d1b893e34",
+  "kind": "philosophical",
+  "epistemic_status": "hypothesized",
+  "title": "Answer: space is discrete pixels of Planck area, each holding a qubit",
+  "statements": [
+    {
+      "id": "3e8bd358-8941-4eec-9efd-66a778c04c0e",
+      "text": "Space is discrete at the Planck scale, made of pixels of Planck area that each encode a qubit, entangled and non-local at that scale, with locality appearing only for unentangled states.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "3e8bd358-8941-4eec-9efd-66a778c04c0e",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "b0dbd870-d0e9-4edd-ad9d-f561b18ea043",
+        "locator": "section 1",
+        "quote": "In our model, quantum space-time is discrete, quantised in Planck units, and each pixel of Planck area, encodes a qubit"
+      }
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "record": "link",
+  "id": "7ceeff1e-58d0-4cc9-86e8-1239c7f88abb",
+  "from": "0cbbe8c9-e214-456e-b0d7-35f1d361b234",
+  "to": "d984b6a8-2362-43f8-9d35-280e4aa245b5",
+  "relation": "requires",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "fc9f06f8-1b53-49f8-8b2a-73cdb3aae6a3",
+        "locator": "p. 299",
+        "quote": "the theory of natural selection predicts that the brain would evolve into an EM field-insensitive stream associated with asynchronously firing and non-conscious activities, and an EM field-sensitive stream associated with synchronously firing neurons"
+      }
+    ]
+  }
+}

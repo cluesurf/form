@@ -1,0 +1,28 @@
+{
+  "record": "link",
+  "id": "685eae03-b9f5-4770-bbd5-84697386266f",
+  "from": "c634f6e0-ceb3-4a01-9081-56660eed8167",
+  "to": "4a52afff-1805-4ba5-84e4-7993e7b9b60b",
+  "relation": "requires",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "6b47a095-e7f3-48db-b614-55f901cb24bb",
+        "locator": "p. 12",
+        "quote": "Because the causal origin of the process 1 probing actions is not specified, even statistically, by the presently known laws of physics"
+      }
+    ]
+  }
+}

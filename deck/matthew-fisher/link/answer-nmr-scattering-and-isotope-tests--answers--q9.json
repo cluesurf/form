@@ -1,0 +1,28 @@
+{
+  "record": "link",
+  "id": "30c8417b-7087-42cc-b5bb-f148f2e2285f",
+  "from": "296ef1b3-2d76-4f11-b421-1dcb70947461",
+  "to": "89daaa69-7198-4608-a93d-8a520820bbb9",
+  "relation": "answers",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "031558db-d715-456e-b580-d47a6b3bc323",
+        "locator": "page 6",
+        "quote": "Liquid state NMR methods could be used to measure the spin dynamics (e.g. spin coherence times) of the phosphorus nuclei inside Posner molecules"
+      }
+    ]
+  }
+}

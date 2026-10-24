@@ -1,0 +1,45 @@
+{
+  "record": "proposition",
+  "id": "e7d34b83-ca87-4e71-9370-9bde5c5d74dd",
+  "kind": "philosophical",
+  "epistemic_status": "hypothesized",
+  "title": "Now and next are first-person notions",
+  "statements": [
+    {
+      "id": "4b366057-239e-4036-b3ce-3f745719500e",
+      "text": "\"Now\" and \"next\" are first-person notions, the order of an observer's own states, and are not tied to any external time or clock. Time evolution of a state is a correlation of probabilities with some clock variable.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "4b366057-239e-4036-b3ce-3f745719500e",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "30a7661d-a92b-4619-a5b7-344796891205",
+        "locator": "section 3, Postulates 3.2",
+        "quote": "“Now” and “next” are understood as purely first-person notions, not related to any external notion of time or clock."
+      }
+    ]
+  }
+}

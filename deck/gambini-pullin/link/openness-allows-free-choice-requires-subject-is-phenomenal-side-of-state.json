@@ -1,0 +1,33 @@
+{
+  "record": "link",
+  "id": "8dfb546d-5cf3-4e94-8af7-27fe6e26ef9a",
+  "from": "586212b8-2682-419b-a329-ff88ee4e721a",
+  "to": "7c0bfe97-5d1f-4e95-a4b9-b753932db99f",
+  "relation": "requires",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "e32b75c5-a1e2-4316-9779-76770e23ad7c",
+        "locator": "abstract, p. 1",
+        "quote": "The causal openness of quantum systems provides self-conscious beings the ability to make independent choices and decisions"
+      },
+      {
+        "source": "e32b75c5-a1e2-4316-9779-76770e23ad7c",
+        "locator": "p. 18",
+        "quote": "To be free is not to act randomly, but to choose between different lines of conduct"
+      }
+    ]
+  }
+}

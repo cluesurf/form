@@ -1,0 +1,39 @@
+{
+  "record": "observation",
+  "id": "7158655b-acd9-4806-ab0f-9f8ddaa930a6",
+  "kind": "simulation_result",
+  "epistemic_status": "simulated",
+  "description": "As reported by Adams and Petruccione, a recent paper concludes that entanglement between two nuclear spins in separate Posner molecules decays on a sub-second timescale.",
+  "method": "document_review",
+  "status": "reported",
+  "source": "59afa04f-68b9-4ffa-96a9-e8412d91d794",
+  "procedure": null,
+  "variable": null,
+  "value": null,
+  "unit": null,
+  "uncertainty": null,
+  "sample_size": null,
+  "replication_count": null,
+  "quality": null,
+  "limitations": "Reported second hand in a review.",
+  "conflicts_of_interest": null,
+  "observed_at": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "59afa04f-68b9-4ffa-96a9-e8412d91d794",
+        "locator": "section 3.2",
+        "quote": "A more recent paper revisits this estimate and concludes that entanglement between two nuclear spins in separate Posner molecules decays on a sub-second timescale"
+      }
+    ]
+  }
+}

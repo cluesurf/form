@@ -1,0 +1,28 @@
+{
+  "record": "link",
+  "id": "c1ec7d27-82d0-4183-a1b7-f29b89fb69ee",
+  "from": "f6f7231a-f734-4575-9b8a-91b80a1f925e",
+  "to": "455dff7d-b66c-449d-b2d7-52521b99cba5",
+  "relation": "answers",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "9f4bc49b-c4dd-497f-a872-aa4fbfe7546f",
+        "locator": "abstract",
+        "quote": "we comment on how entanglement between these operators suggests emergence of space"
+      }
+    ]
+  }
+}

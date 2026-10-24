@@ -1,0 +1,50 @@
+{
+  "record": "proposition",
+  "id": "7c8c80f9-bebc-4c30-92c6-e742f18de37a",
+  "kind": "mathematical",
+  "epistemic_status": "inferred",
+  "title": "Counterfactual states typically lie off the invariant set",
+  "statements": [
+    {
+      "id": "9e6fb342-d8f4-4498-a6b5-335d5d2e4168",
+      "text": "Because the invariant set has measure zero, a counterfactual state, a world where some experiment might have been performed but was not, typically lies off the set and is not physical. This explains quantum complementarity: non-commuting observables cannot both have well-defined outcomes.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "9e6fb342-d8f4-4498-a6b5-335d5d2e4168",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "bf5ea4cf-57e5-4d17-8a1a-6ecb67eba71c",
+        "locator": "section I",
+        "quote": "counterfactual states associated with worlds where some experiment might have been performed but wasn’t, can typically lie off the invariant set"
+      },
+      {
+        "source": "d205d6f2-3d4f-4564-b71b-37a119eef99a",
+        "locator": "abstract",
+        "quote": null
+      }
+    ]
+  }
+}

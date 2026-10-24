@@ -1,0 +1,50 @@
+{
+  "record": "proposition",
+  "id": "fe035a3e-1f1f-4355-9673-f98c16626440",
+  "kind": "empirical",
+  "epistemic_status": "hypothesized",
+  "title": "Tests: complementarity, nonlocality and qubit counts in experience",
+  "statements": [
+    {
+      "id": "5c5c1dbf-d4ce-4e3d-b4cb-5cd376c48590",
+      "text": "The quantum nature of consciousness could be shown by complementarity or nonlocality in experience, for example in alternative 3D views, and memory-recall experiments against attention, delay and kind of qualia could map the dimension of the systems involved.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "5c5c1dbf-d4ce-4e3d-b4cb-5cd376c48590",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "4a842576-1434-482e-9bd8-b970f99a257b",
+        "locator": "section 7, p. 18",
+        "quote": "In principle quantumness could be established through experimental demonstration of one of the two main nonclassical features of quantum theory: nonlocality and complementarity."
+      },
+      {
+        "source": "4a842576-1434-482e-9bd8-b970f99a257b",
+        "locator": "section 7, p. 19",
+        "quote": "may be helpful to make a preliminary mapping of the dimensionality of the spaces of conscious systems involved"
+      }
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "record": "link",
+  "id": "b004be9c-375a-4a26-b3e1-4815fd6abdd3",
+  "from": "7bce04d9-8911-40df-8342-7be7f5c997fa",
+  "to": "2e0b3782-7e83-4696-98b0-fa81f1c63837",
+  "relation": "answers",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "8002b969-14aa-430f-8f0d-0861c809ee04",
+        "locator": "p. 8",
+        "quote": "of a non-natural faculty of intelligence or reason"
+      }
+    ]
+  }
+}

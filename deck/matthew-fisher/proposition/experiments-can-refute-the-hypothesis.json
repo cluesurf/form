@@ -1,0 +1,45 @@
+{
+  "record": "proposition",
+  "id": "c2f9c939-a43e-4194-903d-787464abed5d",
+  "kind": "philosophical",
+  "epistemic_status": "designed",
+  "title": "Named experiments can refute or strengthen the hypothesis",
+  "statements": [
+    {
+      "id": "50fd8c09-997e-46b0-9673-dc1939726558",
+      "text": "Each link of the chain can be tested: light scattering and cryogenic electron microscopy for Posner concentration, liquid state NMR for spin coherence inside Posners, isotope substitution, in vitro pyrophosphatase with calcium fluorescence coincidences between two containers, and behavioral isotope experiments.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "50fd8c09-997e-46b0-9673-dc1939726558",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "031558db-d715-456e-b580-d47a6b3bc323",
+        "locator": "page 6",
+        "quote": "We briefly mention some experiments that might serve to refute, or perhaps strengthen, the hypothesis of nuclear spin quantum processing in the brain"
+      }
+    ]
+  }
+}

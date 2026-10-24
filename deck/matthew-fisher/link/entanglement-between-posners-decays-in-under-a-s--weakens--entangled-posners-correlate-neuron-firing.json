@@ -1,0 +1,28 @@
+{
+  "record": "link",
+  "id": "daa3eb1a-674c-49da-821c-195a6f90a965",
+  "from": "7158655b-acd9-4806-ab0f-9f8ddaa930a6",
+  "to": "423645c6-15dc-494c-999d-09eb2e5f69af",
+  "relation": "weakens",
+  "strength": null,
+  "rationale": "Correlations of firing between distant neurons need entanglement between separate Posners to outlast transport into neurons, and a sub-second decay leaves little time for that.",
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "59afa04f-68b9-4ffa-96a9-e8412d91d794",
+        "locator": "section 3.2",
+        "quote": "A more recent paper revisits this estimate and concludes that entanglement between two nuclear spins in separate Posner molecules decays on a sub-second timescale"
+      }
+    ]
+  }
+}

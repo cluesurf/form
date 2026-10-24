@@ -1,0 +1,28 @@
+{
+  "record": "link",
+  "id": "2cc7d433-f0fc-43ad-b0e0-88497835f6d6",
+  "from": "05994868-caa0-4098-a228-853a7206a442",
+  "to": "516fac38-6c55-470f-b7c2-375ba98b191e",
+  "relation": "requires",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "c2ffb9d7-7445-4825-9bd5-b4647158960b",
+        "locator": "p. 10",
+        "quote": "But these operations are always carried out based on information provided by events"
+      }
+    ]
+  }
+}

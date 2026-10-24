@@ -1,0 +1,55 @@
+{
+  "record": "proposition",
+  "id": "f303e469-3af5-4cd5-b21e-bb245321c623",
+  "kind": "philosophical",
+  "epistemic_status": "observed",
+  "title": "Answer: no account of physical time, which enters as the reach of a cognitive light cone",
+  "statements": [
+    {
+      "id": "280e1173-aac3-45ba-9dcf-1229a827240d",
+      "text": "Basal cognition takes no position on what time is in physics. Time enters as one axis of a self's cognitive light cone: the most distant events, in time and in space, that a system can measure and tries to regulate. Below the present are past events it may remember, above it future events it may anticipate, and a larger self is one whose goals reach further in both. Nervous systems add control of events in time, and brains add memory and planning of what is not happening now.",
+      "language": "en",
+      "scope": "the computational boundary of a self (2019) and the paper on navigating arbitrary spaces (2022)",
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "280e1173-aac3-45ba-9dcf-1229a827240d",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "9d7dc0d8-1f18-43d2-b86a-16d31ae12fd3",
+        "locator": "section on the cognitive light cone",
+        "quote": "is the most distant (in time and space) set of events that this system can measure and attempts to regulate in its goal-directed activity."
+      },
+      {
+        "source": "9d7dc0d8-1f18-43d2-b86a-16d31ae12fd3",
+        "locator": "Figure 2 and its text",
+        "quote": "The vertical axis is time. Values below the individual's Now are past events, of which it may have a memory extending some duration in the past"
+      },
+      {
+        "source": "ace9be22-0f28-4934-89ff-c29f4e6bb2aa",
+        "locator": "section 5",
+        "quote": "The control of movement via nervous systems is largely about events in time."
+      }
+    ]
+  }
+}

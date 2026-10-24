@@ -1,0 +1,50 @@
+{
+  "record": "proposition",
+  "id": "0c105d51-91cb-41c0-8109-dfba42aac940",
+  "kind": "empirical",
+  "epistemic_status": "hypothesized",
+  "title": "Long-term memory is classical, the quantum buffer is short",
+  "statements": [
+    {
+      "id": "7eef7c22-64e7-4bc3-9b7a-4d8995a8cbb4",
+      "text": "The ontic evolution keeps only a quantum memory that decays exponentially with the number of steps, a short-term buffer that builds up a fuller experience. Long-term memory is classical and needs quantum-to-classical memorization and classical-to-quantum recall.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "7eef7c22-64e7-4bc3-9b7a-4d8995a8cbb4",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "4a842576-1434-482e-9bd8-b970f99a257b",
+        "locator": "abstract, p. 2",
+        "quote": "term memory, on the other hand, is classical"
+      },
+      {
+        "source": "4a842576-1434-482e-9bd8-b970f99a257b",
+        "locator": "section 5, p. 12",
+        "quote": "The quantum memory intrinsic in the ontic evolution instead works well as a short-term buffer to build up a fuller experience"
+      }
+    ]
+  }
+}

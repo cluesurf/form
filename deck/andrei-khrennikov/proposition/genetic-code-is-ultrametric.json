@@ -1,0 +1,45 @@
+{
+  "record": "proposition",
+  "id": "daf9f9a1-b8ec-4216-b90c-738d6e2e19e0",
+  "kind": "empirical",
+  "epistemic_status": "hypothesized",
+  "title": "The genetic code carries a p-adic ultrametric structure",
+  "statements": [
+    {
+      "id": "3b47cb31-6320-4edb-a30a-764e9feb7d86",
+      "text": "The genetic code shows a p-adic degeneracy, codons and amino acids can be treated as p-adic ultrametric networks, and the ultrametric approach is a promising route to bioinformation.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "3b47cb31-6320-4edb-a30a-764e9feb7d86",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "6b0b202f-2a65-4760-8c0a-4ec4c79c8a23",
+        "locator": "abstract",
+        "quote": "It is shown that codons and amino acids can be treated as p-adic ultrametric networks"
+      }
+    ]
+  }
+}

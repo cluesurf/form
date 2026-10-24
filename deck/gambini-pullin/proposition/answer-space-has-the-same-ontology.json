@@ -1,0 +1,45 @@
+{
+  "record": "proposition",
+  "id": "8eb3fe3f-e870-4515-bf90-446af12d8a97",
+  "kind": "philosophical",
+  "epistemic_status": "hypothesized",
+  "title": "Answer: spacetime admits the same ontology of objects and events",
+  "statements": [
+    {
+      "id": "f6decfe3-00ef-4cd5-8c8e-6340b3ea37c7",
+      "text": "The papers take no full position on space. They state that quantum gravity shows the ontology of objects and events applies to spacetime, and that entangled states spread through spacetime are defined by their dispositions, not by a state at a time.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "f6decfe3-00ef-4cd5-8c8e-6340b3ea37c7",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "c2ffb9d7-7445-4825-9bd5-b4647158960b",
+        "locator": "p. 10",
+        "quote": "show that the same ontology is applicable to spacetime"
+      }
+    ]
+  }
+}

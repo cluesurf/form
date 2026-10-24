@@ -1,0 +1,45 @@
+{
+  "record": "proposition",
+  "id": "f18840a9-c473-4738-b8b6-caeca6c15ca9",
+  "kind": "philosophical",
+  "epistemic_status": "inferred",
+  "title": "Answer: the framework gives no account of intelligence",
+  "statements": [
+    {
+      "id": "79e0dc85-d602-4115-a72e-0c56235b6d70",
+      "text": "Algorithmic idealism takes no position on what intelligence is. Agents and observers are not primitive notions in it, only momentary self states, and the papers do not define intelligence.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "79e0dc85-d602-4115-a72e-0c56235b6d70",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "9000a5bd-f121-420b-8890-4c02d4c528be",
+        "locator": "section IV",
+        "quote": "this implies that “agents” or “observers” will not be primitive notions of algorithmic idealism"
+      }
+    ]
+  }
+}

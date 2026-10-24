@@ -1,0 +1,39 @@
+{
+  "record": "observation",
+  "id": "ad89106a-34fa-411d-a019-64d568df3303",
+  "kind": "experimental_result",
+  "epistemic_status": "observed",
+  "description": "In monkeys trained to report a visual target, spiking in V1 and V2 was uncorrelated with perception, while low-frequency modulation of local field potentials, presumed to come from synchronously firing neurons, in the same regions did correlate with it (Wilke et al. 2006, as reported by McFadden).",
+  "method": "instrument",
+  "status": "reported",
+  "source": "f0c60d5f-9d43-4f34-b442-f38b3ffcf271",
+  "procedure": null,
+  "variable": null,
+  "value": null,
+  "unit": null,
+  "uncertainty": null,
+  "sample_size": null,
+  "replication_count": null,
+  "quality": null,
+  "limitations": "Reported secondhand in McFadden 2020. The original study is not read here.",
+  "conflicts_of_interest": null,
+  "observed_at": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "f0c60d5f-9d43-4f34-b442-f38b3ffcf271",
+        "locator": "pp. 5-6",
+        "quote": "spiking of neurons in cortical areas V1 and V2 was totally uncorrelated with the monkey’s perception of the target"
+      }
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "record": "link",
+  "id": "ebb6e0ff-8ac6-484f-98e4-f11f0b9bfa6b",
+  "from": "d1792620-65c0-4e33-9f4f-14562d4f96d6",
+  "to": "e904193d-1db9-4990-af6d-293e276f8d27",
+  "relation": "requires",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "031558db-d715-456e-b580-d47a6b3bc323",
+        "locator": "abstract",
+        "quote": "as the unique molecule that can protect the neural qubits on very long times and thereby serve as a (working) quantum-memory"
+      }
+    ]
+  }
+}

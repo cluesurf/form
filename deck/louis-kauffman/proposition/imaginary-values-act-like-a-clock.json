@@ -1,0 +1,45 @@
+{
+  "record": "proposition",
+  "id": "84b8667d-9a63-482b-9307-f6786e4c1329",
+  "kind": "mathematical",
+  "epistemic_status": "inferred",
+  "title": "Imaginary logical values act as cyclic operators, like a clock",
+  "statements": [
+    {
+      "id": "647757eb-096c-4372-b406-23d52e20cf5a",
+      "text": "In the BF calculus, a four-valued extension of Laws of Form, every value is both a value and an operation, and imaginary values act as cyclic operators in exact analogy to a clock marked at the four quarter hours.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "647757eb-096c-4372-b406-23d52e20cf5a",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "60e6cb4b-f52f-42ff-bc1f-86cebdc90756",
+        "locator": "section 1",
+        "quote": "Imaginary values act as cyclic operators, in exact analogy to a clock marked at the four quarter hours"
+      }
+    ]
+  }
+}

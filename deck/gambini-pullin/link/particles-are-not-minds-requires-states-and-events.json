@@ -1,0 +1,28 @@
+{
+  "record": "link",
+  "id": "ab7dac1a-3256-4ccc-82c4-f167ac488449",
+  "from": "3c68c781-918a-42c1-b18d-f9f7951a8337",
+  "to": "516fac38-6c55-470f-b7c2-375ba98b191e",
+  "relation": "requires",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "8002b969-14aa-430f-8f0d-0861c809ee04",
+        "locator": "p. 1",
+        "quote": "However, as quantum physics reveals, such attributions are misguided."
+      }
+    ]
+  }
+}

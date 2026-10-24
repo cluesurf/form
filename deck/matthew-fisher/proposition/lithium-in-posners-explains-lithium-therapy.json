@@ -1,0 +1,45 @@
+{
+  "record": "proposition",
+  "id": "d2a541f3-3c19-49ea-83ec-02765d49a948",
+  "kind": "empirical",
+  "epistemic_status": "hypothesized",
+  "title": "Lithium inside Posners may explain lithium therapy for mania",
+  "statements": [
+    {
+      "id": "e12258b8-8971-4263-b9bd-67b68d9f587c",
+      "text": "If two lithium ions replace the central calcium of a Posner molecule as it forms, they would decohere the phosphorus spins, a possible explanation for the efficacy of lithium in tempering mania in bipolar disorder.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "e12258b8-8971-4263-b9bd-67b68d9f587c",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "031558db-d715-456e-b580-d47a6b3bc323",
+        "locator": "page 7",
+        "quote": "offering a possible explanation for the remarkable efficacy of lithium in tempering mania in patients with bipolar disorder"
+      }
+    ]
+  }
+}

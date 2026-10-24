@@ -1,0 +1,50 @@
+{
+  "record": "proposition",
+  "id": "1c258481-67f5-45d5-bca9-9e8a1cd8865f",
+  "kind": "philosophical",
+  "epistemic_status": "inferred",
+  "title": "P2’: the information theory of consciousness is quantum theory",
+  "statements": [
+    {
+      "id": "75ada682-d7b9-4999-a428-5e312c42e8e9",
+      "text": "Privacy requires a nonclassical information theory, quantum theory or a post-quantum operational probabilistic theory. The authors choose quantum theory, the best known, and state the choice as a principle.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "75ada682-d7b9-4999-a428-5e312c42e8e9",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "4a842576-1434-482e-9bd8-b970f99a257b",
+        "locator": "section 1, p. 5",
+        "quote": "P2 implies that a theory of consciousness needs nonclassical information theory"
+      },
+      {
+        "source": "4a842576-1434-482e-9bd8-b970f99a257b",
+        "locator": "section 1, p. 5",
+        "quote": "P2’: Quantumness of experience: The information theory of consciousness is quantum theory."
+      }
+    ]
+  }
+}

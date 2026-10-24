@@ -1,0 +1,28 @@
+{
+  "record": "link",
+  "id": "4fb777ae-3580-4c57-97bf-4cdbce1c5d47",
+  "from": "3d10f5cf-d4ee-49da-9d1d-443dc3dcfa5b",
+  "to": "ec8744b8-35ca-438f-b48c-63eb48570bc6",
+  "relation": "answers",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "d5b85533-f9ce-4956-9ca1-9102da7a2b10",
+        "locator": "p. 9",
+        "quote": "It is protophenomenal because the fundamental physical entities would have phenomenal intrinsic aspects of a primordial kind"
+      }
+    ]
+  }
+}

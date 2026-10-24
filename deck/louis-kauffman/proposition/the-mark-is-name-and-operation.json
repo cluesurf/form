@@ -1,0 +1,45 @@
+{
+  "record": "proposition",
+  "id": "1de3ce9b-91ea-4262-bd38-320f0eda031d",
+  "kind": "mathematical",
+  "epistemic_status": "designed",
+  "title": "The mark is both a name and an operation",
+  "statements": [
+    {
+      "id": "3342e042-95d4-4665-880c-b218f738542a",
+      "text": "Representing the unmarked state by an empty space lets the mark act both as the name of a value and as the operation of crossing a boundary, and since the mark makes a distinction in its own space it refers to itself.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "3342e042-95d4-4665-880c-b218f738542a",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "60e6cb4b-f52f-42ff-bc1f-86cebdc90756",
+        "locator": "section 2.A",
+        "quote": "the mark can be regarded as referent to itself and to the (outer side) of the distinction that it makes"
+      }
+    ]
+  }
+}

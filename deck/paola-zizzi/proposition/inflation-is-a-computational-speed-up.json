@@ -1,0 +1,45 @@
+{
+  "record": "proposition",
+  "id": "c54b49fb-26d6-45c3-bce4-0ed20808ffd9",
+  "kind": "empirical",
+  "epistemic_status": "hypothesized",
+  "title": "Vacuum fluctuations speed the register growth, which is inflation",
+  "statements": [
+    {
+      "id": "3b1956ba-840b-480c-abb8-1364c92063f8",
+      "text": "Vacuum quantum fluctuations create uncertainty in quantum information, and the resulting virtual states, operated on by quantum logic gates and turned into qubits, speed up the growth of the register, which is inflation.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "3b1956ba-840b-480c-abb8-1364c92063f8",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "8f1c2708-df79-42bc-9be8-181d745ce4a3",
+        "locator": "abstract",
+        "quote": "The resulting virtual states, (responsible for the speed up of growth, i.e., inflation), are operated on by quantum logic gates and transformed into qubits"
+      }
+    ]
+  }
+}

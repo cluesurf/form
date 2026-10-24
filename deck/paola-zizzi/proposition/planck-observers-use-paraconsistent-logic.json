@@ -1,0 +1,45 @@
+{
+  "record": "proposition",
+  "id": "8217a572-3f57-4af3-9845-428f4cf1bd7d",
+  "kind": "mathematical",
+  "epistemic_status": "hypothesized",
+  "title": "Observers at the Planck scale reason in paraconsistent logic",
+  "statements": [
+    {
+      "id": "9b73c6d2-2834-4ec0-ab61-22e18d70bc64",
+      "text": "A theorem classically true but non-computable becomes computable but non-decidable at the Planck scale, because the logic of observers in a quantum-computing universe changes from standard quantum and classical logic to paraconsistent logic.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "9b73c6d2-2834-4ec0-ab61-22e18d70bc64",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "54c1b0ec-c588-448b-8501-048b72bab3b2",
+        "locator": "abstract",
+        "quote": "This fact is due to the change of logic for observers in a quantumcomputing universe: from standard quantum logic and classical logic, to paraconsistent logic"
+      }
+    ]
+  }
+}

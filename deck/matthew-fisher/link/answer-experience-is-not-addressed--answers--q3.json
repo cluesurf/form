@@ -1,0 +1,28 @@
+{
+  "record": "link",
+  "id": "0e517b8a-b90c-4aa4-98c9-b4409d5e95ec",
+  "from": "7ed04dc3-8d49-472e-8528-35e5b1ff1a95",
+  "to": "94d1e6cc-101d-4e1b-9fc7-56d44571b271",
+  "relation": "answers",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "031558db-d715-456e-b580-d47a6b3bc323",
+        "locator": "abstract",
+        "quote": "The possibility that quantum processing with nuclear spins might be operative in the brain is explored"
+      }
+    ]
+  }
+}

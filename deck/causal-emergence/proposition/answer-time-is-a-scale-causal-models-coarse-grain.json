@@ -1,0 +1,50 @@
+{
+  "record": "proposition",
+  "id": "7246c2d4-c4ce-43a5-b0fd-7db5955374d3",
+  "kind": "philosophical",
+  "epistemic_status": "observed",
+  "title": "Answer: no account of time, which is one of the scales a causal model is coarse-grained along",
+  "statements": [
+    {
+      "id": "f1037372-d0a0-44b7-af4a-819d677d9f0c",
+      "text": "Causal emergence takes no position on what time is. Time is one of the axes along which a system's causal structure is described: the micro causal model is the most fine-grained representation in space and time, and a macroscale can be a mapping in space, in time, or both, such as grouping micro steps into one macro step. Which temporal scale carries the most causal power is a question about each system, answered by measuring effective information.",
+      "language": "en",
+      "scope": "the 2016 paper When the map is better than the territory",
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "f1037372-d0a0-44b7-af4a-819d677d9f0c",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "af04362c-992c-4063-8ee0-0860e42624ed",
+        "locator": "abstract",
+        "quote": "The causal structure of any system can be analyzed at a multitude of spatial and temporal scales."
+      },
+      {
+        "source": "af04362c-992c-4063-8ee0-0860e42624ed",
+        "locator": "p. 5",
+        "quote": "A macroscale can be a mapping in space, time, or both."
+      }
+    ]
+  }
+}

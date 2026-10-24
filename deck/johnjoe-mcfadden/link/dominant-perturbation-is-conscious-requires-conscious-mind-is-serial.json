@@ -1,0 +1,28 @@
+{
+  "record": "link",
+  "id": "0316c467-fd14-407e-acf9-86ecfed41741",
+  "from": "4bfcfdfc-c601-4bd6-96df-47d55fcda039",
+  "to": "fefe15ff-71a8-478d-9a50-ee0cd26a8586",
+  "relation": "requires",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "f0c60d5f-9d43-4f34-b442-f38b3ffcf271",
+        "locator": "p. 6",
+        "quote": "the cemi field relies on a measurable physical parameter—the strength of EM field perturbations that are capable of modulating neural firing—to differentiate between conscious and non-conscious brain information"
+      }
+    ]
+  }
+}

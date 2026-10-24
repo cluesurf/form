@@ -1,0 +1,28 @@
+{
+  "record": "link",
+  "id": "064e5d1b-444a-4f40-96b2-549de8815cd2",
+  "from": "80747928-17c7-4c62-9e85-6455640e4cf0",
+  "to": "3c1c5e6b-2943-4810-baf8-d48f72c4e148",
+  "relation": "answers",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "2f180ea7-97cb-44bd-b806-14b03fd4ba33",
+        "locator": "abstract",
+        "quote": "The QL representation has a temporal basis"
+      }
+    ]
+  }
+}

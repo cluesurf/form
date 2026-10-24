@@ -1,0 +1,28 @@
+{
+  "record": "link",
+  "id": "d24f9ec8-cfc5-419a-8bf6-ca9c0167983d",
+  "from": "4785b0aa-8c18-4d84-b682-236fbaf0cd84",
+  "to": "94d1e6cc-101d-4e1b-9fc7-56d44571b271",
+  "relation": "answers",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "8103813e-0395-422a-b13a-8d91e58a2d3b",
+        "locator": "how the project turned to physics",
+        "quote": null
+      }
+    ]
+  }
+}

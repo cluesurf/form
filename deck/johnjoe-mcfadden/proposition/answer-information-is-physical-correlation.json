@@ -1,0 +1,45 @@
+{
+  "record": "proposition",
+  "id": "21f64e6c-2a67-4979-91dd-c0a686730024",
+  "kind": "definitional",
+  "epistemic_status": "designed",
+  "title": "Answer: information is Shannon correlation, and it is physical",
+  "statements": [
+    {
+      "id": "75151016-6883-44f7-876b-a649e7cffaee",
+      "text": "Information is Shannon information, a measure of correlation between the degrees of freedom of a sender and a receiver, in bits. Information is physical, and on the double-aspect view it also has an experiential side.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "75151016-6883-44f7-876b-a649e7cffaee",
+  "status": "active",
+  "voice": "framework",
+  "defines": "information",
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "f0c60d5f-9d43-4f34-b442-f38b3ffcf271",
+        "locator": "p. 2",
+        "quote": "which is essentially a measure of correlation between the degrees of freedom of a sender and receiver of a message, measured in bits"
+      }
+    ]
+  }
+}

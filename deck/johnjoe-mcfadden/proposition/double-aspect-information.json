@@ -1,0 +1,45 @@
+{
+  "record": "proposition",
+  "id": "10b01953-7ce4-4975-a1c2-33f77ed9a9b9",
+  "kind": "philosophical",
+  "epistemic_status": "hypothesized",
+  "title": "Information has a physical and an experiential aspect",
+  "statements": [
+    {
+      "id": "e0139ac9-3ad5-4e64-84b5-a598aee4b6ae",
+      "text": "The theory incorporates Chalmers' double-aspect principle: information has a physical aspect and a phenomenal aspect. Information in a single molecule encodes nothing beyond itself, while field information is unified and can encode the outside world, so it is a suitable substrate for experience.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "e0139ac9-3ad5-4e64-84b5-a598aee4b6ae",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "f0c60d5f-9d43-4f34-b442-f38b3ffcf271",
+        "locator": "p. 11",
+        "quote": "the cemi theory incorporates Chalmers’ (Chalmers 1995) ‘double-aspect’ principle that information has both a physical, and a phenomenal or experiential aspect"
+      }
+    ]
+  }
+}

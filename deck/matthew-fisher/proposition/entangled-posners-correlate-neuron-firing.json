@@ -1,0 +1,45 @@
+{
+  "record": "proposition",
+  "id": "423645c6-15dc-494c-999d-09eb2e5f69af",
+  "kind": "empirical",
+  "epistemic_status": "hypothesized",
+  "title": "Entangled Posners give non-local quantum correlations of neuron firing",
+  "statements": [
+    {
+      "id": "2e7e20b8-fcc1-4349-af3b-b95523230ab2",
+      "text": "Multiple entangled Posner molecules in different neurons, triggering non-local quantum correlations of neuron firing rates, would be the key mechanism of neural quantum processing.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "2e7e20b8-fcc1-4349-af3b-b95523230ab2",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "031558db-d715-456e-b580-d47a6b3bc323",
+        "locator": "abstract",
+        "quote": "Multiple entangled Posner molecules, triggering non-local quantum correlations of neuron firing rates, would provide the key mechanism for neural quantum processing"
+      }
+    ]
+  }
+}

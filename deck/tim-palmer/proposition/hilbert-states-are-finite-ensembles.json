@@ -1,0 +1,50 @@
+{
+  "record": "proposition",
+  "id": "93680441-a320-408e-b9dd-3e52b7b40998",
+  "kind": "mathematical",
+  "epistemic_status": "inferred",
+  "title": "Hilbert states describe finite ensembles of trajectories with rational amplitudes",
+  "statements": [
+    {
+      "id": "47378984-c926-4e25-9b75-7872e51c43b7",
+      "text": "A complex Hilbert state describes a finite ensemble of trajectories on $I_U$, and is allowed only when its squared amplitudes are rational and its phase angles are rational multiples of $2\\pi$. The number-theoretic incommensurateness of rational angles and their cosines accounts for complementarity.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "47378984-c926-4e25-9b75-7872e51c43b7",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "9ad7e0a5-cb50-42f0-a664-d897d255b8ba",
+        "locator": "abstract",
+        "quote": "but only if their squared amplitudes are rational and corresponding complex phase angles are rational multiples of $2 π$"
+      },
+      {
+        "source": "bf5ea4cf-57e5-4d17-8a1a-6ecb67eba71c",
+        "locator": "section I",
+        "quote": null
+      }
+    ]
+  }
+}

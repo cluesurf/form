@@ -1,0 +1,50 @@
+{
+  "record": "proposition",
+  "id": "27205063-3aa7-4f7a-84e2-ca670ce7040c",
+  "kind": "empirical",
+  "epistemic_status": "hypothesized",
+  "title": "There is no graviton and no reason to quantize gravity",
+  "statements": [
+    {
+      "id": "dfa60700-5b1c-47fc-80c3-9e7ffd463f41",
+      "text": "Gravity is not a force subject to the rules of quantum field theory. In invariant set theory there is no graviton, and no reason for gravity to act as a witness of quantum entanglement. Quantizing a gravitational Lagrangian in the usual way is questioned.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "dfa60700-5b1c-47fc-80c3-9e7ffd463f41",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "478fe2c6-b5e1-40b0-8272-63eec047745e",
+        "locator": "section 6",
+        "quote": "In IST there is no such thing as a graviton."
+      },
+      {
+        "source": "f651ee3f-230f-410f-8ada-442a03e4fa99",
+        "locator": "abstract",
+        "quote": "the physical basis for contemporary programmes which apply standard field quantisation to some putative gravitational lagrangian is questioned"
+      }
+    ]
+  }
+}

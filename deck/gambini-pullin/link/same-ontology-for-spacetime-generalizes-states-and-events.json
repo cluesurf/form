@@ -1,0 +1,28 @@
+{
+  "record": "link",
+  "id": "7392f09e-8d34-44f1-9b7e-47e17a9ba168",
+  "from": "fa21b17f-768e-4e25-9d8a-c74afd81c57c",
+  "to": "516fac38-6c55-470f-b7c2-375ba98b191e",
+  "relation": "generalizes",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "c2ffb9d7-7445-4825-9bd5-b4647158960b",
+        "locator": "p. 10",
+        "quote": "show that the same ontology is applicable to spacetime"
+      }
+    ]
+  }
+}

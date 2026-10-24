@@ -1,0 +1,28 @@
+{
+  "record": "link",
+  "id": "7ea0a431-fa46-4420-9119-ad0bf4b7fde9",
+  "from": "be9e9226-a67e-4504-8951-b74922993759",
+  "to": "b2465416-73c6-45a9-a345-6bec100d2178",
+  "relation": "requires",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "8f1c2708-df79-42bc-9be8-181d745ce4a3",
+        "locator": "abstract",
+        "quote": "We consider a quantum gravity register that is a particular quantum memory register which grows with time, and whose qubits are pixels of area of quantum de Sitter horizons"
+      }
+    ]
+  }
+}

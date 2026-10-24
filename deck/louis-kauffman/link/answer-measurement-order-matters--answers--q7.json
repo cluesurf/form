@@ -1,0 +1,28 @@
+{
+  "record": "link",
+  "id": "720e6463-7b6e-45c9-a677-f445d24587c5",
+  "from": "b5c88b3e-20f3-4cdc-9ec5-0c8a53d56eb2",
+  "to": "1db1bbe9-0f32-4e1f-8237-c8fe26bf268f",
+  "relation": "answers",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "e8996e04-109b-450c-9140-ec017b0df0b9",
+        "locator": "section 7",
+        "quote": "expresses the difference between two orders of discrete measurement"
+      }
+    ]
+  }
+}

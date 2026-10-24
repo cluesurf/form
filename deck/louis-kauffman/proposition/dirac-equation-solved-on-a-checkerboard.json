@@ -1,0 +1,45 @@
+{
+  "record": "proposition",
+  "id": "99cb3f20-5255-4dda-93bf-9eb8cecc478a",
+  "kind": "mathematical",
+  "epistemic_status": "inferred",
+  "title": "The discrete Dirac equation is solved exactly by Feynman's checkerboard",
+  "statements": [
+    {
+      "id": "ef6112d0-cd37-4bb5-afde-1b7ac766a799",
+      "text": "The 1+1 Dirac equation in light cone coordinates can be solved exactly with the calculus of finite differences, its complex form giving Feynman's checkerboard, a weighted sum over lattice paths, with continuum solutions as limits.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "ef6112d0-cd37-4bb5-afde-1b7ac766a799",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "516e458b-50db-475f-a129-12bc76bf60df",
+        "locator": "abstract",
+        "quote": "solve them exactly using the classical calculus of finite differences. The complex form yields “Feynman’s Checkerboard”"
+      }
+    ]
+  }
+}

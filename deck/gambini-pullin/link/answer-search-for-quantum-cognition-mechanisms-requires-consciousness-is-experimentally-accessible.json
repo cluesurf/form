@@ -1,0 +1,28 @@
+{
+  "record": "link",
+  "id": "377c7098-d7e1-4e37-bfd7-d54a62994712",
+  "from": "f9823ec0-36f9-4d54-a6e7-893f40bab4b5",
+  "to": "abf74a44-e1d7-4f4f-bad3-d081bdd84205",
+  "relation": "requires",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "d5b85533-f9ce-4956-9ca1-9102da7a2b10",
+        "locator": "p. 17",
+        "quote": "the analysis imposes conditions on the possible implementation of a mechanism of quantum cognition"
+      }
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "record": "link",
+  "id": "aa268793-1ae0-4d1f-b1f0-f87fa12cbed8",
+  "from": "1c35242d-3268-472b-a04c-826893502ff0",
+  "to": "49cb1723-e89c-410e-b925-280c80f49966",
+  "relation": "contradicts",
+  "strength": null,
+  "rationale": "Kent gives non-quantum measurement rules that meet every assumption of the derivation, which would make the derived rules one choice among several.",
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "49622fd3-2296-401e-a282-a055216442de",
+        "locator": "abstract",
+        "quote": null
+      }
+    ]
+  }
+}

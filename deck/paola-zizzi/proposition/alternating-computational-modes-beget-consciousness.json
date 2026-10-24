@@ -1,0 +1,45 @@
+{
+  "record": "proposition",
+  "id": "708d57c6-1846-4734-b7b6-d9ba0faaa23e",
+  "kind": "philosophical",
+  "epistemic_status": "hypothesized",
+  "title": "Alternating quantum and classical computational modes beget consciousness",
+  "statements": [
+    {
+      "id": "1236d5a5-b734-45ac-b26e-b49f9e521796",
+      "text": "From autopoiesis, self-reproduction, the no-cloning theorem and organizational invariance follows a principle of alternating computational modes: a unit shares the conscious experience of the decohered quantum system that produced it only if it alternates quantum and classical modes at least once.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "1236d5a5-b734-45ac-b26e-b49f9e521796",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "7906bb27-7024-4cb3-ba97-eaea4cd63f4c",
+        "locator": "section 1",
+        "quote": "we derive the \"Principle of Alternating Computational Modes\" which begets consciousness"
+      }
+    ]
+  }
+}

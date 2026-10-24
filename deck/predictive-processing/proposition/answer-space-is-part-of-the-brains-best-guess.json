@@ -1,0 +1,50 @@
+{
+  "record": "proposition",
+  "id": "1ce8990c-564e-46d3-9453-34900967bc0b",
+  "kind": "philosophical",
+  "epistemic_status": "hypothesized",
+  "title": "Answer: no account of physical space, and perceived space is part of the brain's best guess",
+  "statements": [
+    {
+      "id": "b804268e-3d49-4283-8885-d14e3e4fe4e0",
+      "text": "Predictive processing takes no position on what space is in physics. Perceived space is part of the brain's best guess about the causes of its sensory signals: what is seen is the brain's best guess of what is out there, and the body's own place in space is inferred from proprioception, which signals the body's configuration in space.",
+      "language": "en",
+      "scope": "perceived space. Physical space lies outside the account",
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "b804268e-3d49-4283-8885-d14e3e4fe4e0",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "96bb39b7-0703-4f5d-8e5f-74c65d976742",
+        "locator": "the section on predictive perception",
+        "quote": "What we see is the brain's 'best guess' of what's out there."
+      },
+      {
+        "source": "96bb39b7-0703-4f5d-8e5f-74c65d976742",
+        "locator": "the section on the self",
+        "quote": "These bodily senses include proprioception, which signals the body's configuration in space"
+      }
+    ]
+  }
+}

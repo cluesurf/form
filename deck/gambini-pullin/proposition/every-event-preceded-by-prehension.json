@@ -1,0 +1,45 @@
+{
+  "record": "proposition",
+  "id": "d5574cff-2141-4d86-84d0-712a9a101931",
+  "kind": "philosophical",
+  "epistemic_status": "hypothesized",
+  "title": "Every event is preceded by the prehension of a proto-subject",
+  "statements": [
+    {
+      "id": "3959be2a-b828-40cb-a21d-3f230330e9d7",
+      "text": "Every time an event occurs, it is preceded by the prehension of a proto-subject of experience, which has emotion, purpose and valuation as states have dispositions to produce events.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "3959be2a-b828-40cb-a21d-3f230330e9d7",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "c2ffb9d7-7445-4825-9bd5-b4647158960b",
+        "locator": "p. 16",
+        "quote": "Every time an event occurs, it is preceded by the prehension of a proto-subject."
+      }
+    ]
+  }
+}

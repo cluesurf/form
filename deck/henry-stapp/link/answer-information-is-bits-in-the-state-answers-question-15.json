@@ -1,0 +1,28 @@
+{
+  "record": "link",
+  "id": "506511bb-4d66-44cc-b6f6-06853bdfd31a",
+  "from": "f8f5575c-4577-44cd-a95f-c657b8545b60",
+  "to": "af2bc4e4-a1a9-4f67-860c-1460f09cd55c",
+  "relation": "answers",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "cf0e8d1a-00df-4de4-82b8-3266e56aa4a9",
+        "locator": "section 'The Physical World as Information'",
+        "quote": "Thus each answer, Yes or No, injects one “bit” of information into the quantum universe."
+      }
+    ]
+  }
+}

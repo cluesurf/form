@@ -1,0 +1,45 @@
+{
+  "record": "proposition",
+  "id": "ff647629-9153-415c-8983-d72ae1477a40",
+  "kind": "empirical",
+  "epistemic_status": "hypothesized",
+  "title": "Hyperbolic interference may appear in cognition though never in physics",
+  "statements": [
+    {
+      "id": "36fb1094-c84d-44fa-974b-12578cb52a5a",
+      "text": "Besides the cosine interference of quantum physics, the model allows hyperbolic cosine interference of probabilities, never observed for physical systems but not excluded for cognitive systems.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "36fb1094-c84d-44fa-974b-12578cb52a5a",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "cc0bfb59-e0b4-48fe-a6c9-5a461cf9b0d6",
+        "locator": "section 1",
+        "quote": "The latter interference was never observed for physical systems, but we could not exclude this possibility for cognitive systems"
+      }
+    ]
+  }
+}

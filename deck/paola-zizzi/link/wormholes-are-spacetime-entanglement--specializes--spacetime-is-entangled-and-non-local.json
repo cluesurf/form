@@ -1,0 +1,28 @@
+{
+  "record": "link",
+  "id": "c7d1fb40-5854-47ce-88f4-45951db62722",
+  "from": "ce81d861-4e70-4469-bc7b-551a2e37588a",
+  "to": "edb750ec-99e9-4b6e-bae2-f1ca547dafe5",
+  "relation": "specializes",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "921ba477-9bdd-4743-bd88-93d6f630d69f",
+        "locator": "abstract",
+        "quote": "By the quantum holographic principle, such a geometrical connection is space-time entanglement"
+      }
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "record": "link",
+  "id": "adc11ac4-3e9d-4cc8-a14c-ef8beaa43941",
+  "from": "08eb3f0b-8d6f-4a4e-a0c0-646042082273",
+  "to": "d2ed3d32-acc8-4e64-8661-1001ca249bbf",
+  "relation": "requires",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "7a402f8b-3b1f-45e0-b6bd-6942c2daab7a",
+        "locator": "section 1",
+        "quote": "The very importance of metathough, which deals with intuition, intention and control, resides in the fact that it distinguishes humans from machines"
+      }
+    ]
+  }
+}

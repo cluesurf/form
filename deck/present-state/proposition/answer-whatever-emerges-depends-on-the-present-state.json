@@ -1,0 +1,45 @@
+{
+  "record": "proposition",
+  "id": "bdebee07-8b30-4f1a-aaba-a778292e462c",
+  "kind": "philosophical",
+  "epistemic_status": "observed",
+  "title": "Answer: no account of what is emergent, only that it must rest on the present state",
+  "statements": [
+    {
+      "id": "68e9dd26-54f0-4d3e-a9a1-f52681b939c8",
+      "text": "The theorem takes no position on what is emergent. It constrains whatever a theory says consciousness arises from: that basis must be a feature of the present physical state, and history, process or computation can matter only through the state they leave. Which present feature it is, the paper leaves to other theories.",
+      "language": "en",
+      "scope": "the no-go theorem, version 1 of the preprint",
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "68e9dd26-54f0-4d3e-a9a1-f52681b939c8",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "ac2774e1-a04c-4c89-9db2-7848c6f5ce0b",
+        "locator": "section 5, p. 11",
+        "quote": "The remaining response is the corollary: history matters only through the present physical state it produces."
+      }
+    ]
+  }
+}

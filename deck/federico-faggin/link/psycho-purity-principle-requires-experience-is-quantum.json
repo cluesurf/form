@@ -1,0 +1,28 @@
+{
+  "record": "link",
+  "id": "8022d955-a18e-40dd-a472-6ed03b9455ff",
+  "from": "9b435a53-9f64-480e-8b8c-3b54912e630a",
+  "to": "1c258481-67f5-45d5-bca9-9e8a1cd8865f",
+  "relation": "requires",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "4a842576-1434-482e-9bd8-b970f99a257b",
+        "locator": "section 1, p. 6",
+        "quote": "P3: Psycho-purity principle: The state of the conscious system is pure."
+      }
+    ]
+  }
+}

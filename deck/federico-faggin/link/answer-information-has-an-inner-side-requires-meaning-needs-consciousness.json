@@ -1,0 +1,33 @@
+{
+  "record": "link",
+  "id": "f974a779-833f-4f90-b16d-1d20675fcc7b",
+  "from": "5d3a2b07-6545-4fd0-ad0a-be60da269014",
+  "to": "0a80060a-c23c-4557-880a-c5b26f3beb9a",
+  "relation": "requires",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "6fe53ccc-970a-4952-8f73-fed7c748e93b",
+        "locator": "section 'Information and Symbols'",
+        "quote": "a symbol without meaning is just a signal"
+      },
+      {
+        "source": "4a842576-1434-482e-9bd8-b970f99a257b",
+        "locator": "p. 5",
+        "quote": "P2’: Quantumness of experience: The information theory of consciousness is quantum theory."
+      }
+    ]
+  }
+}

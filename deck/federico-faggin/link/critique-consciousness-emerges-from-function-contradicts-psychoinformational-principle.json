@@ -1,0 +1,28 @@
+{
+  "record": "link",
+  "id": "9733de28-4451-43c6-8ef0-b2d327196c5f",
+  "from": "d02122cf-e800-46d2-a098-52577b9be182",
+  "to": "c3e1d8bb-8214-45c9-9318-6b507951f1d0",
+  "relation": "contradicts",
+  "strength": null,
+  "rationale": "If experience emerges from function, it is not a fundamental property of information.",
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "4a842576-1434-482e-9bd8-b970f99a257b",
+        "locator": "section 1, p. 2",
+        "quote": "the Physicalist view–with consciousness “emergent from a functioning”, such as some biological property of life"
+      }
+    ]
+  }
+}

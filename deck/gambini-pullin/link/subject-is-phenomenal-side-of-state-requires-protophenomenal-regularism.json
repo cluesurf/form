@@ -1,0 +1,28 @@
+{
+  "record": "link",
+  "id": "bb776440-0f0e-4c0e-9770-14a8f50b9ee4",
+  "from": "7c0bfe97-5d1f-4e95-a4b9-b753932db99f",
+  "to": "09af6c8e-3b02-41c8-b72e-35e081303ee3",
+  "relation": "requires",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "c2ffb9d7-7445-4825-9bd5-b4647158960b",
+        "locator": "p. 18",
+        "quote": "Summarizing, a subject is the phenomenal side of a system in a certain state."
+      }
+    ]
+  }
+}

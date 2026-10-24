@@ -1,0 +1,28 @@
+{
+  "record": "link",
+  "id": "d7b6f3e2-7d8d-4f6c-8801-bf6f227e066d",
+  "from": "6f7e254c-fa13-416b-bd74-f002ec25829b",
+  "to": "0a80060a-c23c-4557-880a-c5b26f3beb9a",
+  "relation": "requires",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "6fe53ccc-970a-4952-8f73-fed7c748e93b",
+        "locator": "section 'Computers Cannot Be Conscious'",
+        "quote": "Computers have only mechanical intelligence."
+      }
+    ]
+  }
+}

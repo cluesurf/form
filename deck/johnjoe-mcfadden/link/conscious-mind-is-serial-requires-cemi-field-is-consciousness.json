@@ -1,0 +1,33 @@
+{
+  "record": "link",
+  "id": "6c71f6ac-0a52-4f04-a904-e3ee2d8bf48c",
+  "from": "fefe15ff-71a8-478d-9a50-ee0cd26a8586",
+  "to": "2137b295-e763-4cb4-9b86-359debc6ab36",
+  "relation": "requires",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "f0c60d5f-9d43-4f34-b442-f38b3ffcf271",
+        "locator": "p. 7",
+        "quote": "two thoughts emerging within a brain’s global EM field will always interfere with one another"
+      },
+      {
+        "source": "f0c60d5f-9d43-4f34-b442-f38b3ffcf271",
+        "locator": "p. 7",
+        "quote": "a conscious EM field-based serial processor that can only do one thing at a time"
+      }
+    ]
+  }
+}

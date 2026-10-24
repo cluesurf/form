@@ -1,0 +1,33 @@
+{
+  "record": "link",
+  "id": "72d1d751-be36-4da5-8147-7887de6c1d64",
+  "from": "bddbc919-d196-49fa-b596-d6b7177677c9",
+  "to": "5569bb2b-c083-4537-9f26-a7348b4264d4",
+  "relation": "requires",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "f0c60d5f-9d43-4f34-b442-f38b3ffcf271",
+        "locator": "p. 2",
+        "quote": "the binding provided by consciousness is indeed required to solve general intelligence problems"
+      },
+      {
+        "source": "7d5f59a4-e449-4246-9889-42a0de2c7159",
+        "locator": "title",
+        "quote": "a route towards artificial general intelligence and conscious AI"
+      }
+    ]
+  }
+}

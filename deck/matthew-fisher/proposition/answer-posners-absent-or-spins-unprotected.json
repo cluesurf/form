@@ -1,0 +1,45 @@
+{
+  "record": "proposition",
+  "id": "d88a0f0f-ea88-4fd2-9ecf-5a1cdaf4add6",
+  "kind": "philosophical",
+  "epistemic_status": "hypothesized",
+  "title": "Answer: Posners absent from body fluid, or their spins unprotected",
+  "statements": [
+    {
+      "id": "e966fedf-f854-4df5-a642-58939d1ce0de",
+      "text": "The hypothesis fails if Posner molecules are not present in real body fluids, if their phosphorus spins do not stay coherent, or if no lithium isotope dependence of behavior survives reproduction.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "e966fedf-f854-4df5-a642-58939d1ce0de",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "031558db-d715-456e-b580-d47a6b3bc323",
+        "locator": "page 6",
+        "quote": "Attempting to establish whether Posner molecules are present in real body fluids, while challenging, would also be critical"
+      }
+    ]
+  }
+}

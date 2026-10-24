@@ -1,0 +1,28 @@
+{
+  "record": "link",
+  "id": "13e4f72a-9185-4307-8d7d-78027d2946a5",
+  "from": "5219eed7-e18c-4ea3-a442-ffcda778fdc1",
+  "to": "1db1bbe9-0f32-4e1f-8237-c8fe26bf268f",
+  "relation": "answers",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "7761ff84-c434-4367-8566-43c9037d7b81",
+        "locator": "section 2, p. 3",
+        "quote": "Each thought involves an effort to attend to something— i.e., to pose a question—followed by a registration of the answer."
+      }
+    ]
+  }
+}

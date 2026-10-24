@@ -1,0 +1,28 @@
+{
+  "record": "link",
+  "id": "27d9e74e-f2da-408c-afea-48c58db9df5c",
+  "from": "1b1d9418-8f18-450f-9464-2dd9c8c319d7",
+  "to": "94d1e6cc-101d-4e1b-9fc7-56d44571b271",
+  "relation": "answers",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "a501abcc-30a5-4d3b-8a77-2977ba8a01bc",
+        "locator": "section 1",
+        "quote": "They correspond to a system and an observer"
+      }
+    ]
+  }
+}

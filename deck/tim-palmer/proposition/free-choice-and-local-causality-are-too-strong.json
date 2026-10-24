@@ -1,0 +1,45 @@
+{
+  "record": "proposition",
+  "id": "0fbefd6e-8732-40ef-8e4d-2974b8650c2a",
+  "kind": "philosophical",
+  "epistemic_status": "inferred",
+  "title": "Bell's definitions of free choice and local causality are physically too strong",
+  "statements": [
+    {
+      "id": "4bbde6e2-2672-429a-8dfa-321c8d388059",
+      "text": "The mathematical expressions of free choice and local causality in Bell's theorem involve states that cannot lie on the invariant set. Weaker versions that use only on-set states keep the physical meaning, and invariant set theory satisfies them while violating the Bell inequality.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "4bbde6e2-2672-429a-8dfa-321c8d388059",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "2002f22f-b974-47b5-b368-4f41c1e5c371",
+        "locator": "abstract",
+        "quote": "Free Choice and Local Causality are physically too strong"
+      }
+    ]
+  }
+}

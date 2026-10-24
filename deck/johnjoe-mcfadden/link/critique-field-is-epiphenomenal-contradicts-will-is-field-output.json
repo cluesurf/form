@@ -1,0 +1,33 @@
+{
+  "record": "link",
+  "id": "4be189ff-f92b-4db6-93a1-09b3a10055be",
+  "from": "9ba0fc97-2988-4aad-ab25-e6ccd7721e44",
+  "to": "76da6b91-2406-4694-8fe4-6562312ebb97",
+  "relation": "contradicts",
+  "strength": null,
+  "rationale": "If the field is a by-product with no causal role, it cannot be the output that drives voluntary action.",
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "6a2cb2e5-fef2-4be0-ac3e-95393200dd19",
+        "locator": "p. 2",
+        "quote": "some scholars maintaining the view that they are largely or entirely epiphenomenal"
+      },
+      {
+        "source": "6b6941ee-d23f-4fc1-8bd3-accd6d86afad",
+        "locator": "p. 2",
+        "quote": "more role in brain function that that of a steam whistle on the operation of a steam engine"
+      }
+    ]
+  }
+}

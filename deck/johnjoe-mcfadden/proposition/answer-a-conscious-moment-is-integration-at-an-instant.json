@@ -1,0 +1,45 @@
+{
+  "record": "proposition",
+  "id": "1e00f410-6bd6-4279-8884-ea68461d7f47",
+  "kind": "philosophical",
+  "epistemic_status": "hypothesized",
+  "title": "Answer: a conscious moment integrates over space at one instant",
+  "statements": [
+    {
+      "id": "dfb53d8f-d878-4633-b38e-e297e2fc9399",
+      "text": "The theory takes time from ordinary physics and offers no theory of it. What it adds is the contrast between temporal integration, which neurons and computers do step by step, and the integration of information across space at a single moment, which fields do and consciousness is.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "dfb53d8f-d878-4633-b38e-e297e2fc9399",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "f0c60d5f-9d43-4f34-b442-f38b3ffcf271",
+        "locator": "p. 4",
+        "quote": "physical systems that encode information integrated over space in a single moment of time"
+      }
+    ]
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "record": "proposition",
+  "id": "5d3a2b07-6545-4fd0-ad0a-be60da269014",
+  "kind": "philosophical",
+  "epistemic_status": "hypothesized",
+  "title": "Answer: information is quantum, experienced from within, and meaningful only to consciousness",
+  "statements": [
+    {
+      "id": "1ec433c7-31fa-44a1-80ef-6cae35dacd13",
+      "text": "The information of consciousness is quantum information, experienced by the system that holds it. Shannon information measures symbols without meaning, and a symbol without meaning is only a signal, so meaning, the inner semantic side of information, exists only because there is consciousness.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "1ec433c7-31fa-44a1-80ef-6cae35dacd13",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "6fe53ccc-970a-4952-8f73-fed7c748e93b",
+        "locator": "section 'Information and Symbols'",
+        "quote": "a symbol without meaning is just a signal"
+      },
+      {
+        "source": "4a842576-1434-482e-9bd8-b970f99a257b",
+        "locator": "p. 5",
+        "quote": "P2’: Quantumness of experience: The information theory of consciousness is quantum theory."
+      }
+    ]
+  }
+}

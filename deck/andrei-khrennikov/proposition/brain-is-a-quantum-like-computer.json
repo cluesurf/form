@@ -1,0 +1,45 @@
+{
+  "record": "proposition",
+  "id": "088717cd-dd6e-477f-a554-ec67aa630311",
+  "kind": "empirical",
+  "epistemic_status": "hypothesized",
+  "title": "The brain is a quantum-like computer",
+  "statements": [
+    {
+      "id": "ff0f3e3d-1da8-413e-9885-96149b1dd6ee",
+      "text": "The brain developed the ability to create a quantum-like representation of contexts, so its functioning can be described by the formalism of quantum mechanics, while the physical basis of mental functions is given by neural networks.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "ff0f3e3d-1da8-413e-9885-96149b1dd6ee",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "2f180ea7-97cb-44bd-b806-14b03fd4ba33",
+        "locator": "abstract",
+        "quote": "The brain is an advanced device which developed the ability to create a QL representation of contexts. Therefore its functioning can also be described by the mathematical formalism of QM"
+      }
+    ]
+  }
+}

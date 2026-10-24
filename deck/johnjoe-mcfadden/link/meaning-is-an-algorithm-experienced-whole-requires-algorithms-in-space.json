@@ -1,0 +1,28 @@
+{
+  "record": "link",
+  "id": "04389d01-5140-411d-aec9-e63b8d343c70",
+  "from": "c314b331-a0e6-4849-b60e-3aa3906ccb83",
+  "to": "f3328fe9-a19d-4e14-8c3c-f65ab7c30bee",
+  "relation": "requires",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "f0c60d5f-9d43-4f34-b442-f38b3ffcf271",
+        "locator": "p. 11",
+        "quote": "meaning is an algorithm experienced, in its entirety from problem to its solution, as a single percept in the global workspace of brain’s EM field"
+      }
+    ]
+  }
+}

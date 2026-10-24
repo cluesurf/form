@@ -1,0 +1,33 @@
+{
+  "record": "link",
+  "id": "9026c600-ad21-4554-98de-ef0d1ed3e642",
+  "from": "8a013ba2-61a0-491a-80bc-0402351bfa39",
+  "to": "1adc0f33-e9b7-4c2f-ab39-df92eac1c139",
+  "relation": "answers",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "4a842576-1434-482e-9bd8-b970f99a257b",
+        "locator": "p. 4",
+        "quote": "P1: psychoinformational principle: Consciousness is the information-system’s experience of its own information state and processing."
+      },
+      {
+        "source": "6fe53ccc-970a-4952-8f73-fed7c748e93b",
+        "locator": "section 'The Properties of the Consciousness Units'",
+        "quote": "Consciousness is the capacity to perceive and know (comprehend) itself and the other CUs."
+      }
+    ]
+  }
+}

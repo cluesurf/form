@@ -1,0 +1,45 @@
+{
+  "record": "proposition",
+  "id": "2db14f47-2b95-4934-8041-14a19c501b1f",
+  "kind": "philosophical",
+  "epistemic_status": "inferred",
+  "title": "Answer: ordinary quantum mechanics of nuclear spins and molecules",
+  "statements": [
+    {
+      "id": "9367b697-6402-40cf-906c-07caa2de8cad",
+      "text": "The proposal adds no new physics: it uses the quantum mechanics of nuclear spins and of small symmetric molecules, taken seriously at body temperature, as the basis for any quantum processing in the brain.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "9367b697-6402-40cf-906c-07caa2de8cad",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "2d913a63-3172-4638-913a-6d51211985cc",
+        "locator": "abstract",
+        "quote": "and argue that in many situations a full quantum treatment of collective nuclear degrees of freedom is essential"
+      }
+    ]
+  }
+}

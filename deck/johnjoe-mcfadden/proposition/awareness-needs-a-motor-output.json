@@ -1,0 +1,45 @@
+{
+  "record": "proposition",
+  "id": "1a0235d9-3c02-4086-b5ef-c20f8d1bbf24",
+  "kind": "philosophical",
+  "epistemic_status": "hypothesized",
+  "title": "Only fields with access to a motor system are conscious",
+  "statements": [
+    {
+      "id": "96c84d3d-c46c-4d1e-aa01-b73c07b9d5ce",
+      "text": "Awareness is meaningless unless it can communicate, so only fields with access to a motor system, such as the cemi field, are candidates for a scientific notion of consciousness.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "96c84d3d-c46c-4d1e-aa01-b73c07b9d5ce",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "f0c60d5f-9d43-4f34-b442-f38b3ffcf271",
+        "locator": "p. 11",
+        "quote": "only fields that have access to a motor system, such as the cemi field, are candidates for any scientific notion of consciousness"
+      }
+    ]
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "record": "proposition",
+  "id": "dd67d04d-6abe-4a43-810e-6de35d18772d",
+  "kind": "philosophical",
+  "epistemic_status": "inferred",
+  "title": "Critique: brain mechanisms fully suffice",
+  "statements": [
+    {
+      "id": "7fa4afcb-f8b9-41bf-8a1e-7b8ebe6f3c75",
+      "text": "Most neuropsychological research assumes that brain mechanisms alone fully explain all psychologically described phenomena, so terms such as feeling and effort are left out as causes.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "7fa4afcb-f8b9-41bf-8a1e-7b8ebe6f3c75",
+  "status": "active",
+  "voice": "critique",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "ef38cbe5-37ff-4520-95e5-5b30c582458e",
+        "locator": "long abstract",
+        "quote": "brain mechanisms per se fully suffice to explain all psychologically described phenomena"
+      }
+    ]
+  }
+}

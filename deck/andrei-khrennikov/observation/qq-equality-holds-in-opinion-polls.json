@@ -1,0 +1,39 @@
+{
+  "record": "observation",
+  "id": "b539b543-05fe-4e03-a8a0-549c60dd6757",
+  "kind": "statistical_result",
+  "epistemic_status": "observed",
+  "description": "As reported by Fuyama, Khrennikov and Ozawa, Wang and Busemeyer showed that the QQ-equality holds for a large body of data from social opinion polls.",
+  "method": "document_review",
+  "status": "reported",
+  "source": "0035706c-b4e2-4f8f-9dfd-90139acf6466",
+  "procedure": null,
+  "variable": null,
+  "value": null,
+  "unit": null,
+  "uncertainty": null,
+  "sample_size": null,
+  "replication_count": null,
+  "quality": null,
+  "limitations": "Reported second hand from Wang and Busemeyer.",
+  "conflicts_of_interest": null,
+  "observed_at": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "0035706c-b4e2-4f8f-9dfd-90139acf6466",
+        "locator": "section 1",
+        "quote": "this equality was derived for P-measurements and it was demonstrated that it holds for a plenty of data from social opinion polls"
+      }
+    ]
+  }
+}

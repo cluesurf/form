@@ -1,0 +1,55 @@
+{
+  "record": "proposition",
+  "id": "4785b0aa-8c18-4d84-b682-236fbaf0cd84",
+  "kind": "philosophical",
+  "epistemic_status": "hypothesized",
+  "title": "Answer: experience is derived, feelings with algorithmic reasons in a system of matter",
+  "statements": [
+    {
+      "id": "0abda0cf-d96f-47e8-b508-1d72667f6df5",
+      "text": "Matter As Machine gives no separate account of consciousness, and reads feelings as parts of an algorithm. People consist of matter, matter executes an algorithm, so people execute algorithms too. Happiness, eureka moments, depression, obsessions and changing goals may all have algorithmic reasons, and instincts generate the desires that feel like a person's own. Experience is in this reading derived, a high-level effect of execution, and the site does not say why execution is felt.",
+      "language": "en",
+      "scope": "the public pages of matterasmachine.com",
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "0abda0cf-d96f-47e8-b508-1d72667f6df5",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "8103813e-0395-422a-b13a-8d91e58a2d3b",
+        "locator": "how the project turned to physics",
+        "quote": "Our happiness, eureka moments, depression, obsessions, and changing goals may all have algorithmic reasons."
+      },
+      {
+        "source": "8103813e-0395-422a-b13a-8d91e58a2d3b",
+        "locator": "how the project turned to physics",
+        "quote": "If matter executes an algorithm, and we consist of matter, then we execute algorithms as well."
+      },
+      {
+        "source": "f3e6ee97-7549-4229-b6b8-abac921056c6",
+        "locator": "closing",
+        "quote": "These desires feel like our own, but they are also ways our biology directs our behavior."
+      }
+    ]
+  }
+}

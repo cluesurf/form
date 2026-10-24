@@ -1,0 +1,45 @@
+{
+  "record": "proposition",
+  "id": "d2ed3d32-acc8-4e64-8661-1001ca249bbf",
+  "kind": "philosophical",
+  "epistemic_status": "hypothesized",
+  "title": "Metathought is Turing non-computable and needs a quantum metalanguage",
+  "statements": [
+    {
+      "id": "cebde415-7c47-44f7-989e-83ae1ea10186",
+      "text": "Besides ordinary thought there is metathought, thinking about thought, which is Turing non-computable: it is formalized as a quantum metalanguage that controls the logic of the quantum mode and requires a quantum version of Tarski's Convention T, which bears on Penrose's conjecture from Gödel's theorem.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "cebde415-7c47-44f7-989e-83ae1ea10186",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "7a402f8b-3b1f-45e0-b6bd-6942c2daab7a",
+        "locator": "abstract",
+        "quote": "This is methatought, the process of thinking about ordinary thought"
+      }
+    ]
+  }
+}

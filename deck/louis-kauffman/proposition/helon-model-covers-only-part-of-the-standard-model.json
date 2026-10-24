@@ -1,0 +1,45 @@
+{
+  "record": "proposition",
+  "id": "7b7e19f0-7ac2-4520-b5a9-08b88cb1add5",
+  "kind": "empirical",
+  "epistemic_status": "inferred",
+  "title": "The helon model captures only the color and electromagnetic sector",
+  "statements": [
+    {
+      "id": "0876b089-3949-46f5-89ae-40873cab64ac",
+      "text": "The helon preon model captures only the $SU(3)_c \\times U(1)_{em}$ sector of the standard model.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "0876b089-3949-46f5-89ae-40873cab64ac",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "73136f8b-ab7b-4b97-8e87-cbfa0fd47f77",
+        "locator": "abstract",
+        "quote": "We note that this model captures only the SU (3)c × U (1)em sector of the standard model"
+      }
+    ]
+  }
+}

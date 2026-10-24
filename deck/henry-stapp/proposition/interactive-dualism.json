@@ -1,0 +1,45 @@
+{
+  "record": "proposition",
+  "id": "d535502d-f272-4568-8246-1d64e1991079",
+  "kind": "philosophical",
+  "epistemic_status": "hypothesized",
+  "title": "Each event joins a physical and a mental line of causation",
+  "statements": [
+    {
+      "id": "2fb14cc8-1ec1-4faa-8028-5f7a425bbd10",
+      "text": "Closing the causal gap this way gives two parallel lines of causation: a physical line under the Schrodinger equation that generates potentialities, and a mental line that carries the intention of an earlier experience into the attention of a later one. The two join as the physical and mental poles of each quantum event.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "2fb14cc8-1ec1-4faa-8028-5f7a425bbd10",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "de10839f-7550-4565-a920-4405a14753fe",
+        "locator": "section on the Heisenberg Choice",
+        "quote": "These two causal strands, one physical and one mental, join to form the physical and mental poles of a succeeding quantum event."
+      }
+    ]
+  }
+}

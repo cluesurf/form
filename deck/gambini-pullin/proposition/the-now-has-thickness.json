@@ -1,0 +1,45 @@
+{
+  "record": "proposition",
+  "id": "2c4dbf9e-7aa9-4db7-97a2-74967c7316a5",
+  "kind": "philosophical",
+  "epistemic_status": "hypothesized",
+  "title": "Prehensions take time, so the felt now has thickness",
+  "statements": [
+    {
+      "id": "7ca8de1c-4e4a-481e-943f-be46c954a513",
+      "text": "Prehensions are not instantaneous but have temporal extent, which accounts for the temporality of experience: the now has a thickness, and a melody is heard as a sequence retained in the present, as in Husserl’s retention and protention.",
+      "language": "en",
+      "scope": null,
+      "conditions": null,
+      "falsification_criteria": null,
+      "previous": null,
+      "change_reason": null,
+      "written_at": "2026-10-24"
+    }
+  ],
+  "current_statement": "7ca8de1c-4e4a-481e-943f-be46c954a513",
+  "status": "active",
+  "voice": "framework",
+  "defines": null,
+  "question": null,
+  "prediction": null,
+  "standing": null,
+  "origin": null,
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "c2ffb9d7-7445-4825-9bd5-b4647158960b",
+        "locator": "p. 19",
+        "quote": "As we have observed, prehensions are not instantaneous and have a certain temporal extension."
+      }
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "record": "link",
+  "id": "e748095c-137a-476f-84ed-2eb08ee7cc1a",
+  "from": "dceaac36-ce56-4e3f-b800-f28ba1ed5994",
+  "to": "455dff7d-b66c-449d-b2d7-52521b99cba5",
+  "relation": "answers",
+  "strength": null,
+  "rationale": null,
+  "rule": null,
+  "status": "accepted",
+  "provenance": {
+    "written_by": "Lance Pollard",
+    "written_at": "2026-10-24",
+    "tool": "claude_code",
+    "model": "claude-opus-5-5",
+    "ai_written": true,
+    "reviewed": false,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "sources": [
+      {
+        "source": "4a842576-1434-482e-9bd8-b970f99a257b",
+        "locator": "section 1, p. 3",
+        "quote": "the physical world emerges from an underlying algorithm"
+      }
+    ]
+  }
+}
